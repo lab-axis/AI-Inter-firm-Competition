@@ -1,0 +1,668 @@
+ ITEM 2. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended March 31, 2017, December 30, 2016 and April 1, 2016, referred to herein as the &#147;March 2017 quarter,&#148; the &#147;December 2016 quarter,&#148; and the &#147;March 2016 quarter,&#148; respectively. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The March 2017, December 2016 and March 2016 quarters were all 13 weeks. 
+
+You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. Unless the context indicates otherwise, as used herein, the terms &#147;we,&#148; &#147;us,&#148; &#147;Seagate,&#148; the &#147;Company&#148; and &#147;our&#148; refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries. References to &#147;$&#148; are to United States dollars. 
+
+Some of the statements and assumptions included in this Quarterly Report on Form 10-Q are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, in particular, statements about our plans, strategies, growth prospects, demand for our products, our ability to effectively manage our debt obligations, our restructuring efforts, cost saving projections and estimates of industry growth for the fiscal quarter ending June 30, 2017 and the fiscal year ending June 30, 2017 and beyond. These statements identify prospective information and may include words such as &#147;expects,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;anticipates,&#148; &#147;believes,&#148; &#147;estimates,&#148; &#147;predicts,&#148; &#147;projects,&#148; &#147;may,&#148; &#147;will,&#148; or negative of these words, variations of these words and comparable terminology. These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on management&#146;s current views and assumptions. These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition and include, but are not limited to: any regulatory, legal, logistical or other impediments to our ability to execute on our restructuring efforts, changes to the assumptions on which any restructuring related charges are based; our ability to achieve projected cost savings in connection with restructuring plans and consolidation of our manufacturing activities; the impact of the variable demand and adverse pricing environment for disk drives; our ability to successfully qualify, manufacture and sell our disk drive products in increasing volumes on a cost-effective basis and with acceptable quality, particularly the new disk drive products with lower cost structures; the impact of competitive product announcements and unexpected advances in competing technologies or changes in market trends; possible excess industry supply with respect to particular disk drive products; disruptions to our supply chain or production capabilities; the development and introduction of products based on new technologies and expansion into new data storage markets; our ability to comply with certain covenants in our credit facilities with respect to financial ratios and financial condition tests; currency fluctuations that may impact the Company&#146;s margins and international sales; cyber-attacks or other data breaches that disrupt our operations or result in the dissemination of proprietary or confidential information and cause reputational harm; and fluctuations in interest rates. We also encourage you to read our Annual Report on Form 10-K for the fiscal year ended July 1, 2016 which contains detailed information concerning risks, uncertainties and other factors that could cause results to differ materially from those projected in the forward-looking statements herein. These forward-looking statements should not be relied upon as representing our views as of any subsequent date and we undertake no obligation to update forward-looking statements to reflect events or circumstances after the date they were made. 
+
+Our Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations (&#147;MD&#38;A&#148;) is provided in addition to the accompanying condensed consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition, and cash flows. Our MD&#38;A is organized as follows: 
+
+&#160;
+
+&#160; &#149; &#160; Our Company. Overview of our business. &#160;
+
+&#160; &#149; &#160; Overview of the March 2017 quarter. Highlights of events in the March 2017 quarter that impacted our financial position. &#160;
+
+&#160; &#149; &#160; Results of Operations. An analysis of our financial results comparing the March 2017 quarter to the December 2016 quarter and the March 2016 quarter. &#160;
+
+&#160; &#149; &#160; Liquidity and Capital Resources. An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity. &#160;
+
+&#160; &#149; &#160; Critical Accounting Policies. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. &#160;
+
+Our Company 
+
+We are a leading provider of electronic data storage technology and solutions. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of electronic data storage products including solid state drives (&#147;SSD&#148;) in our Enterprise market portfolio and solid state hybrid drives (&#147;SSHD&#148;). Our storage technology portfolio also includes storage subsystems, and high performance computing (&#147;HPC&#148;) solutions. 
+
+Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND-based flash memory. In addition to HDDs and SSDs, SSHDs combine the features of SSDs and HDDs in the same unit, containing a large hard disk drive and an SSD cache to improve performance of frequently accessed data. 
+
+Our products are designed for mission critical and nearline applications in enterprise servers and storage systems; client compute applications, where our products are designed primarily for desktop and mobile computing; and client non-compute applications, where our products are designed for a wide variety of end user devices such as portable external storage systems, personal data backup systems, surveillance systems, digital video recorders (&#147;DVRs&#148;) and gaming consoles. 
+
+Our Cloud Systems and Solutions product portfolio builds on the Seagate legacy to extend innovation from the device into the information infrastructure, onsite and in the cloud. This product portfolio includes HPC storage solutions, modular original equipment manufacturers (&#147;OEM&#148;) storage systems and scale-out storage systems. 
+
+Overview of the March 2017 Quarter 
+
+During the March 2017 quarter, we shipped 65 exabytes of storage capacity, generating revenue of approximately $2.7 billion and gross margin of 31%. Our operating cash flow was $426 million. We issued $750 million of 4.25% Senior Notes due 2022 and $500 million of 4.875% Senior Notes due 2024, paid $97 million for the repurchase of our outstanding debt, as well as paid $186 million in dividends. 
+
+Results of Operations 
+
+We list in the tables below summarized information from our Condensed Consolidated Statements of Operations by dollars and as a percentage of revenue: 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; Revenue
+
+&#160; $ 2,674 &#160; &#160; $ 2,894 &#160; &#160; $ 2,595 &#160; &#160; $ 8,365 &#160; &#160; $ 8,506 &#160; Cost of revenue
+
+&#160; &#160; 1,858 &#160; &#160; &#160; 2,003 &#160; &#160; &#160; 2,071 &#160; &#160; &#160; 5,857 &#160; &#160; &#160; 6,553 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Gross margin
+
+&#160; &#160; 816 &#160; &#160; &#160; 891 &#160; &#160; &#160; 524 &#160; &#160; &#160; 2,508 &#160; &#160; &#160; 1,953 &#160; Product development
+
+&#160; &#160; 324 &#160; &#160; &#160; 305 &#160; &#160; &#160; 298 &#160; &#160; &#160; 944 &#160; &#160; &#160; 930 &#160; Marketing and administrative
+
+&#160; &#160; 150 &#160; &#160; &#160; 155 &#160; &#160; &#160; 150 &#160; &#160; &#160; 457 &#160; &#160; &#160; 491 &#160; Amortization of intangibles
+
+&#160; &#160; 28 &#160; &#160; &#160; 28 &#160; &#160; &#160; 29 &#160; &#160; &#160; 85 &#160; &#160; &#160; 94 &#160; Restructuring and other, net
+
+&#160; &#160; 48 &#160; &#160; &#160; 33 &#160; &#160; &#160; 20 &#160; &#160; &#160; 164 &#160; &#160; &#160; 95 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Income from operations
+
+&#160; &#160; 266 &#160; &#160; &#160; 370 &#160; &#160; &#160; 27 &#160; &#160; &#160; 858 &#160; &#160; &#160; 343 &#160; Other expense, net
+
+&#160; &#160; (54 ) &#160; &#160; (60 ) &#160; &#160; (18 ) &#160; &#160; (163 ) &#160; &#160; (122 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Income before income taxes
+
+&#160; &#160; 212 &#160; &#160; &#160; 310 &#160; &#160; &#160; 9 &#160; &#160; &#160; 695 &#160; &#160; &#160; 221 &#160; Provision for income taxes
+
+&#160; &#160; 18 &#160; &#160; &#160; 13 &#160; &#160; &#160; 30 &#160; &#160; &#160; 37 &#160; &#160; &#160; 43 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Net income (loss)
+
+&#160; $ 194 &#160; &#160; $ 297 &#160; &#160; $ (21 ) &#160; $ 658 &#160; &#160; $ 178 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; &#160; &#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; Revenue
+
+&#160; &#160; 100 % &#160; &#160; 100 % &#160; &#160; 100 % &#160; &#160; 100 % &#160; &#160; 100 % Cost of revenue
+
+&#160; &#160; 69 &#160; &#160; &#160; 69 &#160; &#160; &#160; 80 &#160; &#160; &#160; 70 &#160; &#160; &#160; 77 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Gross margin
+
+&#160; &#160; 31 &#160; &#160; &#160; 31 &#160; &#160; &#160; 20 &#160; &#160; &#160; 30 &#160; &#160; &#160; 23 &#160; Product development
+
+&#160; &#160; 12 &#160; &#160; &#160; 11 &#160; &#160; &#160; 11 &#160; &#160; &#160; 11 &#160; &#160; &#160; 11 &#160; Marketing and administrative
+
+&#160; &#160; 6 &#160; &#160; &#160; 5 &#160; &#160; &#160; 6 &#160; &#160; &#160; 6 &#160; &#160; &#160; 6 &#160; Amortization of intangibles
+
+&#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; 1 &#160; Restructuring and other, net
+
+&#160; &#160; 2 &#160; &#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; 2 &#160; &#160; &#160; 1 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Income from operations
+
+&#160; &#160; 10 &#160; &#160; &#160; 13 &#160; &#160; &#160; 1 &#160; &#160; &#160; 10 &#160; &#160; &#160; 4 &#160; Other expense, net
+
+&#160; &#160; (2 ) &#160; &#160; (2 ) &#160; &#160; (1 ) &#160; &#160; (2 ) &#160; &#160; (1 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Income before income taxes
+
+&#160; &#160; 8 &#160; &#160; &#160; 11 &#160; &#160; &#160; &#151; &#160; &#160; &#160; 8 &#160; &#160; &#160; 3 &#160; Provision for income taxes
+
+&#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; &#151; &#160; &#160; &#160; 1 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Net income (loss)
+
+&#160; &#160; 7 % &#160; &#160; 10 % &#160; &#160; (1 )% &#160; &#160; 8 % &#160; &#160; 2 % &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Revenue 
+
+The following table summarizes HDD information regarding average drive selling prices (&#147;ASPs&#148;), exabytes shipped, and revenues by channel and geography: 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; &#160; &#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; ASPs (per unit)
+
+&#160; $ 67 &#160; &#160; $ 66 &#160; &#160; $ 60 &#160; &#160; $ 67 &#160; &#160; $ 59 &#160; Exabytes Shipped
+
+&#160; &#160; 65 &#160; &#160; &#160; 68 &#160; &#160; &#160; 56 &#160; &#160; &#160; 200 &#160; &#160; &#160; 171 &#160; Revenues by Channel (%)
+
+&#160; &#160; &#160; &#160; &#160; OEMs
+
+&#160; &#160; 66 % &#160; &#160; 66 % &#160; &#160; 69 % &#160; &#160; 67 % &#160; &#160; 69 % Distributors
+
+&#160; &#160; 19 % &#160; &#160; 18 % &#160; &#160; 16 % &#160; &#160; 18 % &#160; &#160; 17 % Retailers
+
+&#160; &#160; 15 % &#160; &#160; 16 % &#160; &#160; 15 % &#160; &#160; 14 % &#160; &#160; 14 % Revenues by Geography (%)
+
+&#160; &#160; &#160; &#160; &#160; Americas
+
+&#160; &#160; 30 % &#160; &#160; 30 % &#160; &#160; 30 % &#160; &#160; 31 % &#160; &#160; 28 % EMEA
+
+&#160; &#160; 17 % &#160; &#160; 19 % &#160; &#160; 17 % &#160; &#160; 17 % &#160; &#160; 18 % Asia Pacific
+
+&#160; &#160; 53 % &#160; &#160; 51 % &#160; &#160; 53 % &#160; &#160; 52 % &#160; &#160; 54 % Revenue in the March 2017 quarter decreased by $220 million from the December 2016 quarter as a result of a decrease in exabytes shipped driven primarily by higher seasonal demand in the December 2016 quarter and price erosion, partially offset by favorable product mix. 
+
+Revenue in the March 2017 quarter increased by $79 million from the March 2016 quarter primarily as a result of improved product mix translating to an increase in exabytes shipped. Revenue for the nine months ended March 31, 2017 decreased by $141 million from the nine months ended April 1, 2016 as a result of the impact of price erosion, partially offset by improved product mix translating to an increase in exabytes shipped. 
+
+We maintain various sales programs such as channel rebates and price masking. Sales programs were approximately at 11%, 11% and 14% of gross drive revenue for the March 2017 quarter, December 2016 quarter and March 2016 quarter, respectively. Adjustments to revenues due to under or over accruals for sales programs related to revenues reported in prior quarterly periods were less than 1% of quarterly gross revenue in all periods presented. 
+
+&#160;
+
+Cost of Revenue and Gross Margin 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; Cost of revenue
+
+&#160; $ 1,858 &#160; &#160; $ 2,003 &#160; &#160; $ 2,071 &#160; &#160; $ 5,857 &#160; &#160; $ 6,553 &#160; Gross margin
+
+&#160; &#160; 816 &#160; &#160; &#160; 891 &#160; &#160; &#160; 524 &#160; &#160; &#160; 2,508 &#160; &#160; &#160; 1,953 &#160; Gross margin percentage
+
+&#160; &#160; 31 % &#160; &#160; 31 % &#160; &#160; 20 % &#160; &#160; 30 % &#160; &#160; 23 % Gross margin as a percentage of revenue for the March 2017 quarter remained flat from the December 2016 quarter. Compared to the March 2016 quarter, gross margin as a percentage of revenue increased by 1,100 basis points driven by favorable product mix, and improved utilization of factories resulting from cost savings due to our ongoing workforce reductions and manufacturing consolidation activities, partially offset by price erosion. 
+
+Compared to the nine months ended April 1, 2016, gross margin for the nine months ended March 31, 2017 increased by 700 basis points due to a favorable product mix, and improved utilization of factories resulting from cost savings due to our ongoing workforce reductions and manufacturing consolidation activities, partially offset by price erosion. 
+
+In the March 2017 quarter, total warranty cost was in the historical range of 1% to 1.5% of revenue and included a favorable change in estimates of prior warranty accruals of less than 0.5% of revenue. Warranty cost related to new shipments was 1.2%, 1.2%, and 1.1% of revenue for each of the March 2017, December 2016 and March 2016 quarters, respectively. 
+
+Operating Expenses 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; Product development
+
+&#160; $ 324 &#160; &#160; $ 305 &#160; &#160; $ 298 &#160; &#160; $ 944 &#160; &#160; $ 930 &#160; Marketing and administrative
+
+&#160; &#160; 150 &#160; &#160; &#160; 155 &#160; &#160; &#160; 150 &#160; &#160; &#160; 457 &#160; &#160; &#160; 491 &#160; Amortization of intangibles
+
+&#160; &#160; 28 &#160; &#160; &#160; 28 &#160; &#160; &#160; 29 &#160; &#160; &#160; 85 &#160; &#160; &#160; 94 &#160; Restructuring and other, net
+
+&#160; &#160; 48 &#160; &#160; &#160; 33 &#160; &#160; &#160; 20 &#160; &#160; &#160; 164 &#160; &#160; &#160; 95 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Operating expenses
+
+&#160; $ 550 &#160; &#160; $ 521 &#160; &#160; $ 497 &#160; &#160; $ 1,650 &#160; &#160; $ 1,610 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Product development expense. Product development expense for the March 2017 quarter increased by $19 million from the December 2016 quarter due to a $26 million increase in impairment charges related to the closure of the Korea design center and $14 million increase in employee related benefits primarily due to increased use of vacation in the December 2016 quarter, partially offset by a $20 million increase in operational efficiencies in our business and a decrease in variable compensation. 
+
+Compared to the March 2016 quarter, product development expense increased by $26 million due to a $26 million increase in impairment charges related to the closure of Korea design center and $22 million increase in variable compensation driven by improved financial performance, offset by a decrease of $25 million due to an increase in operational efficiencies in our business and a decrease in salaries and related benefits as a result of the restructuring of our workforce in prior periods. 
+
+Product development expense for the nine months ended March 31, 2017 increased by $14 million as compared to the corresponding period in the prior year due to a $26 million increase in impairment charges related to the closure of Korea design center, an increase in variable compensation and share-based compensation of $66 million driven by better financial performance, offset by an $81 million decrease in salaries and related benefits as a result of an increase in operational efficiencies in our business and the restructuring of our workforce in the prior periods. 
+
+Marketing and administrative expense. Marketing and administrative expense for the March 2017 quarter decreased by $5 million from the December 2016 quarter primarily due to an increase in operational efficiencies in our business. Marketing and administrative expense remained flat from the March 2016 quarter. 
+
+Marketing and administrative expense for the nine months ended March 31, 2017 decreased by $34 million compared to the corresponding period in the prior year due to a decrease in salaries and related benefits of $46 million as a result of the restructuring of our workforce in prior periods, a $34 million reduction resulting from an increase in operational efficiencies in our business and the completion of certain promotional and branding activities in fiscal year 2016, partially offset by a $48 million increase in variable compensation and share-based compensation driven by better financial performance. 
+
+&#160;
+
+Amortization of intangibles. Amortization of intangibles for the March 2017 quarter remained flat from the December 2016 quarter and March 2016 quarter. 
+
+Amortization of intangibles for the nine months ended March 31, 2017 decreased by $9 million as compared to the corresponding period in the prior year due to certain intangible assets reaching the end of their useful life. 
+
+Restructuring and other, net. Restructuring and other, net for the three and nine months ended March 31, 2017 was comprised primarily of restructuring charges to reduce our global workforce by 300 and 6,800 employees respectively, as we continue to consolidate our global footprint across Asia, EMEA and the Americas. 
+
+Restructuring and other, net for the three and nine months ended April 1, 2016 was comprised primarily of a restructuring charge recorded for February 2016 Plan and the September 2015 Plan to reduce our workforce by approximately 2,000 and 1,000 employees respectively, as a result of our ongoing focus on cost efficiencies in all areas of our business, which were largely completed during fiscal year 2016. See &#147;Part I, Item 1. Financial Statements-Note 7. Restructuring and Exit Costs&#148; for more details. 
+
+Other Expense, Net 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; Other expense, net
+
+&#160; $ (54 ) &#160; $ (60 ) &#160; $ (18 ) &#160; $ (163 ) &#160; $ (122 ) Other expense, net decreased by $6 million from the December 2016 quarter, due to a $25 million charge related to the impairment of a strategic investment in the December 2016 quarter and a $4 million increase in earnings from strategic investments in the March 2017 quarter, partially offset by increase of $27 million expense in the March 2017 quarter including a $17 million change from unfavorable foreign currency changes in foreign exchange rates and $10 million interest expense on the issuance of $750 million of 4.25% Senior Notes due 2022 and $500 million of 4.875% Senior Notes due 2024. 
+
+Compared to the March 2016 quarter, Other expense, net increased by $36 million primarily due to the $33 million final payment of unpaid interest on the arbitration award amount in the Company&#146;s case against Western Digital in the March 2016 quarter, a $10 million interest expense on the issuance of $750 million of 4.25% Senior Notes due 2022 and $500 million of 4.875% Senior Notes due 2024, partially offset by favorable foreign currency changes in foreign exchange rates and a $4 million increase in earnings from strategic investments. 
+
+Other expense, net for the nine months ended March 31, 2017 increased by $41 million from the corresponding period in the prior year primarily due to the $33 million final payment of unpaid interest on the arbitration award amount in the Company&#146;s case against Western Digital in the March 2016 quarter, a $13 million increase related to the impairment of certain strategic investments, $10 million interest expense on the issuance of $750 million of 4.25% Senior Notes due 2022 and $500 million of 4.875% Senior Notes due 2024, offset by $14 million foreign currency remeasurement related to favorable foreign currency changes in foreign exchange rates. 
+
+Income Taxes 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; For the Three Months Ended &#160; &#160; For the Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; March 31, 2017 &#160; &#160; December 30, 2016 &#160; &#160; April 1, 2016 &#160; &#160; March 31, 2017 &#160; &#160; April 1, 2016 &#160; Provision for income taxes
+
+&#160; $ 18 &#160; &#160; $ 13 &#160; &#160; $ 30 &#160; &#160; $ 37 &#160; &#160; $ 43 &#160; Our income tax provision of $18 million and $37 million in the three and nine months ended March 31, 2017 included approximately $8 million of net discrete tax expense and approximately $3 million of net discrete tax expense, respectively. These discrete items are primarily associated with changes in valuation allowances offset by the release of tax reserves due to the expiration of certain statutes of limitation, and prior year tax adjustments. 
+
+Our income tax provision recorded for the March 2017 quarter and for the first nine months of fiscal year 2017 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland, (ii) restructuring expenses with no associated tax benefits, and (iii) a net decrease in valuation allowance for certain deferred tax assets. 
+
+&#160;
+
+During the nine months ended March 31, 2017, our unrecognized tax benefits excluding interest and penalties increased by approximately $6 million to $76 million. The unrecognized tax benefits that, if recognized, would impact the effective tax rate were $76 million at March 31, 2017, subject to certain future valuation allowance reversals. During the 12 months beginning April 1, 2017, we expect that our unrecognized tax benefits could be reduced by approximately $13 million, primarily as a result of the expiration of certain statutes of limitation. 
+
+Our income tax provision recorded for the first nine months of fiscal year 2016 included approximately $2 million of net discrete tax provision associated with prior year tax adjustments offset by the release of tax reserves due to the expiration of certain statutes of limitation. 
+
+Our income tax provision recorded for the March 2016 quarter and for the first nine months of fiscal year 2016 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain U.S. deferred tax assets. The acquisition of Dot Hill Systems Corporation did not have a material impact on our effective tax rate in fiscal year 2016. 
+
+Liquidity and Capital Resources 
+
+The following sections discuss our principal liquidity requirements, as well as our sources and uses of cash and our liquidity and capital resources. Our cash and cash equivalents are maintained in investments with remaining maturities of 90 days or less at the time of purchase. Our short-term investments consist primarily of money market funds, time deposits and certificates of deposit. The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We believe our cash equivalents and short-term investments are liquid and accessible. We operate in some countries that have restrictive regulations over the movement of cash and/or foreign exchange across their borders. However, we believe our sources of cash have been and will continue to be sufficient to meet our cash needs for the next 12 months unimpeded by any restrictive regulations. We are not aware of any downgrades, losses or other significant deterioration in the fair value of our cash equivalents or short-term investments and we do not believe the fair value of our short-term investments has significantly changed from the values reported as of March 31, 2017. 
+
+Cash and Cash Equivalents and Short-term Investments 
+
+&#160;
+
+&#160; &#160; &#160; (Dollars in millions) 
+
+&#160; March 31, 2017 &#160; &#160; July 1, 2016 &#160; &#160; Change &#160; Cash and cash equivalents
+
+&#160; $ 3,026 &#160; &#160; $ 1,125 &#160; &#160; $ 1,901 &#160; Short-term investments
+
+&#160; &#160; &#151; &#160; &#160; &#160; 6 &#160; &#160; &#160; (6 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total
+
+&#160; $ 3,026 &#160; &#160; $ 1,131 &#160; &#160; $ 1,895 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Our cash and cash equivalents and short-term investments increased from July 1, 2016 as a result of an increase in net cash provided by operating activities and the proceeds from the issuance of $750 million of 4.25% Senior Notes due 2022 and $500 million of 4.875% Senior Notes due 2024. These cash inflows were partially offset by net cash outflows for capital expenditures, early redemption and repayments of long-term debt, repurchase of our ordinary shares and dividends paid to our shareholders. 
+
+Cash Provided by Operating Activities 
+
+Cash provided by operating activities for the nine months ended March 31, 2017 of $1,673 million includes the effects of net income adjusted for non-cash items including depreciation, amortization, share-based compensation, and: 
+
+&#160;
+
+&#160; &#149; &#160; a decrease of $165 million in accounts receivable, primarily due to a decrease in revenues and improved collection; and &#160;
+
+&#160; &#149; &#160; an increase of $124 million in accounts payable, primarily due to the timing of payments of material purchases; offset by &#160;
+
+&#160; &#149; &#160; an increase in inventory of $170 million primarily due to an increase in units built in connection with adjustments to our manufacturing footprint. Cash Used in Investing Activities 
+
+Cash used for investing activities for the nine months ended March 31, 2017 was $337 million and primarily attributable to the following activities: 
+
+&#160;
+
+&#160; &#149; &#160; $330 million used to acquire property, equipment and leasehold improvements. &#160;
+
+Cash Used in Financing Activities 
+
+Cash used in financing activities of $571 million for the nine months ended March 31, 2017 was primarily attributable to the following activities: 
+
+&#160;
+
+&#160; &#149; &#160; net proceeds of $1,232 million received from issuance of $750 million of 4.25% Senior Notes due 2022 and $500 million of 4.875% Senior Notes due 2024; &#160;
+
+&#160; &#149; &#160; $83 million in proceeds from the issuance of ordinary shares under employee stock plans, offset by; &#160;
+
+&#160; &#149; &#160; $374 million in dividend payments; &#160;
+
+&#160; &#149; &#160; $248 million paid to repurchase ordinary shares; &#160;
+
+&#160; &#149; &#160; $97 million of redemption and repayments of long-term debt; &#160;
+
+&#160; &#149; &#160; $25 million paid for taxes related to net share settlement of equity awards. Liquidity Sources, Cash Requirements and Commitments 
+
+Our primary sources of liquidity as of March 31, 2017 consisted of: (1) approximately $3.0 billion in cash and cash equivalents, (2) cash we expect to generate from operations and (3) a $700 million senior revolving credit facility. 
+
+As of March 31, 2017, no borrowings had been drawn under the revolving credit facility or had been utilized for letters of credit issued under this credit facility. The line of credit is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing. 
+
+The credit agreement that governs our revolving credit facility, as amended, includes three financial covenants: (1) minimum cash, cash equivalents and marketable securities; (2) a fixed charge coverage ratio; and (3) a net leverage ratio. On April 28, 2016, the Revolving Credit Agreement was amended in order to increase the allowable net leverage ratio to adjust for our current financial liquidity position. We were in compliance with the modified covenants as of March 31, 2017 and expect to be in compliance for the next 12 months. 
+
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control . However, we believe our sources of cash will continue to be sufficient to meet our cash needs for the next 12 months 
+
+For fiscal year 2017, we expect capital expenditures to be less than 5% of revenue. 
+
+From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or may repurchase outstanding notes pursuant to the terms of the applicable indenture. 
+
+Dividends declared in the March 2017 quarter of $187 million were subsequently paid on April 5, 2017. The Company&#146;s Board of Directors declared a quarterly cash dividend of $0.63 per share on April 26, 2017, which is payable on July 5, 2017 to shareholders of record at the close of business on June 21, 2017. 
+
+From time to time we may repurchase any of our outstanding ordinary shares through private, open market, or broker assisted purchases. As of March 31, 2017, $1.5 billion remained available for repurchase under our existing repurchase authorization limit. All repurchases are effected as redemptions in accordance with the Company&#146;s Articles of Association. 
+
+On March 15, 2017, we exercised our call option by providing notice of the redemption to the trustee of our intention to redeem all $158 million of our remaining outstanding 2021 Notes. The Notes will be redeemed on May 1, 2017 (the &#147;Redemption Date&#148;) at a redemption price equal to $102.333 per $100 principal amount of the 2021 Notes redeemed plus accrued interest to the Redemption Date. 
+
+&#160;
+
+Contractual Obligations and Commitments 
+
+Our contractual cash obligations and commitments as of March 31, 2017, have been summarized in the table below: 
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Fiscal Year(s) &#160; (Dollars in millions) 
+
+&#160; Total &#160; &#160; Remainder of 2017 &#160; &#160; 2018-2019 &#160; &#160; 2020-2021 &#160; &#160; Thereafter &#160; Contractual Cash Obligations:
+
+&#160; &#160; &#160; &#160; &#160; Long-term debt (including current portion)
+
+&#160; $ 5,286 &#160; &#160; $ 158 &#160; &#160; $ 761 &#160; &#160; $ &#151; &#160; &#160; $ 4,367 &#160; Interest payments on debt
+
+&#160; &#160; 1,974 &#160; &#160; &#160; 121 &#160; &#160; &#160; 467 &#160; &#160; &#160; 420 &#160; &#160; &#160; 966 &#160; Purchase obligations (2) 
+
+&#160; &#160; 1,554 &#160; &#160; &#160; 629 &#160; &#160; &#160; 750 &#160; &#160; &#160; 175 &#160; &#160; &#160; &#151; &#160; Operating leases (1) 
+
+&#160; &#160; 140 &#160; &#160; &#160; 6 &#160; &#160; &#160; 34 &#160; &#160; &#160; 20 &#160; &#160; &#160; 80 &#160; Capital expenditures
+
+&#160; &#160; 130 &#160; &#160; &#160; 130 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; Other funding requirements (3) 
+
+&#160; &#160; 36 &#160; &#160; &#160; 6 &#160; &#160; &#160; 22 &#160; &#160; &#160; 8 &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Subtotal
+
+&#160; &#160; 9,120 &#160; &#160; &#160; 1,050 &#160; &#160; &#160; 2,034 &#160; &#160; &#160; 623 &#160; &#160; &#160; 5,413 &#160; Commitments:
+
+&#160; &#160; &#160; &#160; &#160; Letters of credit or bank guarantees
+
+&#160; &#160; 102 &#160; &#160; &#160; 102 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total
+
+&#160; $ 9,222 &#160; &#160; $ 1,152 &#160; &#160; $ 2,034 &#160; &#160; $ 623 &#160; &#160; $ 5,413 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160;
+
+(1) Includes total future minimum rent expense under non-cancelable leases for both occupied and vacated facilities (rent expense is shown net of sublease income). 
+
+(2) Purchase obligations are defined as contractual obligations for the purchase of goods or services, which are enforceable and legally binding on us, and that specify all significant terms. (3) Consists of funding requirements related to strategic commitments. As of March 31, 2017, we had a liability for unrecognized tax benefits and an accrual for the payment of related interest totaling $14 million, none of which is expected to be settled within one year. Outside of one year, we are unable to make a reasonably reliable estimate of when cash settlement with a taxing authority will occur. 
+
+Critical Accounting Policies 
+
+Our discussion and analysis of financial condition and results of operations are based upon our Condensed Consolidated Financial Statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements. Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances. However, actual future results may vary from our estimates. 
+
+Since our fiscal year ended July 1, 2016, there have been no material changes in our critical accounting policies and estimates. Refer to &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; contained in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended July 1, 2016, as filed with the SEC on August 5, 2016, for a discussion of our critical accounting policies and estimates. 
+
+Recent Accounting Pronouncements 
+
+See &#147;Part I, Item 1. Financial Statements&#151;Note 1. Basis of Presentation and Summary of Significant Accounting Policies&#148; for information regarding the effect of new accounting pronouncements on our financial statements. 
+
+&#160;
+
+
+
+ ITEM 1A. RISK FACTORS There have been no material changes to the description of the risk factors associated with our business previously disclosed in Part I, Item 1A, &#147;Risk Factors&#148; in our Annual Report on Form 10-K for the year ended July 1, 2016. In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in our Annual Report on Form 10-K as they could materially affect our business, financial condition and future results. 
+
+The Risk Factors are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition or operating results. 
+
+&#160;
+

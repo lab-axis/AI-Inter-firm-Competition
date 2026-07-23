@@ -1,0 +1,840 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements 
+
+&#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading &#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+&#160; 
+
+All references to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and our subsidiaries, except where it is made clear that the term means only the parent company. 
+
+&#160; 
+
+NVIDIA, the NVIDIA logo, Ansel, GeForce, GeForce NOW, Iray, Maxwell, NVIDIA DRIVE, NVIDIA GRID, NVIDIA SHIELD, NVIDIA VRWorks, Pascal, Quadro, Tegra, and Tesla are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 6. Selected Financial Data&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 31, 2016 &#32;and &#8220;Item 1A. Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+&#32;25 
+
+Overview 
+
+&#160; 
+
+Our Company and Our Businesses 
+
+NVIDIA is the world leader in visual computing. NVIDIA has transformed into a specialized platform company that targets four large markets - Gaming, Professional Visualization, Datacenter and Automotive - where visual computing is essential and valued. 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying graphics architecture. From our proprietary processors, we have created platforms that address the four large markets where our visual computing expertise is critically important. We are focused on delivering value through PC, mobile and cloud architectures. Our vertical integration enables us to bring together hardware, system software, programmable algorithms, systems and services to create unique value for the markets we serve. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla for researchers and analysts focused on artificial intelligence, deep learning and big-data; and GRID for cloud-based visual computing users. &#32;Our Tegra brand integrates an entire computer onto a single chip, incorporating GPUs and multi-core CPUs aimed at online gaming and entertainment devices, as well as autonomous robots, drones and cars. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+First Quarter of Fiscal Year 2017 Summary 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(In millions, except per share data) 
+
+Revenue 
+
+$ 
+
+1,305 
+
+&#160; 
+
+$ 
+
+1,151 
+
+&#160; 
+
+% 
+
+Gross margin 
+
+57.5 
+
+% 
+
+&#160; 
+
+56.7 
+
+% 
+
+&#160; 
+
+80 bps 
+
+Operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Income from operations 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Net income per diluted share 
+
+$ 
+
+0.33 
+
+&#160; 
+
+$ 
+
+0.24 
+
+&#160; 
+
+% 
+
+Revenue grew 13% for the first quarter of fiscal year 2017 to $1.30 billion. GPU business revenue was $1.08 billion, up 15% from a year earlier, reflecting growth in GeForce Gaming GPU revenue. Tegra Processor business revenue of $160 million for the first quarter of fiscal year 2017 was up 10%, reflecting growth in Tegra automotive. 
+
+Gaming platform revenue was $687 million, up 17% from a year ago, as sales from all regions continued to provide growth. Professional visualization revenue from Quadro was $189 million, up 4% year over year. Datacenter revenue, including Tesla and NVIDIA GRID, was $143 million, up 63% from a year earlier, reflecting strong demand for GPU acceleration related to deep learning. Automotive revenue of $113 million from infotainment modules and product development contracts increased 47% from a year earlier. License revenue from our patent license agreement with Intel remained at $66 million. 
+
+Gross margin for the first quarter of fiscal year 2017 was 57.5%, up 80 basis points, led by the strength of our Maxwell GPUs, our platform approach, and demand for deep learning. 
+
+Operating expenses for the first quarter of fiscal year 2017 were $506 million, up 6% from a year earlier mainly resulting from higher compensation and benefits. Operating expenses for the first quarter of fiscal year 2017 included $6 million of legal settlement costs, $3 million of costs related to an advanced healthcare contribution, $1 million of restructuring and other charges, and $53 million in stock-based compensation and other charges. Income from operations for the first quarter of fiscal year 2017 was $245 million, up 39% from $176 million year over year. 
+
+&#32;26 
+
+Net income for the first quarter of fiscal year 2017 was $196 million and net income per diluted share was $0.33, up 46% and 38%, respectively, from a year earlier. These increases were driven by revenue and gross margin growth, partially offset by legal settlement costs, the advanced healthcare contribution, and restructuring and other charges. 
+
+During the first quarter of fiscal year 2017, we entered into a $500 million accelerated share repurchase agreement, or ASR, and paid $62 million in quarterly cash dividends. For fiscal year 2017, we intend to return approximately $1.00 billion to shareholders through share repurchases and quarterly cash dividends. 
+
+Cash, cash equivalents and marketable securities were $4.75 billion as of May 1, 2016, compared to $5.04 billion as of January 31, 2016, as growth in operating cash flow was offset by the quarterly cash dividend and the $500 million ASR agreement we entered into in the first quarter of fiscal year 2017. Cash flow from operating activities was $309 million during the first quarter of fiscal year 2017, up from $246 million a year earlier, primarily due to higher net income from revenue and gross margin growth. 
+
+&#32;&#32; GPU Business 
+
+During the first quarter of fiscal year 2017, we launched GeForce GTX 1080 and GTX 1070, based on our new NVIDIA Pascal architecture, expanded the NVIDIA VRWorks software development kit, and introduced NVIDIA Ansel, an in-game photography tool. We also unveiled the NVIDIA Tesla P100 GPU, based on the Pascal architecture, and revealed the NVIDIA DGX-1 supercomputer in a box, a purpose-built system for deep learning. In addition, we launched the 24GB Quadro M6000, the Quadro M2000, new NVIDIA Iray physically-based rendering solutions for the professional visualization markets, and unveiled Iray VR, which creates interactive, photorealistic virtual 3D worlds. 
+
+&#32;&#32;Tegra Processor Business 
+
+During the first quarter of fiscal year 2017, we expanded the NVIDIA SHIELD platform&#8217;s gaming content available for streaming from GeForce NOW. We introduced the HD Mapping platform for self-driving cars, and announced that NVIDIA DRIVE PX 2 will power all vehicles in ROBORACE, a new autonomous car-racing circuit expected to debut later this year. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Our Chief Executive Officer, who is considered to be our chief operating decision maker, or CODM, reviews financial information presented on an operating segment basis for purposes of making operating decisions and assessing financial performance. Our operating segments are equivalent to our reportable segments. 
+
+We report our business in two primary reportable segments - the GPU business and the Tegra Processor business - based on a unified underlying graphics architecture. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla for researchers and analysts focused on artificial intelligence, deep learning and big-data; and GRID for cloud-based visual computing users. 
+
+We have a single unifying architecture for our GPU and Tegra Processors. This architecture unification leverages our visual computing expertise by charging the operating expenses of certain core engineering functions to the GPU business, while charging the Tegra Processor business for the incremental cost of the teams working directly for that business. In instances where the operating expenses of certain functions benefit both reportable segments, our CODM assigns 100% of those expenses to the reportable segment that benefits the most. 
+
+The &#8220;All Other&#8221; category presented below represents the revenue and expenses that our CODM does not assign to either the GPU business or the Tegra Processor business for purposes of making operating decisions or assessing financial performance. The revenue includes primarily patent licensing revenue and the expenses include corporate infrastructure and support costs, stock-based compensation costs, legal settlement costs, amortization of acquisition-related intangible assets, other acquisition-related costs, an advanced healthcare contribution, restructuring and other charges, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature. 
+
+Please refer to Note 14 &#32;of the Notes to Condensed Consolidated Financial Statements for further disclosure regarding segment information. 
+
+&#32;27 
+
+Results of Operations 
+
+&#160; 
+
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+April 26, 2015 
+
+Revenue 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of revenue 
+
+42.5 
+
+&#160; 
+
+43.3 
+
+Gross profit 
+
+57.5 
+
+&#160; 
+
+56.7 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+26.5 
+
+&#160; 
+
+29.5 
+
+Sales, general and administrative 
+
+12.2 
+
+&#160; 
+
+12.0 
+
+Restructuring and other charges 
+
+0.1 
+
+&#160; 
+
+&#8212; 
+
+Total operating expenses 
+
+38.8 
+
+&#160; 
+
+41.5 
+
+Income from operations 
+
+18.7 
+
+&#160; 
+
+15.4 
+
+Interest income 
+
+0.9 
+
+&#160; 
+
+0.8 
+
+Interest expense 
+
+(0.9 
+
+) 
+
+&#160; 
+
+(1.0 
+
+) 
+
+Other expense, net 
+
+(0.3 
+
+) 
+
+&#160; 
+
+(0.1 
+
+) 
+
+Income before income tax expense 
+
+18.4 
+
+&#160; 
+
+15.1 
+
+Income tax expense 
+
+3.4 
+
+&#160; 
+
+3.3 
+
+Net income 
+
+15.0 
+
+&#160;% 
+
+&#160; 
+
+11.8 
+
+&#160;% 
+
+&#160; 
+
+Revenue 
+
+NVIDIA&#8217;s products and services are built for three computing platforms - PC, Datacenter/Cloud, and Mobile. For the first quarter of both fiscal years 2017 and 2016, approximately 67% of our revenue was associated with the PC computing platform, of which GPUs for the gaming and professional visualization markets comprised approximately 87% and 81%, respectively, while PC OEM represented approximately 13% and 19%, respectively. 
+
+Revenue by Reportable Segments 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+&#160; 
+
+GPU 
+
+$ 
+
+1,079 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Tegra Processor 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+All Other 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total 
+
+$ 
+
+1,305 
+
+&#160; 
+
+$ 
+
+1,151 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#32;28 
+
+GPU Business . GPU business revenue increased by 15% for the first quarter of fiscal year 2017 compared to the first quarter of fiscal year 2016. This increase was due primarily to increased revenue from sales of high-end GeForce GPU products for gaming, which increased over 20%, reflecting a combination of continued strength in PC gaming and increased sales of our Maxwell-based GPU products. Datacenter revenue, including Tesla and NVIDIA GRID, increased over 60%, reflecting strong demand for GPU acceleration related to deep learning. Revenue from Quadro GPUs for professional visualization increased 4% due primarily to higher sales of ultra high-end and mid-range workstation products year over year. Revenue from GeForce GPU products for mainstream PC OEMs declined compared to last year. 
+
+Tegra Processor Business. &#32;Tegra Processor business revenue increased by 10% for the first quarter of fiscal year 2017 compared to the first quarter of fiscal year 2016. This was driven by an increase of over 40% in sales of Tegra products serving automotive systems, partially offset by a decline in development services compared to last year. 
+
+All Other. We recognized $66 million in revenue during the first quarter of both fiscal years 2017 and 2016, from the patent cross licensing arrangement with Intel. 
+
+Concentration of Revenue 
+
+&#160; 
+
+Revenue from sales to customers outside of the United States and Other Americas accounted for 77% and 75% of total revenue for the first quarter of fiscal years 2017 and 2016, respectively. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+Revenue from significant customers, those representing 10% or more of total revenue for the respective dates, is summarized as follows: 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+April 26, 2015 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Customer A 
+
+% 
+
+&#160; 
+
+% 
+
+Gross Profit and Gross Margin 
+
+Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions and shipping costs. Cost of revenue also includes development costs for license and service arrangements and stock-based compensation related to personnel associated with operations. Gross margin is the percentage of gross profit to revenue. 
+
+Our overall gross margin was 57.5% &#32;and 56.7% &#32;for the first &#32;quarter of fiscal years 2017 and 2016 , respectively. The increase was driven primarily by a product mix in our GPU business, partially offset by lower gross margins in our Tegra business. 
+
+Charges to cost of sales for inventory provisions totaled $22 million and $14 million for the first &#32;quarter of fiscal years 2017 and 2016 , respectively, unfavorably impacting our gross margin by 1.7% and 1.2%, respectively. Sales of inventory that was previously written-off or written-down totaled $7 million and $9 million for the first &#32;quarter of fiscal years 2017 and 2016 , respectively, favorably impacting our gross margin by 0.6% and 0.8%, respectively. As a result, the overall net effect on our gross margin from charges to cost of sales for inventory provisions and sales of items previously written-off or written-down was an unfavorable impact of 1.1% and 0.4% for the first quarter of fiscal years 2017 and 2016, respectively. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+GPU Business . The gross margin of our GPU business increased during the first quarter of fiscal year 2017 compared to the first quarter of fiscal year 2016. GPU margins increased primarily due to the product mix resulting from stronger sales of our GeForce GPU products for gaming and Tesla products for deep learning and high performance computing. 
+
+&#160; 
+
+Tegra Processor Business . The gross margin of our Tegra Processor business decreased during the first quarter of fiscal year 2017 compared to the first quarter of fiscal year 2016. The decrease in Tegra margins was due to a higher product mix of automotive infotainment system sales, which have lower gross margins than other Tegra products. 
+
+&#32;29 
+
+Operating Expenses &#160; 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+&#160; 
+
+Research and development expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Sales, general and administrative expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other charges 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Total operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Research and development expenses as a percentage of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative expenses as a percentage of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other charges as a percentage of net revenue 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses increased by 2% &#32;during the first quarter &#32;of fiscal year 2017 &#32;compared to the first quarter &#32;of fiscal year 2016 . Compensation and benefits increased by $4 million resulting from employee additions and related compensation and benefits costs. Engineering and development expenses increased by $4 million associated with our newest platform architecture, Pascal. 
+
+Sales, General and Administrative 
+
+&#160; 
+
+Sales, general and administrative expenses increased by 15% &#32;during the first quarter &#32;of fiscal year 2017 &#32;compared to the first quarter &#32;of fiscal year 2016 . Compensation and benefits increased by $13 million resulting from employee additions, employee compensation increases and related costs, including stock-based compensation expense. Other expense increased by $5 million mainly due to an advanced healthcare contribution and legal settlement costs. 
+
+Restructuring and Other Charges 
+
+In the second quarter of fiscal year 2016, we began the wind-down of our Icera modem operations. Our operating expenses for the three months ended &#32; May 1, 2016 &#32;included $1 million &#32;of restructuring and other charges. Please refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for further discussion. 
+
+Interest Income and Interest Expense 
+
+&#160; 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest expense is primarily comprised of coupon interest and debt discount amortization related to the convertible notes issued in December 2013. 
+
+Interest income was $12 million and $9 million during the first &#32;quarter of fiscal years 2017 and 2016 , respectively. The increase in interest income was primarily due to higher average cash balances invested in interest bearing securities, as well as higher purchased yields. 
+
+Interest expense was $12 million during the first &#32;quarter of fiscal years 2017 and 2016 , consisting primarily of coupon interest and debt discount amortization related to the convertible notes we issued in December 2013. 
+
+Other Expense, net 
+
+&#160; 
+
+Other expense, net consists primarily of realized gains and losses from the sale of marketable securities, sales or impairments of investments in non-affiliated companies, and the impact of changes in foreign currency rates. 
+
+During the first quarter of fiscal years 2017 and 2016, we recorded other expense, net, of $4 million and $1 million, respectively. Other expense, net, in the first quarter of fiscal year 2017 included foreign exchange translation losses, partially offset by a $3 million gain from the sale of an investment in a non-affiliate. 
+
+&#32;30 
+
+Income Taxes 
+
+We recognized income tax expense of $45 million &#32;and $38 million &#32;for the first quarter of fiscal years 2017 and 2016, respectively. Our effective tax rate was 18.6% &#32;and 22.0% &#32;for the first quarter of fiscal years 2017 and 2016, respectively. 
+
+The decrease in our effective tax rate in the first quarter of fiscal year 2017 as compared to the same period in the prior fiscal year was primarily due to the favorable benefit of the re-enactment of the U.S. federal research tax credit and lower permanent tax differences related to stock-based compensation, partially offset by an increase in earnings subject to U.S. tax. 
+
+Our effective tax rate for the first quarter of fiscal year 2017 of 18.6% &#32;was lower than the U.S. federal statutory rate of 35% &#32;due primarily to income earned in jurisdictions where the tax rate is lower than the U.S. federal statutory tax rate, the benefit of the U.S. federal research tax credit and discrete events that occurred in the first quarter of fiscal year 2017 primarily attributable to tax benefits recognized upon the expiration of statutes of limitations in certain non-U.S. jurisdictions. 
+
+Please refer to Note 4 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Liquidity and Capital Resources &#160; 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+&#160; 
+
+$ 
+
+Marketable securities 
+
+4,207 
+
+&#160; 
+
+4,441 
+
+Cash, cash equivalents and marketable securities 
+
+$ 
+
+4,754 
+
+&#160; 
+
+$ 
+
+5,037 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+May 1, 2016 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+&#160; 
+
+$ 
+
+Net cash provided by (used in) investing activities 
+
+$ 
+
+&#160; 
+
+$ 
+
+(235 
+
+) 
+
+Net cash used in financing activities 
+
+$ 
+
+(534 
+
+) 
+
+&#160; 
+
+$ 
+
+(44 
+
+) 
+
+&#160; 
+
+As of May 1, 2016 , we had $4.75 billion &#32;in cash, cash equivalents and marketable securities, a decrease of $283 million from the end of fiscal year 2016. Our portfolio of cash equivalents and marketable securities is managed on our behalf by several financial institutions. Our portfolio managers are required to follow our investment policy, which requires the purchase of high grade investment securities, the diversification of asset types, and certain limits on our portfolio duration. 
+
+Cash provided by operating activities increased in the first quarter of fiscal year 2017 &#32;compared to the first quarter of fiscal year 2016 , primarily due to higher net income from revenue and gross margin growth. 
+
+&#160; 
+
+Cash was provided by investing activities in the first quarter of fiscal year 2017 , primarily due to more proceeds from sales and maturities of marketable securities than purchases of marketable securities and property and equipment and intangible assets. Cash was used in investing activities in the first quarter of fiscal year 2016, primarily due to higher purchases of marketable securities. 
+
+Cash used in financing activities increased in the first quarter of fiscal year 2017 &#32;compared to the first quarter of fiscal year 2016 . The increase was primarily due to the $500 million ASR transaction we entered into in the first quarter of fiscal year 2017. 
+
+Liquidity 
+
+Our primary source of liquidity is cash generated by our operations. Our investment portfolio consists principally of cash and cash equivalents, corporate debt securities, debt securities of United States government agencies, debt securities issued by United States Treasury, asset-backed securities, mortgage-backed securities issued by United States government-sponsored enterprises, foreign government bonds and money market funds. These investments are denominated in United States dollars. As of May 1, 2016 , we did not have any investments in auction-rate preferred securities. 
+
+&#32;31 
+
+Please refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for additional information. 
+
+As of May 1, 2016 &#32;and January 31, 2016 , we had $4.75 billion &#32;and $5.04 billion , respectively, in cash, cash equivalents and marketable securities. Our investment policy requires the purchase of high grade investment securities and the diversification of asset types and includes certain limits on our portfolio duration, as specified in our investment policy guidelines. These guidelines also limit the amount of credit exposure to any one issue, issuer or type of instrument. As of May 1, 2016 , we were in compliance with our investment policy. As of May 1, 2016 , our investments in government agencies and government-sponsored enterprises represented 46% of our total investment portfolio, while the financial sector accounted for 24% of our total investment portfolio. All of our investments are in A/A3 or better rated securities. 
+
+Our cash balances are held in numerous locations throughout the world, including substantial amounts held outside of the United States. Most of the amounts held outside the United States may be repatriated to the United States. However, if we repatriate foreign earnings for cash requirements in the United States, we would pay U.S. federal income tax at the rate of 35% less utilization of any net operating loss carryforwards, and further offset by any applicable research and foreign tax credits, plus any state income taxes on such income. Repatriation of some foreign balances may be restricted by local laws. 
+
+Dividend payments and any share repurchases must be made from cash held in the United States. In the first quarter &#32;of fiscal year 2017 , we made total cash dividend payments of $62 million &#32;and entered into a $500 million &#32;ASR agreement, utilizing a significant amount of our U.S. cash balance previously taxed as of May 1, 2016 . 
+
+Convertible Notes 
+
+On December 2, 2013, we issued $1.50 billion of 1.00% Convertible Senior Notes, or the Notes, due in 2018 and concurrently entered into separate note hedge and warrant transactions. The Notes will mature on December 1, 2018 unless repurchased or converted prior to such date. The Notes were convertible during the first quarter of fiscal year 2017 and are currently convertible at the holders&#8217; option in the second quarter of fiscal year 2017. As of May 1, 2016, we have received conversion notices for a total of $0.2 million aggregate principal amount of the Notes, for which conversion is expected to be completed in the second quarter of fiscal year 2017. Please refer to Note 11 of the Notes to the Condensed Consolidated Financial Statements for further discussion. 
+
+Capital Return to Shareholders 
+
+In March 2016, we entered into an ASR agreement with an investment bank, under which we made an upfront payment of $500 million to purchase shares of our common stock and received an initial delivery of 12 million shares. Upon final settlement of the ASR, we may either (1) receive additional shares of our common stock, or (2) be required to deliver shares of our common stock or elect to make a cash payment to the investment bank, based on the terms and conditions of the ASR agreement. 
+
+During the three months ended May 1, 2016, we also paid $62 million in cash dividends to our shareholders, equivalent to $0.1150 per share. As a result, we returned $562 million to shareholders during the three months ended May 1, 2016 in the form of share repurchases and dividend payments. 
+
+We intend to return approximately $1.00 billion to our shareholders in fiscal year 2017 through a combination of share repurchases and cash dividends. We also declared on May 12, 2016 that we would pay our next quarterly cash dividend of $0.1150 per share on June 20, 2016, to all shareholders of record on May 26, 2016. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to continued capital availability and our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders and are in compliance with all laws and agreements of NVIDIA applicable to the declaration and payment of cash dividends. 
+
+Operating Capital and Capital Expenditure Requirements 
+
+We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating, acquisition, share repurchase, cash dividend and capital requirements for at least the next twelve months. However, there is no assurance that we will not need to raise additional equity or debt financing within this time frame. Additional financing may not be available on favorable terms and may be dilutive to our then-current shareholders. We also may require additional capital for other purposes not presently contemplated. If we are unable to obtain sufficient capital, we could be required to curtail capital equipment purchases or research and development expenditures, which could harm our business. 
+
+&#32;32 
+
+Off-Balance Sheet Arrangements 
+
+During fiscal year 2016, we began to construct a new headquarters building in Santa Clara, California, which is currently targeted for completion in the fourth quarter of fiscal year 2018. We are financing this construction under an off-balance sheet, build-to-suit operating lease arrangement. The banks have committed to fund up to $380 million of costs relating to construction. Once construction is complete, the lease balance will remain static at the completed cost for the remaining duration of the lease term. During construction, accrued interest will be capitalized into the lease balance. Following construction, we will pay rent in the form of interest. The lease has an initial 7.5 year term expiring on December 19, 2022, consisting of an approximately 2.5 year construction period followed by a 5 year lease term. We have the option to renew this lease for up to three additional 5 year periods, subject to approval by the banks. During the term of the lease, we may elect to purchase the headquarters building for the amount of the banks&#8217; investment in the building and any accrued but unpaid rent. At the end of the lease term, we may elect to buy the building for the outstanding balance on the maturity date or arrange for the cash sale of the building to an unaffiliated third party. The aggregate guarantee made by us under the lease is no more than 87.5% of the costs incurred in connection with the construction of the building. Please refer to Note 12 &#32;of the Notes to Condensed Consolidated Financial Statements for a discussion regarding our operating lease financing arrangement. 
+
+Contractual Obligations 
+
+As of May 1, 2016 , we had outstanding inventory purchase obligations totaling $696 million . There were no other material changes in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 31, 2016 . 
+
+Please see Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for the fiscal year ended January 31, 2016 &#32;for a description of our contractual obligations. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Please see Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+&#32;33 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Please refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 31, 2016 . There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 31, 2016 . 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 31, 2016 &#32;and any additional risks set forth below. Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+
+&#32;35 
+

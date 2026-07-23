@@ -1,0 +1,3484 @@
+ ITEM 1. 
+
+BUSINESS 
+
+##TABLE_END Company Overview 
+
+Analog Devices, Inc. (we, Analog Devices or the Company) is a leading global high-performance analog technology company. Our products and technologies intelligently bridge the physical and digital domains through sensing, measuring, powering, connecting and interpreting. We design, manufacture and market a broad portfolio of solutions that leverage high-performance analog, mixed-signal and digital signal processing technology, including integrated circuits (ICs), algorithms, software, and subsystems. Since our inception in 1965, we have focused on solving our customers&#8217; toughest signal processing engineering challenges and playing a fundamental role in converting, conditioning, and processing real-world phenomena such as temperature, pressure, sound, light, speed, and motion into electrical signals to be used in a wide array of electronic devices. We combine sensors, data converters, amplifiers and linear products, radio frequency (RF) ICs, power management products, and signal processing products into technology platforms that meet specific customer and market needs, leveraging our engineering investment across a broad base of markets and customers. As new generations of applications evolve, such as autonomous vehicles and the Internet of Things, new needs for Analog Devices&#8217; high-performance analog signal processing and digital signal processing (DSP) products and technologies are emerging. 
+
+We focus on key strategic markets where our signal processing technology is often a critical differentiator in our customers&#8217; products; in particular, the industrial, automotive, consumer and communications markets. Used by more than 125,000 customers worldwide, our products are embedded inside many different types of electronic equipment including: 
+
+##TABLE_START &#8226; Industrial process control systems 
+
+&#160; 
+
+&#8226; Medical imaging equipment 
+
+&#8226; Factory process automation systems 
+
+&#160; 
+
+&#8226; Patient vital signs monitoring devices 
+
+&#8226; Instrumentation and measurement systems 
+
+&#160; 
+
+&#8226; Wireless infrastructure equipment 
+
+&#8226; Energy management systems 
+
+&#160; 
+
+&#8226; Networking equipment 
+
+&#8226; Aerospace and defense electronics 
+
+&#160; 
+
+&#8226; Optical systems 
+
+&#8226; Automobiles 
+
+&#160; 
+
+&#8226; Portable consumer devices 
+
+##TABLE_END
+
+We were incorporated in Massachusetts in 1965. Our headquarters are near Boston, in Norwood, Massachusetts. In addition, we have manufacturing facilities in the United States, Ireland, and Southeast Asia. We have more than 50 design, development, field application engineering, sales, and manufacturing centers worldwide. Our common stock is listed on The Nasdaq Global Select Market under the symbol ADI and is included in the Standard &#38; Poor&#8217;s 500 Index. 
+
+Acquisition of Linear Technology Corporation 
+
+On March 10, 2017 (Acquisition Date), we completed the acquisition of Linear Technology Corporation (Linear), a designer, manufacturer and marketer of high performance analog integrated circuits. The total consideration paid to acquire Linear was approximately $15.8 billion, consisting of $11.1 billion in cash financed through existing cash on hand, net proceeds from bridge and term loan facilities and proceeds received from the issuance of senior unsecured notes, $4.6 billion from the issuance of our common stock and $0.1 billion of consideration related to the replacement of outstanding equity awards held by Linear employees. The acquisition of Linear is referred to as the Acquisition. 
+
+Available Information 
+
+We maintain a website with the address www.analog.com. We are not including the information contained on our website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K. We make available free of charge through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K (including exhibits), and amendments to these reports, as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission (SEC). We also make available on our website our by-laws, corporate governance guidelines, the charters for our audit committee, compensation committee, and nominating and corporate governance committee, our equity award granting policies, our code of business conduct and ethics which applies to our directors, officers and employees, and our related person transaction policy, and such information is available in print and free of charge to any shareholder of Analog Devices who requests it. In addition, we intend to disclose on our website any amendments to, or waivers from, our code of business conduct and ethics that are required to be publicly disclosed pursuant to rules of the SEC or Nasdaq. 
+
+Industry Background 
+
+Semiconductor components are the electronic building blocks used in electronic systems and equipment. These components are classified as either discrete devices, such as individual transistors, or ICs, in which a number of transistors and other elements are combined to form a more complicated electronic circuit. ICs may be divided into two general categories, digital and analog. Digital circuits, such as memory devices and microprocessors, generally process on-off electrical signals, represented by binary digits, &#8220;1&#8221; and &#8220;0&#8221;. In contrast, analog ICs monitor, condition, amplify or transform continuous analog signals associated with physical properties, such as temperature, pressure, weight, light, sound or motion, and play an important role in bridging between real world phenomena and a variety of electronic systems. Analog ICs also provide voltage regulation and power control to electronic systems. 
+
+Principal Products 
+
+We design, manufacture and market a broad line of high-performance ICs that incorporate analog, mixed-signal and digital signal processing technologies. Our ICs are designed to address a wide range of real-world signal processing applications. We sell our ICs to tens of thousands of customers worldwide, many of whom use products spanning our core technologies in a wide range of applications. Our IC product portfolio includes both general-purpose products used by a broad range of customers and applications, as well as application-specific products designed for specific clusters of customers in key target markets. By using readily available, high-performance, general-purpose products in their systems, our customers can reduce the time they need to bring new products to market. Given the high cost of developing more customized ICs, our standard products often provide a cost-effective solution for many low to medium volume applications. We also focus on working with leading customers to design application-specific solutions. We begin with our existing core technologies, which leverage our data conversion, amplification, RF and microwave, microelectromechanical systems (MEMS), power management and DSP capabilities, and devise a solution to more closely meet the needs of a specific customer or group of customers. Because we have already developed the core technology platform for our general-purpose products, we can create application-specific solutions quickly. 
+
+We produce and market a broad range of ICs and operate in one reportable segment based on the aggregation of eight operating segments. The ICs sold by each of our operating segments are manufactured using similar semiconductor manufacturing processes and raw materials in either our own production facilities or by third-party wafer fabricators using proprietary processes. Our ICs are sold to customers globally through a direct sales force, third-party distributors, independent sales representatives and via our website. Our technology offerings are aligned with the predominant markets served in order to facilitate decision making throughout our organization. Our ten highest revenue products, in the aggregate, accounted for approximately 14% &#32;of our revenue for our fiscal year ended October 28, 2017 &#32;( fiscal 2017 ). 
+
+Analog Products 
+
+Our analog and mixed signal IC technology has been the foundation of our business for over five decades, and we are one of the world&#8217;s largest suppliers of high-performance analog ICs. Our analog signal processing ICs are primarily high-performance devices, offering higher dynamic range, greater bandwidth, and other enhanced features. We believe that the principal advantages these products have as compared to competitors&#8217; products include higher accuracy, higher speed, lower cost per function, smaller size, lower power consumption and fewer components, resulting in improved performance and reliability. Our product portfolio includes several thousand analog ICs, any one of which can have as many as several hundred customers. Our analog ICs typically have long product life cycles. Our analog IC customers include original equipment manufacturers (OEMs) and customers who build electronic subsystems for integration into larger systems. 
+
+Converters &#160;&#8212; We are a leading supplier of data converter products. Data converters translate real-world analog signals into digital data and also translate digital data into analog signals. Data converters remain our largest and most diverse product family and an area where we are continuously innovating to enable our customers to redefine and differentiate their products. Our converter products combine sampling rates and accuracy with the low noise, power, price and small package size required by industrial, automotive, consumer, and communications electronics. 
+
+Amplifiers/Radio Frequency &#160;&#8212; We are also a leading supplier of high-performance amplifiers. Amplifiers are used to condition analog signals. High performance amplifiers emphasize the performance dimensions of speed and precision. Within this product portfolio we provide precision, instrumentation, high speed, intermediate frequency/RF, broadband, and other amplifiers. We also offer an extensive portfolio of precision voltage references that are used in a wide variety of applications. Our analog product line also includes a broad portfolio of high performance RF ICs covering the entire RF signal chain, from industry-leading stand-alone RF function blocks such as phase locked loops, frequency synthesizers, mixers, modulators, demodulators, and power detectors, to highly integrated broadband and short-range single chip transceiver solutions. Our high performance RF ICs support the high performance requirements of cellular infrastructure and a broad range of applications in our target markets. 
+
+Power Management &#38; Reference &#160;&#8212; Power management and reference products, which include functions such as power conversion, driver monitoring, sequencing and energy management, are developed to complement analog signal chain components across core market segments and provide efficient solutions for power management and conversion applications in the automotive, communications, industrial and high-end consumer markets. Our high performance power ICs include powerful densities and software design simulation tools to provide fast and accurate power supply designs. 
+
+Other Analog &#160;&#8212; Also within our analog technology portfolio are products that are based on MEMS technology. This technology enables us to build extremely small sensors that incorporate an electromechanical structure and the supporting analog circuitry for conditioning signals obtained from the sensing element. Our MEMS product portfolio includes accelerometers used to sense acceleration, gyroscopes used to sense rotation and inertial measurement units used to sense multiple degrees of freedom combining multiple sensing types along multiple axes. The majority of our current revenue from MEMS products is derived from the automotive end market. In addition to our MEMS products, our other analog product category includes isolators that enable designers to implement isolation in designs without the cost, size, power, performance, and reliability constraints found with optocouplers. Our isolators have been designed into hundreds of applications, such as universal serial bus isolation in patient monitors, where it allows hospitals and physicians to adopt the latest advances in computer technology to supervise patient health and wirelessly transmit medical records. In smart metering applications, our isolators provide reliable electrostatic discharge performance that helps reduce meter tampering. Likewise, in satellites, where any malfunction can be catastrophic, our isolators help protect the power system while enabling designers to achieve small form factors. 
+
+Digital Signal Processing Products 
+
+Digital Signal Processing products (DSPs) complete our product portfolio. DSPs are optimized for high-speed numeric calculations, which are essential for instantaneous, or real-time, processing of digital data generated, in most cases, from analog to digital signal conversion. Our DSPs are designed to be fully programmable and to efficiently execute specialized software programs, or algorithms, associated with processing digitized real-time, real-world data. Programmable DSPs are designed to provide the flexibility to modify the device&#8217;s function quickly and inexpensively using software. Our general-purpose DSP IC customers typically write their own algorithms using software development tools provided by us and third-party suppliers. Our DSPs are designed in families of products that share common architectures and therefore can execute the same software across a range of products. We support these products with easy-to-use development tools, which are designed to reduce our customers&#8217; product development costs and time-to-market. Our customers use our products to solve a wide range of signal processing challenges across our core market and segment focus areas within the industrial, automotive, consumer and communications end markets. As an integrated part of our customers' signal chain, there are typically many other Analog Devices products connected to our processors, including converters, audio and video codecs and power management solutions. 
+
+Markets and Applications 
+
+The breakdown of our fiscal 2017 &#32;revenue by end market is set out in the table below. 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Percent of 
+
+&#160; 
+
+&#160; 
+
+Fiscal 2017 
+
+End Market 
+
+&#160; 
+
+Revenue 
+
+Industrial 
+
+&#160; 
+
+46% 
+
+Automotive 
+
+&#160; 
+
+15% 
+
+Consumer 
+
+&#160; 
+
+21% 
+
+Communications 
+
+&#160; 
+
+18% 
+
+##TABLE_END
+
+The following describes some of the characteristics of, and customer products within, our major end markets: 
+
+Industrial &#32;&#8212; Our industrial market includes the following sectors: 
+
+Industrial and Instrumentation &#160;&#8212; Our industrial automation applications generally require ICs that offer performance greater than that available from commodity-level ICs but generally do not have production volumes that warrant custom ICs. There is a trend towards development of products focused on particular sub-applications, which incorporate combinations of analog, mixed-signal, and DSP ICs to achieve the necessary functionality. Our instrumentation customers differentiate themselves by using the highest performance analog and mixed-signal ICs available. Our industrial and instrumentation market includes applications such as: 
+
+##TABLE_START &#8226; Process control systems 
+
+&#160; 
+
+&#8226; Oscilloscopes 
+
+&#8226; Connected motion and robotics 
+
+&#160; 
+
+&#8226; Lab, chemical, and environmental analyzers 
+
+&#8226; Environmental control systems 
+
+&#160; 
+
+&#8226; Weigh scales 
+
+##TABLE_END
+
+Defense/Aerospace &#160;&#8212; The defense, commercial avionics and space markets all require high-performance ICs that meet rigorous environmental and reliability specifications. Many of our analog ICs can be supplied in versions that meet these standards. In addition, many products can be supplied to meet the standards required for broadcast satellites and other commercial space applications. Most of our products sold in this market are specially tested versions of products derived from our standard product offering. As end systems are becoming more complex many of our customers in this market also look for sub-systems. We supply sub-systems to many of these customers. 
+
+&#32;Customer products include: 
+
+##TABLE_START &#8226; Navigation systems 
+
+&#160; 
+
+&#8226; Radar systems 
+
+&#8226; Space and satellite communications 
+
+&#160; 
+
+&#8226; Security devices 
+
+&#8226; Communication systems 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+Energy Management &#160;&#8212; The desire to improve energy efficiency, conservation, reliability, and cleanliness is driving investments in renewable energy, power transmission and distribution systems, electric meters, and other innovative areas. The common characteristic behind these efforts is the addition of sensing, measurement, and communication technologies to electrical infrastructure. Our offerings include both standard and application-specific products and are used in applications such as: 
+
+##TABLE_START &#8226; Utility meters 
+
+&#160; 
+
+&#8226; Wind turbines 
+
+&#8226; Meter communication modules 
+
+&#160; 
+
+&#8226; Solar inverters 
+
+&#8226; Substation relays and automation equipment 
+
+&#160; 
+
+&#8226; Building energy automation/control 
+
+##TABLE_END
+
+Healthcare &#160;&#8212; The healthcare market is calling for increased access to better and more affordable care. To help achieve this, we are collaborating with customers and partners on innovative solutions that are designed to achieve better outcomes for patients and physicians at reduced costs for all. 
+
+Our offerings include both standard and application-specific products and are used in applications such as: 
+
+##TABLE_START &#8226; Ultrasound systems 
+
+&#160; 
+
+&#8226; Anesthesia equipment 
+
+&#8226; X-Ray equipment (CT and DR) 
+
+&#160; 
+
+&#8226; Lab diagnostic equipment 
+
+&#8226; Image guided therapy 
+
+&#160; 
+
+&#8226; Surgical tools and instruments 
+
+&#8226; Multi-parameter vital signs monitors 
+
+&#160; 
+
+&#8226; Blood analyzers 
+
+&#8226; Disease management, e.g. hypertension and diabetes 
+
+&#160; 
+
+&#8226; Point-of-care diagnostics 
+
+##TABLE_END
+
+Automotive &#32;&#8212; We develop differentiated high performance signal processing solutions that enable sophisticated automotive systems to be greener, safer and smarter. Through collaboration with manufacturers worldwide, we have achieved significant market share through a broad portfolio of analog, digital and sensor ICs that increase fuel efficiency, enhance vehicle safety and improve the in-cabin audio/video experience. Specifically, we have developed products used in applications such as: 
+
+##TABLE_START Greener 
+
+&#160; 
+
+Safer 
+
+&#160; 
+
+Smarter 
+
+&#8226; 
+
+&#160; 
+
+Hybrid electric / electric vehicles 
+
+&#160; 
+
+&#8226; 
+
+&#160; 
+
+Crash sensors in airbag systems 
+
+&#160; 
+
+&#8226; 
+
+&#160; 
+
+Car audio, voice processing and connectivity 
+
+&#8226; 
+
+&#160; 
+
+Battery monitoring and management systems 
+
+&#160; 
+
+&#8226; 
+
+&#160; 
+
+Electronic stability systems 
+
+&#160; 
+
+&#8226; 
+
+&#160; 
+
+Video processing and connectivity 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8226; 
+
+&#160; 
+
+Radar advanced driver assistance systems 
+
+&#160; 
+
+&#8226; 
+
+&#160; 
+
+Car telematics 
+
+##TABLE_END
+
+Consumer &#32;&#8212; To address the market demand for state of the art personal and professional entertainment systems and the consumer demand for high quality user interfaces, music, movies and photographs, we have developed analog, digital and mixed-signal solutions that meet the rigorous cost and time-to-market requirements of the consumer electronics market. The emergence of high-performance, feature-rich consumer products has created a market for our high-performance ICs with a high level of specific functionality that enables best in class user experience. These products include: 
+
+##TABLE_START &#8226; Portable devices (smart phones, tablets and wearable devices) for media and vital signs motoring applications 
+
+&#160; 
+
+&#8226; Prosumer audio/video equipment 
+
+##TABLE_END
+
+Communications &#32;&#8212; The development of broadband, wireless and internet infrastructures around the world has created an important market for our communications products. Communications technology involves the processing of signals that are converted from analog to digital and digital to analog form during the process of transmitting and receiving data. The need for higher speed and reduced power consumption, coupled with more reliable, bandwidth-efficient communications, creates demand for our products, which are used in the full spectrum of signal processing for internet protocol, video streaming, voice communication and machine-type communications. In wireless and broadband communication applications, our products are incorporated into: 
+
+##TABLE_START &#8226; Cellular basestation equipment 
+
+&#160; 
+
+&#8226; Optical networking equipment for data center and service providers 
+
+&#8226; Microwave backhaul systems 
+
+&#160; 
+
+&#8226; Satellite and terrestrial broadband access equipment 
+
+##TABLE_END
+
+See Note 4, Industry, Segment and Geographic Information, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information about our products by end market. 
+
+Research and Development 
+
+Our markets are characterized by rapid technological changes and advances. Accordingly, we make substantial investments in the design and development of new products and manufacturing processes, and the improvement of existing products and manufacturing processes. We spent approximately $969 million during fiscal 2017 &#32;on the design, development and improvement of new and existing products and manufacturing processes, compared to approximately $654 million &#32;during the fiscal year ended October 29, 2016 &#32;(fiscal 2016 ) and approximately $637 million &#32;during the fiscal year ended October 31, 2015 &#32;(fiscal 2015 ). 
+
+Our research and development strategy focuses on building technical leadership in core technology platforms, which include converters, amplifiers, RF and microwave, power management, MEMS, and DSP. In support of our research and development activities, we employ thousands of engineers involved in product and manufacturing process development throughout the world. 
+
+Patents and Other Intellectual Property Rights 
+
+We seek to establish and maintain our proprietary rights in our technology and products through the use of patents, copyrights, mask works, trademarks and trade secrets. We have a program to file applications for and obtain patents, copyrights, mask works and trademarks in the United States and in selected foreign countries where we believe filing for such protection is appropriate. We also seek to maintain our trade secrets and confidential information by nondisclosure policies and through the use of appropriate confidentiality agreements. We have obtained a substantial number of patents and trademarks in the United States and in other countries. As of October 28, 2017 , we held approximately 3,255 &#32;U.S. patents and approximately 801 &#32;non-provisional pending U.S. patent applications with expiration dates ranging from 2017 through 2037. There can be no assurance, however, that the rights obtained can be successfully enforced against infringing products in every jurisdiction. While our patents, copyrights, mask works, trademarks and trade secrets provide some advantage and protection, we believe our competitive position and future success is largely determined by such factors as the system and application knowledge, innovative skills, technological expertise and management ability and experience of our personnel; the range and success of new products being developed by us; our market brand recognition and ongoing marketing efforts; and customer service and technical support. It is generally our policy to seek patent protection for significant inventions that may be patented, though we may elect, in certain cases, not to seek patent protection even for significant inventions, if we determine other protection, such as maintaining the invention as a trade secret, to be more advantageous. We also have trademarks that are used in the conduct of our business to distinguish genuine Analog Devices products and we maintain cooperative advertising programs to promote our brands and identify products containing genuine Analog Devices components. 
+
+Sales Channels 
+
+We sell our products globally through a direct sales force, third-party distributors, independent sales representatives and via our website. We have direct sales offices, sales representatives and/or distributors in over 50 &#32;countries outside North America. 
+
+We support our worldwide sales efforts through our website and with extensive promotional programs that include editorial coverage and paid advertising in online and printed trade publications, webinars, social media and communities, promotional and training videos, direct mail programs, technical seminars and participation in trade shows. We publish, share and distribute technical content such as data sheets, application guides and catalogs. We maintain a staff of field application engineers who aid customers in incorporating our products into their products. In addition, we offer a variety of web-based tools that ease product selection and aid in the design process for our customers. 
+
+We derived approximately 53% &#32;of our fiscal 2017 &#32;revenue from sales made through distributors. These distributors typically maintain an inventory of our products. Some of them also sell products that compete with our products, including those for which we are an alternate source. We defer revenue and the related cost of sales on shipments to U.S. distributors and certain international distributors until the distributors resell the products to their customers. . We make sales to distributors under agreements that allow certain distributors to receive price adjustment credits and to return qualifying products for credit, as determined by us, in order to reduce the amounts of slow-moving, discontinued or obsolete product from their inventory. These agreements limit such returns to a certain percentage of our shipments to that distributor during the prior quarter. In addition, certain distributors are allowed to return unsold products if we terminate the relationship with the distributor. Additional information relating to our sales to distributors is set forth in Note 2n, Revenue Recognition, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K. 
+
+Segment Financial Information and Geographic Information 
+
+We operate and track our results in one reportable segment based on the aggregation of eight operating segments. 
+
+Through subsidiaries and affiliates, we conduct business in numerous countries outside the United States. During fiscal 2017 , we derived approximately 61% &#32;of our revenue from customers in international markets. Our international business is subject to risks customarily encountered in foreign operations, including fluctuations in foreign currency exchange rates and controls, import and export controls, and other laws, policies and regulations of foreign governments. Although we engage in hedging transactions to reduce our exposure to currency exchange rate fluctuations, our competitive position may be adversely affected by changes in the exchange rate of the United States dollar against other currencies. 
+
+Revenue by geographic region, based on the primary location of our customers' design activity for our products, for fiscal 2017 &#32;was as follow: 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Percent of 
+
+&#160; 
+
+&#160; 
+
+Fiscal 2017 
+
+Geographic Area 
+
+&#160; 
+
+Revenue 
+
+United States 
+
+&#160; 
+
+39% 
+
+Rest of North/South America 
+
+&#160; 
+
+2% 
+
+Europe 
+
+&#160; 
+
+24% 
+
+Japan 
+
+&#160; 
+
+10% 
+
+China 
+
+&#160; 
+
+16% 
+
+Rest of Asia 
+
+&#160; 
+
+9% 
+
+##TABLE_END
+
+For further detail regarding revenue and other financial information about our industry, segment and geographic areas, see our Consolidated Financial Statements and Note 4, Industry, Segment and Geographic Information &#32;of the Notes to Consolidated Financial Statements contained in in Item 8 of this Annual Report on Form 10-K. For a discussion of important risk factors that may materially affect us, see the Risk Factors contained in Item 1A of this Annual Report on Form 10-K. 
+
+Customers 
+
+We have over 125,000 customers worldwide. The Company's largest single end customer, Apple Inc., represented approximately 14%, 12% and 13% of total revenue in fiscal years 2017, 2016 and 2015, respectively. Our customers use hundreds of different types of our products in a wide range of applications spanning the industrial, automotive, consumer and communication markets. Our 20 largest customers accounted for approximately 35% &#32;of our fiscal 2017 &#32;revenue. 
+
+Seasonality 
+
+Sales to customers during our first fiscal quarter may be lower than other quarters due to plant shutdowns at some of our customers during the holiday season. In general, the seasonality for any specific period of time has not had a material impact on our results of operations. In addition, as explained in our risk factors contained in Item 1A of this Annual Report on Form 10-K, our revenue is more likely to be influenced on a quarter to quarter basis by cyclicality in the semiconductor industry. 
+
+Production and Raw Materials 
+
+Monolithic IC components are manufactured in a sequence of semiconductor production steps that include wafer fabrication, wafer testing, cutting the wafer into individual &#8220;chips,&#8221; or dice, assembly of the dice into packages and electrical testing of the devices in final packaged form. The raw materials used to manufacture these devices include silicon wafers, processing chemicals (including liquefied gases), precious metals and ceramic and plastic used for packaging. 
+
+We utilize, develop and employ a wide variety of manufacturing processes, primarily based on bipolar and complementary metal-oxide semiconductor (CMOS) transistors, which are specifically tailored for use in fabricating high-performance analog, DSP and mixed-signal ICs. Devices such as MEMS, i Coupler&#174;isolators and various sensors, are fabricated using specialized processes, which typically use substantially similar equipment as bipolar and CMOS processes. 
+
+Our IC products are fabricated on proprietary processes at our internal production facilities in Wilmington, Massachusetts, Milpitas, California, Camas, Washington and Limerick, Ireland and also on a mix of proprietary and non-proprietary processes at third-party wafer fabricators. We currently source approximately 45% of our wafer requirements annually from third-party wafer fabrication foundries, primarily Taiwan Semiconductor Manufacturing Company (TSMC), typically where deep-submicron lithography capabilities and/or large manufacturing capacity is required. 
+
+We operate an assembly and wafer sort facility in Malaysia, and test facilities in the Philippines and Singapore. We also make extensive use of third-party subcontractors for the assembly and testing of our products. 
+
+Capital spending was approximately $204 million in fiscal 2017, compared with approximately $127 million in fiscal 2016 and $154 million in fiscal 2015. We expect capital expenditures for the fiscal year ending November 3, 2018 (fiscal 2018) to be in the range of $230 million to $270 million. 
+
+Our products require a wide variety of components, raw materials and external foundry services, most of which we purchase from third-party suppliers. We have multiple sources for many of the components and materials that we purchase and incorporate into our products. However, a large portion of our external wafer purchases and foundry services are from a limited number of suppliers, primarily TSMC. If TSMC or any of our other key suppliers are unable or unwilling to manufacture and deliver sufficient quantities of components to us, on the time schedule and of the quality that we require, we may be forced to seek to engage additional or replacement suppliers, which could result in significant expenses and disruptions or delays in manufacturing, product development and shipment of product to our customers. Although we have experienced shortages of components, materials and external foundry services from time to time, these items have generally been available to us as needed. 
+
+Backlog 
+
+Backlog at the end of fiscal 2017 &#32;was approximately $1.2 billion , up &#32;from approximately $700 million &#32;at the end of fiscal 2016 . We define backlog as of a particular date to mean firm orders from a customer or distributor with a requested delivery date within thirteen weeks. Backlog is impacted by the tendency of customers to rely on shorter lead times available from suppliers, including us, in periods of depressed demand. In periods of increased demand, there is a tendency towards longer lead times that has the effect of increasing backlog and, in some instances, we may not have manufacturing capacity sufficient to fulfill all orders. As is customary in the semiconductor industry, we allow most orders to be canceled or deliveries to be delayed by customers without significant penalty. Accordingly, we believe that our backlog at any time should not be used as an indication of our future revenue. 
+
+We typically do not have long-term sales contracts with our customers. In some of our markets where end-user demand may be particularly volatile and difficult to predict, some customers place orders that require us to manufacture product and have it available for shipment, even though the customer is unwilling to make a binding commitment to purchase all, or even any, of the product. In other instances, we manufacture product based on forecasts of customer demand. As a result, we may incur inventory and manufacturing costs in advance of anticipated sales and are subject to the risk of cancellation of orders leading to a sharp reduction of sales and backlog. Further, those orders or forecasts may be for products that meet the customer&#8217;s unique requirements so that those canceled orders would, in addition, result in an inventory of unsaleable products, resulting in potential inventory write-offs. As a result of lengthy manufacturing cycles for some of our products that are subject to these uncertainties, the amount of unsaleable product could be substantial. 
+
+Government Contracts 
+
+Less than 5% of our fiscal 2017 &#32;revenue was attributable to sales to the U.S. government and U.S. government contractors and subcontractors. Our government contract business is predominantly in the form of negotiated, firm, fixed-price subcontracts. Most of these contracts and subcontracts contain standard provisions relating to termination at the election of the U.S. government. 
+
+Acquisitions, Divestitures and Investments 
+
+An element of our business strategy involves expansion through the acquisition of businesses, assets, products or technologies that allow us to complement our existing product offerings, expand our market coverage, increase our engineering workforce or enhance our technological capabilities. From time to time, we consider acquisitions and divestitures that may strengthen our business. 
+
+On March 10, 2017, we completed the acquisition of Linear. The total consideration paid to acquire Linear was approximately $15.8 billion, consisting of $11.1 billion in cash financed through existing cash on hand, net proceeds from bridge and term loan facilities and proceeds received from the issuance of senior unsecured notes, $4.6 billion from the issuance of our common stock and $0.1 billion of consideration related to the replacement of outstanding equity awards held by Linear employees. 
+
+Additional information relating to our acquisition activities during fiscal 2017 , fiscal 2016 &#32;and fiscal 2015 &#32;is set forth in Note 6, Acquisitions, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K. There were no divestitures during any of the fiscal years presented. 
+
+Competition 
+
+We believe that competitive performance in the marketplace for signal processing products depends upon multiple factors, including technological innovation, strength of brand, diversity of product portfolio, product performance, technical support, delivery capabilities, customer service quality, reliability and price, with the relative importance of these factors varying among products, markets, and customers. 
+
+We compete with a number of semiconductor companies in markets that are highly competitive. Our competitors include but are not limited to: 
+
+##TABLE_START &#8226; Robert Bosch GmbH 
+
+&#160; 
+
+&#8226; Microchip Technology, Inc. 
+
+&#8226; Broadcom Limited 
+
+&#160; 
+
+&#8226; NXP Semiconductors 
+
+&#8226; Infineon Technologies 
+
+&#160; 
+
+&#8226; Texas Instruments, Inc. 
+
+&#8226; Maxim Integrated Products, Inc. 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+We believe that our technical innovation emphasizing product performance and reliability, supported by our commitment to strong customer service and technical support, enables us to make a fundamental difference to our customers&#8217; competitiveness in our chosen markets. 
+
+Environment, Health and Safety 
+
+We are committed to protecting the environment and the health and safety of our employees, customers and the public. We endeavor to adhere to applicable environmental, health and safety (EHS) regulatory and industry standards across all of our facilities, and to encourage pollution prevention, reduce our water and energy consumption, reduce waste generation, and strive towards continual improvement. We strive to achieve excellence in EHS management practices as an integral part of our total quality management system. 
+
+Our EHS management systems are certified to ISO 14001 for environmental, and conform to OHSAS 18001 for occupational health and safety. We are a member of the Electronic Industry Citizenship Coalition (EICC). Our Sustainability Report, first published in 2009, states our commitment to reducing Greenhouse gas (GHG) emissions, conserving resources by consuming less energy and water, complying with our code of business conduct and ethics, and applying fair labor standards, among other things. We are not including the information contained in our Sustainability Report in, or incorporating it by reference into this Annual Report on Form 10-K. 
+
+Our manufacturing facilities are subject to numerous and increasingly strict federal, state, local and foreign EHS laws and regulations, particularly with respect to the transportation, storage, handling, use, emission, discharge and disposal of certain chemicals used or produced in the semiconductor manufacturing process. Our products are subject to increasingly stringent regulations regarding chemical content in jurisdictions where we sell products, including the Restriction of Hazardous Substances (RoHS) directive in the European Union and China and the Registration, Evaluation, Authorization and Restriction of Chemicals (REACH) directive in the European Union. Contracts with many of our customers reflect these and additional EHS compliance standards. Compliance with these laws and regulations has not had a material impact on our capital expenditures, earnings, financial condition or competitive position. There can be no assurance, however, that current or future environmental laws and regulations will not impose costly requirements upon us. Any failure by us to comply with applicable environmental laws, regulations and contractual obligations could result in fines, suspension of production, the need to alter manufacturing processes and legal liability. 
+
+Employees 
+
+As of October 28, 2017 , we employed approximately 15,300 &#32;individuals worldwide. Our future success depends in large part on the continued service of our key technical and senior management personnel, and on our ability to continue to attract, retain and motivate qualified employees, particularly those highly-skilled engineers involved in the design, development, 
+
+support and manufacture of new and existing products and processes. We believe that relations with our employees are good; however, the competition for such personnel is intense, and the loss of key personnel could have a material adverse impact on our results of operations and financial condition. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Set forth below and elsewhere in this report and in other documents we file with the SEC are descriptions of the risks and uncertainties that could cause our actual results to differ materially from the results contemplated by the forward-looking statements contained in this report. 
+
+Our acquisition of Linear Technology Corporation (Linear) and the integration of its business, operations and employees with our own may be more difficult, costly or time consuming than expected, and the anticipated benefits and cost savings of the acquisition may not be fully realized, which could adversely impact our business operations, financial condition and results of operations. 
+
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;We completed the acquisition of Linear, which we refer to as the Acquisition, on March 10, 2017. The success of the Acquisition, including the achievement of anticipated benefits and cost savings of the Acquisition, is subject to a number of uncertainties and will depend, in part, on our ability to successfully combine and integrate Linear's business into our business in an efficient and effective manner. Potential difficulties the combined company may encounter in the integration process include the following: 
+
+##TABLE_START &#8226; 
+
+the inability to successfully integrate Linear's business into our own in a manner that permits the combined company to achieve the cost savings and operating synergies anticipated to result from the Acquisition, which could result in the anticipated benefits of the Acquisition not being realized partly or wholly in the time frame currently anticipated or at all; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+lost sales and customers as a result of certain customers of either or both of the two companies deciding not to do business with the combined company, or deciding to decrease their amount of business in order to reduce their reliance on a single company; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+loss of key management and technical personnel, particularly our experienced engineers; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+integrating personnel, IT systems and corporate, finance and administrative infrastructures of the two companies while maintaining focus on providing consistent, high quality products and services; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+coordinating and integrating our internal operations, compensation programs, policies and procedures, and corporate structures; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+potential unknown liabilities and unforeseen or increased costs and expenses; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the possibility of faulty assumptions underlying expectations regarding potential synergies and the integration process; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+incurring significant Acquisition-related costs and expenses associated with combining our operations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+performance shortfalls at one or both of the two companies as a result of the diversion of management&#8217;s attention caused by integrating the companies&#8217; operations; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+servicing the substantial debt that we have incurred in connection with the Acquisition. 
+
+##TABLE_END 
+
+Any of these factors could result in the combined company failing to realize the anticipated benefits of the Acquisition, on the expected timeline or at all, and could adversely impact our business operations, financial condition and results of operations. 
+
+Disruptions in global credit and financial markets could materially and adversely affect our business and results of operations. 
+
+Continuing uncertainty regarding the stability of global credit and financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders for our products and make it difficult for us to accurately forecast and plan our future business activities. Significant disruption to global credit and financial markets may also adversely affect our ability to access external financing sources on acceptable terms. Financial difficulties experienced by our customers could result in nonpayment or payment delays for previously purchased products, thereby increasing our credit risk exposure. Uncertainty regarding the future stability of the global credit and financial markets could cause the value of the currency in the affected markets to deteriorate, thus reducing the purchasing power of those customers. In addition, financial difficulties experienced by our suppliers or distributors could result in product delays, increased accounts receivable defaults and inventory challenges. If economic conditions deteriorate, we may record additional charges relating to restructuring costs or the impairment of assets and our business and results of operations could be materially and adversely affected. 
+
+Our future revenue, gross margins, operating results, net income and earnings per share are difficult to predict and may materially fluctuate. 
+
+Our future revenue, gross margins, operating results, net income and earnings per share are difficult to predict and may be materially affected by a number of factors, including: 
+
+##TABLE_START &#8226; 
+
+the effects of adverse economic conditions in the markets in which we sell our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in customer demand for our products and/or for end products that incorporate our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the timing, delay, reduction or cancellation of significant customer orders and our ability to manage inventory; 
+
+##TABLE_END
+
+##TABLE_START &#8226; 
+
+fluctuations in customer order patterns and seasonality; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our ability to effectively manage our cost structure in both the short term and over a longer duration; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in geographic, product or customer mix; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in our effective tax rates or new or revised tax legislation in the United States, Ireland or worldwide; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the timing of new product announcements or introductions by us, our customers or our competitors and the market acceptance of such products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+pricing decisions and competitive pricing pressures; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+fluctuations in manufacturing yields, adequate availability of wafers and other raw materials, and manufacturing, assembly and test capacity; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the ability of our third-party suppliers, subcontractors and manufacturers to supply us with sufficient quantities of raw materials, products and/or components; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+a decline in infrastructure spending by foreign governments, including China; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+a decline in the U.S. Government defense budget, changes in spending or budgetary priorities, a prolonged U.S. Government shutdown or delays in contract awards; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+any significant decline in our backlog; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our ability to recruit, hire, retain and motivate adequate numbers of engineers and other qualified employees to meet the demands of our customers; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our ability to generate new design opportunities and win competitive bid selection processes; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the increasing costs of providing employee benefits, including health insurance, retirement plan and pension plan contributions and retirement benefits; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our ability to utilize our manufacturing facilities at efficient levels; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+potential significant litigation-related costs or product warranty and/or indemnity claims, including those not covered by our suppliers or insurers; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the difficulties inherent in forecasting future operating expense levels, including with respect to costs associated with labor, utilities, transportation and raw materials; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the costs related to compliance with increasing worldwide government, environmental and social responsibility regulations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+new accounting pronouncements or changes in existing accounting standards and practices; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the effects of public health emergencies, natural disasters, widespread travel disruptions, security risks, terrorist activities, international conflicts, government sanctions, changes in law, including executive orders, changes in import and export regulations and other events beyond our control. 
+
+##TABLE_END In addition, the semiconductor market has historically been cyclical and subject to significant economic upturns and downturns. Our business and certain of the end markets we serve are also subject to rapid technological changes and material fluctuations in demand based on end-user preferences. There can be no assurance (i) that products stocked in our inventory will not be rendered obsolete before we ship them, or (ii) that we will be able to design, develop and produce products in a timely fashion to accommodate changing customer demand. As a result of these and other factors, we may experience material fluctuations in future revenue, gross margins, operating results, net income and earnings per share on a quarterly or annual basis. Our historical financial performance and results of operations should not be relied upon as indicators of future performance or results. In addition, if our revenue, gross margins, operating results, net income and earnings per share results or expectations do not meet the expectations of securities analysts or investors, the market price of our common stock may decline. 
+
+Increases in our effective tax rate and exposure to additional tax liabilities may adversely impact our results of operations. 
+
+Our effective tax rate reflects the applicable tax rate in effect in the various tax jurisdictions around the world where our income is earned. Our effective tax rate for fiscal 2017 was below the U.S. federal statutory tax rate of 35%, primarily due to 
+
+lower statutory tax rates applicable to our operations in the foreign jurisdictions in which we earn income. A number of factors may increase our future effective tax rate, including: new or revised tax laws or legislation or the interpretation of such laws or legislation by governmental authorities; increases in tax rates in various jurisdictions; variation in the mix of jurisdictions in which our profits are earned and taxed; repatriation of non-U.S. earnings; any adverse resolution of ongoing tax audits or adverse rulings from taxing authorities worldwide; changes in the valuation of our deferred tax assets and liabilities; adjustments to income taxes upon finalization of various tax returns; increases in expenses not deductible for tax purposes, including executive compensation subject to the limitations of Section 162(m) of the Internal Revenue Code and amortization of assets acquired in connection with strategic transactions; decreased availability of tax deductions for stock-based compensation awards worldwide; and changes in available tax credits. In addition, we have a partial tax holiday through July 2025 in Malaysia and a partial tax holiday in Singapore through August 2019. The ability to extend such tax holidays beyond their date of expiration cannot be assured; if we fail to meet certain conditions to the tax holidays, we may lose the benefit of the tax holdings and/or be subject to additional taxes and/or penalties. Any significant increase in our future effective tax rate could adversely impact our net income during future periods. 
+
+On October 5, 2015, the Organization for Economic Cooperation and Development (OECD), an international association of thirty-five countries, including the United States, Ireland and UK, released the final reports from its Base Erosion and Profit Shifting (BEPS) Action Plans. The BEPS recommendations covered a number of issues, including country-by-country reporting, permanent establishment rules, transfer pricing rules and tax treaties. Future tax reform resulting from such recommendations may result in changes to long-standing tax principles, which could adversely affect our effective tax rate or result in higher cash tax liabilities. 
+
+Long-term contracts are not typical for us, and incorrect forecasts or reductions, cancellations or delays in orders for our products could adversely affect our operating results. 
+
+We typically do not have long-term sales contracts with our customers. In certain markets where end-user demand may be particularly volatile and difficult to predict, some customers place orders that require us to manufacture product and have it available for shipment, even though the customer is unwilling to make a binding commitment to purchase all, or even any, of the product. In other instances, we manufacture product based on forecasts of customer demands, which may fluctuate significantly on a quarterly or annual basis. Additionally, our U.S. government contracts and subcontracts may be funded in increments over a number of government budget periods and typically can be terminated by the government for its convenience. As a result, we may incur inventory and manufacturing costs in advance of anticipated sales, and we are subject to the risk of lower than expected orders or cancellations of orders, leading to a sharp reduction of sales and backlog. Further, orders or forecasts for products that meet the customer&#8217;s unique requirements and that are canceled or unrealized orders would, in addition, result in an inventory of unsaleable products, causing potential inventory write-offs, and we may be unable to recover all of our costs incurred or committed. As a result of lengthy manufacturing cycles for certain of the products that are subject to these uncertainties, the amount of unsaleable product could be substantial. Incorrect forecasts, or reductions, cancellations or delays in orders for our products could adversely affect our operating results. 
+
+Our future success depends upon our ability to execute our business strategy, continue to innovate, improve our existing products, design, develop, produce and market new products, and identify and enter new markets. 
+
+Our future success significantly depends on our continued ability to execute our business strategy, continue to improve our existing products and design, develop, produce and market innovative new products. Product design, development, innovation and enhancement is often a complex, time-consuming and costly process involving significant investment in research and development, with no assurance of return on investment. There can be no assurance that we will be able to develop and introduce new and improved products in a timely or efficient manner or that new and improved products, if developed, will achieve market acceptance. Our products generally must conform to various evolving and sometimes competing industry standards, which may adversely affect our ability to compete in certain markets or require us to incur significant costs. In addition, our customers generally impose very high quality and reliability standards on our products, which often change and may be difficult or costly to satisfy. Any inability to satisfy customer quality and reliability standards or comply with industry standards and technical requirements may adversely affect demand for our products and our results of operations. In addition, our growth is dependent on our ability to generate new design opportunities and win competitive bid selection processes. Failure to obtain or maintain a particular design win may prevent us from obtaining or maintaining design wins in subsequent generations of a particular product and could also weaken our position in future competitive selection processes. Our growth is also dependent on our ability to identify and penetrate new markets where we have limited experience and competition is intense. Some of our customers in new markets are less established, which could subject us to increased credit risk. There can be no assurance that the markets we serve and/or target based on our business strategy will grow in the future, that our existing and new products will meet the requirements of these markets, that our products, or the products in which our products are used, will achieve customer acceptance in these markets, that competitors will not force price reductions or take market share from us, or that we can achieve or maintain adequate gross margins or profits in these markets. Additionally, developing markets, such as the Internet of Things (IoT) and autonomous driving, require significant investments, resources and technological advancements in order to compete effectively and there can be no assurance that we 
+
+will achieve success in these markets. Furthermore, a decline in demand in one or several of our end-user markets could have a material adverse effect on the demand for our products and our results of operations. 
+
+We may not be able to compete successfully in markets within the semiconductor industry in the future. 
+
+We face intense competition in the semiconductor industry, and we expect this competition to increase in the future, including from companies located outside of the United States. Competition is generally based on innovation, design, quality and reliability of products, product performance, features and functionality, product pricing, availability and capacity, technological service and support, and the availability of integrated system solutions, with the relative importance of these factors varying among products, markets and customers. Many companies have sufficient financial, manufacturing, technical, sales and marketing resources to develop and market products that compete with our products. Some of our competitors may have more advantageous supply or development relationships with our current and potential customers or suppliers. Our competitors also include emerging companies selling specialized products in markets we serve and entities outside of the U.S., including entities associated with efforts by foreign governments to create indigenous semiconductor industries. Existing or new competitors may develop products or technologies that more effectively address the demands of our customers and markets with enhanced performance, features and functionality, lower power requirements, greater levels of integration or lower cost. In addition, as we seek to expand our business, including the design and production of products and services for the IoT market, we may encounter increased competition from our current competitors and/or new competitors. Increased competition in certain markets has resulted in and may continue to result in declining average selling prices, reduced gross margins and loss of market share in those markets. There can be no assurance that we will be able to compete successfully in the future against existing or new competitors, or that our operating results will not be adversely affected by increased competition. In addition, the semiconductor industry has experienced significant consolidation over the past several years. Consolidation among our competitors could lead to a changing competitive landscape, which could negatively impact our competitive position and market share and harm our results of operations. 
+
+We rely on third-party suppliers, subcontractors and manufacturers for some industry-standard wafers, manufacturing processes, assembly and test services, and transportation, and we generally cannot control their availability or conditions of supply. 
+
+We rely, and plan to continue to rely, on third-party suppliers, assembly and test subcontractors, freight carriers and wafer fabricators (collectively, suppliers) to supply most of our products that can be manufactured using industry-standard processes. This reliance involves several risks, including reduced control over availability, capacity utilization, delivery schedules, manufacturing yields, and costs. We currently source approximately 45% of our wafer requirements annually from third-party wafer fabrication foundries, primarily Taiwan Semiconductor Manufacturing Company . &#32;In addition, these suppliers often provide manufacturing services to our competitors and therefore periods of increased industry demand may result in capacity constraints. In certain instances, the third-party supplier is the sole source of highly specialized processing services. If our suppliers are unable or unwilling to manufacture and deliver components to us on the time schedule and of the quality or quantity that we require or provide us with required manufacturing processes, we may be forced to seek to engage additional or replacement suppliers, which could result in additional expenses and delays in product development or shipment of product to our customers. If additional or replacement suppliers or manufacturing processes are not available, we may also experience delays in product development or shipment which could, in turn, result in the temporary or permanent loss of customers. 
+
+A prolonged disruption of our internal manufacturing operations could have a material adverse effect on our business, financial condition and results of operations. 
+
+In addition to leveraging an outsourcing model for manufacturing operations, we also rely on our internal manufacturing operations located in the United States, Ireland, the Philippines, Singapore and Malaysia. A prolonged disruption at, or inability to utilize, one or more of our manufacturing facilities, loss of raw materials or damage to our manufacturing equipment for any reason, including due to natural or man-made disasters or other events outside of our control, such as widespread outbreaks of illness or the failure to maintain our labor force at one or more of these facilities, may disrupt our operations, delay production, shipments and revenue and result in us being unable to timely satisfy customer demand. As a result, we could forgo revenue opportunities, potentially lose market share and damage our customer relationships, all of which could materially and adversely affect our business, financial condition and results of operations. 
+
+If we are unable to generate sufficient cash flow, we may not be able to service our debt obligations, including making payments on our outstanding term loans and senior unsecured notes. 
+
+Our ability to make payments of principal and interest on our indebtedness when due, including the significant indebtedness that we have incurred in connection with the Acquisition, depends upon our future performance, which will be subject to general economic conditions, industry cycles and financial, business and other factors affecting our consolidated operations, many of which are beyond our control. If we are unable to generate sufficient cash flow from operations in the future to service our outstanding debt, we may be required to, among other things: 
+
+##TABLE_START &#8226; 
+
+seek additional financing in the debt or equity markets; 
+
+##TABLE_END
+
+##TABLE_START &#8226; 
+
+refinance or restructure all or a portion of our indebtedness; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+borrow under our revolving credit facility; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+divert funds that would otherwise be invested in our operations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+repatriate earnings at higher tax rates that are indefinitely reinvested in foreign locations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+sell selected assets; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+reduce or delay planned capital expenditures or operating expenditures. 
+
+##TABLE_END Such measures might not be sufficient to enable us to service our debt, which could negatively impact our financial results. In addition, we may not be able to obtain any such financing, refinancing or complete a sale of assets on economically favorable terms. In the case of financing or refinancing, favorable interest rates will be dependent on the health of the debt capital markets. 
+
+Our significant existing indebtedness could also have the effect, among other things, of reducing our flexibility to respond to changing business and economic conditions, reducing funds available for working capital, capital expenditures, acquisitions and other general corporate purposes or creating competitive disadvantages relative to other companies with lower debt levels. 
+
+The markets for semiconductor products are cyclical, and increased production may lead to overcapacity and lower prices, and conversely, we may not be able to satisfy unexpected demand for our products. 
+
+The cyclical nature of the semiconductor industry has resulted in periods when demand for our products has increased or decreased rapidly. The demand for our products is subject to the strength of our four major end markets of Industrial, Communications, Automotive and Consumer. If we expand our operations and workforce too rapidly or procure excessive resources in anticipation of increased demand for our products, and that demand does not materialize at the pace at which we expect, or declines, or if we overbuild inventory in a period of decreased demand, our operating results may be adversely affected as a result of increased operating expenses, reduced margins, underutilization of capacity or asset impairment charges. These capacity expansions by us and other semiconductor manufacturers could also lead to overcapacity in our target markets which could lead to price erosion that would adversely impact our operating results. Conversely, during periods of rapid increases in demand, our available capacity may not be sufficient to satisfy the demand. In addition, we may not be able to expand our workforce and operations in a sufficiently timely manner, procure adequate resources and raw materials, locate suitable third-party suppliers, or respond effectively to changes in demand for our existing products or to demand for new products requested by our customers, and our current or future business could be materially and adversely affected. 
+
+Our semiconductor products are complex and we may be subject to product warranty and indemnity claims, which could result in significant costs and damage to our reputation and adversely affect customer relationships, the market acceptance of our products and our operating results. 
+
+Semiconductor products are highly complex and may contain defects when they are first introduced or as new versions are developed. Failures in our products and services or in the products of customers could result in damage to our reputation for reliability and increase our legal or financial exposure to third parties. Certain of our products and services could also contain security vulnerabilities, defects, bugs and errors, which could also result in significant data losses, security breaches and theft of intellectual property. We generally warrant our products to our customers for one year from the date title passes from us. We invest significant resources in the testing of our products; however, if any of our products contain defects, we may be required to incur additional development and remediation costs pursuant to warranty and indemnification provisions in our customer contracts and purchase orders. These problems may divert our technical and other resources from other product development efforts and could result in claims against us by our customers or others, including liability for costs and expenses associated with product recalls, which may adversely impact our operating results. We may also be subject to customer indemnity claims. Our customers have on occasion been sued, and may be sued in the future, by third parties alleging infringement of intellectual property rights, or damages resulting from use of our products. Those customers may seek indemnification from us under the terms and conditions of our sales contracts with them. In certain cases, our potential indemnification liability may be significant. If any of our products contain defects, or have reliability, quality or compatibility problems, our reputation may be damaged, which could make it more difficult for us to sell our products to customers and could also adversely affect our operating results. 
+
+The fabrication of integrated circuits is highly complex and precise, and our manufacturing processes utilize a substantial amount of technology. Minute impurities, contaminants in the manufacturing environment, difficulties in the fabrication process, defects in the masks used in the wafer manufacturing process, manufacturing equipment failures, wafer breakage or other factors can cause a substantial percentage of wafers to be rejected or numerous dice on each wafer to be nonfunctional. While we have significant expertise in semiconductor manufacturing, it is possible that some processes could become unstable. 
+
+This instability could result in manufacturing delays and product shortages, which could have a material adverse effect on our operating results. 
+
+We are occasionally involved in litigation, including claims regarding intellectual property rights, which could be costly to litigate and could require us to redesign products or pay significant royalties. 
+
+The semiconductor industry is characterized by frequent claims and litigation involving patent and other intellectual property rights, including claims arising under our contractual obligations to indemnify our customers. Other companies or individuals have obtained patents covering a variety of semiconductor designs and processes, and we might be required to obtain licenses under some of these patents or be precluded from making and selling infringing products, if those patents are found to be valid and infringed by us. In the event a third party makes a valid intellectual property claim against us and a license is not available to us on commercially reasonable terms, or at all, we could be forced either to redesign or to stop production of products incorporating that intellectual property, and our operating results could be materially and adversely affected. Litigation may be necessary to enforce our patents or other of our intellectual property rights or to defend us against claims of infringement, and this litigation could be costly and divert the attention of our key personnel. We could also be subject to litigation or arbitration disputes arising under our contractual obligations, as well as indemnity, warranty or product liability claims that could lead to significant costs and expenses as we defend those claims or pay damage awards. There can be no assurance that we are adequately insured to protect against all claims and potential liabilities, and we may elect to self-insure with respect to certain matters. An adverse outcome in litigation or arbitration could have a material adverse effect on our financial position or on our operating results or cash flows in the period in which the dispute is resolved. 
+
+We may be unable to adequately protect our proprietary intellectual property rights, which may limit our ability to compete effectively. 
+
+Our future success depends, in part, on our ability to protect our intellectual property. We primarily rely on patent, mask work, copyright, trademark and trade secret laws, as well as nondisclosure agreements and other methods, to protect our proprietary technologies and processes. Despite our efforts to protect our intellectual property, it is possible that competitors or other unauthorized third parties may obtain, copy, reverse engineer, use or disclose our technologies, products and processes. Moreover, the laws of foreign countries in which we design, manufacture, market and sell our products may afford little or no effective protection of our proprietary intellectual property. 
+
+There can be no assurance that the claims allowed in our issued patents will be sufficiently broad to protect our technology. In addition, any of our existing or future patents may be challenged, invalidated or circumvented. As such, any rights granted under these patents may not provide us with adequate protection. We may not be able to obtain foreign patents or pending applications corresponding to our U.S. patents and applications. Even if patents are granted, enforcement may not be available or achieved under the circumstances. If our patents and mask works do not adequately protect our technology, our competitors may be able to offer products similar to ours. Our competitors may also be able to develop similar technology independently or design around our patents. 
+
+We generally enter into confidentiality agreements with our employees, consultants and strategic partners. We also try to control access to and distribution of our technologies, documentation and other proprietary information. Despite these efforts, internal or external parties may attempt to copy, disclose, obtain or use our products or technology without our authorization. Also, former employees may seek employment with our business partners, customers or competitors, and there can be no assurance that the confidential nature of our proprietary information will be maintained in the course of such future employment. 
+
+A significant disruption in, or breach in security of, our information technology systems could materially and adversely affect our business or reputation. 
+
+We rely on information technology systems throughout our company to keep financial records and customer data, process orders, manage inventory, coordinate shipments to customers, maintain confidential and proprietary information, assist in semiconductor engineering and other technical activities and operate other critical functions such as Internet connectivity, network communications and email. Our information technology systems may be susceptible to damage, disruptions or shutdowns due to power outages, hardware failures, telecommunication failures, user errors, catastrophes or other unforeseen events. We also utilize external cloud providers for certain infrastructure activities. If we were to experience a prolonged disruption in the information technology systems that involve our internal communications or our interactions with customers or suppliers, it could result in the loss of sales and customers and significant incremental costs, which could adversely affect our business. We may also be subject to security breaches caused by computer viruses, illegal break-ins or hacking, sabotage, or acts of vandalism by third parties or our employees or contractors. Our security measures or those of our third party service providers may not detect or prevent security breaches, defects, bugs or errors. In addition, we provide our confidential and proprietary information to our strategic partners in certain cases where doing so is necessary to conduct our business. While we employ confidentiality agreements to protect such information, nonetheless those third parties may also be subject to security breaches or otherwise compromise the protection of such information. Security breaches of our information technology 
+
+systems or those of our partners could result in the misappropriation or unauthorized disclosure of confidential and proprietary information belonging to us or to our employees, partners, customers or suppliers, which could result in our suffering significant financial or reputational damage. 
+
+If we are unable to recruit or retain our key personnel, our ability to execute our business strategy will be adversely affected. 
+
+Our continued success depends to a significant extent upon the recruitment, retention and effective succession of our executive officers and key management and technical personnel, particularly our experienced engineers. The competition for these employees is intense. The loss of the services of one or more of our key personnel could have a material adverse effect on our operating results. The inability to attract and retain key employees with critical technical skills to achieve our strategy could also have a material adverse effect on our business. In addition, there could be a material adverse effect on our business should the turnover rates for engineers and other key personnel increase significantly or if we are unable to continue to attract and retain qualified personnel. We do not maintain any key person life insurance policy on any of our officers or employees. 
+
+To remain competitive, we may need to invest in or acquire other companies, purchase or license technology from third parties, or enter into other strategic transactions in order to introduce new products or enhance our existing products. 
+
+An element of our business strategy involves expansion through the acquisitions of businesses, assets, products or technologies that allow us to complement our existing product offerings, diversify our product portfolio, expand our market coverage, increase our engineering workforce, expand our technical skill sets or enhance our technological capabilities. We may not be able to find businesses that have the technology or resources we need and, if we find such businesses, we may not be able to invest in, purchase or license the technology or resources on commercially favorable terms or at all. Acquisitions, investments and technology licenses are difficult to identify and complete for a number of reasons, including the cost of potential transactions, competition among prospective buyers and licensees, the need for regulatory approvals, and difficulties related to integration efforts. In addition, investments in private companies are subject to a risk of a partial or total loss of our investment. Both in the U.S. and abroad, governmental regulation of acquisitions, including antitrust reviews and approvals, has become more complex, increasing the costs and risks of undertaking and consummating significant acquisitions. In order to finance a potential transaction, we may need to raise additional funds by issuing securities or borrowing money. We may not be able to obtain financing on favorable terms, and the sale of our stock may result in the dilution of our existing shareholders or the issuance of securities with rights that are superior to the rights of our common shareholders. 
+
+Acquisitions also involve a number of challenges and risks, including: 
+
+##TABLE_START &#8226; 
+
+difficulty or delay integrating acquired technologies, operations and personnel with our existing businesses; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+diversion of management's attention in connection with both negotiating the transaction and integrating the assets; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+strain on managerial and operational resources as management tries to oversee larger or more complex operations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the future funding requirements for acquired companies, which may be significant; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+potential loss of key employees; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+exposure to unforeseen liabilities or regulatory compliance issues of acquired companies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+higher than expected or unexpected costs relating to or associated with an acquisition and integration of assets; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+difficulty realizing synergies and growth prospects of an acquisition in a timely manner or at all; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased risk of costly and time-consuming legal proceedings. 
+
+##TABLE_END If we are unable to successfully address these risks, we may not realize some or all of the expected benefits of the acquisition, which may have an adverse effect on our business strategy, plans and operating results. 
+
+We rely on supplies, services and manufacturing capacity located in geologically unstable areas, which could affect our ability to produce products. 
+
+We, like many companies in the semiconductor industry, rely on supplies, services, internal manufacturing capacity, wafer fabrication foundries and other subcontractors in geologically unstable locations around the world. Earthquakes, tsunamis, flooding or other natural disasters may disrupt local semiconductor-related businesses and adversely affect manufacturing capacity, availability and cost of key raw materials, utilities and equipment, and availability of key services, including transport of our products worldwide. Our insurance may not adequately cover losses resulting from such disruptions. Any prolonged inability to utilize one of our manufacturing facilities, or those of our subcontractors or third-party wafer fabrication foundries, as a result of fire, flood, natural disaster, unavailability of utilities or otherwise, could result in a temporary or permanent loss of customers for affected products, which could have a material adverse effect on our results of operations and financial condition. 
+
+We are exposed to business, economic, political, legal, regulatory and other risks through our significant worldwide operations, which could adversely affect our business, financial condition and results of operations. 
+
+We have significant operations and manufacturing facilities outside the United States, including in Ireland, the Philippines, Singapore and Malaysia. A significant portion of our revenue is derived from customers in international markets, and we expect that international sales will continue to account for a significant portion of our revenue in the future. Risks associated with our international business operations include the following: 
+
+##TABLE_START &#8226; 
+
+political, legal and economic changes or instability and civil unrest in foreign markets; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+currency conversion risks and exchange rate and interest rate fluctuations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+limitations on the repatriation of earnings; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+trade and travel restrictions or government sanctions, including import or export tariffs or restrictions imposed by the U.S. government on trading with parties in foreign countries; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+complex, varying and changing government regulations and legal standards and requirements, particularly with respect to price protection, competition practices, export control regulations and restrictions, customs and tax requirements, immigration, anti-boycott regulations, data privacy, intellectual property, anti-corruption and environmental compliance, including U.S. customs and export regulations and restrictions, International Traffic in Arms Regulations and the Foreign Corrupt Practices Act; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+economic disruption from terrorism and threats of terrorism and the response to them by the U.S. and its allies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased managerial complexities, including different employment practices and labor issues; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+greater difficulty enforcing intellectual property rights and weaker laws protecting such rights; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+natural disasters or pandemics; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+transportation disruptions and delays and increases in labor and transportation costs; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes to foreign taxes, tariffs and freight rates; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+fluctuations in raw material costs and energy costs; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+greater difficulty in accounts receivable collections and longer collection periods; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+costs associated with our foreign defined benefit pension plans. 
+
+##TABLE_END Any of these risks, or any other risks related to international business operations, could materially adversely affect our business, financial condition and results of operations. 
+
+Many of these risks are present in China. While we expect to continue to expand our business and operations in China, our success in the Chinese markets may be adversely affected by China&#8217;s continuously evolving policies, laws and regulations, including those relating to taxation, import and export tariffs or restrictions, currency controls, antitrust, cybersecurity and data protection, the environment, indigenous innovation and the promotion of a domestic semiconductor industry, and intellectual property rights and enforcement and protection of those rights. Enforcement of existing laws or agreements may be inconsistent. In addition, changes in the political environment, governmental policies, international trade policies and relations, or U.S.-China relations could result in revisions to laws or regulations or their interpretation and enforcement, exposure of our proprietary intellectual property, increased taxation, and restrictions on imports, import duties or currency revaluations, which could have an adverse effect on our business plans and operating results. 
+
+At October 28, 2017 , our principal source of liquidity was $1.0 billion &#32;of cash and cash equivalents and short-term investments, of which approximately $379.2 million &#32;was held in the United States and the remaining balance was held outside the United States in various foreign subsidiaries. As we intend to reinvest substantially all of our foreign earnings indefinitely, this cash held outside the United States is not available to meet certain aspects of our cash requirements in the United States. We require a substantial amount of cash in the United States for operating requirements, stock repurchases, cash dividends and acquisitions. If we are unable to address our U.S. cash requirements through operations, borrowings under our current revolving credit facility, future debt or equity offerings or other sources of cash obtained at an acceptable cost, it may be necessary for us to consider repatriation of earnings that are indefinitely reinvested, and we may be required to pay additional taxes under current tax laws, which could have a material adverse effect on our results of operations and financial condition. 
+
+Our operating results are dependent on the performance of independent distributors. 
+
+A significant portion of our sales are through independent distributors that are not under our control. These independent distributors generally represent product lines offered by several companies and thus could reduce their sales efforts applied to 
+
+our products or they could terminate their representation of us. We generally do not require letters of credit from our distributors and are not protected against accounts receivable default or declarations of bankruptcy by these distributors. Our inability to collect open accounts receivable could adversely affect our operating results. Termination of a significant distributor or a group of distributors, whether at our initiative or the distributor&#8217;s initiative or through consolidation in the distribution industry, could disrupt our current business, and if we are unable to find suitable replacements, our operating results could be adversely affected. We have also recently reduced the number of distributors we use, which may exacerbate the foregoing risks. 
+
+We are subject to environmental, health and safety (EHS) regulations, which could increase our expenses and affect our operating results. 
+
+Our industry is subject to EHS requirements, particularly those environmental requirements that control and restrict the sourcing, use, transportation, emission, discharge, storage and disposal of certain chemicals, and materials used or produced in the semiconductor manufacturing process. Public attention to environmental, sustainability and social responsibility concerns continues to increase, and our customers routinely include stringent environmental and other standards in their contracts with us. Changes in EHS laws or regulations may require us to invest in costly equipment or make manufacturing process changes and may adversely affect the sourcing, supply and pricing of materials used in our products. In addition, we use hazardous and other regulated materials that subject us to risks of strict liability for damages caused by potential or actual releases of such materials. Any failure to control such materials adequately or to comply with existing or future EHS statutory or regulatory standards, requirements or contractual obligations could result in any of the following, each of which could have a material adverse effect on our business and operating results: 
+
+##TABLE_START &#8226; 
+
+liability for damages and remediation; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the imposition of regulatory penalties and civil and criminal fines; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the suspension or termination of the development, manufacture, sale or use of certain of our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes to our manufacturing processes or a need to substitute materials that may cost more or be less available; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+damage to our reputation; and/or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased expenses associated with compliance. 
+
+##TABLE_END If we fail to comply with government contracting regulations, we could suffer a loss of revenue or incur price adjustments or other penalties. 
+
+Some of our revenue is derived from contracts with agencies of the United States government and subcontracts with its prime contractors. As a United States government contractor or subcontractor, we are subject to federal contracting regulations, including the Federal Acquisition Regulations, which govern the allowability of costs incurred by us in the performance of United States government contracts. Certain contract pricing is based on estimated direct and indirect costs, which are subject to change. Additionally, the United States government is entitled after final payment on certain negotiated contracts to examine all of our cost records with respect to such contracts and to seek a downward adjustment to the price of the contract if it determines that we failed to furnish complete, accurate and current cost or pricing data in connection with the negotiation of the price of the contract. 
+
+In connection with our United States government business, we are also subject to government audits and to review and approval of our policies, procedures, and internal controls for compliance with procurement regulations and applicable laws. In certain circumstances, if we do not comply with the terms of a contract or with regulations or statutes, we could be subject to downward contract price adjustments or refund obligations or could in extreme circumstances be assessed civil and criminal penalties or be debarred or suspended from obtaining future contracts for a specified period of time. Any such suspension or debarment or other sanction could have an adverse effect on our business. 
+
+Under some of our government subcontracts, we are required to maintain secure facilities and to obtain security clearances for personnel involved in performance of the contract, in compliance with applicable federal standards. If we were unable to comply with these requirements, or if personnel critical to our performance of these contracts were unable to obtain or maintain their security clearances, we might be unable to perform these contracts or compete for other projects of this nature, which could adversely affect our revenue. 
+
+Restrictions in our revolving credit facility, term loans and outstanding debt instruments may limit our activities. 
+
+Our current revolving credit facility, term loans and outstanding debt instruments impose, and future debt instruments to which we may become subject may impose, restrictions that limit our ability to engage in activities that could otherwise benefit our Company, including to undertake certain transactions, to create certain liens on our assets and to incur certain subsidiary indebtedness. Our ability to comply with these financial restrictions and covenants is dependent on our future performance, which is subject to prevailing economic conditions and other factors, including factors that are beyond our control such as foreign exchange rates, interest rates and changes in technology, government regulations and the level of competition. In 
+
+addition, our revolving credit facility requires us to maintain compliance with specified financial ratios. If we breach any of the covenants under our revolving credit facility, the indentures governing our outstanding senior unsecured notes, the term loans or any future debt instruments to which we may become subject and do not obtain appropriate waivers, then, subject to applicable cure periods, our outstanding indebtedness thereunder could be declared immediately due and payable or we may be restricted from further borrowing under our revolving credit facility. 
+
+Our stock price may be volatile. 
+
+The market price of our common stock has been volatile in the past and may be volatile in the future, as it may be significantly affected by factors including: 
+
+##TABLE_START &#8226; 
+
+global economic conditions generally; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+crises in global credit, debt and financial markets; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+actual or anticipated fluctuations in our revenue and operating results; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in financial estimates or other statements made by securities analysts or others in analyst reports or other publications or our failure to perform in line with those estimates or statements or our published guidance; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+financial results and prospects of our customers; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+U.S. and foreign government actions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in market valuations of other semiconductor companies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+rumors and speculation in the press, investment community or on social media about us, our customers or other companies in our industry; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+announcements by us, our customers or our competitors of significant new products, technical innovations, material transactions, acquisitions or dispositions, litigation, capital commitments or revised earnings estimates; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+departures of key personnel; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+alleged noncompliance with laws, regulations or ethics standards by us or any of our employees, officers or directors; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+negative media publicity targeting us or our suppliers, customers or competitors. 
+
+##TABLE_END The stock market has historically experienced volatility, especially within the semiconductor industry, that often has been unrelated to the performance of particular companies. These market fluctuations may cause our stock price to fall regardless of our operating results. 
+
+Our directors and executive officers periodically sell shares of our common stock in the market, including pursuant to Rule 10b5-1 trading plans. Regardless of the individual's reasons for such sales, securities analysts and investors could view such sales as a negative indicator and our stock price could be adversely affected as a result. 
+
+
+
+ ITEM 7. 
+
+MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (all tabular amounts in thousands except per share amounts) 
+
+##TABLE_END Results of Operations 
+
+Overview ##TABLE_START &#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160;$ Change 
+
+&#160; 
+
+% Change 
+
+Revenue 
+
+$ 
+
+5,107,503 
+
+&#160; 
+
+$ 
+
+3,421,409 
+
+&#160; 
+
+$ 
+
+3,435,092 
+
+&#160; 
+
+$ 
+
+1,686,094 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+(13,683 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Gross Margin % 
+
+59.9 
+
+% 
+
+&#160; 
+
+65.1 
+
+% 
+
+&#160; 
+
+65.8 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income 
+
+$ 
+
+727,259 
+
+&#160; 
+
+$ 
+
+861,664 
+
+&#160; 
+
+$ 
+
+696,878 
+
+&#160; 
+
+$ 
+
+(134,405 
+
+) 
+
+&#160; 
+
+(16 
+
+)% 
+
+&#160; 
+
+$ 
+
+164,786 
+
+&#160; 
+
+&#160;% 
+
+Net income as a % of Revenue 
+
+14.2 
+
+% 
+
+&#160; 
+
+25.2 
+
+% 
+
+&#160; 
+
+20.3 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Diluted EPS 
+
+$ 
+
+2.07 
+
+&#160; 
+
+$ 
+
+2.76 
+
+&#160; 
+
+$ 
+
+2.20 
+
+&#160; 
+
+$ 
+
+(0.69 
+
+) 
+
+&#160; 
+
+(25 
+
+)% 
+
+&#160; 
+
+$ 
+
+0.56 
+
+&#160; 
+
+&#160;% 
+
+##TABLE_END
+
+Acquisition of Linear Technology Corporation 
+
+On March 10, 2017 (Acquisition Date), we completed the acquisition of Linear Technology Corporation (Linear), a designer, manufacturer and marketer of high performance analog integrated circuits. The total consideration paid to acquire Linear was approximately $15.8 billion, consisting of $11.1 billion in cash financed through existing cash on hand, net proceeds from bridge and term loan facilities and proceeds received from the issuance of senior unsecured notes, $4.6 billion from the issuance of our common stock and $0.1 billion of consideration related to the replacement of outstanding equity awards held by Linear employees. The acquisition of Linear is referred to as the Acquisition. The consolidated financial statements included in this Annual Report on Form 10-K include the financial results of Linear prospectively from the Acquisition Date. See Note 6, Acquisitions &#32;and Note 16, Debt, &#32;of the Notes to the Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information. 
+
+Revenue Trends by End Market 
+
+The following table summarizes revenue by end market. The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the &#8220;sold to&#8221; customer information, the &#8220;ship to&#8221; customer information and the end customer product or application into which our product will be incorporated. As data systems for capturing and tracking this data evolve and improve, the categorization of products by end market can vary over time. When this occurs, we reclassify revenue by end market for prior periods. Such reclassifications typically do not materially change the sizing of, or the underlying trends of results within, each end market. 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+% of 
+
+Total 
+
+Product 
+
+Revenue 
+
+&#160; 
+
+Y/Y% 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+% of 
+
+Total 
+
+Product 
+
+Revenue 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+% of 
+
+Total 
+
+Product 
+
+Revenue 
+
+Industrial 
+
+$ 
+
+2,361,549 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,497,070 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,495,887 
+
+&#160; 
+
+% 
+
+Automotive 
+
+782,961 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+541,774 
+
+&#160; 
+
+% 
+
+&#160; 
+
+526,493 
+
+&#160; 
+
+% 
+
+Consumer 
+
+1,047,606 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+687,697 
+
+&#160; 
+
+% 
+
+&#160; 
+
+727,585 
+
+&#160; 
+
+% 
+
+Communications 
+
+915,387 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+694,868 
+
+&#160; 
+
+% 
+
+&#160; 
+
+685,127 
+
+&#160; 
+
+% 
+
+Total Revenue 
+
+$ 
+
+5,107,503 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+3,421,409 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+3,435,092 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+The industrial end market included $489.7 million of revenue as a result of the Acquisition in the fiscal year ended October 28, 2017 (fiscal 2017). Industrial end market revenue increased year-over-year, primarily as a result of the Acquisition and a broad-based increase in demand for our products in this end market. The automotive end market included $199.8 million of revenue as a result of the Acquisition in fiscal 2017. Automotive end market revenue increased year-over-year, primarily as a result of the Acquisition and a broad-based increase in demand for our products. The consumer end market included $36.2 million of revenue as a result of the Acquisition in fiscal 2017. Consumer end market revenue increased year-over-year, primarily as a result of an increased demand for products used in portable consumer applications and as a result of the Acquisition. The communications end market included $187.6 million of revenue as a result of the Acquisition in fiscal 2017. Communications end market revenue increased year-over-year primarily as a result of the Acquisition. 
+
+Automotive end market revenue increased year-over-year in the fiscal year ended October 29, 2016 (fiscal 2016) primarily as a result of increased demand for our powertrain, advanced driver assistance systems, and infotainment products. The year-over-year decrease in the consumer end market in fiscal 2016 was primarily the result of lower demand for products sold into portable consumer applications. 
+
+Revenue Trends by Geographic Region 
+
+Revenue by geographic region, based upon the primary end customer location for fiscal 2017 , fiscal 2016 &#32;and the fiscal year ended October 31, 2015 &#32;(fiscal 2015) was as follows: ##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160;$ Change 
+
+&#160; 
+
+% Change 
+
+United States 
+
+$ 
+
+1,999,041 
+
+&#160; 
+
+$ 
+
+1,299,629 
+
+&#160; 
+
+$ 
+
+1,325,279 
+
+&#160; 
+
+$ 
+
+699,412 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+(25,650 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+Rest of North and South America 
+
+103,077 
+
+&#160; 
+
+95,957 
+
+&#160; 
+
+97,189 
+
+&#160; 
+
+7,120 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(1,232 
+
+) 
+
+&#160; 
+
+(1 
+
+)% 
+
+Europe 
+
+1,211,435 
+
+&#160; 
+
+924,849 
+
+&#160; 
+
+939,230 
+
+&#160; 
+
+286,586 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(14,381 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+Japan 
+
+506,114 
+
+&#160; 
+
+291,649 
+
+&#160; 
+
+319,569 
+
+&#160; 
+
+214,465 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(27,920 
+
+) 
+
+&#160; 
+
+(9 
+
+)% 
+
+China 
+
+842,532 
+
+&#160; 
+
+575,690 
+
+&#160; 
+
+511,365 
+
+&#160; 
+
+266,842 
+
+&#160; 
+
+% 
+
+&#160; 
+
+64,325 
+
+&#160; 
+
+&#160;% 
+
+Rest of Asia 
+
+445,304 
+
+&#160; 
+
+233,635 
+
+&#160; 
+
+242,460 
+
+&#160; 
+
+211,669 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(8,825 
+
+) 
+
+&#160; 
+
+(4 
+
+)% 
+
+Total Revenue 
+
+$ 
+
+5,107,503 
+
+&#160; 
+
+$ 
+
+3,421,409 
+
+&#160; 
+
+$ 
+
+3,435,092 
+
+&#160; 
+
+$ 
+
+1,686,094 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+(13,683 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+##TABLE_END
+
+In fiscal 2017, fiscal 2016 and fiscal 2015, the predominant countries comprising &#8220;Rest of North and South America&#8221; are Canada and Mexico; the predominant countries comprising &#8220;Europe&#8221; are Germany, Sweden, France and the United Kingdom; and the predominant countries comprising &#8220;Rest of Asia&#8221; are South Korea and Taiwan. 
+
+On a regional basis, the United States and Rest of North and South America included $201.4 million and $6.4 million, respectively, of revenue as a result of the Acquisition in fiscal 2017. The increase in the United States year-over-year in fiscal 2017 was primarily a result of an increase in demand of our products sold into the consumer and industrial end markets and as a result of the Acquisition. Europe and Japan included $211.2 million and $123.7 million of revenue, respectively, as a result of the Acquisition in fiscal 2017.The sales increase in Europe and Japan year-over-year in fiscal 2017 was primarily a result of the Acquisition and an increase in demand of our products sold into the industrial end market. China included $213.6 million of revenue as a result of the Acquisition in fiscal 2017. The sales increase in China year-over-year in fiscal 2017 was primarily a result of the Acquisition and an increase in demand of our products sold into the industrial and automotive end markets. The Rest of Asia included $156.9 million of revenue as a result of the Acquisition in fiscal 2017. The sales increase in the Rest of Asia year-over year in 2017 was primarily a result of the Acquisition and an increase in demand of our products sold into the industrial and communications end markets. 
+
+On a regional basis, the sales increase in China in fiscal 2016 as compared to fiscal 2015 was primarily the result of an increase in demand in the industrial, communications and automotive end markets. The sales decrease in Japan in fiscal 2016 as compared to fiscal 2015 was primarily a result of a decrease in demand for our products in the industrial end market. The sales decrease in the United States in fiscal 2016 as compared to fiscal 2015 was primarily the result of a decrease in demand in the consumer end markets. 
+
+Gross Margin 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Gross Margin 
+
+$ 
+
+3,061,596 
+
+&#160; 
+
+$ 
+
+2,227,173 
+
+&#160; 
+
+$ 
+
+2,259,262 
+
+&#160; 
+
+$ 
+
+834,423 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+(32,089 
+
+) 
+
+&#160; 
+
+(1 
+
+)% 
+
+Gross Margin % 
+
+59.9 
+
+% 
+
+&#160; 
+
+65.1 
+
+% 
+
+&#160; 
+
+65.8 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+Gross margin percentage in fiscal 2017 decreased by 520 basis points compared to fiscal 2016, primarily as a result of recording additional cost related to Acquisition accounting adjustments, including $358.7 million related to the sale of acquired inventory written up to fair value, $83.0 million related to amortization of acquired developed technology intangible assets, and $22.9 million of depreciation related to the write up of fixed assets to fair value. The increases in cost of sales as a result of 
+
+Acquisition accounting adjustments were partially offset by favorable factory variances as a result of increased utilization at our manufacturing facilities. 
+
+Gross margin percentage in fiscal 2016 decreased by 70 basis points compared to fiscal 2015, primarily as a result of lower utilization rates in our manufacturing facilities, partially offset by a mix shift in favor of higher margin products being sold. 
+
+Research and Development (R&#38;D) 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+R&#38;D Expenses 
+
+$ 
+
+968,602 
+
+&#160; 
+
+$ 
+
+653,816 
+
+&#160; 
+
+$ 
+
+637,459 
+
+&#160; 
+
+$ 
+
+314,786 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+16,357 
+
+&#160; 
+
+% 
+
+R&#38;D Expenses as a % of Revenue 
+
+19.0 
+
+% 
+
+&#160; 
+
+19.1 
+
+% 
+
+&#160; 
+
+18.6 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+R&#38;D expenses increased in fiscal 2017 as compared to fiscal 2016. Approximately $205.2 million of the overall increase was a result of the Acquisition. The remainder of the increase was primarily the result of an increase in variable compensation expense linked to our overall profitability and revenue growth and an increase in R&#38;D employee and related benefit expenses and to a lesser extent an increase in operational spending. 
+
+R&#38;D expenses increased in fiscal 2016 as compared to fiscal 2015 primarily as a result of increases in R&#38;D employee and related benefit expenses and operational spending, partially offset by a decrease in variable compensation expense linked to our overall profitability and revenue growth. 
+
+R&#38;D expenses as a percentage of revenue will fluctuate from year-to-year depending on the amount of revenue and the success of new product development efforts, which we view as critical to our future growth. We have hundreds of R&#38;D projects underway, none of which we believe are material on an individual basis. We expect to continue the development of innovative technologies and processes for new products. We believe that a continued commitment to R&#38;D is essential to maintain product leadership with our existing products as well as to provide innovative new product offerings, and therefore, we expect to continue to make significant R&#38;D investments in the future. 
+
+Selling, Marketing, General and Administrative (SMG&#38;A) ##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+SMG&#38;A Expenses 
+
+$ 
+
+691,046 
+
+&#160; 
+
+$ 
+
+461,438 
+
+&#160; 
+
+$ 
+
+478,972 
+
+&#160; 
+
+$ 
+
+229,608 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+(17,534 
+
+) 
+
+&#160; 
+
+(4 
+
+)% 
+
+SMG&#38;A Expenses as a % of Revenue 
+
+13.5 
+
+% 
+
+&#160; 
+
+13.5 
+
+% 
+
+&#160; 
+
+13.9 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+SMG&#38;A expenses increased in fiscal 2017 as compared to fiscal 2016 primarily as a result of the Acquisition and Acquisition-related costs. Approximately $119.8 million of the total increase was a result of the Acquisition. Acquisition-related costs, which includes legal, accounting and other related fees resulting from the Acquisition increased $56.9 million in fiscal 2017 as compared to fiscal 2016. The remainder of the increase in SMG&#38;A expenses was a result of increases in variable compensation expense linked to our overall profitability and revenue growth and an increase in SMG&#38;A employee and related benefit expenses. 
+
+SMG&#38;A expenses decreased in fiscal 2016 as compared to fiscal 2015 primarily as a result of decreases in operational spending and variable compensation expense linked to our overall profitability and revenue growth, partially offset by an increase in SMG&#38;A employee and related benefit expenses. 
+
+Amortization of Intangibles 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Amortization expenses 
+
+$ 
+
+297,351 
+
+&#160; 
+
+$ 
+
+70,123 
+
+&#160; 
+
+$ 
+
+88,318 
+
+&#160; 
+
+$ 
+
+227,228 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+(18,195 
+
+) 
+
+&#160; 
+
+(21 
+
+)% 
+
+Amortization expenses as a % of revenue 
+
+5.8 
+
+% 
+
+&#160; 
+
+2.0 
+
+% 
+
+&#160; 
+
+2.6 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+Amortization expenses increased in fiscal 2017 as compared to fiscal 2016 primarily as a result of the purchase of intangible assets as part of the Acquisition and to a lesser extent, other acquisitions in fiscal 2016 and fiscal 2017. 
+
+Amortization expenses decreased in fiscal 2016 as compared to fiscal 2015 as a result of certain intangible assets becoming fully amortized during fiscal 2015. 
+
+Special Charges 
+
+We monitor global macroeconomic conditions on an ongoing basis, and continue to assess opportunities for improved operational effectiveness and efficiency and better alignment of expenses with revenues. As a result of these assessments, we have undertaken various restructuring actions over the past several years. The expense reductions relating to ongoing actions are described below. 
+
+Early Retirement Offer Action 
+
+During the first quarter of fiscal 2017, we initiated an early retirement offer. This resulted in a special charge of approximately $41.3 million for severance, related benefits, and other costs in accordance with this program for 225 manufacturing, engineering and SMG&#38;A employees. As of October 28, 2017 , we still employed 26 of the 225 employees included in this cost reduction action. These employees must continue to be employed by us until their employment is terminated in order to receive the severance benefits. We expect this action will result in estimated annual salary, variable compensation and employee benefit savings of approximately $28.4 million once fully implemented. 
+
+Reduction of Operating Costs Action 
+
+During the first quarter of fiscal 2017, we recorded special charges of approximately $8.1 million for severance and fringe benefit costs in accordance with our ongoing benefit plan or statutory requirements at foreign locations for 177 manufacturing, engineering and SMG&#38;A employees. As of October 28, 2017 , we still employed 10 of the 177 employees included in this cost reduction action. These employees must continue to be employed by us until their employment is terminated in order to receive the severance benefits. We expect this action will result in estimated annual salary, variable compensation and employee benefit savings of approximately $5.0 million once fully implemented. 
+
+During fiscal 2016, we recorded special charges of approximately $13.7 million &#32;for severance and fringe benefit costs in accordance with our ongoing benefit plan for 123 &#32;manufacturing, engineering and SMG&#38;A employees. As of October 28, 2017 , we still employed 23 &#32;of the 123 &#32;employees included in these cost reduction actions. These employees must continue to be employed by us until their employment is terminated in order to receive the severance benefit. 
+
+We expect that annual cost savings resulting from these actions will be used to make additional investments in products that we expect will drive revenue growth in the future. 
+
+Other Operating Expense 
+
+During fiscal 2015, we converted the benefits provided to participants in our Irish defined benefits pension plan to benefits provided under our Irish defined contribution plan. Retired pension plan participants received an annuity. As a result, in fiscal 2015 we recorded settlement charges, legal, accounting and other professional fees totaling $223.7 million to settle all existing and future Irish pension plan liabilities. 
+
+Operating Income ##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Operating income 
+
+$ 
+
+1,055,134 
+
+&#160; 
+
+$ 
+
+1,028,112 
+
+&#160; 
+
+$ 
+
+830,841 
+
+&#160; 
+
+$ 
+
+27,022 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+197,271 
+
+&#160; 
+
+% 
+
+Operating income as a % of Revenue 
+
+20.7 
+
+% 
+
+&#160; 
+
+30.0 
+
+% 
+
+&#160; 
+
+24.2 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+The increase in operating income in fiscal 2017 as compared to fiscal 2016 was primarily the result of a $834.4 million increase in gross margin, partially offset by a $314.8 million &#32;increase in R&#38;D expenses, a $229.6 million &#32;increase in SMG&#38;A expenses, a $227.2 million &#32;increase in amortization expenses and a $35.8 million increase in special charges as more fully described above under the headings &#32;Research and Development (R&#38;D), Selling, Marketing, General and Administrative (SMG&#38;A), Amortization of Intangibles &#32;and &#32;Special Charges. 
+
+The increase in operating income in fiscal 2016 as compared to fiscal 2015 was primarily the result of a $223.7 million &#32;decrease in other operating expense more fully described above under the heading Other Operating Expense, partially offset by a 70 basis point decrease in gross margin percentage. 
+
+Nonoperating (Income) Expense 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+$ Change 
+
+Interest expense 
+
+$ 
+
+250,840 
+
+&#160; 
+
+$ 
+
+88,757 
+
+&#160; 
+
+$ 
+
+27,030 
+
+&#160; 
+
+$ 
+
+162,083 
+
+&#160; 
+
+$ 
+
+61,727 
+
+Interest income 
+
+(30,333 
+
+) 
+
+&#160; 
+
+(21,221 
+
+) 
+
+&#160; 
+
+(8,625 
+
+) 
+
+&#160; 
+
+(9,112 
+
+) 
+
+&#160; 
+
+(12,596 
+
+) 
+
+Other, net 
+
+6,142 
+
+&#160; 
+
+3,655 
+
+&#160; 
+
+2,322 
+
+&#160; 
+
+2,487 
+
+&#160; 
+
+1,333 
+
+Total nonoperating expense 
+
+$ 
+
+226,649 
+
+&#160; 
+
+$ 
+
+71,191 
+
+&#160; 
+
+$ 
+
+20,727 
+
+&#160; 
+
+$ 
+
+155,458 
+
+&#160; 
+
+$ 
+
+50,464 
+
+##TABLE_END
+
+The increase in nonoperating expense in fiscal 2017 as compared to fiscal 2016 was primarily the result of an increase in interest expense as a result of the issuance of $1.3 billion of senior unsecured notes in the first quarter of fiscal 2016 and, $2.1 billion &#32;of senior unsecured notes in the first quarter of fiscal 2017, and as a result of fees paid and financing commitments entered into in connection with the Acquisition, including a 90-day Bridge Credit Agreement in the principal amount of $4.1 billion, a 3-year unsecured term loan in the principal amount of $2.5 billion and a 5-year unsecured term loan in the principal amount of $2.5 billion. See Note 16, Debt, &#32;of the Notes to our Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information on the debt issuances and commitments related to the Acquisition. The increase in nonoperating expense as a result of the increase in interest expense was partially offset by an increase in interest income due to higher interest rates earned on our investments, partially offset by lower cash balances in fiscal 2017 as compared to fiscal 2016. 
+
+The increase in nonoperating expense in fiscal 2016 as compared to fiscal 2015 was primarily the result of an increase in interest expense as a result of the issuance of senior unsecured notes in fiscal 2016, and as a result of fees related to financing commitments entered into in anticipation of the Acquisition. These increases were partially offset by a decrease in interest expense as a result of the redemption of the $375.0 million &#32;aggregate principal amount of 3.0% senior unsecured notes (the 2016 Notes) in fiscal 2016. See Note 16, Debt , of the Notes to our Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information for further information on the issuance and redemption of these notes. The increase in nonoperating expense as a result of the increase in interest expense in fiscal 2016 as compared to fiscal 2015 was partially offset by an increase in interest income due to higher interest rates earned on our investments and the investment of higher cash balances in fiscal 2016 as compared to fiscal 2015. 
+
+Provision for Income Taxes 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Provision for Income Taxes 
+
+$ 
+
+101,226 
+
+&#160; 
+
+$ 
+
+95,257 
+
+&#160; 
+
+$ 
+
+113,236 
+
+&#160; 
+
+$ 
+
+5,969 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+(17,979 
+
+) 
+
+&#160; 
+
+(16 
+
+)% 
+
+Effective Income Tax Rate 
+
+12.2 
+
+% 
+
+&#160; 
+
+10.0 
+
+% 
+
+&#160; 
+
+14.0 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+Our effective tax rate reflects the applicable tax rate in effect in the various tax jurisdictions around the world where our income is earned. Our effective income tax rate can also be impacted each year by discrete factors or events. 
+
+The tax rate for fiscal 2017 is below the U.S. federal statutory tax rate of 35% primarily due to lower statutory tax rates applicable to our operations in the foreign jurisdictions in which we earn income and a tax benefit of $50.5 million related to the reduction of reserves and related interest resulting from the U.S. Tax Court&#8217;s favorable ruling, offset by approximately $98.2 million of tax expense incurred during the year as part of the post-Acquisition integration. See Note 14, Income Taxes, of the Notes to our Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information on the U.S. Tax Court ruling. The tax rate for all other periods presented was below the U.S. federal statutory tax rate of 35%, primarily due to lower statutory tax rates applicable to our operations in the foreign jurisdictions in which we earn income. For example, the Company has a partial tax holiday in Singapore through August 2019 and a partial tax holiday through July 2025 in Malaysia. The impact on our provision for income taxes of income earned in foreign jurisdictions being taxed at rates different than the U.S. statutory rate was a foreign effective tax rate of approximately 7.8% in fiscal 2017 compared to a foreign effective tax rate of approximately 6.1% in fiscal 2016. Additionally, our effective tax rate in fiscal 2017 also included a tax benefit of approximately $15.0 million for the release of a state tax credit valuation allowance as a result of the Acquisition. Our effective tax rate for the fiscal 2016 included a tax benefit of $7.5 million from the reinstatement of the U.S. federal research and development tax credit in December 2015 retroactive to January 1, 2015. Our effective tax rate for fiscal 2015 was reduced as a result of $13.0 million recorded from the reversal of certain prior period tax liabilities, a tax benefit of $7.0 million from the reinstatement of the U.S. federal research and development tax credit in December 2014 retroactive to January 1, 2014 and a tax benefit of $3.8 million as a result of an acquisition accounting adjustment. In addition, our effective tax rate for fiscal 2015 included $2.0 million of discrete tax expense items associated with the U.S. provision to return adjustments. 
+
+Non-U.S. jurisdictions accounted for approximately 77.3% of our total revenues in fiscal 2017, compared to approximately 77.7% of our total revenues for fiscal 2016 and 78.0% of our total revenues for fiscal 2015. This revenue generated outside of the U.S. results in a material portion of our pretax income being taxed outside the U.S., primarily in Bermuda and Ireland, at tax rates ranging from 0% to 35%. The impact on our effective tax rate related to income earned in foreign jurisdictions was reduced for fiscal 2017 as compared to fiscal 2016, as a result of increased depreciation, amortization and other expenses associated with Linear operations which are within foreign jurisdictions and subject to lower tax rates. A change in the mix of revenue and income earned in the U.S. and outside of the U.S. will have a direct impact on the overall effective tax rate in any given period. 
+
+Net Income 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Fiscal Year 
+
+&#160; 
+
+2017 over 2016 
+
+&#160; 
+
+2016 over 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Net Income 
+
+$ 
+
+727,259 
+
+&#160; 
+
+$ 
+
+861,664 
+
+&#160; 
+
+$ 
+
+696,878 
+
+&#160; 
+
+$ 
+
+(134,405 
+
+) 
+
+&#160; 
+
+(16 
+
+)% 
+
+&#160; 
+
+$ 
+
+164,786 
+
+&#160; 
+
+% 
+
+Net Income, as a % of Revenue 
+
+14.2 
+
+% 
+
+&#160; 
+
+25.2 
+
+% 
+
+&#160; 
+
+20.3 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Diluted EPS 
+
+$ 
+
+2.07 
+
+&#160; 
+
+$ 
+
+2.76 
+
+&#160; 
+
+$ 
+
+2.20 
+
+&#160; 
+
+$ 
+
+(0.69 
+
+) 
+
+&#160; 
+
+(25 
+
+)% 
+
+&#160; 
+
+$ 
+
+0.56 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+The decrease in net income in fiscal 2017 as compared to fiscal 2016 was primarily a result of a $155.5 million &#32;increase in nonoperating expense and a $6.0 million &#32;increase in provision for income taxes, partially offset by a $27.0 million &#32;increase in operating income. 
+
+The increase in net income in fiscal 2016 as compared to fiscal 2015 was primarily a result of a $197.3 million &#32;increase in operating income and a $18.0 million &#32;decrease in provision for income taxes, partially offset by a $50.5 million &#32;increase in nonoperating expense. 
+
+The impact of inflation and foreign currency exchange rate movement on our results of operations during the past three fiscal years has not been significant. 
+
+Liquidity and Capital Resources 
+
+At October 28, 2017 , our principal source of liquidity was $1.0 billion &#32;of cash and cash equivalents and short-term investments, of which approximately $379.2 million &#32;was held in the United States. The balance of our cash and cash equivalents and short-term investments was held outside the United States in various foreign subsidiaries. As we intend to reinvest substantially all of our foreign earnings indefinitely, the majority of cash held outside the United States is not available to meet certain aspects of our cash requirements in the United States, including cash dividends, and principal and interest payments. If these funds are needed for U.S. operations or can no longer be indefinitely reinvested outside the United States, under current tax law we would be required to accrue and pay U.S. taxes to repatriate these funds and such amounts could be material. Our cash and cash equivalents consist of highly liquid investments with maturities of three months or less, including money market funds. We maintain these balances with high credit quality counterparties, continually monitor the amount of credit exposure to any one issuer and diversify our investments in order to minimize our credit risk. In connection with the accounting for the Acquisition, we recorded approximately $1.6 billion of cash and marketable securities from Linear, which was remitted from foreign jurisdictions as part of our post-Acquisition integration. Also as part of the post-Acquisition integration, we remitted legacy cash held outside of the United States of approximately $3.6 billion. The remittances resulted in approximately $98.2 million in net tax expense recorded in fiscal 2017. We currently intend to use significant amounts of our remaining cash and cash equivalents held outside of the United States to finance obligations and current operations of our foreign businesses. On the Acquisition Date, we entered into a 90-day Bridge Credit Agreement that provided for unsecured loans in an aggregate principal amount of up to $4.1 billion and borrowed under a term loan agreement consisting of a 3-year unsecured term loan in the principal amount of $2.5 billion, due March 10, 2020 and a 5-year unsecured term loan in the principal amount of $2.5 billion, due March 10, 2022. In fiscal 2017, we repaid $550.0 million of principal on the 3-year unsecured term loan, repaid $400.0 million of principal on the 5-year unsecured term loan, and repaid all of the $4.1 billion of outstanding loans under the Bridge Credit Agreement. In addition, in fiscal 2016, we amended and restated our existing revolving credit facility to allow for the increase in the amount of commitments from $750.0 million to $1.0 billion at the closing of the Acquisition. See Note 15, Revolving Credit Facility &#32;and Note 16, Debt &#32;of the Notes to our Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information. 
+
+We believe that our existing sources of liquidity and cash expected to be generated from future operations, together with existing and anticipated available long-term financing, will be sufficient to fund operations, capital expenditures, research and development efforts and dividend payments (if any) in the immediate future and for at least the next twelve months. 
+
+##TABLE_START &#160; 
+
+Fiscal Year 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net Cash Provided by Operating Activities 
+
+$ 
+
+1,112,592 
+
+&#160; 
+
+$ 
+
+1,280,895 
+
+&#160; 
+
+$ 
+
+907,798 
+
+Net Cash Provided by Operating Activities as a % of Revenue 
+
+21.8 
+
+% 
+
+&#160; 
+
+37.4 
+
+% 
+
+&#160; 
+
+26.4 
+
+% 
+
+Net Cash Used for Investing Activities 
+
+$ 
+
+(6,618,014 
+
+) 
+
+&#160; 
+
+$ 
+
+(1,218,270 
+
+) 
+
+&#160; 
+
+$ 
+
+(17,125 
+
+) 
+
+Net Cash Provided by (Used for) Financing Activities 
+
+$ 
+
+5,628,578 
+
+&#160; 
+
+$ 
+
+(22,917 
+
+) 
+
+&#160; 
+
+$ 
+
+(571,603 
+
+) 
+
+##TABLE_END
+
+At October 28, 2017 , cash and cash equivalents totaled $1,047.8 million . The following changes contributed to the net increase in cash and cash equivalents of $126.7 million &#32;in fiscal 2017 . 
+
+Operating Activities 
+
+Cash provided by operating activities is net income adjusted for certain non-cash items and changes in assets and liabilities. 
+
+The decrease in cash provided by operating activities during fiscal 2017, as compared to fiscal 2016, was primarily due to higher tax payments as a result of the post-Acquisition integration, and other changes in working capital. 
+
+Investing Activities 
+
+Investing cash flows consist primarily of capital expenditures, investment purchases, maturities and sales of available-for-sale securities, as well as cash used for acquisitions. 
+
+The increase in cash used for investing activities during fiscal 2017 as compared to fiscal 2016, was primarily the result of cash payments made for the Acquisition, partially offset by a decrease in maturities of available for sale securities. 
+
+The increase in cash used for investing activities during fiscal 2016 as compared to fiscal 2015 was primarily due to an increase in the net purchases of available-for-sale securities and an increase in payments for acquisitions, partially offset by a decrease in property, plant and equipment additions. 
+
+Financing Activities 
+
+Financing cash flows consist primarily of payments of dividends to stockholders, repurchases of common stock, issuance and repayment of long-term debt, and proceeds from the sale of shares of common stock pursuant to employee equity incentive plans. 
+
+The increase in cash provided by financing activities during fiscal 2017, as compared to fiscal 2016, was primarily due to an increase in net debt proceeds of $9.9 billion received from the issuance of senior unsecured notes, financing commitments entered into in connection with the Acquisition, consisting of a 90-day Bridge Credit Agreement and a term loan agreement, and a decrease in stock repurchases of $323.5 million due to the temporary suspension of our share repurchase program in connection with the Acquisition. These decreases were partially offset by payments of $5.1 billion related to financing commitments entered into in connection with the Acquisition consisting of repayments of $550.0 million of principal on the 3-year unsecured term loan, repayments of $400.0 million of principal on the 5-year unsecured term loan, and repayment of the $4.1 billion of outstanding loans under the Bridge Credit Agreement.The decrease in cash used for financing activities during fiscal 2016 as compared to fiscal 2015 was primarily due to net proceeds of $1.2 billion received from the issuance of the 2025 Notes and 2045 Notes, partially offset by $378.2 million of payments for the redemption of our 2016 Notes, an increase in stock repurchases of $143.1 million, a decrease in proceeds from the sale of shares of common stock pursuant to employee equity incentive plans of $61.1 million, payments of $33.4 million related to derivative instruments, payments of $26.6 million in deferred financing fees related to the acquisition of Linear and an increase in dividend payments to shareholders of $22.1 million. 
+
+Working Capital 
+
+##TABLE_START &#160; 
+
+Fiscal Year 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ Change 
+
+% Change 
+
+Accounts Receivable, net 
+
+$ 
+
+688,953 
+
+&#160; 
+
+$ 
+
+477,609 
+
+&#160; 
+
+$ 
+
+211,344 
+
+% 
+
+Days Sales Outstanding* 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Inventory 
+
+$ 
+
+550,816 
+
+&#160; 
+
+$ 
+
+376,555 
+
+&#160; 
+
+$ 
+
+174,261 
+
+% 
+
+Days Cost of Sales in Inventory* 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+* We use the average of the current year and prior year ending net accounts receivable and ending inventory balance in our calculation of days sales outstanding and days cost of sales in inventory, respectively. Cost of sales amounts used in the calculation of days cost of sales in inventory for fiscal 2017 include Acquisition accounting adjustments related to the sale of acquired inventory written up to fair value, amortization of developed technology intangible assets acquired and depreciation related to the write up of fixed assets to fair value. 
+
+The increase in accounts receivable in dollars was primarily the result of the Acquisition and to a lesser extent higher product shipments in the fourth quarter of fiscal 2017 as compared to the fourth quarter of fiscal 2016. 
+
+The increase in inventory in dollars was primarily the result of the Acquisition and our efforts to balance manufacturing production, demand and inventory levels. 
+
+Current liabilities increased to $1.6 billion &#32;at October 28, 2017 &#32;from $782.9 million &#32;recorded at the end of fiscal 2016 . The increase was primarily due to an increase in the current portion of our debt, an increase in accrued liabilities as a result of the Acquisition, increases in accrued interest and accrued special charges, an increase in accounts payable resulting from higher production volumes and the Acquisition and an increase in deferred income on shipments made to distributors as more fully described below. 
+
+As of October 28, 2017 &#32;and October 29, 2016 , we had gross deferred revenue of $589.5 million &#32;and $432.3 million , respectively, and gross deferred cost of sales of $115.5 million &#32;and $80.8 million , respectively. Deferred income on shipments to distributors increased in fiscal 2017 primarily as a result of the Acquisition and higher demand for products sold into the channel. Sales to certain distributors are made under agreements that allow distributors to receive price-adjustment credits and to return qualifying products for credit, as determined by us, in order to reduce the amounts of slow-moving, discontinued or obsolete product from their inventory. Given the uncertainties associated with the levels of price-adjustment credits to be granted to certain distributors, the sales price to the distributors is not fixed or determinable until the distributors resell the products to their customers. Therefore, we defer revenue recognition from sales to certain distributors until such distributors 
+
+have sold the products to their customers. The amount of price-adjustments is dependent on future overall market conditions, and therefore the levels of these adjustments could fluctuate significantly from period to period. To the extent that we experience a significant increase in the amount of credits we issue to our distributors, there could be a material impact on the ultimate revenue and gross margin recognized relating to these transactions. 
+
+Debt 
+
+As of October 28, 2017 , we had $7.9 billion &#32;of carrying value outstanding on our long-term debt. The difference in the carrying value of the debt and the principal is due to the unamortized discount and issuance fees on these instruments that will accrete to the face value over the term of the debt. Our debt obligations consist of the following: 
+
+$500.0 Million Aggregate Principal Amount of 2.875% Senior Unsecured Notes (2023 Notes) 
+
+On June 3, 2013, we issued the 2023 Notes with semi-annual fixed interest payments due on June 1 and December 1 of each year, commencing December 1, 2013. 
+
+$850.0 Million Aggregate Principal Amount of 3.9% Senior Unsecured Notes (2025 Notes) and $400.0 Million Aggregate Principal Amount of 5.3% Senior Unsecured Notes (2045 Notes) 
+
+On December 14, 2015, we issued the 2025 Notes and the 2045 Notes with semi-annual fixed interest payments due on June 15 and December 15 of each year, commencing June 15, 2016. 
+
+$400 Million Aggregate Principal Amount of 2.5% Senior Unsecured Notes (2021 Notes), $550 Million Aggregate Principal Amount of 3.125% Senior Unsecured Notes (December 2023 Notes), $900 Million Aggregate Principal Amount of 3.5% Senior Unsecured Notes (2026 Notes) and $250 Million Aggregate Principal Amount of 4.5% Senior Unsecured Notes (2036 Notes) 
+
+On December 5, 2016, we issued the 2021 Notes, the December 2023 Notes, the 2026 Notes and the 2036 Notes with semi-annual fixed interest payments due on June 5 and December 5 of each year, commencing June 5, 2017. 
+
+The indentures governing the 2021 Notes, 2023 Notes, December 2023 Notes, 2025 Notes, 2026 Notes, 2036 Notes and 2045 Notes contain covenants that may limit our ability to: incur, create, assume or guarantee any debt for borrowed money secured by a lien upon a principal property; enter into sale and lease-back transactions with respect to a principal property; and consolidate with or merge into, or transfer or lease all or substantially all of our assets to, any other party. As of October 28, 2017 , we were compliant with these covenants. See Note 16, Debt, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information on our outstanding debt. 
+
+$5.0 Billion Aggregate Principal Term Loans 
+
+On the Acquisition Date, we drew down on a 3-year unsecured term loan in the principal amount of $2.5 billion, due March 10, 2020 and a 5-year unsecured term loan in the principal amount of $2.5 billion, due March 10, 2022. In fiscal 2017, we repaid $550.0 million of principal on the 3-year unsecured term loan and repaid $400.0 million of principal on the 5-year unsecured term loan. 
+
+Revolving Credit Facility 
+
+We have a senior unsecured revolving credit facility with certain institutional lenders (the Credit Agreement) that expires on July 10, 2020. The Credit Agreement provides that we may borrow up to $1.0 billion. To date, we have not borrowed under this credit facility, but we may borrow in the future and use the proceeds for repayment of existing indebtedness, stock repurchases, acquisitions, capital expenditures, working capital and other lawful corporate purposes. The terms of the Credit Agreement impose restrictions on our ability to undertake certain transactions, to create certain liens on assets and to incur certain subsidiary indebtedness. In addition, the Credit Agreement contains a consolidated leverage ratio covenant of total consolidated funded debt to consolidated earnings before interest, taxes, depreciation, and amortization (EBITDA) of not greater than 5.0 to 1.0. The debt covenant will be reduced over time to 3.0 to 1.0 starting in May 2018. As of October 28, 2017 , we were compliant with these covenants . See Note 15, Revolving Credit Facility, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for further information on our revolving credit facility. 
+
+Stock Repurchase Program 
+
+Our common stock repurchase program has been in place since August 2004 . In the aggregate, our Board of Directors has authorized us to repurchase $6.2 billion &#32;of our common stock under the program. Under the program, we may repurchase outstanding shares of our common stock from time to time in the open market and through privately negotiated transactions. Unless terminated earlier by resolution of our Board of Directors, the repurchase program will expire when we have 
+
+repurchased all shares authorized under the program. As of October 28, 2017 , we had repurchased a total of approximately 147.0 million &#32;shares of our common stock for approximately $5.4 billion &#32;under this program. As of October 28, 2017 , an additional $792.5 million &#32;remains available for repurchase under the current authorized program. The repurchased shares are held as authorized but unissued shares of common stock. In connection with the Acquisition, we have temporarily suspended our share repurchase program. While we do not plan to resume share repurchases in the near term, we expect to continue repurchasing our common stock over the long-term. We also from time to time repurchase shares in settlement of employee minimum tax withholding obligations due upon the vesting of restricted stock units. 
+
+Capital Expenditures 
+
+Net additions to property, plant and equipment were $204.1 million &#32;in fiscal 2017 &#32;and were funded with a combination of cash on hand and cash generated from operations. We expect capital expenditures for the fiscal year ending November 3, 2018 ( fiscal 2018 ) to be in the range of $230.0 million to $270.0 million. These capital expenditures will be funded with a combination of cash on hand and cash generated from operations. 
+
+Dividends 
+
+On November 20, 2017 , our Board of Directors declared a cash dividend of $0.45 &#32;per outstanding share of common stock. The dividend will be paid on December 12, 2017 &#32;to all shareholders of record at the close of business on December 1, 2017 &#32;and is expected to total approximately $166 million . We currently expect quarterly dividends to continue at $0.45 per share, although they remain subject to determination and declaration by our Board of Directors. The payment of future dividends, if any, will be based on several factors, including our financial performance, outlook and liquidity. 
+
+Contractual Obligations 
+
+The table below summarizes our contractual obligations and the amounts we owe under these contracts in specified periods as of October 28, 2017 : 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Payment due by period 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Less than 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+More than 
+
+(thousands) 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+1 Year 
+
+&#160; 
+
+1-3 Years 
+
+&#160; 
+
+3-5 Years 
+
+&#160; 
+
+5 Years 
+
+Contractual obligations: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating leases ( a) 
+
+&#160; 
+
+$ 
+
+142,913 
+
+&#160; 
+
+$ 
+
+41,795 
+
+&#160; 
+
+$ 
+
+41,142 
+
+&#160; 
+
+$ 
+
+22,398 
+
+&#160; 
+
+$ 
+
+37,578 
+
+Debt obligations (b) 
+
+&#160; 
+
+7,900,000 
+
+&#160; 
+
+300,000 
+
+&#160; 
+
+1,937,500 
+
+&#160; 
+
+2,212,500 
+
+&#160; 
+
+3,450,000 
+
+Interest payments associated with debt obligations 
+
+&#160; 
+
+1,956,164 
+
+&#160; 
+
+232,202 
+
+&#160; 
+
+437,494 
+
+&#160; 
+
+327,212 
+
+&#160; 
+
+959,256 
+
+Deferred compensation plan &#160;(c) 
+
+&#160; 
+
+33,510 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+32,572 
+
+Pension funding &#160;(d) 
+
+&#160; 
+
+4,978 
+
+&#160; 
+
+4,978 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total 
+
+&#160; 
+
+$ 
+
+10,037,565 
+
+&#160; 
+
+$ 
+
+579,913 
+
+&#160; 
+
+$ 
+
+2,416,136 
+
+&#160; 
+
+$ 
+
+2,562,110 
+
+&#160; 
+
+$ 
+
+4,479,406 
+
+##TABLE_END
+
+_______________________________________ 
+
+##TABLE_START (a) 
+
+Certain of our operating lease obligations include escalation clauses. These escalating payment requirements are reflected in the table. 
+
+##TABLE_END##TABLE_START (b) 
+
+On November 10, 2017 we pre-paid $300.0 million &#32;of principal on the 3 -year unsecured term loan. This amount was not contractually due under the terms of the loan. As such this amount is classified as current debt as of October 28, 2017. 
+
+##TABLE_END##TABLE_START (c) 
+
+These payments relate to obligations under our deferred compensation plan. The deferred compensation plan allows certain members of management and other highly-compensated employees and non-employee directors to defer receipt of all or any portion of their compensation. The amount in the &#8220;More than 5 Years&#8221; column of the table represents the remaining total balance under the deferred compensation plan to be paid to participants who have not terminated employment. Since we cannot reasonably estimate the timing of withdrawals for participants who have not yet terminated employment, we have included the future obligation to these participants in the &#8220;More than 5 Years&#8221; column of the table. 
+
+##TABLE_END##TABLE_START (d) 
+
+Our funding policy for our foreign defined benefit plans is consistent with the local requirements of each country. The payment obligations in the table are estimates of our expected contributions to these plans for fiscal year 2018. The actual future payments may differ from the amounts presented in the table and reasonable estimates of payments beyond one year are not practical because of potential future changes in variables, such as plan asset performance, interest rates and the rate of increase in compensation levels. 
+
+##TABLE_END Certain of our acquisitions involve the potential payment of contingent consideration. The table above does not reflect any such obligations, which could be up to $8.5 million , as the timing and amounts are uncertain. 
+
+As of October 28, 2017 , our total liabilities associated with uncertain tax positions was $49.6 million , which are included in &#8220;Other non-current liabilities&#8221; in our consolidated balance sheet contained in Item 8 of this Annual Report on Form 10-K. Due to the complexity associated with our deferred taxes and tax uncertainties, we cannot make a reasonably reliable estimate of the period in which we expect to settle the non-current liabilities associated with these deferred taxes and uncertain tax positions. Therefore, we have not included these deferred taxes and uncertain tax positions in the above contractual obligations table. 
+
+The expected timing of payments and the amounts of the obligations discussed above are estimated based on current information available as of October 28, 2017 . 
+
+Off-balance Sheet Arrangements 
+
+As of October 28, 2017 , we had no off-balance sheet financing arrangements. 
+
+New Accounting Pronouncements 
+
+From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board (FASB) and are adopted by us as of the specified effective date. Unless otherwise discussed, management believes that the impact of recently issued standards will not have a material impact on our future financial condition and results of operations. See Note 2t, New Accounting Pronouncements, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for a description of recently issued and adopted accounting pronouncements, including the dates of adoption and impact on our historical financial condition and results of operations. 
+
+Revenue Recognition 
+
+In May 2014, the FASB issued Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers (ASU 2014-09), which supersedes nearly all existing revenue recognition guidance under generally accepted accounting principles in the United States (U.S. GAAP). The core principle of ASU 2014-09 is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. Additionally, the guidance requires improved disclosures to help users of financial statements better understand the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers. The FASB has issued several amendments and updates to the new revenue standard, including guidance related to when an entity should recognize revenue gross as a principal or net as an agent and how an entity should identify performance obligations. As amended, ASU 2014-09 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017, which is our first quarter of the fiscal year ending November 2, 2019 (fiscal 2019). Early adoption is permitted for all entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period. We have developed a project plan for the implementation of the guidance, including a review of all revenue streams to identify any differences in the timing, measurement or presentation of revenue recognition. We have reviewed our revenue streams and are nearing completion in assessing all potential impacts of the standard, including any impacts from recently issued amendments, and retrospectively adjusting financial information for prior fiscal years under the full retrospective transition method. We have also made progress on our impact assessment of the Acquisition. While we are still in the process of completing our evaluation of the standard, we currently believe the most significant impact will be related to the timing of recognition of sales to certain distributors. As described in Note 2n, Revenue Recognition, &#32;of the Notes to the Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K, we currently defer revenue and the related cost of sales on shipments to certain distributors until the distributors resell the products to their customers. Upon adoption of ASU 2014-09, we will no longer be permitted to defer revenue until sale by the distributor to the end customer, but rather, will be required to estimate the effects of returns and allowances provided to distributors and record revenue at the time of sale to the distributor. We are continuing to evaluate the future impact and method of adoption of ASU 2014-09 and related amendments on our consolidated financial statements and related disclosures. We will adopt ASU 2014-09, using the full retrospective method, upon its effective date for us which is our first quarter of fiscal 2019. 
+
+Critical Accounting Policies and Estimates 
+
+Management&#8217;s discussion and analysis of the financial condition and results of operations is based upon the consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. We base our estimates and judgments on historical experience, knowledge of current conditions and beliefs of what could occur in the future based on available information. We consider the following accounting policies to be both those most important to the portrayal of our financial condition and those that require the most subjective judgment. If actual results differ significantly from management&#8217;s estimates and projections, there could be a 
+
+material effect on our financial statements. We also have other policies that we consider key accounting policies, such as our policy for revenue recognition, including the deferral of revenue on sales to distributors until the products are sold to the end user; however, the application of these policies does not require us to make significant estimates or judgments that are difficult or subjective. 
+
+Revenue Recognition 
+
+Revenue from product sales to customers is generally recognized when title passes, which is upon shipment in the U.S. and in certain foreign counties. Revenue from product sales to other foreign countries is recognized subsequent to product shipment. Title for these shipments to these other foreign countries ordinarily passes within a week of shipment. Accordingly, we defer the revenue recognized relating to these other foreign countries until title has passed. For multiple element arrangements, we allocate arrangement consideration among the elements based on the relative fair values of those elements as determined using vendor-specific objective evidence or third-party evidence. We use our best estimate of selling price to allocate arrangement consideration between the deliverables in cases where neither vendor-specific objective evidence nor third-party evidence is available. A reserve for sales returns and allowances for customers is recorded based on historical experience or specific identification of an event necessitating a reserve. 
+
+Revenue from contracts with the United States government, government prime contractors and some commercial customers is generally recorded on a percentage of completion basis, using either units delivered or costs incurred as the measurement basis for progress toward completion. The output measure is used to measure results directly and is generally the best measure of progress toward completion in circumstances in which a reliable measure of output can be established. Estimated revenue in excess of amounts billed is reported as unbilled receivables. Contract accounting requires judgment in estimating costs and assumptions related to technical issues and delivery schedule. Contract costs include material, subcontract costs, labor and an allocation of indirect costs. The estimation of costs at completion of a contract is subject to numerous variables involving contract costs and estimates as to the length of time to complete the contract. Changes in contract performance, estimated gross margin, including the impact of final contract settlements, and estimated losses are recognized in the period in which the changes or losses are determined. 
+
+Revenue from product sales to certain international distributors are made under agreements that permit limited stock return privileges but not sales price rebates. Revenue on these sales is recognized upon shipment at which time title passes. 
+
+We defer revenue and the related cost of sales on shipments to U.S. distributors and certain international distributors until the distributors resell the products to their customers. As a result, our revenue fully reflects end customer purchases and is not impacted by distributor inventory levels. Sales to certain of these distributors are made under agreements that allow such distributors to receive price-adjustment credits and to return qualifying products for credit, as determined by us, in order to reduce the amounts of slow-moving, discontinued or obsolete product from their inventory. These agreements limit such returns to a certain percentage of the value of our shipments to that distributor during the prior quarter. In addition, such distributors are allowed to return unsold products if the Company terminates the relationship with the distributor. Given the uncertainties associated with the levels of price-adjustment credits to be granted to certain distributors, the sales price to the distributor is not fixed or determinable until the distributor resells the products to their customers. Therefore, we defer revenue recognition from sales to certain distributors until such distributors have sold the products to their customers. 
+
+Inventory Valuation 
+
+We value inventories at the lower of cost (first-in, first-out method) or market. Because of the cyclical nature of the semiconductor industry, changes in inventory levels, obsolescence of technology, and product life cycles, we write down inventories to net realizable value. We employ a variety of methodologies to determine the net realizable value of inventory. While a portion of the calculation is determined via reference to the age of inventory and lower of cost or market calculations, an element of the calculation is subject to significant judgments made by us about future demand for our inventory. If actual demand for our products is less than our estimates, additional adjustments to existing inventories may need to be recorded in future periods. To date, our actual results have not been materially different than our estimates, and we do not expect them to be materially different in the future. 
+
+Allowance for Doubtful Accounts 
+
+We maintain allowances for doubtful accounts, when appropriate, for estimated losses resulting from the inability of our customers to make required payments. If the financial condition of our customers were to deteriorate, our actual losses may exceed our estimates, and additional allowances would be required. To date, our actual results have not been materially different than our estimates, and we do not expect them to be materially different in the future. 
+
+Long-Lived Assets 
+
+We review property, plant, and equipment and finite lived intangible assets for impairment whenever events or changes in circumstances indicate that the carrying value of assets may not be recoverable. Recoverability of these assets is determined by comparison of their carrying value to the estimated future undiscounted cash flows that the assets are expected to generate over their remaining estimated lives. If such assets are considered to be impaired, the impairment to be recognized in earnings equals the amount by which the carrying value of the assets exceeds their fair value determined by either a quoted market price, if any, or a value determined by utilizing a discounted cash flow technique. Although we have recognized no material impairment adjustments related to our property, plant, and equipment and identified intangible assets during the past three fiscal years, except those made in conjunction with restructuring actions, deterioration in our business in the future could lead to such impairment adjustments in future periods. Evaluation of impairment of long-lived assets requires estimates of future operating results that are used in the preparation of the expected future undiscounted cash flows. Actual future operating results and the remaining economic lives of our long-lived assets could differ from the estimates used in assessing the recoverability of these assets. These differences could result in impairment charges, which could have a material adverse impact on our results of operations. In addition, in certain instances, assets may not be impaired but their estimated useful lives may have decreased. In these situations, we amortize the remaining net book values over the revised useful lives. We review indefinite-lived intangible assets for impairment annually, on the first day of the fourth quarter (on or about August 1) or more frequently if indicators of impairment exist. We perform a qualitative assessment on our indefinite-lived intangible assets to determine whether it is more likely-than not that the indefinite-lived intangible asset is impaired. If it is determined that the fair value of the indefinite-lived intangible asset is less than the carrying value, we would compare the fair value of the intangible asset with its carrying amount and recognize an impairment equal to any amount by which the carrying value of the assets exceeds the fair value. 
+
+Goodwill 
+
+Goodwill is subject to annual impairment tests or more frequently if indicators of potential impairment exist and suggest that the carrying value of goodwill may not be recoverable from estimated discounted future cash flows. We test goodwill for impairment at the reporting unit level (operating segment or one level below an operating segment) on an annual basis in the fourth quarter (on or about August 1) or more frequently if we believe indicators of impairment exist. For our latest annual impairment assessment that occurred as of July 30, 2017 , we identified our reporting units to be our eight operating segments. The goodwill impairment test requires an entity to compare the fair value of a reporting unit with its carrying amount. If fair value is determined to be less than carrying value, an impairment loss is recognized for the amount of the carrying value that exceeds the amount of the reporting unit's fair value, not to exceed the total amount of goodwill allocated to the reporting unit. Additionally, we consider income tax effects from any tax deductible goodwill on the carrying amount of the reporting unit when measuring the goodwill impairment loss, if applicable. We determine the fair value of our reporting units using a weighting of the income and market approaches. Under the income approach, we use a discounted cash flow methodology which requires management to make significant estimates and assumptions related to forecasted revenues, gross profit margins, operating income margins, working capital cash flow, perpetual growth rates, and long-term discount rates, among others. For the market approach, we use the guideline public company method. Under this method we utilize information from comparable publicly traded companies with similar operating and investment characteristics as the reporting units, to create valuation multiples that are applied to the operating performance of the reporting unit being tested, in order to obtain their respective fair values. In order to assess the reasonableness of the calculated reporting unit fair values, we reconcile the aggregate fair values of our reporting units determined, as described above, to its current market capitalization, allowing for a reasonable control premium. 
+
+Business Combinations 
+
+Under the acquisition method of accounting, we recognize tangible and identifiable intangible assets acquired and liabilities assumed based on their estimated fair values. We record the excess of the fair value of the purchase consideration over the value of the net assets acquired as goodwill. The accounting for business combinations requires us to make significant estimates and assumptions, especially with respect to intangible assets and the fair value of contingent payment obligations. Critical estimates in valuing purchased technology, customer lists and other identifiable intangible assets include future cash flows that we expect to generate from the acquired assets. If the subsequent actual results and updated projections of the underlying business activity change compared with the assumptions and projections used to develop these values, we could experience impairment charges which could be material. In addition, we have estimated the economic lives of certain acquired assets and these lives are used to calculate depreciation and amortization expense. If our estimates of the economic lives change, depreciation or amortization expenses could be accelerated or slowed. 
+
+We record contingent consideration resulting from a business combination at its fair value on the acquisition date. We generally determine the fair value of the contingent consideration using the income approach methodology of valuation. Each reporting period thereafter, we revalue these obligations and record increases or decreases in their fair value as an adjustment to 
+
+operating expenses within the consolidated statement of income. Changes in the fair value of the contingent consideration can result from changes in assumed discount periods and rates, and from changes pertaining to the achievement of the defined milestones. Significant judgment is employed in determining the appropriateness of these assumptions as of the acquisition date and for each subsequent period. Accordingly, future business and economic conditions, as well as changes in any of the assumptions described above, can materially impact the amount of contingent consideration expense we record in any given period. 
+
+Accounting for Income Taxes 
+
+We must make certain estimates and judgments in determining income tax expense for financial statement purposes. These estimates and judgments occur in the calculation of tax credits, benefits, and deductions, and in the calculation of certain tax assets and liabilities, which arise from differences in the timing of the recognition of revenue and expense for tax and financial statement purposes, as well as the interest and penalties relating to these uncertain tax positions. We assessed the likelihood of the realization of deferred tax assets and concluded that a valuation allowance is needed to reserve the amount of the deferred tax assets that may not be realized due to the uncertainty of the timing and amount of the realization of certain state credit carryovers. In reaching our conclusion, we evaluated certain relevant criteria including the existence of deferred tax liabilities that can be used to realize deferred tax assets, the taxable income in prior carryback years in the impacted state jurisdictions that can be used to absorb net operating losses and taxable income in future years. Our judgments regarding future profitability may change due to future market conditions, changes in U.S. or international tax laws and other factors. These changes, if any, may require material adjustments to these deferred tax assets, resulting in a reduction in net income or an increase in net loss in the period when such determinations are made, which in turn, may result in an increase or decrease to our tax provision in a subsequent period. 
+
+We account for uncertain tax positions by determining if it is &#8220;more likely than not&#8221; that a tax position will be sustained by the appropriate taxing authorities prior to recording any benefit in the financial statements. An uncertain income tax position is not recognized if it has less than a 50% likelihood of being sustained. For those tax positions where it is more likely than not that a tax benefit will be sustained, we have recorded the largest amount of tax benefit with a greater than 50% likelihood of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. For those income tax positions where it is not more likely than not that a tax benefit will be sustained, no tax benefit has been recognized in the financial statements. We reevaluate these uncertain tax positions on a quarterly basis. This evaluation is based on factors including, but not limited to, changes in known facts or circumstances, changes in tax law, effectively settled issues under audit, and new audit activity. A change in these factors would result in the recognition of a tax benefit or an additional charge to the tax provision. 
+
+In the ordinary course of global business, there are many transactions and calculations where the ultimate tax outcome is uncertain. Some of these uncertainties arise as a consequence of cost reimbursement and royalty arrangements among related entities. Although we believe our estimates are reasonable, no assurance can be given that the final tax outcome of these matters will not be different than that which is reflected in our historical income tax provisions and accruals. In the event our assumptions are incorrect, the differences could have a material impact on our income tax provision and operating results in the period in which such determination is made. In addition to the factors described above, our current and expected effective tax rate is based on then-current tax law. Significant changes during the year in enacted tax law could affect these estimates. 
+
+Stock-Based Compensation 
+
+Stock-based compensation expense associated with stock options and related awards is recognized in the consolidated statements of income. Determining the amount of stock-based compensation to be recorded requires us to develop estimates to be used in calculating the grant-date fair value of stock options and market-based restricted stock units. We calculate the grant-date fair values of stock options using the Black-Scholes valuation model. The use of valuation models requires us to make estimates of key assumptions such as expected option term and stock price volatility to determine the fair value of a stock option. The estimate of these key assumptions is based on historical information and judgment regarding market factors and trends. As it relates to our market-based restricted stock units, we utilize the Monte Carlo simulation valuation model to value these awards. The Monte Carlo simulation model utilizes multiple input variables that determine the probability of satisfying the performance conditions stipulated in the award grant and calculates the fair market value for the market-based restricted stock units granted. The Monte Carlo simulation model also uses stock price volatility and other variables to estimate the probability of satisfying the performance conditions, including the possibility that the market condition may not be satisfied, and the resulting fair value of the award. We recognize the expense related to these on a straight-line basis over the vesting period, which is generally five years &#32;for stock options and three years &#32;for restricted stock units. See Note 3, Stock-Based Compensation and Shareholders' Equity, &#32;of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K for more information related to stock based compensation. 
+
+Contingencies 
+
+From time to time, in the ordinary course of business, various claims, charges and litigation are asserted or commenced against us arising from, or related to, contractual matters, patents, trademarks, personal injury, environmental matters, product liability, insurance coverage and personnel and employment disputes. We periodically assess each matter to determine if a contingent liability should be recorded. In making this determination, we may, depending on the nature of the matter, consult with internal and external legal counsel and technical experts. Based on the information we obtain, combined with our judgment regarding all the facts and circumstances of each matter, we determine whether it is probable that a contingent loss may be incurred and whether the amount of such loss can be reasonably estimated. If a loss is probable and reasonably estimable, we record a contingent loss. In determining the amount of a contingent loss, we consider advice received from experts in the specific matter, current status of legal proceedings, settlement negotiations that may be ongoing, prior case history and other factors. If the judgments and estimates made by us are incorrect, we may need to record additional contingent losses that could materially adversely impact our results of operations. 
+

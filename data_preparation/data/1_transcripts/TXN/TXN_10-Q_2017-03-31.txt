@@ -1,0 +1,652 @@
+ ITEM 2. Management&#8217;s discussion and analysis of financial condi tion and results of operations. 
+
+Overview
+
+We design, make and sell semiconductors to electronics designers and manufacturers all over the world. Our business model is carefully constructed around the following attributes:
+
+&#160;
+
+&#8226; 
+
+Industry&#8217;s broadest portfolio of differentiated analog and embedded processing semiconductors. Our customers need multiple chips for their systems. The breadth of our portfolio means we can solve more of these needs than can our competitors, which gives us access to more customers and the opportunity to generate more revenue per system. We invest more than $1 billion each year to develop new products for our portfolio. 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+A strong foundation of manufacturing technology and low-cost production. We invest in manufacturing technologies that differentiate the features of our semiconductors, and we do most of our own production in-house, as opposed to outsourcing it. This ability to directly control our manufacturing helps ensure a consistent supply of products for our customers. We produce billions of semiconductors each year on a mixture of 150-, 200- and 300-millimeter wafers, and we are able to keep costs low for manufacturing facilities and equipment because our Analog and much of our Embedded Processing semiconductors can be made using mature assets that we acquire ahead of demand when their prices are most attractive. In 2016, we increased factory loadings by about 15 percent for our Analog semiconductors on 300-millimeter wafers, which have about a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. The majority of our Analog growth will be produced on 300-millimeter wafers, which will be meaningful to the growth of our cash flow over the long term. 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+Industry&#8217;s largest market channels. Our global sales force is larger than those of our competitors. The breadth of our portfolio attracts an increasing number of visits to our website, where customers often begin their initial product searches and design-in journey. Our web presence, together with our global sales force, provides us unique access to about 100,000 customers. 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+Diversity and longevity in our products and in the markets we serve. Together, the attributes above result in diverse and long-lived positions that deliver high terminal value to our shareholders. Because of the breadth of our portfolio we are not dependent on any single product, and because of the breadth of our markets we are not dependent on any single application or customer. Some of our products generate revenue for decades, which strengthens the return on our investments. 
+
+&#160;
+
+The combined effect of these attributes is that over time we have grown free cash flow and gained market share in Analog and Embedded Processing. These attributes put us in a unique class of companies with the ability to grow, generate cash and return that cash to shareholders . 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations (MD&#38;A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. In the following discussion of our results of operations:
+
+&#160;
+
+&#8226; 
+
+All dollar amounts in the tables are stated in millions of U.S. dollars. 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+When we discuss our results: 
+
+&#160;
+
+&#160;
+
+o 
+
+Unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by fluctuations in shipment volumes. 
+
+&#160;
+
+&#160;
+
+o 
+
+New products tend not to have a significant impact on our revenue in any given period because we sell such a large number of products. 
+
+&#160;
+
+&#160;
+
+o 
+
+From time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which we refer to as changes in the &#8220;mix&#8221; of products shipped. 
+
+&#160;
+
+&#160;
+
+o 
+
+Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. When factory loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins decrease. Conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase. Increases and decreases in factory loadings tend to correspond to increases and decreases in demand. 
+
+&#160;
+
+&#160;
+
+o 
+
+Over time, we have been allocating resources from areas like manufacturing support and SG&#38;A into R&#38;D activities. As a result, R&#38;D expense will continue increasing in 2017. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes an d distribution channels, and how management allocates resources and measures results. See Note 1 to the financial statements for more information regarding our segments . 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+In the first quarter of 2017, we adopted ASU 2017-07 related to certain pension and other retiree benefit costs. We applied the new standard on a full retrospective basis for all periods presented in the Consolidated Statements of Income, which have been recast as a result. See Note 2 to the financial statements for more details. 
+
+&#160;
+
+&#160;
+
+&#8226; 
+
+We no longer recognize royalties as revenue. We continue to receive royalties from arrangements involving license rights to our patent portfolio. Although we expect royalties to continue for many years, they are of decreasing significance to our core operations and are now recorded as OI&#38;E as of January 1, 2017. 
+
+&#160;
+
+Beginning January 2017, we reorganized the product lines within our two reportable segments &#8211; Analog and Embedded Processing &#8211; to realign our business structure with the way our customers select and buy products. These changes had no impact on our previously reported consolidated financial statements or on our reportable segment amounts.
+
+Our Analog segment includes the following major product lines: Power, Signal Chain and High Volume.
+
+Power
+
+Power includes products that help customers manage power in electronic systems. Our broad portfolio is designed to manage power requirements across different voltage levels using battery management solutions, portable components, power supply controls, point-of-load products, switches and interfaces, integrated protection devices, high-voltage products, and mobile lighting and display products. 
+
+Signal Chain
+
+Signal Chain includes products that sense, condition and measure real-world signals to allow information to be transferred or converted for further processing and control. Our Signal Chain products, which serve a variety of end markets, include amplifiers, data converters, interface products, motor drives, clocks and sensing products.
+
+High Volume
+
+High Volume includes high-volume integrated analog products that are primarily sold into markets such as personal electronics and automotive. These products support applications like touch screens and automotive safety systems. High Volume also includes standard products sold primarily into the industrial market. 
+
+Our Embedded Processing segment includes the following major product lines: Connected Microcontrollers (Connected MCU) and Processors.
+
+Connected MCU
+
+Connected MCU includes microcontrollers, wireless connectivity solutions and microcontrollers with integrated wireless capabilities. Microcontrollers are self-contained systems with a processor core, memory and peripherals that are designed to control a set of specific tasks for electronic equipment. Microcontrollers tend to have minimal requirements for memory, program length and software complexity. Our products are used in a wide range of applications and incorporate both wired and wireless communication with integrated analog functions to enable electronic equipment to sense, connect, log and transfer data, which is increasingly important as electronics become smarter and more connected.
+
+Processors
+
+Processors includes digital signal processors (DSPs) and applications processors. DSPs perform mathematical computations almost instantaneously to process or improve digital data. Applications processors are designed for specific computing activity.
+
+&#160;
+
+&#160;
+
+Performance summary 
+
+Our first-quarter revenue was $3.40 billion, net income was $997 million and earnings per share (EPS) were 97 cents.
+
+Revenue increased 13 percent from the same quarter a year ago. Demand for our products continued to be strong in the automotive market and continued to strengthen in the industrial market. 
+
+In our core businesses, Analog revenue grew 20 percent and Embedded Processing revenue grew 10 percent from the same quarter a year ago. Operating margin increased in both businesses. 
+
+Gross margin of 63.0 percent reflected the quality of our product portfolio, as well as the efficiency of our manufacturing strategy, including the benefit of 300-millimeter Analog production. 
+
+Our cash flow from operations of $4.8 billion for the trailing 12 months again underscored the strength of our business model. Free cash flow for the trailing 12 months was up 11 percent from a year ago to $4.2 billion and represents 30.7 percent of revenue, up from 29.5 percent a year ago. 
+
+We have returned $3.8 billion to owners in the past 12 months through stock repurchases and dividends.
+
+Our balance sheet remains strong with $3.0 billion of cash and short-term investments at the end of the quarter, about 80 percent of which was owned by the company&#8217;s U.S. entities. Inventory ended the quarter at 132 days 
+
+Free cash flow is a non-GAAP financial measure. For reconciliation to GAAP and an explanation of the reason for providing this non-GAAP measure, see the Non-GAAP financial information section after the Liquidity and capital resources section.
+
+&#160;
+
+&#160;
+
+Results of operations &#8211; first -quarter 2017 compared with first -quarter 2016 
+
+Revenue increased $394 million, or 13 percent, due to higher revenue from Analog and, to a lesser extent, Embedded Processing. Analog and Embedded Processing comprised 90 percent of revenue compared with 87 percent of revenue.
+
+Gross profit of $2.14 billion was up $315 million, or 17 percent, primarily due to higher revenue. As a percentage of revenue, gross profit increased to 63.0 percent from 60.8 percent. 
+
+Operating expenses were $369 million for R&#38;D and $439 million for SG&#38;A. R&#38;D expense increased $47 million, or 15 percent, primarily due to our ongoing allocation of resources into R&#38;D activities. SG&#38;A expense was about even. 
+
+Acquisition charges associated with our 2011 acquisition of National were $80 million for both periods. These non-cash charges resulted from the ongoing amortization of intangible assets. 
+
+Operating profit was $1.25 billion, or 36.8 percent of revenue, compared with $984 million, or 32.7 percent of revenue.
+
+OI&#38;E (net) was $21 million of income compared with $12 million of expense. The change was due to the inclusion of royalty income beginning with the first quarter of 2017. 
+
+Our Provision for income taxes was $258 million compared with $239 million. The increase was due to higher income before income taxes, partially offset by discrete tax items primarily related to stock-based compensation. Our operating tax rate (the estimated annual effective tax rate) is about 30 percent, which does not include discrete tax items. This differs from the 35 percent statutory corporate tax rate due to the effect of U.S. tax benefits and lower statutory tax rates applicable to our operations in many of the jurisdictions in which we operate. These lower non-U.S. tax rates are generally statutory in nature, without expiration and available to companies that operate in those taxing jurisdictions. 
+
+The effective tax rate, which includes discrete tax items such as the benefit from stock-based compensation, will vary by quarter and, as of March 31, 2017, is expected to be about 27 percent for the year. Our effective tax rate could fluctuate due to factors outside of our control, such as the timing of option exercises by employees. 
+
+Net income was $997 million compared with $711 million, and EPS was $0.97 compared with $0.69. 
+
+First-quarter 2017 segment results 
+
+Our segment results compared with the year-ago quarter are as follows:
+
+Analog (includes Power, Signal Chain and High Volume product lines)
+
+&#160;
+
+&#160;
+
+1Q17
+
+&#160;
+
+1Q16
+
+&#160;
+
+Change
+
+&#160;
+
+Revenue
+
+&#160;
+
+$
+
+2,256
+
+&#160;
+
+$
+
+1,879
+
+&#160;
+
+%
+
+Operating profit
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+%
+
+Operating profit % of revenue
+
+&#160;
+
+&#160;
+
+41.4
+
+%
+
+&#160;
+
+36.6
+
+%
+
+&#160;
+
+&#160;
+
+Analog revenue increased primarily due to Power and Signal Chain. High Volume also grew. Operating profit increased due to higher revenue and associated gross profit. 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Embedded Processing (includes Connected Microcontrollers and Processors product lines ) 
+
+&#160;
+
+&#160;
+
+1Q17
+
+&#160;
+
+1Q16
+
+&#160;
+
+Change
+
+&#160;
+
+Revenue
+
+&#160;
+
+$
+
+&#160;
+
+$
+
+&#160;
+
+%
+
+Operating profit
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+%
+
+Operating profit % of revenue
+
+&#160;
+
+&#160;
+
+29.9
+
+%
+
+&#160;
+
+25.7
+
+%
+
+&#160;
+
+&#160;
+
+Embedded Processing revenue increased in both product lines by about the same amount. Operating profit increased primarily due to higher revenue and associated gross profit.
+
+Other (includes DLP &#174; products, calculators and custom ASIC products) 
+
+&#160;
+
+&#160;
+
+1Q17
+
+&#160;
+
+1Q16
+
+&#160;
+
+Change
+
+&#160;
+
+Revenue
+
+&#160;
+
+$
+
+&#160;
+
+$
+
+&#160;
+
+%
+
+Operating profit*
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+%
+
+Operating profit % of revenue
+
+&#160;
+
+&#160;
+
+22.4
+
+%
+
+&#160;
+
+27.3
+
+%
+
+&#160;
+
+&#160;
+
+* Includes Acquisition charges and Restructuring charges/other
+
+Revenue decreased by $57 million, and operating profit declined by $32 million .
+
+Financial condition
+
+At the end of the first quarter of 2017, total cash (Cash and cash equivalents plus Short-term investments) was $3.05 billion, a decrease of $441 million from the end of 2016. 
+
+Accounts receivable were $1.34 billion, an increase of $70 million compared with the end of 2016. Days sales outstanding were 35 at the end of the first quarter compared with 33 at the end of 2016. 
+
+Inventory was $1.84 billion, an increase of $53 million from the end of 2016. Days of inventory at the end of the first quarter of 2017 were 132 compared with 126 at the end of 2016. 
+
+Liquidity and capital resources
+
+Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are Cash and cash equivalents, Short-term investments and a variable-rate revolving credit facility. Cash flows from operating activities for the first three months of 2017 was $795 million, an increase of $142 million from the year-ago period primarily due to an increase in Net income, partially offset by an increase in cash used for working capital. 
+
+Our revolving credit facility is with a consortium of investment-grade banks and allows us to borrow up to $2 billion until March 2022. This credit facility also serves as support for the issuance of commercial paper. As of March 31, 2017, our credit facility was undrawn, and we had no commercial paper outstanding. 
+
+For the first three months of 2017, investing activities provided $267 million compared with $573 million in the year-ago period. Capital expenditures were $127 million compared with $124 million in the year-ago period and were primarily for semiconductor manufacturing equipment. We had proceeds from sales of short-term investments, net of purchases, that provided cash of $363 million compared with $700 million in the year-ago period. 
+
+&#160;
+
+&#160;
+
+For the first three months of 2017, financing activities used $1.14 billion comp ared with $945 million in the year-ago period. We retired maturing debt of $250 million; no debt matured in the year-ago period. Dividends paid were $500 million compared with $383 million in the year-ago period, reflecting an increase in the dividend rate , partially offset by fewer shares outstanding. We used $550 million to repurchase 7.1 million shares of our common stock compared with $630 million used in the year-ago period to repurchase 12.4 million shares. Proceeds from common stock transactions, res ulting from employee equity awards, were $161 million compared with $68 million in the year-ago period. 
+
+On April 27, 2017, we agreed to issue $600 million principal amount of debt, a portion of which we expect to use for repayment of maturing debt, with the remainder used for general corporate purposes. The offering is expected to close on May 4, 2017. 
+
+We had $1.07 billion of Cash and cash equivalents and $1.98 billion of Short-term investments as of March 31, 2017. We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months. 
+
+Non-GAAP financial information
+
+This MD&#38;A includes references to free cash flow and ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated by subtracting Capital expenditures from the most directly comparable GAAP measure, Cash flows from operating activities (also referred to as cash flow from operations). 
+
+We believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to shareholders, as well as insight into our financial performance. These non-GAAP-based measures are supplemental to the comparable GAAP measures. 
+
+Reconciliation to the most directly comparable GAAP measures is provided in the table below. 
+
+&#160;
+
+For 12 Months Ended
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+March 31,
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Change
+
+&#160;
+
+Cash flow from operations (GAAP) 
+
+$
+
+4,756
+
+&#160;
+
+$
+
+4,347
+
+&#160;
+
+%
+
+Capital expenditures 
+
+&#160;
+
+(534
+
+)
+
+&#160;
+
+(552 
+
+)
+
+&#160;
+
+&#160;
+
+Free cash flow (non-GAAP) 
+
+$
+
+4,222
+
+&#160;
+
+$
+
+3,795 
+
+&#160;
+
+%
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Revenue 
+
+$
+
+13,764
+
+&#160;
+
+$
+
+12,858
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+Cash flow from operations as a percent of revenue (GAAP)
+
+&#160;
+
+34.6
+
+%
+
+&#160;
+
+33.8
+
+%
+
+&#160;
+
+&#160;
+
+Free cash flow as a percent of revenue (non-GAAP)
+
+&#160;
+
+30.7
+
+%
+
+&#160;
+
+29.5
+
+%
+
+&#160;
+
+&#160;
+
+&#160;
+
+This MD&#38;A also includes references to an operating tax rate, a non-GAAP term we use to describe the estimated annual effective tax rate, a GAAP measure that by definition does not include discrete tax items. We believe the term operating tax rate is useful because it more clearly communicates that discrete tax items are excluded from such rate. The term also helps differentiate from the effective tax rate, which includes discrete tax items . No adjustments were made to the estimated annual effective tax rate
+
+Lon g-term contractual obligations
+
+Information regarding long-term debt obligations is described in the long-term contractual obligations table in Item 7 of our Form 10-K for the year ended December 31, 2016. Additionally, in March 2017, we retired $250 million of maturing debt.
+
+Changes in accounting standards
+
+See Note 2 to the financial statements for detailed information regarding the status of new accounting and reporting standards . 
+
+&#160;
+
+&#160;
+
+&#160;
+
+&#160;
+
+
+
+ ITEM 1A. Risk Factors.
+
+Information concerning our risk factors is contained in Item 1A of our Form 10-K for the year ended December 31, 2016, and is incorporated by reference herein.
+

@@ -1,0 +1,34 @@
+# TemporalRAG Web Application — Backend Dependencies
+
+# FastAPI & ASGI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database (SQLite ORM)
+sqlalchemy
+aiosqlite
+
+# Authentication
+bcrypt
+pyjwt
+python-jose
+email-validator
+
+# Neo4j Graph Database
+neo4j
+
+# HTTP Client
+requests
+aiohttp
+
+# Environment
+python-dotenv
+
+# Data
+pandas
+numpy
+
+# NLP / Embeddings (for TemporalRAGRetriever)
+tenacity
+xxhash

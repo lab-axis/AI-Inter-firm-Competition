@@ -1,0 +1,1078 @@
+ ITEM 1. BUSINESS 
+
+We are a leading provider of data storage technology and infrastructure solutions that enable enterprises and end users to confidently store and unlock the value of their data. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of data storage products including solid state drives (&#8220;SSDs&#8221;) and storage subsystems and offer storage solutions such as a scalable edge-to-cloud mass data platform that includes data transfer shuttles and a storage-as-a-service cloud. 
+
+HDDs are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. HDDs continue to be the primary medium of mass data storage due to their performance attributes, reliability, high capacities, superior quality and cost effectiveness. Complementing HDD storage architectures, SSDs use NAND flash memory integrated circuit assemblies to store data. 
+
+Our HDD products are designed for mass capacity storage in the cloud and at the edge as well as legacy market applications. Mass capacity storage involves well-established use cases, such as hyperscale data centers and private and public clouds as well as quickly emerging use cases such as machine learning (&#8220;ML&#8221;) and artificial intelligence (&#8220;AI&#8221;). Legacy markets are those that we continue to sell to but we do not plan to invest in significantly. Our HDD and SSD product portfolio includes Serial Advanced Technology Attachment (&#8220;SATA&#8221;), Serial Attached SCSI (&#8220;SAS&#8221;) and Non-Volatile Memory Express (&#8220;NVMe&#8221;) based designs to support a wide variety of mass capacity and legacy applications. 
+
+Our systems portfolio includes storage subsystems for enterprises, cloud service providers (&#8220;CSPs&#8221;), scale-out storage servers and original equipment manufacturers (&#8220;OEMs&#8221;). Engineered for modularity, mobility, capacity and performance, these solutions are built with our enterprise HDDs and SSDs, enabling customers to integrate powerful, scalable storage within existing environments or create new ecosystems from the ground up in a secure, cost-effective manner. 
+
+Our Lyve portfolio provides a simple, cost-efficient and secure way to manage massive volumes of data across the distributed enterprise. The Lyve platform includes a shuttle solution that enables enterprises to transfer massive amounts of data from endpoints to the core cloud and a storage-as-a-service cloud offering that provides frictionless mass capacity storage at the metro edge. 
+
+Industry Overview 
+
+Data Storage Industry 
+
+The data storage industry includes companies that manufacture components or subcomponents designed for data storage devices, as well as providers of storage solutions, software and services. These providers address data storage needs for cloud, enterprise and other edge markets. The rapid growth of data generation, the intelligent application of data and the rise in data value are driving demand for data storage. As more data is created at endpoints outside traditional data centers, the need for real-time decision making we expect will drive an increase in processing at the edge and in the cloud. Additionally, the need for data storage and management between the edge and cloud continues to increase. Use cases include connected and autonomous vehicles, smart manufacturing, smart cities and emerging generative AI (&#8220;Gen AI&#8221;) applications. We believe the proliferation and creation of media-rich digital content, further enabled by Gen AI, ML, fifth-generation wireless (&#8220;5G&#8221;) technology, the edge and the Internet of Things (&#8220;IoT&#8221;) will continue to create demand for higher capacity storage solutions. The resulting mass data ecosystem is expected to require increasing amounts of data storage at the edge, in the cloud and in between. 
+
+Markets 
+
+The principal data storage markets include: 
+
+Mass Capacity Storage Markets 
+
+Mass capacity storage supports scalable, high capacity, cost efficient storage applications, including nearline cloud, nearline enterprise, video and image applications (&#8220;VIA&#8221;) and network-attached storage (&#8220; NAS&#8221;) and edge-to-cloud data storage infrastructures. 
+
+Nearline. Nearline applications require mass capacity devices and mass capacity subsystems that provide end-to-end solutions to businesses for the purpose of modular and scalable storage. Cloud and enterprise storage applications require both high-capacity and energy efficient storage devices to support low total cost of ownership. Seagate systems offer mass capacity storage solutions that provide foundational infrastructure for private and public clouds. The nearline market includes storage for cloud computing, content delivery, archival, backup services and emerging use cases such as generative AI. 
+
+VIA and NAS. VIA and NAS drives are specifically designed to ensure the appropriate performance and reliability of the system for video analytics and camera enabled environments or network storage environments. These markets include storage for security and smart video installations. 
+
+Edge-to-cloud data storage infrastructures, transport, and activation of mass data. The Seagate Lyve portfolio grew out of our mass capacity storage portfolio. It provides a simple, cost-efficient and secure way to manage, transport and activate massive volumes of data across the distributed enterprise. Among other elements, the Lyve portfolio includes a shuttle solution that enables enterprises to transfer vast amounts of data from endpoints to the core cloud and a storage-as-a-service cloud that provides frictionless mass capacity storage at the metro edge. 
+
+Legacy Markets 
+
+Legacy markets include consumer, client and mission critical applications. We continue to sell to these markets but do not plan significant additional investment. 
+
+Consumer storage. Consumer applications are externally connected storage, both HDD and SSD-based, used to provide backup capabilities, augmented storage capacity, or portable storage for PCs, mobile devices and gaming consoles. 
+
+Client storage. Client applications include desktop and notebook storage that rely on low cost-per-HDD and SSD devices to provide built-in storage, digital video recorder (&#8220;DVR&#8221;) storage for video streaming in always-on consumer premise equipment and media center, and gaming storage for PC-based gaming systems as well as console gaming applications including both internal and external storage options. 
+
+Mission critical storage. Mission critical applications are defined as those that use very high-performance enterprise class HDDs and SSDs with sophisticated firmware to reliably support very high workloads. 
+
+Participants in the data storage industry include: 
+
+Major subcomponent manufacturers. Companies that manufacture components or subcomponents used in data storage devices or solutions include companies that supply spindle motors, heads and media, and application specific integrated circuits (&#8220;ASICs&#8221;). 
+
+Storage device manufacturers. Companies that transform components into storage products include disk drive manufacturers and semiconductor storage manufacturers that integrate flash memory into storage products such as SSDs. 
+
+Storage solutions manufacturers and system integrators. Companies, such as Original Equipment Manufacturers (&#8220;OEMs&#8221;), that bundle and package storage solutions, distributors that integrate storage hardware and software into end-user applications, CSPs that provide cloud based solutions to businesses for the purpose of scale-out storage solutions and modular systems, and producers of solutions such as storage racks. 
+
+Cloud and hyperscale data centers. Large cloud and hyperscale data center companies, many of which are CSPs, are increasingly designing their own storage subsystems and having them built by contract manufacturers for their own data centers. The leading hyperscale data center companies are also implementing advanced AI technologies to enhance their business growth. To support this AI-driven expansion, they are increasing the storage capacity of both AI-specific and traditional cloud infrastructure. 
+
+Storage services. Companies that provide and host services and solutions, which include storage, backup, archiving, recovery and discovery of data. 
+
+Demand for Data Storage 
+
+In the &#8220;Worldwide Global DataSphere Forecast, 2025-2029&#8221;, published by the International Data Corporation 1 (&#8220;IDC&#8221;), the global datasphere is forecasted to grow at a compound rate of 25% over the next five years to reach 527 zettabytes annually by 2029. Digital transformation has given rise to many new applications, all of which rely on faster access to and secure storage of data proliferating from endpoints through edge to cloud. Additionally, the adoption of generative AI applications is expected to accelerate the creation of digital content such as text, images and video over the long term. We expect these trends will have a positive impact on storage demand. 
+
+As more applications require real-time decision making, some data processing and storage are moving closer to the network edge. We believe this will result in a buildup of private and edge cloud environments that will enable fast and secure access to data throughout the IoT ecosystem. 
+
+Factors contributing to the growth of digital content include: 
+
+&#8226; Creation, sharing and consumption of media-rich content, such as high-resolution photos, high-definition videos and digital music through smart phones, tablets, digital cameras, personal video cameras, DVRs, gaming consoles or other digital devices; the adoption of smart home and wearable devices as well as the growth of social media platforms; 
+
+&#8226; Rapid consumer and enterprise adoption of widely available generative AI tools; 
+
+&#8226; Increasing use of video and imaging sensors to collect and analyze data used to improve traffic flow, emergency response times and manufacturing production costs, as well as for new security surveillance systems that feature higher resolution digital cameras and thus require larger data storage capacities; 
+
+&#8226; Creation and collection of data through the development and evolution of the IoT ecosystem, big data analytics, machine learning and new technology trends such as autonomous vehicles and drones, smart manufacturing, and smart cities, as well as emerging trends including generative AI content growth or applications that converge the digital and physical worlds such as the metaverse or use of digital twins; 
+
+&#8226; The growing use of analytics, especially for action on data created at the edge instead of processing and analyzing at the data center, which is particularly important for verticals such as autonomous vehicles, property monitoring systems, and smart manufacturing; 
+
+1 Worldwide IDC Global DataSphere Forecast, 2025&#8211;2029, Doc #US53363625, May 2025. 
+
+&#8226; Cloud migration initiatives and the ongoing advancement of the cloud, including the build out of large numbers of cloud data centers by CSPs and private companies transitioning on-site data centers into the cloud; and 
+
+&#8226; The need for protection of increased digital content through redundant storage on backup devices and externally provided storage services is essential. 
+
+As a result of these factors, we anticipate that the nature and volume of data being created will require greater storage capability, which is more efficiently and economically facilitated by higher capacity mass storage solutions. 
+
+In addition, the economics of storage infrastructure are also evolving. The utilization of private and public cloud storage and open-source solutions is reducing the total cost of ownership of storage while increasing the speed and efficiency with which customers can leverage massive computing and storage devices. Accordingly, we expect these trends will continue to create significant demand for data storage products and solutions going forward. 
+
+Demand Trends 
+
+We believe that continued growth in digital content creation will require increasingly higher storage capacity in order to store, aggregate, host, distribute, analyze, manage, protect, back up and use such content. We also believe that as architectures evolve to serve a growing commercial and consumer user base throughout the world, storage solutions will evolve as well. 
+
+Mass capacity storage is and will continue to be the enabler of scale. According to IDC&#8217;s 2025 Cloud Infrastructure Index, hard drives store 87% of exabytes in large data center deployments. We expect increased data creation will lead to the expansion of the need for storage in the form of HDDs, SSDs and systems. While the advance of solid state technology in many end markets is expected to increase, we believe that in the foreseeable future, cloud, edge and traditional enterprise that require high-capacity storage solutions will be best served by HDDs due to their ability to deliver reliable, scalable, energy-efficient and the most cost-effective mass storage devices. As HDD capacities continue to increase, demand for higher capacity drives is expected to grow due to their better total cost of ownership compared with lower capacity drives. As a result, we can address higher exabyte demand with fewer HDD units that have higher average capacity per drive. 
+
+Industry Supply Balance 
+
+From time to time, the storage industry has experienced periods of imbalance between supply and demand. To the extent that the storage industry builds or maintains capacity based on expectations of demand that do not materialize, price erosion may become more pronounced. Conversely, during periods where demand exceeds supply, we usually have better pricing power and price erosion is generally muted. As production lead-times for our latest generation of high-capacity HDDs have extended, we began to require longer term demand forecasts and commitments from customers to improve supply predictability and create greater alignment between supply and demand. 
+
+Our Business 
+
+Data Storage Technologies 
+
+The design and manufacturing of HDDs depends on highly advanced technology and manufacturing techniques. Therefore, it requires relatively high levels of research and development spending and capital equipment investments. We design, fabricate and assemble a number of the most important components in our disk drives, including read/write heads and recording media. Our design and manufacturing operations are based on technology platforms that are used to produce various disk drive products that serve multiple data storage applications and markets. Our core technology platforms focus on the areal density of media and read/write head technologies, including the Mozaic platform, which is the industry&#8217;s first implementation of the high-capacity enabling heat-assisted magnetic recording (&#8220;HAMR&#8221;) technology as well as innovations like shingled-magnetic-recording ("SMR") technology, and the throughput-optimizing multi actuator MACH.2 technology. This design and manufacturing approach allows us to deliver a portfolio of storage products to service a wide range of data storage applications and industries. 
+
+Disk drives that we manufacture are commonly differentiated by the following key characteristics: 
+
+&#8226; Input/output operations per second (&#8220;IOPS&#8221;), commonly expressed in megabytes per second, which is the maximum number of reads and writes to a storage location; 
+
+&#8226; Storage capacity, commonly expressed in TB, which is the amount of data that can be stored on the disk drive; 
+
+&#8226; Areal density, which is a measurement of the storage capacity per square inch on the recording surface of a disk (also known as platter); 
+
+&#8226; Spindle rotation speed, commonly expressed in revolutions per minute (&#8220;RPM&#8221;), which has an effect on speed of access to data; 
+
+&#8226; Interface transfer rate, commonly expressed in megabytes per second, which is the rate at which data moves between the disk drive and the computer controller; 
+
+&#8226; Average seek time, commonly expressed in milliseconds, which is the time needed to position the heads over a selected track on the disk surface; 
+
+&#8226; Data transfer rate, commonly expressed in megabytes per second, which is the rate at which data is transferred to and from the disk drive; 
+
+&#8226; Product quality and reliability, commonly expressed in annualized return rates; and 
+
+&#8226; Energy efficiency, commonly measured by the power output such as energy per TB necessary to operate the disk drive. 
+
+The total storage capacity of a disk drive is determined by the size and number of disks it contains as well as the areal density capability of these disks. 
+
+We also offer SSDs as part of our storage solutions portfolio. Our portfolio includes devices with SATA, SAS and NVMe interfaces. The SSDs differ from HDDs in that they are without mechanical parts. 
+
+SSDs store data on NAND flash memory cells, or metal-oxide semiconductor transistors using a charge on a capacitor to represent a binary digit. SSD technology offers fast access to data and robust performance. SSDs complement hyperscale applications, high-density data centers, cloud environments and web servers. They are also used in mission-critical enterprise applications, consumer, gaming and NAS applications. 
+
+Manufacturing 
+
+We primarily design and manufacture our own read/write heads and recording media, which are critical technologies for disk drives. This integrated approach enables us to lower costs and to improve the functionality of components so that they work together efficiently. 
+
+We believe that because of our vertical design and manufacturing strategy, we are well positioned to take advantage of the opportunities to leverage the close interdependence of components for disk drives. Our manufacturing efficiency and flexibility are critical elements of our integrated business strategy. We continuously seek to improve our manufacturing efficiency and reduce manufacturing costs by: 
+
+&#8226; Employing manufacturing automation; 
+
+&#8226; Employing machine learning algorithms and AI; 
+
+&#8226; Improving product quality and reliability; 
+
+&#8226; Integrating our supply chain with suppliers and customers to enhance our demand visibility and reduce our working capital requirements; 
+
+&#8226; Coordinating between our manufacturing group and our research and development organization to rapidly achieve volume manufacturing; and 
+
+&#8226; Operating our facilities at optimal capacities. 
+
+A vertically integrated model, however, tends to have less flexibility when demand declines as it exposes us to higher unit costs when capacity utilization is not optimized which would lead to factory underutilization charges as we experienced in fiscal years 2024 and 2023. 
+
+Components and Raw Materials 
+
+Disk drives incorporate certain components, including a head disk assembly and a printed circuit board mounted to the head disk assembly, which are sealed inside a rigid base and top cover containing the recording components in a contamination-controlled environment. We maintain a highly integrated approach to our business by designing and manufacturing a significant portion of the components we view as critical to our products, such as read/write heads and recording media. 
+
+Read/Write Heads. The function of the read/write head is to scan across the disk as it spins, magnetically recording or reading information. The tolerances of read/write heads are extremely demanding and require state-of-the-art equipment and processes. Our read/write heads are manufactured with thin-film and photolithographic processes similar to those used to produce semiconductor integrated circuits, though challenges related to magnetic film properties and topographical structures are unique to the disk drive industry. In addition, HAMR technology utilizes a laser and a near-field transducer on the read/write head to heat an extremely small spot on the magnetic disk, allowing for higher data density storage. We perform all primary stages of design and manufacture of read/write heads at our facilities. We use a combination of internally manufactured and externally sourced read/write heads, the mix of which varies based on product mix, technology and our internal capacity levels. 
+
+Media. Data is written to or read from the media, or disk, as it rotates at very high speeds past the read/write head. The media is made from non-magnetic substrates, usually an aluminum alloy or glass and is coated with thin layers of magnetic materials. HAMR technology requires media with higher coercivity alloys that are stable at room temperature. The laser temporarily lowers the coercivity allowing data to be written. We use a combination of internally manufactured and externally sourced finished media and aluminum substrates, the mix of which varies based on product mix, technology and our internal capacity levels. We purchase all of our glass substrates from third parties. 
+
+Printed Circuit Board Assemblies. The printed circuit board assemblies (&#8220;PCBAs&#8221;) are comprised of standard and custom ASICs and ancillary electronic control chips. The ASICs control the movement of data to and from the read/write heads and through the internal controller and interface, which communicates with the host computer. The ASICs and control chips form electronic circuitry that delivers instructions to a head positioning mechanism called an actuator to guide the heads to the selected track of a disk where the data is recorded or retrieved. Disk drive manufacturers use one or more industry standard interfaces such as SATA, SCSI, or SAS to communicate to the host systems. 
+
+Head Disk Assembly. The head disk assembly consists of one or more disks attached to a spindle assembly powered by a spindle motor that rotates the disks at a high constant speed around a hub. Read/write heads, mounted on an arm assembly, similar in concept to that of a record player, fly extremely close to each disk surface, and record data on and retrieve it from concentric tracks in the magnetic layers of the rotating disks. The read/write heads are mounted vertically on an E-shaped assembly (&#8220;E-block&#8221;) that is actuated by a voice-coil motor to allow the heads to move from track to track. The E-block and recording media are mounted inside the head disk assembly. We purchase spindle motors from outside vendors and from time to time participate in the design of the motors that go into our products. 
+
+Disk Drive Assembly. Following the completion of the head disk assembly, it is mated to the PCBA, and the completed unit goes through extensive defect mapping and machine learning prior to packaging and shipment. Disk drive assembly and machine learning operations occur primarily at our facilities located in China and Thailand. We perform subassembly and component manufacturing operations at our facilities in China, Malaysia, Northern Ireland, Singapore, Thailand and the United States. 
+
+Contract Manufacturing. We outsource the manufacturing and assembly of certain components and products to third parties in various countries worldwide. This includes outsourcing the PCBAs used in our disk drives, SSDs and storage subsystems. We continue to participate in the design of our components and products, and we are directly involved in qualifying key suppliers and components used in our products. 
+
+Suppliers of Components and Industry Constraints. There are a limited number of independent suppliers of components, such as recording heads and media, available to disk drive manufacturers. From time to time, we may enter into long-term supply arrangements with these independent suppliers. Vertically integrated disk drive manufacturers like us, who manufacture their own components, are less dependent on external component suppliers than less vertically integrated disk drive manufacturers. However, certain parts of our business have been adversely affected by our suppliers&#8217; capacity constraints and this could occur again in the future. 
+
+Commodity and Other Manufacturing Costs. The production of disk drives requires rare earth elements, precious metals, scarce alloys and industrial commodities, which are subject to fluctuations in price and the supply of which has at times been constrained. In addition to increased costs of components and commodities, volatility in fuel and other transportation costs may also increase our costs related to commodities, manufacturing and freight. As a result, we may increase our use of alternative shipment methods to help offset any increase in freight costs, and we will continually review various forms of shipments and routes to minimize the exposure to higher freight costs. 
+
+Products 
+
+We offer a broad range of storage solutions for mass capacity storage and legacy applications. We differentiate products on the basis of capacity, performance, product quality, reliability, price, form factor, interface, power consumption efficiency, security features and other customer integration requirements. Our industry is characterized by continuous and significant advances in technology that contribute to rapid product life cycles. Currently our product offerings include: 
+
+Mass Capacity Storage 
+
+Enterprise Nearline HDDs. Our high-capacity enterprise HDDs, including HAMR-based Mozaic drives, ship in capacities of up to 35TB. These products are designed for mass capacity data storage in the cloud and at the edge, as well as server environments and cloud systems that require high capacity, enterprise reliability, energy efficiency and integrated security. They are available in SATA and SAS interfaces. Additionally, certain customers can utilize many of our HDDs with SMR technology enabled which increases the available storage capacity of the drive with certain performance trade-offs. 
+
+Enterprise SSDs. Our enterprise SSDs are designed for high-performance, hyperscale, high-density and cloud applications. They are offered with multiple interfaces, including SATA and NVMe, and in capacities up to 30TB. 
+
+Enterprise Systems. Our systems portfolio provides modular storage arrays, storage server platforms, multi-level configuration for disks (commonly referred as JBODs) and expansion shelves to expand and upgrade data center storage infrastructure and other enterprise applications. They feature speed, scalability and security. Our capacity-optimized systems feature multiple scalable configurations and can accommodate up to 2.5 petabytes of HDDs per chassis. We offer capacity and performance-optimized systems that include all-flash, all-disk and hybrid arrays for workloads demanding high performance, capacity and efficiency. 
+
+VIA. Our video and image HDDs are built to support the high-write workload of always-on, always-recording video systems. These optimized drives are built to support the growing needs of the video imaging market with support for multiple streams and capacities up to 30TB. 
+
+NAS. Our NAS drives are built to support the performance and reliability demanded by small and medium businesses, and incorporate interface software with custom-built health management, error recovery controls, power settings and vibration tolerance. Our NAS HDD solutions are available in capacities up to 30TB. We also offer NAS SSDs with capacities up to 4TB. 
+
+Legacy Applications 
+
+Mission Critical HDDs and SSDs. Although we have stopped offering 15,000 RPM HDDs, we continue to support 10,000 RPM HDDs, offered in capacities up to 2.4TB, which enable increased throughput while improving energy efficiency. Our enterprise SSDs are available in capacities up to 30TB with various interfaces. Our SSDs deliver the speed and consistency required for demanding enterprise storage and server applications. 
+
+Consumer Solutions. Our external storage solutions with capacities up to 24TB are shipped, under the Seagate Ultra Touch, One Touch, Expansion and Basics product lines, as well as under the LaCie brand name. We strive to deliver the best customer experience by leveraging our core technologies, offering services such as Seagate Recovery Services (data recovery) and partnering with leading brands such as Microsoft&#8217;s Xbox and Sony&#8217;s PlayStation. 
+
+Client Applications. Our 3.5-inch desktop drives offer up to 24TB of capacity, designed for personal computers and workstation applications and our 2.5-inch notebook drives offer up to 5TB for HDD and up to 4TB for SSD designed for applications such as traditional notebooks, convertible systems and external storage to address a range of performance needs and sizes for affordable, high-capacity storage. Our DVR HDDs are optimized for video streaming in always-on consumer premise equipment applications with capacities up to 8TB. Our gaming SSDs are specifically optimized internal storage for gaming rigs and are designed to enhance the gaming experience during game load and game play with capacities up to 4TB. 
+
+Lyve Edge-to-Cloud Mass Capacity Platform 
+
+Lyve. Lyve is our as-a-service platform built with mass data in mind. These solutions, including modular hardware and software delivered in a consumption-based model, support enterprises&#8217; on-premise and cloud data transfer and retention needs. Lyve Cloud Object Storage is a consumption-based, mass storage simple storage service (&#8220;S3&#8221;) compatible cloud, completing our comprehensive edge-to-cloud portfolio. Lyve Cloud is available in standard and infrequent access tiers, across multiple geographic regions. 
+
+Customers 
+
+We sell our products to major OEMs, distributors and retailers. 
+
+OEM customers, including large hyperscale data center companies and CSPs, typically enter into master purchase agreements with us. Deliveries are scheduled only after receipt of purchase orders. Historically, customers could defer or cancel most purchase orders without significant penalty. However, during fiscal year 2024, as production lead-times extended for our latest generation of high-capacity hard disk drives, we began to require longer term demand forecasts and commitments, with potential cancellation charges across key global OEM customers which was necessary to improve supply predictability and align supply with customer demand requirements. While not entirely eliminating order deferments or cancellations from our key OEM customers, we expect these changes will dampen demand volatility over time. 
+
+Our distributors generally enter into non-exclusive agreements for the resale of our products. They typically furnish us with a non-binding indication of their near-term requirements and product deliveries are generally scheduled accordingly. The agreements and related sales programs typically provide the distributors with limited rights of return and price protection. In addition, we offer sales programs to distributors on a quarterly and periodic basis to promote the sale of selected products in the sales channel. 
+
+Our retail channel consists of our branded storage products sold to retailers either by us directly or by our distributors. Retail sales made by us or our distributors typically require greater marketing support, sales incentives and price protection periods. 
+
+See &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 16. Revenue &#8221; contained in this report for a description of our major customers. 
+
+Competition 
+
+We compete primarily with manufacturers of hard drives used in the mass capacity storage and legacy markets, and with other companies in the data storage industry that provide SSDs and systems. Some of the principal factors used by customers to differentiate among data storage solutions manufacturers are storage capacity, product performance, product quality and reliability, price per unit and price per TB, storage/retrieval access times, data transfer rates, form factor, product warranty and support capabilities, supply continuity and flexibility, power consumption, total cost of ownership and brand. While different markets and customers place varying levels of emphasis on these factors, we believe that our products are competitive with respect to many of these factors in the markets that we currently compete in. 
+
+Principal Competitors. We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: 
+
+&#8226; Kioxia Holdings Corporation; 
+
+&#8226; Micron Technology, Inc.; 
+
+&#8226; Samsung Electronics; 
+
+&#8226; Sandisk Corporation; 
+
+&#8226; SK hynix, Inc.; 
+
+&#8226; Toshiba Corporation; and 
+
+&#8226; Western Digital Corporation. 
+
+Price Erosion. Historically, our industry has been characterized by price declines for data storage products with comparable capacity, performance and feature sets (&#8220;like-for-like products&#8221;). Price declines for like-for-like products (&#8220;price erosion&#8221;) tend to be more pronounced during periods of: 
+
+&#8226; Economic contraction in which competitors may use discounted pricing to attempt to maintain or gain market share; 
+
+&#8226; Few new product introductions when competitors have comparable or alternative product offerings; and 
+
+&#8226; Industry supply exceeding demand. 
+
+Data storage manufacturers typically attempt to offset price erosion with an improved mix of data storage products characterized by higher capacity, better performance and additional feature sets and product cost reductions. 
+
+We believe our HDDs&#8217; supply and demand remained well balanced during fiscal year 2025, supporting a healthy pricing environment. 
+
+Product Life Cycles and Changing Technology. Success in our industry has been dependent to a large extent on the ability to balance the introduction and transition of new products with time-to-volume, performance, capacity and quality metrics at a competitive price, level of service and support that our customers expect. Generally, the drive manufacturer that introduces a new product first benefits from improved product mix, favorable profit margins and less pricing pressure until comparable products are introduced. Evolving technology also necessitates on-going investments in research and development, which may be difficult to recover due to rapid product life cycles or economic declines. Further, there is a continuing need to successfully execute product transitions and new product introductions, as factors such as quality, reliability and manufacturing yields continue to be of significant competitive importance. 
+
+Cyclicality and Seasonality 
+
+Our mass capacity markets are subject to variability of sales, which can be attributed to the timing of IT spending or a reflection of cyclical demand from CSPs based on the timing of their procurement and deployment requirements and their ability to procure other components needed to build out data center infrastructure. Our legacy markets, such as consumer storage applications, traditionally experienced seasonal variability in demand with higher levels of demand in the first half of the fiscal year, primarily driven by consumer spending related to back-to-school season and traditional holiday shopping season. 
+
+Research and Development 
+
+Our Research &#38; Development (R&#38;D) organization is focused on the development of storage solutions leveraging our areal density leadership in mass capacity hard disk drives. Our portfolio also includes solid state drives and systems. We continue to develop innovative magnetic recording technologies as well as conduct research on adjacent technologies necessary for the development of scalable, high-availability storage products. 
+
+Seagate&#8217;s HAMR based Mozaic platform reflects our ability to productize complex nanoscale technologies, create a foundation for scaling to increasingly higher capacity hard drive storage products, and extend our areal density leadership. In addition, we continue to optimize our perpendicular magnetic recording (&#8220;PMR&#8221;) product development and manufacturing by leveraging design systems that extend across product generations and result in more efficient resource utilization. 
+
+Our wafer and media development, recording subsystems, firmware, and system development happens around the world. Our primary R&#38;D centers are located in Northern Ireland, Singapore, Thailand and in the U.S. in California, Colorado and Minnesota. 
+
+The expenses related to R&#38;D depend on several factors including the stage of technological development and product qualification timelines. 
+
+Patents and Licenses 
+
+As of June 27, 2025, we had approximatel y 3,273 U .S. patents and 243 patents issued in various non-U.S. jurisdictions, as well as approximately 221 U.S. and 38 non-U.S. patent applications pending. The number of patents and patent applications will vary at any given time as part of our ongoing patent portfolio management activity. Due to the rapid technological change that characterizes the data storage industry, we believe that, in addition to patent protection, the improvement of existing products, reliance upon trade secrets, protection of unpatented proprietary know-how and development of new products are also important to our business in establishing and maintaining a competitive advantage. Accordingly, we intend to continue our efforts to broadly protect our intellectual property, including obtaining patents, where available, in connection with our research and development program. 
+
+The data storage industry is characterized by significant litigation arising from time to time relating to patent and other intellectual property rights. Occasionally, we receive claims that our products infringe patents of third parties. Although we have been able to resolve some of those claims or potential claims without a material adverse effect on us, other claims have resulted in adverse decisions or settlements. In addition, other claims are pending, which if resolved unfavorably to us could have a material adverse effect on our business and results of operations. For more information on these claims, see &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 13. Legal, Environmental and Other Contingencies .&#8221; The costs of engaging in intellectual property litigation in the past have been, and in the future may be, substantial, irrespective of the merits of the claim or the outcome. 
+
+Environmental Matters 
+
+Our operations are subject to U.S. and foreign laws and regulations relating to the protection of the environment, including those governing discharges of pollutants into the air and water, the management and disposal of hazardous substances and wastes and the cleanup of contaminated sites. Some of our operations require environmental permits and controls to prevent and reduce air and water pollution, and these permits are subject to modification, renewal and revocation by issuing authorities . 
+
+We have established an environmental management system and continually review and update our environmental policies and standard operating procedures for our operations worldwide as needed. We believe that our operations are in material compliance with applicable environmental laws, regulations and permits. We budget for operating and capital costs on an ongoing basis to comply with environmental laws. If additional or more stringent requirements are imposed on us in the future, we could incur additional operating costs and capital expenditures . 
+
+Some environmental laws, such as the U.S. Comprehensive Environmental Response Compensation and Liability Act of 1980 (as amended, the &#8220;Superfund&#8221; law) and its state equivalents, can impose liability for the cost of cleanup of contaminated sites upon any of the current or former site owners or operators, or upon parties who sent waste to these sites, regardless of whether the owner or operator owned the site at the time of the release of hazardous substances or the lawfulness of the original disposal activity. We have been identified as a responsible or potentially responsible party at several sites. At each of these sites, we have an assigned portion of the financial exposure based on the type and amount of hazardous substances disposed of by each party at the site and the number of financially viable parties. We have fulfilled our responsibilities at some of these sites and remain involved in only a few at this time. Based on our current estimates of cleanup costs and our expected allocation of these costs, we do not expect costs in connection with these sites to be material . 
+
+We may be subject to various state, federal and international laws and regulations governing the environment, including those restricting the presence of certain substances in electronic products. For example, the European Union (&#8220;EU&#8221;) enacted the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (2011/65/EU), which prohibits the use of certain substances, including lead, in certain products, including disk drives and server storage products , put on the market after July 1, 2006. Similar legislation has been or may be enacted in other jurisdictions, including in Canada, China, Japan, Mexico, Taiwan, the U.S. and others. The EU REACH Directive (Registration, Evaluation, Authorization, and Restriction of Chemicals, EC 1907/2006) also restricts substances of very high concern in products. If we or our suppliers fail to comply with the substance restrictions, recycle content requirements or other environmental requirements as they are enacted worldwide, it could have a materially adverse effect on our business . 
+
+Social and Employee Matters 
+
+As of June 27, 2025, we employed approximately 30,000 full-time employees worldwide, of which approximately 25,000 were located in Asia. We believe that our employees are crucial to our current success and that our future success will depend, in part, on our ability to attract, retain and further motivate qualified employees at all levels. We believe that our employee relations are good. 
+
+Culture of Inclusion. We thrive as a global workforce by leveraging our collective strengths and experiences to develop and deliver our business strategy. One of the ways we foster a culture of belonging and inclusion is through our support of Employee Resource Groups (ERGs). These voluntary, employee-led communities are built around shared experiences and offer numerous benefits, including fostering workplace connections and enhancing a sense of belonging. 
+
+Our ERGs are open to all employees, representing a wide range of backgrounds and focus on leadership topics, networking, and community outreach. There are 32 ERG chapters across seven countries, all led by employees and supported by Seagate leaders. Through these ongoing efforts, our primary goal is to ensure every employee feels safe, respected, and welcomed. 
+
+We also celebrate our culture of belonging and inclusion by recognizing cultural and heritage months across our global locations. Events such as Lunar New Year, Veterans Day, and International Women&#8217;s Day are marked with activities like educational panels, cultural recipe sharing, employee interviews, and other community-relevant celebrations. 
+
+Health &#38; Safety. All our manufacturing sites have health and safety management systems certified to the International Organization for Standardization (&#8220;ISO&#8221;) 45001 standard. In addition, we are audited to health and safety standards set forth by the Responsible Business Alliance (&#8220;RBA&#8221;). Our global health and safety standards, as well as our accompanying Environment, Health and Safety (&#8220;EHS&#8221;) management systems, frequently go beyond country or industry-level guidelines to ensure that we keep our employees healthy and safe. We regularly host health and safety regulatory visits that focus on issues such as safety, radiation, fire codes, food and transportation. Through our EHS management systems, we ensure that the focus remains on the continuous improvement of employee health and safety programs. We continue to provide comprehensive health and safety training to our employees. We emphasize e-learning courses as our main vehicle for delivering such training because employees can learn at their own pace. 
+
+Development, Retention, Compensation, Benefits &#38; Engagement. Our performance management system is a continuous process that helps team members focus on the right priorities. Meaningful conversations between managers and employees are the foundation of performance management at Seagate. We focus on dialogue centered around manager and employee conversations, and ongoing feedback, to align goals. This approach focuses on achieving high-quality productive dialogue between managers and employees. We also encourage our employees to participate in the many learning opportunities available at Seagate. The portfolio of learning and training opportunities includes but is not limited to mentoring and coaching, e-learning opportunities, self-paced training, on-the-job training and other strategic internal programs that cover topics ranging from leadership and technical skills to health, safety and the environment. For example, our internal mobility and career development tool provides Seagate employees with the opportunity to establish networking and mentorship connections, identify and participate in internal part-time projects, and explore internal full-time positions. 
+
+Our Total Rewards program is designed to attract, motivate and retain talented people to meet our business goals. The program generally includes base pay, annual bonuses, commissions, equity awards, an employee share purchasing plan, retirement savings opportunities and other employee health and wellness benefits. Our compensation programs and guidelines are structured to align pay with both company and employee performance and aim to provide internally and externally competitive total compensation. 
+
+Employee engagement is the psychological commitment and passion that drives discretionary effort. It predicts individual performance and is the measure of the relationship between employees and the Company. Our engagement survey includes facets of the employee experience throughout the employee life cycle. Employee experience is what employees encounter and observe during their career at Seagate. A positive employee experience can have an impact on everything from recruiting to Seagate's bottom line. 
+
+In fiscal year 2025 , we conducted our Employee Experience Survey to obtain feedback from our global workforce on their experience at Seagate. Managers were provided access to a dashboard with results that shared key drivers of employee engagement specific to their own organizations for action planning. We conducted several additional surveys across Seagate&#8217;s global footprint, which were followed by employee and leader connection sessions at the regional and site levels, for the continuous improvement of internal communications and business planning. 
+
+Community Impact. Our community engagement program is designed to provide support to our local communities, with an emphasis on science, technology, engineering and mathematics (&#8220;STEM&#8221;). This year to support STEM, we organized Take Our Children to Work Day at eight of our largest sites. More than 330 children visited and engaged in educational activities including hard drive assembly, AI design workshops, and electromagnetic experiments. We also continued to promote sustainability and environmental programs including Earth Day in April. Employees around the world participated in environmentally friendly activities, including litter cleanups and tree planting. Employees in Singapore maintain a rooftop garden where the food produced is donated to a local home for the elderly, a great example of sustaining a partnership between employee volunteers and a community need. We continued supporting various food banks, blood drives, and other non-profit organizations including Habitat for Humanity in Minnesota where employees spent 11 days building homes for those in need. 
+
+Our community engagement program prioritizes local relationships to strengthen ties within the communities we work and live in. By collaborating with various local organizations, participating in community-driven initiatives, and addressing specific needs near our locations, we aim to create a more sustainable and positive impact that resonates both now and in the future. 
+
+Environmental, Social and Governance (&#8220;ESG&#8221;) Performance Report 
+
+Additional information regarding our ESG commitment and progress can be found on the ESG section of our website and in our ESG Performance Report. Information contained on our website or in our annual ESG Performance Report is not incorporated by reference into this or any other report we filed with the Securities and Exchange Commission. 
+
+Financial Information 
+
+Financial information for our reportable business segment and about geographic areas is set forth in &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 15. Business Segment and Geographic Information.&#8221; 
+
+Corporate Information 
+
+Seagate Technology Holdings plc is a public limited company organized under the laws of Ireland. 
+
+Available Information 
+
+Availability of Reports. We are a reporting company under the Securities Exchange Act of 1934, as amended (the &#8220;1934 Exchange Act&#8221;), and we file reports, proxy statements and other information with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;). Because we make filings to the SEC electronically, the public may access this information at the SEC's website: www.sec.gov. This site contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. 
+
+Website Access. Our website is www.seagate.com. We make available, free of charge at the &#8220;Investor Relations&#8221; section of our website (investors.seagate.com), our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the 1934 Exchange Act as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the SEC. Reports of beneficial ownership filed pursuant to Section 16(a) of the 1934 Exchange Act are also available on our website. 
+
+Investors. Investors and others should note that we routinely use the Investor Relations section of our website to announce material information to investors and the marketplace. While not all of the information that the Company posts on its corporate website is of a material nature, some information could be deemed to be material. Accordingly, the Company encourages investors, the media and others interested in the Company to review the information that it shares on www.seagate.com. Information in, or that can be accessed through, our website is not incorporated into this Form 10-K. 
+
+Information About Our Executive Officers 
+
+The following sets forth the name, age and position of each of the persons who were serving as executive officers as of August 1, 2025. There are no family relationships among any of our executive officers. 
+
+##TABLE_START Name Age Positions Dr. William D. Mosley 58 Director and Chief Executive Officer Gianluca Romano 56 Executive Vice President and Chief Financial Officer Ban Seng Teh 59 Executive Vice President and Chief Commercial Officer James C. Lee 55 Senior Vice President, Chief Legal Officer and Corporate Secretary KianFatt Chong 62 Senior Vice President, Global Operations Dr. John C. Morris 58 Senior Vice President and Chief Technology Officer ##TABLE_END
+
+Dr. William D. Mosley, 58, has served as our Chief Executive Officer (&#8220;CEO&#8221;) since October 2017 and as a member of the Board since July 2017. He previously served as our President and Chief Operating Officer (&#8220;COO&#8221;) from June 2016 to September 2017. He also served as our President of Operations and Technology from October 2013 to June 2016 and as our Executive Vice President of Operations from March 2011 until October 2013. Prior to these positions, Dr. Mosley served as Executive Vice President, Sales and Marketing from February 2009 through March 2011; Senior Vice President of Global Disk Storage Operations from 2007 to 2009; and Vice President of Research and Development, Engineering from 2002 to 2007. He joined Seagate in 1996 as a Senior Engineer with a PhD in solid state physics. From 1996 to 2002, he served at Seagate in varying roles of increasing responsibility until his promotion to Vice President. 
+
+Gianluca Romano, 56, has served as our Executive Vice President and Chief Financial Officer since January 2019. From October 2011 to December 2018, Mr. Romano served as Corporate Vice President, Business Finance and Accounting at Micron Technology, Inc (&#8220;Micron&#8221;), a producer of computer memory and computer data storage. Prior to his role at Micron, Mr. Romano served as Vice President Finance, Corporate Controller at Numonyx, Inc., a flash memory company which was acquired by Micron in February 2010, from 2008 to 2010. From 1994 until 2008, Mr. Romano held various finance positions at STMicroelectronics, an electronics and semiconductor manufacturer, most recently as Group Vice-President, Central &#38; North Europe Finance Director, Shared Accounting Services Director. 
+
+Ban Seng Teh, 59, has served as our Executive Vice President and Chief Commercial Officer since July 2022. Prior to that, Mr. Teh served as Executive Vice President of Global Sales and Sales Operations from February 2021 to July 2022 and Senior Vice President of Global Sales and Sales Operations from November 2014 to February 2021. Mr. Teh also served as our Senior Vice President of Asia-Pacific and Japan Sales and marketing from July 2010 to November 2014. Mr. Teh joined Seagate in 1989 as a field customer engineer and has served in varying roles of increasing responsibilities, including as Vice President, Asia Pacific Sales and Marketing (Singapore) from January 2008 to July 2010; Vice President, Sales Operations from 2006 to 2008; Vice President, Asia Pacific Sales from 2003 to 2006; Director, Marketing and APAC Distribution Sales from 1999 to 2003; and Country Manager, South Asia Sales from 1996 to 1999. 
+
+James C. Lee, 55, has served as our Senior Vice President, Chief Legal Officer and Corporate Secretary since June 2024. Mr. Lee oversees all legal operations, government relations and public policy at Seagate, as well as leads the enterprise-wide strategy for identifying, incubating, and commercializing emerging technologies. Before joining our company, Mr. Lee served as Senior Vice President, General Counsel &#38; Corporate Secretary at Maxar Technologies, a space technology company, from April 2019 to June 2024. Prior to Maxar Technologies, Mr. Lee worked at Aramark Corporation, a food and facilities service provider, for 15 years. 
+
+KianFatt Chong, 62, has served as our Senior Vice President, Global Operations since October 2020. Prior to his current role, Mr. Chong was Senior Vice President, Global Drive Operations from December 2013 to September 2020. He served as Vice President of China Operations from July 2003 to November 2013, expanding and also spearheading the first campus concept in Seagate with multiple manufacturing operations disciplines all located in a single site. Since joining Seagate in 1989 as an engineer, Mr. Chong has held a variety of leadership positions and has been a key strategic contributor for many of Seagate&#8217;s operations and manufacturing capabilities across the global footprints. 
+
+Dr. John C. Morris, 58, has served as our Senior Vice President, HDD and SSD Products and Chief Technology Officer since 2019. Prior to his current role, Dr. Morris was the Vice President of HDD and SSD Products from August 2015 to August 2019. Before that, he served as Vice President of Design Engineering and Enterprise Development Group driving focus on technical and strategic alignment with enterprise and cloud customers from September 2013 to August 2015. Since joining the Company in 1996, Dr. Morris has held a variety of engineering leadership positions and has been a key contributor to many of Seagate&#8217;s core technologies. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Summary of Risk Factors 
+
+The following is a summary of the principal risks and uncertainties that could materially and adversely affect our business, results of operations, financial condition, cash flows, brand and/or the price of our outstanding ordinary shares, and make an investment in our ordinary shares speculative or risky. You should read this summary together with the more detailed description of each risk factor contained below. Additional risks beyond those summarized below or discussed elsewhere in this Annual Report on Form 10-K may apply to our business and operations as currently conducted or as we may conduct them in the future or to the markets in which we currently, or may in the future, operate. 
+
+Risks Related to our Business, Operations and Industry 
+
+&#8226; Our ability to increase our revenue and maintain our market share depends on our ability to successfully introduce and achieve market acceptance of new products on a timely basis. If our products do not keep pace with customer requirements, our results of operations will be adversely affected. 
+
+&#8226; We operate in highly competitive markets and our failure to anticipate and respond to technological changes and other market developments, including price competition, could harm our ability to compete and risk the commoditization of our products. 
+
+&#8226; We have been, and may in the future be, adversely affected by reduced, delayed, loss of or canceled purchases by one or more of our key customers, including large hyperscale data center companies and CSPs. 
+
+&#8226; We are dependent on sales to distributors and retailers, which may increase price erosion and the volatility of our sales. 
+
+&#8226; We must plan our investments in our products and incur costs before we have customer orders or know about the market conditions at the time the products are produced. If we fail to predict demand accurately for our products or if the markets for our products change, we may have insufficient demand or we may be unable to meet demand, which may materially and adversely affect our financial condition and results of operations. 
+
+&#8226; Changes in demand for computer systems, data storage subsystems and consumer electronic devices has previously caused, and may in the future cause, a decline in demand for our products. 
+
+&#8226; We have a long and unpredictable sales cycle for nearline storage solutions, which impairs our ability to accurately predict our financial and operating results in any period and may adversely affect our ability to manage inventory and forecast the need for investments and expenditures. 
+
+&#8226; We experience seasonal declines in the sales of our consumer products during the second half of our fiscal year which may adversely affect our results of operations. 
+
+&#8226; Our worldwide sales and manufacturing operations subject us to risks that may adversely affect our business related to disruptions in international markets, currency exchange fluctuations and increased costs. 
+
+&#8226; We may not be able to execute acquisitions, divestitures and other significant transactions successfully and we may have difficulty or fail to successfully integrate acquired companies. 
+
+Risks Associated with Supply and Manufacturing 
+
+&#8226; Shortages or delays in the receipt of, or cost increases in, critical components, equipment or raw materials necessary to manufacture our products, as well as reliance on single-source suppliers, has in the past and may in the future affect our production and development of products and harm our operating results. 
+
+&#8226; We have cancelled purchase commitments with suppliers and incurred costs associated with such cancellations, and if revenues fall or customer demand decreases significantly, we may seek to cancel or may otherwise not meet our purchase commitments to certain suppliers in the future, which could result in damages, penalties, disputes, litigation, increased manufacturing costs or excess inventory. 
+
+&#8226; Due to the complexity of our products, some defects may only become detectable after deployment, which may lead to increased costs and adversely affect our operating results. 
+
+Risks Related to Financial Performance or General Economic Conditions 
+
+&#8226; Changes in the macroeconomic environment have impacted and may continue to negatively impact our results of operations. 
+
+&#8226; We may not be able to generate sufficient cash flows from operations and our investments to meet our liquidity requirements, including servicing our indebtedness and continuing to declare our quarterly dividend. 
+
+&#8226; Our quarterly results of operations fluctuate, sometimes significantly, from period to period, and may cause our share price to decline. 
+
+&#8226; If we do not adequately control our costs or if any cost reduction activities that we undertake do not deliver the results we expect, we will not be able to compete effectively and our financial condition may be adversely impacted. 
+
+&#8226; The effect of geopolitical uncertainties, political unrest, war, terrorism, natural disasters, public health issues and other circumstances, on national and/or international commerce and on the global economy, could materially and adversely affect our results of operations and financial condition. 
+
+&#8226; We are subject to counterparty default risks. 
+
+Legal, Regulatory and Compliance Risks 
+
+&#8226; Our business is subject to various laws, regulations and governmental policies that may cause us to incur significant expense or adversely impact our results of operations and financial condition. 
+
+&#8226; Some of our products and services are subject to export control laws and other laws affecting the countries in which our products and services may be sold, distributed, or delivered, and any changes to or violation of these laws could have a material and adverse effect on our business, results of operations, financial condition and cash flows. 
+
+&#8226; Changes in U.S. trade policy, including the imposition of sanctions or tariffs and the resulting consequences, may have a material and adverse impact on our business and results of operations. 
+
+&#8226; Our business is exposed to risks associated with litigation, investigations and regulatory proceedings that may cause us to incur significant expense or adversely impact our results of operations and financial condition. 
+
+&#8226; Tax-related matters could have a material and adverse effect on our business, results of operations or financial condition. 
+
+Risks Related to Intellectual Property and Other Proprietary Rights 
+
+&#8226; We may be unable to protect our intellectual property rights, which could adversely affect our business, financial condition and results of operations. 
+
+&#8226; We are at times subject to intellectual property proceedings and claims which could cause us to incur significant additional costs or prevent us from selling our products, and which could adversely affect our results of operations and financial condition. 
+
+&#8226; Our business and certain products and services depend in part on intellectual property and technology licensed from third parties, as well as data centers and infrastructure operated by third parties. 
+
+Risks Related to Information Technology, Data and Information Security 
+
+&#8226; We could suffer a loss of revenue and increased costs, exposure to significant liability including legal and regulatory consequences, reputational harm and other serious negative consequences in the event of cyber-attacks, ransomware or other cyber security breaches or incidents that disrupt our operations, cause widespread outages, and/or result in unauthorized access to, or the loss, corruption, unavailability or dissemination of proprietary or confidential information of our customers or about us or other third parties. 
+
+&#8226; We must maintain and upgrade our global enterprise resource planning system and other information technology (&#8220;IT&#8221;) systems, and our failure to do so could have a material and adverse effect on our business, financial condition and results of operations. 
+
+Risks Related to Human Capital and Corporate Responsibility 
+
+&#8226; The loss of or inability to attract, retain and motivate key executive officers and employees could negatively impact our business prospects. 
+
+&#8226; We are subject to risks related to corporate and social responsibility that could adversely affect our reputation and performance. 
+
+Risks Related to Owning our Ordinary Shares 
+
+&#8226; The price of our ordinary shares may be volatile and could decline significantly. 
+
+&#8226; Any decision to reduce or discontinue the payment of cash dividends to our shareholders or the repurchase of our ordinary shares pursuant to our previously announced share repurchase program could cause the market price of our ordinary shares to decline significantly. 
+
+RISKS RELATED TO OUR BUSINESS, OPERATIONS AND INDUSTRY 
+
+Our ability to increase our revenue and maintain our market share depends on our ability to successfully introduce and achieve market acceptance of new products on a timely basis. If our products do not keep pace with customer requirements, our results of operations will be adversely affected. 
+
+The markets for our products are characterized by rapid technological change, frequent new product introductions and technology enhancements, uncertain product life cycles and changes in customer demand. The success of our products and services also often depends on whether our offerings are compatible with our customers&#8217; or third-parties&#8217; products or services and their changing technologies. Our customers demand new generations of storage products as advances in computer hardware and software have created the need for improved storage, with features such as increased storage capacity, enhanced security, energy efficiency, improved performance and reliability and lower cost. We, and our competitors, have developed improved products, and we will need to continue to do so in the future. 
+
+Historically, our results of operations have substantially depended upon our ability to be among the first-to-market with new data storage product offerings. We have faced and may continue to face technological, operational and financial challenges in developing new products. In addition, our investments in new product development may not yield the anticipated results. Our market share, revenue and results of operations have been, and in the future may be adversely affected by our failure to: 
+
+&#8226; develop new products, identify business strategies and timely introduce competitive product offerings to meet technological shifts; 
+
+&#8226; consistently maintain our time-to-market performance with our new products; 
+
+&#8226; manufacture these products in adequate volume; 
+
+&#8226; meet specifications or satisfy compatibility requirements; 
+
+&#8226; qualify these products with key customers on a timely basis by meeting our customers&#8217; performance, quality and security specifications; or 
+
+&#8226; achieve acceptable manufacturing yields, quality and margins with these products. 
+
+Accordingly, we cannot accurately determine the ultimate effect that our new products will have on our results of operations. Our failure to accurately anticipate customers&#8217; needs and accurately identify the shift in technological changes could materially and adversely affect our long-term financial results. 
+
+In addition, the concentration of customers in our largest end markets magnifies the potential adverse effect of missing a product qualification opportunity. If the delivery of our products is delayed, our customers may use our competitors&#8217; products to meet their requirements. 
+
+When we develop new products with higher capacity and more advanced technology, our results of operations may decline because the increased difficulty and complexity associated with producing these products increases the likelihood of reliability, quality or operability problems. If our products experience increases in failure rates, are of low quality or are not reliable, customers may reduce their purchases of our products, our factory utilization may decrease and our manufacturing rework and scrap costs, along with our service and warranty costs may increase. In addition, a decline in the reliability of our products may make it more difficult for us to effectively compete with our competitors. 
+
+Additionally, we may be unable to produce new products that have higher capacities and more advanced technologies in the volumes and timeframes that are required to meet customer demand. As part of our launch of the Mozaic hard drive platform, we are transitioning to key areal density recording technologies that use HAMR technology to increase HDD capacities. If our transitions to more advanced technologies, including the transition to HDDs utilizing HAMR technology, require development, qualification or production cycles that are longer than anticipated or if we otherwise fail to implement new HDD technologies successfully, we may lose sales and market share, which could significantly harm our financial results and reputation. 
+
+We cannot assure you that we will be among the leaders in time-to-market with new products or that we will be able to successfully qualify new products with our customers in the future. If our new products are not successful, our future results of operations may be adversely affected. 
+
+We operate in highly competitive markets and our failure to anticipate and respond to technological changes and other market developments, including price competition, could harm our ability to compete and risk the commoditization of our products. 
+
+We face intense competition in the data storage industry. Our principal sources of competition include HDD and SSD manufacturers, and companies that provide storage subsystems, including electronic manufacturing services and contract electronic manufacturing. 
+
+The markets for our data storage products are characterized by technological change, which is driven in part by the adoption of new industry standards. These standards provide mechanisms to ensure technology component interoperability but they also hinder our ability to innovate or differentiate our products. When this occurs, our products may be considered commodities, which has historically, and could in the future, result in downward pressure on prices. 
+
+We also experience competition from other companies that produce alternative storage technologies such as flash memory, where increasing capacity, decreasing cost, energy efficiency and improvements in performance have resulted in SSDs that offer increased competition with our lower capacity, smaller form factor HDDs and a declining trend in demand for HDDs in our legacy markets. Some customers for both mass capacity storage and legacy markets have adopted SSDs as an alternative to hard drives in certain applications. Further adoption of SSDs or other alternative storage technologies may limit our total addressable HDD market, impact the competitiveness of our product portfolio and reduce our market share. Any resulting increase in competition could have a material and adverse effect on our business, financial condition and results of operations. 
+
+Our industry has experienced consolidation and may continue to consolidate. Consolidation may result in new or stronger competitors, and such competitors may have greater resources or competitive advantages. In addition, current and potential competitors have established and may in the future establish cooperative relationships among themselves or with third parties, including some of our partners or suppliers, that result in declines in revenue or willingness to purchase from or sell to us, as applicable, on favorable terms. 
+
+We have been, and may in the future be, adversely affected by reduced, delayed, loss of or canceled purchases by, one or more of our key customers, including large hyperscale data center companies and CSPs. 
+
+Some of our key customers, such as OEM customers including large hyperscale data center companies and CSPs, account for a large portion of our revenue in our mass capacity markets. While we have long-standing relationships with many of our customers, if any key customers were to significantly reduce, defer or cancel their purchases or delay product acceptances, or we were prohibited from selling to those key customers for any reason, such as export regulations or other factors beyond our control, our revenues and results of operations may be materially and adversely affected, particularly if we are unable to collect any applicable cancellation charges. Although sales to key customers may vary from period to period, a key customer that permanently discontinues or significantly reduces its relationship with us, or that we are prohibited from selling to, could be difficult to replace. In line with industry practice, new key customers usually require that we pass a lengthy and rigorous qualification process. Accordingly, it may be a difficult, costly or prolonged process to attract and sign new key customers. 
+
+Furthermore, to the extent that there is consolidation among our customer base, or when supply exceeds demand in our industry, our customers may be able to command increased leverage in negotiating prices and other terms of sale, causing price erosion that could adversely affect our profitability. Furthermore, if such customer pressures require us to reduce our pricing such that our gross margins are diminished, it might not be feasible to sell to a particular customer, which could result in a decrease in our revenue. Consolidation among our customer base may also lead to reduced demand for our products, replacement of our products by the combined entity with those of our competitors and cancellations of orders, each of which could adversely affect our results of operations. If a significant transaction or regulatory impact involving any of our key customers results in the loss of or reduction in purchases by these key customers, it could have a material and adverse effect on our business, results of operations and financial condition. 
+
+We are dependent on sales to distributors and retailers, which may increase price erosion and the volatility of our sales . 
+
+Sales to distributors and retailers of disk drive products account for a substantial portion of our revenue. Many of our distributors and retailers also market competing products. We face significant competition in this distribution channel as a result of limited product qualification programs and a focus on price, terms and product availability. Sales volumes through this channel are also less predictable and subject to greater volatility. In addition, deterioration in business and economic conditions has exacerbated price erosion and volatility as distributors and retailers lower prices to compensate for lower demand and higher inventory levels. Our distributors&#8217; and retailers&#8217; ability to access credit to fund their operations may also affect their purchases of our products. If prices decline significantly in this distribution channel or our distributors or retailers reduce purchases of our products, experience financial difficulties or terminate their relationships with us, our revenues and results of operations would be adversely affected. 
+
+We must plan our investments in our products and incur costs before we have customer orders or know about the market conditions at the time the products are produced. If we fail to predict demand accurately for our products or if the markets for our products change, we may have insufficient demand or we may be unable to meet demand, which may materially and adversely affect our financial condition and results of operations. 
+
+Our results of operations are highly dependent on cloud, enterprise and consumer spending and the resulting demand for our products. Reduced demand, particularly from our key cloud and enterprise customers as a result of a significant change in macroeconomic conditions or other factors, may result in a significant reduction or cancellation of their purchases from us, which has in the past and may in the future materially and adversely impact our business and financial condition. 
+
+Our manufacturing process requires us to make significant product-specific investments in inventory for production at least three to six months in advance. As a result, we incur inventory and manufacturing costs in advance of anticipated sales that may never materialize or that may be substantially lower than expected. In addition, because of our vertical design and manufacturing strategy, operations have significant fixed costs that are difficult to reduce in the short-term, including our costs relating to utilization of existing facilities and equipment. If we fail to forecast demand accurately or if there is a partial or complete reduction in long term demand for our products, we may also experience excess and obsolescence of inventory, higher inventory carrying costs, factory underutilization charges and manufacturing rework costs, which have resulted in and could in the future result in material and adverse effects on our financial condition and results of operations. For example, due to customer inventory adjustments, we have in the past experienced, and may in the future experience, a slowdown in demand for our products, particularly in the mass capacity markets. These reductions in demand have required us to significantly reduce manufacturing production plans and recognize factory underutilization charges in fiscal years 2024 and 2023. 
+
+We develop and manufacture technologically advanced products that require precision engineering, specialized manufacturing processes and rigorous quality control standards. During periods of increasing demand, the complexity of these products and our manufacturing processes has contributed to challenges in recommissioning and effectively utilizing our production equipment to meet customer needs. These difficulties may arise again in the future, potentially delaying our ability to respond to an improving demand environment. Any inability to efficiently restart or fully utilize our production equipment could result in missed revenue opportunities, increased operational costs, and adverse effects on our business and financial condition. 
+
+Other factors that have affected and may continue to affect our ability to anticipate or meet the demand for our products and adversely affect our results of operations include: 
+
+&#8226; competitive product announcements or technological advances that result in excess supply when customers cancel purchases in anticipation of newer products; 
+
+&#8226; variability in demand due to end market conditions, including fluctuations in adoption rates of emerging technologies such as artificial intelligence, shifts in customer preferences and broader economic trends; 
+
+&#8226; variable demand resulting from unanticipated upward or downward pricing pressures; 
+
+&#8226; our ability to successfully qualify, manufacture and sell our data storage products; 
+
+&#8226; changes in our product mix, which may adversely affect our gross margins; 
+
+&#8226; key customers deferring or canceling purchases or delaying product acceptances, or unexpected increases in their orders; 
+
+&#8226; manufacturing delays or interruptions, particularly at our manufacturing facilities in China, Malaysia, Northern Ireland, Singapore, Thailand or the United States; 
+
+&#8226; limited access to components that we obtain from a single or a limited number of suppliers; and 
+
+&#8226; the impact of changes in trade policy, including tariffs, and/or foreign currency exchange rates on the cost of producing our products and the effective price of our products to our customers. 
+
+Changes in demand for computer systems, data storage subsystems and consumer electronic devices has previously caused, and may in the future cause, a decline in demand for our products. 
+
+Our products are incorporated in computers, data storage systems deployed in data centers and consumer electronic devices. Historically, the demand for these products has been volatile. Unexpected slowdowns in demand for computers, data storage subsystems or consumer electronic devices generally result in sharp declines in demand for our products. Declines in customer spending on the systems and devices that incorporate our products could have a material and adverse effect on demand for our products and on our financial condition and results of operations. Uncertain global economic and business conditions can exacerbate, and have in the past exacerbated, these risks. 
+
+We are dependent on our long-term investments to manufacture adequate products. Our investment decisions in adding new manufacturing capacity require significant planning and lead time, and a failure to accurately forecast demand for our products could cause us to over-invest or under-invest, which would lead to excess capacity, underutilization charges, or impairments. 
+
+Sales to the legacy markets remain an important part of our business. These markets, however, have been, and we expect them to continue to be, adversely affected by: 
+
+&#8226; announcements or introductions of major new operating systems or semiconductor improvements or shifts in customer preferences, performance requirements and behavior, such as the shift to tablet computers, smart phones, NAND flash memory or similar devices that meet customers&#8217; cost and capacity metrics; 
+
+&#8226; longer product life cycles; and 
+
+&#8226; changes in macroeconomic conditions that cause customers to spend less, such as the imposition of new and/or increased tariffs, increased laws and regulations, and increased unemployment levels. 
+
+The deterioration of demand for disk drives in certain of the legacy markets has accelerated, and we believe this deterioration may continue and may further accelerate, which has caused and could further cause our operating results to suffer. 
+
+In addition, we believe announcements regarding competitive product introductions from time to time have caused customers to defer or cancel their purchases, making certain inventory obsolete. Whenever an oversupply of products in the market causes our industry to have higher than anticipated inventory levels, we experience even more intense price competition from other manufacturers than usual, which may materially and adversely affect our financial results. 
+
+We have a long and unpredictable sales cycle for nearline storage solutions, which impairs our ability to accurately predict our financial and operating results in any period and may adversely affect our ability to manage inventory and forecast the need for investments and expenditures . 
+
+Our nearline storage solutions are technically complex and we typically supply them in high quantities to a small number of customers. Many of our products are tailored to meet the specific requirements of individual customers and are often integrated by our customers into the systems and products that they sell. 
+
+Our sales cycle for nearline storage solutions could exceed one year and be unpredictable, depending on the time required for developing, testing and evaluating our products before deployment, the size of deployment, and the complexity of system configuration necessary for development. Additionally, our nearline storage solutions are subject to variability of sales primarily due to the timing of IT spending as a reflection of cyclical demand from CSPs based on the timing of their procurement and deployment requirements and their ability to procure other components needed to build out data center infrastructure. Given the length of development and qualification programs and unpredictability of the sales cycle, we may be unable to accurately forecast product demand, which may result in excess inventory and associated inventory reserves or write-downs, which could harm our business, financial condition and results of operations. 
+
+We experience seasonal declines in the sales of our consumer products during the second half of our fiscal year which may adversely affect our results of operations. 
+
+In several of our end markets, sales of computers, storage subsystems and consumer electronic devices tend to be seasonal, and therefore, we expect to continue to experience seasonality in our business as we respond to variations in our customers&#8217; demand for our products. In particular, sales of our consumer products have in the past and may in the future be lower during the second half of our fiscal year. Retail sales of certain of our legacy markets solutions traditionally experience higher demand in the first half of our fiscal year driven by consumer spending in the back-to-school season from late summer to fall and the traditional holiday shopping season from fall to winter. We experience seasonal reductions in the second half of our fiscal year in the business activities of our customers during international holidays like Lunar New Year, as well as in the summer months (particularly in Europe), which typically result in lower sales during those periods. Since our working capital needs peak during periods in which we are increasing production in anticipation of orders that have not yet been received, our results of operations will fluctuate even if the forecasted demand for our products proves accurate. Failure to anticipate consumer demand for our branded solutions may also adversely impact our future results of operations. Furthermore, it is difficult for us to evaluate the degree to which this seasonality may affect our business in future periods because of the rate and unpredictability of product transitions and new product introductions, as well as macroeconomic conditions. In particular, during periods when there are rapidly changing macroeconomic conditions, historical seasonality trends may not be a good indicator to predict our future performance and results of operations. 
+
+Our worldwide sales and manufacturing operations subject us to risks that may adversely affect our business related to disruptions in international markets, currency exchange fluctuations and increased costs. 
+
+We are a global company and have significant sales operations outside of the United States, including sales personnel and customer support operations. We also generate a significant portion of our revenue from sales outside the United States. Disruptions in the economic, environmental, political, legal or regulatory landscape in the countries where we operate may have a material and adverse impact on our manufacturing and sales operations. Disruptions in financial markets and the deterioration of global economic conditions have had and may continue to have an impact on our sales to customers and end-users. In addition, ongoing uncertainty in U.S. policy, including uncertainty relating to tariffs and other trade restrictions, may have an impact on our sales to customers and end-users. 
+
+Prices for our products are denominated predominantly in dollars, even when sold to customers located outside the United States. An increase in the value of the dollar could increase the real cost to our customers in those markets outside of the United States. This could adversely impact our sales and market share in such areas or increase pressure to lower our prices, and adversely impact our profit margins. In addition, we have revenue and expenses denominated in currencies other than the dollar, primarily the Thai Baht, Singaporean dollar, Chinese Renminbi and British Pound Sterling, which further exposes us to adverse movements in foreign currency exchange rates. A weakened dollar could increase the effective cost of our expenses such as payroll, utilities, tax and marketing expenses, as well as overseas capital expenditures. Any of these events could have a material and adverse effect on our results of operations. We manage the impact of foreign currency translation risk by entering into foreign currency forward exchange contracts to hedge our balance sheet exposures. Our hedging strategy may be ineffective, and specific hedges may expire and not be renewed or may not offset any or more than a portion of the adverse financial impact resulting from currency variations. The hedging activities may not cover our full exposure, subject us to certain counterparty credit risks and may impact our results of operations. See &#8220;Item 7A. Quantitative and Qualitative Disclosures About Market Risk&#8212; Foreign Currency Exchange Risk &#8221; of this report for additional information about our foreign currency exchange risk. 
+
+In addition, certain countries in which we have operations have restrictive regulations over the movement of cash and/or foreign exchange across their borders. Similarly, Singapore may impose taxes on dividends of cash from our subsidiaries to the parent company. If we are unable to access our cash or we are required to pay taxes to repatriate such cash, our business and operations may be harmed, or we may need to seek other sources of liquidity. 
+
+The shipping and transportation costs associated with our international operations are typically higher than those associated with our U.S. operations, resulting in decreased operating margins for us in some countries. Volatility in fuel costs, political instability or constraints and increases in the costs or reliability of air transportation may lead us to develop alternative shipment methods, which could disrupt our ability to receive raw materials, or ship finished products, and as a result our business and results of operations may be harmed. 
+
+We may not be able to execute acquisitions, divestitures and other significant transactions successfully and we may have difficulty or fail to successfully integrate acquired companies. 
+
+As part of our business strategy, we may acquire companies or businesses, divest businesses or assets, enter into strategic alliances and joint ventures, and make investments to further our business. Risks associated with these transactions have included, and may include: 
+
+&#8226; not fully realizing the anticipated profits or other benefits of any particular transaction in the timeframe we expected or at all due to competition, market trends, additional costs or investments, the actions of advisors, suppliers or other third parties, or other factors; 
+
+&#8226; certain transactions resulting in significant costs and expenses; 
+
+&#8226; failing to identify significant issues with the target during the due diligence process that result in significant liabilities; 
+
+&#8226; issuing common stock (potentially creating dilution) or incurring additional debt in order to finance a transaction, which financings may require us to accept onerous terms such as high interest rates or covenants that restrict our business; 
+
+&#8226; an adverse impact on our effective tax rate; 
+
+&#8226; acquiring a target with differing or inadequate privacy, data protection, and cybersecurity controls; and 
+
+&#8226; litigation. 
+
+In addition, if we fail to identify and complete such transactions and successfully integrate acquired businesses that further our strategic objectives, we may be required to expend additional resources to develop products, services and technology internally, which may put us at a competitive disadvantage. Integrations could significantly disrupt our business and the acquired business as they are often time-consuming and expensive and involve significant challenges, including successfully combining product and service offerings, entering or expanding markets, and retaining and integrating key employees, customers, distributors, facilities, technologies, and business systems, among other challenges. Furthermore, if there are future decreases in our stock price or significant changes in the business climate or results of operations of our reporting units, we may incur additional charges, including impairment charges. 
+
+In the case of a divestiture, we may have difficulty finding buyers or alternative exit strategies on acceptable terms in a timely manner. We may also dispose of a business at a price or on terms that are less desirable than we had anticipated. In addition, we may experience fewer benefits than expected, and the impact of the divestiture on our revenue growth may be larger than projected. 
+
+RISKS ASSOCIATED WITH SUPPLY AND MANUFACTURING 
+
+Shortages or delays in the receipt of, or cost increases in, critical components, equipment or raw materials necessary to manufacture our products, as well as reliance on single-source suppliers, has in the past and may in the future affect our production and development of products and harm our operating results. 
+
+The cost, quality and availability of components, subassemblies, certain equipment and raw materials used to manufacture our products are critical to our success. Particularly important for our products are components such as read/write heads, substrates for recording media, ASICs, spindle motors, printed circuit boards, suspension assemblies and NAND flash memory. Certain rare earth elements are also critical in the manufacture of our products. Many of these rare earth elements are sourced from China, which accounts for a majority of the global supply and processing capacity for these materials. As a result, recent or potential future export restrictions or bans by the Chinese government, as well as any import restrictions or bans by the U.S. government, on rare earth minerals could materially and adversely impact our supply chain continuity and operating results. In addition, the equipment we use to manufacture our products and components is frequently custom made and comes from a few suppliers and the lead times required to obtain manufacturing equipment can be significant. Our efforts to control our costs, including capital expenditures, may also affect our ability to obtain or maintain such inputs and equipment, which could affect our ability to meet future demand for our products. 
+
+We rely on sole or a limited number of direct and indirect suppliers for some or all of these components and rare earth elements that we do not manufacture, including substrates for recording media, read/write heads, ASICs, preamplifiers, spindle motors, printed circuit boards, suspension assemblies and NAND flash memory. Our options in supplier selection in these cases are limited and the supplier-based technology has been and may continue to be single-sourced until wider adoption of the technology occurs and any necessary licenses become available. In light of this small, consolidated supplier base, if our suppliers increased their prices as a result of inflationary pressures, evolving trade policies, including the imposition of tariffs or other trade restrictions, or other macroeconomic conditions or changes to such conditions, and we could not pass these price increases to our customers, our operating margin would decline. Also, many of these direct and indirect component suppliers are geographically concentrated, making our supply chain more vulnerable to regional disruptions such as severe weather, local or global health issues or pandemics, acts of terrorism, war and an unpredictable geopolitical climate. Trade policy developments, including retaliatory measures by other countries, could exacerbate these risks by further restricting the availability and/or increasing the cost of critical components, delaying shipments, resulting in the relocation of certain manufacturing processes or otherwise disrupting our global supply chain. These factors have materially impacted, and may in the future impact the production, availability and transportation of many components. We also often aim to lead the market in new technology deployments and leverage unique and customized technology from single source suppliers who are early adopters in the emerging market. If there are any technical issues in the supplier&#8217;s technology, it may also cause us to delay shipments of our new technology deployments, incur scrap, rework or warranty charges and harm our financial position. Further, if a sole source or limited source supplier decides not to do business with us for any reason, we may be unable to develop, manufacture and commercialize certain of our products, which would adversely affect our business and financial position. 
+
+We have experienced and could in the future experience increased costs and production delays that made us unable to obtain the necessary equipment or sufficient quantities of some components. We have also been, and could in the future be, forced to pay higher prices, make volume purchase commitments or advance deposits for some components, equipment or raw materials that were in short supply in the industry. If our direct and indirect vendors for these components are unable to meet our cost, quality, supply and transportation requirements or fulfill their contractual commitments and obligations, we may have to reengineer some products, which would likely cause production and shipment delays, make the reengineered products more costly and provide us with a lower rate of return on these products. Further, if we have to allocate the components we receive to certain of our products and ship less of others due to shortages or delays in critical components, we may lose sales to customers who could purchase more of their required products from a competitor that either did not experience these shortages or delays or that made different allocations, and thus our revenue and operating margin would decline. 
+
+We cannot assure you that we will be able to obtain critical components in a timely and economic manner. In addition, from time to time, some of our suppliers&#8217; manufacturing facilities may be fully utilized. If they fail to invest in additional capacity or deliver components in the required timeframe, such failure would have an impact on our ability to ramp new products, and may result in a loss of revenue or market share if our competitors did not utilize the same components and were not affected. Further, if our customers experience shortages of components or materials used in their products it could result in a decrease in demand for our products and have an adverse effect on our results of operations. 
+
+We have cancelled purchase commitments with suppliers and incurred costs associated with such cancellations, and if revenues fall or customer demand decreases significantly, we may seek to cancel or may otherwise not meet our purchase commitments to certain suppliers in the future, which could result in damages, penalties, disputes, litigation, increased manufacturing costs or excess inventory. 
+
+From time to time, we enter into long-term, non-cancelable purchase commitments or make large up-front investments with certain suppliers to secure certain components or technologies for the production of our products or to supplement our internal manufacturing capacity for certain components. We have in the past cancelled, reduced or otherwise modified certain purchase commitments and incurred associated fees, due to changes in forecasted demand. If our actual revenues in the future are lower than our projections or if customer demand decreases significantly below our projections, we may seek to cancel or modify or may otherwise not meet our additional purchase commitments with certain suppliers. As a result, it is possible that our revenues will not be sufficient to recoup our up-front investments, in which case we will have to shift output from our internal manufacturing facilities to these suppliers, resulting in higher internal manufacturing costs, or we may be required to make penalty-type payments or pay specified amounts under the terms of these contracts for failure to meet our purchase commitments or otherwise satisfy our obligations under the contracts. We have and may continue to have disputes with our suppliers regarding our purchase commitments, including the cancellation or reduction of such commitments, that we may be unable to resolve, which have resulted and may again result in settlements, litigation that could result in adverse judgments or other litigation-related costs, the amounts of which may be material, as well as disruption to our supply chain and require management&#8217;s attention. Additionally, because our markets are volatile, competitive and subject to rapid technology and price changes, we face inventory and other asset risks in the event we do not fully utilize purchase commitments. If we cancel purchase commitments, are unable to fully utilize our purchase commitments or shift output from our internal manufacturing facilities to meet the commitments, our gross margin and operating margin could be materially and adversely impacted. 
+
+Due to the complexity of our products, some defects may only become detectable after deployment, which may lead to increased costs and adversely affect our operating results . 
+
+Our products are highly complex and are designed to operate in and form part of larger complex networks and storage systems. Our products may contain a defect or be perceived as containing a defect by our customers as a result of improper use or maintenance. Lead times required to manufacture certain components are significant, and a quality excursion may take significant time and resources to remediate. Defects in our products, third-party components or in the networks and systems of which they form a part, directly or indirectly, have resulted in and may in the future result in: 
+
+&#8226; increased costs and product delays until the complex solution-level interoperability issues are resolved; 
+
+&#8226; costs associated with the remediation of any problems attributable to our products; 
+
+&#8226; loss of or delays in revenues; 
+
+&#8226; loss of customers; 
+
+&#8226; failure to achieve market acceptance and loss of market share; 
+
+&#8226; increased service and warranty costs; and 
+
+&#8226; increased insurance costs. 
+
+Defects in our products could also result in legal actions by our customers for breach of warranty, property damage, injury or death. Such legal actions including, but not limited to, product liability claims could exceed the level of insurance coverage that we have obtained. Any significant uninsured claims could significantly harm our financial condition. 
+
+RISKS RELATED TO FINANCIAL PERFORMANCE OR GENERAL ECONOMIC CONDITIONS 
+
+Changes in the macroeconomic environment have impacted and may continue to negatively impact our results of operations. 
+
+Changes in macroeconomic conditions may affect consumer and enterprise spending, and as a result, our customers may postpone or cancel spending in response to volatility in credit and equity markets, negative financial news and/or declines in income or asset values, all of which may have a material and adverse effect on the demand for our products and/or result in significant changes in our product prices. Other factors that could have a material and adverse effect on demand for our products, financial condition and results of operations include inflation, slower growth or recession, conditions in the labor market, access to credit, consumer confidence and other macroeconomic factors affecting consumer and business spending behavior. These changes could happen rapidly and we may not be able to react quickly to prevent or limit our losses or exposures. 
+
+Macroeconomic developments including new and increased tariffs, trade disputes, sanctions, adverse economic conditions worldwide, government efforts to stimulate or stabilize economies, and international conflicts have and may continue to adversely impact our business. Significant inflation and elevated interest rates have negatively affected our business in recent quarters and could continue to negatively affect our business, operating results or financial condition or the markets in which we operate, which, in turn, could adversely affect the price of our ordinary shares. A general weakening of, and related declining corporate confidence in, the global economy or the curtailment in government or corporate spending could cause current or potential customers to reduce their IT budgets or be unable to fund data storage products, which could cause customers to delay, decrease or cancel purchases of our products or cause customers to not pay us or to delay paying us for previously purchased products and services. 
+
+We may not be able to generate sufficient cash flows from operations and our investments to meet our liquidity requirements, including servicing our indebtedness and continuing to declare our quarterly dividend . 
+
+We are leveraged and require significant amounts of cash to service our outstanding indebtedness. Our business may not generate sufficient cash flows to enable us to meet our liquidity requirements, including working capital, capital expenditures, product development efforts, investments, servicing our indebtedness and other general corporate requirements. Our high level of debt presents the following risks: 
+
+&#8226; we are required to use a substantial portion of our cash flows from operations to service our debt, which reduces the availability of our cash flows to fund working capital, capital expenditures, product development efforts, strategic acquisitions, investments and alliances and other general corporate requirements; 
+
+&#8226; our substantial leverage increases our vulnerability to economic downturns, decreases the availability of capital and may subject us to a competitive disadvantage vis-&#224;-vis those of our competitors that are less leveraged; 
+
+&#8226; our debt service obligations could limit our flexibility in planning for, or reacting to, changes in our business and our industry, and could limit our ability to borrow additional funds on satisfactory terms for operations or capital to implement our business strategies; and 
+
+&#8226; covenants in our debt agreements, including our existing Credit Agreement (as defined herein), limit, among other things, our ability to pay future dividends or make other restricted payments and investments and to incur additional indebtedness, which could restrict our ability to execute on our business strategy or react to the economic environment. 
+
+In addition, our ability to service our debt obligations and comply with debt covenants depends on our financial performance. If we fail to meet our debt service obligations or fail to comply with debt covenants, or are unable to modify, obtain a waiver, or cure a debt covenant on terms acceptable to us or at all, we could be in default of our debt agreements and instruments. Such a default could result in an acceleration of our indebtedness, including via cross-defaults, and may require us to change capital allocation or engage in distressed debt transactions on terms unfavorable to us, which could have a material negative impact on our financial performance, stock market price and operations. 
+
+In the event the conditional exchange feature of our 2028 Notes is triggered, holders of the 2028 Notes will be entitled to exchange their 2028 Notes at any time during specified periods at their option. Pursuant to the terms of the indenture governing the 2028 Notes, if one or more holders elect to exchange their 2028 Notes, we would be required to settle the principal portion of our exchange obligation in cash, and any remainder of the exchange obligation in excess of such principal amount in cash, ordinary shares issued by us or a combination of cash and ordinary shares, at our election. Such cash payment obligations could adversely affect our liquidity. In addition, if the conditional exchange feature of our 2028 Notes is triggered, even if holders of the 2028 Notes do not elect to exchange their 2028 Notes, we could be required under applicable accounting rules to reclassify all or a portion of the outstanding principal of such 2028 Notes as a current rather than long-term liability, which would result in a material reduction of our net working capital. 
+
+In the event we need to refinance all or a portion of our outstanding debt as it matures or incur additional debt to fund our operations, we may not be able to refinance our existing debt or incur additional debt to fund our operations on terms acceptable to us or at all. If prevailing interest rates or other factors result in higher interest rates upon refinancing, then the interest expense relating to our debt would increase. Furthermore, if any rating agency changes our credit rating or outlook, our debt and equity securities could be negatively affected, which could adversely affect our ability to refinance existing debt or raise additional capital and increase the interest costs under our existing Credit Agreement. 
+
+Our quarterly results of operations fluctuate, sometimes significantly, from period to period, and may cause our share price to decline . 
+
+Our quarterly revenue and results of operations fluctuate, sometimes significantly, from period to period. These fluctuations, which we expect to continue, have been and may continue to be precipitated by a variety of factors, including: 
+
+&#8226; uncertainty in global economic and political conditions, and instability or war or adverse changes in the level of economic activity in the major regions in which we do business; 
+
+&#8226; competitive pressures resulting in lower prices by our competitors which may shift demand away from our products; 
+
+&#8226; announcements of new products, services or technological innovations by us or our competitors, and delays or problems in our introduction of new, more cost-effective products, the inability to achieve high production yields or delays in customer qualification or initial product quality issues; 
+
+&#8226; changes in customer demand or the purchasing patterns or behavior of our customers; 
+
+&#8226; application of new or revised industry standards; 
+
+&#8226; disruptions in our supply chain, including increased costs or adverse changes in availability of supplies of raw materials or components; 
+
+&#8226; increased costs of electricity and/or other energy sources, freight and logistics costs or other materials or services necessary for the operation of our business; 
+
+&#8226; pandemics or other global health issues that impact our operations as well as those of our customers and suppliers; 
+
+&#8226; the impact of corporate restructuring activities that we have and may continue to engage in; 
+
+&#8226; changes in the demand for the computer systems and data storage products that contain our products; 
+
+&#8226; unfavorable supply and demand imbalances; 
+
+&#8226; our high proportion of fixed costs, including manufacturing and research and development expenses; 
+
+&#8226; any impairments in goodwill or other long-lived assets; 
+
+&#8226; changes in tax laws, such as global tax developments applicable to multinational businesses; the impact of trade barriers, such as import/export duties and restrictions, sanctions, tariffs and quotas, imposed by the United States or other countries in which the Company conducts business; 
+
+&#8226; the evolving legal and regulatory, economic, environmental and administrative climate in the international markets where the Company operates; and 
+
+&#8226; adverse changes in the performance of our products. 
+
+As a result, we believe that quarter-to-quarter and year-over-year comparisons of our revenue and results of operations may not be meaningful, and that these comparisons may not be an accurate indicator of our future performance. Our results of operations in one or more future quarters may fail to meet the expectations of investment research analysts or investors, which could cause an immediate and significant decline in our market value. 
+
+If we do not adequately control our costs or if any cost reduction initiatives that we undertake do not deliver the results we expect, we will not be able to compete effectively and our financial condition may be adversely impacted. 
+
+We are focused on increasing flexibility and scalability, and improving overall competitiveness by leveraging our global capabilities, as well as external talent and skills, worldwide, with a view towards increasing revenue and exabytes volume while controlling expenses. If we do not adequately control our manufacturing and operating expenses, our ability to compete in the marketplace may be impaired. 
+
+In the past, we have engaged in restructuring activities with a view toward reducing costs. Such restructuring activities to reduce costs have included closures and transfers of facilities, significant personnel reductions, temporary salary reductions, restructuring efforts, asset write-offs and efforts to increase automation. Our restructuring efforts and other measures to reduce costs may not yield the intended benefits and may be unsuccessful or disruptive to our business operations which may materially and adversely affect our financial results. In addition, we cannot be sure that any future cost reductions or global footprint consolidation efforts will not result in additional costs which may not be offset by planned cost reductions or global footprint consolidation. If our operating costs are higher than we expect or if we do not maintain adequate control of our costs and expenses, our results of operations may be adversely affected. 
+
+The effect of geopolitical uncertainties, political unrest, war, terrorism, natural disasters, public health issues and other circumstances, on national and/or international commerce and on the global economy, could materially and adversely affect our results of operations and financial condition . 
+
+Geopolitical uncertainty, political unrest, terrorism, instability or war, such as the conflict between Ukraine and Russia and conflicts in the Middle East, natural disasters, public health issues and other business interruptions have caused and could cause damage or disruption to international commerce and the global economy, and thus could have a strong negative effect on our business, our direct and indirect suppliers, logistics providers, manufacturing vendors and customers. Our business operations are also subject to interruption by natural disasters such as floods and earthquakes, fires, power or water shortages, terrorist attacks, other hostile acts, labor disputes, political unrest, public health issues and related mitigation actions, and other events beyond our control. Such events may decrease demand for our products, make it difficult or impossible for us to make and deliver products to our customers or to receive components from our direct and indirect suppliers, and create delays and inefficiencies in our supply chain. 
+
+A significant natural disaster, such as an earthquake, fire, flood, or significant power outage could have an adverse impact on our business, results of operations, and financial condition. The impact of climate change may increase these risks due to changes in weather patterns, such as increases in storm intensity, sea-level rise and temperature extremes in areas where we or our suppliers and customers conduct business. We have a number of our employees located in regions known for seismic activity, wildfires and drought conditions. To mitigate wildfire risk, electric utilities are deploying public safety power shutoffs, which affects electricity reliability to our facilities and our communities, potentially disrupting our operations. Many of our suppliers and customers are also located in areas with risks of natural disasters. In the event of a natural disaster, losses and significant recovery time could be required to resume operations and our financial condition and results of operations could be materially and adversely affected. 
+
+Should major public health issues, including pandemics, arise, we could be negatively affected by stringent employee travel restrictions, additional limitations or cost increases in freight and other logistical services, governmental actions limiting the movement of products or employees between regions, increases in or changes to data collection and reporting obligations, delays in production ramps of new products, and disruptions in our operations and those of some of our key direct and indirect suppliers and customers. 
+
+We are subject to counterparty default risks. 
+
+We have numerous arrangements with financial institutions that subject us to counterparty default risks, including cash and investment deposits, foreign currency forward exchange contracts, capped calls and other derivative instruments. As a result, we are subject to the risk that the counterparty to one or more of these arrangements will, voluntarily or involuntarily, default on its performance obligations. In times of market distress in particular, a counterparty may not comply with its contractual commitments that could then lead to it defaulting on its obligations with little or no notice to us, thereby limiting our ability to take action to lessen or cover our exposure. Additionally, our ability to mitigate our counterparty exposures could be limited by the terms of the relevant agreements or because market conditions prevent us from taking effective action. If one of our counterparties becomes insolvent or files for bankruptcy, our ability to recover any losses suffered as a result of that counterparty's default may be limited by the liquidity of the counterparty or the applicable laws governing the bankruptcy proceedings. In the event of any such counterparty default, we could incur significant losses, which could have a material and adverse effect on our business, results of operations, or financial condition. Our exposure to counterparty risk with respect to the capped call transactions will depend on many factors but, generally, an increase in our exposure will be correlated to an increase in the market price and in the volatility of our ordinary shares. In addition, upon a default by an option counterparty, we may suffer more dilution than we currently anticipate with respect to our ordinary shares. We can provide no assurance as to the financial stability or viability of our counterparties. 
+
+Further, our customers could have reduced access to working capital due to global economic conditions, high interest rates, reduced bank lending resulting from contractions in the money supply or the deterioration in the customer&#8217;s, or their bank&#8217;s financial condition or the inability to access other financing, which would increase our credit and non-payment risk, and could result in an increase in our operating costs or a reduction in our revenue. Also, our customers outside of the United States are sometimes allowed longer time periods for payment than our U.S. customers. This increases the risk of nonpayment due to the possibility that the financial condition of particular customers may worsen during the course of the payment period. In addition, some of our OEM customers have adopted a subcontractor model that requires us to contract directly with companies, such as original design manufacturers, that provide manufacturing and fulfillment services to our OEM customers. Because these subcontractors are generally not as well capitalized as our direct OEM customers, this subcontractor model exposes us to increased credit risks. Our agreements with our OEM customers may not permit us to increase our product prices to alleviate this increased credit risk. 
+
+LEGAL, REGULATORY AND COMPLIANCE RISKS 
+
+Our business is subject to various laws, regulations and governmental policies that may cause us to incur significant expense or adversely impact our results of operations and financial condition . 
+
+Our business is subject to regulation under a wide variety of U.S. federal and state and non-U.S. laws, regulations and policies. Laws, regulations and policies, particularly in the U.S., may change in significant, unexpected, and/or unpredictable ways that will require us to modify our business model and objectives or affect our returns on investments by restricting existing activities and products, subjecting them to escalating costs or prohibiting them outright. Jurisdictions such as China, Malaysia, Northern Ireland, Singapore, Thailand and the U.S., in which we have significant operating assets, and the European Union each have exercised and continue to exercise significant influence over many aspects of their domestic economies including, but not limited to, fair competition, tax practices, anti-corruption, anti-trust, data privacy, protection, security and sovereignty, price controls and international trade, including the imposition of tariffs or other trade restrictions, which have had and may continue to have an adverse effect on our business operations and financial condition. 
+
+Our business, particularly our Lyve products and related offerings, is subject to state, federal, and international laws and regulations relating to data privacy, data protection and data security, including security breach notification, data retention, transfer and localization. Laws and regulations relating to these matters evolve frequently and their scope may change through new legislation, amendments to existing legislation and changes in interpretation or enforcement and may impose conflicting and inconsistent obligations. Any such changes, and any changes to our products or services or manner in which our customers utilize them may result in new or enhanced costly compliance requirements and governmental or regulatory scrutiny, may limit our ability to operate in certain jurisdictions or to engage in certain data processing activities, and may require us to modify our practices and policies, potentially in a material manner, which we may be unable to do in a timely or commercially reasonable manner or at all. 
+
+Further, the sale and manufacturing of products in certain countries subjects us and our suppliers to local and international laws and regulations governing protection of the environment, including those governing climate change, discharges of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the cleanup of contaminated sites, restrictions on the presence of certain substances in electronic products and the responsibility for environmentally safe disposal or recycling. If additional or more stringent requirements are imposed on us and our suppliers in the future, we could incur additional operating costs and capital expenditures. If we fail to comply with applicable environmental laws, regulations, initiatives, or standards of conduct, our customers may refuse to purchase our products and we could be subject to fines, penalties and possible prohibition of sales of our products into one or more states or countries, liability to our customers and damage to our reputation, which could result in a material and adverse effect on our financial condition or results of operations. 
+
+As the laws and regulations to which we are subject continue to change and vary greatly from jurisdiction to jurisdiction, compliance with such laws and regulations may be onerous, may create uncertainty as to how they will be applied and interpreted, and may continue to increase our cost of doing business globally. 
+
+Some of our products and services are subject to export control laws and other laws affecting the countries in which our products and services may be sold, distributed, or delivered, and any changes to or violation of these laws could have a material and adverse effect on our business, results of operations, financial condition and cash flows. 
+
+Due to the global nature of our business, we are subject to import and export restrictions and regulations, including the Export Administration Regulations (&#8220;EAR&#8221;) administered by BIS and the trade and economic sanctions regulations administered by the U.S. Treasury Department&#8217;s Office of Foreign Assets Control (&#8220;OFAC&#8221;). We incorporate encryption technology into certain of our products and solutions. These encryption products and the underlying technology may be exported outside of the United States only with export authorizations, including by license, a license exception or other appropriate government authorizations, including the filing of an encryption registration. The United States, through BIS and OFAC, places restrictions on the sale or export of certain products and services to certain countries, persons and entities, as well as for certain end-uses, such as military, military-intelligence and weapons of mass destruction end-uses. The U.S. government also imposes sanctions through executive orders restricting U.S. companies from conducting business activities with specified individuals and companies. Although we have controls and procedures to ensure compliance with all applicable regulations and orders, we cannot predict whether changes in laws or regulations by the United States, China or another jurisdiction will affect our ability to sell our products and services to existing or new customers. Additionally, we cannot ensure that our interpretation of relevant restrictions and regulations will be accepted in all cases by relevant regulatory and enforcement authorities. On April 18, 2023, we entered into a Settlement Agreement with BIS (the &#8220;Settlement Agreement&#8221;) that resolved BIS&#8217; allegations regarding our sales of hard disk drives to Huawei. We agreed to complete three audits of our compliance with the license requirements of Section 734.9 of the EAR, and have completed the first audit. The Settlement Agreement also includes a denial order that is suspended and will be waived five years after the date of the order issued under the Settlement Agreement, provided that we have made full and timely payments under the Settlement Agreement and timely completed the audit requirements. Despite our best efforts to comply with the terms of the Settlement Agreement, we may fail to do so. Failure to comply with the Settlement Agreement could result in significant penalties, including the loss of the suspension of the denial order which would prohibit us from a range of export-related activities, including exporting our products subject to the EAR outside of the United States, and could have a material and adverse effect on our business, results of operations, financial condition and cash flows. 
+
+Despite our best efforts to comply with all applicable export control and sanctions laws and regulations, we may discover additional violations. From time to time, we have voluntarily self-reported potential trade controls violations to OFAC or BIS. Although voluntary self-disclosure is considered a mitigating factor by OFAC and BIS, in light of the Settlement Agreement, we may be subject to increased penalties. If we were ever found to have violated applicable export control or sanctions laws, we may be subject to penalties which could have a material and adverse impact on our business, results of operations, financial condition and cash flows. Even if we were not found to have violated such laws, the political and media scrutiny surrounding any governmental investigation of us could cause us significant expense and reputational harm. Such collateral consequences could have a material adverse impact on our business, results of operations, financial condition and cash flows. 
+
+Violators of any U.S. export control and sanctions laws may be subject to significant penalties, which may include monetary fines, criminal proceedings against them and their officers and employees, a denial of export privileges, and suspension or debarment from selling products to the U.S. government. Moreover, the sanctions imposed by the U.S. government could be expanded and/or intensified in the future, creating heightened uncertainty for our business operations. Our products could be shipped to restricted end-users or for restricted end-uses by third parties, including potentially our channel partners, despite our precautions. In addition, if our partners fail to obtain appropriate import, export or re-export licenses or permits, we may also be adversely affected, through reputational harm as well as other negative consequences including government investigations and penalties. A significant portion of our sales are to customers in the Asia Pacific region and other geographies that have been the recent focus of changes in U.S. export control policies. Various U.S. agencies have implemented and are considering additional changes to the regulations to increase controls over advanced computing chips, computers and related technologies. Any further limitation that impedes our ability to export or sell our products and services could materially and adversely affect our business, results of operations, financial condition and cash flows. 
+
+Other countries also regulate the import and export of certain encryption and other technology, including import and export licensing requirements, and have enacted laws that could limit our ability to sell or distribute our products and services or could limit our partners&#8217; or customers&#8217; ability to sell or use our products and services in those countries, which could materially and adversely affect our business, results of operations, financial condition and cash flows. Violations of these regulations may result in significant penalties and fines. Changes in our products and services or future changes in export and import regulations may create delays in the introduction of our products and services in those countries, prevent our customers from deploying our products and services globally or, in some cases, prevent the export or import or sale of our products and services to certain countries, governments or persons altogether. Any change in export or import regulations, economic sanctions or related legislation, increased export and import controls, or change in the countries, governments, persons or technologies targeted by such regulations, in the countries where we operate could result in decreased use of our products and services by, or in our decreased ability to export or sell our products and services to, new or existing customers, which could materially and adversely affect our business, results of operations, financial condition and cash flows. 
+
+Changes in U.S. trade policy, including the imposition of sanctions or tariffs and the resulting consequences, may have a material and adverse impact on our business and results of operations. 
+
+We face significant and ongoing uncertainty with regard to global trade policy, particularly in light of recently announced and potential additional actions by the U.S. government and its trading partners. Current U.S. government trade policy includes tariffs on certain non-U.S. goods, including information and communication technology products. These and any new measures may materially increase costs for goods imported from key supply chain jurisdictions into the United States. This in turn could require us to materially increase prices to our customers which may reduce demand, or, if we are unable to increase prices to adequately address any tariffs, quotas or duties, could lower our margin on products sold and negatively impact our financial performance. 
+
+In addition, evolving trade policies may lead to abrupt or unpredictable changes in tariffs, quotas, duties or trade agreements, potentially disrupting our supply chain and/or leading to an increase in costs. Changes in U.S. trade policy have also resulted in, and could result in more, foreign jurisdictions adopting responsive trade policies, including imposition of new or increased tariffs, quotas, duties, or other restrictions targeting U.S. products. For example, countries where we have significant customer demand may adopt measures that increase the effective cost of our products in those markets, which could reduce sales volumes and harm our competitive position. 
+
+These developments, whether occurring individually or in the aggregate, could materially disrupt our operations and impair our ability to efficiently manage our global supply chain. Increased tariffs or other trade restrictions may raise our cost of goods, delay the sourcing of materials and constrain our ability to fulfill customer orders on a timely basis. Additionally, retaliatory trade measures by other countries could make it more difficult or costly to export our products or components, potentially leading to increased supply chain costs and/or reduced demand in non-U.S. markets. These and any future trade policy changes may have a material and adverse impact on our business and financial condition. While we continue to monitor trade developments and evaluate risk mitigation strategies, we may not be able to fully, or even partially, offset the effects of these evolving trade dynamics. 
+
+Our business is exposed to risks associated with litigation, investigations and regulatory proceedings that may cause us to incur significant expense or adversely impact our results of operations and financial condition. 
+
+From time to time, we have been and may continue to be involved in various legal, regulatory or administrative investigations, inquiries, negotiations or proceedings. See &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 13. Legal, Environmental and Other Contingencies &#8221; contained in this Annual Report for a description of material legal proceedings. Litigation and government investigations or other proceedings are subject to inherent risks and uncertainties that may cause an outcome to differ materially from our expectations and may result in us being required to pay substantial damages, fines or penalties and cease certain practices or activities, and may harm our reputation and market position, all of which could materially harm our business, results of operations and financial conditions. The costs associated with litigation and government proceedings can also be unpredictable depending on the complexity and length of time devoted to such litigation or proceeding. Litigation and governmental investigations or other proceedings may also divert the efforts and attention of our key personnel, which could also harm our business. 
+
+In addition, regulation or government scrutiny may impact the requirements for marketing our products and slow our ability to introduce new products, resulting in an adverse impact on our business. Although we have implemented policies and procedures designed to ensure compliance, there can be no assurance that our employees, contractors or agents will not violate these or other applicable laws, rules and regulations to which we are and may be subject. Actual or perceived violations of these laws and regulations could lead to significant penalties, restraints on our export or import privileges, monetary fines, government investigations, disruption of our operating activities, damage to our reputation and corporate brand, criminal proceedings and regulatory or other actions that could materially and adversely affect our results of operations. The political and media scrutiny surrounding a governmental investigation for the violation of such laws, even if an investigation does not result in a finding of violation, could cause us significant expense and collateral consequences, including reputational harm, that could have an adverse impact on our business, results of operations and financial condition. 
+
+Tax-related matters could have a material and adverse effect on our business, results of operations or financial condition. 
+
+We are subject to income taxes, as well as indirect taxes and other tax claims in tax regimes we are subject to or operate under. Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities. Tax laws are dynamic and subject to change as new laws are passed and new interpretations of the law are issued or applied. Any changes in tax laws and regulations could have a material and adverse effect on our tax obligations and effective tax rate. 
+
+In particular, potential uncertainty of changes to global tax laws, including global initiatives put forth by the Organization for Economic Co-operation and Development (&#8220;OECD&#8221;) and tax laws in any jurisdiction in which we operate have had and may continue to have an effect on our business, corporate structure, operations, sales, liquidity, capital requirements, effective tax rate, results of operations, and financial performance. Several jurisdictions in which we operate have enacted legislation, either partially or fully implementing the OECD&#8217;s Pillar Two global corporate minimum tax, also known as the top-up tax. This includes the recent updates from Singapore and Thailand, which will take effect for the Company starting in fiscal year 2026. We will continue to monitor for further developments. The enactment of Pillar Two legislation did not have a material and adverse effect on the Company's financial statements in the fiscal year 2025. Beginning in fiscal year 2026, the Pillar Two framework for the global minimum tax is expected to materially increase the level of income tax, especially for jurisdictions in which we currently have tax incentives, such as Singapore and Thailand. 
+
+In addition, we are subject to examinations of our income tax returns in tax regimes we are subject to or operate under. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from these examinations. There can be no assurance that the final determination of any of these examinations will not have an adverse effect on our effective tax rates, financial condition and results of operations. 
+
+Our future effective tax rate may also be affected by a variety of factors, including changes in our business or statutory rates, the mix of earnings in countries with differing statutory tax rates, available tax incentives, credits and deductions, the expiration of statutes of limitations, changes in accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, the estimates of our deferred tax assets and liabilities and deferred tax asset valuation allowances, changing interpretations of existing laws or regulations, the impact of accounting for business combinations, as well as changes in the domestic or international organization of our business and structure. 
+
+RISKS RELATED TO INTELLECTUAL PROPERTY AND OTHER PROPRIETARY RIGHTS 
+
+We may be unable to protect our intellectual property rights, which could adversely affect our business, financial condition and results of operations . 
+
+We rely on a combination of patent, trademark, copyright and trade secret laws, confidentiality agreements, security measures and licensing arrangements to protect our intellectual property rights. We are frequently involved in significant and expensive disputes regarding our intellectual property rights and those of others, including claims that we may be infringing patents, trademarks and other intellectual property rights of third parties. We expect that we will be involved in similar disputes in the future . 
+
+There can be no assurance tha t: 
+
+&#8226; any of our existing patents will continue to be held valid, if challenged; 
+
+&#8226; patents will be issued for any of our pending applications; 
+
+&#8226; any claims allowed from existing or pending patents will have sufficient scope or strength to protect us; 
+
+&#8226; our patents will be issued in the primary countries where our products are sold in order to protect our rights and potential commercial advantage; 
+
+&#8226; we will be able to protect our trade secrets and other proprietary information through confidentiality agreements with our customers, suppliers and employees and through other security measures; and 
+
+&#8226; others will not gain access to our trade secrets. 
+
+In addition, our competitors may be able to design their products to circumvent our patents and other proprietary rights. Enforcement of our rights often requires litigation. If we bring a patent infringement action and are not successful, our competitors would be able to use similar technology to compete with us, which could weaken our competitive position and reduce our operating results. Moreover, the defendant in such an action may successfully countersue us for infringement of their patents or assert a counterclaim that our patents are invalid or unenforceable . 
+
+Furthermore, we have significant operations and sales in countries where intellectual property laws and enforcement policies are often less developed, less stringent or more difficult to enforce than in the United States. Therefore, we cannot be certain that we will be able to protect our intellectual property rights in jurisdictions outside the United States . 
+
+We are at times subject to intellectual property proceedings and claims which could cause us to incur significant additional costs or prevent us from selling our products, and which could adversely affect our results of operations and financial condition . 
+
+We are subject from time-to-time to legal proceedings and claims, including claims of alleged infringement of the patents, trademarks and other intellectual property rights of third parties by us, or our customers, in connection with the manufacturing, use, sale or offering for sale of our products. Intellectual property litigation can be expensive and time-consuming, regardless of the merits of any claim, and could divert management&#8217;s attention and resources away from our business. In addition, intellectual property lawsuits are subject to inherent uncertainties due to the complexity of the technical issues involved, which may cause actual results to differ materially from our expectations. Some of the actions that we face from time-to-time seek injunctions against the sale of our products and/or substantial monetary damages, which, if granted or awarded, could materially harm our business, financial condition and operating results . 
+
+We cannot be certain that our products do not and will not infringe issued patents or other intellectual property rights of others. We may not be aware of currently filed patent applications that relate to our products or technology. If patents are later issued on these applications, we may be liable for infringement. If our products were found to infringe the intellectual property rights of others, we could be required to pay substantial damages, cease the manufacture, use and sale of infringing products in one or more geographic locations, expend significant resources to develop non-infringing technology, discontinue the use of specific processes or obtain licenses to the technology infringed. We might not be able to obtain the necessary licenses on acceptable terms, or at all, or be able to reengineer our products successfully to avoid infringement. Any of the foregoing could cause us to incur significant costs and prevent us from selling our products, which could adversely affect our results of operations and financial condition. See &#8220;Item 8. Financial Statements and Supplementary Data &#8212; Note 13. Legal, Environmental and Other Contingencies &#8221; contained in this report for a description of material intellectual property proceedings . 
+
+Our business and certain products and services depend in part on intellectual property and technology licensed from third parties, as well as data centers and infrastructure operated by third parties. 
+
+Our business and some of our products rely on or include software licensed from third parties, including open source licenses. We may not be able to obtain or continue to obtain licenses from these third parties at all or on reasonable terms, or such third parties may demand cross-licenses to our intellectual property. Third-party components and technology may become obsolete, defective or incompatible with future versions of our products or services, or our relationship with the third party may deteriorate, or our agreements may expire or be terminated. We may face legal or business disputes with licensors that may threaten or lead to the disruption of inbound licensing relationships. In order to remain in compliance with the terms of our licenses, we monitor and manage our use of third-party software, including both proprietary and open source license terms to avoid subjecting our products and services to conditions we do not intend, such as the licensing or public disclosure of our intellectual property without compensation or on undesirable terms. The terms of many open source licenses have not been interpreted by U.S. courts, and these licenses could be construed in a way that could impose unanticipated conditions or restrictions on our ability to commercialize our products or services. Additionally, some of these licenses may not be available to us in the future on terms that are acceptable or that allow our product offerings to remain competitive. Our inability to obtain licenses or rights on favorable terms could have a material effect on our business, financial condition, results of operations and cash flow, such as diverting resources away from our development efforts if we are required to take remedial action. 
+
+In addition, we also rely upon third-party hosted infrastructure partners globally to serve customers and operate certain aspects of our business or services. Any disruption of or interference at our hosted infrastructure partners would impact our operations and our business could be adversely impacted. 
+
+RISKS RELATED TO INFORMATION TECHNOLOGY, DATA AND INFORMATION SECURITY 
+
+We could suffer a loss of revenue and increased costs, exposure to significant liability including legal and regulatory consequences, reputational harm and other serious negative consequences in the event of cyber-attacks, ransomware or other cyber security breaches or incidents that disrupt our operations, cause widespread outages, and/or result in unauthorized access to, or the loss, corruption, unavailability or dissemination of proprietary or confidential information of our customers or about us or other third parties . 
+
+Our operations are dependent upon our ability to protect our digital infrastructure and data. We manage, store and otherwise process various proprietary information and sensitive or confidential data relating to our operations, as well as to our customers, suppliers, employees and other third parties, and we store subscribers&#8217; data on Lyve, our edge-to-cloud mass storage platform. As our operations become more automated and increasingly interdependent and our edge-to-cloud mass storage platform service grows, our exposure to the risks posed by storage, transfer, maintenance and other processing of data, such as damage, corruption, loss, unavailability, unauthorized acquisition and other processing, and other security risks, including risks of disruptions to our platform or security breaches, widespread outages and/or other incidents impacting our digital infrastructure and data, will continue to increase. 
+
+Despite the measures we and our vendors put in place designed to protect our computer equipment, data and systems, our customers, suppliers, employees or other third parties have been and may continue to be vulnerable to phishing and other forms of social engineering attacks, employee or contractor error, hacking, cyberattacks, ransomware and other malware, malfeasance, system error or other irregularities or incidents, including from attacks or breaches and incidents at third party vendors we utilize. In addition, the measures we and our vendors take may not be sufficient for all eventualities. Threat actors are increasingly using tools and techniques that circumvent controls, evade detection, and remove forensic evidence, which means that we and others may be unable to anticipate, detect, deflect, contain or recover from cyberattacks in a timely or effective manner. As AI capabilities improve and are increasingly adopted, we may be subject to cyberattacks created and/or augmented with AI. For example, attacks could be crafted with an AI tool to attack information systems by creating more effective phishing emails or social engineering or by exploiting vulnerabilities in electronic security programs utilizing false image or voice recognition, or could result from us or our customers, vendors or business partners incorporating the output of AI tools, such as malicious code from an AI-generated source code. Our network and storage applications, as well as those of our customers, business partners, and third-party providers, have been and may in the future be subject to unauthorized access by hackers or breached due to operator error, malfeasance or other system disruptions. Additionally, there have been and may continue to be significant supply chain attacks, and we cannot guarantee that our or our suppliers&#8217; or other vendors&#8217; systems, networks, or other components or infrastructure have not been compromised or do not contain exploitable defects, bugs or vulnerabilities. We anticipate that these threats will continue to grow in scope and complexity over time due to the development and deployment of increasingly advanced tools and techniques. 
+
+We and our vendors may be unable to anticipate or prevent these attacks and other threats, react in a timely manner, or implement adequate preventive measures, and we and they may face delays in detection or remediation of, or other responses to, security breaches and other security-related incidents. The costs of eliminating or addressing security problems and security vulnerabilities before or after a security breach or incident may be significant. Certain legacy IT systems may not be easily remediated, and our disaster recovery planning may not be sufficient for all eventualities. Our remediation and other aspects of our efforts to address any attack, compromise, breach or incident may not be successful and could result in interruptions, delays or cessation of service. Security breaches or incidents and unauthorized access to, or loss, corruption, unavailability, or processing of data we and our vendors maintain or otherwise process has exposed us and could expose us, or our vendors, customers or other third parties to a risk of loss or misuse of this data. Any actual or perceived breach incident could result in litigation or governmental investigations, fines, penalties, indemnity obligations and other potential liability and costs for us, materially damage our brand, cause us to lose existing or potential customers, impede critical functions or otherwise materially harm our business, results of operations and financial condition. 
+
+Additionally, defending against claims, litigation or regulatory inquiries or proceedings relating to any actual or potential security breach or other security incident, regardless of merit, could be costly and divert attention of key personnel. We cannot ensure that any provisions in our contracts with customers or others relating to limitations of liability would be enforceable or adequate or would otherwise protect us from any liabilities or damages with respect to any claim. The insurance coverage we maintain that is intended to address certain data security risks may be insufficient to cover all types of claims or losses that may arise and has been increasing in price over time. We cannot be certain that insurance coverage will continue to be available to us on economically reasonable terms, or at all. 
+
+There can be no assurance that our cybersecurity management program and processes, including our policies, controls or procedures, will be implemented consistently, complied with or effective in protecting our systems and information. 
+
+We must maintain and upgrade our global enterprise resource planning system and other information technology (&#8220;IT&#8221;) systems, and our failure to do so could have a material and adverse effect on our business, financial condition and results of operations . 
+
+We have invested and will continue to invest in and implement modifications and upgrades to our IT systems and procedures, including making changes to legacy systems or acquiring new systems with new functionality, and building new policies, procedures, training programs and monitoring tools. 
+
+The implementation and maintenance of our global enterprise resource planning system (&#8220;ERP&#8221;) has required and will continue to require significant investment of human and financial resources. The ERP is designed to efficiently maintain our financial records and provide information important to the operation of our business to our management team. In implementing, maintaining and upgrading the ERP, we may experience significant increases to inherent costs and risks associated with changing and acquiring these systems, policies, procedures and monitoring tools, including capital expenditures, additional operating expenses, demands on management time and other risks and costs of delays or difficulties in transitioning to or integrating new systems policies, procedures or monitoring tools into our current systems. Any significant disruption or deficiency in the design, implementation and maintenance of the ERP may adversely affect our ability to process orders, ship product, send invoices and track payments, fulfill contractual obligations, maintain effective disclosure controls and internal control over financial reporting or otherwise operate our business. These implementations, modifications and upgrades may not result in productivity improvements at a level that outweighs the costs of implementation, or at all. In addition, difficulties with implementing and maintaining new technology systems, such as ERP, delays in our timeline for planned improvements, significant system failures or our inability to successfully modify our IT systems, policies, procedures or monitoring tools to respond to changes in our business needs in the past have caused and in the future may cause disruptions in our business operations, increase security risks, and may have a material and adverse effect on our business, financial condition and results of operations. 
+
+RISKS RELATED TO HUMAN CAPITAL AND CORPORATE RESPONSIBILITY 
+
+The loss of or inability to attract, retain and motivate key executive officers and employees could negatively impact our business prospects . 
+
+Our future performance depends to a significant degree upon the continued service of key members of management as well as marketing, sales and product development personnel. We believe our future success will also depend in large part upon our ability to attract, retain and further motivate highly skilled management, marketing, sales and product development personnel. We have experienced intense competition for qualified and capable personnel in many locations in which we operate, including China, Northern Ireland, Singapore, Thailand and the United States, and we cannot assure you that we will be able to retain our key employees or that we will be successful in attracting, assimilating and retaining personnel in the future. Additionally, because a portion of our key personnel&#8217;s compensation is contingent upon the performance of our business, including through cash bonuses and equity compensation, when the market price of our ordinary shares fluctuates or our results of operations or financial condition are negatively impacted, we may be at a competitive disadvantage for retaining and hiring employees. Our historical restructurings, temporary salary reductions and variability in bonus payouts have made and may continue to make it difficult for us to recruit and retain personnel. Increased difficulty in accessing, recruiting or retaining personnel may lead to increased manufacturing and employment compensation costs, which could adversely affect our results of operations. The loss of one or more of our key personnel or the inability to hire and retain key personnel could have a material and adverse effect on our business, results of operations and financial condition. 
+
+We are subject to risks related to corporate and social responsibility that could adversely affect our reputation and performance. 
+
+Many factors influence our reputation including the perception held by our customers, suppliers, partners, shareholders, other key stakeholders and the communities in which we operate. Our key customers&#8217; satisfaction with the volume, quality and timeliness of our products is a material element of our market reputation, and any damage to our key customer relationships could materially and adversely affect our reputation. We face increasing scrutiny related to environmental, social and governance activities. We risk damage to our reputation if we fail to act responsibly in a number of areas, such as human capital, environmental stewardship, sustainability, supply chain management, climate change, the usage of AI, workplace conduct and human rights. The increasing concern over climate change could also result in shifting customer preferences and regulations. Changing customer preferences may result in increased demands or requirements regarding our solutions, products and services, including the use of packaging materials, chemicals and other components in our products. These demands may cause us to incur additional costs or make other changes to our operations, which could adversely affect our financial results. If we fail to manage these requirements in an effective manner, customer demand for our solutions, products, and services could diminish, and our profitability could suffer. 
+
+Further, despite our policies to the contrary, our employees and personnel may violate environmental, social or governance standards or engage in other unethical conduct. These acts, or any accusation of such conduct, even if proven to be false, could adversely impact the reputation of our business. Any harm to our reputation could impact employee engagement and retention, our corporate culture and the willingness of customers, suppliers and partners to do business with us, which could have a material and adverse effect on our business, results of operations and cash flows. 
+
+RISKS RELATED TO OWNING OUR ORDINARY SHARES 
+
+The price of our ordinary shares may be volatile and could decline significantly . 
+
+The market price of our ordinary shares has fluctuated and may continue to fluctuate or decline significantly in response to various factors, some of which are beyond our control, including : 
+
+&#8226; general stock market conditions, or general uncertainty in stock market conditions due to global economic conditions and negative financial news unrelated to our business or industry; 
+
+&#8226; the timing and amount of or the discontinuance of our share repurchases; 
+
+&#8226; actual or anticipated variations in our results of operations; 
+
+&#8226; announcements of innovations, new products, significant contracts, acquisitions, or significant price reductions by us or our competitors, including those competitors who offer alternative storage technology solutions; 
+
+&#8226; our failure to meet our guidance or the performance estimates of investment research analysts, or changes in financial estimates by investment research analysts; 
+
+&#8226; significant announcements by or changes in financial condition of a large customer; 
+
+&#8226; the ability of our customers to procure necessary components which may impact their demand or timing of their demand for our products, especially during a period of persistent supply chain shortages; 
+
+&#8226; reduction in demand from our key customers due to macroeconomic conditions that reduce cloud, enterprise or consumer spending; 
+
+&#8226; issuance of our ordinary shares, including upon exchange of some or all of our outstanding exchangeable 2028 Notes for amounts in excess of the principal amount; 
+
+&#8226; actual or perceived security breaches or incidents or security vulnerabilities; 
+
+&#8226; actual or anticipated changes in the credit ratings of our indebtedness by rating agencies; and 
+
+&#8226; the sale of our ordinary shares held by certain equity investors or members of management. 
+
+In addition, in the past, following periods of decline in the market price of a company&#8217;s securities, class action lawsuits have often been pursued against that company. Similar litigation has been pursued against us, and it could result in substantial costs and a diversion of management&#8217;s attention and resources, which could materially and adversely affect our results of operations, financial condition and liquidity. 
+
+Any decision to reduce or discontinue the payment of cash dividends to our shareholders or the repurchase of our ordinary shares pursuant to our previously announced share repurchase program could cause the market price of our ordinary shares to decline significantly . 
+
+Although historically we have announced regular cash dividend payments and a share repurchase program, we are under no obligation to pay cash dividends to our shareholders in the future at historical levels or at all or to repurchase our ordinary shares at any particular price or at all. The declaration and payment of any future dividends is at the discretion of our Board of Directors. Our previously announced share repurchase program was paused in the December 2022 quarter and remained paused through the end of fiscal year 2025. While we expect to resume the program in the first quarter of fiscal year 2026, there can be no assurance that we will do so. Our payment of quarterly cash dividends and the repurchase of our ordinary shares pursuant to our share repurchase program are subject to, among other things, our financial position and results of operations, distributable reserves, available cash and cash flow, capital and regulatory requirements, market and economic conditions, our ordinary share price and other factors. Any reduction or discontinuance by us of the payment of quarterly cash dividends or the repurchase of our ordinary shares pursuant to our share repurchase program could cause the market price of our ordinary shares to decline significantly. Moreover, in the event our payment of quarterly cash dividends or repurchases of our ordinary shares are reduced or discontinued, our failure to resume such activities at historical levels could result in a persistent lower market valuation of our ordinary shares . 
+
+
+
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following is a discussion of the Company&#8217;s financial condition, changes in financial condition and results of operations for the fiscal years ended June 27, 2025 and June 28, 2024. Discussions of year-to-year comparisons between fiscal years 2024 and 2023 are not included in this Annual Report on Form 10-K and can be found in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended June 28, 2024, which was filed with the SEC on August 2, 2024. 
+
+You should read this discussion in conjunction with &#8220;Item 8. Financial Statements and Supplementary Data&#8221; included elsewhere in this Annual Report on Form 10-K. Except as noted, references to any fiscal year mean the twelve-month period ending on the Friday closest to June 30 of that year. Accordingly, fiscal year 2025 and 2024 both comprised of 52 weeks and ended on June 27, 2025 and June 28, 2024, respectively. Fiscal year 2026 will be comprised of 53 weeks and will end on July 3, 2026. 
+
+Our Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is provided in addition to the accompanying Consolidated Financial Statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. Our MD&#38;A is organized as follows: 
+
+&#8226; Overview of Fiscal Year 2025. Highlights of events in fiscal year 2025 that impacted our financial position. 
+
+&#8226; Results of Operations. Analysis of our financial results comparing fiscal years 2025 and 2024. 
+
+&#8226; Liquidity and Capital Resources. Analysis of changes in our balance sheets and cash flows and discussion of our financial condition, including potential sources of liquidity, material cash requirements and their general purpose. 
+
+&#8226; Critical Accounting Policies and Estimates. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. 
+
+For an overview of our business, see &#8220;Part I, Item 1. Business.&#8221; 
+
+Overview of Fiscal Year 2025 
+
+During fiscal year 2025, we shipped 595 exabytes of HDD storage capacity. We generated revenue of approximately $9.1 billion with a gross margin of 35% and net income of $1.5 billion. Our operating cash flow was $1.1 billion and we paid $600 million in dividends. We issued $400 million principal amount of senior notes, repaid $479 million principal amount of the 2025 Notes and $505 million of the 2027 Notes, as well as repurchased $99 million principal amount of certain senior notes. Additionally, we acquired Intevac, Inc. (&#8220;Intevac&#8221;), a supplier of thin-film processing systems, for a net cash outlay of $47 million. 
+
+Recent Developments, Economic Conditions and Challenges 
+
+During fiscal year 2025, we experienced a significant increase in demand for our high capacity nearline drives primarily from cloud customers. At the same time, we have continued to operate in a dynamic macroeconomic environment marked by rapid shifts in trade policies and increasing geopolitical tensions. These factors may impact our business and results of operations. We will continue to monitor the situation and assess plans to mitigate future risk to the business. Over the long-term we expect our hard drive storage business to benefit from future growth in data demand and data value, including from the adoption of Generative AI applications. 
+
+For a further discussion of the uncertainties and business risks, see &#8220;Part I, Item 1A. Risk Factors&#8221; of our Annual Report. 
+
+Results of Operations 
+
+We list in the tables below summarized information from our Consolidated Statements of Operations by dollar amounts and as a percentage of revenue: 
+
+##TABLE_START &#160; Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Revenue $ 9,097 $ 6,551 Cost of revenue 5,897 5,015 Gross profit 3,200 1,536 Product development 724 654 Marketing and administrative 561 460 Restructuring and other, net 25 (30) Income from operations 1,890 452 Other expense, net (377) (7) Income before income taxes 1,513 445 Provision for income taxes 44 110 Net income $ 1,469 $ 335 ##TABLE_END
+
+##TABLE_START &#160; Fiscal Years Ended June 27, 2025 June 28, 2024 Revenue 100 % 100 % Cost of revenue 65 77 Gross margin 35 23 Product development 8 10 Marketing and administrative 6 7 Restructuring and other, net &#8212; &#8212; Operating margin 21 6 Other expense, net (4) &#8212; Income before income taxes 17 6 Provision for income taxes 1 2 Net income 16 % 4 % ##TABLE_END
+
+Revenue 
+
+The following table summarizes information regarding consolidated revenues by channel, geography, and market and HDD exabytes shipped by market and price per terabyte: 
+
+##TABLE_START &#160; Fiscal Years Ended June 27, 2025 June 28, 2024 Revenues by Channel (%) &#160; &#160; OEMs 80 % 75 % Distributors 12 % 15 % Retailers 8 % 10 % 
+
+Revenues by Geography (%) (1) 
+
+&#160; &#160; Asia Pacific 41 % 53 % Americas 49 % 35 % EMEA 10 % 12 % Revenues by Market (%) Mass capacity 81 % 72 % Legacy 12 % 18 % Other 7 % 10 % HDD Exabytes Shipped by Market Mass capacity 552 355 Legacy 43 43 Total 595 398 HDD Price per Terabyte $ 14 $ 15 ##TABLE_END
+
+________________________________________________ 
+
+(1) Revenue is attributed to geography based on the bill from location. 
+
+##TABLE_START Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Change % Change Revenue $ 9,097 $ 6,551 $ 2,546 39 % ##TABLE_END
+
+Revenue in fiscal year 2025 increased approximately 39%, or $2.5 billion, from fiscal year 2024, primarily due to an increase in mass capacity exabytes shipped as we experienced higher demand in particular for our nearline cloud products and favorable pricing actions undertaken by the Company. 
+
+Cost of Revenue and Gross Margin 
+
+##TABLE_START &#160; Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Change % Change Cost of revenue $ 5,897 $ 5,015 $ 882 18 % Gross profit 3,200 1,536 1,664 108 % Gross margin 35 % 23 % &#160; &#160; ##TABLE_END
+
+For fiscal year 2025, gross margin increased by 12 percentage points compared to the prior fiscal year primarily driven by favorable product mix and pricing actions undertaken by the Company, a decrease of $96 million of supply related purchase order cancellation fees, as well as $160 million of factory underutilization charges and $13 million of accelerated depreciation expense for certain capital equipment that did not recur in fiscal year 2025, partially offset by $13 million of restructuring costs related to an inventory write down due to a discontinued product line in the fiscal year 2025. 
+
+Warranty cost related to new shipments was 0.7%, 0.8% and 0.7% of revenue for the fiscal years 2025 , 2024 and 2023 , respectively. 
+
+Operating Expenses 
+
+##TABLE_START &#160; Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Change % Change Product development $ 724 $ 654 $ 70 11 % Marketing and administrative 561 460 101 22 % Restructuring and other, net 25 (30) 55 * Operating expenses $ 1,310 $ 1,084 $ 226 ##TABLE_END
+
+______________________________ 
+
+*Not a meaningful figure 
+
+Product Development Expense. Product development expenses for fiscal year 2025 increased by $70 million from fiscal year 2024 primarily due to a $64 million increase in compensation and other employee benefits as a result of the variable compensation expense recognized i n fiscal year 2025 and temporary salary reductions in fiscal year 2024, a $9 million increase in facility costs, a $5 million increase in equipment expense and a $4 million increase in outside services, partially offset by a $13 million decrease in material expenses. 
+
+Marketing and Administrative Expense. Marketing and administrative expenses for fiscal year 2025 increased by $101 million from fiscal year 2024 primarily due to a $84 million increase in compensation and other employee benefits as a result of the variable compensation expense recognized in fiscal year 2025 and temporary salary reductions in fiscal year 2024, a $7 million increase in travel expenses, a $7 million increase in outside services expense and a $3 million increase in advertising costs. 
+
+Restructuring and Other, net. We recorded $38 million of restructuring charges in fiscal year 2025, of which $13 million was recorded to Cost of revenue and $25 million recorded to Restructuring and other, net, respectively, primarily related to an inventory write down due to a discontinued product line, employee related termination benefits and right-of-use (&#8220;ROU&#8221;) asset impairment charges. 
+
+Other Expense, net 
+
+##TABLE_START &#160; Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Change % Change Other expense, net $ 377 $ 7 $ 370 * ##TABLE_END
+
+______________________________ 
+
+*Not a meaningful figure 
+
+Other expense, net for fiscal year 2025 primarily related to $321 million of interest expense and $53 million loss on investments. Other expense, net for fiscal year 2024 primarily related to $332 million of interest expense, $52 million loss on investments and $29 million net loss from debt transactions, partially offset by a $313 million gain from the sale of System-on-Chip (&#8220;SoC&#8221;) operations and $104 million net gain from termination of interest rate swap. 
+
+Income Taxes ##TABLE_START &#160; Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Change % Change Provision for income taxes $ 44 $ 110 $ (66) (60) % ##TABLE_END
+
+We recorded an income tax provis ion of $44 million fo r fiscal year 2025 compared to an income tax provision of $110 million for fiscal year 2024 . 
+
+We established Singapore as our principal executive offices in fiscal year 2024. Our parent holding company owns various U.S. and non-Singaporean subsidiaries that operate in multiple non-Singaporean income tax jurisdictions. Our worldwide operating income is either subject to varying rates of income tax or is exempt from income tax due to tax incentive programs we operate under in Singapore and Thailand . 
+
+Our income tax provision recorded for fiscal years 2025 differed from the provision for income taxes that would be derived by applying the Singaporean statutory rate of 17% to income before income taxes, primarily due to the net effect of (i) tax benefits related to earnings generated in jurisdictions that are subject to tax incentive programs and (ii) changes in valuation allowance. 
+
+Our income tax provision recorded for fiscal years 2024 differed from the provision for income taxes that would be derived by applying the Singaporean statutory rate of 17% to income before income taxes, primarily due to the net effect of (i) changes in valuation allowance and (ii) current year generation of research credits. 
+
+On July 4, 2025 the One Big Beautiful Bill Act (&#8220;OBBBA&#8221;) was enacted in the U.S. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework, and the restoration of favorable tax treatment for certain business provisions. The legislation has multiple effective dates, with certain provisions effective in fiscal year 2026 and others implemented through fiscal year 2028. We are currently assessing its impact on our consolidated financial statements. 
+
+Liquidity and Capital Resources 
+
+The following sections discuss our principal liquidity requirements, as well as our sources and uses of cash and our liquidity and capital resources. Our cash and cash equivalents are maintained in investments with remaining maturities of 90 days or less at the time of purchase. The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We believe our cash equivalents are liquid and accessible. We operate in some countries that have restrictive regulations over the movement of cash and/or foreign exchange across their borders. However, we believe our sources of cash will continue to be sufficient to fund our operations and meet our cash requirements for the next 12 months. Although there can be no assurance, we believe that our financial resources, along with controlling our costs and capital expenditures, will allow us to manage the ongoing impact of market demand disruptions on our business operations for the foreseeable future. However, some challenges to our industry and to our business continue to remain uncertain and cannot be predicted at this time. Consequently, we will continue to evaluate our financial position in light of future developments, particularly those relating to the global economic factors. 
+
+We are not aware of any downgrades, losses or other significant deterioration in the fair value of our cash equivalents from the values reported as of June 27, 2025. For additional information on risks and factors that could impact our ability to fund our operations and meet our cash requirements among others, see &#8220;Part I, Item 1A. Risk Factors&#8221; of our Annual Report. 
+
+Cash and Cash Equivalents 
+
+##TABLE_START &#160; As of (Dollars in millions) June 27, 2025 June 28, 2024 Change Cash and cash equivalents $ 891 $ 1,358 $ (467) ##TABLE_END
+
+The following table summarizes results from the Consolidated Statements of Cash Flows for the periods indicated: 
+
+##TABLE_START &#160; Fiscal Years Ended (Dollars in millions) June 27, 2025 June 28, 2024 Net cash flow provided by (used in): &#160; &#160; Operating activities $ 1,083 $ 918 Investing activities (276) 126 Financing activities (1,274) (473) Effect of foreign currency exchange rates &#8212; 1 Net (decrease) increase in cash, cash equivalents and restricted cash $ (467) $ 572 ##TABLE_END
+
+Cash Provided by Operating Activities 
+
+Cash provided by operating activities for fiscal year 2025 was $1.1 billion and includes the effects of net income adjusted for non-cash items including depreciation, amortization, share-based compensation, and the following major working capital related movements: 
+
+&#8226; an increase of $513 million in accounts receivable, primarily due to higher revenue and lower accounts receivable factoring; 
+
+&#8226; a decrease of $242 million in accounts payable, primarily due to timing of payments; and 
+
+&#8226; an increase of $201 million in inventory, primarily due to an increase in purchased materials and finished goods inventory; partially offset by 
+
+&#8226; an increase of $207 million in accrued employee compensation, primarily due to an increase in our variable compensation expense. 
+
+Cash provided by operating activities for fiscal year 2024 was $918 million and includes the effects of net income adjusted for non-cash items including depreciation, amortization, share-based compensation, net gain from business divestiture, and the following major working capital related movements: 
+
+&#8226; an increase of $243 million in other assets and liabilities, primarily related to the restructuring of pre-existing purchase agreements as a result of the sale of SoC operations; 
+
+&#8226; an increase of $227 million in accounts payable, primarily due to timing of payments; 
+
+&#8226; a decrease of $192 million in accounts receivable, primarily due to lower revenue and higher accounts receivable factoring; and 
+
+&#8226; an increase of $25 million cash proceeds received from the settlement of certain interest rate swap agreements; partially offset by 
+
+&#8226; a decrease of $183 million in accrued expenses primarily due to lower restructuring activities; and 
+
+&#8226; an increase of $99 million in inventories, primarily due to an increase in raw materials and work in progress inventory. 
+
+Cash Used in Investing Activities 
+
+In fiscal year 2025, we used $276 million ne t cash for investing activities, which was primarily due to payments for the purchase of property, equipment and leasehold improvements of $265 million and net cash used in the acquisition of Intevac of $47 million, which includes proceeds from the sale of Intevac&#8217;s investments post-acquisition (refer to &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 17. Acquisition and Divestiture &#8221; for more details), offset by $10 million from the sale of equity investments, and $25 million from the proceeds of business divestiture. 
+
+In fiscal year 2024, we received $126 million for net cash investing activities, which was primarily due to the proceeds from the sale of SoC operations of $326 million, $40 million from the sale of assets and $14 million from the sale of investments, offset by payments for the purchase of property, equipment and leasehold improvements of $254 million. 
+
+Cash Used in Financing Activities 
+
+Net cash used in financing activities of $1.3 billion for fiscal year 2025 was primarily attributable to the following activities: 
+
+&#8226; $1.1 billion repurchases of long-term debt; 
+
+&#8226; $600 million in dividend payments; 
+
+&#8226; $54 million taxes paid related to net share settlement of equity awards; and 
+
+&#8226; $14 million debt fees relating to issuance and repurchase of long-term debt; partially offset by 
+
+&#8226; $400 million in net proceeds from the issuance of long-term debt; and 
+
+&#8226; $72 million in proceeds from the issuance of ordinary shares under employee stock plans. 
+
+Net cash used in financing activities of $473 million for fiscal year 2024 was primarily attributable to the following activities: 
+
+&#8226; $1.3 billion repurchases of long-term debt; 
+
+&#8226; $585 million in dividend payments; 
+
+&#8226; $128 million debt fees relating to issuance of long-term debt and capped call transactions; and 
+
+&#8226; $38 million taxes paid related to net share settlement of equity awards; partially offset by 
+
+&#8226; $1.5 billion in proceeds from the issuance of long-term debt; and 
+
+&#8226; $66 million in proceeds from the issuance of ordinary shares under employee stock plans. 
+
+Liquidity Sources 
+
+Our primary sources of liquidity as of June 27, 2025, consist of: (1) approximately $891 million in cash and cash equivalents, (2) cash we expect to generate from operations and (3) $1.3 billion available for borrowing under our senior unsecured revolving credit facility (&#8220;Revolving Credit Facility&#8221;), which is part of our New Credit Agreement (as defined in &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 4. Debt &#8221; for more details). 
+
+As of June 27, 2025, no borrowings (including swing line loans) were outstanding and no commitments were utilized for letters of credit issued under the Revolving Credit Facility. The Revolving Credit Facility is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing. 
+
+As of June 27, 2025, the New Credit Agreement includes one financial covenant, net leverage ratio. We continue to evaluate our debt portfolio and structure to comply with our financial debt covenants. As of June 27, 2025, we were in compliance with all of the covenants under our debt agreements. Refer to &#8220;Part II, Item 8. Financial Statements&#8212; Note 4. Debt &#8221; for more details. 
+
+We believe that our sources of cash will be sufficient to fund our operations and meet our cash requirements for at least the next 12 months. Our ability to fund liquidity requirements beyond 12 months will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control. 
+
+For additional information on risks and factors that could impact our ability to fund our operations and meet our cash requirements, among others, see &#8220;Part I, Item 1A. Risk Factors&#8221; of this Annual Report. 
+
+Cash Requirements and Commitments 
+
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend and any future strategic investments. 
+
+Purchase obligations 
+
+Purchase obligations are defined as contractual obligations for the purchase of goods or services, which are enforceable and legally binding on us, and that specify all significant terms. From time to time, we enter into long-term, non-cancelable purchase commitments or make large up-front investments with certain suppliers in order to secure certain components or technologies for the production of our products or to supplement our internal manufacturing capacity for certain components. As of June 27, 2025, we had unconditional purchase obligations of app roximately $1.3 billion, primarily related to purchases of inventory components with our suppliers. We expect $1.2 billion of these co mmitments to be paid within one year. In addition, we also had certain long-term market share based non-cancellable inventory purchase commitments as of June 27, 2025. 
+
+Capital expenditures 
+
+We incur material capital expenditures to design and manufacture our products that depend on advanced technologies and manufacturing techniques. As of June 27, 2025, we had unconditional commitments of $151 million primarily related to purchases of equipment, of which approximately $105 million is expected to be paid within one y ear. For fiscal year 2026, we expect capital expenditures to be higher than fiscal year 2025. 
+
+Operating leases 
+
+We are a lessee in several operating leases related to real estate facilities for warehouse, office and lab space. As of June 27, 2025, the amount of future minimum rent expense for both occupied and vacated facilities under non-cancelable operating lease contracts was $516 million, of which $64 million is expected to be paid within one year. Refer to &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 6. Leases &#8221; for details. 
+
+Long-term debt and interest payments on debt 
+
+As of June 27, 2025, the future principal payment obligation on our long-term debt was $5.0 billion, which will mature in more than one year. As of June 27, 2025, future interest payments on this outstanding debt is estimated to be approximately $1.8 billion, of which $313 million is expected to be paid within one year. Subsequent to our Consolidated Balance Sheet date, on June 30, 2025, the conditional conversion feature of the 2028 Notes was triggered in accordance with the terms of the 2028 Notes indenture. Accordingly, the 2028 Notes are exchangeable through September 30, 2025. From time to time, we may repurchase, redeem or otherwise extinguish any of our outstanding senior notes in open market or privately negotiated purchases or o therwise, or we may repurchase or redeem outstanding senior notes pursuant to the terms of the applicable indenture. Refer to &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 4. Debt &#8221; for more details. 
+
+BIS settlement penalty 
+
+We accrued a settlement penalty of $300 million for fiscal year 2023, related to BIS&#8217; allegations of violations of the U.S. EAR, which were subsequently resolved by the Settlement Agreement in April 2023. As part of the Settlement Agreement with BIS, quarterly payments of $15 million are made over the course of five years beginning October 31, 2023, of which $60 million is expected to be paid within one year and $135 million thereafter. Refer to &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 13. Legal, Environmental and Other Contingencies &#8221; for more details. 
+
+Restructuring 
+
+During the fiscal year ended June 27, 2025, we made cash payments of $14 million, primarily related to workforce reduction costs under our restructuring plans. 
+
+As of June 27, 2025, the future cash payments related to our remaining active restructuring plans were immaterial. 
+
+Income Tax 
+
+As of June 27, 2025, we had an immaterial liability for unrecognized tax benefits, none of which is expected to be settled within one year. Outside of one year, we are unable to make a reasonably reliable estimate of when cash settlement with a taxing authority will occur. 
+
+Dividends 
+
+On July 29, 2025, our Board of Directors declared a quarterly cash dividend of $0.72 per share, which will be payable on October 9, 2025 to shareholders of record as of the close of business on September 30, 2025. Our ability to pay dividends in the future will be subject to, among other things, general business conditions within the data storage industry, our financial results, the impact of paying dividends on our credit ratings and legal and contractual restrictions on the payment of dividends by our subsidiaries to us or by us to our ordinary shareholders, including restrictions imposed by covenants on our debt instruments. 
+
+Share repurchases 
+
+From time to time, at our discretion, we may repurchase any of our outstanding ordinary shares through private, open market, or broker assisted purchases, tender offers, or other means, including through the use of derivative transactions. During fiscal year 2025, we repurchased approximately 1 million of our ordinary shares including shares withheld for statutory tax withholdings related to vesting of employee equity awards. See &#8220;Item 5. Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities-Repurchases of Our Equity Securities.&#8221; As of June 27, 2025, $5.0 billion remained available for repurchase under our existing repurchase authorization limit. We may limit or terminate the repurchase program at any time. All repurchases are effected as redemptions in accordance with our Constitution. 
+
+We require substantial amounts of cash to fund any increased working capital requirements, future capital expenditures, scheduled payments of principal and interest on our indebtedness and payments of dividends. We will continue to evaluate and manage the retirement and replacement of existing debt and associated obligations, including evaluating the issuance of new debt securities, exchanging existing debt securities for other debt securities and retiring debt pursuant to privately negotiated transactions, open market purchases, tender offers or other means or otherwise. In addition, we may selectively pursue strategic alliances, acquisitions, joint ventures and investments, which may require additional capital. 
+
+Critical Accounting Policies and Estimates 
+
+The Company&#8217;s accounting policies are more fully described in &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 1. Basis of Presentation and Summary of Significant Accounting Policies &#8221;. The methods, estimates and judgments we use in applying our most critical accounting policies have a significant impact on the results we report in our Consolidated Financial Statements. Critical accounting estimates are those estimates that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our financial condition or results of operations. Based on this definition, our most critical accounting policies include: Revenue - Sales Program Accruals and Income Taxes. Below, we discuss these policies further, as well as the estimates and judgments involved. We also have other accounting policies and accounting estimates relating to warranty, valuation of inventories, assessing goodwill and other long-lived assets for impairment, valuation of share-based payments and restructuring. We believe that these other accounting policies and accounting estimates either do not generally require us to make estimates and judgments that are as difficult or as subjective, or it is less likely that they would have a material impact on our reported results of operations for a given period. 
+
+Revenue - Sales Program Accruals. We record estimated variable consideration at the time of revenue recognition as a reduction to revenue. Variable consideration generally consists of expected rebates to be provided in relation to sales incentive programs, such as price protection and volume incentives aimed at increasing customer demand. For OEM sales, rebates are typically established by estimating the most likely amount of consideration expected to be received based on an OEM customer's volume of purchases from us or other agreed upon rebate programs. For the distribution and retail channel, these sales incentive programs typically involve estimating the most likely amount of rebates based on historical price incentives, known future price trends, and channel inventory level. Total sales programs were 14% and 16% of gross revenue in fiscal years 2025 and 2024, respectively. Adjustments to revenues due to under or over accruals for sales programs related to revenues reported in prior periods were less than 1% of gross revenue in fiscal years 2025 and 2024. 
+
+Income Taxes. We mak e certain estimates and judgments in determining income tax expense for financial statement purposes. These estimates and judgments occur in the calculation of tax credits, recognition of income and deductions and 
+
+calculation of specific tax assets and liabilities, which arise from differences in the timing of recognition of revenue and expense for income tax and financial statement purposes, as well as tax liabilities associated with uncertain tax positions. 
+
+The deferred tax assets we record each period depend primarily on our ability to generate future taxable income in the United States and certain non-U.S. jurisdictions. Each period, we evaluate the need for a valuation allowance for our deferred tax assets and, if necessary, adjust the valuation allowance so that net deferred tax assets are recorded only to the extent we conclude it is more likely than not that these deferred tax assets will be realized. 
+
+In evaluating our ability to recover our deferred tax assets, in full or in part, we consider all available positive and negative evidence, including our past operating results, and our forecast of future earnings, future taxable income and prudent and feasible tax planning strategies. The assumptions utilized in determining future taxable income require significant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses. Actual operating results in future years could differ from our current assumptions, judgments, and estimates. If our outlook for future taxable income changes significantly, our assessment of the need for, and the amount of, a valuation allowance may also change resulting in an additional tax provision or benefit. 
+
+Recent Accounting Pronouncements 
+
+See &#8220;Item 8. Financial Statements and Supplementary Data&#8212; Note 1. Basis of Presentation and Summary of Significant Accounting Policies&#8221; for information regarding the effect of new accounting pronouncements on our financial statements. 
+

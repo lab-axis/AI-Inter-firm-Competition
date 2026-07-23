@@ -1,0 +1,1174 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements &#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading &#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+All referen ces to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries. 
+
+NVIDIA, the NVIDIA logo, CUDA, CUDA-X AI, GeForce, GeForce GTX, GeForce RTX, GeForce RTX SUPER, NVIDIA DGX, NVIDIA DGX SuperPOD, NVIDIA DRIVE, NVIDIA DRIVE Constellation, NVIDIA GRID, NVIDIA Omniverse, NVIDIA RTX, NVIDIA Turing, Quadro, Quadro RTX, Tegra and Tesla are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 6. Selected Financial Data&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and &#8220;Item 1A. Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+Overview 
+
+Our Company and Our Businesses 
+
+Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI. 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying architecture. From our proprietary processors, we have designed, created, and marketed platforms that address four large markets where our expertise is critical: Gaming, Professional Visualization, Data Center, and Automotive. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+Second Quarter of Fiscal Year 2020 Summary 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+April 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+Quarter-over-Quarter Change 
+
+&#160; 
+
+Year-over-Year Change 
+
+&#160; 
+
+($ in millions, except per share data) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+2,579 
+
+&#160; 
+
+$ 
+
+2,220 
+
+&#160; 
+
+$ 
+
+3,123 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(17 
+
+)% 
+
+Gross margin 
+
+59.8 
+
+% 
+
+&#160; 
+
+58.4 
+
+% 
+
+&#160; 
+
+63.3 
+
+% 
+
+&#160; 
+
+140 bps 
+
+&#160; 
+
+(350) bps 
+
+Operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160;% 
+
+Income from operations 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,157 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(51 
+
+)% 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,101 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(50 
+
+)% 
+
+Net income per diluted share 
+
+$ 
+
+0.90 
+
+&#160; 
+
+$ 
+
+0.64 
+
+&#160; 
+
+$ 
+
+1.76 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(49 
+
+)% 
+
+Revenue for the second quarter of fiscal year 2020 decreased 17% year over year and increased 16% sequentially. 
+
+GPU business revenue was $2.10 billion , down 21% from a year earlier and up 4% sequentially. 
+
+Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $475 million , up 2% from a year ago and up 140% sequentially. 
+
+From a market-platforms perspective, Gaming revenue was $1.31 billion , down 27% from a year ago and up 24% sequentially. The year-on-year decrease reflects a decline in shipments of gaming desktop GPUs and SOC modules for gaming platforms, partially offset by growth in gaming notebook GPUs. The sequential increase reflects growth from SOC modules for gaming platforms, gaming notebook GPUs, and GeForce RTX SUPER gaming GPUs. 
+
+Professional Visualization revenue was $291 million , up 4% from a year earlier and up 9% sequentially. The year-on-year and sequential growth reflects strength across mobile workstation products. 
+
+Data Center revenue was $655 million , down 14% from a year ago and up 3% sequentially. The year-on-year decline reflects lower hyperscale revenue. The sequential increase was due to enterprise revenue growth driven by expanding AI workloads. 
+
+Automotive revenue of $209 million was up 30% from a year earlier and up 26% sequentially. The year-on-year and sequential growth was primarily driven by a development services agreement in the second quarter of fiscal year 2020. The growth in revenue also reflected AI cockpit solutions and other autonomous vehicle development agreements. 
+
+OEM and Other revenue was $111 million , down 4% from a year ago and up 12% sequentially. The sequential increase was primarily due to growth in shipments of embedded edge AI products. 
+
+Gross margin for the second quarter of fiscal year 2020 was 59.8% , down 350 basis points from a year earlier and up 140 basis points sequentially. The year-on-year decrease reflects lower Gaming and Data Center margins, driven primarily by product costs. The sequential increase reflects automotive development services, a favorable mix in Gaming, and lower component costs. 
+
+Operating expenses for the second quarter of fiscal year 2020 were $970 million , up 19% from a year earlier and up 3% sequentially, reflecting primarily employee additions and increases in employee compensation and other related costs, including infrastructure costs. 
+
+Income from operations for the second quarter of fiscal year 2020 was $571 million , down 51% from a year earlier and up 59% sequentially. Net income and net income per diluted share for the second quarter of fiscal year 2020 were $552 million and $0.90 , respectively, down 50% and 49%, respectively, from a year earlier, and up 40% and 41%, respectively, sequentially. The year-on-year decrease reflects lower revenue and gross margin, and higher operating expenses. The sequential increase reflects higher revenue and gross margin. 
+
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019. In the first half of fiscal year 2020, we returned $195 million in quarterly cash dividends. We intend to return the remaining $2.11 billion through a combination of share repurchases and cash dividends. We do not expect to repurchase shares prior to the close of the acquisition of Mellanox Technologies, Ltd., or Mellanox, and therefore the intended repurchases may extend into fiscal year 2021. 
+
+Cash, cash equivalents and marketable securities were $8.47 billion as of July 28, 2019 , compared with $7.42 billion as of January 27, 2019. The increase was primarily related to growth in operating cash flow. 
+
+On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement. The closing of the merger is subject to approval by regulatory agencies. If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million . We have received regulatory approval in the United States and Mexico and are engaged with regulators in Europe and China. In June 2019, Mellanox shareholders approved the merger. 
+
+GPU Business 
+
+During the second quarter of fiscal year 2020 , in our Gaming platform, we introduced GeForce RTX 2060 SUPER, GeForce RTX 2070 SUPER and GeForce RTX 2080 SUPER to our GeForce GPU lineup; accelerated the momentum of ray-tracing games by supporting newly announced blockbuster titles; introduced new RTX Studio laptops powered by GeForce RTX and Quadro RTX GPUs for online and studio-based creatives and prosumers; and announced OEMs will be launching additional gaming laptops incorporating NVIDIA GeForce Turing GPUs. 
+
+In our Professional Visualization platform, we rolled out a full range of Turing architecture-based Quadro GPUs for mobile workstations, also incorporating ray tracing for product design, architecture, effects and scientific visualization. 
+
+In our Data Center platform, we announced NVIDIA's DGX SuperPOD, which provides the AI infrastructure for our autonomous-vehicle development program; set eight records in AI training performance in the latest MLPerf benchmarking tests; and announced support for Arm CPUs, providing a new path to build highly energy-efficient, AI-enabled exascale supercomputers. 
+
+During the first quarter of fiscal year 2020, in our Gaming platform, we introduced the GeForce GTX 1660 Ti, GTX 1660 and GTX 1650 gaming GPUs with improved performance and efficiency for today&#8217;s most popular games; announced a number of gaming laptop models based on Turing GPUs from top makers; and announced that real-time ray tracing is now integrated into Unreal Engine and Unity commercial game engines. 
+
+In our Professional Visualization platform, we announced expanded adoption of NVIDIA RTX ray-tracing technology by top 3D application providers and unveiled the NVIDIA Omniverse open-collaboration platform to simplify creative workflows for content creation. 
+
+In our Data Center platform, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and Amazon Web Services; partnered with global system builders to create powerful data-science workstations integrating NVIDIA Quadro RTX GPUs and NVIDIA CUDA-X AI; and launched beta access to NVIDIA Quadro Virtual Workstation software in the Alibaba Cloud Marketplace. 
+
+Tegra Processor Business 
+
+During the second quarter of fiscal year 2020 , in our Automotive platform, Volvo Group announced that it is using the NVIDIA DRIVE end-to-end autonomous driving platform to train networks in the data center, test them in simulation, and deploy them in self-driving vehicles, targeting freight transport, refuse and recycling collection, public transport, construction, mining, forestry and more. 
+
+During the first quarter of fiscal year 2020, in our Automotive platform, we announced that we are partnering with Toyota Research Institute-Advanced Development to develop, train and validate self-driving vehicles; unveiled the NVIDIA DRIVE AP2X automated driving solution, encompassing DRIVE AutoPilot software, DRIVE AGX and DRIVE validation tools; introduced NVIDIA DRIVE AV Safety Force Field to enable safe, comfortable driving experiences; and announced availability of the NVIDIA DRIVE Constellation autonomous vehicle simulation platform. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Refer to Note 1 5 of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information. 
+
+Results of Operations 
+
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+Revenue 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of revenue 
+
+40.2 
+
+&#160; 
+
+36.7 
+
+&#160; 
+
+40.9 
+
+&#160; 
+
+36.1 
+
+Gross profit 
+
+59.8 
+
+&#160; 
+
+63.3 
+
+&#160; 
+
+59.1 
+
+&#160; 
+
+63.9 
+
+Operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+27.3 
+
+&#160; 
+
+18.6 
+
+&#160; 
+
+28.7 
+
+&#160; 
+
+17.8 
+
+Sales, general and administrative 
+
+10.3 
+
+&#160; 
+
+7.7 
+
+&#160; 
+
+11.0 
+
+&#160; 
+
+7.4 
+
+Total operating expenses 
+
+37.6 
+
+&#160; 
+
+26.3 
+
+&#160; 
+
+39.7 
+
+&#160; 
+
+25.2 
+
+Income from operations 
+
+22.2 
+
+&#160; 
+
+37.0 
+
+&#160; 
+
+19.4 
+
+&#160; 
+
+38.7 
+
+Interest income 
+
+1.8 
+
+&#160; 
+
+1.0 
+
+&#160; 
+
+1.9 
+
+&#160; 
+
+0.9 
+
+Interest expense 
+
+(0.5 
+
+) 
+
+&#160; 
+
+(0.4 
+
+) 
+
+&#160; 
+
+(0.6 
+
+) 
+
+&#160; 
+
+(0.5 
+
+) 
+
+Other, net 
+
+&#8212; 
+
+&#160; 
+
+0.2 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+0.2 
+
+Total other income (expense) 
+
+1.3 
+
+&#160; 
+
+0.8 
+
+&#160; 
+
+1.3 
+
+&#160; 
+
+0.6 
+
+Income before income tax 
+
+23.5 
+
+&#160; 
+
+37.8 
+
+&#160; 
+
+20.7 
+
+&#160; 
+
+39.3 
+
+Income tax expense 
+
+2.1 
+
+&#160; 
+
+2.5 
+
+&#160; 
+
+1.0 
+
+&#160; 
+
+2.3 
+
+Net income 
+
+21.4 
+
+&#160;% 
+
+&#160; 
+
+35.3 
+
+&#160;% 
+
+&#160; 
+
+19.7 
+
+&#160;% 
+
+&#160; 
+
+37.0 
+
+&#160;% 
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+($ in millions) 
+
+GPU 
+
+$ 
+
+2,104 
+
+&#160; 
+
+$ 
+
+2,656 
+
+&#160; 
+
+$ 
+
+(552 
+
+) 
+
+&#160; 
+
+(21 
+
+)% 
+
+&#160; 
+
+$ 
+
+4,126 
+
+&#160; 
+
+$ 
+
+5,421 
+
+&#160; 
+
+$ 
+
+(1,295 
+
+) 
+
+&#160; 
+
+(24 
+
+)% 
+
+Tegra Processor 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(236 
+
+) 
+
+&#160; 
+
+(26 
+
+)% 
+
+Total 
+
+$ 
+
+2,579 
+
+&#160; 
+
+$ 
+
+3,123 
+
+&#160; 
+
+$ 
+
+(544 
+
+) 
+
+&#160; 
+
+(17 
+
+)% 
+
+&#160; 
+
+$ 
+
+4,799 
+
+&#160; 
+
+$ 
+
+6,330 
+
+&#160; 
+
+$ 
+
+(1,531 
+
+) 
+
+&#160; 
+
+(24 
+
+)% 
+
+GPU Business. GPU business revenue decreased by 21% in the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019 , which reflects declines in gaming GPU and Data Center revenue. GeForce GPU product sales for gaming decreased 29%, reflecting a decline in shipments of gaming desktop GPUs partially offset by revenue growth in gaming notebook GPUs. Data Center revenue, including Tesla, GRID and DGX, decreased 14%, primarily reflecting a decline in hyperscale revenue partially offset by enterprise revenue growth, driven by expanding AI workloads. Revenue from Quadro GPUs for professional visualization increased 4%, primarily reflecting strength across mobile workstation products. Our PC OEM revenue decreased by 4%, primarily driven by the absence of cryptocurrency mining processor sales. 
+
+GPU business revenue decreased by 24% in the first half of fiscal year 2020 compared to the first half of fiscal year 2019 , which reflects declines in gaming GPU and Data Center revenue. GeForce GPU product sales for gaming decreased 29%, reflecting a decline in shipments of gaming desktop GPUs partially offset by growth in gaming notebook GPUs. Data Center revenue, including Tesla, GRID and DGX, decreased 12%, primarily reflecting a decline in hyperscale revenue partially offset by enterprise revenue growth driven by expanding AI workloads. Revenue from Quadro GPUs for professional visualization increased 5% due primarily reflecting strength across mobile workstation products. Our PC OEM revenue decreased by 58% primarily driven by the absence of cryptocurrency mining processor sales. 
+
+Tegra Processor Business. Tegra Processor business revenue increased by 2% for the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019 . This was driven by an increase of 30% in Automotive revenue primarily 
+
+driven by a development services agreement in the second quarter of fiscal year 2020. The growth in Automotive revenue also reflected AI cockpit solutions and other autonomous vehicle development agreements. The increase in Automotive revenue was partially offset by a decline in revenue from SOC modules for gaming platforms. 
+
+Tegra Processor business revenue decreased by 26% for the first half of fiscal year 2020 compared to the first half of fiscal year 2019 . This was driven by a decline in revenue from SOC modules for gaming platforms, which was partially offset by an increase of 23% in Automotive revenue. Growth in Automotive revenue primarily reflects a development services agreement in the second quarter of fiscal year 2020, AI cockpit solutions, and other autonomous vehicle development agreements. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States accounted for 93% of total revenue for the second quarter and first half of fiscal year 2020 . Revenue from sales to customers outside of the United States accounted for 87% of total revenue for the second quarter and first half of fiscal year 2019 . Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+One customer represented approximately 11% of our total revenue for the second quarter and the first half of fiscal year 2020 , and was attributable primarily to the GPU business. No customer represented 10% or more of total revenue for the second quarter and first half of fiscal year 2019 . 
+
+Gross Margin 
+
+Our overall gross margin decreased to 59.8% for the second quarter of fiscal year 2020 from 63.3% for the second quarter of fiscal year 2019 . Our overall gross margin decreased to 59.1% for the first half of fiscal year 2020 from 63.9% for the first half of fiscal year 2019 . These decreases reflect lower Gaming and Data Center margins, driven primarily by product costs. 
+
+Inventory provisions totaled $28 million and $21 million for the second quarter of fiscal years 2020 and 2019 , respectively. Sales of inventory that was previously written-off or written-down totaled $19 million and $12 million for the second quarter of fiscal years 2020 and 2019 , respectively. As a result, the overall net effect on our gross margin was an unfavorable impact of 0.4% and 0.3% for the second quarter of fiscal years 2020 and 2019 , respectively. 
+
+Inventory provisions totaled $72 million and $54 million for the first half of fiscal years 2020 and 2019 , respectively. Sales of inventory that was previously written-off or written-down totaled $31 million and $16 million for the first half of fiscal years 2020 and 2019 , respectively. As a result, the overall net effect on our gross margin was an unfavorable impact of 0.9% and 0.6% for the first half of fiscal years 2020 and 2019 , respectively. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+GPU Business. The gross margin of our GPU business decreased during the second quarter and first half of fiscal year 2020 compared to the second quarter and first half of fiscal year 2019 , primarily reflecting lower gaming GPU and data center margins driven by product costs. 
+
+Tegra Processor Business. The gross margin of our Tegra Processor business increased during the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019 , primarily driven by automotive development services. The gross margin of our Tegra Processor business decreased during the first half of fiscal year 2020 compared to the first half of fiscal year 2019, primarily due to mix shifts. 
+
+Operating Expenses 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+($ in millions) 
+
+&#160; 
+
+($ in millions) 
+
+Research and development expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,379 
+
+&#160; 
+
+$ 
+
+1,124 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+% of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+% of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,908 
+
+&#160; 
+
+$ 
+
+1,591 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Research and Development 
+
+Research and development expenses increased by 21% and 23% during the second quarter and first half of fiscal year 2020 , compared to the second quarter and first half of fiscal year 2019 , respectively, driven primarily by employee additions, increases in employee compensation and other related costs, including infrastructure costs and stock-based compensation expense. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 12% during the second quarter of fiscal year 2020 , compared to the second quarter of fiscal year 2019 , driven primarily by employee additions, increases in employee compensation and other related costs, including stock-based compensation expense and infrastructure costs. 
+
+Sales, general and administrative expenses increased by 13% during the first half of fiscal year 2020 , compared to the first half of fiscal year 2019 , driven primarily by costs related to our plans to acquire Mellanox, costs related to employee additions, and increases in employee compensation and other related costs, including stock-based compensation expense and infrastructure costs. 
+
+Total Other Income (Expense) 
+
+Interest Income and Interest Expense 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $47 million and $32 million during the second quarter of fiscal years 2020 and 2019 , respectively, and $92 million and $57 million during the first half of fiscal years 2020 and 2019 , respectively. The increase in interest income was primarily due to higher average invested balances, higher rates from our floating rate securities, and the purchase of new securities. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to the 2.20% Notes Due 2021 and 3.20% Notes Due 2026 issued in September 2016. Interest expense was $13 million and $14 million during the second quarters of fiscal years 2020 and 2019 , respectively, and $27 million and $29 million during the first half of fiscal years 2020 and 2019 , respectively. 
+
+Other, Net 
+
+Other, net, consists primarily of realized or unrealized gains and losses from non-affiliated investments, and the impact of changes in foreign currency rates. Other, net, was not significant during the second quarter or the first half of fiscal years 2020 and 2019 . 
+
+Income Taxes 
+
+We recognized an income tax expense of $54 million and $48 million for the second quarter and first half of fiscal year 2020 , respectively, and $79 million and $146 million for the second quarter and first half of fiscal year 2019 , respectively. The effective tax rate for the second quarter and first half of fiscal year 2020 was 8.8% and 4.9% respectively, and 6.7% and 5.9% for the second quarter and first half of fiscal year 2019 , respectively. 
+
+The increase in our effective tax rate for the second quarter of fiscal year 2020 as compared to the second quarter of fiscal year 2019 was primarily due to an increase in the amount of earnings subject to United States tax, and a decrease of tax benefits from stock-based compensation, partially offset by an increase in the impact of tax benefits from the U.S. federal research tax credit. The decrease in our effective tax rate for the first half of fiscal year 2020 as compared to the first half of fiscal year 2019 was primarily due to an increase in the impact of tax benefits from the U.S. federal research tax credit and stock-based compensation. 
+
+Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Liquidity and Capital Resources 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+7,105 
+
+&#160; 
+
+$ 
+
+Marketable securities 
+
+1,370 
+
+&#160; 
+
+6,640 
+
+Cash, cash equivalents and marketable securities 
+
+$ 
+
+8,475 
+
+&#160; 
+
+$ 
+
+7,422 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+July 29, 2018 
+
+&#160; 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+1,656 
+
+&#160; 
+
+$ 
+
+2,358 
+
+Net cash provided by (used in) investing activities 
+
+$ 
+
+5,040 
+
+&#160; 
+
+$ 
+
+(4,356 
+
+) 
+
+Net cash used in financing activities 
+
+$ 
+
+(373 
+
+) 
+
+&#160; 
+
+$ 
+
+(1,286 
+
+) 
+
+As of July 28, 2019 , we had $8.47 billion in cash, cash equivalents and marketable securities, an increase of $1.05 billion from the end of fiscal year 2019 . Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain limits on our portfolio duration. 
+
+Cash provided by operating activities decreased in the first half of fiscal year 2020 compared to the first half of fiscal year 2019 , due to lower net income, partially offset by changes in working capital. 
+
+Cash provided by investing activities increased in the first half of fiscal year 2020 compared to the first half of fiscal year 2019 , due to lower purchases of marketable securities and higher maturities and sales of marketable securities. 
+
+Cash used in financing activities decreased in the first half of fiscal year 2020 compared to the first half of fiscal year 2019 , due to lower share repurchases and lower tax payments related to employee stock plans. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. Our marketable securities consist of debt securities issued by the U.S. government and its agencies, highly rated corporations and financial institutions, asset-backed issuers, mortgage-backed securities by government-sponsored enterprises, and foreign government entities. These marketable securities are denominated in United States dollars. Refer to Note 7 of the Notes to Condensed Consolidated Financial Statements for additional information. 
+
+As a result of the Tax Cuts and Jobs Act, substantially all of our cash, cash equivalents and marketable securities held outside of the United States as of July 28, 2019 are available for use in the United States without incurring additional U.S. federal income taxes. 
+
+Capital Return to Shareholders 
+
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019. In the first half of fiscal year 2020, we returned $195 million in quarterly cash dividends. We intend to return the remaining $2.11 billion through a combination of share repurchases and cash dividends. We do not expect to repurchase shares prior to the close of the acquisition of Mellanox, and therefore the intended repurchases may extend into fiscal year 2021. As of July 28, 2019, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. Refer to Note 14 of the Notes to Condensed Consolidated Financial Statements for additional information. 
+
+Notes Due 2021 and Notes Due 2026 
+
+In fiscal year 2017, we issued $1.00 billion of the 2.20% Notes Due 2021 and $1.00 billion of the 3.20% Notes Due 2026, collectively, the Notes. The net proceeds from the Notes were $1.98 billion, after deducting debt discounts and issuance costs. 
+
+Revolving Credit Facility 
+
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million . As of July 28, 2019 , we had not borrowed any amounts under this agreement. 
+
+Commercial Paper 
+
+We have a $575 million commercial paper program to support general corporate purposes. As of July 28, 2019 , we had not issued any commercial paper. 
+
+Operating Capital and Capital Expenditure Requirements 
+
+In fiscal year 2019, we began construction on a 750 thousand square foot building on our Santa Clara campus, which is currently targeted for completion in fiscal year 2022. We believe that our existing cash and cash equivalents, marketable securities, anticipated cash flows from operations, and our available revolving credit facility or commercial paper program mentioned above will be sufficient to meet our operating requirements for at least the next twelve months. 
+
+Off-Balance Sheet Arrangements 
+
+As of July 28, 2019 , we had no material off-balance sheet arrangements as defined by applicable SEC regulations. 
+
+Contractual Obligations 
+
+There were no material changes in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 other than our proposed acquisition of Mellanox as described in Note 2 of the Notes to Condensed Consolidated Financial Statements. 
+
+Refer to Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a description of our contractual obligations. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Refer to Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019. There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and Item 1A of our Quarterly Report on Form 10-Q for the quarter ended April 28, 2019. 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and Item 1A of our Quarterly Report on Form 10-Q for the quarter ended April 28, 2019. Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+

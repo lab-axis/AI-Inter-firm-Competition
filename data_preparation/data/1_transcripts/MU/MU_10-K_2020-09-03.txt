@@ -1,0 +1,934 @@
+ ITEM 1. BUSINESS 
+
+Overview 
+
+Micron Technology, Inc., including its consolidated subsidiaries, is an industry leader in innovative memory and storage solutions. Through our global brands &#8212; Micron &#174; and Crucial &#174; &#8212; our broad portfolio of high-performance memory and storage technologies, including DRAM, NAND, 3D XPoint TM memory, and NOR, is transforming how the world uses information to enrich life for all . Backed by more than 40 years of technology leadership, our memory and storage solutions enable disruptive trends, including artificial intelligence, 5G, machine learning, and autonomous vehicles, in key market segments like mobile, data center, client, consumer, industrial, graphics, automotive, and networking. 
+
+We manufacture our products at wholly-owned facilities and also utilize subcontractors to perform certain manufacturing processes. In recent years, we have increased our manufacturing scale and product diversity through strategic acquisitions, expansion, and various partnering arrangements. 
+
+We make significant investments to develop proprietary product and process technology, which are implemented in our manufacturing facilities, and generally increase the density per wafer and reduce manufacturing costs of each generation of product through advancements in product and process technology, such as our leading-edge line-width process technology and 3D NAND architecture. We continue to introduce new generations of products that offer improved performance characteristics, including higher data transfer rates, advanced packaging solutions to meet industry standards, lower power consumption, improved read/write reliability, and increased memory density. A significant portion of our revenues are from sales of managed NAND and SSD products, which incorporate NAND, a controller, and firmware. An increasing portion of our SSDs incorporate proprietary controllers and firmware that we have developed. Development of advanced technologies enables us to diversify our product portfolio toward a richer mix of differentiated, high-value solutions and to target high-growth markets. 
+
+We face intense competition in the semiconductor memory and storage markets and, to remain competitive, we must continuously develop and implement new products and technologies and decrease manufacturing costs. Our success is largely dependent on obtaining returns on our R&#38;D investments, efficient utilization of our manufacturing infrastructure, development and integration of advanced product and process technologies, market acceptance of our diversified portfolio of semiconductor-based memory and storage solutions, and return-driven capital spending. 
+
+Impact of COVID-19 on Our Business 
+
+Events surrounding the ongoing COVID-19 outbreak have resulted in a reduction in economic activity across the globe. The ultimate severity and duration of these economic repercussions, including any resulting impact on our business, remain largely unknown and will depend on many factors, including the speed and effectiveness of the containment efforts and economic intervention throughout the world. 
+
+From the start of the COVID-19 outbreak, we proactively implemented preventative protocols intended to safeguard our team members, contractors, suppliers, customers, distributors, and communities, and to ensure business continuity in the event government restrictions or severe outbreaks impact our operations at certain sites. While all our global sites are currently operational, our facilities could be required to temporarily curtail production levels or temporarily cease operations based on actions we deem to be prudent or as a result of government mandates. We remain committed to providing a healthy and safe environment and continue to actively monitor the situation. We may take further actions to alter our business operations to ensure the health and safety of all our stakeholders, or as required by government authorities. 
+
+3 | 2020 10-K 
+
+Products 
+
+We are relentlessly focused on evolving our product portfolio to a richer mix of high-value solutions and cultivating deeper relationships with customers. Our position as a developer and manufacturer of DRAM, NAND, 3D XPoint memory, NOR, and other emerging memory technologies uniquely enables us to collaborate with our customers to ensure our technology and engineering roadmaps deliver critical features. We continuously introduce new products on our advanced technologies, delivering performance, quality, and cost advantages to our customers. Across our entire portfolio of products, we continue to focus on product differentiation and portfolio expansion to grow our share of industry profits while maintaining stable bit share. 
+
+Our product portfolio of memory and storage solutions, advanced solutions, and storage platforms is based on our high-performance semiconductor memory and storage technologies, including DRAM, NAND, 3D XPoint memory, NOR, and other technologies. We sell our products into various markets through our business units in numerous forms, including wafers, components, modules, SSDs, managed NAND, and MCP products. Our system-level solutions, including SSDs, managed NAND, and MCPs, typically include a controller and firmware and in some cases combine DRAM, NAND, and/or NOR. 
+
+Product Technologies 
+
+DRAM : DRAM products are dynamic random access memory semiconductor devices with low latency that provide high-speed data retrieval with a variety of performance characteristics. DRAM products lose content when power is turned off (&#8220;volatile&#8221;) and are most commonly used in client, cloud server, enterprise, networking, graphics, industrial, and automotive markets. Low-power DRAM (&#8220;LPDRAM&#8221;) products, which are engineered to meet standards for performance and power consumption, are sold into smartphone and other mobile-device markets, as well as into the automotive, industrial, and consumer markets. 
+
+NAND : NAND products are non-volatile, re-writeable semiconductor storage devices that provide high-capacity, low-cost storage with a variety of performance characteristics. NAND is used in SSDs for the enterprise and cloud, client, and consumer markets and in removable storage markets. Managed NAND is used in smartphones and other mobile devices, and in consumer, automotive, and embedded markets. Low-density NAND is ideal for applications like automotive, surveillance, machine-to-machine, automation, printer, and home networking. 
+
+3D XPoint : 3D XPoint is a new class of non-volatile technology between DRAM and NAND in the memory and storage hierarchy, offering higher capacity and non-volatility over DRAM along with lower latency and higher endurance as compared to NAND. 3D XPoint technology is ideal for data center and other markets requiring high-bandwidth storage and low-latency performance. 
+
+NOR : NOR products are non-volatile re-writable semiconductor memory devices that provide fast read speeds. NOR is most commonly used for reliable code storage (e.g., boot, application, operating system, and execute-in-place code in an embedded system) and for frequently changing small data storage and is ideal for automotive, industrial, and consumer applications. 
+
+Products by Business Unit and Market 
+
+Compute and Networking Business Unit (&#8220;CNBU&#8221;) 
+
+CNBU includes memory products and solutions sold into client, cloud server, enterprise, graphics, and networking markets. CNBU reported revenue of $9.18 billion in 2020, $9.97 billion in 2019, and $15.25 billion in 2018. In late 2019, we were the first to introduce volume production of 1Znm DRAM which, at the time, was the industry's most advanced node. In 2020, we began ramping our 1Znm technology and achieved bit production crossover in the second half of 2020 with the aggregate of our 1Ynm and 1Znm nodes comprising more than 50% of our DRAM bit production. We began sampling 1Znm DDR5 modules and are on track to introduce high bandwidth memory in calendar 2020. We continue to make meaningful progress on our 1-alpha nm node, which we expect to introduce in 2021. During 2020, we began sampling our first high-bandwidth DRAM memory product, which is competitive with the industry's most advanced products, to enable expansion of our AI data center opportunities. 
+
+Client : CNBU sales to the client market in 2020 consisted primarily of 1Xnm and 1Ynm DDR4 DRAM products. In 2020, we also achieved significant production and sales to the client market of our DDR4 DRAM products from our 1Znm technology. Our products sold to the client market support both commercial and consumer PC growth, with growth driven by the rapid deployment of PCs to support the work-from-home and e-learning environments as the world responded to the COVID-19 pandemic. 
+
+Cloud Server : CNBU sales to the cloud market in 2020 consisted primarily of our 1Xnm, 1Ynm, and 1Znm DDR4 DRAM products. The cloud server market continued to experience significant growth in 2020 due to strong demand from the work-from-home and e-learning environments, video streaming, and significant increases in e-commerce activity around the world. The cloud server market has also been driven, in part, by intelligent edge devices capable of artificial intelligence and augmented reality that store and access data in the cloud. Cloud servers supporting artificial intelligence workloads require significantly increasing quantities of DRAM and, as the number and capabilities of these intelligent edge devices increase, more data is stored, processed, and accessed in the cloud, creating a virtuous cycle between the cloud and edge devices. 
+
+Enterprise : CNBU sales to the enterprise market in 2020 consisted primarily of our 1Xnm and 1Ynm DDR4 DRAM products. In 2020, we started providing early engineering samples of 1Znm DDR5 products for enterprise applications. The enterprise market is experiencing demand from intelligent edge devices requiring rapid data analysis and storage to enable machine learning, training, and inference. 
+
+Graphics : CNBU sales to the graphics market in 2020 consisted primarily of GDDR6 and GDDR5 graphics products. In addition, in 2020, we started shipping GDDR6 DRAM products for next-generation gaming consoles and also introduced our leading-edge GDDR6X graphics memory, which delivers unprecedented speed, power, and bandwidth for high-performance graphics and computing. The graphics market is driven by the need for high-performance, high-bandwidth, and cost-effective memory solutions. Our GDDR6 and GDDR5 DRAM graphics products are incorporated into game consoles, PC graphics cards, and graphics processing unit-based data center solutions, which are the driving force behind applications such as artificial intelligence, virtual and augmented reality, 4K and 8K gaming, and professional design. Our GDDR6X products feature innovative signal transmission technology enabling over 1-terabyte of memory bandwidth to deliver an immersive, real-life gaming experience. 
+
+Networking : CNBU sales to the networking market in 2020 consisted primarily of DDR4 and DDR3 DRAM products. In 2020, demand was driven, in part, by rapid work-from-home infrastructure deployment, as well as increased 5G build-out in certain geographic locations to further support the growth of the advanced 5G networking infrastructure. The networking memory market has relatively long life-cycle DRAM products and, accordingly, a significant portion of our sales consisted of products manufactured on our legacy DRAM technology. 
+
+3D XPoint : CNBU sales of 3D XPoint memory consisted primarily of wafers sold to Intel. In 2020, we introduced our X100 NVMe SSD, the fastest storage device in the world. The X100 NVMe SSD is the first product in a new family of high-performance memory solutions based on 3D XPoint technology, which has higher chip density than DRAM, up to 1,000 times lower latency, and exponentially greater endurance than NAND. These specifications create a significant value opportunity for 3D XPoint technology in solutions between DRAM and NAND in the memory and storage hierarchy. Trends in machine learning, big data analytics, and artificial intelligence are driving demand for the features offered by 3D XPoint technology. 
+
+Mobile Business Unit (&#8220;MBU&#8221;) 
+
+MBU includes memory products sold into smartphone and other mobile-device markets and includes discrete NAND, DRAM, and managed NAND. MBU managed NAND includes embedded multi-media controller (&#8220;e.MMC&#8221;) and universal flash storage (&#8220;UFS&#8221;) solutions, each of which combine high-capacity NAND with a high-speed controller and firmware, and eMCP/uMCP products, which combine an e.MMC/UFS solution with LPDRAM. MBU reported revenue of $5.70 billion in 2020, $6.40 billion in 2019, and $6.58 billion in 2018. In 2020, we were the first company to deliver LPDDR5 mobile DRAM products to customers, including our LPDDR5 products in select 5G-capable smartphones, in capacities up to 12GB. We also began sampling the world's first LPDDR5 DRAM-based UFS MCPs, which enable longer smartphone battery life and high-performance image processing and utilize our advanced 1Ynm DRAM process technology and the world&#8217;s smallest 512Gb 96-layer 3D NAND die. 
+
+Smartphone : MBU sales to the smartphone market in 2020 consisted primarily of our 1Xnm and 1Ynm LPDDR4, LPDDR5, and managed NAND solutions. In the first quarter of 2020, we ramped our 1Znm LPDDR4 DRAM-based uMCP, which at the time had the fastest revenue ramp of any product in the history of our mobile business. High- 
+
+5 | 2020 10-K 
+
+end smartphones incorporate higher levels of NAND and LPDRAM that enable features such as larger 4K displays, multiple high-resolution cameras, and 4K high-dynamic range video recording. Additionally, our smartphone products are utilized by OEMs to enable artificial intelligence, augmented reality, and life-like virtual reality capabilities into high-end phones, including facial and voice recognition, real-time translation, fast image search, and scene detection. 
+
+Other : MBU sales in 2020 also included products sold into the feature and disposable phone markets, mobile PC, and tablet markets. Sales primarily consisted of LPDDR4, LPDDR3, and eMCPs. 
+
+Storage Business Unit (&#8220;SBU&#8221;) 
+
+SBU includes SSDs and component-level solutions sold into enterprise and cloud, client, and consumer storage markets and other discrete storage products sold in component and wafer forms to removable storage markets. SBU reported revenue of $3.77 billion in 2020, $3.83 billion in 2019, and $5.02 billion in 2018. In 2020, we significantly increased the mix of our high-value solutions in NAND. 
+
+In 2020, we continued to transition to our NAND QLC technology, representing nearly 20% of our overall NAND sales in the fourth quarter of 2020. The low cost per bit of our NAND QLC technology enables us to offer SSD products at a price point competitive with hard disk drives in a number of market segments. A meaningful portion of our consumer SSDs shipped in the second half of 2020 included NAND with our QLC technology. 
+
+In 2020, we started volume production of our first-generation 128-layer 3D NAND using replacement gate technology and began shipping products to customers in the fourth quarter of 2020. We continue to make progress on our second-generation replacement gate node, which we expect to broadly deploy across our product portfolio, and remain on track for replacement gate production to comprise a meaningful portion of our NAND output by the end of calendar 2020. 
+
+SSDs : SSD storage products incorporate NAND, a controller, and firmware and offer significant performance and features over hard disk drives, including smaller form factors, faster read and write speeds, higher reliability, and lower power consumption. We offer SSD solutions utilizing our NAND technology to the enterprise and cloud, client, and consumer markets. 
+
+Enterprise and Cloud SSDs : SBU sales to the enterprise and cloud SSD markets in 2020 consisted primarily of our 5300, 5200, and 5100 series SATA SSDs. In 2020, we offered new capacity and features with our 5210 ION SATA SSD, continuing our leadership in QLC NAND-based SSDs and accelerating the transition from hard disk drives to QLC SSDs in data centers. Similar to trends in the memory market, the enterprise and cloud storage markets have been driven by advanced edge devices capable of artificial intelligence, augmented reality, and other features that store, access, and analyze data in the cloud. Artificial intelligence servers require fast access to data with low latency, predictable performance, and high storage capacities. Our technology is providing cost-optimized storage solutions at a significantly lower total cost of ownership for demanding workloads. 
+
+Client SSDs : SBU sales to the client SSD market in 2020 consisted primarily of our 2200 and 1300 series SATA Client SSDs with our 96- and 64-layer TLC 3D NAND. Our client SSDs, targeted for leading personal computer OEMs as a replacement to hard disk drives, are used in notebooks, desktops, workstations, and other consumer applications, and deliver high performance, power efficiency, security, and capacity. In 2020, we launched our client 2300 NVMe SSD, which uses our 96-layer 3D NAND technology and a single-sided M.2 form factor to provide flexibility in design with industry-leading capacities of up to 2TB. In early 2020, we launched our client 2210 NVMe SSD, which uses our 96-layer QLC NAND technology for higher storage capacity and SLC NAND technology for write-performance, with M.2 form factor to bridge the gap between the low cost of hard disk drives and the performance, reliability, low power, and security of SSDs. 
+
+Consumer SSDs : SBU sales to the consumer SSD market in 2020 consisted primarily of our Crucial-branded MX500/BX500 SATA SSDs and our P1/P2 PCIe SSDs, which utilize our NAND QLC and TLC technologies. We had record consumer SSD revenue in 2020, assisted by the growth of our QLC NVMe SSDs, and we continue transitioning our product line of consumer SSDs from SATA to NVMe. In 2020, we expanded into the consumer portable SSD market by introducing the Crucial X8 and X6 portable SSDs and also began shipments of our BX500 SATA SSD, utilizing our 128-layer TLC 3D NAND with replacement gate technology. Similar to the client SSD market, our consumer SSD solutions are replacing hard disk drives as end users seek the higher performance, power savings, and reliability of SSDs. 
+
+Components and Wafers : SBU sales of components in 2020 included NAND products and consisted primarily of our 64-layer and 96-layer TLC and QLC NAND technology sold into storage markets, which include custom and consumer SSDs and all flash arrays by advanced enterprise users, broadening our footprint into diverse market segments and enabling greater output flexibility. 
+
+Embedded Business Unit (&#8220;EBU&#8221;) 
+
+EBU includes memory and storage products sold into industrial, automotive, and consumer markets and includes discrete and module DRAM, discrete NAND, managed NAND, SSDs, and NOR. EBU reported revenue of $2.76 billion in 2020, $3.14 billion in 2019, and $3.48 billion in 2018. The embedded market has traditionally been characterized by long life-cycle DRAM and non-volatile products manufactured on mature process technologies. With strong trends of digitization, connectivity, and intelligence in every device, demand continues to grow for leading-edge products from newer process technologies emerging in the embedded market. Our embedded products enable edge devices to store, connect, and share information in the internet of things (&#8220;IoT&#8221;) market and are utilized in a diverse set of applications in the automotive, industrial, and consumer markets. 
+
+Industrial : EBU sales to the industrial market in 2020 consisted primarily of DDR4 and DDR3 DRAM, LPDDR4 DRAM, SLC NAND, NAND MCPs, and NOR. Our products enable applications in the growing industrial IoT market, including machine-to-machine communication, factory automation, transportation, surveillance, retail, and smart infrastructure. 
+
+Automotive : EBU sales to the automotive market in 2020 consisted primarily of DDR3 DRAM, e.MMC managed NAND, and LPDDR4 and LPDDR2 DRAM. Our leading 1TB automotive-grade PCIe NVMe SSD delivers faster, more reliable, and cost-effective storage for next-generation autonomous vehicles. Advancements in autonomous driving and advanced driver-assistance systems continue to increase the requirements for high-performing memory and storage products, with higher reliability requirements for leading-edge products. Automotive memory and storage products enable connected, large display infotainment systems and higher definition 4K displays and support improved voice and gesture control in automotive applications. Our comprehensive and expanding portfolio of DRAM, NAND, and NOR solutions to the automotive market, as well as our extensive customer support network, enable us to maintain our strong leadership position in this market. 
+
+Consumer : EBU sales to the consumer market in 2020 consisted primarily of our DDR4 and DDR3 DRAM, LPDDR4 DRAM, managed NAND, SLC NAND, NOR, and secure digital (&#8220;SD&#8221;) cards. These embedded memory and storage solutions are used in a diverse set of consumer products, including service provider and IP set-top boxes, digital home assistants, digital still and video cameras, home networking, ultra-high definition televisions, and many more applications. Our embedded memory and storage solutions enable edge devices in the consumer products market to store, connect, and share information in the IoT. 
+
+Manufacturing 
+
+We manufacture our products within our own facilities located in Taiwan, Singapore, Japan, the United States, China, and Malaysia and also utilize subcontractors to perform certain manufacturing processes. Our products are manufactured on 300mm wafers in facilities that generally operate 24 hours per day, seven days per week. Semiconductor manufacturing is extremely capital intensive, requiring large investments in sophisticated facilities and equipment. Our DRAM, NAND, 3D XPoint memory, and NOR products share a number of common manufacturing processes, enabling us to leverage our product and process technology and certain resources and manufacturing infrastructure across these product lines. 
+
+Our process for manufacturing semiconductor products is complex and involves numerous precise steps, including wafer fabrication, assembly, and test. Efficient production of semiconductor products requires utilization of advanced semiconductor manufacturing techniques and effectively deploying those techniques across multiple facilities. The primary determinants of manufacturing cost are process line-width, 3D non-volatile layers, NAND cell levels, process complexity (including the number of mask layers and fabrication steps), and manufacturing yield. Other factors include the cost and sophistication of manufacturing equipment, equipment utilization, cost of raw materials, labor productivity, package type, cleanliness of our manufacturing environment, and utilization of subcontractors to 
+
+7 | 2020 10-K 
+
+perform certain manufacturing processes. As we continue to increase our production of high value products and solutions, manufacturing costs are increasingly affected by the costs of ASIC controllers, advanced and complex packaging configurations, and testing at progressively higher performance speeds and quality levels. We continuously enhance our production processes, increase bits per wafer, transition to higher density products, and utilize advanced testing and assembly processes. 
+
+Wafer fabrication occurs in a highly-controlled clean environment to minimize yield loss from contaminants. Despite stringent manufacturing controls, individual circuits may be nonfunctional or wafers may be scrapped due to equipment errors, minute impurities in materials, defects in photomasks, circuit design marginalities or defects, and contamination from airborne particles. Success of our manufacturing operations depends largely on minimizing defects and improving process margin to maximize yield of high-quality circuits. In this regard, we employ rigorous quality controls throughout the manufacturing, screening, and testing processes. We continue to heighten quality control as our product offerings expand into higher-end segments that require increasing performance targets. 
+
+Our products are manufactured and sold in both packaged form and as unpackaged bare die. Our packaged products include packaged die, memory modules, and system-level solutions, such as SSDs, managed NAND, and MCPs. We assemble many products in-house and, in some cases, outsource assembly services for certain packaged die, memory modules, SSDs, and MCPs. We test our products at various stages in the manufacturing process, conduct numerous quality control inspections throughout the entire production flow, and perform high temperature burn-in on finished products. In addition, we use our proprietary AMBYX&#8482; line of intelligent test and burn-in systems to perform simultaneous circuit tests of semiconductor die, capturing quality and reliability data and reducing testing time and cost. 
+
+In recent years, we have produced an increasingly broad portfolio of products and system solutions, which enhances our ability to allocate resources to our most profitable products but also increases the complexity of our manufacturing and supply chain operations. Although our product lines generally use similar manufacturing processes, our costs can be affected by frequent conversions to new products, the allocation of manufacturing capacity to more complex, smaller-volume products, and the reallocation of manufacturing capacity across various product lines. 
+
+Arrangements with Intel 
+
+Since 2006, we and Intel owned and operated IMFT, a joint venture that manufactured semiconductor products exclusively for its members under long-term supply agreements at prices approximating cost. Through 2018, IMFT manufactured NAND memory and, subsequent to that time, manufactured 3D XPoint memory. In the first quarter of 2020, we acquired Intel&#8217;s interest in IMFT. (See &#8220;Part II &#8211; Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Equity,&#8221; &#8220;&#8211; Debt,&#8221; and &#8220;&#8211; Research and Development.&#8221;) 
+
+Supply Chain, Materials, and Third-Party Service Providers 
+
+Our supply chain and operations are dependent on the availability of materials that meet exacting standards and the use of third parties to provide us with components and services. We generally have multiple sources of supply for our materials and services. However, only a limited number of suppliers are capable of delivering certain materials and services that meet our standards and, in some cases, materials, components, or services are provided by a single supplier. Various factors could reduce the availability of materials or components such as chemicals, silicon wafers, gases, photoresist, controllers, substrates, lead frames, printed circuit boards, targets, and reticle glass blanks. Shortages or increases in lead times may occur from time to time in the future. Our manufacturing processes are also dependent on our relationships with third-party manufacturers of controllers used in a number of our products and with outsourced semiconductor assembly and test providers, contract manufacturers, logistic carriers, and other service providers. We monitor and manage supply-chain activities to mitigate risks associated with raw materials and service providers. Certain materials are primarily available in certain countries, including rare earth elements, minerals, and metals available primarily from China. Trade disputes or other political conditions, economic conditions, or public health issues, such as COVID-19, may limit our ability to obtain such materials. Although these rare earth and other materials are generally available from multiple suppliers, China is the 
+
+predominant producer of certain of these materials. In addition, we and/or our suppliers and service providers could be affected by tariffs, embargoes, or other trade restrictions, as well as laws and regulations enacted in response to concerns regarding climate change, conflict minerals, responsible sourcing practices, public health crises, or contagious disease outbreaks, which can limit the supply of our materials and/or increase the cost. 
+
+Marketing and Customers 
+
+We continue to transform how we interact with our customers from transactional opportunistic sales of standardized memory components to collaborative relationships where we work with our customers to understand their unique opportunities and challenges. Many of our customers require thorough review or qualification of our products. By engaging with our customers early in the product life-cycle to identify and design features and performance characteristics into our products, we are able to manufacture products that anticipate and address our customers&#8217; changing needs. Collaborating with our customers on their design needs in changing end markets allows us to differentiate our memory and storage solutions, which provides greater value to our customers. 
+
+Our semiconductor memory and storage products are offered under our Micron and Crucial brand names and through private labels. We market our semiconductor memory and storage products primarily through our own direct sales force and maintain sales or representative offices in our primary markets around the world. We sell our Crucial-branded products through a web-based customer direct sales channel as well as through channel and distribution partners. Our products are also offered through independent sales representatives, distributors, and retailers. Our independent sales representatives obtain orders, subject to final acceptance by us, and we then make shipments against these orders directly to customers or through our distributors. Our distributors carry our products in inventory and typically sell a variety of other semiconductor products, including competitors&#8217; products. We maintain inventory at locations in close proximity to certain key customers to facilitate rapid delivery of products. 
+
+In each of the last three years, approximately one-half of our total net sales were to our top ten customers. For other information regarding our concentrations and customers, see &#8220;Part II &#8211; Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Certain Concentrations.&#8221; 
+
+Sales of our memory and storage products, and the transfer of related technical information and know-how, including support, are subject to laws and regulations governing international trade, including, but not limited to, export control, customs, and sanctions regulations administered by U.S. government agencies such as the Bureau of Industry and Security (&#8220;BIS&#8221;) of the U.S. Department of Commerce and the Office of Foreign Asset Control of the U.S. Department of the Treasury. Other jurisdictions, such as the European Union or China, also maintain, or may implement, similar laws and regulations with which we must comply. Any such laws or regulations may require that we either obtain licenses or other authorizations to export certain of our products or sell them to certain countries, companies, or individuals, or, in the absence of such licenses or authorizations, not export or sell the applicable products or transfer the related technical information and know-how to the affected countries, companies, or individuals. In addition, increased tariffs imposed by the countries in which our products are sold can increase the cost of our product to our customers. The laws and regulations that govern international trade change frequently, sometimes without advance notice. See &#8220;Item 1A. Risk Factors &#8211; Trade regulations have restricted our ability to sell our products to several customers, could restrict our ability to sell our products to other customers or in certain markets, or could otherwise restrict our ability to conduct operations&#8221; and &#8220; &#8211; We face risks associated with our international sales and operations that could materially adversely affect our business, results of operations, or financial condition.&#8221; 
+
+Backlog 
+
+Because of volatile industry conditions, our customers are generally reluctant to enter into long-term, fixed-price contracts. Accordingly, new order volumes for our memory and storage products may fluctuate significantly. We typically accept orders with acknowledgment that the terms may be adjusted to reflect market conditions at the time of shipment. For these reasons, we do not believe that our order backlog as of any particular date is a reliable indicator of actual sales for any succeeding period. 
+
+9 | 2020 10-K 
+
+Product Warranty 
+
+The design and manufacturing process for semiconductor products is highly complex and, as a result, it is possible that we may produce products that do not comply with applicable specifications, contain defects, or are otherwise incompatible with end uses. In accordance with industry practice, we generally provide a limited warranty that our products comply with applicable specifications existing at the time of delivery and will operate to those specifications during a stated warranty period. Under our standard terms and conditions of sale, liability for certain failures of product during a stated warranty period is usually limited to repair or replacement of defective items or return of, or a credit with respect to, amounts paid for such items. Under certain circumstances, we provide more extensive limited warranty coverage than that provided under our standard terms and conditions. 
+
+Competition 
+
+We face intense competition in the semiconductor memory and storage markets from a number of companies, including Intel; Kioxia Holdings Corporation (formerly Toshiba Memory Corporation); Samsung Electronics Co., Ltd.; SK Hynix Inc.; and Western Digital Corporation. Some of our competitors are large corporations or conglomerates that may have greater resources to invest in technology, capitalize on growth opportunities, and withstand downturns in the semiconductor markets in which we compete. Consolidation of industry competitors could put us at a competitive disadvantage. Our competitors generally seek to increase wafer capacity, improve yields, and reduce die size in their product designs which may result in significant increases in worldwide supply and downward pressure on prices. Increases in worldwide supply of semiconductor memory and storage also result from fabrication capacity expansions, either by way of new facilities, increased capacity utilization, or reallocation of other semiconductor production to semiconductor memory and storage production. Our competitors may increase capital expenditures resulting in future increases in worldwide supply. We, and some of our competitors, have plans to ramp, or are constructing or ramping, production at new fabrication facilities. If competitors are more successful at developing or implementing new product or process technology, their products could have cost or performance advantages. Certain of our memory and storage products are manufactured to industry standard specifications and, as such, have similar performance characteristics to those of our competitors. For these products, the principal competitive factors are generally price and performance characteristics including operating speed, power consumption, reliability, compatibility, size, and form factor. In addition, some of our competitors may benefit from policies and regulations that favor domestic companies or may not be subject to certain regulations or restrictions to which we are subject, which may allow them access to certain sales opportunities from which we may be restricted. 
+
+Some governments may provide, or have provided, and may continue to provide, significant assistance, financial or otherwise, to some of our competitors or to new entrants and may intervene in support of national industries and/or competitors. In particular, we face the threat of increasing competition as a result of significant investment in the semiconductor industry by the Chinese government and various state-owned or affiliated entities that is intended to advance China&#8217;s stated national policy objectives. In addition, the Chinese government may restrict us from participating in the China market or may prevent us from competing effectively with Chinese companies. Some of our competitors may use aggressive pricing to obtain market share or take business of our key customers. Additionally, our customers may redirect their business to our competitors based on government policy, national preference, or other factors. 
+
+Research and Development 
+
+Our R&#38;D efforts are focused primarily on development of industry leading memory and storage solutions that enable continuous improvement in performance and cost structure for our products. We are focused on developing new fundamentally different memory structures, materials, and packages designed to facilitate our transition to next generation products. Additional R&#38;D efforts focus on the enablement of advanced computing, storage, and mobile memory architectures and the investigation of new opportunities that leverage our core semiconductor expertise. Product design and development efforts include high-density DDR4, DDR5, LPDDR4, LPDDR5, high-bandwidth memory, and advanced graphics DRAM; 3D NAND (including TLC and QLC technologies); 3D XPoint technology; mobile and storage solutions (including firmware and controllers); managed NAND; and other memory technologies and systems. 
+
+To compete in the semiconductor memory and storage markets, we must continue to develop technologically advanced products and processes. The continued evolution of our semiconductor product offerings is necessary to meet expected market demand for memory and storage products and solutions. Our process, design, firmware, controller, package, and system development efforts occur at multiple locations across the world. Our primary R&#38;D centers are located in Boise, Idaho, Singapore, Japan, Taiwan, Italy, China, India, Germany, and other sites in the United States. 
+
+R&#38;D expenses vary primarily with the number of development and pre-qualification wafers processed and end-product solutions developed, the cost of advanced equipment dedicated to new product and process development, and personnel costs. Because of the lead times necessary to manufacture our products, we typically begin to process wafers before completion of performance and reliability testing. Development of a product is deemed complete when it is qualified through reviews and tests for performance and reliability. R&#38;D expenses can vary significantly depending on the timing of product qualification. 
+
+Patents and Licenses 
+
+As of September 3, 2020, we owned approximately 14,200 active U.S. patents and 6,500 active foreign patents. In addition, we have thousands of U.S. and foreign patent applications pending. Our patents have various terms expiring through 2040. 
+
+From time to time, we sell and/or license our technology to other parties and continue to pursue opportunities to monetize our investments in our intellectual property through partnering and other arrangements. We have also jointly developed memory and storage product and process technology with third parties on a limited basis. 
+
+We have a number of patent and intellectual property license agreements and have, from time to time, licensed or sold our intellectual property to third parties. Some of these license agreements require us to make one-time or periodic payments while others have resulted in us receiving payments. We may need to obtain additional licenses or renew existing license agreements in the future, and we may enter into additional sales or licenses of intellectual property and partnering arrangements. We are unable to predict whether these license agreements can be obtained or renewed on terms acceptable to us. 
+
+Employees 
+
+As of September 3, 2020, we had approximately 40,000 employees. 
+
+11 | 2020 10-K 
+
+Environmental Compliance 
+
+We approach environmental stewardship and sustainability proactively to ensure we meet all government regulations regarding use of raw materials, discharges, climate change and energy use, emissions, and wastes from our manufacturing processes and address the evolving expectations of our investors, customers, team members, and other stakeholders. Compliance with the law and other compliance obligations is considered a minimum environmental expectation at Micron. Our wafer fabrication facilities continued to conform to the requirements of the International Organization for Standardization (&#8220;ISO&#8221;) 14001 environmental management systems standard to ensure we are continuously improving our performance. As part of the ISO 14001 framework, we have established a global environmental policy and meet requirements in terms of environmental aspects evaluation and control, compliance obligations, commitment, training, communication, control of documented information, operational control, emergency preparedness and response, and management review. While we have not experienced any material adverse effects to our operations from environmental regulations, changes in regulations could necessitate additional capital expenditures, modification of our operations, or other compliance actions. 
+
+Information About Our Executive Officers 
+
+Our executive officers are appointed annually by our Board of Directors and our directors are elected annually by our shareholders. All officers serve until their successors are duly chosen or elected and qualified, except in the case of earlier death, resignation, or removal. 
+
+The following presents information, as of September 3, 2020, about our executive officers: 
+
+##TABLE_START 
+
+April S. Arnzen Senior Vice President, Human Resources Ms. Arnzen, 49, joined us in December 1996 and has served in various leadership positions since that time. Ms. Arnzen was named Senior Vice President, Human Resources in June 2017. Ms. Arnzen holds a BS in Human Resource Management and Marketing from the University of Idaho and is a graduate of the Stanford Graduate School of Business Executive Program. 
+
+Manish Bhatia Executive Vice President, Global Operations Mr. Bhatia, 48, joined us in October 2017 as our Executive Vice President of Global Operations. From May 2016 to October 2017, Mr. Bhatia served as the Executive Vice President of Silicon Operations at Western Digital Corporation. From March 2010 to May 2016, Mr. Bhatia held several executive roles at SanDisk Corporation including Executive Vice President of Worldwide Operations until it was acquired by Western Digital in May 2016. Mr. Bhatia holds a BS and MS in Mechanical Engineering and an MBA, each from the Massachusetts Institute of Technology. 
+
+Michael W. Bokan Senior Vice President, Worldwide Sales Mr. Bokan, 59, joined us in 1996 and has served in various leadership positions since that time. Mr. Bokan was named Senior Vice President, Worldwide Sales in October 2018. Mr. Bokan holds a BS in Business Administration from Colorado State University. ##TABLE_END
+
+##TABLE_START 
+
+Scott J. DeBoer Executive Vice President, Technology Development Dr. DeBoer, 54, joined us in February 1995 and has served in various leadership positions since that time. Dr. DeBoer was named Executive Vice President, Technology Development in June 2017. Dr. DeBoer holds a PhD in Electrical Engineering and an MS in Physics from Iowa State University. He completed his undergraduate degree at Hastings College. 
+
+` Paul Marosvari Vice President, Chief Accounting Officer 
+
+Mr. Marosvari, 54, joined us in March 1996, and has held various leadership positions since that time. Mr. Marosvari was named Vice President, Chief Accounting Officer in October 2019. Mr. Marosvari holds a Bachelor of Business Administration in Accounting from Boise State University. 
+
+On September 21, 2020, we announced that Mr. Marosvari intends to retire from Micron in early calendar year 2021. Scott Allen, 52, has been appointed by our Board of Directors to succeed Mr. Marosvari as Corporate Vice President and Chief Accounting Officer, effective as of October 26, 2020. 
+
+Sanjay Mehrotra President, Chief Executive Officer, and Director Mr. Mehrotra, 62, joined us in May 2017 as our President, Chief Executive Officer, and Director. Mr. Mehrotra co-founded and led SanDisk Corporation as a start-up in 1988 until its eventual sale in May 2016, serving as its President and Chief Executive Officer from January 2011 to May 2016, and as a member of its Board of Directors from July 2010 to May 2016. Mr. Mehrotra served as a member of the Board of Directors for Cavium, Inc. from July 2009 until July 2018 and for Western Digital Corp. from May 2016 to February 2017. Mr. Mehrotra holds a BS and an MS in Electrical Engineering and Computer Science from the University of California, Berkeley and is a graduate of the Stanford Graduate School of Business Executive Program. 
+
+Joel L. Poppen Senior Vice President, Legal Affairs, General Counsel, and Corporate Secretary 
+
+Mr. Poppen, 56, joined us in October 1995 and has held various leadership positions since that time. Mr. Poppen was named Senior Vice President, Legal Affairs, General Counsel, and Corporate Secretary in June 2017. Mr. Poppen holds a BS in Electrical Engineering from the University of Illinois and a JD from the Duke University School of Law. 
+
+Sumit Sadana Executive Vice President and Chief Business Officer 
+
+Mr. Sadana, 51, joined us in June 2017 as our Executive Vice President and Chief Business Officer. From April 2010 to May 2016, Mr. Sadana served in various roles at SanDisk Corporation, including Executive Vice President, Chief Strategy Officer, and General Manager, Enterprise Solutions until it was acquired by Western Digital in May 2016. Mr. Sadana currently serves on the Board of Directors of Silicon Laboratories, Inc. Mr. Sadana holds a B.Tech. in Electrical Engineering from the Indian Institute of Technology, Kharagpur, India and an MS in Electrical Engineering from Stanford University. 
+
+David A. Zinsner Senior Vice President and Chief Financial Officer Mr. Zinsner, 51, joined us in February 2018 as our Senior Vice President and Chief Financial Officer. From April 2017 to February 2018, Mr. Zinsner served as the President and Chief Operating Officer of Affirmed Networks. From January 2009 to April 2017, Mr. Zinsner served as the Senior Vice President of Finance and Chief Financial Officer of Analog Devices. From July 2005 to January 2009, Mr. Zinsner served as the Senior Vice President and Chief Financial Officer of Intersil Corporation. Mr. Zinsner holds an MBA, Finance and Accounting from Vanderbilt University and a BS in Industrial Management from Carnegie Mellon University. ##TABLE_END
+
+There are no family relationships between any of our directors or executive officers. 
+
+13 | 2020 10-K 
+
+Available Information 
+
+Our executive offices are located at 8000 South Federal Way, Boise, Idaho 83716-9632 and our telephone number is (208) 368-4000. Information about us is available at our website, www.micron.com. Also available on our website are our Corporate Governance Guidelines, Governance and Sustainability Committee Charter, Compensation Committee Charter, Audit Committee Charter, Finance Committee Charter, and Code of Business Conduct and Ethics. Any amendments or waivers of our Code of Business Conduct and Ethics will also be posted on our website within four business days of the amendment or waiver. Copies of these documents are available to shareholders upon request. Information contained or referenced on our website is not incorporated by reference and does not form a part of this Annual Report on Form 10-K. 
+
+Investors and others should note that we announce material financial information about our business and products through a variety of means, including our investor relations website (investors.micron.com), filings with the U.S. Securities and Exchange Commission (&#8220;SEC&#8221;), press releases, public conference calls, and webcasts. We use these channels to achieve broad, non-exclusionary distribution of information to the public and for complying with our disclosure obligations under Regulation FD. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on such channels. 
+
+Our filings are available free of charge on our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC, including our annual and quarterly reports on Forms 10-K and 10-Q and current reports on Form 8-K, our proxy statements, and any amendments to those reports or statements. The SEC&#8217;s website, www.sec.gov, contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The content on any website referred to in this Form 10-K is not incorporated by reference in this Form 10-K unless expressly noted. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+In addition to the factors discussed elsewhere in this Form 10-K, the following are important factors, the order of which is not necessarily indicative of the level of risk that each poses to us, which could cause actual results or events to differ materially from those contained in any forward-looking statements made by us. Any of these factors could have a material adverse effect on our business, results of operations, financial condition, or stock price. Our operations could also be affected by other factors that are presently unknown to us or not considered significant. 
+
+The effects of the COVID-19 outbreak could adversely affect our business, results of operations, and financial condition. 
+
+The effects of the public health crisis caused by the COVID-19 outbreak and the measures being taken to limit COVID-19&#8217;s spread are uncertain and difficult to predict, but may include, and in some cases, have included and may continue to include: 
+
+&#8226; A decrease in short-term and/or long-term demand and/or pricing for our products and a global economic recession or depression that could further reduce demand and/or pricing for our products, resulting from actions taken by governments, businesses, and/or the general public in an effort to limit exposure to and the spreading of COVID-19, such as travel restrictions, quarantines, and business shutdowns or slowdowns; 
+
+&#8226; Negative impacts to our operations, including: 
+
+&#9702; reductions in production levels, R&#38;D activities, product development, technology transitions, yield enhancement activities, and qualification activities with our customers, resulting from our efforts to mitigate the impact of COVID-19 through physical-distancing measures we have enacted at our locations around the world in an effort to protect our employees&#8217; and contractors&#8217; health and well-being, including working from home, limiting the number of meeting attendees, reducing the number of people in certain of our sites at any one time, quarantines of team members, contractors, or vendors who are at risk of contracting, or have contracted, COVID-19, and limiting employee travel; 
+
+&#9702; increased costs resulting from our efforts to mitigate the impact of COVID-19 through physical distancing measures, working from home, upgrades to our sites, enhanced cleaning measures, and the increased use of personal protective equipment at our sites; 
+
+&#9702; increased costs for, or unavailability of, transportation, raw materials, or other inputs necessary for the operation of our business; 
+
+&#9702; reductions in or cessation of operations at any site or in any jurisdiction resulting from government restrictions on movement and/or business operations or our failure to prevent and/or adequately mitigate spread of COVID-19 at one or more of our sites; 
+
+&#9702; our inability to continue or resume construction projects due to delays in obtaining materials, equipment, labor, engineering services, government permits, or any other essential aspect of projects, which could impact our ability to introduce new technologies, reduce costs, or meet customer demand; 
+
+&#9702; disruptions to our supply chain in connection with the sourcing and transportation of materials, equipment and engineering support, and services from or in geographic areas that have been impacted by COVID-19 and by efforts to contain the spread of COVID-19; and 
+
+&#8226; Deterioration of worldwide credit and financial markets that could limit our ability to obtain external financing to fund our operations and capital expenditures, result in losses on our holdings of cash and investments due to failures of financial institutions and other parties, and result in a higher rate of losses on our accounts receivables due to credit defaults. 
+
+The resumption of normal business operations after such interruptions may be delayed or constrained by lingering effects of COVID-19 on our team members, contractors, suppliers, third-party service providers, customers, or distributors. 
+
+These effects, alone or taken together, could have a material adverse effect on our business, results of operations, legal exposure, or financial condition. A sustained, prolonged, or recurring outbreak could exacerbate the adverse impact of such measures. 
+
+Volatility in average selling prices for our semiconductor memory and storage products may adversely affect our business. 
+
+We have experienced significant volatility in our average selling prices, including dramatic declines as noted in the table below, and may continue to experience such volatility in the future. In some prior periods, average selling prices for our products have been below our manufacturing costs and we may experience such circumstances in the future. Average selling prices for our products that decline faster than our costs could have a material adverse effect on our business, results of operations, or financial condition. 
+
+##TABLE_START &#160; DRAM NAND (percentage change in average selling prices) 2020 from 2019 (34) % (9) % 2019 from 2018 (30) % (47) % 2018 from 2017 36 % (13) % 2017 from 2016 18 % (10) % 2016 from 2015 (34) % (16) % ##TABLE_END
+
+Beginning in 2020, revenue and units for MCPs and SSDs, which contain both DRAM and NAND, are disaggregated based on the relative values of each component. Prior periods presented in the table above have been conformed to current period presentation. 
+
+We may be unable to maintain or improve gross margins. 
+
+Our gross margins are dependent, in part, upon continuing decreases in per gigabit manufacturing costs achieved through improvements in our manufacturing processes and product designs, including, but not limited to, process line-width, additional 3D memory layers, additional bits per cell (i.e., cell levels), architecture, number of mask layers, number of fabrication steps, and yield. In future periods, we may be unable to reduce our per gigabit manufacturing costs at sufficient levels to maintain or improve gross margins. Factors that may limit our ability to maintain or reduce costs include, but are not limited to, strategic product diversification decisions affecting product mix, the increasing complexity of manufacturing processes, difficulties in transitioning to smaller line-width process technologies, 3D memory layers, NAND cell levels, transitioning to replacement gate technology for NAND, process 
+
+15 | 2020 10-K 
+
+complexity including number of mask layers and fabrication steps, manufacturing yield, technological barriers, changes in process technologies, and new products that may require relatively larger die sizes. 
+
+Many factors may result in a reduction of our output or a delay in ramping production, which could lead to underutilization of our production assets. These factors may include, among others, a weak demand environment, industry oversupply, inventory surpluses, our ramp of emerging technologies, declining selling prices, and changes in supply agreements. A significant portion of our manufacturing costs are fixed and do not vary proportionally with changes in production output. As a result, lower utilization and increases in our per gigabit manufacturing costs may adversely affect our gross margins, business, results of operations, or financial condition. 
+
+In addition, per gigabit manufacturing costs may also be affected by a broader product portfolio, which may have smaller production quantities and shorter product lifecycles. Our business and the markets we serve are subject to rapid technological changes and material fluctuations in demand based on end-user preferences. As a result, we may have work in process or finished goods inventories that could become obsolete or in amounts that are in excess of our customers&#8217; demand. As a result, we may incur charges in connection with obsolete or excess inventories, which could have a material adverse effect on our business, results of operations, or financial condition. In addition, due to the customized nature of certain of the products we manufacture, we may be unable to sell certain finished goods inventories to alternative customers or manufacture in-process inventory to different specifications, which may result in excess and obsolescence charges in future periods. Our inability to maintain or improve gross margins could have a material adverse effect on our business, results of operations, or financial condition. 
+
+The semiconductor memory and storage markets are highly competitive. 
+
+We face intense competition in the semiconductor memory and storage markets from a number of companies, including Intel; Samsung Electronics Co., Ltd.; SK Hynix Inc.; Kioxia Holdings Corporation (formerly Toshiba Memory Corporation); and Western Digital Corporation. Some of our competitors are large corporations or conglomerates that may have greater resources to invest in technology, capitalize on growth opportunities, and withstand downturns in the semiconductor markets in which we compete. Consolidation of industry competitors could put us at a competitive disadvantage. In addition, some governments may provide, or have provided and may continue to provide, significant assistance, financial or otherwise, to some of our competitors or to new entrants and may intervene in support of national industries and/or competitors. In particular, we face the threat of increasing competition as a result of significant investment in the semiconductor industry by the Chinese government and various state-owned or affiliated entities that is intended to advance China&#8217;s stated national policy objectives. In addition, the Chinese government may restrict us from participating in the China market or may prevent us from competing effectively with Chinese companies. Some of our competitors may use aggressive pricing to obtain market share or take business of our key customers. 
+
+Our competitors generally seek to increase wafer capacity, improve yields, and reduce die size in their product designs which may result in significant increases in worldwide supply and downward pressure on prices. Increases in worldwide supply of semiconductor memory and storage also result from fabrication capacity expansions, either by way of new facilities, increased capacity utilization, or reallocation of other semiconductor production to semiconductor memory and storage production. Our competitors may increase capital expenditures resulting in future increases in worldwide supply. We and some of our competitors have plans to ramp, or are constructing or ramping, production at new fabrication facilities. Increases in worldwide supply of semiconductor memory and storage, if not accompanied by commensurate increases in demand, could lead to further declines in average selling prices for our products and could materially adversely affect our business, results of operations, or financial condition. If competitors are more successful at developing or implementing new product or process technology, their products could have cost or performance advantages. 
+
+The competitive nature of our industry could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We may be unable to generate sufficient cash flows or obtain access to external financing necessary to fund our operations, make scheduled debt payments, and make adequate capital investments. 
+
+Our cash flows from operations depend primarily on the volume of semiconductor memory and storage products sold, average selling prices, and manufacturing costs. To develop new product and process technology, support 
+
+future growth, achieve operating efficiencies, and maintain product quality, we must make significant capital investments in manufacturing technology, capital equipment, facilities, R&#38;D, and product and process technology. 
+
+We estimate capital expenditures in 2021 for property, plant, and equipment, net of partner contributions, will be approximately $9 billion, focused on technology transitions and product enablement. Investments in capital expenditures may not generate expected returns or cash flows. Delays in completion and ramping of new production facilities could significantly impact our ability to realize expected returns on our capital expenditures, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+In the past we have utilized external sources of financing when needed. As a result of our debt levels, expected debt amortization, and general economic conditions, it may be difficult for us to obtain financing on terms acceptable to us. We have experienced volatility in our cash flows and operating results and may continue to experience such volatility in the future, which may negatively affect our credit rating. Our credit rating may also be affected by our liquidity, financial results, economic risk, or other factors, which may increase the cost of future borrowings and make it difficult for us to obtain financing on terms acceptable to us. In addition, if our credit rating declines below a certain level, our credit facility will be required to become secured by certain of our assets, which may limit the amount or increase the cost of future financings. There can be no assurance that we will be able to generate sufficient cash flows, access capital or credit markets, or find other sources of financing to fund our operations, make debt payments, and make adequate capital investments to remain competitive in terms of technology development and cost efficiency. Our inability to do any of the foregoing could have a material adverse effect on our business, results of operations, or financial condition. 
+
+A downturn in the worldwide economy may harm our business. 
+
+The health crisis caused by COVID-19 has adversely affected economic conditions and caused a downturn in the worldwide economy. Downturns in the worldwide economy have harmed our business in the past and the current downturn has adversely affected our business. As a result, demand for certain of our products used in smartphones, consumer electronics, and automotive, has declined. Reduced demand for these or other products could result in significant decreases in our average selling prices and product sales. If these adverse conditions persist or worsen, we could experience additional reduction in demand for our products and/or devices that incorporate our products. Future downturns could also adversely affect our business. In addition, to the extent our customers or distributors have elevated inventory levels, we may experience a decrease in short-term and/or long-term demand and/or pricing for our products. 
+
+A deterioration of conditions in worldwide credit markets could limit our ability to obtain external financing to fund our operations and capital expenditures. In addition, we may experience losses on our holdings of cash and investments due to failures of financial institutions and other parties. Difficult economic conditions may also result in a higher rate of losses on our accounts receivable due to credit defaults. As a result, downturns in the worldwide economy could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Increases in tariffs or other trade restrictions or taxes on our or our customers&#8217; products or equipment and supplies could have an adverse impact on our operations. 
+
+In 2020, 88% of our revenue was from products shipped to customer locations outside the United States. We also purchase a significant portion of equipment and supplies from suppliers outside the United States. Additionally, a significant portion of our facilities are located outside the United States, including in Taiwan, Singapore, Japan, and China. 
+
+The United States and other countries have levied tariffs and taxes on certain goods. General trade tensions between the United States and China have been escalating since 2018, with U.S. tariffs on Chinese goods and retaliatory Chinese tariffs on U.S. goods. Some of our products are included in these tariffs. Higher duties on existing tariffs and further rounds of tariffs have been announced or threatened by U.S. and Chinese leaders. Additionally, the United States has threatened to impose tariffs on goods imported from other countries, which could also impact certain of our customers&#8217; or our operations. If the United States were to impose current or additional tariffs on components that we or our suppliers source, our cost for such components would increase. We may also incur increases in manufacturing costs and supply chain risks due to our efforts to mitigate the impact of tariffs on our customers and our operations. Additionally, tariffs on our customers&#8217; products could impact their sales of such end products, resulting in lower demand for our products. 
+
+17 | 2020 10-K 
+
+We cannot predict what further actions may ultimately be taken with respect to tariffs or trade relations between the United States and other countries, what products may be subject to such actions, or what actions may be taken by other countries in retaliation. Further changes in trade policy, tariffs, additional taxes, restrictions on exports or other trade barriers, or restrictions on supplies, equipment, and raw materials including rare earth minerals, may limit our ability to produce products, increase our selling and/or manufacturing costs, decrease margins, reduce the competitiveness of our products, or inhibit our ability to sell products or purchase necessary equipment and supplies, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Trade regulations have restricted our ability to sell our products to several customers, could restrict our ability to sell our products to other customers or in certain markets, or could otherwise restrict our ability to conduct operations. 
+
+International trade disputes have led, and may continue to lead, to new and increasing trade barriers and other protectionist measures that can increase our manufacturing costs, make our products less competitive, reduce demand for our products, limit our ability to sell to certain customers or markets, limit our ability to procure components or raw materials, impede or slow the movement of our goods across borders, impede our ability to perform R&#38;D activities, or otherwise restrict our ability to conduct operations. Increasing protectionism and economic nationalism may lead to further changes in trade policy, domestic sourcing initiatives, or other formal and informal measures that could make it more difficult to sell our products in, or restrict our access to, some markets and/or customers. 
+
+Escalating trade tensions between the United States and China have led to increased trade restrictions, and have affected customer ordering patterns. For example, over the last 18 months the BIS has enacted increasingly broad trade restrictions with respect to Huawei (which represented approximately 10% of our revenue in the fourth quarter of 2020 and 12% in 2019), culminating with restrictions that took effect on September 15, 2020 and that currently prevent us and many other companies from shipping products to Huawei. We cannot predict the duration these restrictions will remain in place, whether the BIS will grant us or others licenses to ship products to Huawei, or whether the BIS or other U.S. or foreign government entities will enact similar restrictions with respect to other customers, markets, or products. We may not be able to replace the lost revenue opportunities associated with such restrictions. 
+
+The United States has also imposed other restrictions on the export of U.S. regulated products and technology to certain Chinese technology companies, including certain of our customers. These restrictions have reduced our sales, and continuing or future restrictions could adversely affect our financial results, result in reputational harm to us due to our relationship with such companies, or lead such companies to develop or adopt technologies that compete with our products. It is difficult to predict what further trade-related actions governments may take, and we may be unable to quickly and effectively react to such actions. For example, U.S. legislation has expanded the power of the U.S. Department of Commerce to restrict the export of &#8220;emerging and foundational technologies&#8221; yet to be identified, which could impact our current or future products. 
+
+Trade disputes and protectionist measures, or continued uncertainty about such matters, could result in declining consumer confidence and slowing economic growth or recession, and could cause our customers to reduce, cancel, or alter the timing of their purchases with us. Sustained trade tensions could lead to long-term changes in global trade and technology supply chains, which could adversely affect our business and growth prospects. Trade restrictions that may be imposed by the United States, China, or other countries may impact our business in ways we cannot reasonably quantify, including that some of our customers&#8217; products which incorporate our solutions may also be impacted. Restrictions on our ability to sell and ship our products to Huawei have had, and may continue to have, an adverse effect on our business, results of operations, or financial condition. In addition, further increases in trade restrictions or barriers may negatively impact our revenue with Huawei or other customers, and any licenses we have received or could receive in the future could be rendered ineffective. Any such changes may have a further adverse effect on our business, results of operations, or financial condition. 
+
+Although we have policies, controls, and procedures designed to help ensure compliance with applicable laws, there can be no assurance that our employees, contractors, suppliers, or agents will not violate such laws or our policies. Violations of trade laws, restrictions, or regulations can result in fines; criminal sanctions against us or our officers, directors, or employees; prohibitions on the conduct of our business; and damage to our reputation. The technology industry is subject to intense media, political, and regulatory scrutiny, which can increase our exposure to government investigations, legal actions, and penalties. 
+
+Our future success depends on our ability to develop and produce competitive new memory and storage technologies. 
+
+Our key semiconductor memory and storage products and technologies face technological barriers to continue to meet long-term customer needs. These barriers include potential limitations on stacking additional 3D memory layers, increasing bits per cell (i.e., cell levels), meeting higher density requirements, and improving power consumption and reliability. We may face technological barriers to continue to shrink our products at our current or historical rate, which has generally reduced per-unit cost. We have invested and expect to continue to invest in R&#38;D for new and existing products, which involves significant risk and uncertainties. We may be unable to recover our investment in R&#38;D or otherwise realize the economic benefits of reducing die size or increasing memory and storage densities. Our competitors are working to develop new memory and storage technologies that may offer performance and/or cost advantages to existing technologies and render existing technologies obsolete. Accordingly, our future success may depend on our ability to develop and produce viable and competitive new memory and storage technologies. There can be no assurance of the following: 
+
+&#8226; that we will be successful in developing competitive new semiconductor memory and storage technologies; 
+
+&#8226; that we will be able to cost-effectively manufacture new products; 
+
+&#8226; that we will be able to successfully market these technologies; and 
+
+&#8226; that margins generated from sales of these products will allow us to recover costs of development efforts. 
+
+We develop and produce advanced memory technologies, including 3D XPoint memory, a new class of non-volatile technology. There is no assurance that our efforts to develop and market new product technologies will be successful. Unsuccessful efforts to develop new memory and storage technologies could have a material adverse effect on our business, results of operations, or financial condition. 
+
+A significant portion of our revenue is concentrated with a select number of customers. 
+
+In each of the last three years, approximately one-half of our total revenue was from our top ten customers. A disruption in our relationship with any of these customers could adversely affect our business. We could experience fluctuations in our customer base or the mix of revenue by customer as markets and strategies evolve. In addition, any consolidation of our customers could reduce the number of customers to whom our products may be sold. Our inability to meet our customers&#8217; requirements or to qualify our products with them could adversely impact our revenue. Meaningful change in the inventory strategy of our customers, particularly those in China, could impact our industry bit demand growth outlook. The loss of, or restrictions on our ability to sell to, one or more of our major customers, such as those relating to Huawei described above, or any significant reduction in orders from, or a shift in product mix by, customers could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We face risks associated with our international sales and operations that could materially adversely affect our business, results of operations, or financial condition. 
+
+In 2020, 52% of our revenue was from sales to customers who have headquarters located outside the United States. We ship our products to the locations specified by our customers. Customers with global supply chains and operations may request we deliver products to countries where they own or operate production facilities or to countries where they utilize third-party subcontractors or warehouses. As a result, 88% of our revenue in 2020 was from products shipped to customer locations outside the United States. 
+
+A substantial portion of our operations are conducted in Taiwan, Singapore, Japan, and China, and many of our customers, suppliers, and vendors also operate internationally. Our operations, and the global supply chain of the technology industry, are subject to a number of risks, including the effects of actions and policies of various governments across our global operations and supply chain. For example, political, economic, or other actions from China could impact Taiwan and its economy, and may adversely affect our operations in Taiwan, our customers, and the technology industry supply chain. In addition, the U.S. government has in the past restricted American firms from selling products and software to certain of our customers and may in the future impose similar bans or other restrictions on sales to one or more of our significant customers. These restrictions may not prohibit our competitors from selling similar products to our customers, which may result in our loss of sales and market share. Even when such restrictions are lifted, financial or other penalties or continuing export restrictions imposed with respect to our 
+
+19 | 2020 10-K 
+
+customers could have a continuing negative impact on our future revenue and results of operations, and we may not be able to recover any customers or market share we lose while complying with such restrictions. 
+
+Our international sales and operations are subject to a variety of risks, including: 
+
+&#8226; export and import duties, changes to import and export regulations, customs regulations and processes, and restrictions on the transfer of funds; 
+
+&#8226; imposition of bans on sales of goods or services to one or more of our significant foreign customers; 
+
+&#8226; public health issues (for example, an outbreak of a contagious disease such as COVID-19, Severe Acute Respiratory Syndrome (&#8220;SARS-CoV&#8221;), avian and swine influenza, measles, or Ebola); 
+
+&#8226; compliance with U.S. and international laws involving international operations, including the Foreign Corrupt Practices Act of 1977, as amended, export and import laws, and similar rules and regulations; 
+
+&#8226; theft of intellectual property; 
+
+&#8226; political and economic instability, including the effects of disputes between China and Taiwan; 
+
+&#8226; government actions or civil unrest preventing the flow of products, including delays in shipping and obtaining products, cancellation of orders, or loss or damage of products; 
+
+&#8226; problems with the transportation or delivery of products; 
+
+&#8226; issues arising from cultural or language differences and labor unrest; 
+
+&#8226; longer payment cycles and greater difficulty in collecting accounts receivable; 
+
+&#8226; compliance with trade, technical standards, and other laws in a variety of jurisdictions; 
+
+&#8226; contractual and regulatory limitations on the ability to maintain flexibility with staffing levels; 
+
+&#8226; disruptions to manufacturing or R&#38;D activities as a result of actions imposed by foreign governments; 
+
+&#8226; changes in economic policies of foreign governments; and 
+
+&#8226; difficulties in staffing and managing international operations. 
+
+If we or our customers, suppliers, or vendors are impacted by these risks, it could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We have been served with complaints in Chinese courts alleging patent infringement. 
+
+We have been served with complaints in Chinese courts alleging that we infringe certain Chinese patents by manufacturing and selling certain products in China. The complaints seek orders requiring us to destroy inventory of the accused products and equipment for manufacturing the accused products in China; to stop manufacturing, using, selling, and offering for sale the accused products in China; and to pay damages plus court fees. 
+
+We are unable to predict the outcome of these assertions of infringement made against us and therefore cannot estimate the range of possible loss. A determination that our products or manufacturing processes infringe the intellectual property rights of others or entering into a license agreement covering such intellectual property could result in significant liability and/or require us to make material changes to our operations in China, products, and/or manufacturing processes. Any of the foregoing could have a material adverse effect on our business, results of operations, or financial condition. (See &#8220;Part II &#8211; Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Contingencies.&#8221;) 
+
+We are subject to allegations of anticompetitive conduct. 
+
+On April 27, 2018, a complaint was filed against Micron and other DRAM suppliers in the U.S. District Court for the Northern District of California. Subsequently, two substantially identical cases were filed in the same court. The lawsuits purported to be on behalf of a nationwide class of indirect purchasers of DRAM products. On September 3, 2019, the District Court granted Micron&#8217;s motion to dismiss and allowed plaintiffs the opportunity to file a consolidated, amended complaint. On October 28, 2019, the plaintiffs filed a consolidated amended complaint that purports to be on behalf of a nationwide class of indirect purchasers of DRAM products. The amended complaint asserts claims based on alleged price-fixing of DRAM products under federal and state law during the period from June 1, 2016 to at least February 1, 2018, and seeks treble monetary damages, costs, interest, attorneys&#8217; fees, and other injunctive and equitable relief. 
+
+On June 26, 2018, a complaint was filed against Micron and other DRAM suppliers in the U.S. District Court for the Northern District of California. Subsequently, four substantially identical cases were filed in the same court. On October 28, 2019, the plaintiffs filed a consolidated, amended complaint. The consolidated complaint purports to be on behalf of a nationwide class of direct purchasers of DRAM products. The consolidated complaint asserts claims 
+
+based on alleged price-fixing of DRAM products under federal and state law during the period from June 1, 2016 through at least February 1, 2018, and seeks treble monetary damages, costs, interest, attorneys&#8217; fees, and other injunctive and equitable relief. 
+
+Additionally, six cases have been filed in the following Canadian courts: Superior Court of Quebec, the Federal Court of Canada, the Ontario Superior Court of Justice, and the Supreme Court of British Columbia. The substantive allegations in these cases are similar to those asserted in the cases filed in the United States. 
+
+On May 15, 2018, the Chinese State Administration for Market Regulation (&#8220;SAMR&#8221;) notified Micron that it was investigating potential collusion and other anticompetitive conduct by DRAM suppliers in China. On May 31, 2018, SAMR made unannounced visits to our sales offices in Beijing, Shanghai, and Shenzhen to seek certain information as part of its investigation. We are cooperating with SAMR in its investigation. 
+
+We are unable to predict the outcome of these matters and therefore cannot estimate the range of possible loss. The final resolution of these matters could result in significant liability and could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Our business, results of operations, or financial condition could be adversely affected by the limited availability and quality of materials, supplies, and capital equipment, or the dependency on third-party service providers. 
+
+Our supply chain and operations are dependent on the availability of materials that meet exacting standards and the use of third parties to provide us with components and services. We generally have multiple sources of supply for our materials and services. However, only a limited number of suppliers are capable of delivering certain materials and services that meet our standards and, in some cases, materials, components, or services are provided by a single supplier. Various factors could reduce the availability of materials or components such as chemicals, silicon wafers, gases, photoresist, controllers, substrates, lead frames, printed circuit boards, targets, and reticle glass blanks. Shortages or increases in lead times may occur from time to time in the future. Our manufacturing processes are also dependent on our relationships with third-party manufacturers of controllers used in a number of our products and with outsourced semiconductor assembly and test providers, contract manufacturers, logistic carriers, and other service providers. 
+
+Certain materials are primarily available in certain countries, including rare earth elements, minerals, and metals available primarily from China. Trade disputes or other political conditions, economic conditions, or public health issues, such as COVID-19, may limit our ability to obtain such materials. Although these rare earth and other materials are generally available from multiple suppliers, China is the predominant producer of certain of these materials. If China were to restrict or stop exporting these materials, our suppliers&#8217; ability to obtain such supply may be constrained and we may be unable to obtain sufficient quantities, or obtain supply in a timely manner, or at a commercially reasonable cost. Constrained supply of rare earth elements, minerals, and metals may restrict our ability to manufacture certain of our products and make it difficult or impossible to compete with other semiconductor memory manufacturers who are able to obtain sufficient quantities of these materials from China. 
+
+We and/or our suppliers and service providers could be affected by tariffs, embargoes, or other trade restrictions, as well as laws and regulations enacted in response to concerns regarding climate change, conflict minerals, responsible sourcing practices, public health crises, contagious disease outbreaks, or other matters, which could limit the supply of our materials and/or increase the cost. Environmental regulations could limit our ability to procure or use certain chemicals or materials in our operations or products. In addition, disruptions in transportation lines could delay our receipt of materials. Lead times for the supply of materials have been extended in the past. Our ability to procure components to repair equipment essential for our manufacturing processes could also be negatively impacted by various restrictions or disruptions in supply chains, among other items. The disruption of our supply of materials, components, services, or the extension of our lead times could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Our operations are dependent on our ability to procure advanced semiconductor manufacturing equipment that enables the transition to lower cost manufacturing processes. For certain key types of equipment, including photolithography tools, we are sometimes dependent on a single supplier. From time to time, we have experienced difficulties in obtaining some equipment on a timely basis due to suppliers&#8217; limited capacity. Our inability to obtain equipment on a timely basis could adversely affect our ability to transition to next generation manufacturing processes and reduce our costs. Delays in obtaining equipment could also impede our ability to ramp production at 
+
+21 | 2020 10-K 
+
+new facilities and could increase our overall costs of a ramp. Our inability to obtain advanced semiconductor manufacturing equipment in a timely manner could have a material adverse effect on our business, results of operations, or financial condition. 
+
+New product and market development may be unsuccessful. 
+
+We are developing new products, including system-level memory and storage products and solutions, which complement our traditional products or leverage their underlying design or process technology. We have made significant investments in product and process technology and anticipate expending significant resources for new semiconductor product and system-level solution development over the next several years. Additionally, we are increasingly differentiating our products and solutions to meet the specific demands of our customers, which increases our reliance on our customers&#8217; ability to accurately forecast the needs and preferences of their customers. As a result, our product demand forecasts may be impacted significantly by the strategic actions of our customers. 
+
+For certain of our markets, it is important that we deliver products in a timely manner with increasingly advanced performance characteristics at the time our customers are designing and evaluating samples for their products. If we do not meet their product design schedules, our customers may exclude us from further consideration as a supplier for those products. The process to develop new products requires us to demonstrate advanced functionality and performance, often well in advance of a planned ramp of production, in order to secure design wins with our customers. The effects of the public health crisis caused by the COVID-19 outbreak and the measures being taken to limit COVID-19&#8217;s spread could negatively impact our ability to meet anticipated timelines and/or expected or required quality standards with respect to the development of certain of our products. In addition, some of our components have long lead-times, requiring us to place orders several months in advance of anticipated demand. Such long lead-times increase the risk of excess inventory or loss of sales in the event our forecasts vary substantially from actual demand. There can be no assurance that: 
+
+&#8226; our product development efforts will be successful; 
+
+&#8226; we will be able to cost-effectively manufacture new products; 
+
+&#8226; we will be able to successfully market these products; 
+
+&#8226; we will be able to establish or maintain key relationships with customers, or that we will not be prohibited from working with certain customers, for specific chip set or design requirements; 
+
+&#8226; we will be able to introduce new products into the market and qualify them with our customers on a timely basis; or 
+
+&#8226; margins generated from sales of these products will allow us to recover costs of development efforts. 
+
+Our unsuccessful efforts to develop new products and solutions could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Increases in sales of system solutions may increase our dependency upon specific customers and our costs to develop and qualify our system solutions. 
+
+Our development of system-level memory and storage products is dependent, in part, upon successfully identifying and meeting our customers&#8217; specifications for those products. Developing and manufacturing system-level products with specifications unique to a customer increases our reliance upon that customer for purchasing our products at sufficient volumes and prices in a timely manner. If we fail to identify or develop products on a timely basis, or at all, that comply with our customers&#8217; specifications or achieve design wins with our customers, we may experience a significant adverse impact on our revenue and margins. Even if our products meet customer specifications, our sales of system-level solutions are dependent upon our customers choosing our products over those of our competitors and purchasing our products at sufficient volumes and prices. Our competitors&#8217; products may be less costly, provide better performance, or include additional features when compared to our products. Our long-term ability to sell system-level memory and storage products is reliant upon our customers&#8217; ability to create, market, and sell their products containing our system-level solutions at sufficient volumes and prices in a timely manner. If we fail to successfully develop and market system-level products, our business, results of operations, or financial condition may be materially adversely affected. 
+
+Even if we are successful in selling system-level solutions to our customers in sufficient volume, we may be unable to generate sufficient profit if our per-unit manufacturing costs exceed our per-unit selling prices. Manufacturing system-level solutions to customer specifications requires a longer development cycle, as compared to discrete products, to design, test, and qualify, which may increase our costs. Additionally, some of our system solutions are 
+
+increasingly dependent on sophisticated firmware that may require significant customization to meet customer specifications, which increases our costs and time to market. Additionally, we may need to update our firmware or develop new firmware as a result of new product introductions or changes in customer specifications and/or industry standards, which increases our costs. System complexities and extended warranties for system-level products could also increase our warranty costs. Our failure to cost-effectively manufacture system-level solutions and/or firmware in a timely manner may result in reduced demand for our system-level products and could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Products that fail to meet specifications, are defective, or that are otherwise incompatible with end uses could impose significant costs on us. 
+
+Products that do not meet specifications or that contain, or are perceived by our customers to contain, defects or that are otherwise incompatible with end uses could impose significant costs on us or otherwise materially adversely affect our business, results of operations, or financial condition. From time to time, we experience problems with nonconforming, defective, or incompatible products after we have shipped such products. In recent periods, we have further diversified and expanded our product offerings, which could potentially increase the chance that one or more of our products could fail to meet specifications in a particular application. Our products and solutions may be deemed fully or partially responsible for functionality in our customers&#8217; products and may result in sharing or shifting of product or financial liability from our customers to us for costs incurred by the end user as a result of our customers&#8217; products failing to perform as specified. In addition, if our products and solutions perform critical functions in our customers&#8217; products or are used in high-risk consumer end products, such as autonomous driver assistance programs, home and enterprise security, smoke and noxious gas detectors, medical monitoring equipment, or wearables for child and elderly safety, our potential liability may increase. We could be adversely affected in several ways, including the following: 
+
+&#8226; we may be required or agree to compensate customers for costs incurred or damages caused by defective or incompatible products and to replace products; 
+
+&#8226; we could incur a decrease in revenue or adjustment to pricing commensurate with the reimbursement of such costs or alleged damages; and 
+
+&#8226; we may encounter adverse publicity, which could cause a decrease in sales of our products or harm our reputation or relationships with existing or potential customers. 
+
+Any of the foregoing items could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We may be unable to protect our intellectual property or retain key employees who are knowledgeable of and develop our intellectual property. 
+
+We maintain a system of controls over our intellectual property, including U.S. and foreign patents, trademarks, copyrights, trade secrets, licensing arrangements, confidentiality procedures, non-disclosure agreements with employees, consultants, and vendors, and a general system of internal controls. Despite our system of controls over our intellectual property, it may be possible for our current or future competitors to obtain, copy, use, or disclose, illegally or otherwise, our product and process technology or other proprietary information. The laws of some foreign countries may not protect our intellectual property to the same degree as do U.S. laws and our confidentiality, non-disclosure, and non-compete agreements may be unenforceable or difficult and costly to enforce. 
+
+Additionally, our ability to maintain and develop intellectual property is dependent upon our ability to attract, develop, and retain highly skilled employees. Global competition for such skilled employees in our industry is intense. Due to the volatile nature of our industry and our operating results, a decline in our operating results and/or stock price may adversely affect our ability to retain key employees whose compensation is dependent, in part, upon the market price of our common stock, achieving certain performance metrics, levels of company profitability, or other financial or company-wide performance. If our competitors or future entrants into our industry are successful in hiring our employees, they may directly benefit from the knowledge these employees gained while they were under our employment. 
+
+Our inability to protect our intellectual property or retain key employees who are knowledgeable of and develop our intellectual property could have a material adverse effect on our business, results of operations, or financial condition. 
+
+23 | 2020 10-K 
+
+Claims that our products or manufacturing processes infringe or otherwise violate the intellectual property rights of others, or failure to obtain or renew license agreements covering such intellectual property, could materially adversely affect our business, results of operations, or financial condition. 
+
+As is typical in the semiconductor and other high technology industries, from time to time others have asserted, and may in the future assert, that our products or manufacturing processes infringe upon, misappropriate, misuse, or otherwise violate their intellectual property rights. We are unable to predict the outcome of these assertions made against us. Any of these types of claims, regardless of the merits, could subject us to significant costs to defend or resolve such claims and may consume a substantial portion of management&#8217;s time and attention. As a result of these claims, we may be required to: 
+
+&#8226; pay significant monetary damages, fines, royalties, or penalties; 
+
+&#8226; enter into license or settlement agreements covering such intellectual property rights; 
+
+&#8226; make material changes to or redesign our products and/or manufacturing processes; and/or 
+
+&#8226; cease manufacturing, having made, selling, offering for sale, importing, marketing, or using products and/or manufacturing processes in certain jurisdictions. 
+
+We may not be able to take any of the actions described above on commercially reasonable terms and any of the foregoing results could have a material adverse effect on our business, results of operations, or financial condition. (See &#8220;Part II &#8211; Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Contingencies.&#8221;) 
+
+We have a number of intellectual property license agreements. Some of these license agreements require us to make one-time or periodic payments. We may need to obtain additional licenses or renew existing license agreements in the future. We are unable to predict whether these license agreements can be obtained or renewed on terms acceptable to us. The failure to obtain or renew licenses as necessary could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Legal proceedings and claims could have a material adverse effect on our business, results of operations, or financial condition. 
+
+From time to time we are subject to various legal proceedings and claims that arise out of the ordinary conduct of our business or otherwise, both domestically and internationally. See &#8220;Item 3. Legal Proceedings.&#8221; Any claim, with or without merit, could result in significant legal fees that could negatively impact our financial results, disrupt our operations, and require significant attention from our management. We could be subject to litigation or arbitration disputes arising from our relationships with vendors or customers, supply agreements, or contractual obligations with our subcontractors or business partners. We may also be associated with and subject to litigation arising from the actions of our vendors, subcontractors, or business partners. We may also be subject to litigation or claims as a result of our indemnification obligations, including obligations to defend our customers against third-party claims asserting infringement of certain intellectual property rights, which may include patents, trademarks, copyrights, or trade secrets. We may also be subject to claims or litigation arising from the terms of our product warranties or from product liability claims. As we continue to focus on developing system solutions with manufacturers of consumer products, including autonomous driving, augmented reality, and others, we may be exposed to greater potential for personal liability claims against us as a result of consumers&#8217; use of those products. We, our officers, or our directors could also be subject to claims of alleged violations of securities laws. There can be no assurance that we are adequately insured to protect against all claims and potential liabilities, and we may elect to self-insure with respect to certain matters. Exposures to various legal proceedings and claims could lead to significant costs and expenses as we defend claims, are required to pay damage awards, or enter into settlement agreements, any of which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+If our manufacturing process is disrupted by operational issues, natural disasters, or other events, our business, results of operations, or financial condition could be materially adversely affected. 
+
+We and our subcontractors manufacture products using highly complex processes that require technologically advanced equipment and continuous modification to improve yields and performance. Difficulties in the manufacturing process or the effects from a shift in product mix can reduce yields or disrupt production and may increase our per gigabit manufacturing costs. We and our subcontractors maintain operations and continuously 
+
+implement new product and process technology at manufacturing facilities, which are widely dispersed in multiple locations in several countries including the United States, Singapore, Taiwan, Japan, Malaysia, and China. 
+
+From time to time, there have been disruptions in the manufacturing process as a result of power outages, improperly functioning equipment, disruptions in supply of raw materials or components, or equipment failures. We have manufacturing and other operations in locations subject to natural occurrences such as severe weather and geological events, including earthquakes or tsunamis, that could disrupt operations. In addition, our suppliers and customers also have operations in such locations. Additionally, other events including political or public health crises, such as an outbreak of contagious diseases like COVID-19, SARS-CoV, avian and swine influenza, measles, or Ebola, may affect our production capabilities or that of our suppliers, including as a result of quarantines, closures of production facilities, lack of supplies, or delays caused by restrictions on travel or shipping. For example, in March 2020, the government of Malaysia announced measures to restrict movement in that country in an effort to suppress the number of COVID-19 cases. Those restrictions temporarily limited our ability to fully operate our manufacturing facilities in that country. The events noted above have occurred from time to time in the past and may occur in the future. As a result, in addition to disruptions to operations, our insurance premiums may increase or we may not be able to fully recover any sustained losses through insurance. 
+
+If production is disrupted for any reason, manufacturing yields may be adversely affected, or we may be unable to meet our customers&#8217; requirements and they may purchase products from other suppliers. This could result in a significant increase in manufacturing costs, loss of revenue, or damage to customer relationships, any of which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Breaches of our security systems, or those of our customers, suppliers, or business partners, could expose us to losses. 
+
+We maintain a system of controls over the physical security of our facilities. We also manage and store various proprietary information and sensitive or confidential data relating to our operations. In addition, we process, store, and transmit large amounts of data relating to our customers and employees, including sensitive personal information. Unauthorized persons or employees may gain access to our facilities or network systems to steal trade secrets or other proprietary information, compromise confidential information, create system disruptions, or cause shutdowns. These parties may also be able to develop and deploy viruses, worms, and other malicious software programs that disrupt our operations and create security vulnerabilities. Breaches of our physical security and attacks on our network systems, or breaches or attacks on our customers, suppliers, or business partners who have confidential or sensitive information regarding us and our customers and suppliers, could result in significant losses and damage our reputation with customers and suppliers and may expose us to litigation if the confidential information of our customers, suppliers, or employees is compromised. The foregoing could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We face risks associated with our former IMFT joint venture with Intel. 
+
+On October 31, 2019, we purchased Intel&#8217;s noncontrolling interest in the IMFT joint venture, now known as MTU. Our acquisition involves risks including, but not limited to, continued underutilization of the MTU facility. We also face risks from our arbitration proceeding with Intel, in which we and Intel have made claims against each other for damages relating to the joint venture. For information regarding the arbitration proceeding, see &#8220;Part II &#8211; Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Contingencies.&#8221; The foregoing could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Debt obligations could adversely affect our financial condition. 
+
+We have incurred in the past, and expect to incur in the future, debt to finance our capital investments, business acquisitions, and restructure of our capital structure. As of September 3, 2020, we had debt with a carrying value of $6.64 billion. As of September 3, 2020, $2.50 billion of our Revolving Credit Facility was available to us. As of September 3, 2020, the conversion value in excess of principal of our convertible notes was $486 million, based on the trading price of our common stock of $46.33 per share on such date. 
+
+25 | 2020 10-K 
+
+Our debt obligations could adversely impact us. For example, these obligations could: 
+
+&#8226; require us to use a large portion of our cash flow to pay principal and interest on debt, which will reduce the amount of cash flow available to fund working capital, capital expenditures, acquisitions, R&#38;D expenditures, and other business activities; 
+
+&#8226; require us to use cash and/or issue shares of our common stock to settle any conversion obligations of our convertible notes; 
+
+&#8226; result in certain of our debt instruments being accelerated to be immediately due and payable or being deemed to be in default if certain terms of default are triggered, such as applicable cross payment default and/or cross-acceleration provisions; 
+
+&#8226; adversely impact our credit rating, which could increase future borrowing costs; 
+
+&#8226; limit our future ability to raise funds for capital expenditures, strategic acquisitions or business opportunities, R&#38;D, and other general corporate requirements; 
+
+&#8226; restrict our ability to incur specified indebtedness, create or incur certain liens, and enter into sale-leaseback financing transactions; 
+
+&#8226; increase our vulnerability to adverse economic and semiconductor memory and storage industry conditions; 
+
+&#8226; increase our exposure to interest rate risk from variable rate indebtedness; 
+
+&#8226; continue to dilute our earnings per share as a result of the conversion provisions in our convertible notes; and 
+
+&#8226; require us to continue to pay cash amounts substantially in excess of the principal amounts upon settlement of our convertible notes to minimize dilution of our earnings per share. 
+
+Our ability to meet our payment obligations under our debt instruments depends on our ability to generate significant cash flows or obtain external financing in the future. This, to some extent, is subject to market, economic, financial, competitive, legislative, and regulatory factors as well as other factors that are beyond our control. There can be no assurance that our business will generate cash flow from operations, or that additional capital will be available to us, in amounts sufficient to enable us to meet our debt payment obligations and to fund other liquidity needs. Additionally, events and circumstances may occur which would cause us to not be able to satisfy applicable draw-down conditions and utilize our revolving credit facility. In 2019, we suspended the security interest in the collateral under our credit facility upon achieving a specified credit rating and prepaying our Senior Secured Term Loan B due in 2022; however, if our corporate credit rating were to decline below a certain level, the security interest would be automatically reinstated, which may limit the amount or increase the cost of future financings. If we are unable to generate sufficient cash flows to service our debt payment obligations, we may need to refinance or restructure our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. If we are unable to implement one or more of these alternatives, we may be unable to meet our debt payment obligations, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We must attract, retain, and motivate highly skilled employees. 
+
+To remain competitive, we must attract, retain, and motivate executives and other highly skilled employees, as well as effectively manage or plan for succession for key employees. Competition for experienced employees in our industry can be intense. Hiring and retaining qualified executives, engineers, technical staff, and sales representatives is critical to our business. Our inability to attract, retain, or effectively manage or plan for succession of key employees may inhibit our ability to maintain or expand our business operations. Additionally, changes to immigration policies in the numerous countries in which we operate, including the United States, as well as restrictions on global travel as a result of local or global public health crises requiring quarantines or other precautions to limit exposure to infectious diseases, may limit our ability to hire and/or retain talent in, or transfer talent to, specific locations. If our total compensation programs and workplace culture cease to be viewed as competitive, our ability to attract, retain, and motivate employees could be weakened, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+The acquisition of our ownership interest in Inotera from Qimonda has been challenged by the administrator of the insolvency proceedings for Qimonda. 
+
+In January 2011, Dr. Michael Jaff&#233;, administrator for Qimonda&#8217;s insolvency proceedings, filed suit against Micron and Micron Semiconductor B.V. (&#8220;Micron B.V.&#8221;), in the District Court of Munich, Civil Chamber. The complaint seeks to void a share purchase agreement between Micron B.V. and Qimonda signed in 2008, pursuant to which Micron B.V. purchased substantially all of Qimonda&#8217;s shares of Inotera, representing approximately 18% of Inotera&#8217;s outstanding shares at that time, and seeks an order requiring us to re-transfer those shares to the Qimonda estate. 
+
+The complaint also seeks, among other things, to recover damages for the alleged value of the joint venture relationship with Inotera and to terminate a patent cross-license between us and Qimonda entered into at the same time as the share purchase agreement. See &#8220;Part II &#8211; Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Contingencies&#8221; for further information regarding the matter. 
+
+We are unable to predict the outcome of the matter and, therefore, cannot estimate the range of possible loss. The final resolution of this lawsuit could result in the loss of the Inotera shares or monetary damages, unspecified damages based on the benefits derived by Micron B.V. from the ownership of the Inotera shares, and/or the termination of the patent cross-license, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We may incur additional tax expense or become subject to additional tax exposure. 
+
+We operate in a number of locations outside the United States, including Singapore, where we have tax incentive arrangements that are conditional, in part, upon meeting certain business operations and employment thresholds. Our domestic and international taxes are dependent upon the geographic mix of our earnings among these jurisdictions. Our provision for income taxes and cash tax liabilities in the future could be adversely affected by numerous factors, including challenges by tax authorities to our tax positions and intercompany transfer pricing arrangements, failure to meet performance obligations with respect to tax incentive agreements, expanding our operations in various countries, and changes in tax laws and regulations. Additionally, we file income tax returns with the U.S. federal government, various U.S. states, and various other jurisdictions throughout the world and certain tax returns may remain open to examination for several years. The results of audits and examinations of previously filed tax returns and continuing assessments of our tax exposures may have an adverse effect on our provision for income taxes and cash tax liability. The foregoing items could have a material adverse effect on our business, results of operations, or financial condition. 
+
+A change in tax laws in key jurisdictions could materially increase our tax expense. 
+
+We are subject to income taxes in the United States and many foreign jurisdictions. Changes to income tax laws and regulations in any of the jurisdictions in which we operate, or in the interpretation of such laws, could significantly increase our effective tax rate and ultimately reduce our cash flows from operating activities and otherwise have a material adverse effect on our financial condition. For example, our effective tax rate increased from 1.2% for 2018 to 9.8% for 2019 primarily as a result of the Tax Cuts and Jobs Act enacted in December 2017 by the United States. Additionally, various levels of government are increasingly focused on tax reform and other legislative actions to increase tax revenue. Further changes in the tax laws of foreign jurisdictions could arise as a result of the base erosion and profit shifting project undertaken by the Organisation for Economic Co-operation and Development, which represents a coalition of member countries and recommended changes to numerous long-standing tax principles. If implemented by taxing authorities, such changes, as well as changes in U.S. federal and state tax laws or in taxing jurisdictions&#8217; administrative interpretations, decisions, policies, and positions, could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Our incentives from various governments are conditional upon achieving or maintaining certain performance obligations and are subject to reduction, termination, or clawback. 
+
+We have received, and may in the future continue to receive, benefits and incentives from national, state, and local governments in various regions of the world designed to encourage us to establish, maintain, or increase investment, workforce, or production in those regions. These incentives may take various forms, including grants, loan subsidies, and tax arrangements, and typically require us to perform or maintain certain levels of investment, capital spending, employment, technology deployment, or research and development activities to qualify for such incentives. We cannot guarantee that we will successfully achieve performance obligations required to qualify for these incentives or that the granting agencies will provide such funding. These incentive arrangements typically provide the granting agencies with rights to audit our performance with their terms and obligations. Such audits could result in modifications to, or termination of, the applicable incentive program. The incentives we receive could be subject to reduction, termination, or clawback, and any decrease or clawback of government incentives could have a material adverse effect on our business, results of operations, or financial condition. 
+
+27 | 2020 10-K 
+
+We may make future acquisitions and/or alliances, which involve numerous risks. 
+
+Acquisitions and the formation or operation of alliances, such as joint ventures and other partnering arrangements, involve numerous risks, including the following: 
+
+&#8226; integrating the operations, technologies, and products of acquired or newly formed entities into our operations; 
+
+&#8226; increasing capital expenditures to upgrade and maintain facilities; 
+
+&#8226; increased debt levels; 
+
+&#8226; the assumption of unknown or underestimated liabilities; 
+
+&#8226; the use of cash to finance a transaction, which may reduce the availability of cash to fund working capital, capital expenditures, R&#38;D expenditures, and other business activities; 
+
+&#8226; diverting management&#8217;s attention from daily operations; 
+
+&#8226; managing larger or more complex operations and facilities and employees in separate and diverse geographic areas; 
+
+&#8226; hiring and retaining key employees; 
+
+&#8226; requirements imposed by government authorities in connection with the regulatory review of a transaction, which may include, among other things, divestitures or restrictions on the conduct of our business or the acquired business; 
+
+&#8226; inability to realize synergies or other expected benefits; 
+
+&#8226; failure to maintain customer, vendor, and other relationships; 
+
+&#8226; inadequacy or ineffectiveness of an acquired company&#8217;s internal financial controls, disclosure controls and procedures, compliance programs, and/or environmental, health and safety, anti-corruption, human resource, or other policies or practices; and 
+
+&#8226; impairment of acquired intangible assets, goodwill, or other assets as a result of changing business conditions, technological advancements, or worse-than-expected performance of the acquired business. 
+
+The global memory and storage industry has experienced consolidation and may continue to consolidate. We engage, from time to time, in discussions regarding potential acquisitions and similar opportunities. To the extent we are successful in completing any such transactions, we could be subject to some or all of the risks described above, including the risks pertaining to funding, assumption of liabilities, integration challenges, and increases in debt that may accompany such transactions. Acquisitions of, or alliances with, technology companies are inherently risky and may not be successful and could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Changes in foreign currency exchange rates could materially adversely affect our business, results of operations, or financial condition. 
+
+Across our global operations, significant transactions and balances are denominated in currencies other than the U.S. dollar (our reporting currency), primarily the euro, Singapore dollar, New Taiwan dollar, and yen. In addition, a significant portion of our manufacturing costs are denominated in foreign currencies. Exchange rates for some of these currencies against the U.S. dollar have been volatile and may be volatile in future periods. If these currencies strengthen against the U.S. dollar, our manufacturing costs could significantly increase. Exchange rates for the U.S. dollar that adversely change against our foreign currency exposures could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We may incur restructuring charges in future periods. 
+
+From time to time, we have, and may in the future, enter into restructure initiatives in order to, among other items, streamline our operations, respond to changes in business conditions, our markets or product offerings, or to centralize certain key functions. We may not realize expected savings or other benefits from our restructure activities and may incur additional restructure charges or other losses in future periods associated with other initiatives. In connection with any restructure initiatives, we could incur restructure charges, loss of production output, loss of key personnel, disruptions in our operations, and difficulties in the timely delivery of products, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+Compliance with customer and responsible sourcing requirements and related regulations could limit the supply and increase the cost of certain materials, supplies, and services used in manufacturing our products. 
+
+Many of our customers have adopted responsible sourcing programs that require us to periodically report on our supply chain and responsible sourcing efforts to ensure we source the materials, supplies, and services we use and incorporate into the products we sell in a manner that is consistent with their programs. Some of our customers may elect to disqualify us as a supplier or reduce purchases from us if we are unable to verify that our products meet the specifications of their responsible sourcing programs. Meeting customer requirements may limit the sourcing and availability of some of the materials, supplies, and services we use, particularly when the availability of such materials, supplies, and services is concentrated to a limited number of suppliers. This in turn may affect our ability and/or the cost to obtain in sufficient quantities materials, supplies, and services necessary for the manufacture of our products. 
+
+This increased focus on environmental protection and social responsibility initiatives led to the passage of Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 and its implementing SEC regulations. The act imposes supply chain diligence and disclosure requirements for certain manufacturers of products containing specific minerals that may originate in or near the Democratic Republic of the Congo and finance or benefit local armed groups. These conflict minerals are commonly found in materials used in the manufacture of semiconductors. 
+
+Our inability to comply with customers&#8217; requirements for responsible sourcing or with related regulations could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We and others are subject to a variety of laws, regulations, or industry standards that may have a material adverse effect on our business, results of operations, or financial condition. 
+
+The manufacturing of our products requires the use of facilities, equipment, and materials that are subject to a broad array of laws and regulations in numerous jurisdictions in which we operate. Additionally, we are subject to a variety of other laws and regulations relative to the construction, maintenance, and operations of our facilities. Any changes in laws, regulations, or industry standards could cause us to incur additional direct costs, as well as increased indirect costs related to our relationships with our customers and suppliers, and otherwise harm our operations and financial condition. Any failure to comply with laws, regulations, or industry standards could adversely impact our reputation and our financial results. Additionally, we engage various third parties as sales channel partners or to represent us or otherwise act on our behalf who are also subject to a broad array of laws, regulations, and industry standards. Our engagement with these third parties may also expose us to risks associated with their respective compliance with laws and regulations. As a result of these items, we could experience the following: 
+
+&#8226; suspension of production or sales of our products; 
+
+&#8226; remediation costs; 
+
+&#8226; alteration of our manufacturing processes; 
+
+&#8226; regulatory penalties, fines, and legal liabilities; and 
+
+&#8226; reputational challenges. 
+
+Compliance with, or our failure, or the failure of our third-party sales channel partners or agents, to comply with, laws, regulations, or industry standards could have a material adverse effect on our business, results of operations, or financial condition. 
+
+We are subject to counterparty default risks. 
+
+We have numerous arrangements with financial institutions that subject us to counterparty default risks, including cash deposits, investments, and derivative instruments. Additionally, we are subject to counterparty default risk from our customers for amounts receivable from them. As a result, we are subject to the risk that the counterparty will default on its performance obligations. A counterparty may not comply with its contractual commitments which could then lead to its defaulting on its obligations with little or no notice to us, which could limit our ability to mitigate our exposure. Additionally, our ability to mitigate our exposures may be constrained by the terms of our contractual arrangements or because market conditions prevent us from taking effective action. If one of our counterparties becomes insolvent or files for bankruptcy, our ability to recover any losses suffered as a result of that counterparty&#8217;s 
+
+29 | 2020 10-K 
+
+default may be limited by the liquidity of the counterparty or the applicable laws governing the bankruptcy proceedings. In the event of such default, we could incur significant losses, which could have a material adverse effect on our business, results of operations, or financial condition. 
+
+The trading price of our common stock has been and may continue to be volatile. 
+
+Our common stock has experienced substantial price volatility in the past and may continue to do so in the future. Additionally, we, the technology industry, and the stock market as a whole have on occasion experienced extreme stock price and volume fluctuations that have affected stock prices in ways that may have been unrelated to the operating performance of the specific companies. The trading price of our common stock may fluctuate widely due to various factors, including, but not limited to, actual or anticipated fluctuations in our financial condition and operating results, changes in financial estimates by us or financial estimates and ratings by securities analysts, changes in our capital structure, including issuance of additional debt or equity to the public, interest rate changes, regulatory changes, news regarding our products or products of our competitors, and broad market and industry fluctuations. For these reasons, investors should not rely on recent or historical trends to predict future trading prices of our common stock, financial condition, results of operations, or cash flows. Investors in our common stock may not realize any return on their investment in us and may lose some or all of their investment. Volatility in the trading price of our common stock could also result in the filing of securities class action litigation matters, which could result in substantial costs and the diversion of management time and resources. 
+
+The amount and frequency of our share repurchases may fluctuate, and we cannot guarantee that we will fully consummate our share repurchase authorization, or that it will enhance long-term shareholder value. Share repurchases could also increase the volatility of the trading price of our stock and will diminish our cash reserves. 
+
+The amount, timing, and execution of our share repurchases pursuant to our share repurchase authorization may fluctuate based on our operating results, cash flows, and priorities for the use of cash for other purposes. These purposes include, but are not limited to, operational spending, capital spending, acquisitions, and repayment of debt. Other factors, including changes in tax laws, could also impact our share repurchases. Although our Board of Directors has authorized share repurchases of up to $10 billion of our outstanding common stock, the authorization does not obligate us to repurchase any common stock. 
+
+We cannot guarantee that our share repurchase authorization will be fully consummated or that it will enhance long-term shareholder value. The repurchase authorization could affect the trading price of our stock and increase volatility, and any announcement of a pause in, or termination of, this program may result in a decrease in the trading price of our stock. In addition, this program will diminish our cash reserves. 
+
+
+
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This discussion should be read in conjunction with the consolidated financial statements and accompanying notes for the year ended September 3, 2020. All period references are to our fiscal periods unless otherwise indicated. Our fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31. Fiscal 2020 contains 53 weeks and our fiscal 2019 and 2018 each contain 52 weeks. Our fourth quarter of fiscal 2020 contained 14 weeks. All tabular dollar amounts are in millions, except per share amounts. 
+
+For an overview of our business, see &#8220;Part I &#8211; Item 1. Business &#8211; Overview.&#8221; 
+
+Impact of COVID-19 on Our Business 
+
+Events surrounding the ongoing COVID-19 outbreak have resulted in a reduction in economic activity across the globe, which has affected demand for certain of our products. While we have observed demand increases in some areas of our business that support a stay-at-home economy, such as products used in data center infrastructure, notebook computers, and similar applications, we have also observed demand decreases in other categories such as smartphones, consumer electronics, automotive, desktop PCs, and enterprise markets. The ultimate extent to which COVID-19 will impact demand for our products depends on future developments, which are highly uncertain and very difficult to predict, including new information that may emerge concerning the severity of the coronavirus and actions to contain and treat its impacts. 
+
+While all our global sites are currently operating with close to full staff and at normal capacity levels, our facilities could be required to temporarily curtail production levels or temporarily cease operations based on government mandates. We may be required to, or deem it to be in the best interest of our employees, customers, partners, suppliers, and stakeholders, to alter our business operations in order to maintain a healthy and safe environment. It is not clear what potential effects any such alterations or modifications may have on our business, including effects on our customers, employees, and prospects, or on our financial results. We are following government policies and recommendations designed to slow the spread of COVID-19 and remain committed to the health and safety of our team members, contractors, suppliers, customers, distributors, and communities. 
+
+Our efforts to respond to the COVID-19 outbreak include the following: 
+
+&#8226; We have put health screenings in place, required physical distancing, established team separation protocols, and made equipment upgrades at our facilities. We are also prohibiting visitors, have significantly decreased business travel, and are generally requiring team members to work from home where possible. Where work from home is not possible, all on-site team members must pass thermal scanning equipment to ensure they do not have an elevated body temperature and must wear a mask at all times. 
+
+&#8226; To respond to changing market conditions, we have shifted some supply from markets which have experienced declines in demand, such as smartphones, consumer electronics, desktop PCs, automotive, and enterprise to markets that have experienced demand increases, such as data center, cloud server, notebooks, and gaming. 
+
+&#8226; We have evaluated our supply chain and communicated with our suppliers to identify supply gaps and taken steps to ensure continuity. In some cases, we have added alternative suppliers and increased our on-hand inventory of raw materials needed in our operations. 
+
+&#8226; We have added assembly and test capacity to provide redundant manufacturing capability through our network of captive operations and external partners. 
+
+&#8226; We are evaluating all our construction projects across our global manufacturing operations and enacting protocols to enhance the safety of our team members, suppliers, and contractors. 
+
+&#8226; We have developed strategies and are implementing measures to respond to a variety of potential economic scenarios, such as limitations on new hiring and business travel and reductions of discretionary spending. 
+
+&#8226; We are working with government authorities in the jurisdictions where we operate, and continuing to monitor our operations in an effort to ensure we follow government requirements, relevant regulations, industry standards, and best practices to help safeguard our team members, while safely continuing operations at our sites across the globe. 
+
+We believe these actions are appropriate and prudent to safeguard our team members, contractors, suppliers, customers, and communities, while allowing us to safely continue operations, but we cannot predict how the steps we, our team members, government entities, suppliers, or customers take in response to the COVID-19 outbreak will ultimately impact our business, outlook, or results of operations. 
+
+35 | 2020 10-K 
+
+Results of Operations 
+
+Consolidated Results 
+
+##TABLE_START For the year ended 2020 2019 2018 Revenue $ 21,435 100 % $ 23,406 100 % $ 30,391 100 % Cost of goods sold 14,883 69 % 12,704 54 % 12,500 41 % Gross margin 
+
+6,552 31 % 10,702 46 % 17,891 59 % Research and development 2,600 12 % 2,441 10 % 2,141 7 % Selling, general, and administrative 881 4 % 836 4 % 813 3 % Other operating (income) expense, net 
+
+68 &#8212; % 49 &#8212; % (57) &#8212; % Operating income 
+
+3,003 14 % 7,376 32 % 14,994 49 % Interest income (expense), net (80) &#8212; % 77 &#8212; % (222) (1) % Other non-operating income (expense), net 
+
+60 &#8212; % (405) (2) % (465) (2) % Income tax (provision) benefit 
+
+(280) (1) % (693) (3) % (168) (1) % Equity in net income (loss) of equity method investees 
+
+7 &#8212; % 3 &#8212; % (1) &#8212; % Net income attributable to noncontrolling interests 
+
+(23) &#8212; % (45) &#8212; % (3) &#8212; % Net income attributable to Micron 
+
+$ 2,687 13 % $ 6,313 27 % $ 14,135 47 % ##TABLE_END
+
+Total Revenue : Total revenue for 2020 decreased 8% as compared to 2019 primarily due to a decline in DRAM sales partially offset by an increase in NAND sales. Sales of DRAM products for 2020 decreased 14% as compared to 2019 as average selling prices declined in the mid-30% range due to challenging market conditions, partially offset by growth in bit shipments in the low-30% range driven by cloud server, enterprise server, and mobile markets. Sales of NAND products for 2020 increased 14% as compared to 2019 primarily due to increases in bit shipments in the mid-20% range driven by sales of SSDs to data center customers and sales of managed NAND products, partially offset by a high-single digit percent decline in average selling prices. 
+
+The U.S. Bureau of Industry and Security (&#8220;BIS&#8221;) enacted broad trade restrictions with respect to Huawei (which represented approximately 10% of our revenue in the fourth quarter of 2020 and 12% in 2019) that took effect on September 15, 2020 and currently prevent us from shipping products to Huawei. We cannot predict the duration these restrictions will remain in place and whether the BIS will grant us licenses to ship products to Huawei. We may not be able to replace the lost revenue opportunities associated with such restrictions. 
+
+Total revenue for 2019 decreased 23% as compared to 2018 primarily due to pricing declines resulting from the challenging memory market environment in 2019. Sales of DRAM products for 2019 decreased 28% as compared to 2018 primarily due to declines in average selling prices of approximately 30% resulting from supply and demand imbalances, customer inventory corrections, and CPU shortages. Sales of NAND products for 2019 decreased 12% as compared to 2018 primarily due to declines in average selling prices in the mid-40% range resulting from supply and demand imbalances, which were partially offset by significant increases in sales volumes. In addition, demand for our NAND products was adversely affected by the transition from SATA SSDs to NVMe SSDs. The higher NAND sales volumes in 2019 were driven by increases in sales of high-value mobile managed NAND products as well as discrete NAND products enabled by our execution in ramping 64- and 96-layer TLC 3D NAND. 
+
+Overall Gross Margin : Our overall gross margin percentage decreased to 31% for 2020 from 46% for 2019, primarily due to declines in average selling prices, partially offset by the effect of decreases in non-cash depreciation expense from the revision in estimated useful lives of equipment in our NAND wafer fabrication facilities described below, cost reductions resulting from strong execution in delivering products featuring advanced technologies, and continuous improvement initiatives to reduce production costs. Our gross margins included the impact of underutilization costs at MTU of $557 million for 2020, $384 million for 2019, and $262 million for 2018. We expect underutilization costs at MTU to gradually decline through 2021 as we redeploy equipment and continue to right-size our capacity. 
+
+Our overall gross margin percentage decreased to 46% for 2019 from 59% for 2018 primarily due to declines in average selling prices partially offset by cost reductions resulting from strong execution in delivering products featuring advanced technologies and from continuous improvement initiatives to reduce production costs. 
+
+We periodically assess the estimated useful lives of our property, plant, and equipment. Based on our assessment of planned technology node transitions, capital spending, and re-use rates, we revised the estimated useful lives of the existing equipment in our NAND wafer fabrication facilities and our research and development facilities from five years to seven years as of the beginning of the first quarter of 2020. The revision in estimated useful lives reduced NAND manufacturing depreciation expense by approximately $565 million in 2020, of which approximately $165 million remained capitalized in inventory as of the end of 2020. Adjusting for the effect of the reduced amount of depreciation expense remaining in inventory, the revision in estimated useful lives benefited cost of goods sold by approximately $400 million for 2020. 
+
+Revenue by Business Unit 
+
+##TABLE_START For the year ended 2020 2019 2018 CNBU $ 9,184 43 % $ 9,968 43 % $ 15,252 50 % MBU 5,702 27 % 6,403 27 % 6,579 22 % SBU 3,765 18 % 3,826 16 % 5,022 17 % EBU 2,759 13 % 3,137 13 % 3,479 11 % All Other 25 &#8212; % 72 &#8212; % 59 &#8212; % &#160; $ 21,435 $ 23,406 $ 30,391 ##TABLE_END
+
+Percentages of total revenue may not total 100% due to rounding. 
+
+Changes in revenue for each business unit for 2020 as compared to 2019 were as follows: 
+
+&#8226; CNBU revenue decreased 8% primarily due to DRAM price declines driven by imbalances in supply and demand, partially offset by bit sales growth across key markets, particularly in cloud server and graphics markets. In addition, in the second quarter of 2020, we determined that the 3D XPoint technology and product roadmap are more closely aligned with our CNBU strategy than our SBU strategy and 3D XPoint became an integral part of CNBU. Accordingly, we began to report all 3D XPoint activities within CNBU from that date. 
+
+&#8226; MBU revenue decreased 11% primarily due to price declines, partially offset by bit sales growth for high-value mobile MCP products. 
+
+&#8226; SBU revenue decreased 2% primarily due to the decline in 3D XPoint revenue in SBU after the first quarter of 2020 as noted above and NAND selling price declines, partially offset by bit sales growth for SSDs. SBU revenue included products manufactured and sold to Intel under a long-term supply agreement at prices approximating cost, which included 3D XPoint memory and NAND, aggregating $124 million, $682 million, and $541 million, for 2020, 2019, and 2018, respectively. 
+
+&#8226; EBU revenue decreased 12% primarily due to price declines resulting from the impact of the global COVID-19 pandemic on automotive, industrial, and consumer segments partially offset by bit sales growth from transitions to an increasing mix of high-density DRAM and NAND products. 
+
+Changes in revenue for each business unit for 2019 as compared to 2018 were as follows: 
+
+&#8226; CNBU revenue decreased 35% due to challenging market conditions in 2019, which led to price declines. 
+
+&#8226; MBU revenue decreased 3% primarily due to price declines offset by strong execution in developing and qualifying mobile managed NAND products and continued content growth in smartphones, which combined to drive a significant increase in shipment volumes. 
+
+&#8226; SBU revenue decreased 24% primarily due to price declines, partially offset by significant growth in shipment volumes as a result of strong execution in ramping 64-layer and 96-layer TLC NAND products. 
+
+&#8226; EBU revenue decreased 10% primarily due to lower sales to consumer markets as a result of weak demand and pricing, partially offset by increases in sales to automotive and industrial markets. 
+
+37 | 2020 10-K 
+
+Operating Income (Loss) by Business Unit 
+
+##TABLE_START For the year ended 2020 2019 2018 CNBU $ 2,010 22 % $ 4,645 47 % $ 9,773 64 % MBU 1,074 19 % 2,606 41 % 3,033 46 % SBU 36 1 % (386) (10) % 964 19 % EBU 301 11 % 923 29 % 1,473 42 % All Other (2) (8) % 13 18 % &#8212; &#8212; % &#160; $ 3,419 $ 7,801 $ 15,243 ##TABLE_END
+
+Percentages reflect operating income (loss) as a percentage of revenue for each business unit. 
+
+Changes in operating income or loss for each business unit for 2020 as compared to 2019 were as follows: 
+
+&#8226; CNBU operating income decreased primarily due to declines in DRAM pricing and MTU underutilization costs in 2020 related to 3D XPoint. 
+
+&#8226; MBU operating income decreased primarily due to declines in low-power DRAM and NAND pricing, partially offset by increases in sales of high-value MCP products and manufacturing cost reductions. 
+
+&#8226; SBU operating margin improved primarily due to lower 3D XPoint underutilization costs, manufacturing cost reductions, increases in sales volumes, and improved product mix, partially offset by declines in selling prices. 
+
+&#8226; EBU operating income decreased as a result of declines in pricing, partially offset by increases in sales volumes to the automotive and industrial markets. 
+
+Changes in operating income or loss for each business unit for 2019 as compared to 2018 were as follows: 
+
+&#8226; CNBU operating income decreased primarily due to declines in pricing and higher R&#38;D costs, partially offset by manufacturing cost reductions. 
+
+&#8226; MBU operating income decreased primarily due to declines in pricing partially offset by increases in sales of high-value managed NAND products and manufacturing cost reductions. 
+
+&#8226; SBU operating margin declined primarily due to declines in pricing, which were partially offset by manufacturing cost reductions and increases in sales volumes. SBU operating results for 2019 and 2018 were adversely impacted by the underutilization costs at IMFT. 
+
+&#8226; EBU operating income decreased as a result of declines in pricing and higher R&#38;D costs partially offset by manufacturing cost reductions and increases in sales volumes. 
+
+Operating Expenses and Other 
+
+Research and Development : R&#38;D expenses vary primarily with the number of development and pre-qualification wafers processed, amounts reimbursed under R&#38;D cost-sharing agreements, the cost of advanced equipment dedicated to new product and process development, and personnel costs. Because of the lead times necessary to manufacture our products, we typically begin to process wafers before completion of performance and reliability testing. Development of a product is deemed complete when it is qualified through reviews and tests for performance and reliability. R&#38;D expenses can vary significantly depending on the timing of product qualification. 
+
+R&#38;D expenses for 2020 were 7% higher as compared to 2019 primarily due to increases in volumes of development and pre-qualification wafers, a reduction of R&#38;D reimbursements from our partners, increases in employee compensation, and increases in subcontractor expense, partially offset by lower depreciation expense from the revision of the estimated useful lives of equipment. R&#38;D expenses were reduced by $110 million in 2020 due to the revision of the estimated useful lives of equipment. R&#38;D expenses for 2019 were 14% higher as compared to 2018 primarily due to decreases in reimbursements from our R&#38;D cost-sharing arrangements, increases in depreciation expense as a result of increases in capital spending, and increases in employee compensation. 
+
+We shared the cost of certain product and process development activities with development partners, including agreements to jointly develop NAND and 3D XPoint technologies with Intel. We substantially completed our cost-sharing agreements with Intel to develop 3D NAND and 3D XPoint technology in 2019 and 2020, respectively. Our R&#38;D expenses were reduced by $60 million for 2019 and $201 million for 2018 from reimbursements under these arrangements. Reimbursements were not significant in 2020. 
+
+Selling, General, and Administrative : SG&#38;A expenses for 2020 were 5% higher as compared to 2019 due to increases in employee compensation and legal costs, partially offset by a reduction in consulting fees. SG&#38;A expenses for 2019 were 3% higher as compared to 2018 primarily due to increases in legal costs and consulting fees, partially offset by a reduction in employee compensation and sales commissions. 
+
+Income Taxes : Our income tax (provision) benefit consisted of the following: 
+
+##TABLE_START For the year ended 2020 2019 2018 Income tax (provision) benefit, excluding items below 
+
+$ (117) $ (530) $ (274) Utilization of and other changes in net deferred tax assets of MMJ, MMT, and MTTW 
+
+(163) (173) (68) Repatriation Tax, net of adjustments related to uncertain tax positions 
+
+&#8212; 10 (1,030) Release of the valuation allowance on net deferred tax assets of our U.S. operations 
+
+&#8212; &#8212; 1,337 Remeasurement of deferred tax assets and liabilities reflecting lower U.S. corporate tax rates &#8212; &#8212; (133) $ (280) $ (693) $ (168) Effective tax rate 
+
+9.4 % 9.8 % 1.2 % ##TABLE_END
+
+Our income tax provision decreased in 2020 as compared to 2019 primarily as a result of reductions in our profit before tax. Our effective tax rate increased in 2019 as compared to 2018 primarily as a result of the Foreign Minimum Tax. In December 2017, the United States enacted the Tax Cuts and Jobs Act (the &#8220;Tax Act&#8221;), which imposed a one-time transition tax in 2018 (the &#8220;Repatriation Tax&#8221;) and, beginning in 2019, created a new minimum tax on certain foreign earnings (the &#8220;Foreign Minimum Tax&#8221;). We recognize the Foreign Minimum Tax in the period the tax is incurred. 
+
+We operate in a number of jurisdictions outside the United States, including Singapore, where we have tax incentive arrangements. These incentives expire, in whole or in part, at various dates through 2034 and are conditional, in part, upon meeting certain business operations and employment thresholds. The effect of tax incentive arrangements reduced our tax provision by $215 million (benefiting our diluted earnings per share by $0.19) for 2020, by $756 million ($0.66 per diluted share) for 2019, and by $1.96 billion ($1.59 per diluted share) for 2018. 
+
+(See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Income Taxes.&#8221;) 
+
+Other : Interest expense for 2020 increased 52% as compared to 2019 primarily due to an increase in the average level of outstanding debt obligations in 2020 as compared to 2019 and to a reduction in the amount of interest expense capitalized in 2020 as compared to 2019 resulting from lower levels of capital projects in process. Interest income for 2020 decreased 44% as compared to 2019 as a result of decreases in interest rates, partially offset by higher average levels of cash and investment balances. 
+
+Interest expense for 2019 decreased 63% as compared to 2018 primarily due to prepayments, repurchases, and conversions of debt and to an increase in the amount of interest expense capitalized from higher levels of capital spending, partially offset by increases in debt obligations. Interest income for 2019 increased 71% as compared to 2018 primarily due to increases in interest rates. 
+
+39 | 2020 10-K 
+
+Further discussion of other operating and non-operating income and expenses can be found in the following notes contained in &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements&#8221;: 
+
+&#8226; Equity Plans 
+
+&#8226; Research and Development 
+
+&#8226; Other Operating Income (Expense), Net 
+
+&#8226; Other Non-Operating Income (Expense), Net 
+
+Liquidity and Capital Resources 
+
+Our primary sources of liquidity are cash generated from operations and financing obtained from capital markets and financial institutions. Cash generated from operations is highly dependent on selling prices for our products, which can vary significantly from period to period. We are continuously evaluating alternatives for efficiently funding our capital expenditures and ongoing operations. We expect, from time to time, to engage in a variety of financing transactions for such purposes, including the issuance of securities. As of September 3, 2020, $2.50 billion was available to draw under our Revolving Credit Facility. We expect that our cash and investments, cash flows from operations, and available financing will be sufficient to meet our requirements at least through the next 12 months. 
+
+To develop new product and process technology, support future growth, achieve operating efficiencies, and maintain product quality, we must continue to invest in manufacturing technologies, facilities and equipment, and R&#38;D. We estimate capital expenditures in 2021 for property, plant, and equipment, net of partner contributions, to be approximately $9 billion, focused on technology transitions and product enablement, and expect the timing of our capital expenditures to be more heavily weighted toward the first half of 2021. Actual amounts for 2021 will vary depending on market conditions. As of September 3, 2020, we had purchase obligations of approximately $2.95 billion for the acquisition of property, plant, and equipment, of which approximately $2.76 billion is expected to be paid within one year. 
+
+Our Board of Directors has authorized the discretionary repurchase of up to $10 billion of our outstanding common stock through open-market purchases, block trades, privately-negotiated transactions, derivative transactions, and/or pursuant to a Rule 10b5-1 trading plan. The repurchase authorization has no expiration date, does not obligate us to acquire any common stock, and is subject to market conditions and our ongoing determination of the best use of available cash. Through September 3, 2020, we had repurchased an aggregate of $2.84 billion of the authorized amount. See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Equity.&#8221; 
+
+Cash and marketable investments totaled $9.19 billion as of September 3, 2020 and $9.12 billion as of August 29, 2019. Our investments consist primarily of bank deposits, money market funds, and liquid investment-grade, fixed-income securities, which are diversified among industries and individual issuers. To mitigate credit risk, we invest through high-credit-quality financial institutions and by policy generally limit the concentration of credit exposure by restricting the amount of investments with any single obligor. As of September 3, 2020, $3.30 billion of our cash and marketable investments was held by our foreign subsidiaries. 
+
+Cash Flows : 
+
+##TABLE_START For the year ended 2020 2019 2018 Net cash provided by operating activities $ 8,306 $ 13,189 $ 17,400 Net cash provided by (used for) investing activities (7,589) (10,085) (8,216) Net cash provided by (used for) financing activities (317) (2,438) (7,776) Effect of changes in currency exchange rates on cash, cash equivalents, and restricted cash 11 26 (37) Net increase in cash, cash equivalents, and restricted cash $ 411 $ 692 $ 1,371 ##TABLE_END
+
+Operating Activities : Cash provided by operating activities reflects net income adjusted for certain non-cash items, including depreciation expense, amortization of intangible assets, and stock-based compensation, and the effects of changes in operating assets and liabilities. The decrease in cash provided by operating activities for 2020 and 2019 was primarily due to lower net income compared with the prior period and changes in working capital. 
+
+Investing Activities : For 2020, net cash used for investing activities consisted primarily of $7.91 billion of expenditures for property, plant, and equipment (net of partner contributions), partially offset by $415 million of net inflows from sales, maturities, and purchases of available-for-sale securities. 
+
+For 2019, net cash used for investing activities consisted primarily of $9.03 billion of expenditures for property, plant, and equipment (net of partner contributions) and $1.17 billion of net outflows from sales, maturities, and purchases of available-for-sale securities. 
+
+For 2018, net cash used for investing activities consisted primarily of $7.99 billion of expenditures for property, plant, and equipment (net of partner contributions), partially offset by $164 million of net inflows from sales, maturities, and purchases of available-for-sale securities. 
+
+Financing Activities : For 2020, net cash used for financing activities consisted primarily of $4.37 billion of cash payments to reduce our debt, including $2.50 billion to pay down borrowings under our Revolving Credit Facility, $621 million for IMFT Member Debt repayments, $534 million to prepay our 2025 Notes, $266 million to settle conversions of notes, and $248 million for scheduled repayment of finance leases; $744 million for the acquisition of Intel&#8217;s noncontrolling interest in IMFT; and $176 million for the acquisition of 3.6 million shares of our common stock under our $10 billion share repurchase authorization. Cash used for financing activities was partially offset by proceeds of $2.50 billion from our Revolving Credit Facility, $1.25 billion from the 2023 Notes, and $1.25 billion from the 2024 Term Loan A. 
+
+For 2019, net cash used for financing activities consisted primarily of $2.66 billion for the acquisition of 67 million shares of treasury stock under our $10 billion share repurchase authorization and cash payments to reduce our debt, including $1.65 billion to settle conversions of notes, $728 million to prepay the 2022 Term Loan B, $316 million for IMFT Member Debt repayments, and $643 million for scheduled repayment of other notes and capital leases. Cash used for financing activities was partially offset by net proceeds of $3.53 billion from the aggregate issuance of the 2024 Notes, 2026 Notes, 2027 Notes, 2029 Notes, and 2030 Notes. 
+
+For 2018, net cash used for financing activities consisted primarily of cash payments to reduce our debt, including $9.42 billion to prepay or repurchase debt and settle conversions of notes and $774 million for scheduled repayment of other notes and capital leases. Cash used for financing activities was partially offset by net proceeds of $1.36 billion from the issuance of 34 million shares of our common stock for $41.00 per share in a public offering and $1.01 billion of proceeds from IMFT Member Debt. 
+
+See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Debt.&#8221; 
+
+Potential Settlement Obligations of Convertible Notes : See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Debt &#8211; 2032D Convertible Senior Notes.&#8221; 
+
+41 | 2020 10-K 
+
+Contractual Obligations : 
+
+##TABLE_START Payments Due by Period As of September 3, 2020 Total Less than 1 year 1-3 years 3-5 years More than 5 years 
+
+Notes payable (1) 
+
+$ 7,522 $ 417 $ 1,805 $ 1,972 $ 3,328 
+
+Finance lease obligations (1) 
+
+589 90 160 91 248 
+
+Operating lease obligations (2) 
+
+707 70 134 102 401 
+
+Purchase obligations (3) 
+
+5,987 4,398 871 128 590 
+
+Other long-term liabilities (4) 
+
+358 168 161 12 17 Total $ 15,163 $ 5,143 $ 3,131 $ 2,305 $ 4,584 ##TABLE_END
+
+(1) Amounts include principal and interest. 
+
+(2) Amounts include contractually obligated minimum lease payments for operating leases having an initial noncancelable term in excess of one year. 
+
+(3) Purchase obligations include all commitments to purchase goods or services of either a fixed or minimum quantity that meet any of the following criteria: (1) they are noncancelable, (2) we would incur a penalty if the agreement was canceled, or (3) we must make specified minimum payments even if we do not take delivery of the contracted products or services. If the obligation to purchase goods or services is noncancelable, the entire value of the contract was included in the above table. If the obligation is cancelable, but we would incur a penalty if canceled, only the dollar amount of the penalty was included as a purchase obligation. Contracted minimum amounts specified in any take-or-pay contracts were included in the above table as they represent the portion of each contract that is a firm commitment. Purchase obligations also included $838 million for leases that have been executed but have not yet commenced. Such amounts will be reclassified as lease obligations in the table above at the time such assets become available for our use. 
+
+(4) Amounts represent future cash payments to satisfy other long-term liabilities recorded on our consolidated balance sheet, including $168 million for the current portion of these long-term liabilities. We are unable to reliably estimate the timing of future certain payments related to uncertain tax positions and deferred tax liabilities; therefore, the amount has been excluded from the preceding table. However, other noncurrent liabilities recorded on our consolidated balance sheet included these uncertain tax positions and deferred tax liabilities. 
+
+Critical Accounting Estimates 
+
+The preparation of financial statements and related disclosures in conformity with U.S. GAAP requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosures. Estimates and judgments are based on historical experience, forecasted events, and various other assumptions that we believe to be reasonable under the circumstances. Estimates and judgments may vary under different assumptions or conditions. We evaluate our estimates and judgments on an ongoing basis. Our management believes the accounting policies below are critical in the portrayal of our financial condition and results of operations and require management&#8217;s most difficult, subjective, or complex judgments. 
+
+Business acquisitions : Accounting for acquisitions requires us to estimate the fair value of consideration paid and the individual assets and liabilities acquired, which involves a number of judgments, assumptions, and estimates that could materially affect the amount and timing of costs recognized in subsequent periods. Accounting for acquisitions can also involve significant judgment to determine when control of the acquired entity is transferred. We typically obtain independent third-party valuation studies to assist in determining fair values, including assistance in determining future cash flows, discount rates, and comparable market values. Items involving significant assumptions, estimates, and judgments include the following: 
+
+&#8226; Debt, including discount rate and timing of payments; 
+
+&#8226; Deferred tax assets, including projections of future taxable income and tax rates; 
+
+&#8226; Fair value of consideration paid or transferred; 
+
+&#8226; Intangible assets, including valuation methodology, estimations of future revenue and costs, profit allocation rates attributable to the acquired technology, and discount rates; 
+
+&#8226; Inventory, including estimated future selling prices, timing of product sales, and completion costs for work in process; and 
+
+&#8226; Property, plant, and equipment, including determination of values in a continued-use model. 
+
+Consolidation : We have interests in entities that are Variable Interest Entities (&#8220;VIEs&#8221;). Determining whether to consolidate a VIE requires judgment in assessing whether an entity is a VIE and if we are the entity&#8217;s primary beneficiary. If we are the primary beneficiary of a VIE, we are required to consolidate it. To determine if we are the primary beneficiary, we evaluate whether we have the power to direct the activities that most significantly impact the VIE&#8217;s economic performance and the obligation to absorb losses or the right to receive benefits of the VIE that could potentially be significant to the VIE. Our evaluation includes identification of significant activities and an assessment of our ability to direct those activities based on governance provisions and arrangements to provide or receive product and process technology, product supply, operations services, equity funding, financing, and other applicable agreements and circumstances. Our assessments of whether we are the primary beneficiary of our VIEs require significant assumptions and judgments. 
+
+Contingencies : We are subject to the possibility of losses from various contingencies. Significant judgment is necessary to estimate the probability and amount of a loss, if any, from such contingencies. An accrual is made when it is probable that a liability has been incurred or an asset has been impaired and the amount of loss can be reasonably estimated. In accounting for the resolution of contingencies, significant judgment may be necessary to estimate amounts pertaining to periods prior to the resolution that are charged to operations in the period of resolution and amounts related to future periods. 
+
+Goodwill and intangible assets : We test goodwill for impairment in our fourth quarter each year, or more frequently if indicators of an impairment exist, to determine whether it is more likely than not that the fair value of the reporting unit with goodwill is less than its carrying value. For reporting units for which this assessment concludes that it is more likely than not that the fair value is more than its carrying value, goodwill is considered not impaired and we are not required to perform the goodwill impairment test. Qualitative factors considered in this assessment include industry and market considerations, overall financial performance, and other relevant events and factors affecting the fair value of the reporting unit. For reporting units for which this assessment concludes that it is more likely than not that the fair value is below the carrying value, goodwill is tested for impairment by determining the fair value of each reporting unit and comparing it to the carrying value of the net assets assigned to the reporting unit. If the fair value of the reporting unit exceeds its carrying value, goodwill is considered not impaired. If the carrying value of the reporting unit exceeds its fair value, we would record an impairment loss up to the difference between the carrying value and implied fair value. 
+
+Determining when to test for impairment, the reporting units, the assets and liabilities of the reporting unit, and the fair value of the reporting unit requires significant judgment and involves the use of significant estimates and assumptions. These estimates and assumptions include revenue growth rates, forecasted manufacturing costs, and other expenses and are developed as part of our long-range planning process. The same estimates are used in business planning, forecasting, and capital budgeting as part of our long-term manufacturing capacity analysis. We test the reasonableness of the output of our long-range planning process by calculating an implied value per share and comparing that to current stock prices, analysts&#8217; consensus pricing, and management&#8217;s expectations. These estimates and assumptions are used to calculate projected future cash flows for the reporting unit, which are discounted using a risk-adjusted rate to estimate a fair value. The discount rate requires determination of appropriate market comparables. We base fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. Actual future results may differ from those estimates. 
+
+We test other identified intangible assets with definite useful lives when events and circumstances indicate the carrying value may not be recoverable by comparing the carrying amount to the sum of undiscounted cash flows expected to be generated by the asset. We test intangible assets with indefinite lives annually for impairment using a fair value method such as discounted cash flows. Estimating fair values involves significant assumptions, including future sales prices, sales volumes, costs, and discount rates. 
+
+Income taxes : We are required to estimate our provision for income taxes and amounts ultimately payable or recoverable in numerous tax jurisdictions around the world. These estimates involve significant judgment and interpretations of regulations and are inherently complex. Resolution of income tax treatments in individual jurisdictions may not be known for many years after completion of the applicable year. We are also required to evaluate the realizability of our deferred tax assets on an ongoing basis in accordance with U.S. GAAP, which 
+
+43 | 2020 10-K 
+
+requires the assessment of our performance and other relevant factors. Realization of deferred tax assets is dependent on our ability to generate future taxable income. In recent periods, our results of operations have benefited from increases in the amount of deferred taxes we expect to realize, primarily from the levels of capital spending and increases in the amount of taxable income we expect to realize in Japan and the United States. Our income tax provision or benefit is dependent, in part, on our ability to forecast future taxable income in these and other jurisdictions. Such forecasts are inherently difficult and involve significant judgments including, among others, projecting future average selling prices and sales volumes, manufacturing and overhead costs, levels of capital spending, and other factors that significantly impact our analyses of the amount of net deferred tax assets that are more likely than not to be realized. 
+
+Inventories : Inventories are stated at the lower of average cost or net realizable value. Cost includes depreciation, labor, material, and overhead costs, including product and process technology costs. Determining net realizable value of inventories involves significant judgments, including projecting future average selling prices and future sales volumes. To project average selling prices and sales volumes, we review recent sales volumes, existing customer orders, current contract prices, industry analyses of supply and demand, seasonal factors, general economic trends, and other information. When these analyses reflect estimated net realizable values below our manufacturing costs, we record a charge to cost of goods sold in advance of when inventories are actually sold. Differences in forecasted average selling prices used in calculating lower of cost or net realizable value adjustments can result in significant changes in the estimated net realizable value of product inventories and accordingly the amount of write-down recorded. For example, a 5% variance in the estimated selling prices would have changed the estimated net realizable value of our inventory by approximately $525 million as of September 3, 2020. Due to the volatile nature of the semiconductor memory and storage markets, actual selling prices and volumes often vary significantly from projected prices and volumes; as a result, the timing of when product costs are charged to operations can vary significantly. 
+
+U.S. GAAP provides for products to be grouped into categories in order to compare costs to net realizable values. The amount of any inventory write-down can vary significantly depending on the determination of inventory categories. We review the major characteristics of product type and markets in determining the unit of account for which we perform the lower of average cost or net realizable value analysis and categorize all inventories (including DRAM, NAND, and other memory) as a single group. 
+
+Property, plant, and equipment : We periodically assess the estimated useful lives of our property, plant, and equipment based on technology node transitions, capital spending, and equipment re-use rates. Based on our assessment of planned technology node transitions, capital spending, and re-use rates, we revised the estimated useful lives of the existing equipment in our NAND wafer fabrication facilities and our research and development (&#8220;R&#38;D&#8221;) facilities from five years to seven years as of the beginning of the first quarter of 2020. See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Property, Plant, and Equipment.&#8221; 
+
+We also review the carrying value of property, plant, and equipment for impairment when events and circumstances indicate that the carrying value of an asset or group of assets may not be recoverable from the estimated future cash flows expected to result from its use and/or disposition. In cases where undiscounted expected future cash flows are less than the carrying value, an impairment loss is recognized equal to the amount by which the carrying value exceeds the estimated fair value of the assets. The estimate of future cash flows involves numerous assumptions which require significant judgment by us, including, but not limited to, future use of the assets for our operations versus sale or disposal of the assets, future selling prices for our products, and future production and sales volumes. In addition, significant judgment is required in determining the groups of assets for which impairment tests are separately performed. 
+
+Research and development : Costs related to the conceptual formulation and design of products and processes are expensed as R&#38;D as incurred. Determining when product development is complete requires significant judgment. We deem development of a product complete once the product has been thoroughly reviewed and tested for performance and reliability. Subsequent to product qualification, product costs are included in cost of goods sold. 
+
+Revenue recognition : Revenue is primarily recognized at a point in time when control of the promised goods is transferred to our customers in an amount that reflects the consideration we expect to be entitled to in exchange for those goods. Contracts with our customers are generally short-term in duration at fixed, negotiated prices with payment generally due shortly after delivery. We estimate a liability for returns using the expected value method 
+
+based on historical rates of return. In addition, we generally offer price protection to our distributors, which is a form of variable consideration that decreases the transaction price. We use the expected value method, based on historical price adjustments and current pricing trends, to estimate the amount of revenue recognized from sales to distributors. Differences between the estimated and actual amounts are recognized as adjustments to revenue. 
+
+Stock-based compensation : Stock-based compensation is estimated at the grant date based on the fair value of the award and is recognized as expense using the straight-line amortization method over the requisite service period. For performance-based stock awards, the expense recognized is dependent on our assessment of the likelihood of the performance measure being achieved. We utilize forecasts of future performance to assess these probabilities and this assessment requires significant judgment. 
+
+Determining the appropriate fair-value model and calculating the fair value of stock-based awards at the grant date requires significant judgment, including estimating stock price volatility and expected option life. We develop these estimates based on historical data and market information which can change significantly over time. A small change in the estimates used can result in a relatively large change in the estimated valuation. We use the Black-Scholes option valuation model to value employee stock options and awards granted under our employee stock purchase plan. We estimate stock price volatility based on an average of historical volatility and the implied volatility derived from traded options on our stock. 
+
+Recently Adopted Accounting Standards 
+
+See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Recently Adopted Accounting Standards.&#8221; 
+
+Recently Issued Accounting Standards 
+
+See &#8220;Item 8. Financial Statements and Supplementary Data &#8211; Notes to Consolidated Financial Statements &#8211; Recently Issued Accounting Standards.&#8221; 
+

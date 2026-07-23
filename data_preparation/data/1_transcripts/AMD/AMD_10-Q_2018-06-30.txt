@@ -1,0 +1,1092 @@
+ ITEM 2. 
+
+MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The statements in this report include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on current expectations and beliefs and involve numerous risks and uncertainties that could cause actual results to differ materially from expectations. These forward-looking statements speak only as of the date hereof or as of the dates indicated in the statements and should not be relied upon as predictions of future events, as we cannot assure you that the events or circumstances reflected in these statements will be achieved or will occur. You can identify forward-looking statements by the use of forward-looking terminology including &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seeks,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;pro forma,&#8221; &#8220;estimates,&#8221; &#8220;anticipates,&#8221; &#8220;designed,&#8221; or the negative of these words and phrases, other variations of these words and phrases or comparable terminology. The forward-looking statements relate to, among other things: possible impact of future accounting rules on AMD&#8217;s consolidated financial statements; demand for AMD&#8217;s products; the growth, change and competitive landscape of the markets in which AMD participates; the potential impact of the new revenue recognition accounting standards, including expected impact on seasonality trends; the nature and extent of AMD&#8217;s future payments to GLOBALFOUNDRIES Inc. (GF) and the materiality of these payments; the materiality of AMD&#8217;s future purchases from GF; AMD&#8217;s ability to meet its 2018 wafer purchase target; the expected amounts to be received by AMD under the IP licensing agreement and AMD&#8217;s expected royalty payments from future product sales of China JVs&#8217; products to be developed on the basis of such licensed IP; sales patterns of AMD&#8217;s PC products and semi-custom System-on-Chip (SoC) products for game consoles; the level of international sales as compared to total sales; international sales will continue to be a significant portion of total sales in the foreseeable future; AMD &#8217;s &#32;reliance on the JVs for ATMP services; that other unrecognized tax benefits will not materially change in the next 12 months; that AMD&#8217;s cash and cash equivalents balances together with the availability under that certain secured revolving line of credit (Secured Revolving Line of Credit) made available to AMD and certain of its subsidiaries under the Amended and Restated Loan Agreement, will be sufficient to fund AMD&#8217;s operations including capital expenditures over the next 12 months; AMD&#8217;s ability to obtain sufficient external financing on favorable terms, or at all; AMD&#8217;s expectation that based on the information presently known to management, the potential liability related to AMD &#8217;s &#32;current litigation will not have a material adverse effect on its financial condition, cash flows or results of operations; AMD does not expect to pay dividends in the future; incurrence of costs for capital projects on new office space; anticipated increase in costs related to protection against data breaches and cyber-attacks; and a small number of customers will continue to account for a substantial part of AMD&#8217;s revenue in the future. Material factors that could cause actual results to differ materially from current expectations include, without limitation, the following: Intel Corporation&#8217;s dominance of the microprocessor market and its aggressive business practices may limit AMD&#8217;s ability to compete effectively; AMD has a wafer supply agreement with GF with obligations to purchase all of its microprocessor and APU product requirements, and a certain portion of its GPU product requirements from GF with limited exceptions. If GF is not able to satisfy AMD&#8217;s manufacturing requirements, AMD&#8217;s business could be adversely impacted; AMD relies on third parties to manufacture its products, and if they are unable to do so on a timely basis in sufficient quantities and using competitive technologies, AMD&#8217;s business could be materially adversely affected; failure to achieve expected manufacturing yields for AMD&#8217;s products could negatively impact its financial results; the success of AMD&#8217;s business is dependent upon its ability to introduce products on a timely basis with features and performance levels that provide value to its customers while supporting and coinciding with significant industry transitions; if AMD cannot generate sufficient revenue and operating cash flow or obtain external financing, it may face a cash shortfall and be unable to make all of its planned investments in research and development or other strategic investments; the loss of a significant customer may have a material adverse effect on AMD; AMD&#8217;s receipt of revenue from its semi-custom SoC products is dependent upon its technology being designed into third-party products and the success of those products; AMD&#8217;s products may be subject to security vulnerabilities that could have a material adverse effect on AMD; data breaches and cyber-attacks could compromise AMD&#8217;s intellectual property or other sensitive information, be costly to remediate and cause significant damage to its business and reputation; AMD&#8217;s operating results are subject to quarterly and seasonal sales patterns; global economic uncertainty may adversely impact AMD&#8217;s business and operating results; AMD may not be able to generate sufficient cash to service its debt obligations or meet its working capital requirements; AMD has a large amount of indebtedness which could adversely affect its financial position and prevent it from implementing its strategy or fulfilling its contractual obligations; the agreements governing AMD&#8217;s notes and the Secured Revolving Line of Credit impose restrictions on AMD that may adversely affect AMD&#8217;s ability to operate its business; the markets in which AMD&#8217;s products are sold are highly competitive; AMD&#8217;s worldwide operations are subject to political, legal and economic risks and natural disasters, which could have a material adverse effect on it; AMD&#8217;s issuance to West Coast Hitech L.P. (WCH) of warrants to purchase 75 million shares of its common stock, if and when exercised, will dilute the ownership interests of AMD&#8217;s existing stockholders, and the conversion of the 2.125% Convertible Senior Notes due 2026 (2.125% Notes) may dilute the ownership interest of AMD&#8217;s existing stockholders, or may otherwise depress the price of its common stock; uncertainties involving the ordering and shipment of AMD&#8217;s products could materially adversely affect it; the demand for AMD&#8217;s products depends in part on the market conditions in the industries into which they are sold. Fluctuations in demand for AMD&#8217;s products or a market decline in any of these industries could have a material adverse effect on its results of operations; AMD&#8217;s ability to design and introduce new products in a timely manner is dependent upon third-party intellectual property; AMD depends on third-party companies for the design, manufacture and supply of motherboards, software and other 
+
+computer platform components to support its business; if AMD loses Microsoft Corporation&#8217;s support for its products or other software vendors do not design and develop software to run on AMD&#8217;s products, its ability to sell its products could be materially adversely affected; AMD&#8217;s reliance on third-party distributors and add-in-board (AIB) partners subjects it to certain risks; AMD may incur future impairments of goodwill and technology license purchases; AMD&#8217;s inability to continue to attract and retain qualified personnel may hinder its business; in the event of a change of control, AMD may not be able to repurchase its outstanding debt as required by the applicable indentures and its Secured Revolving Line of Credit, which would result in a default under the indentures and its Secured Revolving Line of Credit; the semiconductor industry is highly cyclical and has experienced severe downturns that have materially adversely affected, and may continue to materially adversely affect &#32; its business in the future; acquisitions, divestitures and/or joint ventures could disrupt its business, harm its financial condition and operating results or dilute, or adversely affect the price of, its common stock; AMD&#8217;s business is dependent upon the proper functioning of its internal business processes and information systems and modification or interruption of such systems may disrupt its business, processes and internal controls; if essential equipment, materials or manufacturing processes are not available to manufacture its products, AMD could be materially adversely affected; if AMD&#8217;s products are not compatible with some or all industry-standard software and hardware, it could be materially adversely affected; costs related to defective products could have a material adverse effect on AMD; if AMD fails to maintain the efficiency of its supply chain as it responds to changes in customer demand for its products, its business could be materially adversely affected; AMD outsources to third parties certain supply-chain logistics functions, including portions of its product distribution, transportation management and information technology support services; AMD&#8217;s stock price is subject to volatility; worldwide political conditions may adversely affect demand for AMD&#8217;s products; unfavorable currency exchange rate fluctuations could adversely affect AMD; AMD&#8217;s inability to effectively control the sales of its products on the gray market could have a material adverse effect on it; if AMD cannot adequately protect its technology or other intellectual property in the United States and abroad, through patents, copyrights, trade secrets, trademarks and other measures, it may lose a competitive advantage and incur significant expenses; AMD is a party to litigation and may become a party to other claims or litigation that could cause it to incur substantial costs or pay substantial damages or prohibit it from selling its products; AMD&#8217;s business is subject to potential tax liabilities; and AMD is subject to environmental laws, conflict minerals-related provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act as well as a variety of other laws or regulations that could result in additional costs and liabilities. 
+
+For a discussion of factors that could cause actual results to differ materially from the forward-looking statements, see &#8220;Part II, Item 1A&#8212;Risk Factors&#8221; beginning on page 42 and &#8220;Financial Condition&#8221; beginning on page 35 and other risks and uncertainties set forth below in this report or detailed in our other Securities and Exchange Commission (SEC) reports and filings. We assume no obligation to update forward-looking statements. 
+
+AMD, the AMD Arrow logo, ATI, and the ATI logo, EPYC, Radeon, Ryzen, and combinations thereof, are trademarks of Advanced Micro Devices, Inc. Microsoft and Xbox One are trademarks or registered trademarks of Microsoft Corporation in the United States and other jurisdictions. Other names are for informational purposes only and are used to identify companies and products and may be trademarks of their respective owners. &#8220;Polaris&#8221;, &#8220;Vega&#8221;, &#8220;Radeon Vega&#8221;, &#8220;Navi&#8221;, &#8220;Zen&#8221; and &#8220;Naples&#8221; are codenames for AMD architectures, and are not product names. 
+
+The following discussion should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in this report and our audited consolidated financial statements and related notes as of December 30, 2017 &#32;and December 31, 2016 , and for each of the three years in the period ended December 30, 2017 &#32;as filed in our Annual Report on Form 10-K for the year ended December 30, 2017 . 
+
+Overview 
+
+We are a global semiconductor company with facilities around the world. Within the global semiconductor industry, we offer primarily: 
+
+&#8226; 
+
+x86 microprocessors, as standalone devices or as incorporated into an accelerated processing unit (APU), chipsets, discrete and integrated graphics processing units (GPUs), and professional GPUs; and 
+
+&#8226; 
+
+server and embedded processors, semi-custom System-on-Chip (SoC) products and technology for game consoles. 
+
+We also license portions of our intellectual property (IP) portfolio. 
+
+In this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries (collectively, &#8220;us,&#8221; &#8220;our&#8221; or &#8220;AMD&#8221;), including a discussion of our results of operations for the three and six months ended June 30, 2018 &#32;compared to the three and six months ended July 1, 2017 , an analysis of changes in our financial condition and a discussion of our contractual obligations. 
+
+Our financial results for the second quarter of 2018 demonstrate our continued success in the execution of our long-term strategy for sustained growth. Net revenue in the second quarter of 2018 &#32;was $1.76 billion, a 53% increase compared to the second quarter of 2017 . The year-over-year increase was primarily due to a 64% increase in Computing and Graphics net revenue and a 37% increase in Enterprise, Embedded and Semi-Custom net revenue. The increase in the Computing and Graphics segment net revenue was primarily due to higher sales of our Radeon&#8482; and Ryzen&#8482; products. The increase in the Enterprise, Embedded and Semi-Custom segment net revenue was primarily due to higher semi-custom revenue as well as higher EPYC&#8482; server revenue. Our operating income for the second quarter of 2018 &#32;was $153 million compared to an operating loss of $1 million in the second quarter of 2017 . Our net income for the second quarter of 2018 &#32;was $116 million compared to a net loss of $42 million in the second quarter of 2017 . 
+
+We continued to introduce new products in the second quarter of 2018, including our premium notebook AMD Ryzen PRO APUs designed specifically for the commercial market. We also announced the availability of four models of our 2nd Generation Ryzen desktop CPUs optimized for gamers, creators and hardware enthusiasts. 
+
+Cash, cash equivalents and marketable securities as of the end of the second quarter of 2018 &#32;were $983 million , compared to $1.18 billion as of the end of the fourth quarter of 2017. 
+
+We intend the discussion of our financial condition and results of operations that follows to provide information that will assist you in understanding our financial statements, the changes in certain key items in those financial statements from year to year and quarter to quarter, the primary factors that resulted in those changes, and how certain accounting principles, policies and estimates affect our financial statements. 
+
+Results of Operations 
+
+Management, including the Chief Operating Decision Maker, who is our Chief Executive Officer, reviews and assesses our operating performance using segment net revenue and operating income (loss) before interest, other income (expense), net and income taxes. These performance measures include the allocation of expenses to the operating segments based on management&#8217;s judgment. We have the following two reportable segments: 
+
+&#8226; 
+
+the Computing and Graphics segment, which primarily includes desktop and notebook processors and chipsets, GPUs and professional GPUs. We also license portions of our IP portfolio; and 
+
+&#8226; 
+
+the Enterprise, Embedded and Semi-Custom segment, which primarily includes server and embedded processors, semi-custom SoC products, development services and technology for game consoles. We also license portions of our IP portfolio. 
+
+In addition to these reportable segments, we have an All Other category, which is not a reportable segment. This category primarily includes certain expenses and credits that are not allocated to either of the reportable segments because management does not consider these expenses and credits in evaluating the performance of the reportable segments. This category also includes employee stock-based compensation expense. 
+
+We use a 52 or 53 week fiscal year ending on the last Saturday in December. The quarters ended June 30, 2018 &#32;and July 1, 2017 &#32;each consisted of 13 weeks. The six months ended June 30, 2018 &#32;and July 1, 2017 &#32;each consisted of 26 weeks. 
+
+Our operating results tend to vary seasonally. For example, historically, first quarter PC product sales are generally lower than fourth quarter sales and with respect to our semi-custom SoC products for game consoles, our sales patterns generally follow the seasonal trends of consumer business with sales in the first half of the year being lower than sales in the second half of the year. Following the adoption of the revenue recognition standard (ASC 606) effective in the first quarter of 2018, we expect our seasonality trends to be affected as we now recognize certain revenue earlier than prior to the adoption of ASC 606. For example, we expect a portion of our semi-custom SoC product revenue to shift from the second half of the year to the first half of the year. 
+
+The following table provides a summary of net revenue and operating income (loss) by segment: 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+&#160; 
+
+(In millions) 
+
+Net revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Computing and Graphics 
+
+&#160; 
+
+$ 
+
+1,086 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,201 
+
+&#160; 
+
+$ 
+
+1,234 
+
+Enterprise, Embedded and Semi-Custom 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,202 
+
+&#160; 
+
+1,095 
+
+Total net revenue 
+
+&#160; 
+
+$ 
+
+1,756 
+
+&#160; 
+
+$ 
+
+1,151 
+
+&#160; 
+
+$ 
+
+3,403 
+
+&#160; 
+
+$ 
+
+2,329 
+
+Operating income (loss): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Computing and Graphics 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(14 
+
+) 
+
+Enterprise, Embedded and Semi-Custom 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+All Other 
+
+&#160; 
+
+(33 
+
+) 
+
+&#160; 
+
+(24 
+
+) 
+
+&#160; 
+
+(65 
+
+) 
+
+&#160; 
+
+(47 
+
+) 
+
+Total operating income (loss) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(1 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Computing and Graphics 
+
+Computing and Graphics net revenue of $1.1 billion &#32;in the second quarter of 2018 &#32; increased &#32;by 64% , compared to net revenue of $661 million &#32;in the second quarter of 2017 , primarily as a result of a 45% increase in average selling price and a 15% increase in unit shipments. The increase in average selling price was primarily due to our Radeon products for the channel and datacenter, and mobile processors, partially offset by lower average selling price of desktop processors. The increase in unit shipments was primarily attributable to higher demand for our Ryzen and Radeon products as customers continued to adopt our new products. 
+
+Computing and Graphics net revenue of $2.2 billion &#32;in the six months ended June 30, 2018 &#32; increased &#32;by 78% , compared to net revenue of $1.2 billion &#32;in the six months ended July 1, 2017 , primarily as a result of a 55% increase in average selling price and an 18% increase in unit shipments. The increase in average selling price was primarily due to Radeon products for the channel and datacenter, and mobile processors, partially offset by lower average selling price of desktop processors. The increase in unit shipments was primarily attributable to higher demand for our Radeon and Ryzen products as customers adopted our new products. 
+
+Computing and Graphics operating income was $117 million &#32;in the second quarter of 2018 , compared to an operating income of $ 7 million &#32;in the second quarter of 2017 . The improvement &#32;in operating results was primarily due to the increase in net revenue referenced above, partially offset by the related increase in cost of sales and a $62 million increase in operating expenses. Operating expenses increased for the reasons set forth under &#8220;Expenses&#8221; below. 
+
+Computing and Graphics operating income was $255 million &#32;in the six months ended June 30, 2018 , compared to an operating loss of $14 million &#32;in the six months ended July 1, 2017 . The improvement &#32;in operating results was primarily due to the increase in net revenue referenced above, partially offset by the related increase in cost of sales and a $122 million increase in operating expenses. Operating expenses increased for the reasons set forth under &#8220;Expenses&#8221; below. 
+
+Enterprise, Embedded and Semi-Custom 
+
+Enterprise, Embedded and Semi-Custom net revenue of $670 million &#32;in the second quarter of 2018 &#32; increased &#32;by 37% , compared to net revenue of $490 million &#32;in the second quarter of 2017 . The increase in net revenue was primarily due to higher semi-custom revenue as well as higher EPYC server revenue. 
+
+Enterprise, Embedded and Semi-Custom net revenue of $1.2 billion &#32;in the six months ended June 30, 2018 &#32; increased &#32;by 10% , compared to net revenue of $1.1 billion &#32;in the six months ended July 1, 2017 . The increase in net revenue was primarily due to higher sale of our EPYC server and embedded products as well as higher semi-custom revenue. 
+
+Enterprise, Embedded and Semi-Custom operating income was $69 million &#32;in the second quarter of 2018 &#32;compared to operating income of $16 million &#32;in the second quarter of 2017 . The improvement &#32;in operating results was primarily due to the increase in net revenue referenced above, partially offset by the related increase in cost of sales and a $17 million increase in operating expenses. In the second quarter of 2017, operating income also included a licensing gain of $25 million. Operating expenses increased for the reasons set forth under &#8220;Expenses&#8221; below. 
+
+Enterprise, Embedded and Semi-Custom operating income was $83 million &#32;in the six months ended June 30, 2018 &#32;compared to operating income of $71 million &#32;in the six months ended July 1, 2017 . The improvement &#32;in operating results was primarily due to the increase in net revenue referenced above, partially offset by a $32 million increase in operating expenses and the related increase in cost of sales. In the six months ended July 1, 2017, operating income also included a licensing gain of $52 million. Operating expenses increased for the reasons set forth under &#8220;Expenses&#8221; below. 
+
+International Sales 
+
+International sales as a percentage of net revenue were 82% in the second quarter of 2018 &#32;and 87% in the second quarter of 2017 . The decrease in international sales as a percentage of net revenue in the second quarter of 2018 &#32;compared to the second quarter of 2017 &#32;was primarily driven by a higher proportion of revenue from domestic sales of our semi-custom, Radeon and EPYC products. 
+
+International sales as a percentage of net revenue were 82% in the first six months ended June 30, 2018 &#32;and 77% in the first six months ended July 1, 2017 . The increase in international sales as a percentage of net revenue in the first six months ended June 30, 2018 &#32;compared to the first six months ended July 1, 2017 &#32;was primarily driven by a higher proportion of revenue from China and Taiwan related to sales of our products within the Computing and Graphics segment. 
+
+We expect that international sales will continue to be a significant portion of total sales in the foreseeable future. Substantially all of our sales transactions were denominated in U.S. dollars. 
+
+Comparison of Gross Margin, Expenses, Interest Expense, Other Income (Expense), Net, Income Taxes and Equity Loss in investee 
+
+The following is a summary of certain condensed consolidated statement of operations data for the periods indicated: &#160; 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+&#160; 
+
+(In millions except for percentages) 
+
+Cost of sales 
+
+&#160; 
+
+$ 
+
+1,104 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,154 
+
+&#160; 
+
+$ 
+
+1,565 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,249 
+
+&#160; 
+
+Gross margin percentage 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing, general and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Licensing gain 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(25 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(52 
+
+) 
+
+Interest expense 
+
+&#160; 
+
+(31 
+
+) 
+
+&#160; 
+
+(32 
+
+) 
+
+&#160; 
+
+(62 
+
+) 
+
+&#160; 
+
+(64 
+
+) 
+
+Other income (expense), net 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(8 
+
+) 
+
+Provision for income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Equity loss in investee 
+
+&#160; 
+
+$ 
+
+(1 
+
+) 
+
+&#160; 
+
+$ 
+
+(3 
+
+) 
+
+&#160; 
+
+$ 
+
+(2 
+
+) 
+
+&#160; 
+
+$ 
+
+(5 
+
+) 
+
+Gross Margin 
+
+Gross margin as a percentage of net revenue was 37% &#32;in the second quarter of 2018 , compared to 34% &#32;in the second quarter of 2017 . The improvement in gross margin was driven by ramp of new products that have a higher gross margin than the corporate average. 
+
+Gross margin as a percentage of net revenue was 37% &#32;in the six months ended June 30, 2018 , compared to 33% &#32;in the six months ended July 1, 2017 . The improvement in gross margin was driven by ramp of new products new products that have a higher gross margin than the corporate average. 
+
+Expenses 
+
+Research and Development Expenses 
+
+Research and development expenses of $ 357 million &#32;in the second quarter of 2018 &#32; increased &#32;by $72 million , or 25% , compared to $ 285 million &#32;in the second quarter of 2017 &#32;primarily due to an increase in product engineering and design costs in our Computing and Graphics segment, higher employee incentives in both business segments primarily driven by our improved financial performance and higher stock-based compensation expense. 
+
+Research and development expenses of $ 700 million &#32;in the six months ended June 30, 2018 , increased &#32;by $144 million , or 26% &#32;compared to $ 556 million &#32;in the six months ended July 1, 2017 , primarily due to an increase in product engineering and design costs in our Computing and Graphics segment, higher employee incentives in both business segments primarily driven by our improved financial performance and higher stock-based compensation expense. 
+
+Marketing, General and Administrative Expenses 
+
+Marketing, general and administrative expenses of $ 142 million &#32;in the second quarter of 2018 &#32; increased &#32;by $15 million , or 12% , compared to $ 127 million &#32;in the second quarter of 2017 &#32;primarily due to an increase in marketing programs and employee incentives driven by our improved financial performance. 
+
+Marketing, general and administrative expenses of $ 276 million &#32;during the six months ended June 30, 2018 , increased &#32;by $26 million &#32;or 10% , compared to $ 250 million &#32;in the six months ended July 1, 2017 , primarily due to an increase in marketing programs and employee incentives driven by our improved financial performance. 
+
+Interest Expense 
+
+Interest expense in the second quarter of 2018 &#32;was $31 million &#32;compared to $32 million &#32;in the second quarter of 2017 . The decrease was primarily due to lower weighted average interest rates and lower debt balances. 
+
+Interest expense in the first six months ended June 30, 2018 &#32;was $62 million &#32;compared to $64 million &#32;in the first six months ended July 1, 2017 . The decrease was primarily due to lower weighted average interest rates and lower debt balances. 
+
+Other Income (Expense), Net 
+
+Other income, net of $1 million &#32;in the second quarter of 2018 &#32;increased by $4 million, compared to $3 million &#32;of Other expense, net in the second quarter of 2017 &#32;primarily due to a $3 million loss on debt repurchases incurred in the second quarter of 2017. 
+
+Other income, net of $2 million &#32;in the first six months ended June 30, 2018 &#32;increased by $10 million, compared to $8 million &#32;of Other expense, net in the first six months ended July 1, 2017 . Other expense, net in the first six months ended July 1, 2017 &#32;primarily consisted of a $4 million loss on a debt settlement with treasury stock, a $3 million investment impairment charge related to certain of our investments and a $3 million loss on debt repurchases. 
+
+Income Taxes 
+
+In December 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act of 2017 (the Tax Reform Act). The legislation significantly changes U.S. tax law by, among other things, lowering corporate income tax rates, implementing a modified territorial tax system and imposing a transition tax on deemed repatriated earnings of foreign subsidiaries. The Tax Reform Act reduces the U.S. corporate income tax rate from a maximum of 35% to a flat 21% rate, effective January 1, 2018. ASC 740: Income Taxes, requires companies to recognize the effect of the tax law changes in the period of enactment. However, the SEC staff issued Staff Accounting Bulletin 118 which allows companies to record provisional amounts during a measurement period that is similar to the measurement period used when accounting for business combinations. In the first and second quarters of 2018, we did not recognize any adjustment to the provisional amounts recorded as of December 30, 2017. We consider our accounting for the impacts of the Tax Reform Act to be incomplete and we will continue to assess the impact of the Tax Reform Act as well as expected further guidance from federal and state tax authorities and for the associated income tax accounting on our business and consolidated financial statements over the next six months. Given the complexity of the Global Intangible Low-Taxed Income (GILTI) provisions, we are still evaluating the effects of the GILTI provisions and have not yet determined our accounting policy. As of June 30, 2018, because we are still evaluating the GILTI provisions and our analysis of future taxable income that is subject to GILTI, we have considered GILTI related to current-year operations only in our estimated annualized effective tax rate and have not provided additional GILTI on deferred items. 
+
+In the second quarter of 2018 , we recorded an income tax provision of $6 million , consisting primarily of $5 million for federal base erosion and anti-abuse tax, which is a new tax under the Tax Reform Act, and $1 million of foreign taxes in profitable locations. 
+
+For the six months ended June 30, 2018 , we recorded an income tax provision of $14 million, consisting primarily of $10 million for federal base erosion and anti-abuse tax, and $4 million of foreign taxes in profitable locations. 
+
+In the second quarter of 2017 , we recorded an income tax provision of $3 million , consisting of $1 million of foreign taxes in profitable locations and $3 million &#32;for withholding taxes applicable to license fee revenue from foreign locations, partially offset by $1 million &#32;of tax benefits comprising the tax effects of items credited directly to other comprehensive income, Canadian tax credits, and the monetization of certain U.S. tax credits. 
+
+For the six months ended July 1, 2017 , we recorded an income tax provision of $8 million , consisting of $4 million of foreign taxes in profitable locations and $7 million for withholding taxes applicable to license fee revenue from foreign locations, partially offset by $3 million of tax benefits comprising the tax effects of items credited directly to other comprehensive income, Canadian tax credits, and the monetization of certain U.S. tax credits. 
+
+As of June 30, 2018 , substantially all of our U.S. and Canadian deferred tax assets, net of deferred tax liabilities, continue to be subject to a valuation allowance. The realization of these assets is dependent on substantial future taxable income, which as of June 30, 2018 , in our estimate, is not more likely than not to be achieved. 
+
+Our total gross unrecognized tax benefits were $49 million &#32;as of June 30, 2018 . We do not believe it is reasonably possible that unrecognized tax benefits will materially change in the next 12 months. However, the settlement, resolution or closure of our tax audits are highly uncertain. 
+
+Stock-Based Compensation Expense 
+
+The following table summarizes stock-based compensation expense related to employee stock options and restricted stock units, which we allocated in our condensed consolidated statements of operations as follows: 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+(In millions) 
+
+Cost of sales 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing, general and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Stock-based compensation expense, net of tax of $0 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+For all periods presented, we did not realize any excess tax benefit related to stock-based compensation and therefore did not record any related financing cash flows. 
+
+Stock-based compensation expense of $33 million &#32;in the second quarter of 2018 &#32; increased &#32;by $9 million , compared to $24 million &#32;in the second quarter of 2017 . Stock-based compensation expense of $65 million &#32;in the six months ended June 30, 2018 &#32; increased &#32;by $18 million , compared to $47 million &#32;in the six months ended July 1, 2017 . The increases were primarily due to a higher weighted average grant date fair value of unvested restricted stock units in the three and six months ended June 30, 2018 , compared to the three and six months ended July 1, 2017 . The increases were also driven by expense related to our Employee Stock Purchase Plan (ESPP), which commenced in the fourth quarter of 2017. 
+
+GLOBALFOUNDRIES 
+
+We are party to a Wafer Supply Agreement (WSA) with GLOBALFOUNDRIES Inc. (GF) that governs the terms by which we purchase products manufactured by GF. Under the current WSA Sixth Amendment, we have agreed on fixed pricing for wafers purchased in 2018 with GF and have an established framework to agree on annual wafer pricing for the years 2019 and 2020. GF continues to be a related party of ours. Refer to Note 2 (GLOBALFOUNDRIES) of our consolidated financial statements for additional details regarding our transactions with GF. 
+
+Equity Interest Purchase Agreement - ATMP Joint Venture 
+
+We have two joint ventures with Tongfu Microelectronics Co., Ltd. (TFME), a Chinese joint stock company (collectively, the ATMP JV). We had transactions with ATMP JV during the periods presented herein. Refer to Note 4. Equity Interest Purchase Agreement - ATMP Joint Venture of our condensed consolidated financial statements regarding the ATMP JV. 
+
+Equity Joint Venture &#32; 
+
+We have a joint venture comprised of two &#32;separate legal entities, China JV1 and China JV2 (collectively, the THATIC JV) with Higon Information Technology Co., Ltd. We had transactions with THATIC JV during the periods presented herein. Refer to Note 5: Equity Joint Venture in our condensed consolidated financial statements regarding the THATIC JV. 
+
+FINANCIAL CONDITION 
+
+Liquidity and Capital Resources &#160; 
+
+As of June 30, 2018 , our cash, cash equivalents and marketable securities were $983 million , compared to $1.2 billion as of December 30, 2017 . The percentage of cash, cash equivalents and marketable securities held domestically was 97% as of June 30, 2018 , compared to 95% at December 30, 2017 . Our operating, investing and financing activities during the six months ended June 30, 2018 &#32;compared to the six months ended July 1, 2017 &#32;are as described below: 
+
+&#160; 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+&#160; 
+
+June 30, 2018 
+
+&#160; 
+
+July 1, 2017 
+
+&#160; 
+
+&#160; 
+
+(In millions ) 
+
+Net cash provided by (used in): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating activities 
+
+&#160; 
+
+$ 
+
+(131 
+
+) 
+
+&#160; 
+
+$ 
+
+(381 
+
+) 
+
+Investing activities 
+
+&#160; 
+
+(124 
+
+) 
+
+&#160; 
+
+(122 
+
+) 
+
+Financing activities 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(1 
+
+) 
+
+Our aggregate principal debt obligations were $1.7 billion as of June 30, 2018 &#32;and December 30, 2017 . 
+
+We believe our cash and cash equivalents balance along with our Secured Revolving Line of Credit will be sufficient to fund operations, including capital expenditures, over the next 12 months. We believe that in the event we decide to obtain external funding, we may be able to access the capital markets on terms and in amounts adequate to meet our objectives. 
+
+Should we require additional funding, such as to meet payment obligations of our long-term debt when due, we may need to raise the required funds through borrowings or public or private sales of debt or equity securities, which may be issued from time to time under an effective registration statement, through the issuance of securities in a transaction exempt from registration under the Securities Act of 1933 or a combination of one or more of the foregoing. Uncertain global economic conditions have in the past adversely impacted, and may in the future adversely impact, our business. If market conditions deteriorate, we may be limited in our ability to access the capital markets to meet liquidity needs on favorable terms or at all, which could adversely affect our liquidity and financial condition, including our ability to refinance maturing liabilities. 
+
+Operating Activities 
+
+Net cash used in operating activities was $131 million &#32;in the six months ended June 30, 2018 &#32;compared to $381 million &#32;in the six months ended July 1, 2017 . The decrease in net cash used in operating activities was primarily due to changes in working capital, largely driven by higher cash collections primarily due to higher revenue, partially offset by higher wafer purchases, higher labor costs, and timing of accounts payable payments. 
+
+Investing Activities 
+
+Net cash used in investing activities was $124 million &#32;in the six months ended June 30, 2018 , which consisted of $89 million for purchases of property and equipment and $35 million for purchases of available-for-sale debt securities. 
+
+Net cash used in investing activities was $122 million &#32;in the six months ended July 1, 2017 , which consisted of net cash outflows of $84 million from purchases and maturities of available-for-sale debt securities and $35 million for purchases of property and equipment. 
+
+Financing Activities 
+
+Net cash provided by financing activities was $20 million &#32;in the six months ended June 30, 2018 , which consisted of a cash inflow of $35 million from the issuance of common stock under our stock-based compensation equity plans, partially offset by a cash outflow of $15 million for the repurchase of our 6.75% Notes and 7.00% Notes. 
+
+Net cash used in financing activities was $1 million &#32;in the six months ended July 1, 2017 , which consisted of a cash outflow of $42 million to repurchase a portion of our 7% Notes and $11 million for tax withholding on the vesting of restricted stock, partially offset by a cash inflow of net proceeds from borrowings pursuant to our Secured Revolving Line of Credit of $42 million and $10 million proceeds from issuance of common stock under stock-based compensation equity plans. 
+
+Contractual Obligations 
+
+The following table summarizes our consolidated principal contractual obligations as of June 30, 2018 , and is supplemented by the discussion following the table: 
+
+&#160; 
+
+Payments due by period as of June 30, 2018 
+
+(In millions) 
+
+Total 
+
+&#160; 
+
+Remainder of 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2023 and 
+
+thereafter 
+
+6.75% Notes 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+7.50% Notes 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+7.00% Notes 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+2.125% Notes 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Secured Revolving Line of Credit 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Other long-term liabilities (1) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Aggregate interest obligation (2) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating leases 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Purchase obligations (3) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Obligations to GF (4) 
+
+2,544 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total contractual obligations (5) 
+
+$ 
+
+5,585 
+
+&#160; 
+
+$ 
+
+1,278 
+
+&#160; 
+
+$ 
+
+1,357 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,365 
+
+(1) &#160; 
+
+Amounts largely represent future fixed and non-cancellable cash payments associated with software technology and licenses and IP licenses, including the payments due within the next 12 months. 
+
+(2) &#160; 
+
+Represents estimated aggregate interest obligations for our outstanding debt obligations that are payable in cash, excluding non-cash amortization of debt issuance costs and debt discount. 
+
+(3) &#160; 
+
+We have purchase obligations for goods and services where payments are based, in part, on the volume or type of services we acquire. In those cases, we only included the minimum volume of purchase obligations in the table above. Purchase orders for goods and services that are cancellable upon notice and without significant penalties are not included in the amounts above. 
+
+(4) &#160; 
+
+Includes our currently expected purchases from GF for the remainder of 2018 for wafer manufacturing and research and development activities and minimum purchase obligations for wafer purchases for years 2018 through 2020. We cannot meaningfully quantify or estimate our future purchase obligations to GF beyond 2020 but expect that our future purchases from GF will continue to be material. 
+
+(5) &#160; 
+
+Total amount excludes contractual obligations already recorded on our condensed consolidated balance sheets except for debt obligations and other liabilities related to software and technology licenses and IP licenses. 
+
+The expected timing of payments of the obligations in the preceding table is estimated based on current information. Timing of payments and actual amounts paid may be different, depending on the time of receipt of goods or services, or changes to agreed-upon amounts for some obligations. 
+
+Operating Leases 
+
+We lease certain of our facilities under non-cancellable lease agreements that expire at various dates through 2028. Total future non-cancellable lease obligations as of June 30, 2018 &#32;were $334 million . During the second quarter of 2018, we entered into a 10 years operating lease to occupy approximately 270,000 square feet of office space in China. Base rent payments commence in October 2018 and the total estimated base rent payments over the life of the lease are approximately $72 million. In addition to the base rent payments, we will be obligated to pay certain customary amounts for our share of operating expenses and tax obligations. We will also incur costs for capital projects on the new office space. 
+
+Off-Balance Sheet Arrangements 
+
+As of June 30, 2018 , we had no off-balance sheet arrangements. 
+
+&#32;Critical Accounting Estimates 
+
+Our discussion and analysis of our financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles (U.S. GAAP). The preparation of our financial statements requires us to make estimates and judgments that affect the reported amounts in our condensed consolidated financial statements. We evaluate our estimates on an on-going basis, including those related to our net revenue, inventories, asset impairments and income taxes. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of our assets and liabilities. Although actual results have historically been reasonably consistent with 
+
+management&#8217;s expectations, the actual results may differ from these estimates or our estimates may be affected by different assumptions or conditions. 
+
+In accordance with the adoption of the new revenue standard effective the beginning of the first quarter of 2018, we now recognize revenue upon the shipment of the product to our distributors (sell-in), rather than upon the resale of the product by our distributors to their customers (sell-through). Accordingly, we now establish provisions for rights of return and price protection on unsold product held by our distributors. Other than this change in revenue recognition and related reserves, management believes there have been no other significant changes during the quarter ended June 30, 2018 &#32;to the items that we disclosed as our critical accounting estimates in the Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations section of our Annual Report on Form 10-K for the year ended December 30, 2017 . 
+
+
+

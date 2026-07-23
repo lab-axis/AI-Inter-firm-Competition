@@ -1,0 +1,3204 @@
+ ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+As used herein, "we," "our," "us" and similar terms include Micron Technology, Inc. and its subsidiaries, unless the context indicates otherwise. The following discussion contains trend information and other forward-looking statements that involve a number of risks and uncertainties. Forward-looking statements include, but are not limited to, statements such as those made in "Overview" regarding our pending acquisition of Elpida; in "Net Sales" regarding the transition of our Singapore fabrication facility from DRAM to NAND Flash production; in "Selling, General and Administrative" regarding SG&#38;A costs for the fourth quarter of 2013; in "Research and Development" regarding R&#38;D costs for the fourth quarter of 2013; in "Equity in Net Loss of Equity Method Investees" regarding gains recognized in the fourth quarter of 2013 on Inotera's issuance of shares; and in "Liquidity and Capital Resources" regarding the sufficiency of our cash and investments, cash flows from operations and available financing to meet our requirements at least through the next twelve months, our pursuit of additional financing, our belief that convertible note holders would not convert any significant amounts of our convertible notes prior to their redemption or maturity, our estimated capital spending for the fourth quarter of 2013, the timing of payments in connection with the Elpida transactions and the timing of payments for certain contractual obligations. Our actual results could differ materially from our historical results and those discussed in the forward-looking statements. Factors that could cause actual results to differ materially include, but are not limited to, those identified in "Item 1A. Risk Factors." This discussion should be read in conjunction with the Consolidated Financial Statements and accompanying notes for the year ended August 30, 2012. All period references are to our fiscal periods unless otherwise indicated. Our fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31 and fiscal 2013 and 2012 each contained 52 weeks. All production data includes the production of our consolidated joint ventures and our other partnering arrangements. All tabular dollar amounts are in millions. 
+
+Our Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&#38;A") is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&#38;A is organized as follows: 
+
+&#8226; 
+
+Overview: &#32; An overview of our business and operations and highlights of key transactions and events. 
+
+&#8226; 
+
+Results of Operations: &#32; An analysis of our financial results consisting of the following: 
+
+&#9702; 
+
+Consolidated results; 
+
+&#9702; 
+
+Operating results by business segment; 
+
+&#9702; 
+
+Operating results by product; and 
+
+&#9702; 
+
+Operating expenses and other. 
+
+&#8226; 
+
+Liquidity and Capital Resources: &#32; An analysis of changes in our balance sheet and cash flows and discussion of our 
+
+financial condition and potential sources of liquidity. 
+
+&#8226; 
+
+Off-Balance Sheet Arrangements: &#32; &#32;Contingent liabilities, commitments and off-balance sheet arrangements. 
+
+Overview 
+
+We are one of the world's leading providers of advanced semiconductor solutions. Through our worldwide operations, we manufacture and market a full range of DRAM, NAND Flash and NOR Flash memory, as well as other innovative memory technologies, packaging solutions and semiconductor systems for use in leading-edge computing, consumer, networking, automotive, industrial, embedded and mobile products. We market our products through our internal sales force, independent sales representatives and distributors primarily to original equipment manufacturers ("OEMs") and retailers located around the world. Our success is largely dependent on the market acceptance of our diversified portfolio of semiconductor products, efficient utilization of our manufacturing infrastructure, successful ongoing development of advanced process technologies and the return on research and development ("R&#38;D") investments. 
+
+We obtain products from three primary sources: (1) production from our wholly-owned manufacturing facilities, (2) production from our joint venture manufacturing facilities, and (3) to a lesser degree, from third party manufacturers. In recent years, we have increased our manufacturing scale and product diversity through strategic acquisitions and various partnering arrangements, including joint ventures, which have helped us to attain lower costs than we could otherwise achieve through internal investments alone. 
+
+&#32;33 
+
+We make significant investments to develop the proprietary product and process technologies that are implemented in our worldwide manufacturing facilities and through our joint ventures. These investments enable our production of semiconductor products with increasing functionality and performance at lower costs. We generally reduce the manufacturing cost of each generation of product through advancements in product and process technology such as our leading-edge line-width process technology and innovative array architecture. We continue to introduce new generations of products that offer improved performance characteristics, such as higher data transfer rates, reduced package size, lower power consumption, improved read/write reliability and increased memory density. To leverage our significant investments in R&#38;D, we have formed, and may continue to form, strategic joint ventures that allow us to share the costs of developing memory product and process technologies with joint venture partners. In addition, from time to time, we also sell and/or license technology to other parties. We continue to pursue additional opportunities to monetize our investment in intellectual property through partnering and other arrangements. 
+
+We have the following four reportable segments: 
+
+DRAM Solutions Group ("DSG"): &#32;Includes DRAM products sold to the PC, consumer electronics, networking and server markets. 
+
+NAND Solutions Group ("NSG"): Includes high-volume NAND Flash products sold into data storage, personal music players, and the high-density computing market, as well as NAND Flash products sold to Intel through IM Flash. 
+
+Embedded Solutions Group ("ESG"): Includes DRAM, NAND Flash and NOR Flash products sold into automotive and industrial applications, as well as NOR and NAND Flash sold to consumer electronics, networking, PC and server markets. 
+
+Wireless Solutions Group ("WSG"): Includes DRAM, NAND Flash and NOR Flash products, including multi-chip packages, sold to the mobile device market. 
+
+Our other operations do not meet the quantitative thresholds of a reportable segment and are reported under All Other. 
+
+Pending Acquisition of Elpida Memory, Inc. 
+
+On July 2, 2012, we entered into an "Agreement on Support for Reorganization Companies" (the "Sponsor Agreement") with the trustees of Elpida Memory, Inc. ("Elpida") and its subsidiary, Akita Elpida Memory, Inc. ("Akita" and, together with Elpida, the "Elpida Companies"), which provides for, among other things, our acquisition of Elpida and our support for the plans of reorganization of the Elpida Companies in connection with their corporate reorganization proceedings in Japan. The Elpida Companies filed petitions for commencement of corporate reorganization proceedings with the Tokyo District Court (the "Japan Court") under the Corporate Reorganization Act of Japan on February 27, 2012. Under the Sponsor Agreement, we committed to support plans of reorganization for the Elpida Companies that would provide for payments by the Elpida Companies to their secured and unsecured creditors in an aggregate amount of 200 billion &#32;yen (or the equivalent of approximately $1.98 billion , assuming approximately 101 &#32;yen per U.S. dollar, the exchange rate as of May 30, 2013 ), less certain expenses of the reorganization proceedings and certain other items. 
+
+The Sponsor Agreement provides that we will invest 60 billion &#32;yen (or the equivalent of approximately $593 million ) in cash in Elpida at the closing in exchange for 100% &#32;ownership of Elpida's equity. As a condition to the execution of the Sponsor Agreement, we deposited 1.8 billion &#32;yen (or the equivalent of approximately $18 million ) into an escrow account in July 2012, which will be applied toward our purchase price for the Elpida shares at closing. The Elpida Companies will use the proceeds of our investment to fund initial installment payments to their creditors of 60 billion &#32;yen, which amount is subject to reduction for certain items specified in the Sponsor Agreement. The initial installment payments will be made within three &#32;months following the closing of our acquisition of Elpida. The remaining 140 billion &#32;yen (or the equivalent of approximately $1.38 billion ) of installment payments payable to the Elpida Companies' creditors are scheduled to be made by the Elpida Companies in six &#32;annual installments payable at the end of each calendar year beginning in the calendar year after the first installment payments are made. We or one of our subsidiaries are committed to enter into a supply agreement with Elpida following the closing, which will provide for our purchase on a cost-plus basis of all product produced by Elpida. Cash flows from such supply agreement will be used to satisfy the required installment payments under the plans of reorganization. Although certain key parameters of the supply agreement have been agreed to with Elpida, the detailed terms have not been completed, and the final terms will be subject to Japan Court approval. 
+
+&#32;34 
+
+In a related transaction, on July 2, 2012, we entered into a share purchase agreement with Powerchip Technology Corporation and certain of its affiliates (the "Rexchip Share Purchase Agreement"), under which we will purchase approximately 714 million &#32;shares of Rexchip Electronics Corporation ("Rexchip'') common stock, which represents approximately 24% &#32;of Rexchip's outstanding common stock, for approximately 10 billion &#32;New Taiwan dollars (or the equivalent of approximately $334 million , assuming approximately 30 &#32;New Taiwan dollars per U.S. dollar, the exchange rate as of May 30, 2013 ). Elpida currently owns, directly and indirectly through a subsidiary, approximately 65% of Rexchip's outstanding common stock. 
+
+Elpida's assets include, among others: a 300mm DRAM wafer fabrication facility located in Hiroshima, Japan; its ownership interest in Rexchip, whose assets include a 300mm DRAM wafer fabrication facility located in Taiwan; and an assembly and test facility located in Akita, Japan. We expect that the Elpida and Rexchip fabrication facilities together are capable of producing more than 180,000 300mm wafers per month, which would represent an approximate 45% increase in our current trade wafer capacity. 
+
+Elpida's semiconductor memory products include Mobile DRAM, targeted toward mobile phones and tablets. We believe that combining the complementary product portfolios of Micron and Elpida will strengthen our position in the memory market and enable us to provide customers with a wider portfolio of high-quality memory solutions. We also believe that the Elpida transactions will strengthen our market position in the memory industry through increased research and development and manufacturing scale, improved access to core memory market segments, and additional wafer capacity to balance among our DRAM, NAND Flash and NOR Flash memory solutions. There can be no assurance that we will be able to successfully consummate the transactions described above. 
+
+The consummation of the Sponsor Agreement remains subject to satisfaction or waiver of certain conditions, including the closing of the purchase of the Rexchip shares from the Powerchip Group under the Rexchip Share Purchase Agreement described above and we are currently targeting a closing during our fourth quarter of 2013. However, there can be no assurance that the various conditions will be satisfied or that the Elpida Acquisition will ultimately be consummated on the terms and conditions set forth in the Sponsor Agreement. If the remaining closing conditions are not satisfied or waived, we will not be able to close the acquisitions. 
+
+In connection with the Elpida acquisition agreement, on July 2, 2012, we entered into a series of currency option contracts to hedge our exposure to the yen-denominated acquisition payments under these agreements, pursuant to which we purchased call options to buy 200 billion &#32;yen, sold put options to sell 100 billion &#32;yen and sold call options to buy 100 billion &#32;yen (the "Original Elpida Hedges"). The Original Elpida Hedges were settled on March 26, 2013 and we paid $191 million &#32;upon settlement. 
+
+Upon settlement of the Original Elpida Hedges, on March 26, 2013, we executed a series of new separate currency exchange transactions to hedge our exposure to the yen-denominated acquisition payments pursuant to which we entered into below market forward contracts to buy 80 billion &#32;yen with a weighted-average price of 91.00 &#32;(yen per U.S. dollar) and purchased put options to sell 80 billion &#32;yen with a weighted-average strike price of 94.24 &#32;(the "New Elpida Hedges"). The New Elpida Hedges, which expire on September 25, 2013, mitigate the risk of a strengthening yen for certain of our yen-denominated payments under the Sponsor Agreement while preserving some ability for us to benefit if the value of the yen weakens relative to the U.S. dollar. 
+
+As a result of the mark-to-market adjustments for the Original Elpida Hedges and New Elpida Hedges (the "Elpida Hedges"), we recorded losses to other non-operating expense of $46 million , $114 million, and $222 million &#32;for the third quarter, second quarter and first nine months of 2013, respectively. As of May 30, 2013 , our cumulative loss on the Elpida Hedges was $214 million . 
+
+See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Pending Acquisition of Elpida Memory, Inc." for further details of the pending transactions. 
+
+&#32;35 
+
+Inotera Memories, Inc. 
+
+On January 17, 2013, we entered into agreements with Nanya Technology Corporation ("Nanya") to amend the joint venture relationship involving Inotera. The amendments included a new supply agreement (the "Inotera Supply Agreement"), retroactively beginning on January 1, 2013, between us and Inotera under which we are obligated to purchase for an initial three-year term substantially all of Inotera's output at a purchase price based on a discount from market prices for our comparable components. The Inotera Supply Agreement contemplates annual negotiations with respect to potential successive one-year extensions and if in any year the parties do not agree to an extension, the agreement will terminate following the end of the then-existing term plus a subsequent three-year wind-down period. Our share of Inotera's capacity would decline over the three year wind-down period. Effective through December 31, 2012, we had rights and obligations to purchase 50% &#32;of Inotera's wafer production capacity based on a margin-sharing formula among Nanya, Inotera and us. Our cost of product purchased from Inotera under the supply agreements was $341 million &#32;for the third quarter of 2013, $200 million for the second quarter of 2013 and $178 million &#32;for the third quarter of 2012. 
+
+Under a cost-sharing arrangement effective through December 31, 2012, we generally shared DRAM development costs with Nanya. As a result of the January 17, 2013 agreements, which were retroactively effective beginning on January 1, 2013, Nanya no longer participates in the joint development program. Pursuant to this cost-sharing arrangement, our R&#38;D costs were reduced by $4 million and $19 million for the second quarter and first nine months of 2013, respectively, and $35 million &#32;for the third quarter of 2012. 
+
+Results of Operations 
+
+Consolidated Results 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+Nine Months 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+(dollar amounts in millions) 
+
+Net sales 
+
+$ 
+
+2,318 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+2,172 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+2,078 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+6,230 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+6,271 
+
+&#160; 
+
+&#160;% 
+
+Cost of goods sold 
+
+1,762 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,938 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,712 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+5,091 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+5,522 
+
+&#160; 
+
+&#160;% 
+
+Gross margin 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,139 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+SG&#38;A 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+R&#38;D 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Restructure and asset impairments 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Other operating (income) expense, net 
+
+(1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(8 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(17 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Operating income (loss) 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(188 
+
+) 
+
+&#160; 
+
+(9 
+
+)% 
+
+&#160; 
+
+(23 
+
+) 
+
+&#160; 
+
+(1 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(463 
+
+) 
+
+&#160; 
+
+(7 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest income (expense), net 
+
+(52 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(53 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(53 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+&#160; 
+
+(159 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+&#160; 
+
+(119 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+Other non-operating income (expense), net 
+
+(45 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(159 
+
+) 
+
+&#160; 
+
+(8 
+
+)% 
+
+&#160; 
+
+(263 
+
+) 
+
+&#160; 
+
+(4 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Income tax (provision) benefit 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Equity in net loss of equity method investees 
+
+(10 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(115 
+
+) 
+
+&#160; 
+
+(5 
+
+)% 
+
+&#160; 
+
+(58 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+&#160; 
+
+(120 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(262 
+
+) 
+
+&#160; 
+
+(4 
+
+)% 
+
+Net income attributable to noncontrolling interests 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Net income (loss) attributable to Micron 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+(320 
+
+) 
+
+&#160; 
+
+(15 
+
+)% 
+
+&#160; 
+
+$ 
+
+(286 
+
+) 
+
+&#160; 
+
+(14 
+
+)% 
+
+&#160; 
+
+$ 
+
+(518 
+
+) 
+
+&#160; 
+
+(8 
+
+)% 
+
+&#160; 
+
+$ 
+
+(789 
+
+) 
+
+&#160; 
+
+(13 
+
+)% 
+
+&#32;36 
+
+Our net income attributable to Micron for the third quarter of 2013 improved from the net loss for the second quarter of 2013 primarily due to a $190 million improvement in our overall gross margin and lower other non-operating expenses. Our gross margin for the third quarter of 2013 improved from the second quarter of 2013 primarily due to increases in average selling prices and cost reductions. Other non-operating expense for the third and second quarters of 2013 included the following: 
+
+&#8226; 
+
+losses of $47 million and $120 million for the third and second quarters of 2013, respectively, on currency hedges for the Elpida and Rexchip transaction; and 
+
+&#8226; 
+
+a $31 million &#32;charge for the second quarter of 2013 associated with the early repurchase of debt. 
+
+Our net income attributable to Micron for the third quarter of 2013 was significantly improved from our net loss for the third quarter of 2012 primarily due to a $322 million improvement in our gross margin and a $105 reduction in our equity in net loss of equity method investees. Our gross margin for the third quarter of 2013 improved from the third quarter of 2012 primarily due to cost reductions. 
+
+Our net loss attributable to Micron for the first nine months of 2013 was significantly improved from our net loss for the first nine months of 2012 primarily due to a $390 million improvement in our gross margin and a $142 reduction in our equity in net loss of equity method investees, partially offset by a $287 million adverse change in other non-operating income (expense). Our gross margin for the first nine months of 2013 improved from the first nine months of 2012 primarily due to cost reductions partially offset by declines in average selling prices. 
+
+In the second quarter of 2013, we reclassified (gains) losses from changes in currency exchange rates from other operating (income) expense, net to other non-operating income (expense), net in the consolidated statements of income. As a result, segment operating income (loss) for the comparative periods presented no longer includes the (gains) losses from changes in currency exchange rates to conform to current period presentation. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Business and Basis of Presentation" and "Segment Information".) 
+
+Net Sales 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+DSG 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,280 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,014 
+
+&#160; 
+
+% 
+
+NSG 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,060 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,177 
+
+&#160; 
+
+% 
+
+ESG 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+WSG 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+All Other 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,318 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,172 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,078 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+6,230 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+6,271 
+
+&#160; 
+
+% 
+
+Total net sales for the third quarter of 2013 increased 12% as compared to the second quarter of 2013 reflecting increased sales in all reportable business segments. The increase in overall sales for the third quarter of 2013 was primarily attributable to DSG sales increases as a result of higher average selling prices and, to a lesser extent, gigabit sales increases. 
+
+Total net sales for the third quarter of 2013 increased 7% as compared to the third quarter of 2012 primarily due to increases in DSG and ESG sales as a result of higher gigabit sales partially offset by declines in average selling prices. NSG sales for the third quarter of 2013 decreased from the third quarter of 2012 primarily due to declines in gigabit sales. 
+
+&#32;37 
+
+Sales for All Other segments, were primarily composed of sales of CMOS image sensors. On May 3, 2013, we sold Micron Technology Italia, S.r.l., ("MIT") a wholly-owned subsidiary, including its 200 mm wafer fabrication facility assets in Avezzano, Italy, to LFoundry Marsica S.r.l. ("LFoundry"). In connection with the sale, we assigned to LFoundry our supply agreement with Aptina Imaging Corporation ("Aptina") for CMOS image sensors manufactured at the Avezzano facility. After the transaction was closed we had no further sales of CMOS image sensors. For the third quarter, second quarter and first nine months of 2013, we recognized net sales of $61 million , $48 million and $170 million , respectively, from products sold to Aptina, and cost of goods sold of $70 million , $57 million and $208 million , respectively. For the third quarter and first nine months of 2012, we recognized net sales of $99 million &#32;and $292 million , respectively, from products sold to Aptina, which approximated costs. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Restructure and Asset Impairments.") 
+
+Gross Margin 
+
+Our overall gross margin percentage for the third quarter of 2013 improved to 24% from 18% for the second quarter of 2013 primarily due to DSG margin improvements as a result of higher average selling prices and cost reductions. Gross margin percentages for WSG and NSG also improved for the third quarter of 2013 as compared to the second quarter of 2013 primarily due to manufacturing cost reductions. 
+
+Our overall gross margin percentage for the third quarter of 2013 improved to 24% from 11% for the third quarter of 2012 primarily due to reductions in cost per gigabit across all reportable segments. Our overall gross margin percentage for the first nine months of 2013 improved to 18% from 12% for the first nine months of 2012 primarily due to reductions in cost per gigabit partially offset by declines in average selling prices. 
+
+Operating Results by Business Segments 
+
+DRAM Solutions Group ("DSG") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,280 
+
+&#160; 
+
+$ 
+
+2,014 
+
+Operating income (loss) 
+
+&#160; 
+
+&#160; 
+
+(75 
+
+) 
+
+&#160; 
+
+(46 
+
+) 
+
+&#160; 
+
+(40 
+
+) 
+
+&#160; 
+
+(377 
+
+) 
+
+DSG sales and operating results track closely with our average selling prices, gigabit sales volumes and cost per gigabit for our consolidated sales of DRAM products. (See "Operating Results by Product &#8211; DRAM" for further detail.) DSG sales for the third quarter of 2013 increased 22% as compared to the second quarter of 2013 primarily due to increases in average selling prices and to a lesser extent a slight increase in gigabit sales. DSG's operating margin for the third quarter of 2013 improved as compared to the second quarter of 2013 primarily due to increases in average selling prices and cost reductions resulting from improved product and process technologies. 
+
+DSG sales for the third quarter and first nine months of 2013 increased 23% and 13%, respectively, as compared to the corresponding periods of 2012 primarily due to increases in gigabit sales. DSG's operating margin for the third quarter and first nine months of 2013 improved as compared to the corresponding periods of 2012 due to cost reductions. 
+
+NAND Solutions Group ("NSG") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,060 
+
+&#160; 
+
+$ 
+
+2,177 
+
+Operating income (loss) 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#32;38 
+
+NSG sales and operating results track closely with our average selling prices, gigabit sales volumes and cost per gigabit for our consolidated sales of NAND Flash products. (See "Operating Results by Product &#8211; NAND Flash" for further detail.) NSG overall sales for the third quarter of 2013 increased 2% as compared to the second quarter of 2013 primarily due to increases in average selling prices. NSG sells a portion of its products to Intel Corporation ("Intel") through IM Flash at long-term negotiated prices approximating cost. All other NSG products are sold to OEMs, resellers, retailers and other customers (including Intel), which we collectively refer to as "trade customers." 
+
+NSG sales of NAND Flash products to trade customers for the third quarter of 2013 increased 2% as compared to the second quarter of 2013 primarily due to increases in average selling prices. NSG operating income declined for the third quarter of 2013 as compared to the second quarter of 2013 as a result of higher R&#38;D and other indirect costs mitigated by improvements in average selling prices. 
+
+On April 6, 2012 , we acquired Intel's remaining ownership interest in IM Flash Singapore, LLP ("IMFS") and the assets of IM Flash Technologies, LLC ("IMFT") located at our Virginia fabrication facility and terminated the IMFS supply agreement. Accordingly, we now obtain all of the NAND Flash output from our Singapore and Virginia wafer fabrication facilities. On April 6, 2012, we also entered into a new supply agreement with Intel under which Intel purchases NAND Flash products under negotiated arrangements. Aggregate NSG sales to Intel (including sales by IMFT at prices approximating cost and sales by us under the negotiated arrangements) were $258 million &#32;for the third quarter of 2013, $160 million for the second quarter of 2013 and $300 million &#32;for the third quarter of 2012. As a result of changes to the IMFT supply agreement with Intel, net sales for the third quarter of 2012 included a one-time increase in sales of $97 million from a reduction in work in process inventories. 
+
+NSG's overall sales for the third quarter and first nine months of 2013 declined 4% and 5%, respectively, as compared to the corresponding periods of 2012 primarily due to the $97 million of one-time sales to Intel recognized for the third quarter of 2012 as a result of changes in the supply agreement. NSG sales of NAND Flash products to trade customers for the third quarter of 2013 increased 21% as compared to the third quarter of 2012 primarily due to increases in average selling prices and gigabits sold. NSG sales of NAND Flash products to trade customers for the first nine months of 2013 increased 23% as compared to the first nine months of 2012 primarily due to increases in gigabits sold partially offset by declines in average selling prices. 
+
+NSG operating income for the third quarter of 2013 improved as compared to the third quarter of 2012 primarily due to manufacturing cost reductions and increases in average selling prices. NSG operating income for the first nine months of 2013 declined as compared to the corresponding periods of 2012 primarily due to decreases in average selling prices mitigated by manufacturing cost reductions. 
+
+Embedded Solutions Group ("ESG") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Operating income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the third quarter of 2013, ESG sales were comprised of NOR Flash, DRAM and NAND Flash in decreasing order of revenue. ESG sales for the third quarter of 2013 increased 8% as compared to the second quarter of 2013 primarily due to increases in sales volumes for all product groups partially offset by declines in average selling prices. ESG operating income for the third quarter of 2013 was unchanged from the second quarter of 2013 as declines in average selling prices were offset by manufacturing cost reductions. 
+
+ESG sales for the third quarter and first nine months of 2013 increased 15% and 12% respectively, as compared to the corresponding periods of 2012 primarily due to increased sales volumes for all product groups. ESG operating income for the third quarter and first nine months of 2013 improved as compared to the corresponding periods of 2012 primarily due to manufacturing cost reductions partially offset by declines in average selling prices. 
+
+&#32;39 
+
+Wireless Solutions Group ("WSG") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Operating loss 
+
+&#160; 
+
+(62 
+
+) 
+
+&#160; 
+
+(103 
+
+) 
+
+&#160; 
+
+(87 
+
+) 
+
+&#160; 
+
+(213 
+
+) 
+
+&#160; 
+
+(288 
+
+) 
+
+For the third quarter of 2013, WSG sales were primarily comprised of NAND Flash, NOR Flash and DRAM in decreasing order of revenue. WSG sales for the third quarter of 2013 increased 30% as compared to the second quarter of 2013 primarily due to increased sales volumes of mobile DRAM and NAND Flash products. WSG operating margin for the third quarter of 2013 improved as compared to the second quarter of 2013 primarily due increases in average selling prices for NAND Flash products and manufacturing cost reductions for DRAM products. 
+
+WSG sales for the third quarter and of 2013 were unchanged from the third quarter of 2012 as reductions in sales of NOR Flash products were offset by increased sales of mobile DRAM products. Sales of wireless NOR Flash products decreased as a result of weakness in market demand and our customer group in particular, as well as a continued transition by customers to NAND Flash. WSG sales for the first nine months of 2013 decreased 21% as compared to the first nine months of 2012 primarily due to declines in sales of wireless NOR Flash products. WSG sales for the first nine months of 2013 were also adversely impacted by lower sales of NAND Flash products sold in multi-chip packages as compared to the first nine months of 2012. WSG operating margins improved for the third quarter and first nine months of 2013 as compared to the corresponding periods of 2012 primarily due to manufacturing cost reductions partially offset by lower average selling prices. &#32; 
+
+Operating Results by Product &#32; 
+
+Net Sales by Product 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+&#160; 
+
+&#160; 
+
+% of Net Sales 
+
+DRAM 
+
+&#160; 
+
+$ 
+
+1,098 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,709 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,382 
+
+&#160; 
+
+% 
+
+NAND Flash 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,609 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,791 
+
+&#160; 
+
+% 
+
+NOR Flash 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+2,318 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,172 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,078 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+6,230 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+6,271 
+
+&#160; 
+
+% 
+
+In order to balance our future product mix in anticipation of the closing of the Elpida transaction, we have begun to prepare our DRAM fabrication facility in Singapore to transition production from DRAM to NAND Flash. We expect this transition to NAND Flash production will occur over approximately four quarters, depending on market conditions. We expect production to be adversely affected during the period of this transition. 
+
+DRAM 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 2013 
+
+Versus 
+
+&#160; 
+
+First Nine Months 2013 Versus 
+
+&#160; 
+
+&#160; 
+
+Second 
+
+Quarter 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+First Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(percentage change from period indicated) 
+
+Net sales 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Average selling prices per gigabit 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(7 
+
+)% 
+
+&#160; 
+
+(16 
+
+)% 
+
+Gigabits sold 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Cost per gigabit 
+
+&#160; 
+
+(5 
+
+)% 
+
+&#160; 
+
+(27 
+
+)% 
+
+&#160; 
+
+(26 
+
+)% 
+
+&#32;40 
+
+The increase in gigabit sales of DRAM products for the third quarter of 2013 as compared to the second quarter of 2013 and third quarter of 2012 was primarily due to additional supply from Inotera as a result of improvements in product and process technology partially offset by a reduction in output from our Singapore DRAM facility as a result of the transition to NAND Flash production. Effective on January 1, 2013, we entered into the new Inotera Supply Agreement under which we purchase substantially all of Inotera's output at a purchase price based on a discount from market prices for our comparable components. Prior to the new Inotera Supply Agreement we had the right to purchase 50% &#32;of Inotera's wafer production capacity based on a margin-sharing formula among Nanya, Inotera and us. (See "Overview &#8211; Inotera Memories, Inc.") Our cost of product purchased from Inotera under the supply agreements was $341 million &#32;for the third quarter of 2013, $200 million for the second quarter of 2013 and $178 million &#32;for the third quarter of 2012. Our cost per gigabit of products purchased under the new Inotera Supply Agreement for the third quarter of 2013 was lower than our cost of similar products manufactured in our wholly-owned facilities. Our cost of product purchased from Inotera for the third quarter of 2013 increased as compared to the second quarter of 2012 due to increases in market prices and our cost for this supply in future periods will also vary based on market prices. 
+
+Inotera incurred net losses of $24 million &#32;for its first quarter ended March 31, 2013. Also, Inotera's current liabilities exceeded its current assets by $1.68 billion &#32;as of March 31, 2013, which exposes Inotera to liquidity risk. As of December 31, 2012, Inotera was not in compliance with certain loan covenants and had not been in compliance for the past several years. Inotera received a waiver from complying with the December 31, 2012 financial covenants. Inotera's management has developed plans to improve its liquidity, but there can be no assurance that Inotera will be successful in improving its liquidity, which may result in its lenders requiring repayment of such loans during the next year. 
+
+The gross margin percentage on sales of DRAM products for the third quarter of 2013 improved as compared to the second quarter of 2013 primarily due to the increases in average selling prices and cost reductions. The gross margin percentage on sales of DRAM products for the third quarter and first nine months of 2013 improved as compared to the corresponding periods of 2012 primarily due to cost reductions partially offset by the declines in average selling prices. 
+
+NAND Flash 
+
+We sell a portion of our output of NAND Flash products to Intel through IM Flash at long-term negotiated prices approximating cost. (See "Operating Results by Business Segments &#8211; NAND Solutions Group" for further detail.) We sell the remainder of our NAND Flash products to trade customers (including Intel). 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 2013 
+
+Versus 
+
+&#160; 
+
+First Nine Months 2013 Versus 
+
+&#160; 
+
+&#160; 
+
+Second 
+
+Quarter 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+First Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(percentage change from period indicated) 
+
+Sales to trade customers: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Average selling prices per gigabit 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(26 
+
+)% 
+
+Gigabits sold 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Cost per gigabit 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(7 
+
+)% 
+
+&#160; 
+
+(27 
+
+)% 
+
+Increases in NAND Flash gigabits sold to trade customers for the third quarter and first nine months of 2013 as compared to the corresponding periods of 2012 were primarily due to improved product and process technologies, increased output available for sale to trade customers due to the restructure of our IM Flash agreement with Intel in April 2012 and the ramp-up of a new fabrication facility in Singapore throughout 2012. Changes in average selling prices and cost per gigabit for the third quarter of 2013 as compared to the second quarter of 2013 were affected by a shift in product mixed to a higher concentration of managed NAND Flash and solid-state drive products which have both higher average selling prices and costs per gigabit than our other NAND Flash products. Cost reductions for the third quarter and first nine months of 2013 as compared to the corresponding periods of 2012 reflect improvements in product and process technologies. The gross margin percentage on sales of NAND Flash products for third quarter of 2013 improved as compared to the second quarter of 2013 primarily due to increases in average selling prices. The gross margin percentage on sales of NAND Flash products for the third quarter and first nine months of 2013 improved as compared to the corresponding periods of 2012 primarily due to cost reductions. 
+
+&#32;41 
+
+NOR Flash 
+
+Sales of NOR Flash products for the third quarter of 2013 were relatively unchanged from the second quarter of 2013 as declines in average selling prices were offset by an increase in gigabits sold. Our gross margin percentage on sales of NOR Flash products declined for the third quarter of 2013 as compared to the second quarter of 2013 due to mix-driven declines in average selling prices and lower factory utilization. 
+
+Sales of NOR Flash products for the third quarter and first nine months of 2013 declined as compared to the corresponding periods of 2012 primarily due to decreases in sales of wireless products as a result of weakness in demand from certain customers and the continued transition of wireless applications to NAND Flash products, which led to significant declines in average selling prices. Our gross margin percentage on sales of NOR Flash products declined for the third quarter of 2013 as compared to the third quarter of 2012 primarily due to declines in average selling prices. Our gross margin percentage on sales of NOR Flash products for the first nine months of 2013 improved as compared to the first nine months of 2012 primarily due to cost reductions. 
+
+Operating Expenses and Other 
+
+Selling, General and Administrative 
+
+Selling, general and administrative ("SG&#38;A") expenses for the third quarter of 2013 were substantially unchanged as compared to the second quarter of 2013. SG&#38;A expenses for the third quarter of 2013 decreased 19% as compared to the third quarter of 2012 due to lower payroll costs resulting primarily from the suspension of variable pay plans and a reduction in legal costs. SG&#38;A expenses for the first nine months of 2013 decreased 23% as compared to the first nine months of 2012 due to lower payroll costs resulting primarily from the suspension of variable pay plans, a reduction in legal costs and a contribution to a university recognized in the second quarter of 2012. We expect that SG&#38;A expenses will approximate $135 million to $145 million for the fourth quarter of 2013. 
+
+Research and Development 
+
+R&#38;D expenses for the third quarter of 2013 increased 6% from the second quarter of 2013 primarily due to a higher volume of development wafers processed. R&#38;D expenses for the third quarter and first nine months of 2013 decreased 2% and 3%, respectively, from the corresponding periods of 2012 primarily due to lower payroll costs resulting from the suspension of variable pay plans and lower volumes of pre-qualification wafers processed partially offset by lower reimbursements under partnering arrangements. 
+
+Pursuant to our restructuring of IMFT and IMFS in April 2012, we expanded our NAND Flash R&#38;D cost-sharing agreement to include the development of certain emerging memory technologies, but did not change the cost-sharing percentage with respect to these technologies. As a result of amounts reimbursable from Intel, R&#38;D expenses were reduced by $33 million &#32;for the third quarter of 2013, $34 million for the second quarter of 2013 and $18 million &#32;for the third quarter of 2012. Additionally, effective through December 31, 2012, we had a DRAM R&#38;D cost-sharing arrangement with Nanya whereby R&#38;D expenses were reduced by $4 million for the second quarter of 2013 and $35 million &#32;for the third quarter of 2012. Effective January 1, 2013, Nanya ceased participating in the joint development program. We expect that R&#38;D expenses, net of amounts reimbursable from our R&#38;D partners, will be approximately $230 million to $240 million for the fourth quarter of 2013. 
+
+Our process technology R&#38;D efforts are focused primarily on development of successively smaller line-width process technologies which are designed to facilitate our transition to next generation memory products. Additional process technology R&#38;D efforts focus on the enablement of advanced computing and mobile memory architectures, the investigation of new opportunities that leverage our core semiconductor expertise and the development of new manufacturing materials. Product design and development efforts include our high density DDR3 and DDR4 DRAM and Mobile Low Power DDR DRAM products as well as high density and mobile NAND Flash memory (including multi-level and triple-level cell technologies), NOR Flash memory, specialty memory, phase-change memory, solid-state drives and other memory technologies and systems. 
+
+&#32;42 
+
+Restructure and Asset Impairments 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Loss on restructure of ST consortium agreement 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+Loss on impairment of LED assets 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Loss on impairment of MIT assets 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Gain on termination of lease to Transform 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(25 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+In order to optimize operations, improve efficiency and increase our focus on our core memory operations, we have entered into various restructure activities. Our NSG operating segment recorded a charge of $11 million &#32;for the third quarter of 2013 for the restructure of a consortium agreement with STMicroelectronics S.r.l. ("ST") and the remaining amount was allocated approximately equally among our other reportable segments. Our other restructure activities were recorded as a charge to our segments that do not meet the quantitative thresholds of a reportable segment and are reported under All Other. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Segments" note.) As of May 30, 2013, there were no significant amounts accrued for these restructure activities and we do not anticipate incurring any significant additional costs for these restructure activities. See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Restructure and Asset Impairments" for further details of these activities. 
+
+We continue to look for opportunities to improve our operational structure and performance, including the wind-down of some remaining 200-millimeter wafer capacity as we migrate more products to 300-millimeter wafer production. 
+
+Interest Income (Expense) 
+
+Interest expense for the third quarter of 2013, second quarter of 2013 and third quarter of 2012 included amortization of debt discount and other costs of $26 million, $29 million and $24 million, respectively. 
+
+Equity in Net Loss of Equity Method Investees 
+
+We recognize our share of earnings or losses from these entities under the equity method, generally on a two-month lag. Equity in net loss of equity method investees, net of tax, included the following: 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Inotera 
+
+&#160; 
+
+$ 
+
+(13 
+
+) 
+
+&#160; 
+
+$ 
+
+(38 
+
+) 
+
+&#160; 
+
+$ 
+
+(55 
+
+) 
+
+&#160; 
+
+$ 
+
+(121 
+
+) 
+
+&#160; 
+
+$ 
+
+(157 
+
+) 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+(77 
+
+) 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(105 
+
+) 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+(10 
+
+) 
+
+&#160; 
+
+$ 
+
+(115 
+
+) 
+
+&#160; 
+
+$ 
+
+(58 
+
+) 
+
+&#160; 
+
+$ 
+
+(120 
+
+) 
+
+&#160; 
+
+$ 
+
+(262 
+
+) 
+
+Our equity in net loss of Inotera decreased for the third quarter of 2013 as compared to the second quarter of 2013 due to Inotera's improved operating results as a result of lower manufacturing costs. On May 28, 2013, Inotera issued 634 million &#32;common shares to Nanya and certain of its affiliates in a private placement at a price equal to 9.47 &#32;New Taiwan dollars per common share (approximately $0.32 &#32;U.S. dollars as of May 28, 2013), which was in excess of our carrying value per share. As a result of the issuance, our ownership interest decreased from 39.7% &#32;to 35.5% &#32;and we expect to recognize a gain of approximately $48 million &#32;in the fourth quarter of 2013. The change in ownership interest does not change our obligation to purchase substantially all of Inotera's output. Losses in the first nine months of 2012 for our other equity method investments were primarily attributable to Transform Solar Pty Ltd. which ceased operations in 2012 and has essentially been liquidated. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Equity Method Investments.") 
+
+&#32;43 
+
+Other 
+
+Further discussion of other operating and non-operating income and expenses can be found in the following notes contained in "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements": 
+
+&#8226; 
+
+Equity Plans 
+
+&#8226; 
+
+Other Operating (Income) Expense, Net 
+
+&#8226; 
+
+Other Non-operating Income (Expense), Net 
+
+&#8226; 
+
+Income Taxes 
+
+Liquidity and Capital Resources 
+
+As of 
+
+&#160; 
+
+May 30, 2013 
+
+&#160; 
+
+August 30, 2012 
+
+Cash and equivalents and short-term investments: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Money market funds 
+
+&#160; 
+
+$ 
+
+2,018 
+
+&#160; 
+
+$ 
+
+2,159 
+
+Bank deposits 
+
+&#160; 
+
+&#160; 
+
+Commercial paper 
+
+&#160; 
+
+&#160; 
+
+Corporate bonds 
+
+&#160; 
+
+&#160; 
+
+Government securities 
+
+&#160; 
+
+&#160; 
+
+Certificates of deposit 
+
+&#160; 
+
+&#160; 
+
+Asset-backed securities 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+2,552 
+
+&#160; 
+
+$ 
+
+2,559 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Long-term marketable investments 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Cash and equivalents in the table above included amounts held by IMFT of $62 million &#32;as of May 30, 2013 &#32;and $157 million &#32;as of August 30, 2012 . Our ability to access funds held by IMFT to finance our other operations is subject to agreement by Intel and contractual limitations. Amounts held by IMFT are not anticipated to be available to finance our other operations. 
+
+To mitigate credit risk, we invest through high-credit-quality financial institutions and, by policy, generally limit the concentration of credit exposure by restricting investments with any single obligor. As of May 30, 2013 , the tax effects of repatriating cash held by foreign subsidiaries where undistributed earnings have been indefinitely reinvested would not be significant. 
+
+Cash generated by operations is our primary source of liquidity. Our liquidity is highly dependent on selling prices for our products and the timing and level of our capital expenditures, both of which can vary significantly from period to period. Depending on conditions in the semiconductor memory market, our cash flows from operations and current holdings of cash and investments may not be adequate to meet our needs for capital expenditures and operations. As of May 30, 2013 , we had a credit facility available that provides for up to $255 million of additional financing and, on June 27, 2013, we entered into a senior secured three -year revolving credit facility, collateralized by a security interest in certain trade receivables that provides for up to $153 million of additional financing. See "Financing Activities" below. 
+
+&#32;44 
+
+Our primary uses of cash include capital expenditures and debt repayments. In addition, if we are able to complete the Elpida acquisition, we will be obligated to make approximately $909 million &#32;(based on exchange rates as of May 30, 2013 ) in cash payments at the closing of the transaction to acquire the equity of Elpida and the shares of Rexchip owned by Powerchip and its affiliates. We have agreed to provide additional financial support to Elpida, subject to certain conditions, which may include a payment guarantee under certain circumstances, to facilitate its continued access to working capital financing from third-party finance sources through the closing of the Elpida share purchase. We have also agreed to provide support for Elpida's capital expenditures of up to approximately $633 million &#32;including up to approximately $395 million &#32;prior to June 13, 2013, which may include us providing payment guarantees of third party financing under certain circumstances or direct financial support from Micron or one of its subsidiaries. Following the closing, the Elpida Companies will be responsible to make 200 billion yen (or the equivalent of approximately $1.98 billion ) of installment payments to the Elpida Companies' creditors under their plans of reorganizations. See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Pending Acquisition of Elpida Memory, Inc." for further details of our obligations related to the pending Elpida acquisition and the obligations of the Elpida Companies under their plans of reorganization. We expect to pursue additional financing in the future as cost effective and strategic opportunities arise. We generally seek to obtain financing with low interest rates and limited covenants, including convertible notes and equipment and receivables financing. We expect our cash and investments, cash flows from operations and available financing will be sufficient to meet our requirements for at least the next twelve months. 
+
+Holders of our outstanding convertible notes can convert the notes during any calendar quarter if the closing price of our common stock for at least 20 trading days in the 30 consecutive trading days ending on the last trading day of the preceding calendar quarter is more than 130% of the conversion price. As of May 30, 2013, convertible notes with an aggregate outstanding balance of $1,199 million and an aggregate principal amount of $1,465 million, contained contractual terms that require us to pay cash up to the principal amount of the notes upon conversion. These notes become convertible at the option of the holders if the closing price of our common stock for the required periods is above prices ranging from $12.35 to $14.21. None of these convertible notes met the conversion criteria through the calendar quarter ended June 30, 2013. If these notes become convertible in future periods, we do not believe the amounts converted, if any, would be significant since the note holders would forgo the value of the embedded conversion option. 
+
+Operating Activities 
+
+Net cash provided by operating activities was $1,094 million &#32;for the first nine &#32;months of 2013, which reflected approximately $1,453 million generated from the production and sales of our products offset by a net $359 million effect from changes in the amount invested in net working capital. 
+
+Investing Activities 
+
+Net cash used for investing activities was $1,170 million &#32;for the first nine &#32;months of 2013, which consisted primarily of cash expenditures of $964 million &#32;for property, plant and equipment and $193 million for the settlement of hedging activities (net of proceeds from the settlement of hedging activities of $23 million). We believe that to develop new product and process technologies, support future growth, achieve operating efficiencies and maintain product quality, we must continue to invest in manufacturing technologies, facilities, capital equipment and R&#38;D. We estimate that capital spending for the fourth quarter of 2013 will be approximately $300 million to $500 million. As of May 30, 2013 , we had commitments of approximately $500 million for the acquisition of property, plant and equipment, substantially all of which is expected to be paid within one year. 
+
+On May 22, 2013, we entered into a short-term, interest-free, unsecured loan agreement with Aptina that allows Aptina to borrow up to $45 million , drawn at their option, in three &#32;equal tranches through July 2013. Principal amounts drawn are due in three &#32;equal payments from September, 2013 to January, 2014. As of May 30, 2013, other current assets included $15 million &#32;for amounts due under the short-term loan agreement. Subsequent to the third quarter of 2013, on June 3, 2013 and July 3, 2013, Aptina drew the remaining $30 million &#32;available under this loan agreement. 
+
+Financing Activities 
+
+Net cash provided by financing activities was $57 million &#32;for the first nine &#32;months of 2013, which included $812 million &#32;of proceeds from issuance of debt and $106 million &#32;of proceeds from equipment sale-leaseback financing transactions partially offset by $664 million &#32;for repayments of debt and $162 million &#32;of payments on equipment purchase contracts. 
+
+&#32;45 
+
+On June 27, 2013, we entered into a senior secured three -year revolving credit facility, collateralized by a security interest in certain trade receivables. Under this facility, we can draw up to 85% &#32;of the net outstanding balance of certain trade receivables, subject to certain adjustments, including an availability block that has the effect of limiting the maximum committed draw amount to approximately $153 million . The revolving credit facility contains customary covenants and conditions, including as a funding condition the absence of any event or circumstance that has a material adverse effect on our business or financial condition. Generally, interest is payable on any outstanding principal balance at a variable rate equal to the London Interbank Offered Rate (&#8220;LIBOR&#8221;) plus a spread from 1.5% to 2.0% , or at our option, at a rate equal to an alternate base rate (defined as the highest of (1) the prime rate, (2) one-month LIBOR plus 1.0% &#32;or (3) the Federal Funds Effective Rate) plus a spread from 0.5% &#32;to 1.0% . In either case, the spread added to the applicable interest rate basis varies depending upon the amount of the monthly average undrawn availability under the facility. 
+
+On February 12, 2013, we issued $300 million &#32;of 1.625% &#32;Convertible Senior Notes due 2033 (the "2033E Notes") and $300 million &#32;of 2.125% &#32;Convertible Senior Notes due 2033 (the "2033F Notes" and together with the 2033E Notes, the "2033 Notes") at face value. Issuance costs for the 2033 Notes totaled $16 million . Concurrently with the issuance of the 2033 Notes, we paid $48 million &#32;to purchase capped calls to partially offset the potentially dilutive effect if the 2033 Notes were converted into shares of our common stock. Additionally, on February 12, 2013, we repurchased $464 million &#32;of aggregate principal amount of our 1.875% &#32;Convertible Senior Notes due June 2014 for $477 million . 
+
+On October 2, 2012, we entered into a facility agreement to obtain financing collateralized by semiconductor production equipment. Subject to customary conditions, we could draw up to $214 million under the facility agreement. Amounts drawn are payable in 10 equal semi-annual installments beginning six months after the draw date. On October 18, 2012, we drew $173 million with interest at 2.4% per annum. On January 31, 2013, we drew the remaining $41 million with interest at 2.4% per annum. The facility agreement contains customary covenants and events of default. 
+
+On September 5, 2012, we entered into a three-year revolving credit facility. Under this credit facility, we can draw up to the lesser of $255 million or 80% of the net outstanding balance of a pool of certain trade receivables. Amounts drawn would be collateralized by a security interest in such receivables. The availability of the facility is subject to certain customary conditions, including the absence of any event or circumstance that has a material adverse effect on our business or financial condition. The revolving credit facility contains customary covenants and a repayment provision in the event that the maximum aging of the receivables exceeds a specified threshold. Interest is payable monthly on any outstanding principal balance at a variable rate equal to the 30-day Singapore Interbank Offering Rate plus 2.8% per annum. As of May 30, 2013 , we had not drawn any amounts under this facility. 
+
+Pending Acquisition of Elpida Memory, Inc. 
+
+On July 2, 2012, we entered into the Sponsor Agreement and the Rexchip Share Purchase Agreement that require aggregate payments by us of approximately 60 billion yen and 10 billion New Taiwan dollars, respectively, (or the equivalent of an aggregate of approximately $909 million &#32;based on exchange rates as of May 30, 2013 ) at the closing of the transactions. The Elpida Companies will use the proceeds of our investment at the closing to fund initial installment payments to their creditors of 60 billion yen (or the equivalent of approximately $593 million ), which amount is subject to reduction for certain items specified in the Sponsor Agreement. The initial installment payment will be made within three months following the closing of our acquisition of Elpida. Under their plans of reorganizations, the Elpida Companies are to make additional annual installment payments to their creditors aggregating 140 billion yen (or the equivalent of approximately $1.38 billion ), which are scheduled to occur from 2014 through 2019. In addition, we will be required to make capital expenditures in furtherance of the planned technology road maps for the Elpida and Rexchip operations. 
+
+Pursuant to the Sponsor Agreement we agreed, subject to certain conditions, to provide certain support to Elpida with respect to obtaining financing for working capital purposes and capital expenditures. This support included a commitment to use reasonable best efforts to assist Elpida with the extension or replacement of Elpida's then existing working capital credit facility through the closing of the Elpida acquisition, which assistance may include the provision of a payment guarantee by us under certain circumstances. Under the Sponsor Agreement, we also agreed, subject to certain conditions, to use reasonable best efforts to assist the Elpida Companies in financing up to 64 billion &#32;yen (or the equivalent of approximately $633 million ) of eligible capital expenditures incurred through June 30, 2014, including up to 40 billion &#32;yen (or the equivalent of approximately $395 million ) incurred prior to June 30, 2013, which may include us providing payment guarantees of third party financing under certain circumstances or direct financial support from Micron or one of its subsidiaries. 
+
+&#32;46 
+
+As of May 30, 2013 &#32;we have provided payment guarantees related to financing of capital expenditures with an outstanding borrowing of 5 billion &#32;yen (or the equivalent of approximately $50 million ), through December, 2014. We have also provided a payment guarantee relating to an extension of Elpida's existing working capital credit facility, with an outstanding borrowing as of May 30, 2013 &#32;of 8 billion &#32;yen (or the equivalent of approximately $79 million ). On June 28, 2013, Elpida's working capital credit facility matured and was repaid in full, relieving us of our payment guarantee. We have entered into an omnibus reimbursement agreement with Elpida in connection with our financial support obligations under the Sponsor Agreement, whereby Elpida and certain of its subsidiaries have agreed, among other things, to reimburse us for any amounts that we are required to pay under or in connection with the payment guarantees. These obligations under the omnibus reimbursement agreement are collateralized by approximately 93% &#32;of the Rexchip shares held by Elpida and one of its subsidiaries. In the event we are required to make any payments to Elpida's lenders under the guarantees, our rights will be subrogated to those of the lenders, including any rights to exercise remedies with respect to collateral securing the underlying loans. Failure to close the Elpida acquisition would not relieve us of our obligations under the foregoing payment guarantees. Under the Sponsor Agreement, certain conditions require Elpida's cash balances to be below a certain level in order for capital expenditure financing support to be available to Elpida. As of May 30, 2013, these conditions were not satisfied. As a result, we will not be obligated to provide any such further support unless and until such conditions, as well as all other applicable conditions, are met. Although we were not obligated to do so, in June 2013, we provided an additional payment guarantee related to the financing of capital expenditures of an aggregate of $16 million &#32;in order for Elpida to obtain more favorable financing terms. 
+
+In connection with the Elpida Sponsor Agreement, on July 2, 2012, we entered into the Original Elpida Hedges. We settled the Original Elpida Hedges on March 26, 2013 and paid $191 million . Upon settlement of the Original Elpida Hedges, on March 26, 2013, we entered into the New Elpida Hedges to hedge our exposure to the yen-denominated acquisition payments pursuant to which we entered into below-market forward contracts to buy 80 billion &#32;yen with a weighted-average price of 91.00 &#32;(yen per U.S. dollar) and purchased put options to sell 80 billion &#32;yen with a weighted-average strike price of 94.24 . The New Elpida Hedges expire on September 25, 2013 and other current liabilities as of May 30, 2013 &#32;included $24 million for the fair value of these instruments. 
+
+(See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Pending Acquisition of Elpida Memory, Inc.") 
+
+Contractual Obligations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Payments Due by Period 
+
+As of May 30, 2013 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+Remainder of 2013 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2018 and Thereafter 
+
+&#160; 
+
+&#160; 
+
+(amounts in millions) 
+
+Notes payable (1) 
+
+&#160; 
+
+$ 
+
+3,557 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,437 
+
+Capital lease obligations (1) 
+
+&#160; 
+
+1,004 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating leases (2) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(1) Amounts represent principal and interest cash payments over the life of debt obligations, including anticipated interest payments that are not recorded on our consolidated balance sheet. Any future redemption or conversion of convertible debt could impact the amount or timing of our cash payments. 
+
+(2) Amounts do not include contingent payments. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Off-Balance Sheet Arrangements 
+
+In connection with our obligations to provide financial support to Elpida under the Sponsor Agreement, as of May 30, 2013 &#32;we provided payment guarantees related to Elpida's financing of capital expenditures with outstanding borrowings of 5 billion &#32;yen (or $50 million ), and provided a payment guarantee related to an extension of Elpida's existing working capital credit facility with outstanding borrowings of 8 billion &#32;yen ( $79 million ). On June 28, 2013 Elpida's working capital credit facility matured and was repaid in full relieving us of our payment guarantee. Although we were not obligated to do so, in June 2013, we provided an additional payment guarantee related to the financing of capital expenditures of an aggregate of $16 million &#32;in order for Elpida to obtain more favorable financing terms. Our obligations under these guarantee arrangements are collateralized by rights to certain equipment and other assets of Elpida. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Pending Acquisition of Elpida Memory, Inc.") 
+
+&#32;47 
+
+Concurrent with the issuance of the 2033E and 2033F Notes in February 2013, we entered into capped call transactions that have an initial strike price of approximately $10.93 , subject to certain adjustments, and a cap price of $14.51 &#32;per share. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Micron Shareholders' Equity and Noncontrolling Interests in Subsidiaries &#8211; 2013 Capped Call Transactions" and "Debt &#8211; 2033E and 2033F Notes.") 
+
+Concurrent with the issuance of the 4.25% Convertible Notes due 2013 in April 2009, we entered into capped call transactions (the "2009 Capped Calls") covering approximately 45.2 million &#32;shares of common stock with an initial strike price of approximately $5.08 &#32;per share and a cap price of $ 6.64 &#32;per share. The 2009 Capped Calls expired in October, 2012 &#32;and November, 2012 . We elected cash settlement and received $24 million &#32;in the first quarter of 2013. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Micron Shareholders' Equity and Noncontrolling Interests in Subsidiaries &#8211; 2009 Capped Call Transactions.") 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+In addition to the factors discussed elsewhere in this Form 10-Q, the following are important factors which could cause actual results or events to differ materially from those contained in any forward-looking statements made by or on behalf of us. 
+
+We have experienced dramatic declines in average selling prices for our semiconductor memory products which have adversely affected our business. 
+
+If average selling prices for our memory products decrease faster than we can decrease per gigabit costs, our business, results of operations or financial condition could be materially adversely affected. We have experienced significant decreases in our average selling prices per gigabit in recent years as noted in the table below and may continue to experience such decreases in the future. In some prior periods, average selling prices for our memory products have been below our manufacturing costs and we may experience such circumstances in the future. 
+
+&#160; 
+
+&#160; 
+
+DRAM 
+
+&#160; 
+
+&#160; 
+
+Trade NAND Flash* 
+
+&#160; 
+
+&#160; 
+
+(percentage change in average selling prices) 
+
+2012 from 2011 
+
+&#160; 
+
+(45 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+(55 
+
+)% 
+
+2011 from 2010 
+
+&#160; 
+
+(39 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+(12 
+
+)% 
+
+2010 from 2009 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+2009 from 2008 
+
+&#160; 
+
+(52 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+(52 
+
+)% 
+
+2008 from 2007 
+
+&#160; 
+
+(51 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+(68 
+
+)% 
+
+* Trade NAND Flash excludes sales to Intel from IM Flash. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+We may be unable to reduce our per gigabit manufacturing costs at the rate average selling prices decline. 
+
+Our gross margins are dependent upon continuing decreases in per gigabit manufacturing costs achieved through improvements in our manufacturing processes, including reducing the die size of our existing products. In future periods, we may be unable to reduce our per gigabit manufacturing costs at sufficient levels to improve or maintain gross margins. Factors that may limit our ability to reduce costs include, but are not limited to, strategic product diversification decisions affecting product mix, the increasing complexity of manufacturing processes, difficulty in transitioning to smaller line-width process technologies, technological barriers and changes in process technologies or products that may require relatively larger die sizes. Per gigabit manufacturing costs may also be affected by the relatively smaller production quantities and shorter product lifecycles of certain specialty memory products. 
+
+The semiconductor memory industry is highly competitive. 
+
+We face intense competition in the semiconductor memory market from a number of companies, including Elpida Memory, Inc.; Samsung Electronics Co., Ltd.; SanDisk Corporation; SK Hynix Inc.; Spansion Inc. and Toshiba Corporation. Some of our competitors are large corporations or conglomerates that may have greater resources to withstand downturns in the semiconductor markets in which we compete, invest in technology and capitalize on growth opportunities. Our competitors seek to increase silicon capacity, improve yields, reduce die size and minimize mask levels in their product designs. Transitions to smaller line-width process technologies and product and process improvements have resulted in significant increases in the worldwide supply of semiconductor memory. Increases in worldwide supply of semiconductor memory also result from semiconductor memory fab capacity expansions, either by way of new facilities, increased capacity utilization or reallocation of other semiconductor production to semiconductor memory production. Our competitors may increase capital expenditures resulting in future increases in worldwide supply. Increases in worldwide supply of semiconductor memory, if not accompanied with commensurate increases in demand, would lead to further declines in average selling prices for our products and would materially adversely affect our business, results of operations or financial condition. 
+
+&#32;53 
+
+Our pending acquisitions of Elpida and Rexchip involve numerous risks. 
+
+On July 2, 2012, we entered into an "Agreement on Support for Reorganization Companies" (the "Sponsor Agreement") with the trustees of Elpida Memory, Inc. ("Elpida") and its subsidiary, Akita Elpida Memory, Inc. (together with Elpida, the "Elpida Companies"), which provides for, among other things, our acquisition of Elpida and our support for the plans of reorganization of the Elpida Companies in connection with their corporate reorganization proceedings in Japan. The Elpida Companies filed petitions for commencement of corporate reorganization proceedings with the Tokyo District Court (the "Japan Court") under the Corporate Reorganization Act of Japan on February 27, 2012 (the "Japan Proceeding"). On March 23, 2012, the Japan Court issued an order to commence the Japan Proceeding. Elpida filed a Verified Petition for Recognition and Chapter 15 Relief (the "U.S. Proceeding") in the United States Bankruptcy Court for the District of Delaware (the "U.S. Court") on March 19, 2012 and, on April 24, 2012, the U.S. Court entered an order that, among other things, recognized the Japan Proceeding as a foreign main proceeding pursuant to 11 U.S.C. &#167; 1517(b). On February 26, 2013, the Elpida Companies' creditors approved the reorganization plans of Elpida and Akita and on February 28, 2013, the Japan Court issued an order approving the plans of reorganization. Appeals filed by certain creditors of Elpida in Japan challenging the approval order of the Japan Court were denied. On June 25, 2013, the U.S. Court issued a recognition order, which recognized the order of the Japan Court approving the Elpida plan of reorganization. 
+
+&#160; 
+
+Under the Sponsor Agreement, we committed to support plans of reorganization for the Elpida Companies that would provide for payments by the Elpida Companies to their secured and unsecured creditors in an aggregate amount of 200 billion &#32;yen (or the equivalent of approximately $ 1.98 billion ), less certain expenses of the reorganization proceedings and certain other items. 
+
+The Sponsor Agreement provides that we will invest 60 billion &#32;yen (or the equivalent of approximately $ 593 million ) in cash in Elpida at the closing in exchange for 100% ownership of Elpida's equity. As a condition to the execution of the Sponsor Agreement, we deposited 1.8 billion &#32;yen (or the equivalent of approximately $ 18 million ) into an escrow account in July 2012, which will be applied towards our purchase price for the Elpida shares at closing. The Elpida Companies will use the proceeds of our investment to fund initial installment payments to their creditors of 60 billion yen, which amount is subject to reduction for certain items specified in the Sponsor Agreement. The initial installment payment will be made within three months following the closing of our acquisition of Elpida. The remaining 140 billion &#32;yen (or the equivalent of approximately $ 1.38 billion ) of installment payments payable to the Elpida Companies' creditors are scheduled to be made by the Elpida Companies in six annual installments payable at the end of each calendar year beginning in the calendar year after the first installment payment is made. If the resolution of certain unfixed claims under the plans of reorganization, primarily comprised of outstanding litigation claims, would result in payments in respect of those claims in excess of amounts reserved under the plans of reorganization to satisfy such claims, there is a possibility that the Elpida Companies would be required to pay more than 200 billion yen to their pre-petition creditors under the plans of reorganization. In addition, if these unfixed claims are resolved pursuant to settlement arrangements or other post-petition agreements, a substantial portion of the amounts payable with respect to the claims may have to be funded by the Elpida Companies outside of the installment payments provided for by the plans of reorganization. We, or one of our subsidiaries, are committed to enter into a supply agreement with Elpida following the closing, which will provide for our purchase on a cost-plus basis of all product produced by Elpida. Cash flows from such supply agreement are expected to be sufficient to satisfy the required installment payments under the plans of reorganization. Although certain key parameters of the supply agreement have been agreed to with Elpida, the detailed terms have not been completed, and the final terms will be subject to Japan Court approval. 
+
+&#160; 
+
+On July 2, 2012, we also entered into a share purchase agreement with Powerchip Technology Corporation ("Powerchip") and certain of its affiliates (the "Rexchip Share Purchase Agreement"), under which we will purchase approximately 714 million shares of the common stock of Rexchip, a manufacturing joint venture formed by Elpida and Powerchip, for approximately 10 billion New Taiwan dollars (or the equivalent of approximately $ 334 million ). 
+
+&#160; 
+
+If the transactions contemplated by these two agreements are completed, we will own 100% of Elpida and, directly or indirectly through Elpida, approximately 89% of Rexchip. 
+
+&#160; 
+
+The consummation of the Sponsor Agreement remains subject to completion or waiver of certain conditions, including the closing of the purchase of the Rexchip shares from the Powerchip Group under the Rexchip Share Purchase Agreement described above, and we are currently targeting a closing during our fourth quarter of 2013. However, there can be no assurance that the various conditions will be satisfied or that the Elpida acquisition will ultimately be consummated on the terms and conditions set forth in the Sponsor Agreement. If the remaining closing conditions are not satisfied or waived, we will not be able to close the acquisitions. 
+
+&#160; 
+
+&#32;54 
+
+In addition to the acquisition risks described elsewhere, these acquisitions are expected to involve the following significant risks: 
+
+&#160; 
+
+&#8226; 
+
+we may incur losses in connection with our financial support, including outstanding guarantees and financing, of the Elpida Companies' working capital financing and eligible capital expenditures, which losses may arise even if the transactions do not close; 
+
+&#8226; 
+
+we may be unable to maintain customers, successfully execute our integration strategies, or achieve planned synergies; 
+
+&#8226; 
+
+we may be unable to accurately forecast the anticipated financial results of the combined business; 
+
+&#8226; 
+
+our consolidated financial condition may be adversely impacted by the increased leverage resulting from the transactions; 
+
+&#8226; 
+
+increased exposure to the DRAM market, which experienced significant declines in pricing during the first quarter of 2013 as well as 2012 and 2011; 
+
+&#8226; 
+
+deterioration of Elpida's and Rexchip's operations and customer base during the period between signing and closing; 
+
+&#8226; 
+
+increased exposure to operating costs denominated in yen and New Taiwan dollar; 
+
+&#8226; 
+
+integration issues with Elpida's and Rexchip's primary manufacturing operations in Japan and Taiwan; 
+
+&#8226; 
+
+integration issues of our product and process technology with Elpida and Rexchip; 
+
+&#8226; 
+
+integration of business systems and processes; and 
+
+&#8226; 
+
+an overlap in customers. 
+
+&#160; 
+
+Our pending acquisitions of Elpida and Rexchip are inherently risky, may not be successful and may materially adversely affect our business, results of operations or financial condition. 
+
+The operations of the Elpida Companies will be subject to continued oversight by the Japan Court during the pendency of the corporate reorganization proceedings. 
+
+&#160; 
+
+If we are able to complete the Elpida acquisition, the operation of the businesses of the Elpida Companies will be subject to ongoing oversight by the Japan Court and the trustees during the pendency of the corporate reorganization proceedings. This oversight may continue until the final creditor payment is made under the Elpida Companies' plans of reorganization, which is scheduled to occur in December 2019, but may occur on a later date to the extent any claims of creditors remain unfixed on the final scheduled installment payment date. Although we may be able to petition the court to terminate the corporate reorganization proceedings once two-thirds of all payments under the plans of reorganization are made, there can be no assurance that the Japan Court will grant any such petition. 
+
+&#160; 
+
+During the pendency of the Japan Proceeding, the Elpida Companies will provide periodic financial reports to the Japan Court and may be required to obtain the consent of the Japan Court prior to taking a number of significant actions relating to their businesses, including transferring or disposing of, or acquiring, assets outside the ordinary course of business, incurring or guaranteeing indebtedness, settling disputes or entering into or terminating certain agreements. The consent of the legal trustee may also be required for matters that would likely have a material impact on the operations or assets of the Elpida Companies and their subsidiaries or for transfers of material assets, to the extent the matters or transfers would reasonably be expected to materially and adversely affect execution of the plans of reorganization of the Elpida Companies. 
+
+&#160; 
+
+The purpose of the ongoing oversight of the Japan Court is to help ensure that the Elpida Companies meet their installment payment obligations under the plans of reorganization. Although we are planning to request that the Japan Court limit these consent requirements, we cannot guarantee that we will be successful in narrowing the scope of these consent requirements or that the Japan Court will not impose further requirements on the Elpida Companies, particularly if the Japan Court perceives any risk in the ability of the Elpida Companies to satisfy their obligations under the plans of reorganization. Accordingly, during the pendency of the Japan Proceeding, our ability to efficiently integrate the Elpida Companies as part of our global operations could be adversely affected if the Japan Court or the legal trustee is unwilling to consent to various actions that we may wish to take with respect to the Elpida Companies. 
+
+Our pending acquisitions of Elpida and Rexchip expose us to significant risks from changes in currency exchange rates. 
+
+Under the Sponsor Agreement, we committed to support plans of reorganization for Elpida that would provide for payments to the secured and unsecured creditors of Elpida in an aggregate amount of 200 billion yen. Also, under the share purchase agreement with Powerchip, we agreed to pay approximately 10 billion New Taiwan dollars to purchase approximately 714 million shares of Rexchip common stock. The U.S. dollar amount of these payment obligations could increase if these currencies strengthen against the U.S. dollar. Additionally, a significant portion of Elpida's operating costs are paid in Yen and New Taiwan dollars so our operating results subsequent to the acquisition could also be adversely impacted if these currencies strengthen against the U.S. dollar. 
+
+&#32;55 
+
+In connection with the Elpida Sponsor Agreement, in July of 2012, we entered into a series of option contracts to hedge our exposure to the yen-denominated acquisition payments under the agreements (the "Original Elpida Hedges"). For the third quarter and first nine months of 2013, we recognized losses of $23 million &#32;and $199 million , respectively, from the Original Elpida Hedges. In the third quarter of 2013, we settled these options and made a payment of $191 million. 
+
+Upon settlement of the Original Elpida Hedges, on March 26, 2013, we entered into a series of new currency forward and option contracts to hedge our exposure to the yen-denominated acquisition payments pursuant to which we purchased forward contracts to buy 80 billion &#32;yen and purchased put options to sell 80 billion yen (the "New Elpida Hedges"). The New Elpida Hedges, which expire on September 25, 2013, mitigate the risk of a strengthening yen for certain of our yen-denominated payments under the Sponsor Agreement while preserving some ability for us to benefit if the value of the yen weakens relative to the U.S. dollar. At the closing on September 25, 2013, if the yen per U.S. dollar exchange rate were 94.24 &#32;or higher, then the maximum net loss of the New Elpida Hedges would be $30 million. If the yen per U.S. dollar exchange rate were below 91.00 &#32;at closing, then the New Elpida Hedges would result in a gain. For the third quarter of 2013, we recognized losses of $23 million &#32;on the New Elpida Hedges. 
+
+We may make future acquisitions and/or alliances, which involve numerous risks. 
+
+Acquisitions and the formation or operation of alliances, such as joint ventures and other partnering arrangements, involve numerous risks including the following: 
+
+&#8226; 
+
+integrating the operations, technologies and products of acquired or newly formed entities into our operations; 
+
+&#8226; 
+
+increasing capital expenditures to upgrade and maintain facilities; 
+
+&#8226; 
+
+increased debt levels; 
+
+&#8226; 
+
+the assumption of unknown or underestimated liabilities; 
+
+&#8226; 
+
+the use of cash to finance a transaction, which may reduce the availability of cash to fund working capital, capital expenditures, research and development expenditures and other business activities; 
+
+&#8226; 
+
+diverting management's attention from normal daily operations; 
+
+&#8226; 
+
+managing larger or more complex operations and facilities and employees in separate and diverse geographic areas; 
+
+&#8226; 
+
+hiring and retaining key employees; 
+
+&#8226; 
+
+requirements imposed by governmental authorities in connection with the regulatory review of a transaction, which may include, among other things, divestitures or restrictions on the conduct of our business or the acquired business; 
+
+&#8226; 
+
+inability to realize synergies or other expected benefits; 
+
+&#8226; 
+
+failure to maintain customer, vendor and other relationships; 
+
+&#8226; 
+
+inadequacy or ineffectiveness of an acquired company's internal financial controls, disclosure controls and procedures, and/or environmental, health and safety, anti-corruption, human resource, or other policies or practices; and 
+
+&#8226; 
+
+impairment of acquired intangible assets and goodwill as a result of changing business conditions, technological advancements or worse-than-expected performance of the acquired business. 
+
+In recent years, supply of memory products has significantly exceeded customer demand resulting in significant declines in average selling prices for DRAM, NAND Flash and NOR Flash products. Resulting operating losses have led to the deterioration in the financial condition of a number of industry participants, including the liquidation of Qimonda AG and the 2012 bankruptcy filing by Elpida Memory, Inc. These types of proceedings often lead to confidential court-directed processes involving the sale of related businesses or assets. We believe the global memory industry is experiencing a period of consolidation as a result of these market conditions and other factors, and we have engaged, and expect to continue to engage, in discussions regarding potential acquisitions and similar opportunities arising out of these industry conditions, such as our pending acquisition of Elpida. To the extent we are successful in completing any such transactions, we could be subject to some or all of the risks described above, including the risks pertaining to funding, assumption of liabilities, integration challenges and increases in debt that may accompany such transactions. Acquisitions of, or alliances with, high-technology companies are inherently risky and may not be successful and may materially adversely affect our business, results of operations or financial condition. 
+
+&#32;56 
+
+Debt obligations could adversely affect our financial condition. 
+
+We are engaged in a capital intensive business subject to significant changes in supply and demand and product pricing and recent periods of consolidation, any of which could result in our incurrence or assumption of indebtedness. In recent periods, our debt levels have increased and are expected to continue to increase through 2013. As of May 30, 2013 , we had $3.62 billion &#32;of debt, including $485 million principal amount of convertible senior notes due in 2014. As of May 30, 2013 , we had existing credit facilities that allowed us to draw up to an additional $255 million , subject to certain customary conditions and on June 27, 2013, we entered into another credit facility that would allow us to draw up to approximately $153 million , subject to certain customary conditions. Events and circumstances may occur which would cause us to not be able to satisfy the customary conditions and utilize either of these facilities. 
+
+In connection with the Sponsor Agreement, we are obligated to provide financial support, subject to certain conditions, which may include guarantees of Elpida's financing of working capital and up to $633 million &#32;of eligible capital expenditures incurred through June 30, 2014. Failure to close the transaction would not relieve us of our obligations under any guarantees to third party financing sources entered into in connection with any such financing arrangements. As of May 30, 2013 , we had provided payment guarantees related to financing of capital expenditures with an outstanding borrowing of 5 billion &#32;yen (or $50 million ), and provided a payment guarantee related to an extension of Elpida's existing working capital credit facility, which provides for aggregate borrowing in the amount of up to 10 billion &#32;yen (or $99 million ), with an outstanding borrowing of 8 billion &#32;yen ( $79 million ). In addition, if we are able to complete the Elpida acquisition, we will fund 60 billion &#32;yen (or $593 million ) through a cash payment to Elpida at the closing, in exchange for 100% ownership of Elpida's equity. The remaining 140 billion &#32;yen (or $1.38 billion ) of payments will be made by the Elpida Companies in six annual installments payable at the end of each calendar year beginning in 2014, with payments of 20 billion &#32;yen (or $198 million ) in each of 2014 through 2017, and payments of 30 billion &#32;yen (or $297 million ) in each of 2018 and 2019. We may need to incur additional debt in the future. 
+
+Our debt and our guarantee obligations could adversely impact us. For example, these obligations could: 
+
+&#8226; 
+
+require us to use a large portion of our cash flow to pay principal and interest on debt, which will reduce the amount of cash flow available to fund working capital, capital expenditures, acquisitions, research and development expenditures and other business activities; 
+
+&#8226; 
+
+limit our future ability to raise funds for capital expenditures, strategic acquisitions or business opportunities, research and development and other general corporate requirements; 
+
+&#8226; 
+
+contribute to a future downgrade of our credit rating, which could increase future borrowing costs; and 
+
+&#8226; 
+
+increase our vulnerability to adverse economic and semiconductor memory industry conditions. 
+
+Our ability to meet our payment obligations under our debt instruments depends on our ability to generate significant cash flow in the future. This, to some extent, is subject to general economic, financial, competitive, legislative and regulatory factors as well as other factors that are beyond our control. There can be no assurance that our business will generate cash flow from operations, or that additional capital will be available to us, in an amount sufficient to enable us to meet our debt payment obligations and to fund other liquidity needs. If we are unable to generate sufficient cash flow to service our debt obligations, we may need to refinance or restructure our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. If we were unable to implement one or more of these alternatives, we may be unable to meet our debt payment obligations. 
+
+&#32;57 
+
+We may be unable to generate sufficient cash flows or obtain access to external financing necessary to fund our operations, make scheduled debt payments and make adequate capital investments. 
+
+Our cash flows from operations depend primarily on the volume of semiconductor memory sold, average selling prices and per unit manufacturing costs. To develop new product and process technologies, support future growth, achieve operating efficiencies and maintain product quality, we must make significant capital investments in manufacturing technology, capital equipment, facilities, R&#38;D and product and process technology. We estimate that capital spending for the fourth quarter of 2013 will be approximately $300 million to $500 million. In addition, if we are able to complete the Elpida acquisition, we believe that capital spending following the closing will be higher than our historical levels as a result of the investments needed to integrate the companies' manufacturing operations and to support the increased capacity resulting from the Elpida transaction. As of May 30, 2013 , we had cash and equivalents of $2,440 million &#32;, short-term investments of $112 million &#32;and long-term marketable investments of $347 million. Cash and investments included $62 million &#32;held by IM Flash Technologies, LLC ("IMFT"), which is generally not available to finance our other operations. If we are able to close the Elpida transaction, cash held by Elpida may be available to fund a portion of its capital spending. In the past we have utilized external sources of financing when needed. As a result of our current debt levels, expected debt amortization and general economic conditions, it may be difficult for us to obtain financing on terms acceptable to us. There can be no assurance that we will be able to generate sufficient cash flows, access cash held by Elpida to fund its capital expenditures, access capital markets or find other sources of financing to fund our operations, make debt amortization payments and make adequate capital investments to remain competitive in terms of technology development and cost efficiency. Our inability to do the foregoing could have a material adverse effect on our business and results of operations. 
+
+Our Inotera Supply Agreement involves numerous risks. 
+
+On January 17, 2013, we entered into a new supply agreement with Inotera (the "Inotera Supply Agreement") under which we are obligated to purchase substantially all of Inotera's output at a purchase price based on a discount from market prices for our comparable components. Our Inotera Supply Agreement involves numerous risks including the following: 
+
+&#8226; 
+
+higher costs for supply obtained under the market-based provisions of the Inotera Supply Agreement; 
+
+&#8226; 
+
+difficulties and delays in ramping production at Inotera and delays in the future; and 
+
+&#8226; 
+
+difficulties in transferring technology to Inotera. 
+
+The financial crisis and overall downturn in the worldwide economy may harm our business. 
+
+The financial crisis and the overall downturn in the worldwide economy have had an adverse effect on our business. A continuation or further deterioration of depressed economic conditions could have an even greater adverse effect on our business. Adverse economic conditions affect demand for devices that incorporate our products, such as personal computers, networking products and mobile devices. Reduced demand for these products could result in significant decreases in our average selling prices and product sales. A deterioration of current conditions in worldwide credit markets would limit our ability to obtain external financing to fund our operations and capital expenditures. In addition, we may experience losses on our holdings of cash and investments due to failures of financial institutions and other parties. Difficult economic conditions may also result in a higher rate of loss on our accounts receivables due to credit defaults. As a result, our business, results of operations or financial condition could be materially adversely affected. 
+
+&#32;58 
+
+Inotera's financial situation may adversely impact the value of our interest and our supply agreement. 
+
+Inotera incurred net losses of $24 million &#32;for its first quarter ended March 31, 2013. Also, Inotera's current liabilities exceeded its current assets by $1.68 billion &#32;as of March 31, 2013, which exposes Inotera to liquidity risk. As of December 31, 2012, Inotera was not in compliance with certain loan covenants, and had not been in compliance for the past several years. Inotera received a waiver from complying with the December 31, 2012 financial covenants. Inotera's management has developed plans to improve its liquidity, but there can be no assurance that Inotera will be successful in improving its liquidity, which may result in its lenders requiring repayment of such loans during the next year. If Inotera is unable to adequately improve its liquidity, we may have to impair our investment in Inotera. 
+
+On January 17, 2013, we entered into agreements with Nanya Technology Corporation ("Nanya") to amend the joint venture relationship involving Inotera. The amendments include a new supply agreement (the "Inotera Supply Agreement") between us and Inotera under which we will purchase substantially all of Inotera's output at a purchase price based on a discount from actual market prices for comparable components. The Inotera Supply Agreement was retroactively effective beginning on January 1, 2013. Effective through December 31, 2012, we had rights and obligations to purchase 50% &#32;of Inotera's wafer production capacity based on a margin-sharing formula among Nanya, Inotera and us. For the third quarter of 2013, we purchased $341 million &#32;of DRAM products from Inotera and our supply from Inotera accounted for 62% of our aggregate DRAM gigabit production. If our supply of DRAM from Inotera is impacted, our business, results of operations or financial condition could be materially adversely affected. 
+
+We may incur additional material restructure or other charges in future periods. 
+
+In response to severe downturns in the semiconductor memory industry and global economic conditions, we implemented restructure plans in prior periods and may need to implement restructure initiatives in future periods. We may restructure or dispose of assets as we continue to optimize our manufacturing operations, including the wind-down of some 200-millimeter wafer capacity as we migrate more products to 300-millimeter wafer production. As a result, we could incur restructure charges (including but not limited to severance and other termination benefits, losses on disposition or impairment of equipment or other long-lived assets and inventory write downs), lose production output, lose key personnel and experience disruptions in our operations and difficulties in the timely delivery of products. In connection with these actions, we may incur restructure charges or other losses. For example, in the first nine months of 2013, we recorded the following losses in connection with restructuring activities: 
+
+&#8226; $62 million in connection with the sale of our 200mm wafer fabrication facility in Avezzano, Italy; 
+
+&#8226; $26 million in connection with the restructuring a consortium agreement with STMicroelectronics S.r.l. ("ST"); and 
+
+&#8226; $29 million in connection with the discontinuation of our LED operations. 
+
+Changes in foreign currency exchange rates could materially adversely affect our business, results of operations or financial condition. 
+
+Across our multi-national operations, there are transactions and balances denominated in currencies other than the U.S. dollar (our reporting currency), primarily the Singapore dollar, euro, shekel and yen. We recorded net losses from changes in currency exchange rates of $6 million for 2012, $6 million for 2011 and $23 million for 2010. Based on our foreign currency exposures from monetary assets and liabilities, offset by balance sheet hedges, we estimate that a 10% adverse change in exchange rates versus the U.S. dollar would result in losses of approximately $7 million as of May 30, 2013 . In the event that the U.S. dollar weakens significantly compared to the Singapore dollar, euro, shekel or yen, our results of operations or financial condition may be adversely affected. 
+
+In connection with the Sponsor Agreement, we entered into the Original Elpida Hedges to mitigate the risk that increases in exchange rates have on our planned yen payments. We settled the Original Elpida Hedges on March 26, 2013 and paid $191 million . On March 26, 2013, we entered into the New Elpida Hedges to hedge our exposure to the yen-denominated acquisition payments pursuant to which we entered into below market forward contracts to buy 80 billion &#32;yen and purchased put options to sell 80 billion yen. The maximum net loss of the New Elpida Hedges could be $30 million if the exchange rate for the yen per U.S. dollar were 94.24 &#32;or higher on September 25, 2013. Non-operating expense for the third &#32;quarter, second quarter and first nine &#32;months of 2013 &#32;included currency losses of $47 million , $120 million and $225 million , respectively, from changes in the market value of currency hedges executed in connection with our planned acquisitions of Elpida and Rexchip. 
+
+&#32;59 
+
+Our future success depends on our ability to develop and produce competitive new memory technologies. 
+
+Our key semiconductor memory technologies of DRAM, NAND Flash and NOR Flash face technological barriers to continue to meet long-term customer needs. These barriers include potential limitations on the ability to shrink products in order to reduce costs, meet higher density requirements and improve power consumption and reliability. To meet these requirements, we expect that new memory technologies will be developed by the semiconductor memory industry. Our competitors are working to develop new memory technologies that may offer performance and/or cost advantages to our existing memory technologies and render existing technologies obsolete. Accordingly, our future success may depend on our ability to develop and produce viable and competitive new memory technologies . &#32;&#32;There can be no assurance of the following: 
+
+&#8226; 
+
+that we will be successful in developing competitive &#32; new semiconductor memory technologies; 
+
+&#8226; 
+
+that we will be able to cost-effectively manufacture new products; 
+
+&#8226; 
+
+that we will be able to successfully market these technologies; and 
+
+&#8226; 
+
+that margins generated from sales of these products will allow us to recover costs of development efforts. 
+
+If our efforts to develop new semiconductor memory technologies are unsuccessful, our business, results of operations or financial condition may be adversely affected. 
+
+The acquisition of our ownership interest in Inotera from Qimonda has been legally challenged by the administrator of the insolvency proceedings for Qimonda. 
+
+On January 20, 2011, Dr. Michael Jaff&#233;, administrator for Qimonda AG ("Qimonda") insolvency proceedings, filed suit against us and Micron Semiconductor B.V., our Netherlands subsidiary, in the District Court of Munich, Civil Chamber. The complaint seeks to void under Section 133 of the German Insolvency Act a share purchase agreement between us and Qimonda signed in fall 2008 pursuant to which we purchased all of Qimonda's shares of Inotera Memories, Inc. and seeks an order requiring us to retransfer the Inotera shares purchased from Qimonda to the Qimonda estate. The complaint also seeks to terminate under Sections 103 or 133 of the German Insolvency Code a patent cross license between us and Qimonda entered into at the same time as the share purchase agreement. A three-judge panel will render a decision after a series of hearings with pleadings, arguments and witnesses. Hearings were held on September 25, 2012, February 5, 2013, June 11, 2013 and July 2, 2013. An additional hearing is scheduled for October 8, 2013. We are unable to predict the outcome of this lawsuit and therefore cannot estimate the range of possible loss. The final resolution of this lawsuit could result in the loss of the Inotera shares or equivalent monetary damages and the termination of the patent cross license, which could have a material adverse effect on our business, results of operation or financial condition. As of May 30, 2013, the Inotera shares purchased from Qimonda had a carrying value of $143 million. 
+
+Our joint ventures and strategic relationships involve numerous risks. 
+
+We have entered into strategic relationships to manufacture products and develop new manufacturing process technologies and products. These relationships include our IMFT NAND Flash joint venture with Intel Corporation ("Intel"), our Inotera DRAM joint venture with Nanya and our MP Mask joint venture with Photronics. These joint ventures and strategic relationships are subject to various risks that could adversely affect the value of our investments and our results of operations. These risks include the following: 
+
+&#8226; 
+
+our interests could diverge from our partners or we may not be able to agree with partners on ongoing manufacturing and operational activities, or on the amount, timing or nature of further investments in our joint venture; 
+
+&#8226; 
+
+we may experience difficulties in transferring technology to joint ventures; 
+
+&#8226; 
+
+we may experience difficulties and delays in ramping production at joint ventures; 
+
+&#8226; 
+
+our control over the operations of our joint ventures is limited; 
+
+&#8226; 
+
+we may recognize losses from equity investment Inotera in our future results of operations; 
+
+&#8226; 
+
+due to financial constraints, our joint venture partners may be unable to meet their commitments to us or our joint ventures and may pose credit risks for our transactions with them; 
+
+&#8226; 
+
+due to differing business models or long-term business goals, our partners may decide not to join us in funding capital investment by our joint ventures, which may result in higher levels of cash expenditures by us; 
+
+&#8226; 
+
+cash flows may be inadequate to fund increased capital requirements; 
+
+&#8226; 
+
+we may experience difficulties or delays in collecting amounts due to us from our joint ventures and partners; 
+
+&#8226; 
+
+the terms of our partnering arrangements may turn out to be unfavorable; and 
+
+&#8226; 
+
+changes in tax, legal or regulatory requirements may necessitate changes in the agreements with our partners. 
+
+&#32;60 
+
+If our joint ventures and strategic relationships are unsuccessful, our business, results of operations or financial condition may be adversely affected. 
+
+An adverse outcome relating to allegations of anticompetitive conduct could materially adversely affect our business, results of operations or financial condition. 
+
+On May 5, 2004, Rambus, Inc. ("Rambus") filed a complaint in the Superior Court of the State of California (San Francisco County) against us and other DRAM suppliers which alleged that the defendants harmed Rambus by engaging in concerted and unlawful efforts affecting Rambus DRAM by eliminating competition and stifling innovation in the market for computer memory technology and computer memory chips. Rambus' complaint alleged various causes of action under California state law including, among other things, a conspiracy to restrict output and fix prices, a conspiracy to monopolize, intentional interference with prospective economic advantage, and unfair competition. Rambus sought a judgment for damages of approximately $3.9 billion, joint and several liability, trebling of damages awarded, punitive damages, a permanent injunction enjoining the defendants from the conduct alleged in the complaint, interest, and attorneys' fees and costs. Trial began on June 20, 2011, and the case went to the jury on September 21, 2011. On November 16, 2011, the jury found for us on all claims. On April 2, 2012, Rambus filed a notice of appeal to the California 1st District Court of Appeal. 
+
+We are unable to predict the outcome of this matter. An adverse court determination of any lawsuit alleging violations of antitrust laws could result in significant liability and could have a material adverse effect on our business, results of operations or financial condition. 
+
+An adverse determination that our products or manufacturing processes infringe the intellectual property rights of others could materially adversely affect our business, results of operations or financial condition. 
+
+On January 13, 2006, Rambus filed a lawsuit against us in the U.S. District Court for the Northern District of California. Rambus alleges that certain of our DDR2, DDR3, RLDRAM, and RLDRAM II products infringe as many as fourteen Rambus patents and seeks monetary damages, treble damages, and injunctive relief. The accused products account for a significant portion of our net sales. On June 2, 2006, we filed an answer and counterclaim against Rambus alleging, among other things, antitrust and fraud claims. On January 9, 2009, in another lawsuit involving us and Rambus and involving allegations by Rambus of patent infringement against us in the U.S. District Court for the District of Delaware, Judge Robinson entered an opinion in favor of us holding that Rambus had engaged in spoliation and that the twelve Rambus patents in the suit were unenforceable against us. Rambus subsequently appealed the Delaware Court's decision to the U.S. Court of Appeals for the Federal Circuit. On May 13, 2011, the Federal Circuit affirmed Judge Robinson's finding of spoliation, but vacated the dismissal sanction and remanded the case to the Delaware District Court for analysis of the remedy based on the Federal Circuit's decision. On January 2, 2013, Judge Robinson entered a new opinion in our favor holding that Rambus had engaged in spoliation, that Rambus' spoliation was done in bad faith, that the spoliation prejudiced us, and that the appropriate sanction was to declare the twelve Rambus patents in the suit unenforceable against us. On March 27, 2013, Rambus filed a notice of appeal to the U.S. Court of Appeals for the Federal Circuit. The Northern District of California Court stayed the trial of the patent phase of the Northern District of California case upon appeal of the spoliation issue to the Federal Circuit. In addition, others have asserted, and may assert in the future, that our products or manufacturing processes infringe their intellectual property rights. (See "Item 1. Legal Proceedings" for additional details on these lawsuits.) 
+
+We are unable to predict the outcome of assertions of infringement made against us. A court determination that our products or manufacturing processes infringe the intellectual property rights of others could result in significant liability and/or require us to make material changes to our products and/or manufacturing processes. Any of the foregoing results could have a material adverse effect on our business, results of operations or financial condition. 
+
+We have a number of patent and intellectual property license agreements. Some of these license agreements require us to make one time or periodic payments. We may need to obtain additional patent licenses or renew existing license agreements in the future. We are unable to predict whether these license agreements can be obtained or renewed on acceptable terms. 
+
+&#32;61 
+
+Products that fail to meet specifications, are defective or that are otherwise incompatible with end uses could impose significant costs on us. 
+
+Products that do not meet specifications or that contain, or are perceived by our customers to contain, defects or that are otherwise incompatible with end uses could impose significant costs on us or otherwise materially adversely affect our business, results of operations or financial condition. From time to time we experience problems with nonconforming, defective or incompatible products after we have shipped such products. In recent periods we have further diversified and expanded our product offerings which could potentially increase the chance that one or more of our products could fail to meet specifications in a particular application. As a result of these problems we could be adversely affected in several ways, including the following: 
+
+&#160; 
+
+&#8226; 
+
+we may be required to compensate customers for costs incurred or damages caused by defective or incompatible product or replace products; 
+
+&#8226; 
+
+we could incur a decrease in revenue or adjustment to pricing commensurate with the reimbursement of such costs or alleged damages; and 
+
+&#8226; 
+
+we may encounter adverse publicity, which could cause a decrease in sales of our products. 
+
+New product development may be unsuccessful. 
+
+We are developing new products that complement our traditional memory products or leverage their underlying design or process technology. We have made significant investments in product and process technologies and anticipate expending significant resources for new semiconductor product development over the next several years. The process to develop DRAM, NAND Flash, NOR Flash and certain specialty memory products requires us to demonstrate advanced functionality and performance, many times well in advance of a planned ramp of production, in order to secure design wins with our customers. There can be no assurance that our product development efforts will be successful, that we will be able to cost-effectively manufacture new products, that we will be able to successfully market these products or that margins generated from sales of these products will allow us to recover costs of development efforts. 
+
+If our manufacturing process is disrupted, our business, results of operations or financial condition could be materially adversely affected. 
+
+We manufacture products using highly complex processes that require technologically advanced equipment and continuous modification to improve yields and performance. Difficulties in the manufacturing process or the effects from a shift in product mix can reduce yields or disrupt production and may increase our per gigabit manufacturing costs. Additionally, our control over operations at our IMFT, Inotera and MP Mask joint ventures is limited by our agreements with our partners. From time to time, we have experienced disruptions in our manufacturing process as a result of power outages, improperly functioning equipment and equipment failures. If production at a fabrication facility is disrupted for any reason, manufacturing yields may be adversely affected or we may be unable to meet our customers' requirements and they may purchase products from other suppliers. This could result in a significant increase in manufacturing costs or loss of revenues or damage to customer relationships, which could materially adversely affect our business, results of operations or financial condition. 
+
+Consolidation of industry participants and governmental assistance to some of our competitors may contribute to uncertainty in the semiconductor memory industry and negatively impact our ability to compete. 
+
+In recent years, supply of memory products has significantly exceeded customer demand resulting in significant declines in average selling prices of DRAM, NAND Flash and NOR Flash products and substantial operating losses by us and our competitors. The operating losses as well as limited access to sources of financing have led to the deterioration in the financial condition of a number of industry participants. Some of our competitors may try to enhance their capacity and lower their cost structure through consolidation. In addition, some governments have provided, and may be considering providing, significant financial assistance to some of our competitors. Consolidation of industry competitors could put us at a competitive disadvantage. 
+
+&#32;62 
+
+The limited availability of raw materials, supplies or capital equipment could materially adversely affect our business, results of operations or financial condition. 
+
+Our operations require raw materials that meet exacting standards. We generally have multiple sources of supply for our raw materials. However, only a limited number of suppliers are capable of delivering certain raw materials that meet our standards. In some cases, materials are provided by a single supplier. Various factors could reduce the availability of raw materials such as silicon wafers, photomasks, chemicals, gases, photoresist, lead frames and molding compound. Shortages may occur from time to time in the future. In addition, disruptions in transportation lines could delay our receipt of raw materials. Lead times for the supply of raw materials have been extended in the past. If our supply of raw materials is disrupted or our lead times extended, our business, results of operations or financial condition could be materially adversely affected. 
+
+Our operations are dependent on our ability to procure advanced semiconductor equipment that enables the transition to lower cost manufacturing processes. For certain key types of equipment, including photolithography tools, we are sometimes dependent on a single supplier. In recent periods we have experienced difficulties in obtaining some equipment on a timely basis due to the supplier's limited capacity. Our inability to timely obtain this equipment could adversely affect our ability to transition to next generation manufacturing processes and reduce costs. Delays in obtaining equipment could also impede our ability to ramp production at new facilities and increase our overall costs of the ramp. If we are unable to timely obtain advanced semiconductor equipment, our business, results of operations or financial condition could be materially adversely affected. 
+
+Our results of operations could be affected by natural disasters and other events in the locations in which we or our customers or suppliers operate. 
+
+We have manufacturing and other operations in locations subject to natural occurrences such as severe weather and geological events including earthquakes or tsunamis that could disrupt operations. In addition, our suppliers and customers also have operations in such locations. A natural disaster that results in a prolonged disruption to our operations, or the operations of our customers or suppliers, may adversely affect our business, results of operations or financial condition. 
+
+Our net operating loss and tax credit carryforwards may be limited. 
+
+We have a valuation allowance against substantially all U.S. net deferred tax assets. As of August 30, 2012, our federal, state and foreign net operating loss carryforwards were $3.5 billion , $2.2 billion &#32;and $737 million , respectively. If not utilized, substantially all of our federal and state net operating loss carryforwards will expire in 2023 to 2032 and the foreign net operating loss carryforwards will begin to expire in 2017. As of August 30, 2012, our federal and state tax credit carryforwards were $208 million &#32;and $203 million &#32;respectively. If not utilized, substantially all of our federal and state tax credit carryforwards will expire in 2013 to 2032. As a consequence of prior business acquisitions, utilization of the tax benefits for some of the tax carryforwards is subject to limitations imposed by Section 382 of the Internal Revenue Code and some portion or all of these carryforwards may not be available to offset any future taxable income. The determination of these tax limitations is complex and requires a significant amount of judgment by us with respect to analysis of past transactions. 
+
+We face risks associated with our international sales and operations that could materially adversely affect our business, results of operations or financial condition. 
+
+Sales to customers outside the United States approximated 86% of our consolidated net sales for the first nine months of 2013. In addition, a substantial portion of our manufacturing operations are located outside the United States. In particular, a significant portion of our manufacturing operations are concentrated in Singapore. Our international sales and operations are subject to a variety of risks, including: 
+
+&#8226; 
+
+export and import duties, changes to import and export regulations, and restrictions on the transfer of funds; 
+
+&#8226; 
+
+compliance with U.S. and international laws involving international operations, including the Foreign Corrupt Practices Act, export control laws and similar rules and regulations; 
+
+&#8226; 
+
+political and economic instability; 
+
+&#8226; 
+
+problems with the transportation or delivery of our products; 
+
+&#8226; 
+
+issues arising from cultural or language differences and labor unrest; 
+
+&#8226; 
+
+longer payment cycles and greater difficulty in collecting accounts receivable; 
+
+&#8226; 
+
+compliance with trade, technical standards and other laws in a variety of jurisdictions; 
+
+&#8226; 
+
+contractual and regulatory limitations on our ability to maintain flexibility with our staffing levels; 
+
+&#32;63 
+
+&#8226; 
+
+disruptions to our manufacturing operations as a result of actions imposed by foreign governments; 
+
+&#8226; 
+
+changes in economic policies of foreign governments; and 
+
+&#8226; 
+
+difficulties in staffing and managing international operations. 
+
+These factors may materially adversely affect our business, results of operations or financial condition. 
+
+Breaches of our network security could expose us to losses. 
+
+We manage and store on our network systems, various proprietary information and sensitive or confidential data relating to our operations. We also process, store, and transmit large amounts of data for our customers, including sensitive personal information. Computer programmers and hackers may be able to gain unauthorized access to our network system and steal proprietary information, compromise confidential information, create system disruptions, or cause shutdowns. These parties may also be able to develop and deploy viruses, worms, and other malicious software programs that disrupt our operations and create security vulnerabilities. Attacks on our network systems could result in significant losses and damage our reputation with customers. 
+
+We are subject to counterparty default risks. 
+
+We have numerous arrangements with financial institutions that subject us to counterparty default risks, including cash deposits, investments, foreign currency option and forward contracts, and capped-call contracts on our stock. As a result, we are subject to the risk that the counterparty to one or more of these arrangements will default on its performance obligations. A counterparty may default rapidly and without notice to us, which could limit our ability to take action to mitigate our exposure. Additionally, our ability to mitigate our exposures may be constrained by the terms of our contractual arrangements or because market conditions prevent us from taking effective action. If one of our counterparties becomes insolvent or files for bankruptcy, our ability to recover any losses suffered as a result of that counterparty's default may be limited by the liquidity of the counterparty or the applicable laws governing the bankruptcy proceeding. In the event of such default, we could incur significant losses, which could adversely impact our business, results of operations or financial condition. 
+

@@ -1,0 +1,1158 @@
+ ITEM 2. &#160; MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; 
+
+The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended October 2, 2015, July 3, 2015, and October 3, 2014, referred to herein as the &#147;September 2015 quarter&#148;, the &#147;June 2015 quarter&#148;, and the &#147;September 2014 quarter&#148;, respectively. Unless the context indicates otherwise, as used herein, the terms &#147;we,&#148; &#147;us,&#148; &#147;Seagate,&#148; the &#147;Company&#148; and &#147;our&#148; refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries. References to &#147;$&#148; are to United States dollars. 
+
+&#160; 
+
+You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The September 2015 and June 2015 quarters were both 13 weeks and the September 2014 quarter was 14 weeks. 
+
+&#160; 
+
+Some of the statements and assumptions included in this Quarterly Report on Form 10-Q are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, in particular, statements about our plans, strategies and prospects, and estimates of industry growth for the fiscal quarter ending January 1, 2016 and the fiscal year ending July 1, 2016 and beyond. These statements identify prospective information and may include words such as &#147;expects,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;anticipates,&#148; &#147;believes,&#148; &#147;estimates,&#148; &#147;predicts,&#148; &#147;projects&#148; and similar expressions. These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on management&#146;s current views and assumptions. These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition. Such risks and uncertainties include, but are not limited to: uncertainty in global economic conditions; the impact of variable demand and the adverse pricing environment for disk drives, particularly in view of current business and economic conditions; our ability to successfully qualify, manufacture and sell our disk drive products in increasing volumes on a cost-effective basis and with acceptable quality, particularly the new disk drive products with lower cost structures; the impact of competitive product announcements; currency fluctuations that may impact our margins and international sales; possible excess industry supply with respect to particular disk drive products and disruptions to our supply chain or production capabilities; unexpected advances in competing technologies; the development and introduction of products based on new technologies and expansion into new data storage markets; and our ability to achieve projected cost savings in connection with restructuring plans. We also encourage you to read our Annual Report on Form 10-K for the fiscal year ended July 3, 2015, which contains information concerning risks, uncertainties and other factors that could cause results to differ materially from those projected in the forward-looking statements herein. These forward-looking statements should not be relied upon as representing our views as of any subsequent date and we undertake no obligation to update forward-looking statements to reflect events or circumstances after the date they were made. 
+
+&#160; 
+
+Our Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations (&#147;MD&#38;A&#148;) is provided in addition to the accompanying condensed consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition, and cash flows. Our MD&#38;A is organized as follows: 
+
+&#160; 
+
+&#183; &#160; Our Company. Overview of our business.
+
+&#183; &#160; Overview of the September 2015 quarter. Highlights of events in the September 2015 quarter that impacted our financial position.
+
+&#183; &#160; Results of Operations. An analysis of our financial results comparing the September 2015 quarter to the June 2015 quarter and the September 2014 quarter
+
+&#183; &#160; Liquidity and Capital Resources. An analysis of changes in our balance sheets and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.
+
+&#183; &#160; Critical Accounting Policies. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+
+&#160; 
+
+Our Company 
+
+&#160; 
+
+We are a leading provider of electronic data storage technology and solutions. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of electronic data storage products including solid state hybrid drives (&#147;SSHD&#148;), solid state drives (&#147;SSD&#148;), PCIe cards and SATA controllers. Our storage technology portfolio also includes storage subsystems, high performance computing (HPC) solutions, and data storage services. 
+
+&#160; 
+
+Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND-based flash memory. In addition to HDDs and SSDs, Solid-state hybrid drives (SSHDs) 
+
+&#160; 
+
+&#160; 
+
+combine the features of SSDs and HDDs in the same unit, containing a large hard disk drive and an SSD cache to improve performance of frequently accessed data. 
+
+&#160; 
+
+Our products are designed for enterprise servers and storage systems in mission critical and nearline applications; client compute applications, where our products are designed primarily for desktop and mobile computing; and client non-compute applications, where our products are designed for a wide variety of end user devices such as digital video recorders (&#147;DVRs&#148;), personal data backup systems, portable external storage systems, digital media systems and surveillance systems. 
+
+&#160; 
+
+Our product and solution portfolio for the enterprise data storage industry includes storage enclosures, integrated application platforms and high performance computing (&#147;HPC&#148;) data storage solutions. Our storage subsystems support a range of high-speed interconnect technologies to meet demanding cost and performance specifications. Our modular subsystem architecture allows us to support many segments within the networked storage market by enabling different specifications of storage subsystem designs to be created from a standard set of interlocking technology modules. 
+
+&#160; 
+
+Our data storage services provide online backup, data protection and recovery solutions for small to medium-sized businesses. 
+
+&#160; 
+
+Overview of the September 2015 Quarter 
+
+&#160; 
+
+During the September 2015 quarter, we shipped 47 million drive units totaling 56 exabytes of storage capacity, generating revenue of $2.9 billion and gross margin of 24%. Our operating cash flow was $824 million. We paid $983 million for repurchases of ordinary shares and $163 million for dividends to shareholders. 
+
+&#160; 
+
+Results of Operations 
+
+&#160; 
+
+We list in the tables below summarized information from our Condensed Consolidated Statements of Operations by dollars and as a percentage of revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+$ 
+
+2,925 
+
+&#160; 
+
+$ 
+
+2,927 
+
+&#160; 
+
+$ 
+
+3,785 
+
+&#160; 
+
+Cost of revenue 
+
+&#160; 
+
+2,236 
+
+&#160; 
+
+2,151 
+
+&#160; 
+
+2,734 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,051 
+
+&#160; 
+
+Product development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangibles 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other income (expense), net 
+
+&#160; 
+
+(55 
+
+) 
+
+(57 
+
+) 
+
+(64 
+
+) 
+
+Income before income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(Benefit from) provision for income taxes 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#160; 
+
+Net income 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+Cost of revenue 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangibles 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other income (expense), net 
+
+&#160; 
+
+(2 
+
+) 
+
+(2 
+
+) 
+
+(2 
+
+) 
+
+Income before income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(Benefit from) provision for income taxes 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+Net income 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+The following table summarizes information regarding average drive selling prices (&#147;ASPs&#148;), drive volume unit shipments, exabytes shipped, and revenues by channel and geography: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+(In millions, except percentages, exabytes and ASPs) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+Unit Shipments: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Enterprise 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Client Compute 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Client Non-Compute 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total Units Shipped 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+ASPs (per unit) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+Exabytes Shipped 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues by Channel (%) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+OEMs 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+Distributors 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+Retailers 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+Revenues by Geography (%) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Americas 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+EMEA 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+Asia Pacific 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+&#160; 
+
+Revenue in the September 2015 quarter remained flat from the June 2015 quarter as a result of an increase in unit shipments offset by price erosion. Compared to the September 2014 quarter, revenue decreased by $860 million as a result of a decrease in unit shipments and price erosion. 
+
+&#160; 
+
+We maintain various sales programs such as point-of-sale rebates, sales price adjustments and price protection, aimed at increasing customer demand. Sales programs were approximately 13.0%, 12.4%, and 9.2% of gross drive revenue for the September 2015 quarter, June 2015 quarter and September 2014 quarter, respectively. Adjustments to revenues due to under or over accruals for sales programs related to revenues reported in prior quarterly periods were 0.1% of quarterly gross revenue in the September 2015 quarter. 
+
+&#160; 
+
+&#160; 
+
+Cost of Revenue and Gross Margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+Cost of revenue 
+
+&#160; 
+
+$ 
+
+2,236 
+
+&#160; 
+
+$ 
+
+2,151 
+
+&#160; 
+
+$ 
+
+2,734 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,051 
+
+&#160; 
+
+Gross margin percentage 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+&#160; 
+
+Gross margin as a percentage of revenue for the September 2015 quarter decreased by approximately 300 basis points to 24% compared to the June 2015 quarter due to price erosion and an unfavorable product mix. Compared to the September 2014 quarter, gross margin decreased by approximately 400 basis points to 24%, as a result of price erosion, partially offset by cost savings due to increased operational efficiencies. 
+
+&#160; 
+
+In the September 2015 quarter, total warranty cost was 0.6% of revenue and included favorable changes in estimates of prior warranty accruals of approximately 0.5% of revenue. Warranty cost related to new unit shipments was 1.1% of revenue for each of the September 2015, June 2015 and September 2014 quarters, respectively. 
+
+&#160; 
+
+Operating Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+Product development 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+Marketing and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangibles 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating expenses 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+Product development expense. Product development expense for the September 2015 quarter remained relatively flat from the June 2015 quarter. Compared to the September 2014 quarter, product development expense decreased by $14 million as a result of a decrease in variable compensation, an increase in operational efficiencies in our business, and additional expenses experienced in the 14-week September 2014 quarter.
+
+&#160; 
+
+Marketing and administrative expense. Marketing and administrative expense for the September 2015 quarter decreased by $21 million compared to the June 2015 quarter, due to an $8 million decrease in salaries and other employee benefits from the restructuring of our work force in the September 2015 quarter, and increased operational efficiencies in our business. Compared to the September 2014 quarter, marketing and administrative expense decreased by $34 million mainly due to decreases in variable compensation and stock based compensation, a decrease in salaries and other employee benefits from the restructuring of our work force in the September 2015 quarter, increased operational efficiencies in our business, and additional expenses experienced in the 14-week September 2014 quarter.
+
+&#160; 
+
+Amortization of intangibles. Amortization of intangibles for the September 2015 quarter remained flat from the June 2015 quarter. Compared to the September 2014 quarter, amortization of intangibles increased by $3 million as a result of the acquisition of LSI&#146;s Flash Business offset by additional expenses experienced in the 14-week September 2014 quarter.
+
+&#160; 
+
+Restructuring and other, net. Restructuring and other, net for the September 2015 quarter increased by $50 million and $53 million, as compared to the June 2015 quarter and September 2014 quarter, respectively, due to a restructuring charge recorded during the September 2015 quarter to reduce work force by approximately 1,000 employees as a result of our ongoing focus on cost efficiencies in all areas of our business.
+
+&#160; 
+
+Other income (expense), net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+Other income (expense), net 
+
+&#160; 
+
+$ 
+
+(55 
+
+) 
+
+$ 
+
+(56 
+
+) 
+
+$ 
+
+(64 
+
+) 
+
+&#160; 
+
+Other income (expense), net remained flat from the June 2015 quarter due to a $16 million loss from the early redemption and repurchase of debt, offset by a $5 million gain related to a disposition of a strategic investment in the June 2015 quarter, compared to 
+
+&#160; 
+
+&#160; 
+
+a $10 million loss related to the impairment of a strategic investment in the September 2015 quarter. Compared to the September 2014 quarter, other income (expense), net decreased by $9 million due to a $14 million loss from the early redemption and repurchase of debt in the September 2014 quarter, compared to a $10 million loss related to the impairment of a strategic investment and lower interest expense in the September 2015 quarter. 
+
+&#160; 
+
+Income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+October 3, 2014 
+
+&#160; 
+
+(Benefit from) provision for income taxes 
+
+&#160; 
+
+$ 
+
+(3 
+
+) 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+Our income tax benefit recorded for the September 2015 quarter included approximately $4 million of net discrete tax benefits primarily associated with the release of tax reserves associated with the expiration of certain statutes of limitation. 
+
+&#160; 
+
+Our income tax benefit recorded for the September 2015 quarter differed from the benefit from income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain U.S. deferred tax assets. 
+
+&#160; 
+
+During the three months ended October 2, 2015, our unrecognized tax benefits excluding interest and penalties decreased by approximately $4 million to $79 million. The unrecognized tax benefits that, if recognized, would impact the effective tax rate were $79 million at October 2, 2015, subject to certain future valuation allowance reversals. During the 12 months beginning October 3, 2015, we expect that our unrecognized tax benefits could be reduced by approximately $35 million primarily as a result of the expiration of certain statutes of limitation. 
+
+&#160; 
+
+Our income tax provision recorded for the September 2014 quarter included approximately $2 million net discrete tax benefits primarily associated with the release of tax reserves associated with the expiration of certain statutes of limitation. 
+
+&#160; 
+
+Our income tax provision recorded for the September 2014 quarter differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain U.S. deferred tax assets. The acquisition of LSI&#146;s Flash Business did not have a material impact on our effective tax rate in fiscal year 2015. 
+
+&#160; 
+
+Liquidity and Capital Resources 
+
+&#160; 
+
+The following sections discuss our principal liquidity requirements, as well as our sources and uses of cash and our liquidity and capital resources. Our cash and cash equivalents are maintained in investments with remaining maturities of 90 days or less at the time of purchase. Our short-term investments consist primarily of money market funds, certificates of deposits, and other interest-bearing bank deposits. The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We believe our cash equivalents and short-term investments are liquid and accessible. We operate in some countries that have restrictive regulations over the movement of cash and/or foreign exchange across their borders. However, these restrictions have not impeded our ability to conduct our business, nor do we expect them to in the next 12 months. We are not aware of any downgrades, losses or other significant deterioration in the fair value of our cash equivalents or short-term investments and we do not believe the fair value of our short-term investments has significantly changed from the values reported as of October 2, 2015. 
+
+&#160; 
+
+Cash and Cash Equivalents and Short-term Investments 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+October 2, 2015 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Cash and cash equivalents 
+
+&#160; 
+
+$ 
+
+1,915 
+
+&#160; 
+
+$ 
+
+2,479 
+
+&#160; 
+
+$ 
+
+(564 
+
+) 
+
+Short-term investments 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+$ 
+
+1,921 
+
+&#160; 
+
+$ 
+
+2,485 
+
+&#160; 
+
+$ 
+
+(564 
+
+) 
+
+&#160; 
+
+&#160; 
+
+Our cash and cash equivalents and short-term investments decreased from July 3, 2015 as a result of net cash outflows for the repurchase of our ordinary shares, early redemption and repayments of long-term debt, dividends paid to our shareholders, and capital expenditures. These cash outflows were partially offset by our net cash provided by operating activities. 
+
+&#160; 
+
+Cash Provided by Operating Activities 
+
+&#160; 
+
+Cash provided by operating activities for the three months ended October 2, 2015 of $824 million includes the effects of net income adjusted for non-cash items including depreciation, amortization, share-based compensation, and: 
+
+&#160; 
+
+&#183; &#160; a decrease of $213 million in accounts receivable, primarily due to a favorable change in channel mix and improved linearity; and
+
+&#183; &#160; an increase of $426 million in accounts payable, primarily due to the timing of payments on material purchases and improved payment terms with certain of our vendors.
+
+&#160; 
+
+Cash Used in Investing Activities 
+
+&#160; 
+
+Cash used for investing activities for the three months ended October 2, 2015 was $209 million which was used for acquired property, equipment and leasehold improvements. 
+
+&#160; 
+
+Cash Used in Financing Activities 
+
+&#160; 
+
+Cash used in financing activities of $1,178 million for the three months ended October 2, 2015 was primarily attributable to the following activities: 
+
+&#160; 
+
+&#183; &#160; $983 million paid to repurchase ordinary shares; and
+
+&#183; &#160; $163 million in dividend payments.
+
+&#160; 
+
+Liquidity Sources, Cash Requirements and Commitments 
+
+&#160; 
+
+Our primary sources of liquidity as of October 2, 2015 consisted of: (1) approximately $1.9 billion in cash, cash equivalents, and short-term investments, (2) cash we expect to generate from operations and (3) a $700 million senior revolving credit facility. 
+
+&#160; 
+
+As of October 2, 2015, no borrowings have been drawn under the revolving credit facility or had been utilized for letters of credit issued under this credit facility. The line of credit is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing. 
+
+&#160; 
+
+The credit agreement that governs our revolving credit facility, as amended, contains certain covenants that we must satisfy in order to remain in compliance with the credit agreement, as amended. The agreement also includes three financial covenants: (1) minimum cash, cash equivalents and marketable securities; (2) a fixed charge coverage ratio; and (3) a net leverage ratio. As of October 2, 2015, we were in compliance with all of the covenants under our Revolving Credit Facility and debt agreements. Based on our current outlook, we expect to be in compliance with the covenants of our debt agreements over the next 12 months. 
+
+&#160; 
+
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control . 
+
+&#160; 
+
+For fiscal year 2016, we expect capital expenditures to be at or below our long-term targeted range of 6% to 8% of revenue. 
+
+&#160; 
+
+From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or may repurchase outstanding notes pursuant to the terms of the applicable indenture. 
+
+&#160; 
+
+The Company&#146;s Board of Directors approved a quarterly cash dividend of $0.63 per share on October 21, 2015, which is payable on November 20, 2015 to shareholders of record at the close of business on November 6, 2015. 
+
+&#160; 
+
+From time to time we may repurchase any of our outstanding ordinary shares through private, open market, or broker assisted purchases. As of October 2, 2015, $1.9 billion remained available for repurchase under our existing repurchase authorization limit. All repurchases are effected as redemptions in accordance with the Company&#146;s Articles of Association. 
+
+&#160; 
+
+&#160; 
+
+Critical Accounting Policies 
+
+&#160; 
+
+Our discussion and analysis of financial condition and results of operations are based upon our Condensed Consolidated Financial Statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements. Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances. However, actual future results may vary from our estimates. 
+
+&#160; 
+
+Since our fiscal year ended July 3, 2015, there have been no material changes in our critical accounting policies and estimates. Refer to &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; contained in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended July 3, 2015, as filed with the SEC on August 11, 2015, for a discussion of our critical accounting policies and estimates. 
+
+&#160; 
+
+Recent Accounting Pronouncements 
+
+&#160; 
+
+See Part I, Item 1. Financial Statements&#151;Note 1. Basis of Presentation and Summary of Significant Accounting Policies for information regarding the effect of new accounting pronouncements on our financial statements. 
+
+&#160; 
+
+
+
+ ITEM 1A. &#160; RISK FACTORS 
+
+&#160; 
+
+There have been no material changes to the description of the risk factors associated with our business previously disclosed in Part I, Item 1A, &#147;Risk Factors&#148; in our Annual Report on Form 10-K for the year ended July 3, 2015. In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in our Annual Report on Form 10-K as they could materially affect our business, financial condition and future results. 
+
+&#160; 
+
+The Risk Factors are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition or operating results. 
+
+&#160; 
+

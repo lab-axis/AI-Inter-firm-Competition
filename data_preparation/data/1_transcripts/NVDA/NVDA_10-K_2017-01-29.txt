@@ -1,0 +1,2308 @@
+ ITEM 1. BUSINESS 
+
+Our Company 
+
+Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our emphasis in recent years to the revolutionary field of artificial intelligence, or AI. 
+
+The GPU was initially used to simulate human imagination, enabling the virtual worlds of video games and films. Today, it also simulates human intelligence, enabling a deeper understanding of the physical world. Its parallel processing capabilities, supported by up to thousands of computing cores, are essential to running deep learning algorithms. This form of AI, in which software writes itself, enables computers to learn from data and serve as the brain of computers, robots and self-driving cars that can perceive and understand the world. GPU-powered deep learning is being rapidly adopted by thousands of enterprises to deliver services and features that would have been impossible with traditional coding. 
+
+NVIDIA delivers value to its customers through PC, mobile and cloud architectures. Vertical integration enables us to bring together hardware, system software, programmable algorithms, libraries, systems and services to create unique value for the markets we serve. &#32;Offerings like the NVIDIA DGX AI supercomputer, the NVIDIA DRIVE AI car computing platform and the GeForce NOW cloud gaming service bring together combinations of the company&#8217;s hardware, software and services to meet the exacting demands of specific audiences. 
+
+Innovation is at our core. We have invested over $13 billion in research and development since our inception, yielding inventions that are essential to modern computing. The GPU introduced the world to the power of programmable graphics. Our CUDA programming language harnessed the GPU&#8217;s parallel processing capabilities to accelerate scientific and AI computing. Virtualized GPUs put the power of parallel processing into the cloud, accessible from any connected device, anywhere. Other breakthroughs in our evolving GPU architectures and related technologies enable GPUs to be more powerful and efficient, and to fuel more powerful AI workloads with deep learning capabilities. 
+
+Gamers choose NVIDIA GPUs to enjoy immersive, increasingly cinematic fantasy worlds. GPUs also help underpin the world&#8217;s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming. And more than 100 million people participate in MOBA - multiplayer online battle area - games. 
+
+Professional designers use our GPUs to create visual effects in movies and design products ranging from soft drink bottles to commercial aircraft. 
+
+Researchers use our GPUs to accelerate a wide range of important applications, from simulating viruses to exploring the origins of the universe. The world&#8217;s leading cloud services companies, and a rapidly growing number of enterprises and startups, use GPUs to facilitate deep learning that meets, and in some cases surpasses, human perception. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for mobile gaming and entertainment devices, as well as autonomous robots, drones and cars. &#32; 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. &#32; 
+
+Our Businesses 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying architecture. From our proprietary processors, we have created platforms that address four large markets where our expertise is critical: Gaming, Professional Visualization, Datacenter, and Automotive. 
+
+##TABLE_START Businesses 
+
+&#160; 
+
+&#160; 
+
+NVIDIA Visual Computing and Accelerated Computing Platforms and Brands 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GPU 
+
+&#160; 
+
+&#8729; 
+
+GeForce for PC gaming 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+GeForce NOW for cloud-based game-streaming service 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+Quadro for design professionals working in computer-aided design, video editing, special effects and other creative applications 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+Tesla for AI utilizing deep learning and accelerated computing, leveraging the parallel computing capabilities of GPUs for general purpose computing 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+GRID to provide the power of NVIDIA graphics through the cloud and datacenters 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Tegra Processor 
+
+&#160; 
+
+&#8729; 
+
+Tegra processors are primarily designed to enable branded platforms - DRIVE PX and SHIELD 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+DRIVE PX automotive supercomputers that provide self-driving capabilities 
+
+&#160; 
+
+&#160; 
+
+&#8729; 
+
+SHIELD includes a family of devices and services designed to harness the power of mobile-cloud to revolutionize home entertainment, AI and gaming 
+
+##TABLE_END
+
+Our Markets 
+
+We specialize in markets in which GPU-based visual computing and accelerated computing platforms can provide tremendous throughput for applications. These platforms incorporate processors, systems software, programmable algorithms, systems and services to deliver value that is unique in the marketplace. 
+
+Gaming 
+
+Computer gaming is the largest entertainment industry. Helping to propel its growth are the new high production value games and franchises, the rise of competitive online gaming, eSports, and the rise of virtual reality. 
+
+Our GPUs enhance the gaming experience by improving the visual quality of graphics, increasing the frame rate for smoother gameplay and improving realism by incorporating the behavior of light and physical objects. These can be enjoyed independently or together to extend the gaming experience across platforms. 
+
+Our gaming platforms utilize sophisticated 3D software and algorithms - including our GameWorks libraries that provide special effects for games. These enable us to deliver realism and immersion, even when playing games remotely from the cloud. We further enhance gaming with GeForce Experience, our gaming application that optimizes the PC user&#8217;s settings for each title and enables players to record and share gameplay. It has been downloaded by more than 80 million users. 
+
+To enable virtual reality, we provide developers with a suite of software libraries called VRWorks. VRWorks allows developers to create fully immersive experiences by enabling physically realistic visuals, sound, touch interactions and simulated environments. VR requires advanced high-performance GPUs as the engine to simulate complete immersion. 
+
+Our products for the gaming market include GeForce GTX GPUs for PC gaming; the SHIELD family of tablets, portable devices for mobile gaming and TV streaming; GeForce NOW for cloud-based gaming; as well as platforms and development services for specialized console gaming devices. 
+
+Professional Visualization 
+
+We serve the Professional Visualization market by working closely with independent software vendors to optimize their offerings for NVIDIA GPUs. Our GPU computing solutions enhance productivity and introduce new capabilities for critical parts of the workflow for such major industries as automotive, media and entertainment, architectural engineering, oil and gas, and medical imaging. 
+
+For designers who build the products we use every day, it is critical that images viewed digitally mirror reality. This requires simulating the physical behavior of light and materials, or physically-based rendering, an emerging trend in professional design. Our Iray and DesignWorks software delivers this to designers. They enable an architect designing a building with a computer-aided design package to interact with the model in real time, view it in greater detail, and generate photorealistic renderings for the client. They also allow an automotive designer to create a highly realistic 3D image of a car, which can be viewed from all angles, reducing reliance on costly, time-consuming full-scale clay models. 
+
+Just as virtual reality is becoming more important in gaming, it is also being incorporated in a growing number of enterprise applications, within medicine, architecture, product design and retailing. Virtual car showrooms, surgical training, architectural walkthroughs, and bringing historical scenes to life all deploy this technology, powered by our GPUs. 
+
+Visual computing is vital to productivity in many environments, including: 
+
+##TABLE_START &#8226; 
+
+Design and Manufacturing &#160;- including computer-aided design, architectural design, consumer-products manufacturing, medical instrumentation and aerospace 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+Digital Content Creation &#160;- including professional video editing and post production, special effects for films and broadcast-television graphics 
+
+##TABLE_END 
+
+Our brand for this market is Quadro for workstations. Quadro GPUs enhance the productivity of designers by improving performance and adding functionality, such as photorealistic rendering, high color fidelity and advanced scalable display capabilities. 
+
+Datacenter 
+
+The NVIDIA accelerated computing platform addresses AI, in which systems learn using unstructured data, and high performance computing, in which it speeds work toward reaching answers for more narrowly defined problems. The platform consists of our energy efficient GPUs, our CUDA programming language, specific libraries such as cuDNN, and innovations such as NVLink, which enables application scalability across multiple GPUs. 
+
+Deep learning is a new AI computer model where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans. It also greatly increases the performance and power efficiency of high-performance computers and datacenter systems. GPUs excel at parallel workloads, speeding applications by 10-75x compared with CPUs, reducing each of the many data training iterations from weeks to days. In the past year alone, GPUs have sped up training of deep neural networks for AI by as much as 12x. 
+
+We are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to surveying coral on the sea bottom, to identifying the physical world for the blind. These organizations include the world&#8217;s leading cloud services companies such as Facebook, Amazon and Baidu, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in disruptive ways across multiple industries. We have partnered with industry leaders such as Microsoft, IBM and SAP to bring AI to enterprise users. We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI. 
+
+To enable deep learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks. They are available in industry standard servers from companies such as HP, Dell and Cisco; from cloud services such as Amazon Web Services, Alicloud, Azure and Google Cloud; as well as in our DGX AI supercomputer, a purpose-built system for deep learning and AI accelerated analytics. DGX delivers performance equal to hundreds of conventional servers, comes fully integrated with hardware, deep learning software, development tools, support for existing AI frameworks, and runs popular accelerated analytics applications. 
+
+GPUs also increase the speed of applications used in such fields as aerospace, bio-science research, mechanical and fluid simulations, and energy exploration. They have already had a significant impact on scientific discovery, including improving heart surgery, HIV research and mapping human genome folds. Our GPUs and cuDNN software have been broadly adopted for deep learning, a new computing method for enabling artificial intelligence. 
+
+Accelerated computing is recognized as the path forward for high performance computing amid the slowing of Moore&#8217;s Law. The proportion of supercomputers utilizing accelerators has grown sharply over the past five years, now accounting for a significant proportion of both the total systems on the TOP500 list, which ranks the 500 most powerful commercially available computer systems, and the list&#8217;s total floating-point operations per second. Tesla GPU accelerators power many of the world&#8217;s fastest supercomputers. They will also drive the U.S. Energy Department&#8217;s next generation of supercomputers at Oak Ridge and Lawrence Livermore National Laboratories. 
+
+We also serve the datacenter market with GRID for virtualized graphics. GRID makes it possible to run graphics-intensive applications remotely on a server in the datacenter. Applications include accelerating virtual desktop infrastructures and delivering graphics-intensive applications from the cloud for industries ranging from manufacturing, healthcare and educational institutions, among others. 
+
+Automotive 
+
+NVIDIA has demonstrated multiple applications of AI within the car. AI can drive the car itself as a pilot, in either partial or fully autonomous mode. Also, AI can be a co-pilot, assisting the human driver in creating a safer driving experience. NVIDIA is working with automotive partners to enable AI pilot and co-pilot within the car. 
+
+NVIDIA is working with numerous automakers, tier-one suppliers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-driving vehicles. Our unified AI computing architecture starts with mapping and training deep neural networks using our Tesla GPUs, and then running them within the vehicle on the NVIDIA DRIVE PX AI car computing platform. This end-to-end approach leverages NVIDIA DriveWorks software and allows cars to receive over-the-air updates to add new features and capabilities throughout the life of a vehicle. 
+
+DRIVE PX can understand in real-time what's happening around the vehicle, precisely locate itself on an HD map, and plan a safe path forward. This advanced self-driving car platform combines deep learning, sensor fusion and surround vision to change the driving experience. Our DRIVE PX platform scales from a palm-sized, energy efficient module for AutoCruise automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars. A new single-processor configuration of DRIVE PX enables vehicles to use deep neural networks to process data from multiple cameras and sensors. 
+
+We also see the opportunity for Tegra in other areas, such as robots that respond to voice and gesture commands; drones that process enormous amounts of visual-based data; and smart Android monitors. Our platform for embedded use, Jetson TX1, provides the performance and power efficiency needed for deep learning in a powerful, highly efficient environment. 
+
+Business Strategies 
+
+NVIDIA&#8217;s key strategies that shape our overall business approach include: 
+
+Extending our technology leadership in AI . Deep learning is fundamental to the evolution of AI. We provide a complete, end-to-end GPU computing platform for deep learning, addressing both training and inferencing. This includes GPUs, our CUDA programming language, algorithms, libraries and system software. GPUs are uniquely suited to AI, and we will continue to add AI-specific features to our GPU architecture to further extend our leadership position. Our goal is to make our GPU platforms available on every server, on every cloud service, as well as on our own AI supercomputer. We evangelize AI through partnerships with hundreds of universities and more than a thousand startups through our Inception program. Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to design, train, and deploy neural network-powered machine learning in applications. It covers widely used open-source frameworks and NVIDIA&#8217;s latest GPU-accelerated deep learning platforms. 
+
+Revolutionizing computing with the GPU&#8217;s parallel processing capability. &#32; The massive parallel processing capabilities of NVIDIA GPUs can solve complex computational problems in significantly less time and with lower power consumption than CPUs. We work with developers worldwide who write programs using the CUDA high-level programming language. Using GPUs, developers are able to accelerate applications in areas ranging from molecular dynamics to image processing, derivatives modeling for financial risk analysis and big-data analytics. 
+
+Extending our technology leadership in visual computing. &#32;We believe that visual computing is fundamental to the continued expansion and evolution of computing. We apply our research and development resources to extending our leadership in visual computing, enabling us to enhance the user experience for consumer entertainment and professional visualization applications. Our technologies are instrumental in driving forward gaming, as developers push toward increasingly cinematic production values and the possibilities opened up by virtual reality. 
+
+Extending our visual computing leadership into mobile and cloud-computing platforms. We believe that visual computing will remain a key component in the computing paradigm defined by mobile, cloud and software as a service. We enable interactive graphics applications - such as games, movie and photo editing and design software - to be accessed by almost any device, almost anywhere. We believe that the user experience in virtual desktop infrastructures should be indistinguishable from physical environments, regardless of how graphics intensive the application. Accordingly, we leverage our research and development resources to create platforms to enable visual computing in a mobile and cloud environment. 
+
+Licensing our intellectual property. &#32;We believe our intellectual property is a valuable asset that can be accessed by our customers and partners through licenses and development agreements when they desire to build such capabilities directly into their own products, or have us do so through a custom development. Such license and development arrangements can further enhance the reach of our technology. 
+
+Enabling GPU computing platforms in key focus areas. We believe that we are well positioned to use our expertise in GPU computing to make contributions in four key markets where our visual and accelerated computing expertise is valued: gaming, professional visualization, datacenter and automotive. 
+
+Sales and Marketing 
+
+Our sales strategy involves working with end customers and various industry ecosystems through our partner network. Our worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient GPU, and embedded system-on-a-chip, or SOC, platforms. Our sales and marketing teams, located across our global markets, work closely with end customers in each industry. Our partner network incorporates each industry's respective original equipment manufacturers, or OEMs, original device manufacturers, or ODMs, system builders, add-in board manufacturers, or AIBs, retailers/distributors, and industry trendsetters. 
+
+Our end customers and partner network are leveraged to integrate product features, performance, price and timing of new products for our platforms. Members of our sales team have a high level of technical expertise and product and industry knowledge to support the competitive and complex design win process. We also employ a highly skilled team of application engineers to assist our partner network in designing, testing and qualifying system designs that incorporate our platforms. We believe that the depth and quality of our design support are keys to improving our partner network&#8217;s time-to-market, maintaining a high level of customer satisfaction and fostering relationships that encourage our end customers and partner network to use the next generation of our products within each platform. 
+
+As a result of our partner network strategy, a small number of customers within that network represent the majority of our sold to revenue. Sales to ASUSTeK Computer Inc. accounted for 12% &#32;of our total revenue for fiscal year 2017 . 
+
+To encourage software title developers and publishers to develop games optimized for platforms utilizing our products, and enterprise applications optimized for our GPUs, we seek to establish and maintain strong relationships in the software development community. Engineering and marketing personnel interact with and visit key software developers to promote and discuss our platforms, as well as to ascertain individual product requirements and solve technical problems. Our developer program makes certain that our products are available to developers prior to volume availability in order to encourage the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for our platforms. 
+
+As NVIDIA&#8217;s business has evolved from a focus primarily on gaming products to broader markets, and from chips to platforms and complete systems, so, too, have our avenues to market. Thus, in addition to sales to customers in our partner network, certain of our platforms are also sold through e-tail channels and through some of the world&#8217;s largest retailers. 
+
+Backlog &#32; 
+
+Our sales are primarily made pursuant to standard purchase orders. The quantity of products purchased by our customers as well as our shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. Our industry is characterized by relatively short lead time orders and delivery schedules, thus, we believe that only a small portion of our backlog is non-cancelable and that the dollar amount associated with the non-cancelable portion is not significant. 
+
+Seasonality 
+
+Our GPU and Tegra processor platforms serve many markets from consumer PC gaming to enterprise workstations to government and service provider cloud datacenters; however, a majority of our revenue stems from the consumer industry. Our consumer products have typically seen stronger revenue in the second half of our fiscal year. However, there can be no assurance that this trend will continue. 
+
+Manufacturing &#32; 
+
+We do not directly manufacture semiconductor wafers used for our products. Instead, we utilize what is known as a fabless manufacturing strategy, whereby we employ world-class suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. This strategy uses the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability and testing. In addition, this strategy allows us to avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as substrates and a variety of components, our suppliers are responsible for procurement of the majority of the raw materials used in the production of our products. As a result, we can focus our resources on product design, additional quality assurance, marketing, and customer support. 
+
+We utilize industry-leading suppliers, such as Taiwan Semiconductor Manufacturing Company Limited and Samsung Electronics Co. Ltd, to produce our semiconductor wafers. We then utilize independent subcontractors, such as Advanced Semiconductor Engineering, Inc., BYD Auto Co. Ltd., Hon Hai Precision Industry Co., Ltd., JSI Logistics Ltd., King Yuan Electronics Co., Ltd. and Siliconware Precision Industries Company Ltd. to perform assembly, testing, and packaging of most of our products and platforms. We purchase substrates from IbidenCo. Ltd., Nanya Technology Corporation, and Unimicron Technology Corporation, and memory from Samsung Semiconductor, Inc. and SK Hynix. 
+
+We typically receive semiconductor products from our subcontractors, perform incoming quality assurance and then ship the semiconductors to contract equipment manufacturers, or CEMs, distributors, motherboard and AIB customers from our third-party warehouse in Hong Kong. Generally, these manufacturers assemble and test the boards based on our design kit and test specifications, and then ship our products to retailers, system builders or OEMs as motherboard and AIB solutions. 
+
+We also utilize industry-leading contract manufacturers, or CMs, such as BYD Auto Co. Ltd. and Quanta Computer, to manufacture some of our products for sale directly to end customers. In those cases, key elements such as the GPU, SOC and memory are often consigned by us to the CMs, who are responsible for the procurement of other components used in the production process. 
+
+Working Capital 
+
+We focus considerable attention on managing our inventories and other working-capital-related items. We manage inventories by communicating with our customers and partners and then using our industry experience to forecast demand on a platform-by-platform basis. We then place manufacturing orders for our products that are based on forecasted demand. The quantity of products actually purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. We generally maintain substantial inventories of our products because the semiconductor industry is characterized by short lead time orders and quick delivery schedules. A substantial amount of our inventories are maintained as semi-finished products that can be leveraged across a wide range of our processors to balance our customer demands. 
+
+Our existing cash and marketable securities balances increased by 35% &#32;to $6.80 billion &#32;at the end of fiscal year 2017 &#32;compared with the end of fiscal year 2016 . We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating requirements for at least the next twelve months. 
+
+Research and Development 
+
+&#160; 
+
+We believe that the continued introduction of new and enhanced products designed to deliver leading visual computing technology is essential to our future success. Our research and development strategy is to focus on concurrently developing multiple generations of GPUs and Tegra Processors, including GPUs for high-performance computing, and Tegra SOCs for SHIELD and other embedded products using independent design teams. Our research and development efforts include software engineering, hardware engineering, very large scale integration design engineering, process engineering, architecture and algorithms. 
+
+A critical component of our product development effort is our partnerships with industry leaders. We invest significant resources in the development of relationships with industry leaders, often assisting these companies in the product definition of their new products. We believe that forming these relationships and utilizing next-generation development tools to design, simulate and verify our products will help us remain at the forefront of visual computing and develop products that utilize leading-edge technology on a rapid basis. We believe in leveraging our significant research and development depth and scale to create differentiated products. 
+
+As of January 29, 2017 , we had 7,282 &#32;full-time employees engaged in research and development. During fiscal years 2017 , 2016 &#32;and 2015 , we incurred research and development expenses of $1.46 billion , $1.33 billion , and $ 1.36 billion , respectively. 
+
+Competition 
+
+&#160; 
+
+The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, conformity to industry standard Application Programming Interfaces, manufacturing capabilities, processor pricing and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers and partners will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be less costly than ours, or may provide better performance or additional features not provided by our products. In addition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share. 
+
+A significant source of competition comes from companies that provide or intend to provide GPUs, embedded SOCs, and accelerated and AI computing processor products. Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes. 
+
+&#160; 
+
+Our current competitors include: 
+
+##TABLE_START &#8226; 
+
+suppliers of or licensors of discrete and integrated GPUs and accelerated computing processing solutions, including chipsets that incorporate 3D graphics functionality as part of their existing solutions, such as Advanced Micro Devices, or AMD, ARM Holdings plc, Imagination Technologies Group plc, Intel Corporation, or Intel, and Xilinx, Inc.; and 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+suppliers of SOC products that are embedded into automobiles and smart devices such as televisions, monitors, set-top boxes, and gaming devices, such as Ambarella, Inc., AMD, Apple, Inc., Broadcom Ltd., Intel, Mobileye N.V., Qualcomm Incorporated, Renesas Electronics Corporation, Samsung, and Texas Instruments Incorporated. 
+
+##TABLE_END 
+
+Patents and Proprietary Rights 
+
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements and licensing arrangements to protect our intellectual property in the United States and internationally. Our currently issued patents have expiration dates from March 2017 to November 2035. We have numerous patents issued, allowed and pending in the United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations and foreign laws to protect our intellectual property. The laws of certain foreign countries in which our products are or may be manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as the laws of the United States. This decreased protection makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as: 
+
+&#8226; the location in which our products are manufactured; 
+
+&#8226; our strategic technology or product directions in different countries; 
+
+&#8226; the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions; and 
+
+&#8226; the commercial significance of our operations and our competitors' operations in particular countries and regions. 
+
+We have also licensed technology from third parties for incorporation in some of our products and for defensive reasons, and expect to continue to enter into such license agreements. 
+
+Employees 
+
+&#160; 
+
+As of January 29, 2017 , we had 10,299 &#32;employees, 7,282 &#32;of whom were engaged in research and development and 3,017 &#32;of whom were engaged in sales, marketing, operations and administrative positions. 
+
+Environmental Regulatory Compliance 
+
+To date, we have not incurred significant expenses related to environmental regulatory compliance matters. 
+
+Financial Information by Reporting Segment and Geographic Data 
+
+The information included in Note 16 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K, including financial information by reportable segment and revenue and long-lived assets by geographic region, is hereby incorporated by reference. For additional detail regarding the risks attendant to our foreign operations see &#8220;Item 1A. Risk Factors - Risks Related to Our Business, Industry and Partners - We are subject to risks and uncertainties associated with international operations which may harm our business. &#8221; 
+
+Executive Officers of the Registrant 
+
+The following sets forth certain information regarding our executive officers, their ages and positions as of February 24, 2017 : 
+
+##TABLE_START Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Jen-Hsun Huang 
+
+&#160; 
+
+&#160; 
+
+President, Chief Executive Officer and Director 
+
+Colette M. Kress 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Financial Officer 
+
+Ajay K. Puri 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Worldwide Field Operations 
+
+Debora Shoquist 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Operations 
+
+Timothy S. Teter 
+
+&#160; 
+
+&#160; 
+
+Senior Vice President, General Counsel and Secretary 
+
+##TABLE_END
+
+&#160; 
+
+Jen-Hsun Huang &#32;co-founded NVIDIA in 1993 and has served as its President, Chief Executive Officer and a member of the Board of Directors since its inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer, where he held a variety of positions including as Director of Coreware, the business unit responsible for LSI's &#8220;system-on-chip&#8221;. From 1983 to 1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford University. 
+
+Colette M. Kress joined NVIDIA in 2013 as Executive Vice President and Chief Financial Officer. Prior to NVIDIA, Ms. Kress most recently served as Senior Vice President and Chief Financial Officer of the Business Technology and Operations Finance organization at Cisco Systems, Inc., a networking equipment company, since 2010. At Cisco, Ms. Kress was responsible for financial strategy, planning, reporting and business development for all business segments, engineering and operations. From 1997 to 2010 Ms. Kress held a variety of positions at Microsoft Corporation, a software company, including, beginning in 2006, Chief Financial Officer of the Server and Tools division, where Ms. Kress was responsible for financial strategy, planning, reporting and business development for the division. Prior to joining Microsoft, Ms. Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions. Ms. Kress holds a B.S. degree in Finance from University of Arizona and an M.B.A. degree from Southern Methodist University. 
+
+Ajay K. Puri &#32;joined NVIDIA in 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, Worldwide Field Operations in 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over a 22-year career at Sun Microsystems, Inc., a computing systems company. Mr. Puri previously held marketing, management consulting, and product development positions at Hewlett-Packard Company, an information technology company, Booz Allen Hamilton Inc., a management and technology consulting company, and Texas Instruments Incorporated. Mr. Puri holds a B.S.E.E. degree from the University of Minnesota, an M.S.E.E. degree from the California Institute of Technology and an M.B.A. degree from Harvard Business School. 
+
+&#160; 
+
+Debora Shoquist &#32;joined NVIDIA in 2007 as Senior Vice President of Operations and in 2009 became Executive Vice President of Operations. Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015. Prior to NVIDIA, Ms. Shoquist served from 2004 to 2007 as Executive Vice President of Operations at JDS Uniphase Corp., a provider of communications test and measurement solutions and optical products for the telecommunications industry. She served from 2002 to 2004 as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Previously, she worked at Quantum Corp., a data protection company, as President of the Personal Computer Hard Disk Drive Division, and at Hewlett-Packard Corp. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University. 
+
+Timothy S. Teter &#32;joined NVIDIA in January 2017 as Senior Vice President, General Counsel and Secretary. Prior to NVIDIA, Mr. Teter spent more than two decades at the law firm of Cooley LLP. He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters. Prior to attending law school, he worked as an engineer at Lockheed Missiles and Space Company. Mr. Teter holds a B.S. degree in Mechanical Engineering from the University of California at Davis and a J.D. degree from Stanford Law School. 
+
+Available Information 
+
+&#160; 
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended, are available free of charge on or through our web site, http://www.nvidia.com , as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or the SEC. Our web site and the information on it or connected to it are not a part of this Annual Report on Form 10-K. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+In evaluating NVIDIA and our business, the following factors should be considered in addition to the other information in this Annual Report on Form 10-K. Before you buy our common stock, you should know that making such an investment involves risks including, but not limited to, the risks described below. Any one of the following risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks, trends and uncertainties not presently known to us or that we currently deem immaterial may also harm our business. 
+
+Risks Related to Our Business, Industry and Partners 
+
+If we fail to meet the evolving needs of our markets, identify new products, services or technologies, or successfully compete in our target markets, our revenue and financial results will be adversely impacted. 
+
+NVIDIA-branded solutions and services are visual computing and accelerated computing platforms that address four large markets: Gaming, Professional Visualization, Datacenter, and Automotive. Our success depends to a significant extent on our ability to meet the evolving needs of these markets and to enhance our existing products, services and technologies. In addition, our success depends on our ability to identify emerging industry trends and to develop new products, services and technologies. Our existing markets and products and new markets and products may require a considerable investment of technical, financial, compliance, sales and marketing resources. We are currently devoting significant resources to the development of technologies and business offerings in markets where our operating history is less extensive, such as the automotive market. 
+
+We cannot assure you that our strategic direction will result in innovative products and technologies that provide value to our customers and partners. If we fail to anticipate the changing needs of our target markets and emerging technology trends, or adapt that strategy as market conditions evolve, in a timely manner to exploit potential market opportunities our business will be harmed. In addition, if demand for products and services from these growth markets is below our expectations, if we fail to achieve consumer or market acceptance of them or if we are not able to develop these products and services in a cost effective or efficient manner, we may not realize benefits from our strategy. 
+
+Our target markets remain extremely competitive, and we expect competition to intensify as current competitors expand their product and/or service offerings, industry standards continue to evolve and new competitors enter these markets. If we are unable to successfully compete in our target markets, including in significant international markets such as China, demand for our products, services and technologies could decrease which would cause our revenue to decline and our financial results to suffer. Our competitors&#8217; products, services and technologies may be less costly, or may offer superior functionality or different features, than ours. In addition, many of our competitors operate and maintain their own fabrication facilities and have longer operating histories, greater name recognition, larger customer bases, and greater financial, sales, marketing and distribution resources than we do. These competitors may be able to more effectively identify and capitalize upon opportunities in new markets and end user customer trends, quickly transition their semiconductor products to increasingly smaller line width geometries and obtain sufficient foundry capacity and packaging materials, which could harm our business. If we are unable to successfully compete in our target markets or introduce new offerings in light of the competitive environment, our results of operations could suffer. 
+
+If our products fail to achieve expected manufacturing yields, our financial results could be adversely impacted. 
+
+Manufacturing yields for our products are a function of product design, which is developed largely by us, and process technology, which typically is proprietary to the foundry. Low yields may result from either product design or process technology failure. We do not know whether a yield problem will exist until our design is actually manufactured by the foundry. As a result, yield problems may not be identified until well into the manufacturing process and require us and the foundry to cooperate to resolve the problem. Because of our potentially limited access to wafer foundry capacity, any decrease in manufacturing yields could result in higher manufacturing costs and require us to allocate our available product supply among our customers and partners. Lower than expected yields could harm customer or partner relationships and our financial results. 
+
+System security and data protection breaches, as well as cyber-attacks, could disrupt our operations, reduce our expected revenue and increase our expenses, which could adversely affect our stock price and damage our reputation. 
+
+Security breaches, computer malware and cyber-attacks have become more prevalent and sophisticated in recent years. These attacks have occurred on our systems in the past and are expected to occur in the future. Experienced computer programmers, hackers and employees may be able to penetrate our security controls and misappropriate or compromise our confidential information, or that of our employees or third parties. These attacks may create system disruptions or cause shutdowns. These hackers may also develop and deploy viruses, worms and other malicious software programs that attack or otherwise exploit security vulnerabilities in our products, including consumer and automotive products, where we utilize over-the-air updates to improve functionality over time. For portions of our IT infrastructure, including business management and communication software products, we rely on products and services provided by third parties. These providers may also experience breaches and attacks to their products which may impact our systems. Data security breaches may also result from non-technical means, such as actions by an employee with access to our systems. 
+
+Actual or perceived breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us, our partners, our customers or third parties could expose the parties affected to a risk of loss, or misuse of this information, resulting in litigation and potential liability, damage to our brand and reputation or other harm to our business. Our efforts to prevent and overcome these challenges could increase our expenses and may not be successful. We may experience interruptions, delays, cessation of service and loss of existing or potential customers. Such disruptions could adversely impact our ability to fulfill orders and interrupt other critical functions. Delayed sales, lower margins or lost customers as a result of these disruptions could adversely affect our financial results, stock price and reputation. 
+
+If our products contain significant defects, we could incur significant expenses to remediate such defects, our reputation could be damaged and we could lose market share. 
+
+Our products are complex and may contain defects or experience failures or unsatisfactory performance due to any number of issues in design, fabrication, packaging, materials and/or use within a system. Our products are used by a variety of industries, including the automotive industry. Failure of our products to perform to specifications, or other product defects, could lead to substantial damage to the products we sell directly to customers, the end product in which our device has been integrated by OEMs, ODMs, AIBs and Tier 1 automotive suppliers, and to the user of such end product. Any such defect may cause us to incur significant warranty, support and repair or replacement costs, cause us to lose market share, and divert the attention of our engineering personnel from our product development efforts to find and correct the issue. In addition, an error or defect in new products or releases or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance or loss of design wins and harm our relationships with customers and partners and consumers&#8217; perceptions of our brand. Also, we may be required to reimburse our customers, partners or consumers, including costs to repair or replace products in the field. A product recall, particularly an automotive recall, or a significant number of product returns could be expensive, damage our reputation, result in the shifting of business to our competitors and result in litigation against us such as product liability suits. If a product liability claim is brought against us, the cost of defending the claim could be significant and would divert the efforts of our technical and management personnel, and harm our business. Further, our business liability insurance may be inadequate or future coverage may be unavailable on acceptable terms, which could adversely impact our financial results. 
+
+If we do not replace our Intel licensing revenues, our financial results may be adversely affected. 
+
+In January 2011, we entered into a patent cross licensing agreement under which Intel agreed to pay us an aggregate of $1.50 billion over six years. The final $200 million payment under this agreement was received in January 2016. We will be recognizing revenue under this agreement through the first quarter of fiscal year 2018. If we do not enter into new licensing agreements or if the Intel agreement is not offset by other growth in income our financial results may be adversely affected. 
+
+We depend on third parties and their technology to manufacture, assemble, test and/or package our products, which reduces our control over product quantity and quality, development, enhancement and product delivery schedule and could harm our business . 
+
+We do not manufacture the silicon wafers used for our GPUs and Tegra processors and do not own or operate a wafer fabrication facility. Instead, we are dependent on industry-leading foundries, such as Taiwan Semiconductor Manufacturing Company Limited and Samsung Electronics Co. Ltd., to manufacture our semiconductor wafers using their fabrication equipment and techniques. Similarly, we do not assemble, test or package our products, but instead rely on independent subcontractors, such as Advanced Semiconductor Engineering, Inc., BYD Auto Co., Ltd., Hon Hai Precision Industry Co., Ltd., JSI Logistics, Ltd., King Yuan Electronics Co. and Siliconware Precision Industries Co. Ltd. We do not have long-term commitment contracts with these foundries or subcontractors. As a result, we face several significant risks which could have an adverse effect on our ability to meet customer demand and/or negatively impact our business operations, gross margin, revenue and/or financial results, including: 
+
+##TABLE_START &#8226; 
+
+a lack of guaranteed supply of wafers and other components and potential higher wafer and component prices due to supply constraints; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+a failure by our foundries to procure raw materials or to provide or allocate adequate manufacturing or test capacity for our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+a failure to develop, obtain or successfully implement high quality, leading-edge process technologies, including transitions to smaller geometry process technologies such as 16nm FinFET, and memory designs such as CoWoS, needed to manufacture our products profitably or on a timely basis; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+a lack of direct control over delivery schedules or product quantity and quality; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors&#8217; orders over our orders or otherwise. 
+
+##TABLE_END 
+
+We also rely on third-party software development tools to assist us in the design, simulation and verification of new products or product enhancements, and to bring such new products and enhancements to market in a timely manner. In the past, we have experienced delays in the introduction of products and enhancements as a result of the inability of then available software development tools to fully simulate the complex features and functionalities of our products. The design requirements necessary to meet consumer demands for more features and greater functionality from our products may exceed the capabilities of available software development tools. If we miss design cycles or lose design wins due to the unavailability of such software development tools, we could lose market share and our revenues could decline. 
+
+If we fail to achieve design wins for our products, our business will be harmed. 
+
+For our products that we do not sell directly to consumers, achieving design wins is an important success factor. Our OEM, ODM, and AIB and motherboard manufacturers' customers typically introduce new system configurations as often as twice per year, typically based on spring and fall design cycles or in connection with trade shows. If OEMs, ODMs, and AIB and motherboard manufacturers do not include our products in their systems, they will typically not use our products in their systems until at least the next design configuration. In order to achieve design wins, we must: 
+
+&#8226; anticipate the features and functionality that customers and consumers will demand; 
+
+##TABLE_START &#8226; 
+
+incorporate those features and functionalities into products that meet the exacting design requirements of our customers; and 
+
+##TABLE_END &#8226; price our products competitively. 
+
+Unanticipated changes in industry standards could render our products incompatible with products developed by major hardware manufacturers and software developers. Further, if our products are not in compliance with prevailing industry standards, our customers may not incorporate our products into their design strategies. 
+
+Business disruptions could harm our business, lead to a decline in revenues and increase our costs. 
+
+Our worldwide operations could be disrupted by earthquakes, telecommunications failures, power or water shortages, outages at cloud service providers, tsunamis, floods, hurricanes, typhoons, fires, extreme weather conditions, medical epidemics or pandemics and other natural or man-made disasters, catastrophic events or climate change. The occurrence of any of these disruptions could harm our business and result in significant losses, a decline in revenue and an increase in our costs and expenses. Any of these business disruptions could require substantial expenditures and recovery time in order to fully resume operations. Our corporate headquarters, and a portion of our research and development activities, are located in California, and other critical business operations and some of our suppliers are located in Asia, near major earthquake faults known for seismic activity. In addition, a majority of our principal IT datacenters are located in California, making our operations vulnerable to natural disasters or other business disruptions occurring in this geographical area. The manufacture of product components, the final assembly of our products and other critical operations are concentrated in certain geographic locations, including Taiwan, China and Korea. Our operations could be harmed if manufacturing, logistics or other operations in these locations are disrupted for any reason, including natural disasters, high heat events or water shortages, information technology system failures, military actions or economic, business, labor, environmental, public health, regulatory or political issues. The ultimate impact on us, our third-party foundries and other suppliers and our general infrastructure of being located near major earthquake faults and being consolidated in certain geographical areas is unknown. In the event of a major earthquake or other disaster or catastrophic event, our revenue could decline and our business may be harmed. 
+
+We receive a significant amount of our revenue from a limited number of customers within our partner network and our revenue could be adversely affected if we lose any of these customers. 
+
+We receive a significant amount of our revenue from a limited number of customers within our partner network. With several of these partners, we are selling multiple target market platforms through their channels. As a result, revenue from significant customers, those representing 10% or more of total revenue, was 12%, 11%, and 11% of our total revenue from one customer in fiscal years 2017, 2016 , and 2015 , respectively. Our operating results in the foreseeable future will continue to depend on sales within our partner network, as well as the ability of these partners to sell products that incorporate our GPUs and Tegra processors. In the future, these partners may decide to purchase fewer products than they did in the past, not to incorporate our products into their ecosystem, or to alter their purchasing patterns in some other way, particularly because: 
+
+##TABLE_START &#8226; 
+
+most of our sales are made on a purchase order basis, which permits our customers to cancel, change or delay product purchase commitments with little or no notice to us and without penalty; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our partners may develop their own solutions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our customers may purchase products from our competitors; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our partners may discontinue sales or lose market share in the markets for which they purchase our products. 
+
+##TABLE_END 
+
+The loss of any of our large customers or a significant reduction in purchases by them would likely harm our financial condition and results of operations, and any difficulties in collecting accounts receivable could harm our operating results and financial condition. 
+
+We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of certain of our customers to make required payments and obtain credit insurance over the purchasing credit extended to these customers. In the future, we may have to record additional provisions or write-offs and/or defer revenue on certain sales transactions, which could negatively impact our financial results, and we may not be able to acquire credit insurance on the credit we extend to these customers or in amounts that we deem sufficient. 
+
+Our gross margin depends on a number of factors and changes in any of these factors could adversely affect our gross margin. 
+
+Our gross margin for any period depends on a number of factors, including the mix of our products sold, average selling prices, introduction of new products and services, process node transitions, product transitions, sales discounts, pricing actions by our competitors, the cost of product components and the yield of wafers produced by the foundries that manufacture our products. We are focused on improving our gross margin and if we are not able to control or estimate the impact of the above factors or other factors we do not foresee, our gross margins may be negatively impacted. 
+
+If we fail to estimate customer demand properly, our financial results could be harmed. 
+
+We manufacture our GPUs and Tegra processors based on estimates of customer demand. In order to have shorter shipment lead times and quicker delivery schedules for our customers, we may build inventories for anticipated periods of growth which do not occur, or may build inventory anticipating demand for a product that does not materialize. In estimating demand, we make multiple assumptions, any of which may prove to be incorrect. Situations that may result in excess or obsolete inventory include: 
+
+&#8226; changes in business and economic conditions, including downturns in our target markets and/or overall economy; 
+
+&#8226; changes in consumer confidence caused by changes in market conditions, including changes in the credit market; 
+
+&#8226; a sudden and significant decrease in demand for our products; 
+
+&#8226; a higher incidence of inventory obsolescence because of rapidly changing technology or customer requirements; 
+
+&#8226; our introduction of new products resulting in lower demand for older products; 
+
+&#8226; less demand than expected for newly-introduced products; or 
+
+&#8226; increased competition, including competitive pricing actions. 
+
+In addition, the cancellation or deferral of customer purchase orders could result in our holding excess inventory, which could adversely affect our gross margins. In addition, because we often sell a substantial portion of our products in the last month of each quarter, we may not be able to reduce our inventory purchase commitments in a timely manner in response to customer cancellations or deferrals. We could be required to write-down our inventory to the lower of cost or market or write-off excess inventory, and we could experience a reduction in average selling prices if we incorrectly forecast product demand, any of which could harm our financial results. 
+
+Conversely, if we underestimate our customers' demand for our products, our foundry partners may not have adequate lead-time or capacity to increase production and we may not be able to obtain sufficient inventory to fill customers' orders on a timely basis. Even if we are able to increase production levels to meet customer demand, we may not be able to do so in a cost-effective or timely manner. If we fail to fulfill our customers' orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market share and our reputation could be damaged. 
+
+We are subject to risks and uncertainties associated with international operations which may harm our business. 
+
+We conduct our business worldwide and we have offices in various countries outside of the United States. Our semiconductor wafers are manufactured, assembled, tested and packaged by third parties located outside of the United States and Other Americas. We also generate a significant portion of our revenue from sales to customers outside the United States and Other Americas. Revenue from sales to customers outside of the United States and Other Americas accounted for 80% , 79% &#32;and 75% &#32;of total revenue for fiscal years 2017 , 2016 &#32;and 2015 , respectively. The global nature of our business subjects us to a number of risks and uncertainties, including: 
+
+##TABLE_START &#8226; 
+
+international economic and political conditions, such as political tensions between countries in which we do business; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unexpected changes in, or impositions of, legislative or regulatory requirements; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+differing legal standards with respect to protection of intellectual property and employment practices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+local business and cultural factors that differ from our normal standards and practices, including business practices that we are prohibited from engaging in by the Foreign Corrupt Practices Act and other anticorruption laws and regulations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+exporting or importing issues related to export or import restrictions, tariffs, quotas and other trade barriers and restrictions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+financial risks such as longer payment cycles, difficulty in collecting accounts receivable and foreign exchange rate fluctuations; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased costs due to imposition of climate change regulations, such as carbon taxes, fuel or energy taxes, and pollution limits. 
+
+##TABLE_END 
+
+If sales to any of our customers outside of the United States and Other Americas are delayed or cancelled because of any of the above factors, our revenue may be negatively impacted. 
+
+We may not be able to realize the potential financial or strategic benefits of business acquisitions or strategic investments and we may not be able to successfully integrate acquisition targets, which could hurt our ability to grow our business, develop new products or sell our products. 
+
+We have in the past acquired and invested in, and may continue to acquire and invest in, other businesses that offer products, services and technologies that we believe will help expand or enhance our existing products and business. Any of the following risks associated with past or future acquisitions or investments could impair our ability to grow our business, develop new products or sell our products, and ultimately could have a negative impact on our growth or our financial results: 
+
+##TABLE_START &#8226; 
+
+difficulty in combining the technology, products, operations or workforce of the acquired business with our business; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+diversion of capital and other resources, including management's attention; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+assumption of liabilities; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+incurring amortization expenses, impairment charges to goodwill or write-downs of acquired assets; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+potential failure of our due diligence processes to identify significant issues with product quality, architecture and development, or legal and financial contingencies, among other things; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+impairment of relationships with, or loss of our or our target&#8217;s, employees, vendors and customers, as a result of our acquisition or investment. 
+
+##TABLE_END 
+
+Risks Related to Regulatory, Legal, Our Common Stock and Other Matters 
+
+Actions to adequately protect our intellectual property rights could result in substantial costs to us and our ability to compete could be harmed if we are unsuccessful in doing so or if we are prohibited from making or selling our products. 
+
+We have in the past, currently are, and may in the future become involved in lawsuits or other legal proceedings alleging patent infringement or other intellectual property rights violations by us, our employees or parties that we have agreed to indemnify for certain claims of infringement. An unfavorable ruling in any such intellectual property related litigation could include significant damages, invalidation of a patent or family of patents, indemnification of customers, payment of lost profits, or, when it has been sought, injunctive relief. 
+
+We may commence litigation or other legal proceedings in order to protect our intellectual property rights. Such proceedings may increase our operating expenses, which could negatively impact our operating results. Further, we could be subject to countersuits as a result of our initiation of litigation. If infringement claims are made against us or our products are found to infringe a third party&#8217;s patent or intellectual property, we or one of our indemnitees may have to seek a license to the third party&#8217;s patent or other intellectual property rights. However, we may not be able to obtain licenses at all or on terms acceptable to us particularly from our competitors. If we or one of our indemnitees is unable to obtain a license from a third party for technology that we use or that is used in one of our products, we could be subject to substantial liabilities or have to suspend or discontinue the manufacture and sale of one or more of our products. We may also have to make royalty or other payments, or cross license our technology. If these arrangements are not concluded on commercially reasonable terms, our business could be negatively impacted. Furthermore, the indemnification of a customer or other indemnitee may increase our operating expenses which could negatively impact our operating results. 
+
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, licensing arrangements, and the laws of the countries in which we operate to protect our intellectual property in the United States and internationally. The laws of certain foreign countries may not protect our products or intellectual property rights to the same extent as the laws of the United States. This makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for existing and new innovations and technologies, but cannot be certain whether our applications for such protections will be approved, and, if approved, whether we will be able to enforce such protections. 
+
+Our operating results have in the past fluctuated and may in the future fluctuate, and if our operating results are below the expectations of securities analysts or investors, our stock price could decline. 
+
+Our operating results have in the past fluctuated and may in the future continue to fluctuate due to numerous factors. For example, our operating expenses represent a significant portion of total revenue and are largely independent of revenue in any particular period. In particular, our research and development expenses reflect multi-year programs for the development of new products and enhancements that will not result in revenue, if any, until future periods. Therefore, investors should not rely on quarterly comparisons of our results of operations as an indication of our future performance. 
+
+Factors that could affect our results of operations in the future include: 
+
+##TABLE_START &#8226; 
+
+demand and market acceptance for our products and services and/or our customers&#8217; products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the successful development and volume production of our next-generation products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our inability to adjust spending to offset revenue shortfalls due to the multi-year development cycle for some of our products and services; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+new product and service announcements or product and service introductions by our competitors; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our introduction of new products in accordance with OEMs&#8217; design requirements and design cycles; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in the timing of product orders due to unexpected delays in the introduction of our customers&#8217; products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the level of growth or decline of the PC industry in general; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+seasonal fluctuations associated with the PC and consumer products market; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+contraction in automotive and consumer end-market demand due to adverse regional or worldwide economic conditions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+slower than expected growth of demand for new technologies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+fluctuations in the availability of manufacturing capacity or manufacturing yields; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our ability to reduce the manufacturing costs of our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+competitive pressures resulting in lower than expected average selling prices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+product rates of return in excess of that forecasted or expected due to quality issues; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+rescheduling or cancellation of customer orders; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the loss of a significant customer; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+substantial disruption in the operations of our foundries or other third-party subcontractors, as a result of a natural disaster, equipment failure, terrorism or other causes; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+supply constraints for and changes in the cost of the other components incorporated into our customers&#8217; products, including memory devices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+costs associated with the repair and replacement of defective products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unexpected inventory write-downs or write-offs; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+legal and other costs related to defending intellectual property and other types of lawsuits; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+availability of software and technology licenses at commercially reasonable terms for the continued sale or development of new products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+customer bad debt write-offs; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in our effective tax rate as a result of changes in the mix of earnings in countries with differing statutory tax rates, applicable tax laws or interpretations of tax laws; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+any unanticipated costs associated with environmental liabilities; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unexpected costs related to our ownership of real property; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+costs to comply with new government regulations and regulatory enforcement actions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+costs to maintain effective internal control over financial reporting; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in financial accounting standards or interpretations of existing standards; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+general macroeconomic events and factors affecting the overall semiconductor industry and our target markets. 
+
+##TABLE_END 
+
+Any one or more of the factors discussed above could prevent us from achieving our expected future financial results. Any such failure to meet our expectations or the expectations of our investors or security analysts could cause our stock price to decline or experience substantial price volatility and, as a result, investors may suffer losses. 
+
+In the past, securities class action litigation has often been brought against a company following periods of volatility in the market price of its securities. We have been in the past, and may be in the future, the target of securities litigation. Such lawsuits generally result in the diversion of management's time and attention away from business operations, which could harm our business. In addition, the costs of defense and any damages resulting from litigation, a ruling against us, or a settlement of the litigation could adversely affect our cash flow and financial results. 
+
+Privacy concerns relating to our products and services could damage our reputation and deter current and potential users from using our products and services. 
+
+Our products and services may provide us with access to sensitive, confidential or personal data or information that is subject to privacy and security laws and regulations. Concerns about our practices with regard to the collection, use, retention, security or disclosure of personal information or other privacy-related matters, even if unfounded, could damage our reputation and adversely affect our operating results. 
+
+Worldwide regulatory authorities are considering various legislative proposals concerning data protection. In addition, the interpretation and application of consumer and data protection laws in the United States, Europe and elsewhere are often uncertain and fluid, and may be interpreted and applied in a manner that is inconsistent with our data practices. If so, we may be ordered to change our data practices and/or be fined. Complying with these changing laws could cause us to incur substantial costs, which could have an adverse effect on our business and results of operations. 
+
+We are subject to risks associated with development and construction of our headquarters building under an operating lease financing arrangement. 
+
+In fiscal year 2016, we began to construct a new headquarters building in Santa Clara, California, which is currently targeted for completion in the fourth quarter of fiscal year 2018. We may encounter unanticipated occurrences or conditions during construction that may increase the expense of the project. We may also encounter unanticipated delays in the construction of the new building and final city approval for occupancy may be delayed. We are financing this construction under an operating lease arrangement described below. Delays and cost overruns during construction could result in a default under the operating lease financing arrangement which could result in liabilities and expenses and could harm our business, prospects, financial condition and results of operations. 
+
+Additionally, any such difficulties could result in our default under the operative agreements entered into with a syndicate of banks that are participants to the operating lease financing arrangement to finance development and construction of our headquarters. We have pledged our assets that relate to the new headquarters building in order to secure our obligations under the operating lease financing arrangement. We will need to maintain compliance with the requirements governing such agreements, including compliance with financial and other covenants, certain of which may be subject to events outside of our control. If we fail to comply with the covenants, we may be unable to obtain or utilize all or a portion of the financing contemplated by the operating lease financing arrangement. Further, noncompliance with such covenants or other event of default could lead to a termination of our lease of the property, and the lenders could have the right to, among other things, foreclose on the collateral for our obligations under the operating lease financing arrangement. A loss of financing for the new headquarters building or foreclosure on the collateral could adversely affect our liquidity and business. 
+
+Our indebtedness could adversely affect our financial position and prevent us from implementing our strategy or fulfilling our contractual obligations. 
+
+In September 2016, we issued $1.00 billion of 2.20% notes due September 16, 2021, or the Notes Due 2021, and $1.00 billion of 3.20% notes due September 16, 2026, or the Notes Due 2026 (collectively, the Notes). In December 2013, we issued $1.50 billion of 1.00% convertible senior notes due December 1, 2018, or the Convertible Notes, of which $827 million in principal amount remained outstanding as of January 29, 2017. We have received additional conversion requests of $660 million &#32;in principal amount, $502 million &#32;of which have already settled, $103 million of which are expected to settle during the first quarter of fiscal year 2018, and $55 million of which are expected to settle during the second quarter of fiscal year 2018. 
+
+Our indebtedness may limit our ability to use our cash flow or borrow additional funds for working capital, capital expenditures, acquisitions and general corporate and other purposes. Additionally, our obligation to make payments related to the Notes or the Convertible Notes could impact our cash balance and limit our ability to use our cash for our capital return program and our other liquidity needs, including working capital, capital expenditures, acquisitions, investments and other general corporate purposes. 
+
+The warrants associated with our Convertible Notes, or the Warrants, dilute our net income per share and the settlement or eventual exercise of the Warrants would dilute the ownership interest of our existing shareholders. 
+
+When the average trading price of our common stock for a fiscal quarter exceeds the adjusted strike price of the Warrants, the number of diluted weighted average shares used in our net income per share calculation increases, which dilutes our net income per share. 
+
+Any issuance by us of shares upon exercise or any other settlement of the Warrants may dilute the ownership interest of our existing shareholders. In December 2016, we entered into an agreement with a counterparty bank to terminate 63 million of the 75 million Warrants outstanding. In consideration for the termination of these Warrants, we delivered a total of 48 million shares of common stock to the counterparty bank, the amount of which was determined each day based on the daily volume-weighted average price of our common stock during an observation period beginning December 13, 2016 and ending January 31, 2017. As of January 29, 2017, 44 million of the 48 million shares of our common stock had been issued related to the terminated Warrants. The remaining 4 million shares were issued in the beginning of fiscal year 2018. 
+
+An aggregate of 12 million Warrants remained outstanding, or the Remaining Warrants, as of January 29, 2017. The Remaining Warrants will be deemed to be automatically exercised on certain dates between March 2019 and June 2019, unless the Warrant holder notifies us otherwise. 
+
+Delaware law and provisions in our certificate of incorporation, our bylaws and our agreement with Microsoft Corporation could delay or prevent a change in control. 
+
+Our status as a Delaware corporation and the anti-takeover provisions of the Delaware General Corporation Law may discourage, delay, or prevent a change in control by prohibiting us from engaging in a business combination with an interested shareholder for a period of three years after the person becomes an interested shareholder, even if a change of control would be beneficial to our existing shareholders. In addition, our certificate of incorporation and bylaws contain provisions that could make it more difficult for a third party to acquire a majority of our outstanding voting stock. These provisions include the following: 
+
+&#8226; the ability of our Board of Directors to create and issue preferred stock without prior shareholder approval; 
+
+&#8226; the prohibition of shareholder action by written consent; 
+
+&#8226; advance notice requirements for director nominations and shareholder proposals; 
+
+&#8226; the ability of our Board of Directors to increase or decrease the number of directors without shareholder approval; 
+
+&#8226; a super-majority voting requirement to amend some provisions in our certificate of incorporation and bylaws; 
+
+&#8226; the inability of our shareholders to call special meetings of shareholders; and 
+
+&#8226; the ability of our Board of Directors to make, amend or repeal our bylaws. 
+
+On March 5, 2000, we entered into an agreement with Microsoft in which we agreed to develop and sell graphics chips and to license certain technology to Microsoft and its licensees for use in the Xbox. Under the agreement, if an individual or corporation makes an offer to purchase shares equal to or greater than 30% of the outstanding shares of our common stock, Microsoft may have first and last rights of refusal to purchase the stock. The Microsoft provision and the other factors listed above could also delay or prevent a change in control of NVIDIA. These provisions could also discourage proxy contests and make it more difficult for shareholders to elect directors of their choosing and to cause us to take other corporate actions they desire. 
+
+
+
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS &#160; 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 1A. Risk Factors&#8221;, &#8220;Item 6. Selected Financial Data&#8221;, our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. &#160; 
+
+Overview 
+
+Our Company and Our Businesses 
+
+Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our emphasis in recent years to the revolutionary field of AI. NVIDIA delivers value to its customers through PC, mobile and cloud architectures. Vertical integration enables us to bring together hardware, system software, programmable algorithms, libraries, systems and services to create unique value for the markets we serve. We specialize in markets in which GPU-based visual computing and accelerated computing platforms can provide tremendous throughput for applications. &#32; 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying graphics architecture. From our proprietary processors, we have created specialized platforms that target the four large markets where our expertise is critical: Gaming, Professional Visualization, Datacenter, and Automotive. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for mobile gaming and entertainment devices, as well as autonomous robots, drones and cars. &#32;&#32; 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. &#32; 
+
+Recent Developments, Future Objectives and Challenges 
+
+Fiscal Year 2017 &#32;Summary 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+($ in millions, except per share data) 
+
+Revenue 
+
+$ 
+
+6,910 
+
+&#160; 
+
+$ 
+
+5,010 
+
+&#160; 
+
+% 
+
+Gross margin 
+
+58.8 
+
+% 
+
+&#160; 
+
+56.1 
+
+% 
+
+&#160; 
+
+270 bps 
+
+Operating expenses 
+
+$ 
+
+2,129 
+
+&#160; 
+
+$ 
+
+2,064 
+
+&#160; 
+
+% 
+
+Income from operations 
+
+$ 
+
+1,934 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Net income 
+
+$ 
+
+1,666 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Net income per diluted share 
+
+$ 
+
+2.57 
+
+&#160; 
+
+$ 
+
+1.08 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+Revenue for fiscal year 2017 &#32;grew 38% to $6.91 billion, reflecting growth in each of our market platforms -- Gaming, Professional Visualization, Datacenter, and Automotive. GPU business revenue was $5.82 billion, up 39% from a year earlier, led by growth in our GeForce GPU gaming and datacenter platforms. GeForce GPU gaming growth was fueled by strong adoption of our latest Pascal architecture. Datacenter growth reflected strong demand for deep learning training, cloud and virtualized computing, and sales of our new DGX-1 supercomputer. Tegra business revenue was $824 million, up 47% from a year ago, led by growth in automotive, primarily from infotainment modules, and gaming development platforms and services. 
+
+Gross margin for fiscal year 2017 &#32;was 58.8%, compared with 56.1% a year earlier, reflecting the growth of GeForce gaming GPUs, the growth of our GPU computing platforms for cloud, deep learning, AI, and graphics virtualization, and decreased sales volumes of lower margin products. 
+
+Operating expenses for fiscal year 2017 &#32;were $2.13 billion, up from $2.06 billion in the previous year. This reflects growth in headcount and related costs, partially offset by lower litigation and restructuring expenses. 
+
+Net income and net income per diluted share for fiscal year 2017 &#32;were $1.67 billion and $2.57, respectively, up 171% and 138%, respectively, from a year earlier. These increases were fueled by strong revenue growth, improved gross and operating margins, and a lower effective income tax rate as a result of a decrease in the amount of earnings subject to United States tax and the recognition of excess tax benefits from our adoption of a new accounting standard related to the simplification of certain aspects of stock-based compensation accounting. 
+
+We returned $1.00 billion to shareholders in fiscal year 2017 &#32;through share repurchases and quarterly cash dividends, and we intend to return approximately $1.25 billion to shareholders in fiscal year 2018. 
+
+Cash, cash equivalents and marketable securities were $6.80 billion as of January 29, 2017 , up from $5.04 billion as of January 31, 2016 . 
+
+GPU Business 
+
+During fiscal year 2017 , we released many new gaming GPU products based on our new NVIDIA Pascal architecture, including GeForce GTX Titan X, GeForce GTX 1080, 1070, 1060, 1050 and 1050Ti. We also expanded the NVIDIA VRWorks software development kit, released our first game, NVIDIA VR Funhouse, and introduced NVIDIA Ansel, an in-game photography tool. 
+
+For datacenter, we introduced the Tesla P100, P40 and P4 GPU accelerators, based on the Pascal architecture, unveiled our Inception Program, which provides access to NVIDIA technology and expertise to support the growth of startups in deep learning and data science, introduced the Tesla M10 for virtualizing enterprise applications, launched the NVIDIA TensorRT deep learning inferencing framework, and began shipping the DGX-1 AI supercomputer to research organizations, universities, and multinationals. We also collaborated with Microsoft to accelerate AI with a GPU-accelerated Microsoft Cognitive Toolkit available on the Microsoft Azure cloud and NVIDIA DGX-1, partnered with the National Cancer Institute and the U.S. Department of Energy to build CANDLE, an AI framework that will advance cancer research, and unveiled the NVIDIA DGX SATURNV AI supercomputer, powered by 124 Pascal-powered DGX-1 server nodes. 
+
+For professional visualization, we enabled a new class of supercomputing workstations using Quadro GP100, introduced Quadro P5000 to power VR-ready mobile workstations, the 24GB Quadro M6000, the Quadro M2000, and unveiled the Quadro P6000 to power advanced workstations. We also refreshed NVIDIA DesignWorks and NVIDIA VRWorks with new updates and software development kits, introduced NVIDIA Iray physically-based rendering solutions, and unveiled Iray VR, which creates interactive, photorealistic virtual 3D worlds. 
+
+Tegra Processor Business 
+
+During fiscal year 2017 , for the automotive market, we introduced the HD Mapping platform for self-driving cars, announced that our NVIDIA DRIVE PX 2 platform will power vehicles in the new ROBORACE autonomous car-racing circuit, initiated collaborative research in advanced self-driving technology with New York University&#8217;s pioneering deep learning team, and announced that NVIDIA DRIVE PX 2 will power a new AutoPilot system in all of Tesla Motors&#8217; factory produced vehicles - the Model S, Model X and upcoming Model 3. We also announced a number of new partnerships aimed at getting AI-powered cars, trucks and commercial vehicles on the road, including partnerships with Audi, Bosch, Mercedes-Benz, and ZF. We also partnered with Europe&#8217;s HERE to develop a real-time, high-definition mapping solution for autonomous vehicles, and with Japan&#8217;s ZENRIN to develop a cloud-to-car high-definition map solution for self-driving cars. 
+
+We also expanded the NVIDIA SHIELD platform&#8217;s gaming content available for streaming from GeForce NOW, announced that NVIDIA gaming technology will power the Nintendo Switch home gaming system, and launched our new SHIELD TV, which integrates Google Assistant for TV, SmartThings Hub technology and the NVIDIA SPOT AI mic. 
+
+Critical Accounting Policies and Estimates 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. On an on-going basis, we evaluate our estimates, including those related to revenue recognition, inventories, income taxes, goodwill, cash equivalents and marketable securities, stock-based compensation, and litigation, investigation and settlement costs and other contingencies. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
+
+We believe the following critical accounting policies affect our significant judgments and estimates used in the preparation of our consolidated financial statements. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Annual Report on Form 10-K. 
+
+Revenue Recognition 
+
+Product Revenue 
+
+We recognize revenue from product sales when persuasive evidence of an arrangement exists, the product has been delivered, the price is fixed or determinable and collection of the related receivable is reasonably assured. 
+
+For sales to certain distributors with rights of return for which the level of returns cannot be reasonably estimated, our policy is to defer recognition of revenue and related cost of revenue until the distributors resell the product and, in some cases, when customer return rights lapse. 
+
+Our customer programs primarily involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets. We account for rebates as a reduction of revenue and accrue for 100% of the potential rebates and do not apply a breakage factor. While we have a long history of rebate arrangements with OEMs, we believe we are unable to apply our historical experience to reliably estimate the amount of rebates that will eventually be claimed by individual OEMs. In such cases, the OEMs may not be our direct customers and therefore the quantity and mix of demand they place on their CEMs/ODMs may shift as we introduce new generations and iterations of products and as we experience changes in new competitor offerings. In addition, we typically find that approximately 95% of the rebates we accrue each year are eventually claimed, which is substantially close to 100%, and that this percentage varies by program and by customer. We recognize a liability for these rebates at the later of the date at which we record the related revenue or the date at which we offer the rebate. Rebates typically expire six months from the date of the original sale, unless we reasonably believe that the customer intends to claim the rebate. Unclaimed rebates are reversed to revenue, the amount of which typically represents less than 0.5% of total revenue. 
+
+Our customer programs also include marketing development funds, or MDFs. MDFs represent monies paid to retailers, system builders, OEMs, distributors, add-in card partners and other channel partners that are earmarked for market segment development and expansion and typically are designed to support our partners&#8217; activities while also promoting NVIDIA products. Depending on market conditions, we may take actions to increase amounts offered under customer programs, possibly resulting in an incremental reduction of revenue at the time such programs are offered. We account for MDFs as a reduction of revenue and apply a breakage factor to certain types of MDF program accruals for which we believe we can make a reasonable and reliable estimate of the amount that will ultimately be unclaimed. 
+
+We also record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a particular fiscal period exceed historical return rates we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns. 
+
+License and Development Revenue 
+
+For license arrangements that require significant customization of our intellectual property components, we generally recognize the related revenue over the period that services are performed. For most license and service arrangements, we determine progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete the project. We periodically evaluate the actual status of each project to ensure that the estimates to complete each contract remain accurate. Revenue recognized in any period is dependent on our progress toward completion of projects in progress. Significant management judgment and discretion are used to estimate total cost. Any changes in or deviations from these estimates could have a material effect on the amount of revenue we recognize in any period. 
+
+For license arrangements that do not require significant customization but where we are obligated to provide further deliverables over the term of the license agreement, we record revenue over the life of the license term, with consideration received in advance of the performance period classified as deferred revenue. 
+
+Please refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Inventories 
+
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-out basis. We charge cost of sales for inventory provisions to write down our inventory to the lower of cost or estimated market value or to completely write off obsolete or excess inventory. Most of our inventory provisions relate to the write-off of excess quantities of products, based on our inventory levels and future product purchase commitments compared to assumptions about future demand and market conditions. 
+
+Situations that may result in excess or obsolete inventory include changes in business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our products, inventory obsolescence because of changing technology and customer requirements, failure to estimate customer demand properly, or unexpected competitive pricing actions by our competition. In addition, cancellation or deferral of customer purchase orders could result in our holding excess inventory. Also, we may not be able to reduce our inventory purchase commitments in a timely manner in response to customer cancellations or deferrals. 
+
+The overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 0.2%, 1.6%, and 0.6% in fiscal years 2017 , 2016 , and 2015 , respectively. The charges we took to cost of sales for inventory provisions during these fiscal years were primarily related to the write-off of excess quantities of products whose inventory levels were higher than our updated forecasts of future demand for those products. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products. 
+
+Please refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion. 
+
+Income Taxes 
+
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized. 
+
+United States income tax has not been provided for a portion of earnings of our non-U.S. subsidiaries to the extent that such earnings are considered to be indefinitely reinvested. 
+
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in the United States, or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize liabilities for potential United States and foreign income tax contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in our financial statements accordingly. 
+
+As of January 29, 2017 , we had a valuation allowance of $353 million related to state and certain foreign deferred tax assets that management determined are not likely to be realized due to projections of future taxable income and potential utilization limitations of tax attributes acquired as a result of stock ownership changes. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax asset as an income tax benefit during the period. 
+
+Goodwill 
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier, if indicators of potential impairment exist, using either a qualitative or a quantitative assessment. Our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value. We have identified two reporting units, GPU and Tegra Processor, for the purposes of completing our goodwill analysis. Goodwill assigned to the GPU and Tegra Processor reporting units as of January 29, 2017 &#32;was $210 million &#32;and $408 million , respectively. Determining the fair value of a reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We also make judgments and assumptions in allocating assets and liabilities to each of our reporting units. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. 
+
+During the fourth quarter of fiscal year 2017 , we elected to use the quantitative assessment to test goodwill for impairment for each reporting unit. In applying the fair value based test of each reporting unit, the results from the income approach and the market approach were equally weighted. These valuation approaches consider a number of factors that include, but are not limited to, prospective financial information, growth rates, terminal or residual values, discount rates and comparable multiples from publicly traded companies in our industry and require us to make certain assumptions and estimates regarding industry economic factors and the future profitability of our business. 
+
+When performing an income approach valuation, we incorporate the use of projected financial information and a discount rate that are developed using market participant based assumptions to our discounted cash flow model. Our estimates of discounted cash flow were based upon, among other things, certain assumptions about our expected future operating performance, such as revenue growth rates, operating margins, risk-adjusted discount rates, and future economic and market conditions. Our estimates may differ from actual cash flow due to, among other things, economic conditions, changes to our business model or changes in operating performance. Additionally, certain estimates of discounted cash flow involve businesses with limited financial history and developing revenue models, which increases the risk of differences between the projected and actual performance. The long-term financial forecasts that we utilize represent the best estimate that we have at this time and we believe that its underlying assumptions are reasonable. Significant differences between our estimates and actual cash flow could materially affect our future financial results, which could impact our future estimates of the fair value of our reporting units. 
+
+During the fourth quarter of fiscal year 2017 , we concluded that there was no impairment of our goodwill. The fair values of our GPU and Tegra Processor reporting units significantly exceeded their respective carrying values. As such, even the application of a hypothetical 10% decrease to the fair value of each reporting unit would not have resulted in the fair value of either reporting unit being less than its carrying value. As an overall test of the reasonableness of estimated fair values of our reporting units, we reconciled the combined fair value estimates of our reporting units to our market capitalization as of the valuation date. The reconciliation confirmed that the fair values were relatively representative of the market views when applying a reasonable control premium to the market capitalization. However, any significant reductions in the actual amount of future cash flows realized by our reporting units, reductions in the value of market comparables, or reductions in our market capitalization could impact future estimates of the fair values of our reporting units. Such events could ultimately result in a charge to our earnings in future periods due to the potential for a write-down of the goodwill associated with our reporting units. 
+
+Cash Equivalents and Marketable Securities 
+
+Cash equivalents consist of financial instruments which are readily convertible into cash and have original maturities of three months or less at the time of acquisition. Marketable securities consist primarily of highly liquid investments with maturities greater than three months when purchased. We measure our cash equivalents and marketable securities at fair value. The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or quoted market prices of similar assets from active markets. All of our available-for-sale investments are subject to a periodic impairment review. We record a charge to earnings when a decline in fair value is significantly below cost basis and judged to be other-than-temporary, or have other indicators of impairments. 
+
+We performed an impairment review of our investment portfolio as of January 29, 2017 . We concluded that our investments were appropriately valued and that no other-than-temporary impairment charges were necessary on our portfolio of available-for-sale investments as of January 29, 2017 . 
+
+Please refer to Notes 6 and 7 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Stock-based Compensation 
+
+Our stock-based compensation expense is associated with restricted stock units, or RSUs, performance stock units that are based on our corporate financial performance targets, or PSUs, performance stock units that are based on market conditions, or market-based PSUs, our employee stock purchase plan, or ESPP, and stock options. In fiscal year 2015, we shifted away from granting stock options and toward granting RSUs, PSUs and market-based PSUs to reflect changing market trends for equity incentives at our peer companies. The number of PSUs and market-based PSUs that will ultimately be awarded is contingent on the Company&#8217;s level of achievement compared with the corporate financial performance target established by our Compensation Committee in the beginning of each fiscal year. 
+
+Please refer to Notes 1 and 2 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Litigation, Investigation and Settlement Costs 
+
+From time to time, we are involved in legal actions and/or investigations by regulatory bodies. We are aggressively defending our current litigation matters. However, there are many uncertainties associated with any litigation or investigations, and we cannot be certain that these actions or other third-party claims against us will be resolved without costly litigation, fines and/or substantial settlement payments. If that occurs, our business, financial condition and results of operations could be materially and adversely affected. If information becomes available that causes us to determine that a loss in any of our pending litigation, investigations or settlements is probable, and we can reasonably estimate the loss associated with such events, we will record the loss in accordance with U.S. GAAP. However, the actual liability in any such litigation or investigation may be materially different from our estimates, which could require us to record additional costs. 
+
+Results of Operations 
+
+&#160; 
+
+The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue. 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+January 25, 2015 
+
+Revenue 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of revenue 
+
+41.2 
+
+&#160; 
+
+43.9 
+
+&#160; 
+
+44.5 
+
+Gross profit 
+
+58.8 
+
+&#160; 
+
+56.1 
+
+&#160; 
+
+55.5 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+21.2 
+
+&#160; 
+
+26.6 
+
+&#160; 
+
+29.0 
+
+Sales, general and administrative 
+
+9.6 
+
+&#160; 
+
+12.0 
+
+&#160; 
+
+10.3 
+
+Restructuring and other charges 
+
+&#8212; 
+
+&#160; 
+
+2.6 
+
+&#160; 
+
+&#8212; 
+
+Total operating expenses 
+
+30.8 
+
+&#160; 
+
+41.2 
+
+&#160; 
+
+39.3 
+
+Income from operations 
+
+28.0 
+
+&#160; 
+
+14.9 
+
+&#160; 
+
+16.2 
+
+Interest income 
+
+0.8 
+
+&#160; 
+
+0.8 
+
+&#160; 
+
+0.6 
+
+Interest expense 
+
+(0.8 
+
+) 
+
+&#160; 
+
+(0.9 
+
+) 
+
+&#160; 
+
+(1.0 
+
+) 
+
+Other income (expense), net 
+
+(0.4 
+
+) 
+
+&#160; 
+
+0.1 
+
+&#160; 
+
+0.3 
+
+Income before income taxes 
+
+27.6 
+
+&#160; 
+
+14.9 
+
+&#160; 
+
+16.1 
+
+Income tax expense 
+
+3.5 
+
+&#160; 
+
+2.6 
+
+&#160; 
+
+2.6 
+
+Net income 
+
+24.1 
+
+&#160;% 
+
+&#160; 
+
+12.3 
+
+&#160;% 
+
+&#160; 
+
+13.5 
+
+&#160;% 
+
+##TABLE_END
+
+Revenue 
+
+NVIDIA&#8217;s products and services are built for three computing platforms - PC, datacenter/cloud, and mobile. For fiscal years 2017 , 2016 , and 2015 , approximately 72%, 77%, and 75% of our revenue, respectively, was associated with the PC computing platform, of which GPUs for the gaming and professional visualization markets comprised approximately 92%, 88%, and 80%, respectively, while PC OEM represented approximately 8%, 12%, and 20%, respectively. 
+
+Revenue by Reportable Segments 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+Year Ended 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+January 25, 2015 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+($ in millions) 
+
+&#160; 
+
+($ in millions) 
+
+GPU 
+
+$ 
+
+5,822 
+
+&#160; 
+
+$ 
+
+4,187 
+
+&#160; 
+
+$ 
+
+1,635 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+4,187 
+
+&#160; 
+
+$ 
+
+3,839 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Tegra Processor 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(20 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+All Other 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Total 
+
+$ 
+
+6,910 
+
+&#160; 
+
+$ 
+
+5,010 
+
+&#160; 
+
+$ 
+
+1,900 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+5,010 
+
+&#160; 
+
+$ 
+
+4,682 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+##TABLE_END
+
+GPU Business. GPU business revenue increased by 39% &#32;in fiscal year 2017 &#32;compared to fiscal year 2016 . This increase was due primarily to increased revenue from our GeForce GPU gaming and datacenter platforms. Sales of high-end GeForce GPU products for gaming increased over 40%, reflecting a combination of continued strength in PC gaming and strong demand for our recent Pascal-based GPU products. Datacenter revenue, including our Tesla, NVIDIA GRID, and DGX-1 brands, increased 145%, reflecting strong demand for deep learning training for AI, cloud, accelerated, and virtualized computing, and initial DGX-1 sales. Revenue from Quadro GPUs for professional visualization increased 11% due primarily to higher sales in high end desktop and mobile workstation products. Revenue from GeForce GPU products for mainstream PC OEMs declined compared to last year. 
+
+GPU business revenue increased by 9% &#32;in fiscal year 2016 compared to fiscal year 2015 . This increase was due primarily to increased revenue from sales of high-end GeForce GPU products for gaming, which increased over 30% reflecting a combination of continued strength in PC gaming and increased sales of our Maxwell-based GPU products. Revenue from Tesla GPUs for Datacenter increased, driven by strong demand from hyperscale companies for deep learning for AI and accelerated computing. Revenue from Quadro GPUs for professional visualization declined due to weakness in the overall workstation market. Revenue from GeForce GPU products for mainstream PC OEMs declined compared to the prior year. 
+
+Tegra Processor Business. &#160; Tegra Processor business revenue increased by 47% &#32;in fiscal year 2017 &#32;compared to fiscal year 2016 . This was driven by an increase of over 50% in sales of Tegra products and services serving automotive systems and an increase of almost 50% in gaming development platforms compared to last year. 
+
+Tegra Processor business revenue decreased by 3% in fiscal year 2016 &#32;compared to fiscal year 2015 . This decrease was driven by a decline in sales of Tegra products for OEM smartphones and tablets of almost 90%, partially offset by an increase in sales of Tegra products serving automotive systems of almost 75%. Revenue also grew from development services and sales of SHIELD devices. 
+
+All Other. License revenue from the patent cross licensing arrangement we entered into with Intel in January 2011 was flat at $264 million &#32;for fiscal years 2017 , 2016 , and 2015 . The remaining $44 million in revenue under this arrangement will be recognized in the first quarter of fiscal year 2018. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States and Other Americas accounted for 80% , 79% , and 75% &#32;of total revenue for fiscal years 2017 , 2016 , and 2015 , respectively. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+Revenue from significant customers, those representing 10% or more of total revenue for the respective dates, is summarized as follows: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+January 25, 2015 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Customer A 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+&#160; 
+
+Gross Profit and Gross Margin 
+
+&#160; 
+
+Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory and component costs, and shipping costs. Cost of revenue also includes development costs for license and service arrangements and stock-based compensation related to personnel associated with manufacturing. 
+
+Our overall gross margin was 58.8% , 56.1% , and 55.5% &#32;for fiscal years 2017 , 2016 , and 2015 , respectively. These increases were driven primarily by a higher mix of our GPU business, fewer inventory provisions, and lower warranty charges in our Tegra Processor business. 
+
+Charges to cost of sales for inventory provisions totaled $62 million, $112 million and $59 million for fiscal years 2017 , 2016 , and 2015 , respectively, unfavorably impacting our gross margin by 0.9%, 2.2%, and 1.3%, respectively. Sales of inventory that was previously written-off or written-down totaled $51 million for fiscal year 2017 &#32;and $32 million for both fiscal years 2016 &#32;and 2015 , favorably impacting our gross margin by 0.7%, 0.6%, and 0.7%, respectively. As a result, the overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 0.2%, 1.6%, and 0.6% in fiscal years 2017 , 2016 , and 2015 , respectively. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+GPU Business . The gross margin of our GPU business increased during fiscal year 2017 &#32;when compared to fiscal year 2016 &#32;primarily due to product mix resulting from increased sales of our GeForce gaming, Tesla, GRID and Quadro GPU products, as well as a continued decrease in sales volumes of lower margin PC OEM products. The gross margin of our GPU business increased during fiscal year 2016 &#32;when compared to fiscal year 2015 &#32;primarily due to strong sales of our high end GeForce gaming GPU products and the decreased sales volume of lower margin PC OEM products. 
+
+Tegra Processor Business. The gross margin of our Tegra Processor business increased during fiscal year 2017 &#32;when compared to fiscal year 2016 , primarily due to fewer inventory provisions, and the absence of the warranty charge associated with the SHIELD tablet product recall during fiscal year 2016 . The gross margin of our Tegra Processor business decreased during fiscal year 2016 &#32;when compared to fiscal year 2015 &#32;due to inventory provisions, a warranty charge associated with the SHIELD tablet product recall and higher automotive and SHIELD product sales, which have had comparably lower gross margins. The inventory provisions related primarily to older generation Tegra products, as well as inventory purchase commitments in excess of estimated demand and excess component inventories for SHIELD products. 
+
+Operating Expenses 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+Year Ended 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+January 31, 
+
+&#160; 
+
+January 25, 2015 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+($ in millions) 
+
+&#160; 
+
+($ in millions) 
+
+Research and development expenses 
+
+$ 
+
+1,463 
+
+&#160; 
+
+$ 
+
+1,331 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+1,331 
+
+&#160; 
+
+$ 
+
+1,360 
+
+&#160; 
+
+$ 
+
+(29 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+Sales, general and administrative expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Restructuring and other charges 
+
+&#160; 
+
+&#160; 
+
+(128 
+
+) 
+
+&#160; 
+
+(98 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Total operating expenses 
+
+$ 
+
+2,129 
+
+&#160; 
+
+$ 
+
+2,064 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+2,064 
+
+&#160; 
+
+$ 
+
+1,840 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Research and development as a percentage of net revenue 
+
+21.2 
+
+% 
+
+&#160; 
+
+26.6 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+26.6 
+
+% 
+
+&#160; 
+
+29.0 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative as a percentage of net revenue 
+
+9.6 
+
+% 
+
+&#160; 
+
+12.0 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+12.0 
+
+% 
+
+&#160; 
+
+10.3 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other charges as a percentage of net revenue 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+2.6 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2.6 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+&#160; 
+
+Research and Development 
+
+Research and development expenses increased by 10% &#32;in fiscal year 2017 &#32;compared to fiscal year 2016 , driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense. 
+
+Research and development expenses decreased by 2% &#32;in fiscal year 2016 &#32;compared to fiscal year 2015 . This decrease was primarily driven by the wind-down of Icera modem operations and other organization efficiencies, partially offset by increases in employee compensation and related costs, including stock-based compensation expense. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 10% &#32;in fiscal year 2017 &#32;compared to fiscal year 2016 , driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense. Offsetting these increases was a $57 million decrease in outside professional fees resulting from the resolution of our intellectual property disputes with Samsung and Qualcomm during early fiscal year 2017 . 
+
+Sales, general and administrative expenses increased by 25% &#32;in fiscal year 2016 &#32;compared to fiscal year 2015 . Outside professional fees increased, primarily due to $70 million of legal fees associated with our litigation against Samsung and Qualcomm. Compensation and benefits increased by $39 million resulting from employee additions, employee compensation increases and related costs, including stock-based compensation expense. Advertising and promotions increased by $9 million resulting from digital advertising. 
+
+Restructuring and Other Charges 
+
+In fiscal year 2016, we began the wind down our Icera modem operations. As a result, our operating expenses for fiscal years 2017 and 2016 included $3 million and $131 million, respectively, of restructuring and other charges. Please refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Interest Income and Interest Expense 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest expense is primarily comprised of coupon interest and debt discount amortization related to the Convertible Notes we issued in December 2013 and the Notes we issued in September 2016. 
+
+Interest income was $54 million , $39 million , and $28 million &#32;in fiscal years 2017 , 2016 , and 2015 , respectively. These increases in interest income were primarily due to higher average cash balances invested in interest bearing securities, as well as higher purchased yields. 
+
+Interest expense was $58 million , $47 million , and $46 million &#32;in fiscal years 2017 , 2016 , and 2015 . The increase in fiscal year 2017 compared to fiscal years 2016 and 2015 was due primarily to interest expense related to the Notes we issued in September 2016, partially offset by a decrease in interest expense as a result of the early conversion of a significant portion of the Convertible Notes during fiscal year 2017 . 
+
+Other Income (Expense), Net 
+
+Other income (expense), net, consists primarily of realized gains and losses from the sale of marketable securities, sales or impairments of investments in non-affiliated companies, losses on early conversions of the Convertible Notes, and the impact of changes in foreign currency rates. 
+
+Net other income (expense) was $ (25) million , $ 4 million , and $ 14 million &#32;in fiscal years 2017 , 2016 , and 2015 , respectively. The net other (expense) in fiscal year 2017 &#32;compared to the net other income in fiscal year 2016 &#32;was primarily due to $21 million of losses we recognized from early conversions of the Convertible Notes. The decrease for fiscal year 2016 &#32;compared to fiscal year 2015 &#32;was primarily due to less gain recognized from sales of non-affiliated investments and more losses from foreign currency remeasurement. 
+
+&#32;&#32; 
+
+Income Taxes 
+
+&#160; 
+
+We recognized income tax expense of $239 million, $129 million and $124 million for fiscal years 2017, 2016, and 2015, respectively. Our annual effective tax rate was 12.5%, 17.3%, and 16.5% for fiscal years 2017, 2016, and 2015, respectively. The decrease in the effective tax rate in fiscal year 2017 as compared to fiscal years 2016 and 2015 was primarily due to the recognition of excess tax benefits from our adoption of a new accounting standard related to the simplification of certain aspects of stock-based compensation accounting. The higher effective tax rate in fiscal year 2016 as compared to fiscal years 2017 and 2015 was due to an additional amount of earnings subject to United States tax in fiscal year 2016, partially offset by a net income tax benefit related to the Icera modem restructuring in fiscal year 2016. 
+
+Our effective tax rate for each of the fiscal years was lower than the U.S. federal statutory rate of 35% due primarily to income earned in jurisdictions, including British Virgin Islands, Hong Kong, China, Taiwan and United Kingdom, where the tax rate is lower than the United States federal statutory tax rate of 35%, favorable recognition in these fiscal years of the U.S. federal research tax credit, favorable discrete events primarily attributable to the tax benefit recognized upon the expiration of the applicable statutes of limitations, and adoption of an accounting standard related to stock-based compensation in fiscal year 2017. 
+
+Please refer to Note 13 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Liquidity and Capital Resources &#160; 
+
+##TABLE_START &#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+1,766 
+
+&#160; 
+
+$ 
+
+Marketable securities 
+
+5,032 
+
+&#160; 
+
+4,441 
+
+Cash, cash equivalents, and marketable securities 
+
+$ 
+
+6,798 
+
+&#160; 
+
+$ 
+
+5,037 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+January 31, 2016 
+
+&#160; 
+
+January 25, 2015 
+
+&#160; 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+1,672 
+
+&#160; 
+
+$ 
+
+1,175 
+
+&#160; 
+
+$ 
+
+Net cash used in investing activities 
+
+$ 
+
+(793 
+
+) 
+
+&#160; 
+
+$ 
+
+(400 
+
+) 
+
+&#160; 
+
+$ 
+
+(727 
+
+) 
+
+Net cash provided by (used in) financing activities 
+
+$ 
+
+&#160; 
+
+$ 
+
+(676 
+
+) 
+
+&#160; 
+
+$ 
+
+(834 
+
+) 
+
+##TABLE_END
+
+As of January 29, 2017 , we had $6.80 billion &#32;in cash, cash equivalents and marketable securities, an increase of $1.76 billion &#32;from the end of fiscal year 2016 . Our portfolio of cash equivalents and marketable securities is managed on our behalf by several financial institutions which are required to follow our investment policy, which requires the purchase of high grade investment securities, the diversification of asset types and includes certain limits on our portfolio duration. 
+
+&#160; 
+
+Cash provided by operating activities increased in fiscal year 2017 &#32;compared to fiscal year 2016 , primarily driven by an increase in net income and changes in working capital. Cash provided by operating activities increased in fiscal year 2016 &#32;compared to fiscal year 2015 , primarily due to changes in working capital, partially offset by a decline in net income. 
+
+Cash used in investing activities increased in fiscal year 2017 &#32;compared to fiscal year 2016 , primarily due to higher purchases of property and equipment and intangible assets and lower proceeds from sales and maturities of marketable securities. Cash used in investing activities for fiscal year 2016 decreased from fiscal year 2015 , primarily due to higher proceeds from sales and maturities of marketable securities and lower purchases of property and equipment and intangible assets. 
+
+Cash was provided by financing activities in fiscal year 2017 , primarily due to the $2.00 billion of Notes issued in September 2016, partially offset by $673 million of repayments of Convertible Notes and $1.00 billion of capital return to shareholders in the form of share repurchases and dividend payments. Cash was used in financing activities in fiscal year 2016, primarily due to $800 million of share repurchases and dividend payments. Cash used in financing activities decreased in fiscal year 2016 &#32;compared to fiscal year 2015 , primarily due to lower share repurchases, partially offset by higher dividends. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of January 29, 2017 &#32;and January 31, 2016, we had $ 6.80 billion &#32;and $ 5.04 billion , respectively, in cash, cash equivalents and marketable securities. Our marketable securities consist principally of debt securities of corporations and United States government and its agencies, asset-backed securities, mortgage-backed securities issued by government-sponsored enterprises, money market funds and foreign government bonds. These investments are denominated in United States dollars. Please refer to Critical Accounting Policies and Estimates in Part II, Item 7, Quantitative and Qualitative Disclosures About Market Risk in Part II, Item 7A and Note 6 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Our cash balances are held in numerous locations throughout the world, including substantial amounts held outside of the United States. As of January 29, 2017 , we had cash, cash equivalents and marketable securities of $2.24 billion held within the United States and $4.56 billion held outside of the United States. Most of the amounts held outside the United States may be repatriated to the United States but, under current law, would be subject to U.S. federal income taxes, less applicable foreign tax credits. Further, repatriation of some foreign balances may be restricted by local laws. As of January 29, 2017 , we have not provided for U.S. federal and state income taxes on approximately $3.13 billion of undistributed earnings of non-United States subsidiaries, as such earnings are considered indefinitely reinvested outside the United States. Although we have no current need to do so, if we repatriate foreign earnings for cash requirements in the United States, we would incur U.S. federal and state income tax, less applicable foreign tax credits, and reduced by the current amount of our U.S. federal and state net operating loss and tax credit carryforwards. Further, in addition to the $2.24 billion of cash, cash equivalents and marketable securities held within the United States and available to fund our U.S. operations and any other U.S. cash needs, we have access to external sources of financing if cash is needed in the United States other than by repatriation of foreign earnings where U.S. income tax may otherwise be due. Accordingly, we do not reasonably expect any material effect on our business, as a whole, or to our financial flexibility with respect to our current cash balances held outside of the United States. 
+
+Capital Return to Shareholders 
+
+Dividend payments and share repurchases must be made from cash held in the United States. During fiscal year 2017, we repurchased a total of 15 million &#32;shares for $739 million &#32;and paid $261 million &#32;in cash dividends to our shareholders. As a result, we returned $1.00 billion &#32;to shareholders during fiscal year 2017, utilizing a significant amount of our U.S. cash balance previously taxed as of January 29, 2017. 
+
+For fiscal year 2018, we intend to return approximately $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases. In November 2016, the Board authorized an additional $2.00 billion under our repurchase program and extended it through December 2020. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to continued capital availability and our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders and are in compliance with all laws and agreements of NVIDIA applicable to the declaration and payment of cash dividends. Please refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Convertible Notes 
+
+In December 2013, we issued $1.50 billion of Convertible Notes that mature on December 1, 2018 unless repurchased or converted prior to such date. The Convertible Notes first became convertible at the holders&#8217; option beginning on the first day of fiscal year 2017. We utilized U.S. cash to settle an aggregate of $673 million &#32;in principal amount of the Convertible Notes during fiscal year 2017 and we have received additional conversion notices for an aggregate of $660 million in principal amount, $502 million &#32;of which have already settled, $103 million of which are expected to be settled in the first quarter of fiscal year 2018, and $55 million of which are expected to be settled in the second quarter of fiscal year 2018. Please refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Notes Due 2021 and Notes Due 2026 
+
+On September 16, 2016, we issued $1.00 billion of the Notes Due 2021 and $1.00 billion of the Notes Due 2026. The net proceeds from the Notes were $1.98 billion, after deducting debt discounts and issuance costs. We intend to use the net proceeds from the Notes to prefund the repayment of the principal amount of early conversions of our Convertible Notes and for general corporate purposes such as dividend payments or share repurchases. 
+
+Revolving Credit Facility 
+
+On October 7, 2016, we entered into a Credit Agreement under which we may borrow, repay and re-borrow amounts from time to time, up to $575 million, for working capital and other general corporate purposes. The commitments under the Credit Agreement are available for a 5-year period ending on October 7, 2021, on which date all outstanding obligations would be due and payable. The Credit Agreement also permits us to obtain additional revolving loan commitments and/or commitments to issue letters of credit of up to $425 million, subject to certain conditions. As of January 29, 2017 , we had not borrowed any amounts under the Credit Agreement. 
+
+Operating Capital and Capital Expenditure Requirements 
+
+&#160; 
+
+We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating and capital expenditure requirements for at least the next twelve months. 
+
+Contractual Obligations 
+
+The following table summarizes our contractual obligations as of January 29, 2017 : 
+
+##TABLE_START &#160; 
+
+Payment Due By Period 
+
+Contractual Obligations 
+
+Total 
+
+&#160; 
+
+Less than 
+
+1 Year 
+
+&#160; 
+
+1-3 Years 
+
+&#160; 
+
+4-5 Years 
+
+&#160; 
+
+More than 
+
+5 Years 
+
+&#160; 
+
+All Other 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+&#160; 
+
+1.00% Convertible Notes (1) 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+Long-term debt (2) 
+
+2,430 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,086 
+
+&#160; 
+
+1,128 
+
+&#160; 
+
+&#8212; 
+
+Inventory purchase obligations 
+
+1,001 
+
+&#160; 
+
+1,001 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Operating leases (3) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Uncertain tax positions, interest and penalties (4) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Capital purchase obligations 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Capital lease 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Restructuring related obligation (5) 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total contractual obligations 
+
+$ 
+
+4,560 
+
+&#160; 
+
+$ 
+
+1,984 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,115 
+
+&#160; 
+
+$ 
+
+1,141 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Represents the aggregate principal amount of $827 million &#32;and anticipated interest payments of $4 million &#32;for the Convertible Notes. See Note 11 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+##TABLE_END##TABLE_START (2) 
+
+Represents the aggregate principal amount of $2.00 billion and anticipated interest payments of $430 million for the Notes. See Note 11 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+##TABLE_END##TABLE_START (3) 
+
+Excludes operating lease payments that we expect to make under an operating lease financing arrangement following construction of a new headquarters building in Santa Clara, California, which is currently targeted for completion in the fourth quarter of fiscal year 2018. The amount of the operating lease payments will be determined after the completion of construction. See the section below titled &#8220;Off-Balance Sheet Arrangements&#8221; for additional information. 
+
+##TABLE_END##TABLE_START (4) 
+
+Represents unrecognized tax benefits of $96 million &#32;which consists of $83 million &#32;and the related interest and penalties of $13 million &#32;recorded in non-current income tax payable as of January 29, 2017 . We are unable to reasonably estimate the timing of any potential tax liability or interest/penalty payments in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. 
+
+##TABLE_END##TABLE_START (5) 
+
+Our operating expenses for the fiscal year 2017 &#32;included $3 million &#32;of restructuring and other charges related to the wind-down of our Icera modem operations. The $13 million &#32;represents the remaining balance of the restructuring liability as of January 29, 2017 . 
+
+##TABLE_END
+
+Off-Balance Sheet Arrangements 
+
+We are constructing a new headquarters building in Santa Clara, California, which is currently targeted for completion in the fourth quarter of fiscal year 2018. We are financing this construction under an off-balance sheet, build-to-suit operating lease arrangement. The banks have committed to fund up to $380 million of costs relating to construction. Once construction is complete, the lease balance will remain static at the completed cost for the remaining duration of the lease term. During construction, accrued interest will be capitalized into the lease balance. Following construction, we will pay rent in the form of interest. The lease has an initial 7.5 year term expiring on December 19, 2022, consisting of an approximately 2.5 year construction period followed by a 5 year lease term. We have the option to renew this lease for up to three additional 5 year periods, subject to approval by the banks. During the term of the lease, we may elect to purchase the headquarters building for the amount of the banks&#8217; investment in the building and any accrued but unpaid rent. At the end of the lease term, we may elect to buy the building for the outstanding balance on the maturity date or arrange for the cash sale of the building to an unaffiliated third party. The aggregate guarantee made by us under the lease is no more than 87.5% of the costs incurred in connection with the construction of the building. Please refer to Note 12 &#32; of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion regarding our operating lease financing arrangement. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Please see Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+&#160; 
+

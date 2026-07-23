@@ -1,0 +1,754 @@
+ ITEM 2. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The statements in this report include forward-looking statements. These forward-looking statements are based on current expectations and beliefs and involve numerous risks and uncertainties that could cause actual results to differ materially from expectations. These forward-looking statements should not be relied upon as predictions of future events as we cannot assure you that the events or circumstances reflected in these statements will be achieved or will occur. You can identify forward-looking statements by the use of forward-looking terminology including &#147;believes,&#148; &#147;expects,&#148; &#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;seeks,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;pro forma,&#148; &#147;estimates,&#148; &#147;anticipates,&#148; the negative of these words and phrases, other variations of these words and phrases or comparable terminology. The forward-looking statements relate to, among other things: demand for our products; the growth, change and competitive landscape of the markets in which we participate; the nature and extent of our future payments to GLOBALFOUNDRIES Inc. (GF) and the materiality of these payments; the materiality of our future purchases from GF; sales patterns of our semi-custom System-on-Chip products; consumer PC market conditions; the success of our transformation strategy; our ability to transform our business to attain revenue from high-growth markets; our restructuring plan announced in October 2014 (the 2014 Restructuring Plan), including the timing of actions implemented in connection with the 2014 Restructuring Plan and expected restructuring and impairment charges and cash payments; expected benefits of the 2014 Restructuring Plan and our transformation initiatives; the level of international sales as compared to total sales; our ability to reduce our unrecognized tax benefits over the next twelve months; that other unrecognized tax benefits will not materially change in the next 12 months; that our cash, cash equivalents and marketable securities balances and our senior secured asset based line of credit will be sufficient to fund our operations including capital expenditures over the next twelve months; our ability to obtain sufficient external financing on favorable terms, or at all; our dependence on a small number of customers; our hedging strategy; and our expenditures related to environmental compliance and conflict minerals disclosure requirements. Material factors and assumptions that were applied in making these forward-looking statements include, without limitation, the following: the expected rate of market growth and demand for our products and technologies (and the mix thereof); GF&#146;s manufacturing yields and wafer volumes; our expected market share; our expected product costs and average selling price; our overall competitive position and the competitiveness of our current and future products; our ability to introduce new products, consistent with our current roadmap; our ability to make additional investment in research and development and that such opportunities will be available; the expected demand for computers; and the state of credit markets and macroeconomic conditions. Material factors that could cause actual results to differ materially from current expectations include, without limitation, the following: that Intel Corporation&#146;s pricing, marketing and rebating programs, product bundling, standard setting, new product introductions or other activities may negatively impact our plans; that we will require additional funding and may be unable to raise sufficient capital on favorable terms, or at all; that customers stop buying our products or materially reduce their operations or demand for our products; that we may be unable to develop, launch and ramp new products and technologies in the volumes that are required by the market at mature yields on a timely basis; that our third-party foundry suppliers will be unable to transition our products to advanced manufacturing process technologies in a timely and effective way or to manufacture our products on a timely basis in sufficient quantities and using competitive process technologies; that we will be unable to obtain sufficient manufacturing capacity or components to meet demand for our products or will not fully utilize our projected manufacturing capacity needs at GF&#146;s microprocessor manufacturing facilities; that our requirements for wafers will be less than the fixed number of wafers that we agreed to purchase from GF or GF encounters problems that significantly reduce the number of functional die we receive from each wafer; that we are unable to successfully implement our long-term business strategy; that the completion and impact of the 2014 Restructuring Plan and our transformation initiatives could adversely affect us; that we inaccurately estimate the quantity or type of products that our customers will want in the future or will ultimately end up purchasing, resulting in excess or obsolete inventory; that we are unable to manage the risks related to the use of our third-party distributors and add-in-board (AIB) partners or offer the appropriate incentives to focus them on the sale of our products; that we may be unable to maintain the level of investment in research and development that is required to remain competitive; that there may be unexpected variations in market growth and demand for our products and technologies in light of the product mix that we may have available at any particular time; that global business and economic conditions will not improve or will worsen; that PC market conditions will not improve or will worsen; that demand for computers will be lower than currently expected; and the effect of political or economic instability, domestically or internationally, on our sales or supply chain. 
+
+&#160; 
+
+For a discussion of factors that could cause actual results to differ materially from the forward-looking statements, see &#147;Part II, Item 1A&#151;Risk Factors&#148; section beginning on page 43 and the &#147;Financial Condition&#148; section beginning on page 33 and other risks and uncertainties set forth below in this report or detailed in our other Securities and Exchange Commission (SEC) reports and filings. We assume no obligation to update forward-looking statements. 
+
+AMD, the AMD Arrow logo, ATI, the ATI logo, AMD Opteron, Radeon, FirePro and combinations thereof are trademarks of Advanced Micro Devices, Inc. Microsoft is a registered trademark of Microsoft Corporation in the United States and other jurisdictions. Sony is a trademark of Sony Corporation. Other names are for informational purposes only and are used to identify companies and products and may be trademarks of their respective owners. 
+
+The following discussion should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in this report and our audited consolidated financial statements and related notes as of December 28, 2013 and December 29, 2012, and for each of the three years in the period ended December 28, 2013 as filed in our Annual Report on Form 10-K for the year ended December 28, 2013. 
+
+Overview 
+
+We are a global semiconductor company with facilities around the world. Within the global semiconductor industry, we offer primarily: 
+
+&#160;
+
+&#160; &#149; &#160; x86 microprocessors, as standalone devices or as incorporated as an accelerated processing unit (APU), chipsets, discrete graphics processing units (GPUs) and processional graphics; and 
+
+&#160;
+
+&#160; &#149; &#160; server and embedded processors, dense servers, semi-custom System-on-Chip (SoC) products and technology for game consoles. 
+
+In this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries (collectively, &#147;us,&#148; &#147;our&#148; or &#147;AMD&#148;), including a discussion of our results of operations for the quarter and nine months ended September 27, 2014 compared to the quarter ended June 28, 2014 and the quarter and nine months ended September 28, 2013, an analysis of changes in our financial condition and a discussion of our contractual obligations. 
+
+Net revenue in the third quarter of 2014 was $1.4 billion, relatively flat compared to the second quarter of 2014, and a 2 percent decrease compared to the third quarter of 2013. Net revenue in the third quarter of 2014 included net revenue of $27 million related to technology licensing. Compared to the second quarter of 2014, a 6 percent increase of Enterprise, Embedded and Semi-Custom net revenue was offset by a 6 percent decrease in Computing and Graphics segment net revenue. The increase in Enterprise, Embedded and Semi-Custom segment net revenue was primarily due to higher revenue in connection with higher unit shipments of our semi-custom SoC products. Computing and Graphics segment net revenue decreased primarily due to lower unit shipments of our chipsets and GPU products. We believe that our Computing and Graphics segment results reflect the ongoing weakness in the consumer PC market. 
+
+Gross margin, as a percentage of net revenue, for the third quarter of 2014 was 35 percent, flat compared to the second quarter of 2014 and as compared to 36 percent in the third quarter of 2013. Gross margin in the third quarter of 2014 was favorably impacted by 2 percentage points as a result of the $27 million technology licensing revenue noted above. We continued to manage our operating expenses during the third quarter of 2014. Operating expenses were $431 million in the third quarter of 2014, compared to $435 million in the second quarter of 2014 and $426 million in the third quarter of 2013. Our cash, cash equivalents and marketable securities as of the end of the third quarter of 2014 were $938 million as compared to $948 million as of the end of the second quarter of 2014. Total debt as of the end of the third quarter of 2014 of $2.20 billion remained relatively flat as compared to the end of the second quarter of 2014. 
+
+During the third quarter of 2014, we continued to focus on our ongoing transformation to diversify our business. We launched new the AMD A10-7800 APU and the AMD A6-7800 APU in the third quarter of 2014. We designed the AMD A10-7800APU with HSA features and GCN architecture for system builders and the DIY market, and we designed the AMD A6-7800 APU for smaller form factor gaming and home theater PC systems. We also launched the AMD Radeon&#153; R9 285 graphics card designed for our enthusiast gamers. We expanded our AMD FirePro&#153; family of workstation graphics cards by 
+
+&#160; 
+
+introducing the AMD FirePro W2100, AMD FirePro W4100, AMD FirePro W5100 and AMD FirePro W7100 for entry-level workstation users. We also launched the AMD FirePro S9150 and AMD FirePro S9050 server cards designed specifically for intense compute workloads. In the third quarter of 2014, we made available the AMD Opteron&#153;A1100-Series development kit, featuring our first 64-bit ARM &#174; -based processor, formerly codenamed &#147;Seattle&#148; for software developers and integrators. 
+
+In October 2014, we announced a restructuring plan (the 2014 Restructuring Plan) designed to implement operational efficiencies and cost savings. Under the 2014 Restructuring Plan, we expect to reduce global headcount by approximately 7 percent, largely expected to be completed by the end of the fourth quarter of 2014. We intend to align our real estate footprint as a result of our reduced headcount, which we largely expect will be completed by the end of the first half of 2015. 
+
+GLOBALFOUNDRIES 
+
+Wafer Supply Agreement. The Wafer Supply Agreement (WSA) governs the terms by which we purchase products manufactured by GLOBALFOUNDRIES Inc. (GF). 
+
+Third Amendment to Wafer Supply Agreement . On December 6, 2012, we entered into a third amendment to the WSA. Pursuant to the third amendment, we modified the wafer purchase commitments for the fourth quarter of 2012 made pursuant to the second amendment to the WSA. In addition, we agreed to certain pricing and other terms of the WSA applicable to wafers for our microprocessor and APU products to be delivered by GF to us from the fourth quarter of 2012 through December 31, 2013. Pursuant to the third amendment, GF agreed to waive a portion of our wafer purchase commitments for the fourth quarter of 2012. In consideration of this waiver, we agreed to pay GF a fee of $320 million. As a result, we recorded a lower of cost or market charge of $273 million for the write-down of inventory to its market value in the fourth quarter of 2012. The cash impact of this $320 million fee was paid over several quarters, with $80 million paid on December 28, 2012, $40 million paid on April 1, 2013 and $200 million paid on December 31, 2013. 
+
+Fourth Amendment to Wafer Supply Agreement . On March 30, 2014, we entered into a fourth amendment to the WSA. The primary effect of the fourth amendment was to establish volume purchase commitments and fixed pricing for the 2014 calendar year as well as to modify certain other terms of the WSA applicable to wafers for some of our microprocessor, graphics processor and semi-custom game console products to be delivered by GF to us during the 2014 calendar year. 
+
+Our total purchases from GF related to wafer manufacturing and research and development activities for the quarters ended September 27, 2014 and September 28, 2013 were $290 million and $221 million, respectively. Our total purchases from GF related to wafer manufacturing and research and development activities for the nine months ended September 27, 2014 and September 28, 2013 were $843 million and $746 million, respectively. At September 27, 2014, we had prepayments to GF of $128 million related to wafer purchases, which were included in prepaid expenses and other current assets on our condensed consolidated balance sheets. 
+
+We currently estimate that our wafer purchase obligation from GF will be approximately $1.2 billion for the 2014 calendar year. We are not able to meaningfully quantify or estimate our purchase obligations to GF beyond December 31, 2014, but we expect that our future purchases from GF will continue to be material. 
+
+GF is a related party of us because GF is affiliated with West Coast Hitech L.P., our largest stockholder. 
+
+Critical Accounting Estimates 
+
+Our discussion and analysis of our financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles (U.S. GAAP). The preparation of our financial statements requires us to make estimates and judgments that affect the reported amounts in our condensed consolidated financial statements. We evaluate our estimates on an on-going basis, including those related to our net revenue, inventories, asset impairments and income taxes. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of our assets and liabilities. Although actual results have historically been reasonably consistent with management&#146;s expectations, the actual results may differ from these estimates or our estimates may be affected by different assumptions or conditions. 
+
+&#160; 
+
+Management believes there have been no significant changes during the quarter and nine months ended September 27, 2014 to the items that we disclosed as our critical accounting estimates in the Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations section of our Annual Report on Form 10-K for the year ended December 28, 2013. 
+
+Our realignment of our organizational structure, effective July 1, 2014, caused a change in the composition of our reportable segments and reporting units. This represented a change in circumstance requiring an interim goodwill impairment analysis and reassignment of the goodwill to the new reporting units using a relative fair value approach. We completed this goodwill impairment analysis during the third quarter of 2014. For the purposes of this analysis, our estimates of fair value were based on the income approach, which estimates the fair value of our reporting units based on future discounted cash flows. We determined that each reporting unit&#146;s estimated fair value exceeded its carrying value, indicating that there was no goodwill impairment. We will perform an annual goodwill impairment as of the first day of the fourth quarter of 2014 pursuant to our accounting policy. If there are declines in our market capitalization, business climate or operating results, we may incur impairment charges that could be material. 
+
+Results of Operations 
+
+Management, including the Chief Operating Decision Maker, who is our Chief Executive Officer, reviews and assesses our operating performance using segment net revenue and operating income (loss) before interest, other income (expense), net, and income taxes. These performance measures include the allocation of expenses to the operating segments based on management&#146;s judgment. In connection with our continued strategic transformation, effective July 1, 2014, we realigned our organizational structure. As a result of this organizational change, we have the following two reportable segments: 
+
+&#160;
+
+&#160; &#149; &#160; the Computing and Graphics segment, which primarily includes desktop and notebook processors and chipsets, discrete GPUs and professional graphics; and 
+
+&#160;
+
+&#160; &#149; &#160; the Enterprise, Embedded and Semi-Custom segment, which primarily includes server and embedded processors, dense servers, semi-custom SoC products, engineering services and royalties. 
+
+Effective October 8, 2014, Dr. Lisa T. Su became our Chief Executive Officer, succeeding Rory P. Read. This management change did not result in a change in our reportable segments or to the fact that the Chief Operating Decision Maker is our Chief Executive Officer. 
+
+In addition to these reportable segments, we have an All Other category, which is not a reportable segment. This category primarily includes certain expenses and credits that are not allocated to any of the reportable segments because management does not consider these expenses and credits in evaluating the performance of the reportable segments. Also included in this category are amortization of acquired intangible assets, employee stock-based compensation expense, net restructuring and other special charges (gains) and workforce rebalancing severance charges. We also reported the results of former businesses in the All Other category because the operating results were not material. 
+
+We use a 52 or 53 week fiscal year ending on the last Saturday in December. The quarters ended September 27, 2014, June 28, 2014 and September 28, 2013 each consisted of 13 weeks. The nine months ended September 27, 2014 and September 28, 2013, each consisted of 39 weeks. 
+
+Our operating results tend to vary seasonally. For example, historically, first quarter PC product sales are generally lower than fourth quarter sales. In addition, with respect to our semi-custom SoC products for game consoles, we expect sales patterns to follow the seasonal trends of a consumer business with sales in the first half of the year being lower than sales in the second half of the year. 
+
+&#160; 
+
+The following table provides a summary of net revenue and operating income (loss) by segment. The prior period results have been restated to reflect these new reportable segments. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; September 27, 2014 &#160; &#160; June 28, 2014 &#160; &#160; September 28, 2013 &#160; &#160; September 27, 2014 &#160; &#160; September 28, 2013 &#160; &#160; &#160; (In millions) &#160; Net revenue: 
+
+&#160; &#160; &#160; &#160; &#160; Computing and Graphics 
+
+&#160; $ 781 &#160; &#160; $ 828 &#160; &#160; $ 925 &#160; &#160; $ 2,470 &#160; &#160; $ 2,832 &#160; Enterprise, Embedded and Semi-Custom 
+
+&#160; &#160; 648 &#160; &#160; &#160; 613 &#160; &#160; &#160; 536 &#160; &#160; &#160; 1,797 &#160; &#160; &#160; 878 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total net revenue 
+
+&#160; $ 1,429 &#160; &#160; $ 1,441 &#160; &#160; $ 1,461 &#160; &#160; $ 4,267 &#160; &#160; $ 3,710 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Operating income (loss): 
+
+&#160; &#160; &#160; &#160; &#160; Computing and Graphics 
+
+&#160; $ (17 ) &#160; $ (6 ) &#160; $ 9 &#160; &#160; $ (20 ) &#160; $ (86 ) Enterprise, Embedded and Semi-Custom, 
+
+&#160; &#160; 108 &#160; &#160; &#160; 97 &#160; &#160; &#160; 92 &#160; &#160; &#160; 290 &#160; &#160; &#160; 166 &#160; All Other 
+
+&#160; &#160; (28 ) &#160; &#160; (28 ) &#160; &#160; (6 ) &#160; &#160; (95 ) &#160; &#160; (112 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total operating income (loss) 
+
+&#160; $ 63 &#160; &#160; $ 63 &#160; &#160; $ 95 &#160; &#160; $ 175 &#160; &#160; $ (32 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Computing and Graphics 
+
+Computing and Graphics net revenue of $781 million in the third quarter of 2014 decreased by 16% compared to net revenue of $925 million in the third quarter of 2013 as a result of a 31% decrease in unit shipments, partially offset by a 22% increase in average selling price. The decrease in unit shipments was primarily attributable to lower unit shipments of our microprocessor products for desktop and notebook PCs and chipsets due to challenging consumer PC market conditions and our chipsets being integrated into our APU products. The increase in average selling price was primarily attributable to an increase in average selling price of our microprocessor products due to improved product mix in our microprocessor products for notebook PCs. 
+
+Computing and Graphics net revenue of $781 million in the third quarter of 2014 decreased by 6% compared to $828 million in the second quarter of 2014 as a result of an 8% decrease in unit shipments, partially offset by a 3% increase in average selling price. The decrease in unit shipments was primarily attributable to lower unit shipments of our chipsets and our GPU products due to challenging consumer PC market conditions. The increase in average selling price was primarily attributable to an increase in average selling price of our microprocessor products for notebook PCs due to improved product mix, partially offset by a decrease in average selling price of our GPU products primarily due to a decrease in the average selling price of our GPU desktop products. 
+
+Computing and Graphics net revenue of $2.5 billion in the first nine months of 2014 decreased by 13% compared to net revenue of $2.8 billion in the first nine months of 2013 as a result of a 26% decrease in unit shipments, partially offset by an 18% increase in average selling price. The decrease in unit shipments was primarily attributable to lower unit shipments of our microprocessor products for desktop and notebook PCs and chipsets due to challenging consumer PC market conditions and lower unit shipments of our chipset products due to chipsets being integrated into our APU products. The increase in average selling price was primarily attributable to an increase in average selling price of our microprocessor products, chipsets and GPU products due to improved product mix. 
+
+Computing and Graphics operating loss was $17 million in the third quarter of 2014 compared to operating income of $9 million in the third quarter of 2013. The decline in operating results was primarily due to the decrease in net revenue referenced above, partially offset by a $76 million decrease in cost of sales, a $34 million decrease in research and development expenses and an $8 million decrease in marketing, general and administrative expenses. Cost of sales decreased primarily due to lower unit shipments in the third quarter of 2014 compared to the third quarter of 2013. Operating loss for the third quarter of 2014 included a $19 million benefit from technology licensing revenue. In addition, operating income for the third quarter of 2013 included a $19 million benefit from sales of previously reserved inventory in the third quarter of 2012. Research and development expenses and marketing, general and administrative expenses decreased for the reasons set forth under &#147;Expenses,&#148; below. 
+
+&#160; 
+
+Computing and Graphics operating loss was $17 million in the third quarter of 2014 compared to operating loss of $6 million in the second quarter of 2014. The decline in operating results was primarily due to the decrease in net revenue referenced above, partially offset by a $29 million decrease in cost of sales, a $5 million decrease in research and development expenses and a $2 million decrease in marketing, general and administrative expenses. Cost of sales decreased primarily due to lower unit shipments in the third quarter of 2014 compared to the second quarter of 2014. Operating loss for the third quarter of 2014 included a $19 million benefit from technology licensing revenue. In addition, operating loss for the second quarter of 2014 included a $3 million benefit from sales of inventory that had been previously reserved in the third quarter of 2012. 
+
+Computing and Graphics operating loss was $20 million in the first nine months of 2014 compared to operating loss of $86 million in the first nine months of 2013. The improvement in operating results was primarily due to a $215 million decrease in cost of sales, a $136 million decrease in research and development expenses and a $77 million decrease in marketing, general and administrative expenses, partially offset by the decrease in net revenue referenced above. Cost of sales decreased primarily due to lower unit shipments in the first nine months of 2014 compared to the first nine months of 2013. Operating loss for the first nine months of 2014 included a $19 million benefit from technology licensing revenue. In addition, operating loss for the first nine months of 2013 included a $50 million benefit from sales of inventory that had been previously reserved in the third quarter of 2012, as compared to a similar $7 million benefit for the first nine months of 2014. Research and development expenses and marketing, general and administrative expenses decreased for the reasons set forth under &#147;Expenses,&#148; below. 
+
+Enterprise, Embedded and Semi-Custom 
+
+Enterprise, Embedded and Semi-Custom net revenue of $648 million in the third quarter of 2014 increased by 21% compared to net revenue of $536 million in the third quarter of 2013. The increase was primarily due to an increase in net revenue received in connection with higher unit shipments of our semi-custom SoC products, partially offset by a decrease in net revenue received in connection with lower unit shipments of our server products. 
+
+Enterprise, Embedded and Semi-Custom net revenue of $648 million in the third quarter of 2014 increased by 6% compared to net revenue of $613 million in the second quarter of 2014. The increase was primarily due to an increase in net revenue received in connection with higher unit shipments of our semi-custom SoC products. 
+
+Enterprise, Embedded and Semi-Custom net revenue of $1.8 billion in the first nine months of 2014 increased by 105% compared to net revenue of $878 million in the first nine months of 2013. The increase was primarily due to an increase in net revenue received in connection with higher unit shipments of our semi-custom SoC products, which we began shipping in the second quarter of 2013, partially offset by a decrease in net revenue in connection with lower unit shipments of server products. 
+
+Enterprise, Embedded and Semi-Custom operating income was $108 million in the third quarter of 2014 compared to operating income of $92 million in the third quarter of 2013. The improvement in operating results was primarily due to the increase in net revenue referenced above, partially offset by a $70 million increase in cost of sales, a $23 million increase in research and development expenses and a $3 million increase in marketing, general and administrative expenses. The increase in cost of sales was primarily due to an increase in unit shipments of our semi-custom SoC products in the third quarter of 2014 compared to the third quarter of 2013. In addition, operating income for the third quarter of 2014 included an $8 million benefit from technology licensing revenue. Research and development expenses and marketing, general and administrative expenses increased for the reasons set forth under &#147;Expenses,&#148; below. 
+
+Enterprise, Embedded and Semi-Custom operating income was $108 million in the third quarter of 2014 compared to operating income of $97 million in the second quarter of 2014. The improvement in operating results was primarily due to the increase in net revenue referenced above, partially offset by a $19 million increase in cost of sales and a $5 million increase in research and development expenses. The increase in cost of sales was primarily due to an increase in unit shipments of our semi-custom SoC products in the third quarter of 2014 compared to the second quarter of 2014. In addition, operating income for the third quarter of 2014 included an $8 million benefit from technology licensing revenue. 
+
+&#160; 
+
+Enterprise, Embedded and Semi-Custom operating income was $290 million in the first nine months of 2014 compared to operating income of $166 million in the first nine months of 2013. The improvement in operating results was primarily due to the increase in net revenue referenced above, partially offset by a $720 million increase in cost of sales, a $53 million increase in research and development expenses and a $22 million increase in marketing, general and administrative expenses. The increase in cost of sales was primarily due to an increase in unit shipments of our semi-custom SoC products in the first nine months of 2014 compared to the first nine months of 2013. In addition, operating income for the first nine months of 2014 included an $8 million benefit from interface technology license revenue. Research and development expenses and marketing, general and administrative expenses increased for the reasons set forth under &#147;Expenses&#148; below. 
+
+All Other 
+
+All Other operating loss of $28 million in the third quarter of 2014 included stock-based compensation expense of $21 million, $4 million related to other expenses and $3 million related to amortization of acquired intangible assets. All Other operating loss of $6 million in the third quarter of 2013 included stock-based compensation expense of $23 million and $5 million related to amortization of acquired intangible assets, offset by net restructuring and other special gains of $22 million. All Other operating loss of $28 million in the second quarter of 2014 included stock-based compensation expense of $21 million, $4 million related to amortization of acquired intangible assets and $3 million related to other expenses. 
+
+All Other operating loss of $95 million in the first nine months of 2014 included stock-based compensation expense of $65 million, $14 million related to workforce rebalancing severance charges, $10 million related to amortization of acquired intangible assets and $6 million related to other expenses. In the first quarter of 2014, workforce rebalancing charges were incurred as part of our ongoing transformation and diversification strategy. All Other operating loss of $112 million in the first nine months of 2013 included stock-based compensation expense of $67 million, net restructuring and other special charges of $30 million and $14 million related to amortization of acquired intangible assets. 
+
+International Sales 
+
+International sales as a percentage of net revenue were 82% in the third quarter of 2014, the third quarter of 2013 and the second quarter of 2014. 
+
+International sales as a percentage of net revenue were 82% in the first nine months of 2014 and 88% in the first nine months of 2013. The decrease in international sales as a percentage of net revenue in the first nine months of 2014 compared to the first nine months of 2013 was primarily driven by an increase in net revenue from domestic sales of our semi-custom SoC products. 
+
+We expect that international sales will continue to be a significant portion of total sales in the foreseeable future. Substantially all of our sales transactions were denominated in U.S. dollars. 
+
+&#160; 
+
+Comparison of Gross Margin, Expenses, Interest Expense, Other Income (Expense), Net, and Income Taxes 
+
+The following is a summary of certain condensed consolidated statement of operations data for the periods indicated: 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; September 27, 2014 &#160; &#160; June 28, 2014 &#160; &#160; September 28, 2013 &#160; &#160; September 27, 2014 &#160; &#160; September 28, 2013 &#160; &#160; &#160; (In millions except for percentages) &#160; Cost of sales 
+
+&#160; $ 935 &#160; &#160; $ 943 &#160; &#160; $ 940 &#160; &#160; $ 2,788 &#160; &#160; $ 2,285 &#160; Gross margin 
+
+&#160; &#160; 494 &#160; &#160; &#160; 498 &#160; &#160; &#160; 521 &#160; &#160; &#160; 1,479 &#160; &#160; &#160; 1,425 &#160; Gross margin percentage 
+
+&#160; &#160; 35 % &#160; &#160; 35 % &#160; &#160; 36 % &#160; &#160; 35 % &#160; &#160; 38 % Research and development 
+
+&#160; &#160; 278 &#160; &#160; &#160; 277 &#160; &#160; &#160; 288 &#160; &#160; &#160; 834 &#160; &#160; &#160; 908 &#160; Marketing, general and administrative 
+
+&#160; &#160; 150 &#160; &#160; &#160; 154 &#160; &#160; &#160; 155 &#160; &#160; &#160; 460 &#160; &#160; &#160; 505 &#160; Amortization of acquired intangible assets 
+
+&#160; &#160; 3 &#160; &#160; &#160; 4 &#160; &#160; &#160; 5 &#160; &#160; &#160; 10 &#160; &#160; &#160; 14 &#160; Restructuring and other special charges (gain), net 
+
+&#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; (22 ) &#160; &#160; &#151; &#160; &#160; &#160; 30 &#160; Interest income 
+
+&#160; &#160; 1 &#160; &#160; &#160; &#151; &#160; &#160; &#160; 1 &#160; &#160; &#160; 2 &#160; &#160; &#160; 4 &#160; Interest expense 
+
+&#160; &#160; (43 ) &#160; &#160; (46 ) &#160; &#160; (47 ) &#160; &#160; (136 ) &#160; &#160; (133 ) Other income (expense), net 
+
+&#160; &#160; (2 ) &#160; &#160; (49 ) &#160; &#160; 2 &#160; &#160; &#160; (72 ) &#160; &#160; (3 ) Provision for income taxes 
+
+&#160; &#160; 2 &#160; &#160; &#160; 4 &#160; &#160; &#160; 3 &#160; &#160; &#160; 8 &#160; &#160; &#160; 8 &#160; Gross Margin 
+
+Gross margin as a percentage of net revenue was 35% in the third quarter of 2014 compared to 36% in the third quarter of 2013. Gross margin in the third quarter of 2014 included a $27 million benefit from technology licensing revenue, which accounted for two gross margin percentage points. Gross margin in the third quarter of 2013 included a $19 million benefit from sales of previously reserved inventory in the third quarter of 2012, which accounted for one gross margin percentage point. Gross margin in the third quarter of 2014 was adversely impacted by lower average gross margins in our Enterprise, Embedded and Semi-Custom segment driven by lower margin semi-custom SoC products. 
+
+Gross margin as a percentage of net revenue of 35% in the third quarter of 2014 remained flat compared to the second quarter of 2014. Gross margin in the third quarter of 2014 included a $27 million benefit from technology licensing revenue, which accounted for two gross margin percentage points. Gross margin in the second quarter of 2014 included a $3 million benefit from sales of previously reserved inventory in the third quarter of 2012, which had a less than one percentage point impact. 
+
+Gross margin as a percentage of net revenue was 35% in the first nine months of 2014 compared to 38% in the first nine months of 2013. Gross margin in the first nine months of 2014 included a $27 million benefit from technology licensing revenue, which accounted for less than one gross margin percentage point. Gross margin in the first nine months of 2013 included a $50 million benefit from sales of inventory that was previously reserved in the third quarter of 2012, which accounted for one gross margin percentage point as compared to $7 million in the first nine months of 2014 which had a less than one percentage point impact. Gross margin in the first nine months of 2014 was adversely impacted by lower average gross margins in our Enterprise, Embedded and Semi-Custom segment driven by lower margin semi-custom SoC products. 
+
+Expenses 
+
+Research and Development Expenses 
+
+Research and development expenses of $278 million in the third quarter of 2014 decreased by $10 million, or 3%, compared to $288 million in the third quarter of 2013. The decrease was primarily due to a $34 million decrease in research and development expenses attributable to our Computing and Graphics segment, partially offset by a $23 million increase in research and development expenses attributable to our Enterprise, Embedded and Semi-Custom segment. Research and development expenses attributable to our Computing and Graphics segment decreased primarily due to a $37 million decrease in product engineering and design costs, partially offset by a $5 million increase in other employee compensation and benefit expenses. Research and development expenses attributable to our Enterprise, Embedded and Semi-Custom segment increased primarily due to a $21 million increase in product engineering and design costs. 
+
+Research and development expenses of $278 million in the third quarter of 2014 remained relatively flat as compared to $277 million in the second quarter of 2014. 
+
+&#160; 
+
+Research and development expenses of $834 million in the first nine months of 2014 decreased by $74 million, or 8%, compared to $908 million in the first nine months of 2013. The decrease was primarily due to a $136 million decrease in research and development expenses attributable to our Computing and Graphics segment, partially offset by a $53 million increase in research and development expenses attribute to our Enterprise, Embedded and Semi-Custom segment and a $9 million increase in the All Other category related to a workforce rebalancing severance charge recorded in the first quarter of 2014. Research and development expenses attributable to our Computing and Graphics segment decreased primarily due to a $127 million decrease in product engineering and design costs and an $8 million decrease in manufacturing process technology expenses. Research and development expenses attributable to our Enterprise, Embedded and Semi-Custom segment increased primarily due to a $46 million increase in product engineering and design costs and a $6 million increase in other employee compensation and benefit expenses. 
+
+Marketing, General and Administrative Expenses 
+
+Marketing, general and administrative expenses of $150 million in the third quarter of 2014 remained relatively flat as compared to $155 million in the third quarter of 2013 and $154 million in the second quarter of 2014. 
+
+Marketing, general and administrative expenses of $460 million in the first nine months of 2014 decreased by $45 million, or 9%, compared to $505 million in the first nine months of 2013. The decrease was primarily due to a $77 million decrease in marketing, general and administrative expenses attributable to our Computing and Graphics segment, partially offset by a $22 million increase in marketing, general and administrative expenses attributable to our Enterprise, Embedded and Semi-Custom segment and a $5 million increase in the All Other category related to a workforce rebalancing severance charge recorded in the first quarter of 2014. Marketing, general and administrative expenses attributable to our Computing and Graphics segment decreased primarily due to a $54 million decrease in sales and marketing activities and a $26 million decrease in other general and administrative expenses. Marketing, general and administrative expenses attributable to our Enterprise, Embedded and Semi-Custom segment increased primarily due to a $14 million increase in other general and administrative expenses and a $6 million increase in sales and marketing activities. 
+
+Restructuring and Other Special Charges (Gains), Net 
+
+Sale and Leaseback Transactions 
+
+In September 2013, we sold a light industrial building in Singapore and leased back a portion of the original space. We received net proceeds of $46 million in connection with the sale. The difference between the net proceeds and the $15 million carrying value of property sold resulted in a $17 million gain that we recorded in the third quarter of 2013 and a $14 gain deferred as of September 28, 2013 that we will amortize over the initial lease term. The initial lease term expires in September 2023 and provides for options to extend the lease for 4 years, at the end of the initial lease term, and for an additional 3.5 years thereafter. We accounted for the lease as an operating lease. 
+
+In September 2013, we also sold an office building in Austin, Texas. We received net proceeds of $10 million in connection with the sale and recorded a $5 million gain in the third quarter of 2013, primarily related to the difference between the sale proceeds and the $5 million carrying value of the property sold. 
+
+In March 2013, we sold and leased back land and office buildings in Austin, Texas. We received net cash proceeds of $164 million in connection with the sale and recorded a $52 million charge in the first quarter of 2013, primarily related to the difference between the sale proceeds and the $216 million carrying value of the property sold. The lease expires in March 2025 and provides for one 10-year optional renewal. We accounted for the transaction as an operating lease. 
+
+In March 2013, we also sold an office building in Markham, Ontario, Canada and leased back a portion of the original space. We received net cash proceeds of $13 million in connection with the sale and recorded a $6 million gain in the first quarter of 2013, primarily related to the difference between the sale proceeds and the $7 million carrying value of the property sold. The lease was to expire in March 2014 but contained an early termination provision, which we exercised effective June 30, 2013. While occupied, we accounted for the lease as an operating lease. 
+
+The $22 million gain recognized in the third quarter of 2013 and the net charge of $24 million recognized in the first nine months of 2013 related to the real estate transactions described above are recorded in the &#147;Restructuring and other special charges (gains), net&#148; line item on the condensed consolidated statements of operations. 
+
+&#160; 
+
+2014 Restructuring Plan 
+
+In October 2014, we announced a restructuring plan, the 2014 Restructuring Plan designed to implement operating efficiencies and cost savings. Under the 2014 Restructuring Plan, we expect to reduce global headcount by approximately 7 percent, largely expected to be completed by the end of the fourth quarter of 2014, and to align our real estate footprint with our reduced headcount, largely expected to be completed by the end of the first half of 2015. We currently estimate that we will record a restructuring and impairment charge of approximately $57 million in the fourth quarter of 2014, primarily related to severance, and a restructuring charge of approximately $13 million in the first half of 2015, primarily related to real estate actions. We expect to make cash payments related to the 2014 Restructuring Plan of approximately $34 million in the fourth quarter of 2014 and approximately $20 million in the first half of 2015. 
+
+Interest Expense 
+
+Interest expense of $43 million in the third quarter of 2014 decreased by $4 million compared to $47 million in the third quarter of 2013, primarily due to a tax-related interest expense recorded in the third quarter of 2013. 
+
+Interest expense of $43 million in the third quarter of 2014 decreased by $3 million compared to $46 million in the second quarter of 2014, primarily due to the timing of the issuance of new debt and repurchases of other debt. 
+
+Interest expense of $136 million in the first nine months of 2014 increased by $3 million compared to $133 million in the first nine months of 2013, primarily due to the timing of the issuances of new debt and repurchases of other debt, partially offset by a tax-related interest expense recorded in the third quarter of 2013. 
+
+Other Income (Expense), Net 
+
+Other expense, net, of $2 million in the third quarter of 2014 compared to $2 million of other income, net, in the third quarter of 2013 resulted primarily from fluctuations of foreign currency exchange rates. 
+
+Other expense, net, of $2 million in the third quarter of 2014 decreased by $47 million compared to $49 million of other expense, net, in the second quarter of 2014 primarily due to a $49 million loss from debt repurchase recorded in the second quarter of 2014. 
+
+Other expense, net, of $72 million in the first nine months of 2014 increased by $69 million compared to $3 million of other expense, net, in the first nine months of 2013, primarily as a result of a $64 million loss from debt repurchases and $6 million loss from fluctuations of foreign currency exchange rates in the first nine months of 2014. 
+
+Income Taxes 
+
+In the third quarter of 2014, we recorded an income tax provision of $2 million, consisting of $2 million of foreign taxes in profitable locations. For the nine months ended September 27, 2014, we recorded an income tax provision of $8 million arising from $9 million of foreign taxes in profitable locations, partially offset by $1 million of tax benefits arising from other comprehensive income and Canadian tax credits. 
+
+In the third quarter of 2013, we recorded an income tax provision of $3 million, consisting of $2 million of foreign taxes in profitable locations and $1 million related to the reversal of previously recognized tax benefits associated with other comprehensive income. For the nine months ended September 28, 2013, we recorded an income tax provision of $8 million arising from $7 million of foreign taxes in profitable locations and $3 million related to the reversal of previously recognized tax benefits associated with other comprehensive income, partially offset by $2 million of tax benefits for Canadian tax credits and monetization of U.S. tax credits. 
+
+As of September 27, 2014, substantially all of our U.S. and Canadian deferred tax assets, net of deferred tax liabilities, continue to be subject to a valuation allowance. The realization of these assets is dependent on substantial future taxable income, which at September 27, 2014, in our estimate, is not more likely than not to be achieved. 
+
+Our total gross unrecognized tax benefits as of September 27, 2014 were $61 million. We currently expect to reduce our unrecognized tax benefits by approximately $31 million, primarily as a result of the potential settlement of tax audits with certain foreign tax authorities over the next 12 months. We do not believe it is reasonably possible that other unrecognized tax benefits will materially change in the next 12 months. However, the settlement, resolution or closure of tax audits are highly uncertain. 
+
+&#160; 
+
+Stock-Based Compensation Expense 
+
+The following table summarizes stock-based compensation expense related to employee stock options, restricted stock and restricted stock units, which we allocated in the condensed consolidated statements of operations: 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; September 27, 2014 &#160; &#160; June 28, 2014 &#160; &#160; September 28, 2013 &#160; &#160; September 27, 2014 &#160; &#160; September 28, 2013 &#160; &#160; &#160; (In millions) &#160; Cost of sales 
+
+&#160; $ 1 &#160; &#160; $ 1 &#160; &#160; $ 1 &#160; &#160; $ 3 &#160; &#160; $ 4 &#160; Research and development 
+
+&#160; &#160; 11 &#160; &#160; &#160; 11 &#160; &#160; &#160; 12 &#160; &#160; &#160; 34 &#160; &#160; &#160; 35 &#160; Marketing, general and administrative 
+
+&#160; &#160; 9 &#160; &#160; &#160; 9 &#160; &#160; &#160; 10 &#160; &#160; &#160; 28 &#160; &#160; &#160; 28 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Stock-based compensation expense, net of tax of $0 
+
+&#160; $ 21 &#160; &#160; $ 21 &#160; &#160; $ 23 &#160; &#160; $ 65 &#160; &#160; $ 67 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; For all periods presented, we did not realize any excess tax benefit related to stock-based compensation and therefore did not record any related financing cash flows. 
+
+Stock-based compensation expense of $21 million in the third quarter of 2014 remained relatively flat as compared to $23 million in the third quarter of 2013 and $21 million in the second quarter of 2014. 
+
+Stock-based compensation expense of $65 million in the first nine months of 2014 remained relatively flat as compared to $67 million in the first nine months of 2013. 
+
+FINANCIAL CONDITION 
+
+Liquidity 
+
+As of September 27, 2014, our cash, cash equivalents and marketable securities of $938 million were lower compared to $1.2 billion as of December 28, 2013. The decrease was primarily due to the final $200 million cash payment made in the first quarter of 2014 related to GF&#146;s waiver of a portion of our obligations for wafer purchase commitments for the fourth quarter of 2012 and the timing of sales and related collections. During the nine months ended September 27, 2014, we also used $73 million for purchases of property, plant and equipment. Also, during the nine months ended September 27, 2014, we reclassified $45 million of our marketable securities that were previously classified as long-term to short-term. The percentage of cash, cash equivalents and marketable securities held domestically was 89% as of September 27, 2014. 
+
+Our debt and capital lease obligations as of September 27, 2014 were $2.2 billion as compared to $2.1 billion as of December 28, 2013. During the second quarter of 2014, we issued $500 million of 7.00% Senior Notes due 2024 (7.00% Notes). We also repurchased and redeemed the remaining $452 million in aggregate principal amount of our 8.125% Senior Notes due 2017 (8.125% Notes) for $480 million in cash. As of the end of the second quarter of 2014, we did not have any 8.125% Notes outstanding. 
+
+During the first quarter of 2014, we issued $600 million of 6.75% Senior Notes due 2019 (6.75% Notes). We also repurchased $423 million in aggregate principal amount of our 6.00% Convertible Senior Notes due 2015 (6.00% Notes) pursuant to a partial tender offer for $460 million in cash, $64 million in aggregate principal amount of our 6.00% Notes in open market transactions for $69 million in cash and $48 million in aggregate principal amount of our 8.125% Notes pursuant to a partial tender offer for $51 million in cash. 
+
+Subsequent to September 27, 2014, we repurchased $50 million in principal amount of the 7.75% Notes and $17 million in principal amount of the 7.50% Notes. 
+
+&#160; 
+
+We believe our cash, cash equivalents and marketable securities balance along with our Secured Revolving Line of Credit will be sufficient to fund operations, including capital expenditures, over the next twelve months. We believe that in the event we decide to obtain external funding, we will be able to access the capital markets on terms and in amounts adequate to meet our objectives. However, given the possibility of changes in market conditions or other occurrences, we cannot be certain that such funding will be available on terms favorable to us or at all. 
+
+Over the longer term, should additional funding be required, such as to meet payment obligations of our long-term debt when due, we may need to raise the required funds through borrowings or public or private sales of debt or equity securities, which may be issued from time to time under an effective registration statement, through the issuance of securities in a transaction exempt from registration under the Securities Act of 1933, as amended, or a combination of one or more of the foregoing. Uncertain global economic conditions have in the past and may in the future adversely impact our business. If market conditions deteriorate, we may be limited in our ability to access the capital markets to meet liquidity needs on favorable terms or at all, which could adversely affect our liquidity and financial condition, including our ability to refinance maturing liabilities. 
+
+Operating Activities 
+
+Net cash used in operating activities was $214 million in the first nine months of 2014. A net loss of $39 million was adjusted for non-cash charges consisting primarily of $155 million of depreciation and amortization expense, $65 million of employee stock-based compensation expense, $64 million net loss on debt redemptions related to our 6.00% Notes and 8.125% Notes and $11 million of non-cash interest expense related to our 6.00% Notes and 8.125% Notes. The net changes in operating assets as of September 27, 2014 compared to December 28, 2013 included an increase in prepaid expenses and other assets of $156 million, primarily due to prepayments to GF of $128 million, an increase in accounts receivable of $144 million, which was primarily due to timing of sales and collections, and an increase in inventories of $14 million. Accounts payable, accrued liabilities and other decreased by $100 million during the first nine months of 2014, primarily due to a $50 million decrease in deferred income on shipments to our distributor customers, a $22 million decrease in accrued and other liabilities, primarily driven by software and technology licenses payments of $47 million, partially offset by an increase in deferred revenue of $28 million, a $21 million decrease in accounts payable driven by timing of purchases and payments and a $7 million decrease in accrued compensation and benefits. Payable to GF, which included all amounts we owe to GF, decreased by $47 million during the first nine months of 2014. The decrease was primarily due to the final $200 million payment to GF made in the first quarter of 2014 related to GF&#146;s waiver of a portion of our obligations for wafer purchase commitments for the fourth quarter of 2012, partially offset by an increase in accounts payable to GF due to timing of payments. 
+
+Net cash used in operating activities was $169 million in the first nine months of 2013. A net loss of $172 million was adjusted for non-cash charges consisting primarily of $182 million of depreciation and amortization expense, $67 million of employee stock-based compensation expense, a $30 million net loss on disposal of property, plant and equipment and $18 million of non-cash interest expense related to our 6.00% Notes and 8.125% Notes. The net changes in operating assets as of September 28, 2013 compared to December 29, 2012 included an increase in inventories of $360 million, largely driven by our customers&#146; next generation game console ramps and preparation for fourth quarter shipments of our new graphics products, an increase in accounts receivable of $242 million, which was primarily due to higher sales during the first nine months of 2013, an increase in other assets of $67 million, primarily due to new software licenses, and an increase in prepaid expenses and other current assets of $18 million. During the first nine months of 2013, accounts payable, accrued liabilities and other increased by $351 million, primarily due to a $296 million increase in accounts payable driven by timing of purchases and payments, a $32 million increase in accrued compensation and benefits and a $31 million increase in deferred income on shipments to our distributor customers, partially offset by a $10 million decrease in accrued and other current liabilities. Payables to GF, which included all amounts we owe to GF, increased by $41 million. The increase was primarily due to an increase of $256 million of payables related to wafer purchases, offset by payments of $175 million related to the limited waiver of exclusivity from GF and $40 million related to our take-or-pay obligation to GF. 
+
+&#160; 
+
+Investing Activities 
+
+Net cash used in investing activities was $55 million in the first nine months of 2014, which consisted of a cash outflow of $73 million for purchases of property, plant and equipment, offset by a net cash inflow of $18 million from purchases, sales and maturity of available for sale securities. 
+
+Net cash provided by investing activities was $159 million in the first nine months of 2013. A cash inflow from sales of property, plant and equipment of $238 million, which consisted primarily of net cash proceeds from the real estate transactions in Austin, Texas of $179 million, in Singapore of $46 million and in Markham, Ontario, Canada of $13 million, was partially offset by a cash outflow of $63 million for purchases of property, plant and equipment and a net cash outflow of $16 million from purchases, sales and maturity of available-for-sale securities. 
+
+Financing Activities 
+
+Net cash provided by financing activities was $40 million in the first nine months of 2014, primarily due to net proceeds from borrowings pursuant to our 6.75% Notes of $589 million and our 7.00% Notes of $491 million, partially offset by $518 million in payments to repurchase a portion of our 6.00% Notes, $522 million in payments to repurchase our 8.125% Notes and $3 million in payments for capital lease obligations. During the first nine months of 2014, we also received $5 million in net proceeds from U.S. government grants for research and development activities and $4 million from the exercise of employee stock options. 
+
+Net cash provided by financing activities was $4 million in the first nine months of 2013, primarily due to $6 million in net proceeds from U.S. government grants for research and development activities and $3 million from the exercise of employee stock options, partially offset by repayment of capital lease obligations of $4 million. 
+
+During the first nine months of 2014 and 2013, we did not realize any excess tax benefit related to employee stock-based compensation. Therefore, we did not record any effects relating to financing cash flows for these periods. 
+
+Contractual Obligations 
+
+The following table summarizes our consolidated principal contractual cash obligations, as of September 27, 2014, and is supplemented by the discussion following the table: 
+
+&#160;
+
+&#160; &#160; Payments due by period as of September 27, 2014 &#160; (In millions) 
+
+&#160; Total &#160; &#160; Remainder of 2014 &#160; &#160; 2015 &#160; &#160; 2016 &#160; &#160; 2017 &#160; &#160; 2018 &#160; &#160; 2019 and thereafter &#160; 6.00% Notes (1) 
+
+&#160; $ 42 &#160; &#160; $ &#151; &#160; &#160; $ 42 &#160; &#160; $ &#151; &#160; &#160; $ &#151; &#160; &#160; $ &#151; &#160; &#160; $ &#151; &#160; 6.75% Notes 
+
+&#160; &#160; 600 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; 600 &#160; 7.75% Notes 
+
+&#160; &#160; 500 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; 500 &#160; 7.50% Notes 
+
+&#160; &#160; 500 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; 500 &#160; 7.00% Notes 
+
+&#160; &#160; 500 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; 500 &#160; Secured Revolving Line of Credit 
+
+&#160; &#160; 55 &#160; &#160; &#160; 55 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; Other long-term liabilities 
+
+&#160; &#160; 75 &#160; &#160; &#160; &#151; &#160; &#160; &#160; 1 &#160; &#160; &#160; 41 &#160; &#160; &#160; 31 &#160; &#160; &#160; 1 &#160; &#160; &#160; 1 &#160; Aggregate interest obligation (2) 
+
+&#160; &#160; 1,116 &#160; &#160; &#160; 40 &#160; &#160; &#160; 156 &#160; &#160; &#160; 154 &#160; &#160; &#160; 154 &#160; &#160; &#160; 154 &#160; &#160; &#160; 458 &#160; Capital lease obligations (3) 
+
+&#160; &#160; 13 &#160; &#160; &#160; 1 &#160; &#160; &#160; 5 &#160; &#160; &#160; 6 &#160; &#160; &#160; 1 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; Operating leases 
+
+&#160; &#160; 356 &#160; &#160; &#160; 15 &#160; &#160; &#160; 50 &#160; &#160; &#160; 46 &#160; &#160; &#160; 44 &#160; &#160; &#160; 41 &#160; &#160; &#160; 160 &#160; Purchase obligations (4) 
+
+&#160; &#160; 465 &#160; &#160; &#160; 287 &#160; &#160; &#160; 100 &#160; &#160; &#160; 34 &#160; &#160; &#160; 19 &#160; &#160; &#160; 25 &#160; &#160; &#160; &#151; &#160; Obligations to GF (5) 
+
+&#160; &#160; 471 &#160; &#160; &#160; 471 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total contractual obligations 
+
+&#160; $ 4,693 &#160; &#160; $ 869 &#160; &#160; $ 354 &#160; &#160; $ 281 &#160; &#160; $ 249 &#160; &#160; $ 221 &#160; &#160; $ 2,719 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160;
+
+&#160;
+
+(1) &#160; Represents aggregate par value of the notes, without the effect of associated discounts. 
+
+&#160; 
+
+(2) &#160; Represents estimated aggregate interest obligations for our outstanding debt obligations that are payable in cash, excluding capital lease obligations and our senior secured asset based line of credit for a principal amount up to $500 million (Secured Revolving Line of Credit). Also excludes non-cash amortization of debt discounts on our 6.00% Notes. 
+
+&#160;
+
+(3) &#160; Includes principal and imputed interest. 
+
+&#160;
+
+(4) &#160; We have purchase obligations for goods and services where payments are based, in part, on the volume or type of services we acquire. In those cases, we only included the minimum volume of purchase obligations in the table above. Purchase orders for goods and services that are cancelable upon notice and without significant penalties are not included in the amounts above. In addition we have obligations for software technology and licenses where payments are fixed and non-cancelable. 
+
+&#160;
+
+(5) &#160; This amount includes all our contractual obligations to GF through December 31, 2014. We are not currently able to meaningfully quantify or estimate our purchase obligations to GF beyond December 31, 2014, but we expect that our future purchases from GF will continue to be material. 
+
+6.00% Convertible Senior Notes Due 2015 
+
+On April 27, 2007, we issued $2.2 billion aggregate principal amount of our 6.00% Notes. Our 6.00% Notes are our general unsecured senior obligations. Interest is payable on May 1 and November 1 of each year beginning November 1, 2007 until the maturity date of May 1, 2015. The terms of our 6.00% Notes are governed by an indenture dated April 27, 2007, by and between us and Wells Fargo Bank, National Association, as trustee. 
+
+During the first quarter of 2014, we repurchased $64 million in aggregate principal amount of our 6.00% Notes in open market transactions for $69 million, which included payment of accrued and unpaid interest of $1 million. Also, during the first quarter of 2014, we repurchased a portion of our 6.00% Notes through a partial tender offer. We repurchased $423 million aggregate principal amount of our 6.00% Notes for $460 million in cash, which included payment of accrued and unpaid interest of $10 million. We incurred a total loss of $10 million in connection with the foregoing repurchases of our 6.00% Notes. As of September 27, 2014, the outstanding aggregate principal amount and remaining carrying value of our 6.00% Notes were $42 million. The remaining $42 million of aggregate principal amount of 6.00% Notes has been reclassified as short-term debt on the condensed consolidated balance sheet as of September 27, 2014. 
+
+8.125% Senior Notes Due 2017 
+
+On November 30, 2009, we issued $500 million of our 8.125% Notes at a discount of 10.204%. 
+
+During the first quarter of 2014, we repurchased $48 million in aggregate principal amount of our 8.125% Notes pursuant to a partial tender offer for $51 million, which included payment of accrued and unpaid interest of $1 million. We incurred a total loss of $5 million in connection with the foregoing repurchase of our 8.125% Notes. 
+
+During the second quarter of 2014, we repurchased and redeemed the remaining $452 million in aggregate principal amount of our 8.125% Notes for $480 million in cash, which included payment of accrued and unpaid interest of $7 million. We incurred a total loss of $49 million in connection with the foregoing repurchase and redemption of our 8.125% Notes. As of the end of the second quarter of 2014, we did not have any 8.125% Notes outstanding. 
+
+6.75% Senior Notes Due 2019 
+
+On February 26, 2014, we issued $600 million of our 6.75% Senior Notes due 2019 (6.75% Notes). Our 6.75% Notes are our general unsecured senior obligations. Interest is payable on March 1 and September 1 of each year beginning September 1, 2014 until the maturity date of March 1, 2019. Our 6.75% Notes are governed by the terms of an indenture (the 6.75% Indenture) dated February 26, 2014 between us and Wells Fargo Bank, National Association, as trustee. 
+
+At any time before March 1, 2019, we may redeem some or all of our 6.75% Notes at a price equal to 100% of the principal amount, plus accrued and unpaid interest and a &#147;make whole&#148; premium (as set forth in the 6.75% Indenture). 
+
+As of September 27, 2014, the outstanding aggregate principal amount of our 6.75% Notes was $600 million. 
+
+&#160; 
+
+7.75% Senior Notes Due 2020 
+
+On August 4, 2010, we issued $500 million of our 7.75% Senior Notes due 2020 (7.75% Notes). Our 7.75% Notes are our general unsecured senior obligations. Interest is payable on February 1 and August 1 of each year beginning February 1, 2011 until the maturity date of August 1, 2020. Our 7.75% Notes are governed by the terms of an indenture (the 7.75% Indenture) dated August 4, 2010 between us and Wells Fargo Bank, National Association, as trustee. 
+
+At any time before August 1, 2015, we may redeem some or all of our 7.75% Notes at a price equal to 100% of the principal amount, plus accrued and unpaid interest and a &#147;make whole&#148; premium (as set forth in the 7.75% Indenture). 
+
+Starting August 1, 2015, we may redeem our 7.75% Notes for cash at the following specified prices plus accrued and unpaid interest: 
+
+&#160;
+
+Period 
+
+&#160; Price as Percentage of Principal Amount &#160; Beginning on August 1, 2015 through July 31, 2016 
+
+&#160; &#160; 103.875 % Beginning on August 1, 2016 through July 31, 2017 
+
+&#160; &#160; 102.583 % Beginning on August 1, 2017 through July 31, 2018 
+
+&#160; &#160; 101.292 % On August 1, 2018 and thereafter 
+
+&#160; &#160; 100.000 % As of September 27, 2014, the outstanding aggregate principal amount of our 7.75% Notes was $500 million. 
+
+7.50% Senior Notes Due 2022 
+
+On August 15, 2012, we issued $500 million of our 7.50% Senior Notes due 2022 (7.50% Notes). Our 7.50% Notes are our general unsecured senior obligations. Interest is payable on February 15 and August 15 of each year beginning February 15, 2013 until the maturity date of August 15, 2022. Our 7.50% Notes are governed by the terms of an indenture (the 7.50% Indenture) dated August 15, 2012 between us and Wells Fargo Bank, National Association, as trustee. 
+
+At any time before August 15, 2022, we may redeem up to 35% of the aggregate principal amount of our 7.50% Notes within 90 days of the closing of an equity offering with the net proceeds thereof at a redemption price equal to 107.5% of the principal amount thereof, together with accrued and unpaid interest to but excluding the date of redemption. At any time before August 15, 2022, we may redeem some or all of our 7.50% Notes at a price equal to 100% of the principal amount, plus accrued and unpaid interest and a &#147;make whole&#148; premium (as set forth in the 7.50% Indenture). 
+
+As of September 27, 2014, the outstanding aggregate principal amount of our 7.50% Notes was $500 million. 
+
+7.00% Senior Notes Due 2024 
+
+On June 16, 2014, we issued $500 million of 7.00% Notes. The 7.00% Notes are our general unsecured senior obligations. Interest is payable on January 1 and July 1 of each year beginning January 1, 2015 until the maturity date of July 1, 2024. The 7.00% Notes are governed by the terms of an indenture (the 7.00% Indenture) dated June 16, 2014 between us and Wells Fargo Bank, National Association, as trustee. 
+
+At any time before July 1, 2017, we may redeem up to 35% of the aggregate principal amount of the 7.00% Notes within 90 days of the closing of an equity offering with the net proceeds thereof at a redemption price equal to 107.000% of the principal amount thereof, together with accrued and unpaid interest to but excluding the date of redemption. Prior to July 1, 2019, we may redeem some or all of the 7.00% Notes at a price equal to 100% of the principal amount, plus accrued and unpaid interest and a &#147;make whole&#148; premium (as set forth in the 7.00% Indenture). 
+
+Starting July 1, 2019, we may redeem our 7.00% Notes for cash at the following specified prices plus accrued and unpaid interest: 
+
+&#160; 
+
+Period 
+
+&#160; Price as Percentage of Principal Amount &#160; Beginning on July 1, 2019 through June 30, 2020 
+
+&#160; &#160; 103.500 % Beginning on July 1, 2020 through June 30, 2021 
+
+&#160; &#160; 102.333 % Beginning on July 1, 2021 through June 30, 2022 
+
+&#160; &#160; 101.167 % On July 1, 2022 and thereafter 
+
+&#160; &#160; 100.000 % As of September 27, 2014, the outstanding aggregate principal amount of our 7.00% Notes was $500 million. 
+
+Potential Repurchase of Outstanding Notes 
+
+We may elect to purchase or otherwise retire our 6.00% Notes, 6.75% Notes, 7.00% Notes, 7.50% Notes and 7.75% Notes with cash, stock or other assets from time to time in open market or privately negotiated transactions, either directly or through intermediaries, or by tender offer when we believe the market conditions are favorable to do so. Subsequent to September 27, 2014, we repurchased $50 million in principal amount of our 7.75% Notes and $17 million in principal amount of our 7.50% Notes. 
+
+Secured Revolving Line of Credit 
+
+On November 12, 2013, we and our subsidiary, AMD International Sales &#38; Service, Ltd. (together, the Borrowers), entered into a loan and security agreement (the Loan Agreement) for a senior secured asset based line of credit for a principal amount up to $500 million (Secured Revolving Line of Credit) with up to $75 million available for issuance of letters of credit, with a group of lenders and Bank of America, N.A., acting as agent for the lenders (the Agent). Our Secured Revolving Line of Credit matures on November 12, 2018. Borrowings under our Secured Revolving Line of Credit are limited to up to 85% of eligible accounts receivable minus certain reserves and may be used for general corporate purposes, including working capital needs. 
+
+The Borrowers can elect that the borrowings under our Secured Revolving Line of Credit may bear interest at a rate per annum equal to (a) London Interbank Offered Rate (LIBOR) plus an applicable margin ranging from 2.00% to 2.75%, or (b) (i) the greater of (x) the Agent&#146;s prime rate, (y) the federal funds rate as published by the Federal Reserve Bank of New York plus 0.50%, and (z) LIBOR for a one-month period plus 1.00%, plus (ii) an applicable margin ranging from 1.00% to 1.75%. The applicable margin to be applied to the borrowings under our Secured Revolving Line of Credit is dependent on the Borrowers achieving a certain fixed charge coverage ratio. Our Secured Revolving Line of Credit may be optionally prepaid or terminated or unutilized commitments may be reduced, in each case at any time without premium or penalty. In connection with our Secured Revolving Line of Credit, the Borrowers are required to pay an unused line fee equal to 0.50% per annum, payable monthly on the unused amount of the commitments under our Secured Revolving Line of Credit. The unused line fee decreases to 0.375% per annum when more than 50% of our Secured Revolving Line of Credit is utilized. The Borrowers will pay (i) a monthly fee on all letters of credit outstanding under our Secured Revolving Line of Credit equal to the applicable LIBOR margin and (ii) a fronting fee to the Agent equal to 0.125% of all such letters of credit, payable monthly in arrears. 
+
+The obligations under the Loan Agreement are secured by a first priority basis in the Borrowers&#146; account receivable, inventory and certain deposit accounts and specified related assets. 
+
+The Loan Agreement contains covenants that place certain restrictions on the Borrowers&#146; ability to, among other things, amend or modify certain terms of any debt of $50 million or more or subordinated debt, create or suffer to exist any liens upon accounts or inventory, sell or transfer any of Borrowers&#146; accounts or inventory other than certain ordinary-course transfers, make certain changes to either Borrower&#146;s name or form or state of organization without notifying the Agent, or liquidate, dissolve, merge, combine or consolidate. Further restrictions apply during a domestic cash trigger period (a Domestic Cash Trigger Period), which occurs (i) upon an event of default or (ii) when the amount of domestic cash or cash equivalents held in certain accounts is at any time less than $500 million, and ends when both (a) no event of default has existed for 45 days and (b) the amount of domestic cash or cash equivalents held in such accounts has been equal to or greater than $500 million for 45 days. Such restrictions limit the Borrowers&#146; ability to, among other things, allow certain subsidiaries that manufacture or process inventory for the Borrowers to borrow secured debt or unsecured debt beyond a certain amount, create any liens upon 
+
+&#160; 
+
+any of the Borrowers&#146; property (other than customary permitted liens and liens on up to $1.5 billion of secured credit facilities debt (which amount includes our Secured Revolving Line of Credit)), declare or make any distributions, create any encumbrance on the ability of a subsidiary to make any upstream payments, make asset dispositions other than certain ordinary course dispositions, make certain loans, make payments with respect to subordinated debt or certain borrowed money prior to its due date, become a party to certain agreements restricting the Borrowers&#146; ability to incur or repay debt, grant liens, make distributions, or modify loan agreements or enter into any non-arm&#146;s-length transaction with an affiliate. 
+
+During a Domestic Cash Trigger Period, the Borrowers are required to maintain a fixed charge coverage ratio each four-fiscal quarter periods ending on and after March 29, 2014. 
+
+At September 27, 2014, our Secured Revolving Line of Credit had an outstanding loan balance of $55 million, with an interest rate of 2.75%, and up to $445 million remained available for future borrowings. As of September 27, 2014, we were in compliance with all required covenants stated in the Loan Agreement, and we were not in a Domestic Cash Trigger Period. 
+
+The agreements governing our 6.00% Notes, 6.75% Notes, 7.00% Notes, 7.50% Notes and 7.75% Notes and our Secured Revolving Line of Credit contain cross-default provisions whereby a default under one agreement would likely result in cross defaults under agreements covering other borrowings. The occurrence of a default under any of these borrowing arrangements would permit the applicable note holders or the lenders under the Secured Revolving Line of Credit to declare all amounts outstanding under those borrowing arrangements to be immediately due and payable, which would have a material adverse effect on us. 
+
+Other Long-Term Liabilities 
+
+Other long-term liabilities in the contractual obligations table above primarily consists of $74 million of payments due under certain software and technology licenses that will be paid through 2018 and $1 million of payments related to employee compensation and benefit obligations that will be paid through 2019 and beyond. 
+
+Other long-term liabilities in the contractual obligations table above exclude amounts recorded on our condensed consolidated balance sheet that do not require us to make cash payments, which, as of September 27, 2014, primarily consisted of $20 million of deferred gains resulting from certain real estate transactions that occurred in Sunnyvale, California in 1998, in Markham, Ontario, Canada in 2008 and in Singapore in 2013. Deferred rent related to our facilities in Sunnyvale, California of $7 million and accruals related to facility consolidation and site closure costs under our 2012 restructuring plan of $6 million are excluded from other long-term liabilities in the contractual obligations table above as they are included in the operating leases obligations. Also excluded from other long-term liabilities in the contractual obligations table above are $4 million of environmental reserves and $4 million of non-current unrecognized tax benefits, which represent potential cash payments that could be payable by us upon settlements with the related authorities. We have not included these amounts in the contractual obligations table above because we cannot make reasonably reliable estimates regarding the timing of the settlements with the related authorities, if any. 
+
+Capital Lease Obligations 
+
+As of September 27, 2014, we had aggregate outstanding capital lease obligations of $12 million for one of our facilities in Canada, which is payable in monthly installments through 2017. 
+
+Operating Leases 
+
+We lease certain of our facilities and, in some jurisdictions, we lease the land on which our facilities are built under non-cancelable lease agreements that expire at various dates through 2025. We lease certain manufacturing and office equipment for terms ranging from one to five years. Total future non-cancelable lease obligations as of September 27, 2014 were $356 million, including $295 million of future lease payments and estimated operating costs related to the real estate transactions that occurred in Austin, Texas, Sunnyvale, California, and Singapore. 
+
+&#160; 
+
+Purchase Obligations 
+
+Our purchase obligations primarily include our obligations to purchase wafers and substrates from third parties, excluding our wafer purchase commitments to GF under the WSA. As of September 27, 2014, total non-cancelable purchase obligations were $465 million. 
+
+Obligations to GF 
+
+Obligations to GF represent all our contractual obligations to GF through December 31, 2014. As of September 27, 2014, we currently estimate the remaining contractual obligations to GF will be $471 million through December 31, 2014. We are not able to meaningfully quantify or estimate our purchase obligations to GF beyond December 31, 2014, but we expect that our future purchases from GF will continue to be material. 
+
+Off-Balance Sheet Arrangements 
+
+As of September 27, 2014, we had no off-balance sheet arrangements. 
+
+&#160; 
+
+
+
+ ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we face. If any of the following risks actually occurs, our business, financial condition or results of operations could be materially adversely affected. In addition, you should consider the interrelationship and compounding effects of two or more risks occurring simultaneously. 
+
+Intel Corporation&#146;s dominance of the microprocessor market and its aggressive business practices may limit our ability to compete effectively. 
+
+Intel Corporation has dominated the market for microprocessors for many years. Intel&#146;s market share, margins and significant financial resources enable it to market its products aggressively, to target our customers and our channel partners with special incentives and to discipline customers who do business with us. These aggressive activities have in the past and are likely in the future to result in lower unit sales and a lower average selling price for our products and adversely affect our margins and profitability. 
+
+As long as Intel remains in this dominant position, we may be materially adversely affected by Intel&#146;s: 
+
+&#160;
+
+&#160; &#149; &#160; business practices, including rebating and allocation strategies and pricing actions, designed to limit our market share and margins; 
+
+&#160;
+
+&#160; &#149; &#160; product mix and introduction schedules; 
+
+&#160;
+
+&#160; &#149; &#160; product bundling, marketing and merchandising strategies; 
+
+&#160;
+
+&#160; &#149; &#160; exclusivity payments to its current and potential customers and channel partners; 
+
+&#160;
+
+&#160; &#149; &#160; control over industry standards, PC manufacturers and other PC industry participants, including motherboard, memory, chipset and basic input/output system, or BIOS, suppliers and software companies as well as the graphics interface for Intel platforms; and 
+
+&#160;
+
+&#160; &#149; &#160; marketing and advertising expenditures in support of positioning the Intel brand over the brand of its OEM customers. 
+
+Intel exerts substantial influence over computer manufacturers and their channels of distribution through various brand and other marketing programs. As a result of Intel&#146;s dominant position in the microprocessor market, Intel has been able to control x86 microprocessor and computer system standards and benchmarks and to dictate the type of products the microprocessor market requires of us. Intel also dominates the computer system platform, which includes core logic chipsets, graphics chips, motherboards and other components necessary to assemble a computer system. Original equipment manufacturers (OEMs) that purchase microprocessors for computer systems are highly dependent on Intel, less innovative on their own and, to a large extent, are distributors of Intel technology. Additionally, Intel is able to drive de facto standards for x86 microprocessors that could cause us and other companies to have delayed access to such standards. 
+
+Intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on marketing and research and development than we do. We expect Intel to maintain its dominant position and to continue to invest heavily in marketing, research and development, new manufacturing facilities and other technology companies. To the extent Intel manufactures a significantly larger portion of its microprocessor products using more advanced process technologies, or introduces competitive new products into the market before we do, we may be more vulnerable to Intel&#146;s aggressive marketing and pricing strategies for microprocessor products. For example, Intel recently introduced microprocessors for low-cost notebooks, similar to products that we offer for low-cost notebooks. 
+
+&#160; 
+
+Intel could also take actions that place our discrete GPUs at a competitive disadvantage, including giving one or more of our competitors in the graphics and visual solutions market, such as Nvidia Corporation, preferential access to its proprietary graphics interface or other useful information. 
+
+Intel&#146;s dominant position in the microprocessor market and integrated graphics chipset market, its introduction of competitive new products, its existing relationships with top-tier OEMs and its aggressive marketing and pricing strategies could result in lower unit sales and a lower average selling price for our products, which could have a material adverse effect on us. 
+
+The success of our business is dependent upon our ability to introduce products on a timely basis with features and performance levels that provide value to our customers while supporting and coinciding with significant industry transitions. 
+
+Our success depends to a significant extent on the development, qualification, implementation and acceptance of new product designs and improvements that provide value to our customers. Our ability to develop, qualify and distribute, and have manufactured, new products and related technologies to meet evolving industry requirements, at prices acceptable to our customers and on a timely basis are significant factors in determining our competitiveness in our target markets. For example, form factors have increasingly shifted from desktop PCs and notebooks to tablets, and tablets have been one of the fastest growing form factors. Historically, a significant portion of our Computing and Graphics revenue has been related to desktop PCs. Currently, a significant portion of our business is focused on the consumer PC portions of the market, and we believe that consumer PC market conditions will continue to remain challenging. As consumers adopt new form factors, have new product feature preferences or have different requirements than those consumers in the PC market, PC sales could be negatively impacted, which could negatively impact our business. If we fail to or are delayed in developing, qualifying or shipping new products or technologies that provide value to our customers and address these new trends or if we fail to predict which new form factors consumers will adopt, we may lose competitive positioning, which could cause us to lose market share and require us to discount the selling prices of our products. Although we make substantial investments in research and development, we cannot be certain that we will be able to develop, obtain or successfully implement new products and technologies on a timely basis. 
+
+Delays in developing, qualifying or shipping new products can also cause us to miss our customers&#146; product design windows or, in some cases, breach contractual obligations or cause us to pay penalties. If our customers do not include our products in the initial design of their computer systems or products, they will typically not use our products in their systems or products until at least the next design configuration. The process of being qualified for inclusion in a customer&#146;s system or product can be lengthy and could cause us to further miss a cycle in the demand of end-users, which also could result in a loss of market share and harm our business. 
+
+Moreover, market demand requires that products incorporate new features and performance standards on an industry-wide basis. Over the life of a specific product, the sale price is typically reduced over time. The introduction of new products and enhancements to existing products is necessary to maintain the overall corporate average selling price. If we are unable to introduce new products with sufficiently high sale prices or to increase unit sales volumes capable of offsetting the reductions in the sale prices of existing products over time, our business could be materially adversely affected. 
+
+If we cannot generate sufficient revenue and operating cash flow or obtain external financing, we may face a cash shortfall and be unable to make all of our planned investments in research and development or other strategic investments. 
+
+Our ability to fund research and development expenditures depends on generating sufficient revenue and cash flow from operations and the availability of external financing, if necessary. Our research and development expenditures, together with ongoing operating expenses, will be a substantial drain on our cash flow and may decrease our cash balances. If new competitors, technological advances by existing competitors or other competitive factors require us to invest significantly greater resources than anticipated in our research and development efforts, our operating expenses would increase. If we are required to invest significantly greater resources than anticipated in research and development efforts without an increase in revenue, our operating results could decline. 
+
+&#160; 
+
+We regularly assess markets for external financing opportunities, including debt and equity financing. Additional debt or equity financing may not be available when needed or, if available, may not be available on satisfactory terms. The health of the credit markets may adversely impact our ability to obtain financing when needed. Any downgrades from credit rating agencies such as Moody&#146;s or Standard &#38; Poor&#146;s may adversely impact our ability to obtain external financing or the terms of such financing. In addition, credit agency downgrades or concerns regarding our credit worthiness may impact relationships with our suppliers, who may limit our credit lines. Our inability to obtain needed financing or to generate sufficient cash from operations may require us to abandon projects or curtail planned investments in research and development or other strategic initiatives. If we curtail planned investments in research and development or abandon projects, our products may fail to remain competitive and our business would be materially adversely affected. 
+
+We rely on GF to manufacture most of our microprocessor and APU products and certain of our GPU and semi-custom products. If GF is not able to satisfy our manufacturing requirements, our business could be adversely impacted. 
+
+The WSA governs the terms by which we purchase products manufactured by GF. Pursuant to the WSA, we are required to purchase all of our microprocessor and APU product requirements from GF with limited exceptions. If GF is unable to achieve anticipated manufacturing yields, remain competitive using or implementing advanced leading-edge process technologies needed to manufacture future generations of our products, manufacture our products on a timely basis at competitive prices or meet our capacity requirements, then we may experience delays in product launches, supply shortages for certain products or increased costs and our business could be materially adversely affected. 
+
+On March 30, 2014, we entered into a fourth amendment to the WSA with GF. The primary effect of the fourth amendment was to establish volume purchase commitments and fixed pricing for the 2014 calendar year as well as to modify certain other terms of the WSA applicable to wafers for some of our microprocessor, graphics processor and semi-custom game console products to be delivered by GF to us during the 2014 calendar year. If our requirements are less than the number of wafers that we committed to purchase, we could have excess inventory or higher inventory unit costs, both of which will adversely impact our gross margin and our results of operations. 
+
+In addition, GF has relied on Mubadala Technology Investments LLC (Mubadala Tech), formerly known as Advanced Technology Investment Company, for its funding needs. If Mubadala Tech fails to adequately fund GF on a timely basis, or at all, GF&#146;s ability to manufacture products for us could be materially adversely affected. 
+
+We rely on third parties to manufacture our products, and if they are unable to do so on a timely basis in sufficient quantities and using competitive technologies, our business could be materially adversely affected. 
+
+We rely on third-party wafer foundries to fabricate the silicon wafers for all of our products. We also rely on third-party manufacturers to assemble, test, mark and pack certain of our products. It is important to have reliable relationships with all of these third-party manufacturing suppliers to ensure adequate product supply to respond to customer demand. 
+
+We cannot assure you that these manufacturers or our other third-party manufacturing suppliers will be able to meet our near-term or long-term manufacturing requirements. If we experience supply constraints from our third-party manufacturing suppliers, we may be required to allocate the affected products amongst our customers, which could have a material adverse effect on our relationships with these customers and on our financial condition. In addition, if we are unable to meet customer demand due to fluctuating or late supply from our manufacturing suppliers, it could result in lost sales and have a material adverse effect on our business. 
+
+We do not have long-term commitment contracts with some of our third-party manufacturing suppliers. We obtain some of these manufacturing services on a purchase order basis and these manufacturers are not required to provide us with any specified minimum quantity of product beyond the quantities in an existing purchase order. Accordingly, we depend on these suppliers to allocate to us a portion of their manufacturing capacity sufficient to meet our needs, to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to us on a timely basis and at acceptable prices. The manufacturers we use also fabricate wafers and assemble, test and package products for other companies, including certain of our competitors. They could choose to prioritize capacity for other users, increase the prices that they charge us on short notice or reduce or eliminate deliveries to us, which could have a material adverse effect on our business. 
+
+&#160; 
+

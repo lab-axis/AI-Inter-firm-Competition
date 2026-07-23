@@ -1,0 +1,164 @@
+ ITEM 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+This information should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in Part I, Item 1 of this Quarterly Report on Form 10-Q and the audited consolidated financial statements and related notes and Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended October 29, 2022 (fiscal 2022). 
+
+This Quarterly Report on Form 10-Q, including the following discussion, contains forward-looking statements regarding future events and our future results that are subject to the safe harbor created under the Private Securities Litigation Reform Act of 1995 and other safe harbors under the Securities Act of 1933 and the Securities Exchange Act of 1934. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. These statements are based on current expectations, estimates, forecasts and projections about the industries in which we operate and the beliefs and assumptions of our management. Words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;targets,&#8221; &#8220;goals,&#8221; &#8220;projects,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;estimates,&#8221; &#8220;continues,&#8221; &#8220;potential,&#8221; &#8220;may,&#8221; &#8220;could&#8221; and &#8220;will,&#8221; and variations of such words and similar expressions are intended to identify such forward-looking statements. In addition, any statements that refer to projections regarding our future financial performance or results; our anticipated growth and trends in our businesses; the effects of business, economic, political, legal and regulatory impacts or conflicts upon our global operations ; changes in demand for semiconductors and the related changes in demand and supply for our products; manufacturing delays, product availability and supply chain disruptions; our ability to recruit or retain our key personnel; our future liquidity, capital needs and capital expenditures; our development of technologies and processes and research and development investments; our future market position and expected competitive changes in the marketplace for our products; the anticipated result of litigation matters; our plans to pay dividends or repurchase stock; servicing our outstanding debt, including our plans to offer to exchange existing unregistered notes for new registered notes; our plans to borrow under our Revolving Credit Agreement and issue notes under our commercial paper program and the planned use of proceeds from such borrowing and issuing; our expected tax rate; the effect of changes in or the application of new or revised tax laws; expected cost savings; the effect of new accounting pronouncements; our plans to integrate or realize the benefits or synergies expected of acquired businesses and technologies; our continued initiatives to consolidate our footprint related to our business units; and other characterizations of future events or circumstances are forward-looking statements. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors. 
+
+The following important factors and uncertainties, among others, could cause results to differ materially from those described in the forward-looking statements: political and economic uncertainty, including any faltering in global economic conditions or the stability of credit and financial markets; erosion of consumer confidence and declines in customer spending or cancellations of orders for our products; unavailability of raw materials, services, supplies or manufacturing capacity; disruptions to our manufacturing operations or our ability to execute our business strategy; changes in geographic, product or customer mix; changes in export classifications, import and export regulations or duties and tariffs; changes in our estimates of our expected tax rates based on current tax law; adverse results in litigation matters; the risk that we will be unable to retain and hire key personnel including as a result of labor shortages; changes in demand for semiconductors; attempted or actual security breaches and other cybersecurity incidents that disrupt our operations; unanticipated difficulties or expenditures relating to integrating Maxim Integrated Products, Inc. (Maxim); uncertainty as to the long-term value of our common stock; the discretion of our board of directors to declare dividends and our ability to pay dividends in the future; factors impacting our ability to repurchase shares; the diversion of management time on integrating Maxim's business and operations; our ability to successfully integrate acquired business and technologies, including Maxim; and the risk that expected benefits, synergies and growth prospects of acquisitions, including our acquisition of Maxim, may not be fully achieved in a timely manner, or at all. Additional factors that could cause actual results to differ materially from those in these forward-looking statements include the risk factors included in Part I, Item 1A, &#8220;Risk Factors&#8221; of our Annual Report on Form 10-K for fiscal 2022 and, if applicable, those included under Part II, Item 1A of this Quarterly Report on Form 10-Q. We undertake no obligation to revise or update any forward-looking statements, including to reflect events or circumstances occurring after the date of the filing of this report, except to the extent required by law. 
+
+Results of Operations 
+
+Overview 
+
+(all tabular amounts in thousands except per share amounts and percentages) &#160; Three Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change Revenue $ 3,076,495 $ 3,109,880 $ (33,385) (1) % Gross margin % 63.8 % 65.7 % Net income $ 877,019 $ 748,985 $ 128,034 17 % Net income as a % of revenue 28.5 % 24.1 % Diluted EPS $ 1.74 $ 1.44 $ 0.30 21 % Nine Months Ended July 29, 2023 July 30, 2022 $ Change % Change Revenue $ 9,589,055 $ 8,766,237 $ 822,818 9 % Gross margin % 65.0 % 61.5 % Net income $ 2,816,149 $ 1,812,335 $ 1,003,814 55 % Net income as a % of revenue 29.4 % 20.7 % Diluted EPS $ 5.55 $ 3.45 $ 2.10 61 % 
+
+Revenue Trends by End Market 
+
+The following tables summarize revenue by end market. The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the &#8220;sold to&#8221; customer information, the &#8220;ship to&#8221; customer information and the end customer product or application into which our product will be incorporated. As data systems for capturing and tracking this data and our methodology evolves and improves, the categorization of products by end market can vary over time. When this occurs, we reclassify revenue by end market for prior periods. Such reclassifications typically do not materially change the sizing of, or the underlying trends of revenue within, each end market. 
+
+Three Months Ended &#160; July 29, 2023 July 30, 2022 &#160; Revenue % of Revenue* Y/Y% Revenue % of Revenue* Industrial $ 1,629,201 53 % 4 % $ 1,566,885 50 % Automotive 747,554 24 % 15 % 648,153 21 % Communications 380,504 12 % (23) % 491,515 16 % Consumer 319,236 10 % (21) % 403,327 13 % Total revenue $ 3,076,495 100 % (1) % $ 3,109,880 100 % Nine Months Ended July 29, 2023 July 30, 2022 Revenue % of Revenue* Y/Y% Revenue % of Revenue* Industrial $ 5,092,879 53 % 15 % $ 4,439,232 51 % Automotive 2,226,277 23 % 23 % 1,810,803 21 % Communications 1,319,931 14 % (4) % 1,378,352 16 % Consumer 949,968 10 % (17) % 1,137,850 13 % Total revenue $ 9,589,055 100 % 9 % $ 8,766,237 100 % * The sum of the individual percentages may not equal the total due to rounding. 
+
+Revenue decreased 1% in the three-month period ended July 29, 2023 as compared to the same period of the prior fiscal year, primarily the result of a decrease in revenue in the Consumer end market, primarily due to weakening market trends and a decrease in revenue in the Communications end market due to the timing of infrastructure deployment cycles, partially offset by 
+
+increases in our Industrial end market, namely sustainable energy and aerospace and defense and our Automotive end market, namely cabin electronics and battery management systems. 
+
+Revenue increased 9% in the nine-month period ended July 29, 2023 as compared to the same period of the prior fiscal year, primarily the result of broad-based demand for our products sold into the Industrial end market, namely sustainable energy and aerospace and defense and the Automotive end market, namely cabin electronics and battery management systems, partially offset by a decrease in revenue in the Consumer end market primarily due to weakening market trends and a decrease in revenue in the Communications end market due to the timing of infrastructure deployment cycles. 
+
+Revenue by Sales Channel 
+
+The following tables summarize revenue by sales channel. We sell our products globally through a direct sales force, third party distributors, independent sales representatives and via our website. Distributors are customers that buy products with the intention of reselling them. Direct customers are non-distributor customers and consist primarily of original equipment manufacturers. Other customers include the U.S. government, government prime contractors and certain commercial customers for which revenue is recorded over time. Three Months Ended July 29, 2023 July 30, 2022 Revenue % of Revenue* Revenue % of Revenue* Channel Distributors $ 1,904,496 62 % $ 1,922,982 62 % Direct customers 1,126,796 37 % 1,146,538 37 % Other 45,203 1 % 40,360 1 % Total revenue $ 3,076,495 100 % $ 3,109,880 100 % Nine Months Ended July 29, 2023 July 30, 2022 Revenue % of Revenue* Revenue % of Revenue* Channel Distributors $ 5,912,229 62 % $ 5,426,024 62 % Direct customers 3,547,116 37 % 3,241,429 37 % Other 129,710 1 % 98,784 1 % Total revenue $ 9,589,055 100 % $ 8,766,237 100 % * The sum of the individual percentages may not equal the total due to rounding. 
+
+As indicated in the tables above, the percentage of total revenue sold via each channel has remained relatively consistent in the periods presented, but can fluctuate from time to time based on end customer demand. 
+
+Gross Margin &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change Gross margin $ 1,961,615 $ 2,043,142 $ (81,527) (4) % $ 6,230,502 $ 5,389,659 $ 840,843 16 % Gross margin % 63.8 % 65.7 % 65.0 % 61.5 % 
+
+Gross margin percentage decreased by 190 basis points and increased by 350 basis points in the three- and nine-month periods ended July 29, 2023, respectively, as compared to the same periods of the prior fiscal year. The decrease in the three-month period ended July 29, 2023 primarily relates to lower utilization of our factories due to decreased customer demand. The increase in the nine-month period ended July 29, 2023 was primarily the result of additional cost of goods sold of $271.4 million related to a nonrecurring fair value adjustment recorded to inventory in the nine-month period ended July 30, 2022 as a result of the acquisition of Maxim Integrated Products, Inc. (Maxim). 
+
+Research and Development (R&#38;D) &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change R&#38;D expenses $ 423,751 $ 431,829 $ (8,078) (2) % $ 1,253,600 $ 1,279,510 $ (25,910) (2) % R&#38;D expenses as a % of revenue 14 % 14 % 13 % 15 % 
+
+R&#38;D expenses decreased both in the three- and nine-month periods ended July 29, 2023, as compared to the same periods of the prior fiscal year. The decrease in the three-month period was primarily the result of lower R&#38;D employee-related variable compensation expenses, partially offset by higher salary and benefit expenses. The decrease in the nine-month period was primarily the result of lower R&#38;D employee-related variable compensation expenses. 
+
+R&#38;D expenses as a percentage of revenue will fluctuate from year-to-year depending on the amount of revenue and the success of new product development efforts, which we view as critical to our future growth. We expect to continue the development of innovative technologies and processes for new products. We believe that a continued commitment to R&#38;D is essential to maintain product leadership with our existing products as well as to provide innovative new product offerings. 
+
+Selling, Marketing, General and Administrative (SMG&#38;A) &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change SMG&#38;A expenses $ 334,113 $ 326,942 $ 7,171 2 % $ 984,648 $ 929,615 $ 55,033 6 % SMG&#38;A expenses as a % of revenue 11 % 11 % 10 % 11 % 
+
+SMG&#38;A expenses increased in both the three- and nine-month periods ended July 29, 2023, as compared to the same periods of the prior fiscal year, primarily the result of higher salary and benefit expenses and discretionary spending, partially offset by lower SMG&#38;A employee-related variable compensation expenses and acquisition-related transaction costs. 
+
+Amortization of Intangibles 
+
+&#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change Amortization expenses $ 250,719 $ 252,864 $ (2,145) (1) % $ 756,882 $ 759,707 $ (2,825) &#8212; % Amortization expenses as a % of revenue 8 % 8 % 8 % 9 % 
+
+Amortization expenses were relatively flat in both the three- and nine-month periods ended July 29, 2023, as compared to the same periods of the prior fiscal year. 
+
+Special Charges, Net 
+
+&#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change Special charges, net $ 23,539 $ 138,201 $ (114,662) (83) % $ 46,675 $ 244,603 $ (197,928) (81) % Special charges, net as a % of revenue 1 % 4 % &#8212; % 3 % 
+
+Special charges, net decreased in both the three- and nine-month periods ended July 29, 2023, as compared to the same periods of the prior fiscal year, primarily the result of higher charges recorded in fiscal 2022 as part of the integration of Maxim and continued organizational initiatives to better align our global workforce with our long-term strategic plan. 
+
+Operating Income &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change Operating income $ 929,493 $ 893,306 $ 36,187 4 % $ 3,188,697 $ 2,176,224 $ 1,012,473 47 % Operating income as a % of revenue 30.2 % 28.7 % 33.3 % 24.8 % 
+
+The year-over-year increase in operating income in the three-month period ended July 29, 2023 was primarily the result of decreases of $114.7 million in special charges, net and $8.1 million in R&#38;D expenses, partially offset by decreases in gross margin of $81.5 million and an increase of $7.2 million in SMG&#38;A expenses. 
+
+The year-over-year increase in operating income in the nine-month period ended July 29, 2023 was primarily the result of an increase in revenue of $822.8 million and an increase in gross margin percent, which contributed to an increase in gross margin of $840.8 million, and decreases of $197.9 million in special charges, net and $25.9 million in R&#38;D expenses, partially offset by an increase of $55.0 million in SMG&#38;A expenses . 
+
+Nonoperating Expense (Income) &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change July 29, 2023 July 30, 2022 $ Change Total nonoperating expense (income) $ 54,672 $ 45,369 $ 9,303 $ 152,480 $ 125,487 $ 26,993 
+
+The year-over-year increase in nonoperating expense (income) in the three-month period ended July 29, 2023 as compared to the same period of the prior year was the result of higher interest expense related to our debt obligations partially offset by higher interest income. 
+
+The year-over-year increase in nonoperating expense (income) in the nine-month period ended July 29, 2023 as compared to the same period of the prior year was the result of higher interest expense related to our debt obligations and lower net gains from other investments partially offset by higher interest income. 
+
+(Benefit from) Provision for Income Taxes &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change July 29, 2023 July 30, 2022 $ Change (Benefit from) provision for income taxes $ (2,198) $ 98,952 $ (101,150) $ 220,068 $ 238,402 $ (18,334) Effective income tax rate (0.3) % 11.7 % 7.2 % 11.6 % 
+
+The effective tax rates for both the three- and nine-month periods ended July 29, 2023 and July 30, 2022 were below the U.S. statutory tax rate of 21% due to lower statutory tax rates applicable to our operations in the foreign jurisdictions in which we earn income. Our pretax income for the three- and nine-month periods ended July 29, 2023 and July 30, 2022 was primarily generated in Ireland at a tax rate of 12.5%. The Company's effective tax rate for the three- and nine-month periods ended July 29, 2023 also included the effects of the mandatory capitalization and amortization of research and development expenses which began in fiscal 2023 under the Tax Cuts and Jobs Act. The mandatory capitalization requirement decreased our effective tax rate primarily by increasing the foreign-derived intangible income deduction. 
+
+Our effective tax rate for the third quarter of fiscal 2023 was also impacted by a discrete income tax benefit recorded of $81.1 million resulting from the approval granted by the Joint Committee on Taxation of our federal corporate income tax relief claim which reduced the amount of transition tax owed under the Tax Cuts and Jobs Act. 
+
+See Note 13, Income Taxes , in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion. 
+
+Net Income &#160; Three Months Ended Nine Months Ended &#160; July 29, 2023 July 30, 2022 $ Change % Change July 29, 2023 July 30, 2022 $ Change % Change Net income $ 877,019 $ 748,985 $ 128,034 17 % $ 2,816,149 $ 1,812,335 $ 1,003,814 55 % Net income as a % of revenue 28.5 % 24.1 % 29.4 % 20.7 % Diluted EPS $ 1.74 $ 1.44 $ 5.55 $ 3.45 
+
+Net income increased in the three-month period ended July 29, 2023, as compared to the same period of the prior fiscal year, the result of a $36.2 million increase in operating income and a $101.2 million decrease in (benefit from) provision for income taxes, partially offset by a $9.3 million increase in nonoperating expense (income). 
+
+Net income increased in the nine-month period ended July 29, 2023, as compared to the same period of the prior fiscal year, the result of a $1,012.5 million increase in operating income and a $18.3 million decrease in (benefit from) provision for income taxes, partially offset by a $27.0 million increase in nonoperating expense (income). 
+
+Liquidity and Capital Resources 
+
+At July 29, 2023, our principal source of liquidity was $1,149.2 million of cash and cash equivalents, of which approximately $253.9 million was held in the United States, and the balance of our cash and cash equivalents was held outside the United States in various foreign subsidiaries. We manage our worldwide cash requirements by, among other things, reviewing available funds held by our foreign subsidiaries and the cost effectiveness by which those funds can be accessed in the United States. We do not expect current regulatory restrictions or taxes on repatriation to have a material adverse effect on our overall liquidity, financial condition or results of operations. Our cash and cash equivalents consist of highly liquid investments with maturities of three months or less, including money market funds. We maintain these balances with counterparties with high credit ratings, and continually monitor the amount of credit exposure to any one issuer and diversify our investments in order to minimize our credit risk. 
+
+We believe that our existing sources of liquidity and cash expected to be generated from future operations, together with existing and anticipated available short- and long-term financing, will be sufficient to fund operations, capital expenditures, research and development efforts and dividend payments (if any) in the immediate future and for at least the next twelve months. &#160; Nine Months Ended &#160; July 29, 2023 July 30, 2022 Net cash provided by operating activities $ 3,630,340 $ 3,326,066 Net cash provided by operations as a % of revenue 38 % 38 % Net cash used for investing activities $ (787,324) $ (351,035) Net cash used for financing activities $ (3,164,342) $ (3,403,860) 
+
+The following changes contributed to the net change in cash and cash equivalents in the nine-month period ended July 29, 2023 as compared to the same period in fiscal 2022. 
+
+Operating Activities 
+
+Cash provided by operating activities is net income adjusted for certain non-cash items and changes in operating assets and liabilities. The increase in cash provided by operating activities during the nine-month period ended July 29, 2023, as compared to the same period of the prior fiscal year, was the result of higher net income adjusted for noncash items offset by changes in working capital. 
+
+Investing Activities 
+
+Investing cash flows generally consist of capital expenditures and cash used for acquisitions. The increase in cash used for investing activities during the nine-month period ended July 29, 2023, as compared to the same period of the prior fiscal year, was primarily the result of an increase in cash used for capital expenditures. 
+
+Financing Activities 
+
+Financing cash flows generally consist of payments of dividends to stockholders, repurchases of common stock, issuance and repayment of debt and proceeds from the sale of shares of common stock pursuant to employee equity incentive plans. The decrease in cash used for financing activities during the nine-month period ended July 29, 2023, as compared to the same 
+
+period of the prior fiscal year, was primarily the result of higher net proceeds from the issuance of commercial paper notes and lower debt repayments, partially offset by higher common stock repurchases. 
+
+Working Capital July 29, 2023 October 29, 2022 $ Change % Change Accounts receivable $ 1,616,243 $ 1,800,462 $ (184,219) (10) % Days sales outstanding* 48 50 Inventory $ 1,709,313 $ 1,399,914 $ 309,399 22 % Days cost of sales in inventory* 137 107 
+
+_______________________________________ 
+
+* We use the average of the current quarter and prior quarter ending net accounts receivable and ending inventory balance in our calculation of days sales outstanding and days cost of sales in inventory, respectively. Cost of sales amounts used in the calculation of days cost of sales in inventory include accounting adjustments related to amortization of developed technology intangible assets acquired and depreciation related to the write-up of fixed assets to fair value as a result of the acquisition of Maxim. 
+
+The decrease in accounts receivable in dollars was primarily the result of variations in the timing of collections and billings. 
+
+Inventory increased primarily as a result of our efforts to balance manufacturing production, demand and inventory levels. Our inventory levels are impacted by our need to support forecasted sales demand and variations between those forecasts and actual demand. 
+
+Current liabilities increased to $2,831.0 million at July 29, 2023 as compared to $2,442.7 million at the end of fiscal 2022 due to an increase in commercial paper notes and income taxes payable, partially offset by lower accrued liabilities. 
+
+Debt 
+
+As of July 29, 2023, our debt obligations consisted of the following: Principal Amount Outstanding 2024 Notes, due October 2024 $ 500,000 2025 Notes, due April 2025 400,000 2026 Notes, due December 2026 900,000 2027 Notes, due June 2027 440,212 2028 Notes, due October 2028 750,000 2031 Notes, due October 2031 1,000,000 2032 Notes, due October 2032 300,000 2036 Notes, due December 2036 144,278 2041 Notes, due October 2041 750,000 2045 Notes, due December 2045 332,587 2051 Notes, due October 2051 1,000,000 Total debt $ 6,517,077 
+
+The indentures governing our outstanding notes contain covenants that may limit our ability to: incur, create, assume or guarantee any debt for borrowed money secured by a lien upon a principal property; enter into sale and lease-back transactions with respect to a principal property; and consolidate with or merge into, or transfer or lease all or substantially all of our assets to, any other party. As of July 29, 2023, we were in compliance with these covenants. 
+
+Commercial Paper Program 
+
+On April 14, 2023, we established a commercial paper program under which we may issue short-term, unsecured commercial paper notes in amounts up to a maximum aggregate face amount of $2.5 billion outstanding at any time, with maturities up to 397 days from the date of issuance. As of July 29, 2023, we had $544.7 million of outstanding borrowings under the commercial paper program recorded in the Condensed Consolidated Balance Sheet. We intend to use the net proceeds of the commercial paper program for general corporate purposes, including without limitation, repayment of indebtedness, stock repurchases, acquisitions, capital expenditures and working capital. 
+
+Revolving Credit Facility 
+
+Our Third Amended and Restated Revolving Credit Agreement, dated as of June 23, 2021 and as amended (Revolving Credit Agreement), provides for a five year unsecured revolving credit facility in an aggregate principal amount not to exceed $2.5 billion (subject to certain terms and conditions). 
+
+We may borrow under this revolving credit facility in the future and use the proceeds for repayment of existing indebtedness, stock repurchases, acquisitions, capital expenditures, working capital and other lawful corporate purposes. The terms of the Revolving Credit Agreement impose restrictions on our ability to undertake certain transactions, to create certain liens on assets and to incur certain subsidiary indebtedness. In addition, the Revolving Credit Agreement contains a consolidated leverage ratio covenant of total consolidated funded debt to consolidated earnings before interest, taxes, depreciation, and amortization (EBITDA) of not greater than 3.5 to 1.0. As of July 29, 2023, we were in compliance with these covenants. 
+
+Stock Repurchase Program 
+
+In the aggregate, our Board of Directors has authorized us to repurchase $16.7 billion of our common stock under our common stock repurchase program. Unless terminated earlier by resolution of our Board of Directors, the repurchase program will expire when we have repurchased all shares authorized under the program. As of July 29, 2023, an additional $2.6 billion remains available for repurchase under the current authorized program. The repurchased shares are held as authorized but unissued shares of common stock. We also repurchase shares in settlement of employee tax withholding obligations due upon the vesting of restricted stock units/awards or the exercise of stock options as well as for our employee stock purchase plan. Future repurchases of common stock will be dependent upon our financial position, results of operations, outlook, liquidity and other factors we deem relevant. 
+
+Capital Expenditures 
+
+Net additions to property, plant and equipment were $785.1 million in the first nine months of fiscal 2023. We expect capital expenditures for fiscal 2023 to be between approximately 7% to 9% of revenue, which is above our historical levels primarily due to our plans to expand internal manufacturing capacity. These capital expenditures will be funded with a combination of cash on hand and cash expected to be generated from future operations, together with existing and anticipated available short- and long-term financing. 
+
+Dividends 
+
+On August 22, 2023, our Board of Directors declared a cash dividend of $0.86 per outstanding share of common stock. The dividend will be paid on September 14, 2023 to all shareholders of record at the close of business on September 5, 2023 and is expected to total approximately $428.6 million. We currently expect quarterly dividends to continue in future periods. The payment of any future quarterly dividends, or a future increase in the quarterly dividend amount, will be at the discretion of the Board and will be dependent upon our financial position, results of operations, outlook, liquidity and other factors deemed relevant by the Board. 
+
+Contractual Obligations 
+
+There have not been any material changes during the nine-month period ended July 29, 2023 to the amounts presented in the table summarizing our contractual obligations included in our Annual Report on Form 10-K for the fiscal year ended October 29, 2022. 
+
+New Accounting Pronouncements 
+
+From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board that are adopted by us as of the specified effective date. Unless otherwise discussed, management believes that the impact of recently issued standards will not have a material impact on our future financial condition and results of operations. See Note 14, New Accounting Pronouncements, in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for a description of recently issued and adopted accounting pronouncements, including the dates of adoption and impact on our historical financial condition and results of operations. 
+
+Critical Accounting Policies and Estimates 
+
+There were no material changes in the nine-month period ended July 29, 2023 to the information provided under the heading &#8220;Critical Accounting Policies and Estimates&#8221; in the section entitled &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; of our Annual Report on Form 10-K for the fiscal year ended October 29, 2022. 
+
+
+
+ ITEM 1A. Risk Factors 
+
+We are subject to a number of risks that could adversely affect our business, results of operations, financial condition and future prospects, including those identified in Part I, Item 1A, &#8220;Risk Factors&#8221; of our Annual Report on Form 10-K for the fiscal year ended October 29, 2022, which was filed with the Securities and Exchange Commission on November 22, 2022. 
+

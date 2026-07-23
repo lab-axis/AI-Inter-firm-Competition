@@ -1,0 +1,676 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion should be read in conjunction with the condensed consolidated financial statements and notes thereto. 
+
+In addition to historical information, this Quarterly Report on Form 10-Q contains forward-looking statements, including statements regarding product plans, future growth, market opportunities, fluctuations in foreign currency exchange rates, strategic investments, industry positioning, customer acquisition and retention, the amount of annualized recurring revenue, revenue growth and anticipated impacts on our business of the ongoing COVID-19 pandemic and related public health measures. In addition, when used in this report, the words &#8220;will,&#8221; &#8220;expects,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;may,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;targets,&#8221; &#8220;estimates,&#8221; &#8220;looks for,&#8221; &#8220;looks to,&#8221; &#8220;continues&#8221; and similar expressions, as well as statements regarding our focus for the future, are generally intended to identify forward-looking statements. Each of the forward-looking statements we make in this report involves risks and uncertainties that could cause actual results to differ materially from these forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in the section titled &#8220;Risk Factors&#8221; in Part II, Item 1A of this report. The risks described herein and in other documents we file from time to time with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;), including our Annual Report on Form 10-K for fiscal 2022, should be carefully reviewed. Undue reliance should not be placed on these forward-looking statements, which speak only as of the date of this Quarterly Report on Form 10-Q. We undertake no obligation to publicly release any revisions to the forward-looking statements or reflect events or circumstances after the date of this document, except as required by law. 
+
+BUSINESS OVERVIEW 
+
+Founded in 1982, Adobe is one of the largest and most diversified software companies in the world. We offer a line of products and services used by creative professionals, including photographers, video editors, graphic and experience designers and game developers; communicators, including content creators, students, marketers and knowledge workers; businesses of all sizes; and consumers for creating, managing, delivering, measuring, optimizing, engaging and transacting with compelling content and experiences across personal computers, smartphones, other electronic devices and digital media formats. 
+
+We market our products and services directly to enterprise customers through our sales force and local field offices. We license our products to end users through app stores and our own website at www.adobe.com. We offer many of our products via a Software-as-a-Service (&#8220;SaaS&#8221;) model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models. We also distribute certain products and services through a network of distributors, value-added resellers, systems integrators, independent software vendors, retailers, software developers and original equipment manufacturers (&#8220;OEMs&#8221;). In addition, we license our technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our products run on desktop and laptop computers, smartphones, tablets, other devices and the web, depending on the product. We have operations in the Americas; Europe, Middle East and Africa (&#8220;EMEA&#8221;); and Asia-Pacific (&#8220;APAC&#8221;). 
+
+Adobe was originally incorporated in California in October 1983 and was reincorporated in Delaware in May 1997. Our executive offices and principal facilities are located at 345 Park Avenue, San Jose, California 95110-2704. Our telephone number is 408-536-6000 and our website is www.adobe.com. Investors can obtain copies of our SEC filings from our website free of charge, as well as from the SEC website at www.sec.gov. The information posted to our website is not incorporated into this Quarterly Report on Form 10-Q. 
+
+OPERATIONS OVERVIEW 
+
+For our first quarter of fiscal 2023, we experienced strong demand across our Digital Media and Digital Experience offerings, driven by the ongoing shift towards a digital-first world. As we execute on our long-term growth initiatives, we have continued to experience growth in software-based subscription revenue across our portfolio of offerings. 
+
+Digital Media 
+
+In our Digital Media segment, we are a market leader with Creative Cloud, our subscription-based offering which provides desktop tools, mobile apps and cloud-based services for designing, creating and publishing rich content and immersive 3D experiences. Creative Cloud includes Adobe Express, a web and mobile application designed to enable a broad spectrum of users, including novice content creators, communicators and creative professionals, to create, edit and customize content quickly and easily with content-first, task-based solutions. Creative Cloud delivers value with deep, cross-product integration, frequent product updates and feature enhancements, cloud-enabled services including storage and syncing of files across users&#8217; devices, machine learning and artificial intelligence, access to marketplace, social and community-based features with our 
+
+Adobe Stock and Behance services, app creation capabilities, tools which assist with enterprise deployments and team collaboration, and affordable pricing for cost-sensitive customers. 
+
+We offer Creative Cloud for individuals, students, teams and enterprises. We expect Creative Cloud will drive sustained long-term revenue growth through a continued expansion of our customer base by attracting new users with new features and products like Adobe Express that make creative tools accessible to first-time creators and communicators, and delivering new features and technologies to existing customers with our latest releases such as share for review. We have also built out a marketplace for Creative Cloud subscribers to enable the delivery and purchase of stock content in our Adobe Stock service. Overall, our strategy with Creative Cloud is designed to enable us to increase our revenue with existing users, continue to attract new customers, and grow our recurring and predictable revenue stream that is recognized ratably. 
+
+We continue to implement strategies that are designed to accelerate awareness, consideration and purchase of subscriptions to our Creative Cloud offerings. These strategies include increasing the value Creative Cloud users receive, such as offering new desktop, web and mobile applications, as well as targeted promotions and offers that attract past customers and potential users to experience and ultimately subscribe to Creative Cloud. Because of the shift towards Creative Cloud subscriptions and Enterprise Term License Agreements (&#8220;ETLAs&#8221;), revenue from perpetual licensing of our Creative products has been immaterial to our business. 
+
+We are also a market leader with our Document Cloud offerings built around our Adobe Acrobat family of products, with a set of integrated mobile apps and cloud-based document services which enable users to create, review, approve, sign and track documents regardless of platform or application source type. Document Cloud, which enhances the way people manage critical documents at home, in the office and across devices, includes Adobe Acrobat, Adobe Acrobat Sign and Adobe Scan. Adobe Acrobat is offered both through subscription and perpetual licenses, and is also included in our Creative Cloud all apps subscription offering. 
+
+As part of our Creative Cloud and Document Cloud strategies, we utilize a data-driven operating model (&#8220;DDOM&#8221;) and our Adobe Experience Cloud solutions to raise awareness of our products, drive new customer acquisition, engagement and retention, and optimize customer journeys, and it continues to contribute strong growth in the business. 
+
+Annualized Recurring Revenue (&#8220;ARR&#8221;) is currently the key performance metric our management uses to assess the health and trajectory of our overall Digital Media segment. ARR should be viewed independently of revenue, deferred revenue and remaining performance obligations as ARR is a performance metric and is not intended to be combined with any of these items. We adjust our reported ARR on an annual basis to reflect any exchange rate changes. Our reported ARR results in the current fiscal year are based on currency rates set at the beginning of the year and held constant throughout the year for measurement purposes. We calculate ARR as follows: 
+
+Creative ARR Annual Value of Creative Cloud Subscriptions and Services + Annual Creative ETLA Contract Value Document Cloud ARR Annual Value of Document Cloud Subscriptions and Services + Annual Document Cloud ETLA Contract Value Digital Media ARR Creative ARR + Document Cloud ARR 
+
+Creative ARR exiting the first quarter of fiscal 2023 was $11.28 billion, up from $10.98 billion at the end of fiscal 2022. Document Cloud ARR exiting the first quarter of fiscal 2023 was $2.39 billion, up from $2.28 billion at the end of fiscal 2022. Total Digital Media ARR grew to $13.67 billion at the end of the first quarter of fiscal 2023, up from $13.26 billion at the end of fiscal 2022. 
+
+Our success in driving growth in ARR has positively affected our revenue growth. Creative revenue in the first quarter of fiscal 2023 was $2.76 billion, up from $2.55 billion in the first quarter of fiscal 2022, representing 8% year-over-year growth. Document Cloud revenue in the first quarter of fiscal 2023 was $634 million, up from $562 million in the first quarter of fiscal 2022, representing 13% year-over-year growth. Total Digital Media segment revenue grew to $3.40 billion in the first quarter of fiscal 2023, up from $3.11 billion in the first quarter of fiscal 2022, representing 9% year-over-year growth driven by strong net new user growth. 
+
+Digital Experience 
+
+We are a market leader in the fast-growing category addressed by our Digital Experience segment. The Adobe Experience Cloud applications, services and platform are designed to manage customer journeys, enable personalized experiences at scale and deliver intelligence for businesses of any size in any industry. Our differentiation and competitive advantage are strengthened by our ability to use the Adobe Experience Platform to integrate our comprehensive set of solutions. 
+
+Adobe Experience Cloud delivers solutions for our customers across the following strategic growth pillars: 
+
+&#8226; Data insights and activation . Our solutions, including Adobe Analytics, Adobe Experience Platform, Customer Journey Analytics, Adobe Audience Manager and our Real-time Customer Data Platform, deliver robust customer profiles and AI-powered analytics across the customer journey to provide timely, relevant experiences across platforms. 
+
+&#8226; Content and commerce . Our solutions help customers manage, deliver and optimize content delivery through Adobe Experience Manager, and enable shopping experiences that scale from mid-market to enterprise businesses with Adobe Commerce. 
+
+&#8226; Customer journeys . Our solutions help businesses manage, test, target, personalize and orchestrate campaigns and customer journeys across B2E use cases, including through Marketo Engage, Adobe Campaign, Adobe Target and Journey Optimizer. 
+
+&#8226; Marketing planning and workflow. We offer Adobe Workfront, a work management platform directed toward marketers to orchestrate campaign workflows. 
+
+In addition to chief marketing officers, chief revenue officers and digital marketers, users of our Digital Experience solutions include advertisers, campaign managers, publishers, data analysts, content managers, social marketers, marketing executives and information management and technology executives. These customers often are involved in workflows that utilize other Adobe products, such as our Digital Media offerings. By combining the creativity of our Digital Media business with the science of our Digital Experience business, we help our customers to more efficiently and effectively make, manage, measure and monetize their content across every channel with an end-to-end workflow and feedback loop. 
+
+We utilize a direct sales force to market and license our Digital Experience solutions, as well as an extensive ecosystem of partners, including marketing agencies, systems integrators and independent software vendors that help license and deploy our solutions to their customers. We have made significant investments to broaden the scale and size of all of these routes to market, and our recent financial results reflect the success of these investments. 
+
+Digital Experience revenue was $1.18 billion in the first quarter of fiscal 2023, up from $1.06 billion in the first quarter of fiscal 2022, representing 11% year-over-year growth. Driving this increase was the increase in subscription revenue, which grew to $1.04 billion in the first quarter of fiscal 2023 from $932 million in the first quarter of fiscal 2022, representing 12% year-over-year growth. 
+
+Macroeconomic Conditions 
+
+As a corporation with an extensive global footprint, we are subject to risks and exposures from the evolving macroeconomic environment, including the effects of increased global inflationary pressures and interest rates, fluctuations in foreign currency exchange rates, potential economic slowdowns or recessions, the COVID-19 pandemic and geopolitical pressures, including the unknown impacts of current and future trade regulations and the Russia-Ukraine war. We continuously monitor the direct and indirect impacts of these circumstances on our business and financial results. For example, foreign currency exchange rate fluctuations have negatively impacted our revenue and earnings during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022, and may continue to negatively impact our financial results for the remainder of fiscal 2023. 
+
+While our revenue and earnings are relatively predictable as a result of our subscription-based business model, the broader implications of these macroeconomic events on our business, results of operations and overall financial position, particularly in the long term, remain uncertain. See Risk Factors for further discussion of the possible impact of these macroeconomic issues on our business. 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+
+In preparing our condensed consolidated financial statements in accordance with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221;) and pursuant to the rules and regulations of the SEC, we make assumptions, judgments and estimates that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosures of contingent assets and liabilities. We base our assumptions, judgments and estimates on historical experience and various other factors that we believe to be reasonable under the circumstances. Actual results could differ materially from these estimates under different assumptions or conditions. We evaluate our assumptions, judgments and estimates on a regular basis. We also discuss our critical accounting policies and estimates with the Audit Committee of the Board of Directors. 
+
+We believe that the assumptions, judgments and estimates involved in the accounting for revenue recognition, business combinations and income taxes have the greatest potential impact on our condensed consolidated financial statements. These areas are key components of our results of operations and are based on complex rules requiring us to make judgments and estimates, and consequently, we consider these to be our critical accounting policies. Historically, our assumptions, judgments and estimates relative to our critical accounting policies have not differed materially from actual results. 
+
+There have been no significant changes in our critical accounting policies and estimates during the three months ended March 3, 2023, as compared to the critical accounting policies and estimates disclosed in Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended December 2, 2022. 
+
+Recent Accounting Pronouncements 
+
+See Note 1 of our notes to condensed consolidated financial statements for information regarding recent accounting pronouncements that are of significance or potential significance to us. 
+
+RESULTS OF OPERATIONS 
+
+Financial Performance Summary 
+
+&#8226; Total Digital Media ARR of approximately $13.67 billion as of March 3, 2023 increased by $410 million, or 3%, from $13.26 billion as of December 2, 2022. The change in our Digital Media ARR is primarily due to new user adoption of our Creative Cloud and Document Cloud offerings. 
+
+&#8226; Creative revenue during the three months ended March 3, 2023 of $2.76 billion increased by $213 million, or 8%, compared to the year-ago period. Document Cloud revenue during the three months ended March 3, 2023 of $634 million increased by $72 million, or 13%, compared to the year-ago period. The increases were primarily due to subscription revenue growth associated with our Creative Cloud and Document Cloud offerings. 
+
+&#8226; Digital Experience revenue of $1.18 billion during the three months ended March 3, 2023 increased by $119 million, or 11%, compared to the year-ago period. The increase was primarily due to subscription revenue growth across our offerings. 
+
+&#8226; Remaining performance obligations of $15.21 billion as of March 3, 2023 remained relatively flat compared to December 2, 2022. 
+
+&#8226; Cost of revenue of $568 million during the three months ended March 3, 2023 increased by $56 million, or 11%, compared to the year-ago period primarily due to increases in base and incentive compensation and related benefits costs, as well as increases in hosting services and data center costs. 
+
+&#8226; Operating expenses of $2.50 billion during the three months ended March 3, 2023 increased by $331 million, or 15%, compared to the year-ago period primarily due to increases in base and incentive compensation and related benefits costs, as well as professional fees including costs associated with our planned acquisition of Figma. 
+
+&#8226; Cash flows from operations of $1.69 billion during the three months ended March 3, 2023 decreased by $76 million, or 4%, compared to the year-ago period primarily due to higher cash payments for income taxes. 
+
+Revenue for the Three Months Ended March 3, 2023 and March 4, 2022 
+
+(dollars in millions) Three Months &#160; 2023 2022 % Change Subscription $ 4,373 $ 3,958 10 % Percentage of total revenue 94 % 93 % &#160; Product 120 145 (17) % Percentage of total revenue 3 % 3 % &#160; Services and other 162 159 2 % Percentage of total revenue 3 % 4 % &#160; Total revenue $ 4,655 $ 4,262 9 % 
+
+Subscription 
+
+Our subscription revenue is comprised primarily of fees we charge for our subscription and hosted service offerings, and related support, including Creative Cloud and certain of our Adobe Experience Cloud and Document Cloud services. We primarily recognize subscription revenue ratably over the term of agreements with our customers, beginning with commencement of service. Subscription revenue related to certain offerings, where fees are based on a number of transactions and invoicing is aligned to the pattern of performance, customer benefit and consumption, are recognized on a usage basis. 
+
+We have the following reportable segments: Digital Media, Digital Experience, and Publishing and Advertising. Subscription revenue by reportable segment for the three months ended March 3, 2023 and March 4, 2022 is as follows: 
+
+(dollars in millions) Three Months 2023 2022 % Change Digital Media $ 3,301 $ 2,995 10 % Digital Experience 1,042 932 12 % Publishing and Advertising 30 31 (3) % Total subscription revenue $ 4,373 $ 3,958 10 % 
+
+Product 
+
+Our product revenue is comprised primarily of fees related to licenses for on-premise software purchased on a perpetual basis, for a fixed period of time or based on usage for certain of our OEM and royalty agreements. We primarily recognize product revenue at the point in time the software is available to the customer, provided all other revenue recognition criteria are met. 
+
+Services and Other 
+
+Our services and other revenue is comprised primarily of fees related to consulting, training, maintenance and support for certain on-premise licenses that are recognized at a point in time and our advertising offerings. We typically sell our consulting contracts on a time-and-materials or fixed-fee basis. These revenues are recognized as the services are performed for time-and-materials contracts and on a relative performance basis for fixed-fee contracts. Training revenues are recognized as the services are performed. Our maintenance and support offerings, which entitle customers, partners and developers to receive desktop product upgrades and enhancements or technical support, depending on the offering, are generally recognized ratably over the term of the arrangement. Transaction-based advertising revenue is recognized on a usage basis as we satisfy the performance obligations to our customers. 
+
+Segment Information 
+
+(dollars in millions) Three Months &#160; 2023 2022 % Change Digital Media $ 3,395 $ 3,110 9 % Percentage of total revenue 73 % 73 % &#160; Digital Experience 1,176 1,057 11 % Percentage of total revenue 25 % 25 % &#160; Publishing and Advertising 84 95 (12) % Percentage of total revenue 2 % 2 % &#160; Total revenue $ 4,655 $ 4,262 9 % 
+
+&#160; 
+
+Digital Media 
+
+Revenue by major offerings in our Digital Media reportable segment for the three months ended March 3, 2023 and March 4, 2022 were as follows: 
+
+(dollars in millions) Three Months 2023 2022 % Change Creative Cloud $ 2,761 $ 2,548 8 % Document Cloud 634 562 13 % Total Digital Media revenue $ 3,395 $ 3,110 9 % 
+
+Revenue from Digital Media increased $285 million during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 driven by increases in revenue associated with our Creative and Document Cloud subscription offerings due to continued demand amid an increasingly digital environment and strong customer acquisition and engagement, partially offset by the impact of foreign currency exchange rate fluctuations. 
+
+Digital Experience 
+
+Revenue from Digital Experience increased $119 million during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 primarily due to net new additions across our subscription offerings and strong demand for services, partially offset by the impact of foreign currency exchange rate fluctuations. 
+
+Geographical Information 
+
+(dollars in millions) Three Months &#160; 2023 2022 % Change Americas $ 2,779 $ 2,446 14 % Percentage of total revenue 60 % 57 % &#160; EMEA 1,173 1,136 3 % Percentage of total revenue 25 % 27 % &#160; APAC 703 680 3 % Percentage of total revenue 15 % 16 % &#160; Total revenue $ 4,655 $ 4,262 9 % 
+
+&#160; 
+
+Overall revenue during the three months ended March 3, 2023 increased in all geographic regions as compared to the three months ended March 4, 2022 primarily due to increases in Digital Media and Digital Experience revenue. Within each geographic region, the fluctuations in revenue by reportable segment were attributable to the factors noted in the segment information above. 
+
+Included in the overall change in revenue for the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 were impacts associated with foreign currency which were mitigated in part by our foreign currency hedging program. During the three months ended March 3, 2023 as compared to the year-ago period, the U.S. Dollar strengthened against foreign currencies, including the Euro, Japanese Yen and British Pound, which decreased revenue in U.S. Dollar equivalents by $169 million. For the three months ended March 3, 2023, the foreign currency impacts to revenue were offset in part by net hedging gains from our cash flow hedging program of $21 million. 
+
+Cost of Revenue for the Three Months Ended March 3, 2023 and March 4, 2022 
+
+(dollars in millions) Three Months &#160; 2023 2022 % Change Subscription $ 434 $ 393 10 % Percentage of total revenue 9 % 9 % Product 8 10 (20) % Percentage of total revenue * * &#160; Services and other 126 109 16 % Percentage of total revenue 3 % 3 % &#160; Total cost of revenue $ 568 $ 512 11 % 
+
+_________________________________________ 
+
+(*) Percentage is less than 1%. 
+
+Subscription 
+
+Cost of subscription revenue consists of third-party hosting services and data center costs, including expenses related to operating our network infrastructure. Cost of subscription revenue also includes compensation costs associated with network operations, implementation, account management and technical support personnel, royalty fees, software costs and amortization of certain intangible assets. 
+
+Cost of subscription revenue increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 due to the following: 
+
+Components of % Change Hosting services and data center costs 7 % Incentive compensation, cash and stock-based 2 Base compensation and related benefits 1 Total change 10 % 
+
+Product 
+
+Cost of product revenue is primarily comprised of third-party royalties, localization costs and the costs associated with the manufacturing of our products. 
+
+Services and Other 
+
+Cost of services and other revenue is primarily comprised of compensation and contracted costs incurred to provide consulting services, training and product support, and hosting services and data center costs. 
+
+Cost of services and other revenue increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 primarily due to increases in compensation costs. 
+
+Operating Expenses for the Three Months Ended March 3, 2023 and March 4, 2022 
+
+(dollars in millions) 
+
+Three Months &#160; 2023 2022 &#160;% Change Research and development $ 827 $ 701 18 % Percentage of total revenue 18 % 16 % Sales and marketing 1,301 1,158 12 % Percentage of total revenue 28 % 27 % General and administrative 331 269 23 % Percentage of total revenue 7 % 6 % Amortization of intangibles 
+
+42 42 &#8212; % Percentage of total revenue 1 % 1 % Total operating expenses $ 2,501 $ 2,170 15 % 
+
+Research and Development 
+
+Research and development expenses consist primarily of compensation and contracted costs associated with software development, third-party hosting services and data center costs, related facilities costs and expenses associated with computer equipment and software used in development activities. 
+
+Research and development expenses increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 due to the following: 
+
+&#160; Components of % Change Incentive compensation, cash and stock-based 9 % Base compensation and related benefits 7 Various individually insignificant items 2 Total change 18 % 
+
+Investments in research and development, including the recruiting and hiring of software developers, are critical to remain competitive in the marketplace and are directly related to continued timely development of new and enhanced offerings and solutions. We will continue to focus on long-term opportunities available in our end markets and make significant investments in the development of our subscription and service offerings, applications and tools. 
+
+Sales and Marketing 
+
+Sales and marketing expenses consist primarily of compensation costs, amortization of contract acquisition costs, including sales commissions, travel expenses and related facilities costs for our sales, marketing, order management and global supply chain management personnel. Sales and marketing expenses also include the costs of programs aimed at increasing revenue, such as advertising, trade shows and events, public relations and other market development programs. 
+
+Sales and marketing expenses increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 due to the following: 
+
+&#160; Components of % Change Base compensation and related benefits 4 % Incentive compensation, cash and stock-based 4 Professional and consulting fees 2 Various individually insignificant items 2 Total change 12 % 
+
+General and Administrative 
+
+General and administrative expenses consist primarily of compensation and contracted costs, travel expenses and related facilities costs for our finance, facilities, human resources, legal, information services and executive personnel. General and administrative expenses also include outside legal and accounting fees, provision for bad debts, expenses associated with 
+
+computer equipment and software used in the administration of the business, charitable contributions and various forms of insurance. 
+
+General and administrative expenses increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 due to the following: 
+
+Components of % Change Professional and consulting fees 15 % Base compensation and related benefits 7 Incentive compensation, cash and stock-based 3 Events 3 Bad debt expense (3) Various individually insignificant items (2) Total change 23 % 
+
+Professional and consulting fees increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 primarily due to incurred transaction costs associated with our planned acquisition of Figma. 
+
+Non-Operating Income (Expense), Net for the Three Months Ended March 3, 2023 and March 4, 2022 
+
+&#160;(dollars in millions) Three Months &#160; 2023 2022 % Change Interest expense $ (32) $ (28) 14 % Percentage of total revenue (1) % (1) % Investment gains (losses), net 1 (9) ** Percentage of total revenue * * Other income (expense), net 
+
+43 &#8212; ** Percentage of total revenue 1 % * Total non-operating income (expense), net 
+
+$ 12 $ (37) ** 
+
+&#160; _________________________________________ 
+
+(*) Percentage is less than 1%. 
+
+(**) Percentage is not meaningful. 
+
+Interest Expense 
+
+Interest expense represents interest associated with our debt instruments. Interest on our senior notes is payable semi-annually, in arrears, on February 1 and August 1. 
+
+Investment Gains (Losses), Net 
+
+Investment gains (losses), net consists principally of unrealized holding gains and losses associated with our deferred compensation plan assets, and gains and losses associated with our direct and indirect investments in privately held companies. 
+
+Other Income (Expense), Net &#160; 
+
+Other income (expense), net consists primarily of interest earned on cash, cash equivalents and short-term fixed income investments. Other income (expense), net also includes realized gains and losses on fixed income investments and foreign exchange gains and losses. 
+
+Other income (expense), net increased during the three months ended March 3, 2023 as compared to the three months ended March 4, 2022 primarily due to increases in interest income driven by higher average interest rates. 
+
+Provision for Income Taxes for the Three Months Ended March 3, 2023 and March 4, 2022 
+
+(dollars in millions) Three Months &#160; 2023 2022 % Change Provision for income taxes $ 351 $ 277 27 % Percentage of total revenue 8 % 6 % Effective tax rate 22 % 18 % 
+
+Our effective tax rate increased by approximately four percentage points primarily due to a net tax expense related to stock-based compensation recorded during the three months ended March 3, 2023, as compared to a net tax benefit related to stock-based compensation recorded during the three months ended March 4, 2022. 
+
+Our effective tax rate for the three months ended March 3, 2023 was higher than the U.S. federal statutory tax rate of 21% primarily due to a net tax expense related to stock-based compensation and state taxes, partially offset by the U.S. federal research tax credit. 
+
+We recognize deferred tax assets to the extent that we believe these assets are more likely than not to be realized based on evaluation of all available positive and negative evidence. On the basis of this evaluation, we continue to maintain a valuation allowance to reduce our deferred tax assets to the amount realizable. The total valuation allowance was $418 million as of March 3, 2023, primarily related to certain state credits. 
+
+We are a United States-based multinational company subject to tax in multiple domestic and foreign tax jurisdictions. The current U.S. tax law subjects the earnings of certain foreign subsidiaries to U.S. tax and generally allows an exemption from taxation for distributions from foreign subsidiaries. 
+
+In the current global tax policy environment, the domestic and foreign governing bodies continue to consider, and in some cases introduce, changes in regulations applicable to corporate multinationals such as Adobe. As regulations are issued, we account for finalized regulations in the period of enactment. 
+
+Beginning in 2023, under the provisions introduced by the U.S. Tax Act, we are required to capitalize and amortize research and development costs. If the rule is not modified, there will continue to be an adverse impact on our effective rates for income taxes paid, which is partially offset by a benefit to our effective tax rates from the increase in the foreign-derived intangible income deduction, in fiscal 2023 and beyond. 
+
+Accounting for Uncertainty in Income Taxes 
+
+The gross liabilities for unrecognized tax benefits excluding interest and penalties were $330 million and $298 million as of March 3, 2023 and March 4, 2022, respectively. If the total unrecognized tax benefits as of March 3, 2023 and March 4, 2022 were recognized, $214 million and $203 million would decrease the respective effective tax rates. 
+
+As of March 3, 2023 and March 4, 2022, the combined amounts of accrued interest and penalties related to tax positions taken on our tax returns were approximately $19 million and $22 million, respectively. These amounts were included in long-term income taxes payable in their respective years. 
+
+The timing of the resolution of income tax examinations is highly uncertain as are the amounts and timing of tax payments that are part of any audit settlement process. These events could cause large fluctuations in the balance sheet classification of our tax assets and liabilities. We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude or statutes of limitations on certain income tax examination periods will expire, or both. Although the timing of resolution, settlement and closing of audits is not certain, it is reasonably possible that the underlying unrecognized tax benefits may decrease by up to $15 million over the next 12 months. 
+
+Our future effective tax rates may be materially affected by changes in the tax rates in jurisdictions where our income is earned, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in the valuation of our deferred tax assets and liabilities, changes in or interpretation of tax rules and regulations in the jurisdictions in which we do business, or unexpected changes in business and market conditions that could reduce certain tax benefits. 
+
+In addition, the United States and other countries and jurisdictions in which we conduct business, including those covered by governing bodies that enact tax laws applicable to us, such as the European Commission of the European Union, could make changes to relevant tax, accounting or other laws and interpretations thereof that have a material impact to us. These countries, governmental bodies and intergovernmental economic organizations such as the Organization for Economic Cooperation and Development, have or could make unprecedented assertions about how taxation is determined and, in some 
+
+cases, have proposed or enacted new laws that are contrary to the way in which rules and regulations have historically been interpreted and applied. In the current global tax policy environment, any changes in laws, regulations and interpretations could adversely affect our effective tax rates, cause us to respond by making changes to our business structure, or result in other costs to us which could adversely affect our operations and financial results. 
+
+Moreover, we are subject to the examination of our income tax returns by domestic and foreign tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from these examinations. Our policy is to record interest and penalties related to unrecognized tax benefits in income tax expense. We believe our tax estimates to be reasonable; however, we cannot provide assurance that the final determination of any of these examinations will not have an adverse effect on our financial position and results of operations. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Cash Flows 
+
+This data should be read in conjunction with our condensed consolidated statements of cash flows. 
+
+As of (in millions) March 3, 2023 December 2, 2022 Cash and cash equivalents $ 4,072 $ 4,236 Short-term investments $ 1,581 $ 1,860 Working capital $ 905 $ 868 Stockholders&#8217; equity $ 14,206 $ 14,051 
+
+A summary of our cash flows is as follows: 
+
+&#160; Three Months Ended (in millions) March 3, 2023 March 4, 2022 Net cash provided by operating activities $ 1,693 $ 1,769 Net cash provided by (used for) investing activities 156 (260) Net cash used for financing activities (2,014) (2,604) Effect of foreign currency exchange rates on cash and cash equivalents 1 (10) Net change in cash and cash equivalents $ (164) $ (1,105) 
+
+Our primary source of cash is receipts from revenue. Our primary uses of cash are our stock repurchase program as described below and general business expenses including payroll, income taxes, marketing and third-party hosting services. Other sources of cash include proceeds from maturing short-term investments. Other uses of cash include repayment of maturing senior notes, purchases of property and equipment and payments for taxes related to net share settlement of equity awards. 
+
+Cash Flows from Operating Activities 
+
+Net cash provided by operating activities of $1.69 billion for the three months ended March 3, 2023 was primarily comprised of net income adjusted for the net effect of non-cash items and changes in operating assets and liabilities. The primary working capital uses of cash were the payment of accrued bonuses, partially offset by increases in deferred revenue driven by Digital Media and Digital Experience offerings. 
+
+Cash Flows from Investing Activities 
+
+Net cash provided by investing activities of $156 million for the three months ended March 3, 2023 was primarily due to maturities of short-term investments during the quarter partially offset by ongoing capital expenditures. 
+
+Cash Flows from Financing Activities 
+
+Net cash used for financing activities of $2.01 billion for the three months ended March 3, 2023 was primarily due to payments for our common stock repurchases, the repayment of our 2023 Notes and taxes paid related to the net share settlement of equity awards. The above uses of cash were offset in part by proceeds from re-issuance of treasury stock mainly for our employee stock purchase plan. See the section titled &#8220;Stock Repurchase Program&#8221; below. 
+
+Liquidity and Capital Resources Considerations 
+
+Our existing cash, cash equivalents and investment balances may fluctuate during fiscal 2023 due to changes in our planned cash outlay. 
+
+Cash from operations could also be affected by various risks and uncertainties, including, but not limited to, risks detailed in the section titled &#8220;Risk Factors&#8221; in titled Part II, Item 1A of this report. Based on our current business plan and revenue prospects, we believe that our existing cash, cash equivalents and investment balances, our anticipated cash flows from operations and our available revolving credit facility will be sufficient to meet our working capital, operating resource expenditure and capital expenditure requirements for the next twelve months. 
+
+Our cash equivalent and short-term investment portfolio as of March 3, 2023 consisted of asset-backed securities, corporate debt securities, money market funds, municipal securities, time deposits, U.S. agency securities and U.S. Treasury securities. We use professional investment management firms to manage a large portion of our invested cash. 
+
+We expect to continue our investing activities, including short-term and long-term investments, purchases of computer systems for research and development, sales and marketing, product support and administrative staff, and facilities expansion. Furthermore, cash reserves may be used to repurchase stock under our stock repurchase program and to strategically acquire companies, products or technologies that are complementary to our business. 
+
+On September 15, 2022, we entered into a definitive agreement under which we intend to acquire Figma, Inc. (&#8220;Figma&#8221;) for approximately $20 billion, comprised of approximately half cash and half stock, subject to customary purchase price adjustments. Approximately 6 million additional restricted stock units will be granted to Figma&#8217;s Chief Executive Officer and employees that will vest over four years subsequent to closing. The transaction is subject to regulatory approvals and customary closing conditions, and is expected to close in 2023. We will be required to pay Figma a reverse termination fee of $1 billion if the transaction fails to receive regulatory clearance, assuming all other closing conditions have been satisfied or waived, or if it fails to close within 18 months from September 15, 2022. We expect to finance the cash portion of the consideration using cash on hand and debt instruments. While the transaction is pending, at a minimum we expect to maintain share repurchases sufficient to offset the dilution of equity issuances to our employees. 
+
+Term Loan Credit Agreement 
+
+In January 2023, we entered into a delayed draw credit agreement, providing for a senior unsecured term loan (the &#8220;Term Loan&#8221;) of up to $3.5 billion for the purpose of partially funding the purchase price and related fees for our acquisition of Figma. The Term Loan is available for funding in a single drawing upon the closing of the Figma acquisition at any time prior to March 15, 2024 and will mature two years following the initial funding date. As of March 3, 2023, there were no outstanding borrowings under the Term Loan. 
+
+Revolving Credit Agreement 
+
+We have a $1.5 billion senior unsecured revolving credit agreement (the &#8220;Revolving Credit Agreement&#8221;) with a syndicate of lenders, providing for loans to us and certain of our subsidiaries through June 30, 2027. Subject to the agreement of lenders, we may obtain up to an additional $500 million in commitments, for a maximum aggregate commitment of $2 billion. As of March 3, 2023, there were no outstanding borrowings under the Revolving Credit Agreement and the entire $1.5 billion credit line remains available for borrowing. Under the terms of our Revolving Credit Agreement, we are not prohibited from paying cash dividends unless payment would trigger an event of default or if one currently exists. We do not anticipate paying any cash dividends in the foreseeable future. 
+
+Senior Notes 
+
+We have $3.65 billion senior notes outstanding, which rank equally with our other unsecured and unsubordinated indebtedness. As of March 3, 2023, the carrying value of our senior notes was $3.63 billion and our maximum commitment for interest payments was $366 million for the remaining duration of our outstanding senior notes. Interest is payable semi-annually, in arrears, on February 1 and August 1. Our senior notes do not contain any financial covenants. See Note 14 of our notes to condensed consolidated financial statements for further details regarding our debt. 
+
+Contractual Obligations 
+
+Our principal commitments as of March 3, 2023 consisted of purchase obligations resulting from agreements to purchase goods and services in the ordinary course of business and obligations under operating lease arrangements. There have been no material changes in those obligations during the three months ended March 3, 2023. 
+
+Other 
+
+Beginning in 2023, under the provisions introduced by the U.S. Tax Act, we are required to capitalize and amortize research and development costs. If the rule is not modified, there will continue to be an adverse impact on our effective rates for income taxes paid, which is partially offset by a benefit from the increase in the foreign-derived intangible income deduction, in fiscal 2023 and beyond. 
+
+The Inflation Reduction Act enacted in 2022 introduced new provisions including a corporate book minimum tax effective for us beginning in fiscal 2024 and an excise tax on net stock repurchases made after December 31, 2022. We continue to monitor developments and evaluate impacts, if any, of these provisions on our results of operations and cash flows. 
+
+Stock Repurchase Program 
+
+To facilitate our stock repurchase program, designed to return value to our stockholders and minimize dilution from stock issuances, we may repurchase our shares in the open market or enter into structured repurchase agreements with third parties. In December 2020, our Board of Directors granted authority to repurchase up to $15 billion in our common stock through the end of fiscal 2024. 
+
+During the three months ended March 3, 2023, we entered into an accelerated share repurchase agreement (&#8220;ASR&#8221;) with a large financial institution whereupon we provided them with a prepayment of $1.4 billion and received an initial delivery of 3.2 million shares of our common stock. Subsequent to March 3, 2023, the ASR was settled, which resulted in total repurchases of 4.0 million shares at an average purchase price of $348.46. 
+
+During the three months ended March 3, 2023, we repurchased a total of 5.0 million shares, including approximately 1.8 million shares at an average price of $330.52 through a structured repurchase agreement entered into during fiscal 2022, as well as 3.2 million shares from the initial delivery of the ASR. 
+
+Subsequent to March 3, 2023, as part of the December 2020 stock repurchase authority, we entered into a structured stock repurchase agreement with a large financial institution whereupon we provided them with a prepayment of $1 billion. Upon completion of the $1 billion stock repurchase agreement, $4.15 billion remains under our December 2020 authority. 
+
+See Note 11 of our notes to condensed consolidated financial statements for further details regarding our stock repurchase program. 
+
+Indemnifications 
+
+In the ordinary course of business, we provide indemnifications of varying scope to customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations. 
+
+To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer&#8217;s or director&#8217;s lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have director and officer insurance coverage that reduces our exposure and enables us to recover a portion of any future amounts paid. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+As previously discussed, our actual results could differ materially from our forward-looking statements. Below we discuss some of the factors that could cause these differences. These and many other factors described in this report could adversely affect our operations, performance and financial condition. 
+
+Risks Related to Our Ability to Grow Our Business 
+
+The markets in which we participate are intensely competitive, and if we cannot continue to develop, acquire, market and offer new products and services or enhancements to existing products and services that meet customer requirements, our operating results could suffer. 
+
+The markets for our products and services are characterized by intense competition, new industry standards, evolving distribution models, limited barriers to entry, new technology developments, short product life cycles, customer price sensitivity, global market conditions and frequent product introductions (including alternatives with limited functionality available at lower costs or free of charge). Any of these factors could create downward pressure on pricing and gross margins and could adversely affect our renewal and upsell and cross-sell rates, as well as our ability to attract new customers. 
+
+Our future success will depend on our continued ability to enhance and integrate our existing products and services, introduce new products and services in a timely and cost-effective manner, meet changing customer expectations and needs, extend our core technology into new applications, and anticipate emerging standards, business models, software delivery methods and other technological developments. For example, consumers continue to migrate from personal computers to tablet and mobile devices and from desktop to the web. While we offer our products on a variety of platforms, if we cannot continue adapting our products to tablet and mobile devices or the web, or if our competitors can adapt their products more quickly than us, our business could be harmed. In addition, releases of new devices or operating systems may make it more difficult for our products to perform or may require significant cost to adapt our solutions. The potential costs and delays incurred as a result could harm our business. If we fail to anticipate or misjudge customers&#8217; rapidly changing needs and expectations or adapt to emerging technological trends, our market share and results of operations could suffer. 
+
+Furthermore, some of our competitors and potential competitors enjoy competitive advantages such as greater financial, technical, sales, marketing and other resources, broader brand awareness and access to larger customer bases. As a result of these advantages, potential and current customers might select the products and services of our competitors, causing a loss of our market share. Our competitors, including large enterprises, may develop products, features or services that are similar to ours or that achieve greater acceptance, may undertake more far-reaching and successful product development efforts or marketing campaigns, or may adopt more aggressive pricing policies. 
+
+For additional information regarding our competition and the risks arising out of the competitive environment in which we operate, see the section titled &#8220;Competition&#8221; contained in Part I, Item 1 of our Annual Report on Form 10-K. 
+
+Introduction of new technology could harm our business and results of operations. 
+
+The expectations and needs of technology consumers are constantly evolving. As new technology is developed, integration of our products and services with one another and other companies&#8217; offerings creates an increasingly complex ecosystem that is also partly reliant on third parties. If any disruptive technology, or competing products, services or operating systems that are not compatible with our solutions, achieve widespread acceptance, our operating results could suffer and our business could be harmed. 
+
+The introduction of, or limitations on, certain technologies may reduce the effectiveness of our products and our business operations. For example, some of our products and services, including those marketed or licensed through adobe.com, rely on tracking, third-party cookies or other identifiers to help our customers more effectively advertise and detect and prevent fraudulent activity. However, consumers can, with increasing ease, implement technologies to limit the ability to collect and use data to deliver or advertise services. Increased use of methods to control the use of these technologies through customers&#8217; browsers, operating systems, device settings or &#8220;ad-blocking&#8221; software or applications may harm our business. 
+
+We may not realize the anticipated benefits of past or future investments or acquisitions, and integration of acquisitions may disrupt our business and management. 
+
+We may not realize the anticipated benefits of an investment or acquisition of a company, division, product or technology, each of which involves numerous risks. These risks include: 
+
+&#8226; inability to achieve the financial and strategic goals for the acquired and combined businesses; 
+
+&#8226; difficulty in, and the cost of, effectively integrating the operations, technologies, products or services, and personnel of the acquired business; 
+
+&#8226; potential identified or unknown security vulnerabilities in acquired products that expose us to additional security risks or delay our ability to integrate the product into our offerings; 
+
+&#8226; entry into markets in which we have minimal prior experience and where competitors in such markets have stronger market positions; 
+
+&#8226; disruption of our ongoing business and distraction of our management and other employees from other opportunities and challenges; 
+
+&#8226; inability to retain personnel of the acquired business; 
+
+&#8226; inability to retain key customers, distributors, vendors and other business partners of the acquired business; 
+
+&#8226; inability to take advantage of anticipated tax benefits; 
+
+&#8226; incurring acquisition-related costs or amortization costs for acquired intangible assets that could impact our operating results; 
+
+&#8226; elevated delinquency or bad debt write-offs related to receivables of the acquired business we assume; 
+
+&#8226; additional costs of bringing acquired companies into compliance with laws and regulations applicable to a multinational corporation; 
+
+&#8226; difficulty in maintaining controls, procedures and policies during the transition and integration; 
+
+&#8226; impairment of our relationships with employees, customers, partners, distributors or third-party providers of our technologies, products or services; 
+
+&#8226; failure of our due diligence processes to identify significant problems, liabilities or other challenges of an acquired company or technology; 
+
+&#8226; exposure to litigation or other claims in connection with, or inheritance of claims or litigation risk as a result of, an acquisition, such as claims from terminated employees, customers, former stockholders or other third parties; 
+
+&#8226; incurring significant exit charges if products or services acquired in business combinations are unsuccessful; 
+
+&#8226; inability to conclude that our internal controls over financial reporting are effective; 
+
+&#8226; inability to obtain, or obtain in a timely manner, approvals from governmental authorities, which could delay or prevent or impose conditions on such acquisitions; 
+
+&#8226; the failure of strategic investments to perform as expected or to meet financial projections; 
+
+&#8226; delay in customer and distributor purchasing decisions due to uncertainty about the direction of our product and service offerings; 
+
+&#8226; additional stock-based compensation issued or assumed in connection with an acquisition, including the impact on stockholder dilution and our results of operations; 
+
+&#8226; increased accounts receivables collection times and working capital requirements associated with acquired business models; and 
+
+&#8226; incompatibility of business cultures. 
+
+Mergers and acquisitions of technology companies are inherently risky. If we do not complete an announced acquisition transaction, including the pending acquisition of Figma, Inc., or integrate an acquired business successfully and in a timely manner, we may not realize the benefits of the acquisition to the extent anticipated, and in certain circumstances an acquisition could harm our financial position. 
+
+Our ability to acquire other businesses or technologies, make strategic investments or integrate acquired businesses effectively may also be impaired by adverse economic and political events, including trade tensions and increased global scrutiny of or restrictions on foreign investments. For example, a number of countries, including the United States and countries in Europe and the Asia-Pacific region, are considering or have adopted restrictions on foreign investments. Governments may continue to adopt or tighten restrictions of this nature, and such restrictions could negatively impact our business and financial results. 
+
+The success of some of our product and service offerings depends on our ability to continue to attract and retain customers of and contributors to our online marketplaces for creative content. 
+
+The success of some of our product and service offerings, such as Adobe Stock, depends on our ability to continue to retain existing and attract new customers and contributors to these online marketplaces for creative content. An increase in paying customers has generally resulted in more content from contributors, which increases the size of our collection and in turn attracts new paying customers. We rely on the functionality and features of our online marketplaces, the size and content of our collection and the effectiveness of our marketing efforts to attract new customers and contributors and retain existing ones. New technologies may render the features of our online marketplaces obsolete, our collection may fail to grow as anticipated or our marketing efforts may be unsuccessful, any of which may adversely affect our results of operations. 
+
+If our products or platforms are used to create or disseminate objectionable content, particularly misleading content intended to manipulate public opinion, our brand reputation may be damaged, and our business and financial results may be harmed. 
+
+We believe that our brands have significantly contributed to the success of our business. Maintaining and enhancing the brands within Adobe increases our ability to enter new categories, launch new and innovative products to better serve our customers and expand our customer base. Our brands may be negatively affected by the use of our products or services to create or disseminate newsworthy content that is deemed to be misleading, deceptive or intended to manipulate public opinion (e.g., &#8220;DeepFakes&#8221;), by the use of our products or services for illicit, objectionable or illegal ends, or by our failure to respond appropriately and expeditiously to such uses of our products and services. Such uses of our products and services may also cause us to face claims related to defamation, rights of publicity and privacy, illegal content, misinformation and personal injury torts. Maintaining and enhancing our brands may require us to make substantial investments and these investments may not be successful. If we fail to appropriately respond to objectionable content created using our products or services or shared on our platforms, our users may lose confidence in our brands and our business and financial results may be adversely affected. In addition, government regulation designed to address DeepFakes could adversely impact our product offerings. 
+
+Social and ethical issues relating to the use of new and evolving technologies, such as AI, in our offerings may result in reputational harm and liability. 
+
+Social and ethical issues relating to the use of new and evolving technologies such as artificial intelligence (&#8220;AI&#8221;) in our offerings, may result in reputational harm and liability, and may cause us to incur additional research and development costs to resolve such issues. We are increasingly building AI into many of our offerings, including our recent announcement of Adobe Firefly. As with many innovations, AI presents risks and challenges that could affect its adoption, and therefore our business. If we enable or offer solutions that draw controversy due to their perceived or actual impact on society, we may experience brand or reputational harm, competitive harm or legal liability. Potential government regulation related to AI use and ethics may also increase the burden and cost of research and development in this area, and failure to properly remediate AI usage or ethics issues may cause public confidence in AI to be undermined, which could slow adoption of AI in our products and services. The rapid evolution of AI will require the application of resources to develop, test and maintain our products and services to help ensure that AI is implemented ethically in order to minimize unintended, harmful impact. Uncertainty around new and emerging AI applications such as generative AI content creation may require additional investment in the development of proprietary datasets and machine learning models, development of new approaches and processes to provide attribution or remuneration to content creators and building systems that enable creatives to have greater control over the use of their work in the development of AI, which may be costly and could impact our profit margin if we decide to expand generative AI into all our product offerings. Developing, testing and deploying AI systems may also increase the cost profile of our offerings due to the nature of the computing costs involved in such systems. 
+
+Risks Related to the Operation of Our Business 
+
+Security breaches in data centers we manage, or third parties manage on our behalf, may compromise the confidentiality, integrity or availability of employee and customer data, which could expose us to liability and adversely affect our reputation and business. 
+
+We process and store significant amounts of employee and customer data, a large volume of which is hosted by third-party service providers. A security incident impacting our own data centers or those controlled by our service providers may compromise the confidentiality, integrity or availability of this data. Unauthorized access to or loss or disclosure of data stored by Adobe or our service providers may occur through physical break-ins, breaches of a secure network by an unauthorized party, software vulnerabilities or coding errors, employee mistakes, theft or misuse or other misconduct. It is also possible that unauthorized access to or disclosure of employee or customer data may occur through inadequate use of security controls by customers, service providers or employees. The compromise of personal, confidential or proprietary information could cause a loss of data, disrupt our operations, damage our reputation, give rise to remediation or other expenses and subject us to claims or other liabilities, regulatory investigations or fines. Adobe maintains insurance to cover operational risks, such as cyber risk and technology outages, but this insurance may not cover all costs associated with the consequences of personal, confidential or proprietary information being compromised. Further, such perceived or actual unauthorized loss or disclosure of the information we collect, process or store, or breach of our security could damage our reputation, result in the loss of customers and harm our business. 
+
+We rely on data centers managed both by Adobe and third parties to host and deliver our services, as well as access, collect, process, use, transmit and store data, and any interruptions or delays in these hosted services, or failures in data collection or transmission could expose us to liability and harm our business and reputation. 
+
+Much of our business relies on hardware and services that are hosted, managed and controlled directly by Adobe or third-party service providers, including our online store at adobe.com and our Creative Cloud, Document Cloud and Experience Cloud solutions. We do not have redundancy for all of our systems, many of our critical applications reside in only one of our data centers, and our disaster recovery planning may not account for all eventualities. If our business relationship with a third-party provider of hosting or content delivery services is negatively affected, or if one of our content delivery suppliers were to terminate its agreement with us without adequate notice, we might not be able to deliver the corresponding hosted offerings to our customers, which could disrupt our business operations and those of our customers, subject us to reputational harm, costly and time-intensive notification requirements, and cause us to lose customers and future business. The COVID-19 pandemic has disrupted and may continue to disrupt the supply chain of hardware needed to maintain these third-party systems and services or to run our business. In addition, supply chain disruptions stemming from the Russia-Ukraine war may harm our customers and suppliers and further complicate existing supply chain constraints. Occasionally, we migrate data among data centers and to third-party hosted environments. If a transition among data centers or to third-party service providers encounters unexpected interruptions, unforeseen complexity or unplanned disruptions despite precautions undertaken during the process, this may impair our delivery of products and services to customers and result in increased costs and liabilities, which may harm our operating results, reputation and our business. 
+
+It is also possible that hardware or software failures or errors in our systems (or those of our third-party service providers) could result in data loss or corruption, cause the information that we collect or maintain to be incomplete or contain inaccuracies that our customers regard as significant, or cause us to fail to meet committed service levels or comply with applicable notification requirements. Furthermore, our ability to collect and report data may be delayed or interrupted by a number of factors, including access to the internet, the failure of our network or software systems, security breaches or significant variability in visitor traffic on customer websites. In addition, the loss of data resulting from computer viruses, worms, ransomware or other malware may harm our systems could expose us to litigation or regulatory investigation, and costly and time-intensive notification requirements. 
+
+We may also find, on occasion, that we cannot deliver data and reports to our customers in near real time due to factors such as significant spikes in customer activity on their websites or failures of our network or software (or that of a third-party service provider). If we fail to plan infrastructure capacity appropriately and expand it proportionally with the needs of our customer base, and we experience a rapid and significant demand on the capacity of our data centers or those of third parties, service outages or performance issues could occur, which would impact our customers. Such a strain on our infrastructure capacity could subject us to regulatory and customer notification requirements, violations of service level agreement commitments or financial liabilities and result in customer dissatisfaction or harm our business. If we supply materially inaccurate information or experience significant interruptions in our systems, our reputation could be harmed, we could lose customers and we could be found liable for damages or incur other losses. 
+
+Security vulnerabilities in our products and systems, or in our supply chain, could lead to reduced revenue or to liability claims. 
+
+Maintaining the security of our products and services is a critical issue for us and our customers. Cyberthreats are constantly evolving and becoming increasingly sophisticated and complex, making it increasingly difficult to detect and successfully defend against them. Certain unauthorized parties have in the past managed, and may again in the future manage, to gain access to and misuse some of our systems and software, or that of our third-party service providers, in order to access the authentication, payment and personal information of our end users and employees. In addition, cyber-attackers (which may include individuals or groups, as well as sophisticated groups with significant resources, such as nation-state and state-sponsored attackers) also develop and deploy viruses, worms, credential stuffing attack tools and other malicious software programs, some of which may be specifically designed to attack our products, services, information systems or networks. The frequency and sophistication of such threats continues to increase and often becomes further heightened in connection with geopolitical tensions. Hardware, software and operating system applications that we develop or procure from third parties have contained and may contain defects in design or manufacture, including bugs, vulnerabilities and other problems that could unexpectedly compromise the security of the system or impair a customer&#8217;s ability to operate or use our products. Like other global companies, we face an increasingly difficult challenge to attract and retain highly qualified security personnel to assist us in combating these security threats. The costs to prevent, eliminate, mitigate or alleviate cyber or other security problems, bugs, viruses, worms, malicious software programs and security vulnerabilities are significant, and our efforts to address these problems, including notifying affected parties, may not be successful or may be delayed and could result in interruptions, delays, cessation of service and loss of existing or potential customers. It is impossible to predict the extent, frequency or impact these problems may have on us. 
+
+Outside parties have in the past and may in the future attempt to fraudulently induce our employees or users of our products or services to disclose sensitive, personal or confidential information via illegal electronic spamming, phishing or other tactics. This existing risk is compounded given the current hybrid model work environment, where a large portion of our workforce spends a portion of their time working in our offices and a portion of their time working from home. Unauthorized parties may also attempt to gain physical access to our facilities in order to infiltrate our information systems or attempt to gain logical access to our products, services or information systems for the purpose of exfiltrating content and data. These actual and potential breaches of our security measures and the accidental loss, inadvertent disclosure or unauthorized dissemination of proprietary information or sensitive, personal or confidential data about us, our employees, our customers or their end users, including the potential loss or disclosure of such information or data could expose us, our employees, our customers or other individuals affected to a risk of loss or misuse of this information. This may result in litigation and liability or fines, costly and time-intensive notice requirements, governmental inquiry or oversight or a loss of customer confidence, any of which could harm our business or damage our brand and reputation, thereby requiring time and resources to mitigate these impacts. These risks will likely increase as we expand our hosted offerings, integrate our products and services and store and process more data. 
+
+These issues affect our products and services in particular because cyber-attackers tend to focus their efforts on popular offerings with a large user base, and we expect them to continue to do so. From time to time we have identified, and in the future we may identify other, vulnerabilities in some of our applications and services and those of our third-party service providers. In some cases, such vulnerabilities may not be immediately detected, which may make it difficult to recover critical services and lead to damaged assets. We continuously monitor and develop our information technology networks and infrastructure in an effort to prevent, detect, address and mitigate the risk of threats to our data, systems and networks, including malware and computer virus attacks, ransomware, unauthorized access, business email compromise, misuse, denial-of-service attacks, system failures and disruptions. These continued enhancements and changes, as well as changes designed to update and enhance our protective measures to address new threats, may increase the risk of a system or process failure or the creation of a gap in the associated security measures. Any such failure or gap could materially and adversely affect our business, results of operations and financial results. We devote significant resources to address security vulnerabilities through engineering more secure products, enhancing security and reliability features in our products and systems, code hardening, conducting rigorous penetration tests, deploying updates to address security vulnerabilities, regularly reviewing our service providers&#8217; security controls, reviewing and auditing our hosted services against independent security control frameworks (such as ISO 27001, SOC 2 and PCI), providing resources, such as mandatory security training, for our workforce and improving our incident response time, but security vulnerabilities cannot be totally eliminated. The cost of undertaking these efforts could reduce our operating margins, and we may be unable to implement these measures quickly enough to prevent unauthorized access into our systems and products in all circumstances. Despite our preventative efforts, there is no assurance that our security measures will provide full effective protection from such events, and actual or perceived security vulnerabilities in our products and systems may harm our reputation or lead to claims against us (and have in the past led to such claims) and could lead some customers to stop using certain products or services or to reduce or delay future purchases. If we do not make the appropriate level of investment in our technology systems and we are not able to deliver the quality of data security and privacy our customers require or that 
+
+meet our independent security control certification requirements, our business could be adversely affected. Customers may also adopt security measures designed to protect their existing computer systems from attack, which could delay adoption of new technologies. Moreover, delayed sales, lower margins or lost customers resulting from disruptions caused by cyber-attacks, overly burdensome preventative security measures or failure to fully meet independent security control certification requirements could adversely affect our financial results, stock price and reputation. 
+
+Some of our enterprise offerings have extended and complex sales cycles, which can make our sales cycles unpredictable. 
+
+Sales cycles for some of our enterprise offerings, including our Adobe Experience Cloud and Adobe Experience Platform solutions and Enterprise Term License Agreements (&#8220;ETLAs&#8221;) in our Digital Media business, are multi-phased and complex, which also makes it difficult to predict when a given sales cycle will close. The complexity in these sales cycles is due to several factors, including: 
+
+&#8226; the need for our sales representatives to educate customers about the use and benefit of large-scale deployments of our products and services; 
+
+&#8226; the desire of organizations to undertake significant evaluation processes to determine their technology requirements prior to making information technology expenditures and the need for our representatives to spend a significant amount of time assisting with such evaluations; 
+
+&#8226; intensifying competition within the industry; 
+
+&#8226; the negotiation of large, complex, enterprise-wide contracts; 
+
+&#8226; the need for our customers to obtain requisition approvals from various decision makers within their organizations due to the complexity of our solutions touching multiple departments; and 
+
+&#8226; customer budget constraints, economic conditions and unplanned administrative delays. 
+
+We spend substantial time and expense on our sales efforts without assurance that potential customers will ultimately purchase our solutions. As we target our sales efforts at larger enterprise customers, these trends are expected to continue and could have a greater impact on our results of operations. Additionally, our enterprise sales pattern has historically been uneven, where a higher percentage of a quarter&#8217;s total sales occur during the final weeks of each quarter, which is common in our industry. 
+
+Our business could be harmed if we fail to effectively manage critical strategic third-party business relationships. 
+
+As our offerings expand and our customer base grows, our relationships with strategic partners become increasingly valuable. If our contractual relationships with these third parties were to terminate, or if we were unable to renew on favorable terms, our business could be harmed. This is especially the case when the third party&#8217;s offerings are integrated with our products and services, or where the third party&#8217;s offerings are difficult to substitute or replace. Alternative arrangements for such products and services may not be available to us on commercially reasonable terms, and we may experience business interruptions upon a transition to an alternative partner. The failure of third parties to provide acceptable products and services or to update their technology may result in a disruption to our business operations and those of our customers, which may reduce our revenues and profits, cause us to lose customers and damage our reputation. 
+
+We increasingly utilize third-party distribution platforms, such as Apple&#8217;s App Store and Google&#8217;s Play Store, for the distribution of certain of our product offerings. Although we benefit from the strong brand recognition and large user base of these distribution platforms to attract new customers, the platform owners have wide discretion to change the pricing structure, terms of service and other policies with respect to us and other developers, and may offer or promote products that compete with our product offerings. Adverse changes by these third parties could adversely affect our financial results. 
+
+Failure of our third-party customer service and technical support providers to adequately address customers&#8217; requests could harm our business and adversely affect our financial results. 
+
+Our customers rely on our customer service support organization to resolve issues with our products and services. We depend heavily, and expect to continue to rely heavily, on third-party customer service and technical support representatives to provide such services. This strategy presents risks to our business since we may not be able to influence the quality of support as directly as if our own employees performed these activities. Our customers may react negatively to providing information to, and receiving support from, third-party organizations, especially if these third-party organizations are based overseas. If we encounter problems with our third-party customer service and technical support providers, our reputation may be harmed, our ability to sell our offerings could be adversely affected, and we could lose customers and associated revenue. 
+
+If we are unable to recruit and retain key personnel, our business may be harmed, and our attempts to operate under a hybrid work model may not be successful and adversely impact our business. 
+
+Much of our future success depends on the continued service, availability and performance of our senior management and highly-skilled personnel across all levels of our organization. Our senior management has acquired specialized knowledge and skills with respect to our business, and the loss of any of these individuals could harm our business, especially if we are not successful in developing adequate succession plans. Our efforts to attract, develop, integrate and retain highly skilled employees with appropriate qualifications may be compounded by intensified restrictions on travel, immigration or the availability of work visas. Competition for experienced personnel in the information technology industry is intense and has recently intensified further due to industry trends in many areas where our employees are located. Further, the increased availability of hybrid or remote working arrangements has expanded the pool of companies that can compete for our employees and employment candidates. We may experience higher compensation costs to retain senior management and experienced personnel that may not be offset by improved productivity or increased sales. A hybrid work environment may also present operational, cybersecurity and workplace culture challenges. If we are unable to continue to successfully attract and retain highly skilled personnel and maintain our corporate culture in a hybrid work environment, our business may be harmed. 
+
+We continue to hire personnel in countries where exceptional technical knowledge and other expertise are offered at lower costs, which increases the efficiency of our global workforce structure and reduces our personnel related expenditures. Nonetheless, as globalization continues, competition for employees in these countries has increased, which may impact our ability to retain these employees and increase our compensation-related expenses. We may continue to expand our international operations and international sales and marketing activities, which would require significant management attention and resources. We may be unable to scale our infrastructure effectively or as quickly as our competitors in these markets, and our revenue may not increase sufficiently to offset these expected increases in costs, causing our results to suffer. 
+
+We believe that a critical contributor to our success to date has been our corporate culture, which we have built to foster innovation, teamwork and employee satisfaction. As we grow, including from the integration of employees and businesses acquired in connection with previous or future acquisitions, we may find it difficult to maintain important aspects of our corporate culture, which could negatively affect our ability to retain and recruit personnel who are essential to our future success. 
+
+Failure to manage our sales, partner and distribution channels effectively could result in a loss of revenue and harm our business. 
+
+We contract with a number of software distributors and other strategic partners, none of which are individually responsible for a material amount of our total net revenue in any recent period. Nonetheless, if an agreement with one of our distributors were terminated, any prolonged delay in securing a replacement distributor could have a negative impact on our results of operations. 
+
+Successfully managing our indirect distribution channel efforts to reach various customer segments for our products and services is a complex process across the broad range of geographies where we do business or plan to do business. Our distributors and other channel partners are independent businesses that we do not control. Notwithstanding the independence of our channel partners, we face legal risk and potential reputational harm from the activities of these third parties including, but not limited to, export control violations, workplace conditions, corruption and anti-competitive behavior. 
+
+We cannot be certain that our distribution channel will continue to market or sell our products and services effectively. If our partner and distribution channels are not successful, we may lose sales opportunities, customers and revenue. If our distributors favor our competitors&#8217; products or services for any reason, they may fail to market our products or services effectively, which would cause our results to suffer. If our OEMs through which we distribute products and services decide not to bundle our applications on their devices, our results could suffer. Further, the financial health of our distributors and partners and our continuing relationships with them are important to our success. Some of these distributors and partners may be unable to withstand adverse changes in economic conditions, which could result in insolvency, the inability of such distributors and partners to obtain credit to finance access to or purchases of our products and services, or a delay in paying their obligations to us. 
+
+We also sell some of our products and services through our direct sales force. Risks associated with this sales channel include more extended sales and collection cycles, challenges related to hiring, retaining and motivating our direct sales force, and substantial amounts of ongoing training for sales representatives. Moreover, recent hires may not be as productive as we would like, as in most cases it takes significant time for them to achieve full productivity. Our business could be seriously harmed if our expansion efforts of our direct sales do not generate a corresponding significant increase in revenue and we are unable to achieve the efficiencies we anticipate. In addition, the loss of key sales employees could impact our customer relationships and future ability to sell to certain accounts covered by such employees. 
+
+We face various risks associated with our operating as a multinational corporation. 
+
+As a global business that generates approximately 40% of our total revenue from sales to customers outside of the Americas, we are subject to a number of risks, including: 
+
+&#8226; inflation and actions taken by central banks to counter inflation; 
+
+&#8226; foreign currency fluctuations and controls; 
+
+&#8226; international and regional economic, political and labor conditions, including any instability or security concerns abroad, such as uncertainty caused by economic sanctions, trade disputes, armed conflicts and wars; 
+
+&#8226; tax laws (including U.S. taxes on foreign subsidiaries); 
+
+&#8226; increased financial accounting and reporting burdens and complexities; 
+
+&#8226; changes in, or impositions of, legislative or regulatory requirements; 
+
+&#8226; changes in laws governing the free flow of data across international borders; 
+
+&#8226; failure of laws to protect our intellectual property rights adequately; 
+
+&#8226; inadequate local infrastructure and difficulties in managing and staffing international operations; 
+
+&#8226; delays resulting from difficulty in obtaining export licenses for certain technology, tariffs, quotas and other trade barriers; 
+
+&#8226; the imposition of governmental economic sanctions on countries in which we do business or where we plan to expand our business; 
+
+&#8226; costs and delays associated with developing products in multiple languages; 
+
+&#8226; operating in locations with a higher incidence of corruption and fraudulent business practices; and 
+
+&#8226; other factors beyond our control, such as terrorism, war, natural disasters, climate change and pandemics, including the COVID-19 pandemic. 
+
+Some of our third-party business partners have international operations and are also subject to these risks, and our business may be harmed if such partners are unable to appropriately manage these risks. If sales to any of our customers outside of the Americas are reduced, delayed or canceled because of any of the above factors, our revenue may decline. 
+
+Risks Related to Laws and Regulations 
+
+We are subject to risks associated with compliance with laws and regulations globally, which may harm our business. 
+
+We are a global company subject to varied and complex laws, regulations and customs, both domestically and internationally. These laws and regulations relate to a number of aspects of our business, including trade protection, import and export control, anti-boycott, sanctions and embargoes, data and transaction processing security, payment card industry data security standards, records management, user-generated content hosted on websites we operate, privacy practices, data residency, corporate governance, anti-trust and competition, employee and third-party complaints, anti-corruption, gift policies, conflicts of interest, securities regulations and other regulatory requirements affecting trade and investment. The application of these laws and regulations to our business is often unclear and may at times conflict. For example, in many foreign countries, particularly in those with developing economies, it is common to engage in business practices that are prohibited by U.S. regulations applicable to us, including the Foreign Corrupt Practices Act. We cannot provide assurance that our employees, contractors, agents and business partners will not take actions in violation of our internal policies or U.S. laws. Compliance with these laws and regulations may involve significant costs or require changes in our business practices that result in reduced revenue and profitability. Non-compliance could also result in fines, damages, criminal sanctions against us, our officers or our employees, prohibitions on the conduct of our business and damage to our reputation. 
+
+In addition, approximately 50% of our employees are located outside the United States. Accordingly, we are exposed to changes in laws governing our employee relationships in various U.S. and foreign jurisdictions, including laws and regulations regarding wage and hour requirements, fair labor standards, employee data privacy, unemployment tax rates, workers&#8217; compensation rates, citizenship requirements and payroll and other taxes, which likely would have a direct impact on our operating costs. 
+
+Increasing regulatory focus on privacy and security issues and expanding laws could impact our business models and expose us to increased liability. 
+
+As a global company, Adobe is subject to global data protection, privacy and security laws, regulations and codes of conduct that apply to our various business units and data processing activities. These laws, regulations and codes are inconsistent across jurisdictions and are subject to evolving and differing (sometimes conflicting) interpretations. Government officials and regulators, privacy advocates and class action attorneys are increasingly scrutinizing how companies collect, process, use, store, share and transmit personal data. This increased scrutiny may result in new interpretations of existing laws, thereby further impacting Adobe&#8217;s business. Globally, laws such as the General Data Protection Regulation (&#8220;GDPR&#8221;) in Europe and the Personal Information Protection Law (&#8220;PIPL&#8221;) in China, and new and emerging state laws in the United States on privacy, data and related technologies, such as the California Consumer Privacy Act, the California Privacy Rights Act and the Virginia Consumer Data Protection Act, as well as industry self-regulatory codes, create new compliance obligations and expand the scope of potential liability, either jointly or severally with our customers and suppliers. While we have invested in readiness to comply with applicable requirements, the dynamic and evolving nature of these laws, regulations and codes, as well as their interpretation by regulators and courts, may affect our ability (and our enterprise customers&#8217; ability) to reach current and prospective customers, to respond to both enterprise and individual customer requests under the laws (such as individual rights of access, correction and deletion of their personal information) and to implement our business models effectively. These laws, regulations and codes may also impact our innovation and business drivers in developing new and emerging technologies (e.g., artificial intelligence and machine learning). These requirements, among others, may impact demand for our offerings and force us to bear the burden of more onerous obligations in our contracts. Perception of our practices, products or services, even if unfounded, as a violation of individual privacy or data protection rights subjects us to public criticism, lawsuits, investigations, claims and other proceedings by regulators, industry groups or other third parties, all of which could disrupt or adversely impact our business and reputation and expose us to increased liability. Additionally, we collect and store information on behalf of our business customers and if our customers fail to comply with contractual obligations or applicable laws, it could result in litigation or reputational harm to us. 
+
+Transferring personal information across international borders is complex and subject to legal and regulatory requirements as well as active litigation and enforcement in a number of jurisdictions around the world, each of which could have an adverse impact on our ability to process and transfer personal data as part of our business operations. For example, European data transfers outside the European Economic Area are highly regulated and litigated. The mechanisms that we and many other companies rely upon for European data transfers (e.g., Standard Contractual Clauses) are the subject of regulatory interpretation and judicial decisions by the Court of Justice of the European Union. We are closely monitoring for developments related to valid transfer mechanisms available for transferring personal data outside the European Economic Area (including the Trans-Atlantic Data Privacy Framework) and other countries that have similar trans-border data flow requirements and adjusting our practices accordingly. The open judicial questions and regulatory interpretations related to the validity of transfers using Standard Contractual Clauses have resulted in some changes in the obligations required to provide our services in the European Union and could expose us to potential sanctions and fines for non-compliance. Several other countries, including China, Australia, New Zealand, Brazil, Hong Kong and Japan, have also established specific legal requirements for cross-border transfers of personal information and for data localization (i.e., where personal data must remain stored in the country). If other countries implement more restrictive regulations for cross-border data transfers or do not permit data to leave the country of origin, such developments could adversely impact our business and our enterprise customers&#8217; business, our financial condition and our results of operations in those jurisdictions. 
+
+Our intellectual property portfolio is a valuable asset and we may not be able to protect our intellectual property rights, including our source code, from infringement or unauthorized copying, use or disclosure. 
+
+Our intellectual property portfolio is a valuable asset. Infringement or misappropriation of our patents, trademarks, trade secrets, copyrights and other intellectual property rights could result in lost revenues and ultimately reduce their value. Preventing unauthorized use or infringement of our intellectual property rights is inherently difficult. We actively combat software piracy as we enforce our intellectual property rights, but we nonetheless lose significant revenue due to illegal use of our software. If piracy activities continue at historical levels or increase, they may further harm our business. We apply for patents in the United States and internationally to protect our newly created technology and if we are unable to obtain patent protection for the technology described in our pending patent, or if the patent is not obtained timely, this could result in revenue loss, or have other adverse effects on operations and harm our business. We offer our products and services in foreign countries and we may seek intellectual property protection from those foreign legal systems. Some of those foreign countries may not have as robust or comprehensive of intellectual property protection laws and schemes as those offered in the United States, and the mechanisms to enforce intellectual property rights may be inadequate to protect our technology, which could harm our business. We also seek to protect our confidential information and trade secrets through the use of non-disclosure agreements with our customers, contractors, vendors and partners. However, there is a risk that our confidential information and trade 
+
+secrets may be disclosed or published without our authorization, and in these situations, enforcing our rights may be difficult or costly. 
+
+If unauthorized disclosure of our source code occurs through security breach, cyber-attack or otherwise, we could lose future trade secret protection for that source code. Such loss could make it easier for third parties to compete with our products by copying functionality, which could cause us to lose customers and could adversely affect our revenue and operating margins. 
+
+We may incur substantial costs defending against third parties alleging that we infringe their proprietary rights. 
+
+We have been, are currently and may in the future be subject to claims, negotiations and complex, protracted litigation relating to disputes regarding the validity or alleged infringement of third-party intellectual property rights, including patent rights. Intellectual property disputes and litigation are typically costly and can be disruptive to our business operations by diverting the attention of management and key personnel. We may not prevail in every lawsuit or dispute. Third-party intellectual property disputes, including those initiated by patent assertion entities, could subject us to significant liabilities, require us to enter into royalty and licensing arrangements on unfavorable terms, prevent us from offering certain products or services, subject us to injunctions restricting our sales, cause severe disruptions to our operations or the markets in which we compete, or require us to satisfy indemnification commitments with our customers, including contractual provisions under various license arrangements and service agreements. In addition, we may incur significant costs in acquiring the necessary third-party intellectual property rights for use in our products, in some cases to fulfill contractual obligations with our customers. Any of these occurrences could significantly harm our business. 
+
+Changes in accounting principles, or interpretations thereof, could have a significant impact on our financial position and results of operations. 
+
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221;). These principles are subject to interpretation by the SEC and various bodies formed to interpret and create appropriate accounting principles. A change in these principles, how the principles are interpreted, or the adoption of new accounting standards can have a significant effect on our reported results, could retroactively affect previously reported transactions, and may require that we make significant changes to our systems, processes and controls. 
+
+Changes resulting from these new standards may result in materially different financial results and may require that we change how we process, analyze and report financial information and that we change financial reporting controls. For additional information regarding new standards that may have significant impact to our condensed consolidated financial statements, see the section titled &#8220;Adopted Accounting Guidance and Accounting Pronouncements Not Yet Effective&#8221; in Note 1 of our notes to condensed consolidated financial statements. 
+
+Such changes in accounting principles may have an adverse effect on our business, financial position and results of operations, or cause an adverse deviation from our revenue and profitability targets, which may negatively impact our financial results. 
+
+Changes in tax rules and regulations or interpretations thereof may adversely affect our effective tax rates. 
+
+We are a United States-based multinational company subject to tax in multiple domestic and foreign tax jurisdictions. Significant judgment is required in determining our current provision for income taxes and deferred tax assets or liabilities. Tax laws in the United States and in foreign tax jurisdictions are dynamic and subject to change as new laws are passed and new interpretations are issued. The applicability and impact of changes in tax laws and interpretations thereof could adversely affect our effective income tax rate and cash flows in future years. 
+
+Unanticipated changes in our tax rates could affect our future results of operations. Our future effective tax rates are likely to be unfavorably affected by changes in the tax rates in jurisdictions where our income is earned, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in the valuation of our deferred tax assets and liabilities, changes in or interpretation of tax rules and regulations in the jurisdictions in which we do business, or unexpected negative changes in business and market conditions that could reduce certain tax benefits. 
+
+In addition, the United States and other countries and jurisdictions in which we conduct business, including those covered by governing bodies that enact tax laws applicable to us, such as the European Commission of the European Union, could make changes to relevant tax, accounting or other laws and interpretations thereof that have a material impact to us. These countries, governmental bodies and intergovernmental economic organizations such as the Organization for Economic Cooperation and Development, have or could make unprecedented assertions about how taxation is determined and, in some cases, have proposed or enacted new laws that are contrary to the way in which rules and regulations have historically been interpreted and applied. In the current global tax policy environment, any changes in laws, regulations and interpretations could 
+
+adversely affect our effective tax rates, cause us to respond by making changes to our business structure, or result in other costs to us which could adversely affect our operations and financial results. 
+
+Moreover, we are subject to the examination of our income tax returns by domestic and foreign tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from these examinations. We believe our tax estimates to be reasonable; however, we cannot provide assurance that the final determination of any of these examinations will not have an adverse effect on our financial position and results of operations. 
+
+Contracting with government entities exposes us to additional risks inherent in the government procurement process. 
+
+We provide products and services, directly and indirectly, to a variety of domestic and foreign government entities, which introduces certain risks, including extended sales and collection cycles, varying governmental budgeting processes and adherence to complex procurement regulations and other government-specific contractual requirements. We have been, are currently and may in the future be subject to audits and investigations relating to our government contracts and any violations could result in various civil and criminal penalties and administrative sanctions, including termination of contracts, payment of fines, and suspension or debarment from future government business, as well as harm to our reputation and financial results. 
+
+Risks Related to Financial Performance 
+
+If our customers fail to renew subscriptions in accordance with our expectations, our future revenue and operating results could suffer, and our subscription offerings may create additional risk related to the timing of revenue recognition. 
+
+Our offerings are typically subscription-based, pursuant to product and service agreements. Since our customers have no obligation to renew their subscriptions for our services after the expiration of their initial subscription period, which typically ranges from 1 to 36 months, our customers may not renew their subscriptions at the same or a higher level of service, for the same number of seats or for the same duration of time, if at all. Our varied customer base and flexible duration complicates our ability to precisely forecast renewal rates. Our customers&#8217; renewal rates may decline or fluctuate as a result of a number of factors, including their level of satisfaction with our services, our ability to continue enhancing features and functionality, the reliability (including uptime) of our subscription offerings, the prices of offerings and competitors&#8217; offerings, the actual or perceived information security of our systems and services, decreases in the size of our customer base, reductions in our customers&#8217; spending levels or declines in customer activity as a result of general economic conditions or uncertainty in financial markets, including as a result of a global health crisis and geopolitical conflict, which has affected and may continue to affect certain sectors of the economy disproportionately. If our customers do not renew their subscriptions or if they renew on terms less favorable to us, our revenue may decline. 
+
+We generally recognize revenue from our subscription offerings ratably over the terms of their subscription agreements. As a result, most of the subscription revenue we report in each quarter is the result of subscription agreements entered into during previous quarters. Any reduction in new or renewed subscriptions in a quarter may not be reflected in our revenue results until a later quarter and may decrease our revenue in future quarters. Lower sales, reduced demand for our products and services, and increases in our attrition rate may not be fully reflected in our results of operations until future periods. Our subscription model could also make it difficult for us to rapidly increase our revenue from subscription-based or hosted services through additional sales in any period, as revenue from new customers will be recognized over the applicable subscription term. 
+
+Additionally, in connection with our sales efforts to enterprise customers, a number of factors could affect our revenue, including longer-than-expected sales and implementation cycles, potential deferral of revenue and alternative licensing arrangements. If any of our assumptions about revenue from our subscription-based offerings prove incorrect, our actual results may vary materially from those anticipated. 
+
+We may incur losses associated with currency fluctuations and may not be able to effectively hedge our exposure. 
+
+Our operating results are subject to fluctuations in foreign currency exchange rates due to the global scope of our business. Geopolitical and economic events, including war, trade disputes, economic sanctions and emerging market volatility, and associated uncertainty have caused, and may in the future cause currencies to fluctuate. We attempt to mitigate a portion of these risks through foreign currency hedging based on our judgment of the appropriate trade-offs among risk, opportunity and expense. We regularly review our hedging program and make adjustments that we believe are appropriate. Our hedging activities have not and may not in the future offset more than a portion of the adverse financial impact resulting from unfavorable movement in foreign currency exchange rates, which could adversely affect our financial condition or results of operations. 
+
+If our goodwill or amortizable intangible assets become impaired, then we could be required to record a significant charge to earnings. 
+
+GAAP requires us to test for goodwill impairment at least annually. In addition, we review our goodwill and amortizable intangible assets for impairment when events or changes in circumstances indicate the carrying value may not be recoverable, including declines in stock price, market capitalization or cash flows, and slower growth rates in our industry. Depending on the results of our review, we could be required to record a significant charge to earnings in our consolidated financial statements during the period in which any impairment of our goodwill or amortizable intangible assets was determined, negatively impacting our results of operations. 
+
+We have issued $3.65 billion of notes in debt offerings and may incur other debt in the future, which may adversely affect our financial condition and future financial results. 
+
+We have $3.65 billion in senior unsecured notes outstanding. We also have a $1.5 billion senior unsecured revolving credit agreement and a $3.5 billion delayed draw term loan agreement (together, &#8220;Credit Agreements&#8221;), both of which are currently undrawn. This debt may adversely affect our financial condition and future financial results by, among other things: 
+
+&#8226; increasing our vulnerability to adverse changes in general economic and industry conditions; 
+
+&#8226; requiring the dedication of a portion of our expected cash flows from operations to service our debt, thereby reducing the amount of expected cash flows available for other purposes, including capital expenditures and acquisitions; and 
+
+&#8226; limiting our flexibility in planning for, or reacting to, changes in our business and our industry. 
+
+Our senior unsecured notes and our Credit Agreements impose restrictions on us and require us to maintain compliance with specified covenants. Our ability to comply with these covenants may be affected by events beyond our control. If we breach any of the covenants and do not obtain a waiver from the noteholders or lenders, then, subject to applicable cure periods, any outstanding debt may be declared immediately due and payable. 
+
+In addition, changes by any rating agency to our credit rating may negatively impact the value and liquidity of both our debt and equity securities, as well as the potential costs associated with a refinancing of our debt. Under certain circumstances, if our credit ratings are downgraded or other negative action is taken, the interest rate payable by us under our Credit Agreements could increase. Downgrades in our credit ratings could also restrict our ability to obtain additional financing in the future and affect the terms of any such financing. 
+
+Our investment portfolio may become impaired by deterioration of the financial markets. 
+
+Our cash equivalent and short-term investment portfolio as of March 3, 2023 consisted of asset-backed securities, corporate debt securities, money market funds, municipal securities, time deposits, U.S. agency securities and U.S. Treasury securities. We follow an established investment policy and set of guidelines to monitor and help mitigate our exposure to interest rate and credit risk. The policy sets forth credit quality standards and limits our exposure to any one issuer, as well as our maximum exposure to various asset classes. 
+
+Should financial market conditions worsen in the future, including from impacts of inflationary pressures and rising interest rates or as a result of other geopolitical pressures, such as the Russia-Ukraine war, investments in some financial instruments may pose risks arising from market liquidity and credit concerns. In addition, any deterioration of the capital markets could cause our other income and expense to vary from expectations. As of March 3, 2023, we had no material impairment charges associated with our short-term investment portfolio, and although we believe our current investment portfolio has little risk of material impairment, we cannot predict future market conditions, market liquidity or credit availability, and we can provide no assurance that our investment portfolio will remain materially unimpaired. 
+
+General Risk Factors 
+
+Catastrophic events, including global pandemics such as the COVID-19 pandemic, may disrupt our business and adversely affect our financial condition and results of operations. 
+
+We are a highly automated business and rely on our network infrastructure and enterprise applications, internal technology systems and website for our development, marketing, operations, support, hosted services and sales activities. In addition, some of our businesses rely on third-party hosted services, and we do not control the operation of third-party data center facilities serving our customers from around the world, which increases our vulnerability. A disruption, infiltration or failure of these systems or third-party hosted services in the event of a major earthquake, fire, flood, tsunami or other weather 
+
+event, power loss, telecommunications failure, software or hardware malfunctions, pandemics (including the COVID-19 pandemic), cyber-attack, war, terrorist attack or other catastrophic event that our disaster recovery plans do not adequately address, could cause system interruptions, reputational harm, loss of intellectual property, delays in our product development, lengthy interruptions in our services, breaches of data security and loss of critical data. Any of these events could prevent us from providing our products and services or could negatively impact a country or region in which we sell our products, which could in turn decrease that country&#8217;s or region&#8217;s demand for our products and services. Our corporate headquarters, a significant portion of our research and development activities, certain of our data centers and certain other critical business operations are located in the San Francisco Bay Area, and additional facilities where we conduct significant operations are located in the Salt Lake Valley Area, both of which are near major earthquake faults. A catastrophic event that results in the destruction or disruption of any of our data centers or our critical business or information technology systems could severely affect our ability to conduct normal business operations and, as a result, our future operating results could be adversely affected. The adverse effects of any such catastrophic event would be exacerbated if experienced at the same time as another unexpected and adverse event, such as the COVID-19 pandemic. 
+
+The occurrence of regional epidemics or a global pandemic, such as the COVID-19 pandemic, have had and may continue to have an adverse effect on how we and our customers are operating our businesses and our operating results. Our operations have also been and may in the future be negatively affected by a range of external factors related to the pandemic that are not within our control, including the emergence and spread of more transmissible variants. The extent to which global pandemics, such as the COVID-19 pandemic, impact our financial condition or results of operations will depend on factors such as the duration and scope of the pandemic, as well as whether there is a material impact on the businesses or productivity of our customers, partners, employee, suppliers and other partners. To the extent that an epidemic or pandemic harms our business and results of operations, many of the other risks described in this Part II, Item 1A of this report may be heightened. 
+
+Climate change may have a long-term impact on our business. 
+
+While we seek to partner with organizations that mitigate their business risks associated with climate change, we recognize that there are inherent risks wherever business is conducted. Access to clean water and reliable energy in the communities where we conduct our business, whether for our offices or for our vendors, is a priority. Our major sites in California, Utah and India are vulnerable to climate change effects. While this danger has a low-assessed risk of disrupting normal business operations, it has the potential impact on employees&#8217; abilities to commute to work or to work from home and stay connected effectively. Climate-related events, including the increasing frequency of extreme weather events and their impact on U.S., India and other major regions&#8217; critical infrastructure, have the potential to disrupt our business, our third-party suppliers, and/or the business of our customers, and may cause us to experience higher attrition, losses and additional costs to maintain or resume operations. To inform our disclosures and take potential action as appropriate, Adobe is aligned with the guidelines of the Financial Stability Board&#8217;s Task Force on Climate-related Financial Disclosures recommendations and the Sustainability Accounting Standards Board and the Global Reporting Initiative environmental metrics. Regulatory developments, changing market dynamics and stakeholder expectations regarding climate change may impact our business, financial condition and results of operations. 
+
+Uncertainty about current and future economic conditions and other adverse changes in general political conditions in any of the major countries in which we do business could adversely affect our operating results. 
+
+As our business has grown, we have become increasingly subject to the risks arising from adverse changes in economic and political conditions, both domestically and globally, including trends toward protectionism and nationalism, other unfavorable changes in economic conditions, such as inflation, rising interest rates, fluctuations in foreign currency exchange rates or a recession, and other events beyond our control, such as economic sanctions, natural disasters, pandemics, including the COVID-19 pandemic, epidemics, political instability, armed conflicts and wars, including the Russia-Ukraine war. Worsening economic conditions have had and may continue to have an adverse impact on the businesses and financial health of many of our customers and hurt their creditworthiness. As a result, current or potential customers may be unable to fund software purchases, which could cause them to delay, decrease or cancel purchases of our products and services. Uncertainty about the effects of current and future economic and political conditions on us, our customers, suppliers and partners makes it difficult for us to forecast operating results and to make decisions about future investments. If economic growth in countries where we do business slows, customers may delay or reduce technology purchases, advertising spending or marketing spending. This could result in reductions in sales of our products and services, more extended sales cycles, slower adoption of new technologies and increased price competition. Among our customers are government entities, including the U.S. federal government, and our revenue could decline if spending cuts impact the government&#8217;s ability to purchase our products and services. Deterioration in economic conditions in any of the countries in which we do business could also cause slower or impaired collections on accounts receivable, which may adversely impact our liquidity and financial condition. A disruption in financial markets could impair our banking partners, on which we rely for operating cash management and derivative programs. Furthermore, if our customers are negatively impacted by these disruptions, such as being unable to access their existing cash to 
+
+fulfill their payment obligations to us, our business may be negatively impacted. The occurrence of any of these events could harm our business, financial condition and results of operations. 
+
+Revenue, margin or earnings shortfalls or the volatility of the market generally may cause the market price of our stock to decline. 
+
+In the past, the market price for our common stock experienced significant fluctuations and it may do so in the future. A number of factors may affect the market price for our common stock, such as: 
+
+&#8226; shortfalls in, or changes in expectations about, our revenue, margins, earnings, Annualized Recurring Revenue (&#8220;ARR&#8221;), sales of our Digital Experience offerings, or other key performance metrics; 
+
+&#8226; changes in estimates or recommendations by securities analysts; 
+
+&#8226; whether our results meet analysts&#8217; expectations; 
+
+&#8226; compression or expansion of multiples used by investors and analysts to value high technology SaaS companies; 
+
+&#8226; the announcement of new products or services, product enhancements, service introductions, strategic alliances or significant agreements by us or our competitors; 
+
+&#8226; the loss of large customers or our inability to increase sales to existing customers, retain customers or attract new customers; 
+
+&#8226; recruitment or departure of key personnel; 
+
+&#8226; variations in our or our competitors&#8217; results of operations, changes in the competitive landscape generally and developments in our industry; 
+
+&#8226; general socio-economic, political or market conditions; 
+
+&#8226; macroeconomic conditions and the economic impact of the COVID-19 pandemic, inflation and rising interest rates and global conflicts, including the Russia-Ukraine war; and 
+
+&#8226; unusual events such as significant acquisitions by us or our competitors, divestitures, litigation, regulatory actions and other factors, including factors unrelated to our operating performance. 
+
+In addition, the market for technology stocks or the stock market in general may experience uneven investor confidence, which may cause the market price for our common stock to decline for reasons unrelated to our operating performance. Volatility in the market price of a company&#8217;s securities for a period of time may increase the company&#8217;s susceptibility to securities class action litigation. Oftentimes, this type of litigation is expensive and diverts management&#8217;s attention and resources which may adversely affect our business. 
+

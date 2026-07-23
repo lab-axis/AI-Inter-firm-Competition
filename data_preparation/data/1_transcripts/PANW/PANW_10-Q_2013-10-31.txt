@@ -1,0 +1,2792 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION 
+
+AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q. The following discussion and analysis contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, among other things: statements regarding trends in revenue, cost of revenue, gross margin, cash flows, operating expenses, interest and other income, income taxes, investments and liquidity; the sufficiency of our existing cash and investments to meet our cash needs for at least the next 12 months; and other statements regarding our future operations, financial condition and prospects, and business strategies. Forward-looking statements generally can be identified by words such as &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;predicts,&#8221; &#8220;projects,&#8221; &#8220;will be,&#8221; &#8220;will continue,&#8221; &#8220;will likely result,&#8221; and similar expressions. These forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties, which could cause our actual results to differ materially from those reflected in the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Quarterly Report on Form 10-Q, and in particular, the risks discussed under the caption &#8220;Risk Factors&#8221; in Part II, Item 1A of this report and those discussed in other documents we file with the Securities and Exchange Commission. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. 
+
+Overview 
+
+We have pioneered the next generation of network security with our innovative platform that allows enterprises, service providers, and government entities to secure their networks and safely enable the increasingly complex and rapidly growing number of applications running on their networks. The core of our platform is our Next-Generation Firewall, which delivers application, user, and content visibility and control as well as protection against cyber threats integrated within the firewall through our proprietary hardware and software architecture. Our products and services can address a broad range of our end-customers&#8217; network security requirements, from the data center to the network perimeter, as well as the distributed enterprise, which includes branch offices and a growing number of mobile devices. 
+
+We derive revenue from sales of our products and services, which together comprise our platform. Product revenue is primarily generated from sales of our Next-Generation Firewall which is available in hardware and virtualized platforms. All of our products incorporate our proprietary PAN-OS operating system, which provides a consistent set of capabilities across our entire product line. These capabilities include: application visibility and control (App-ID), user identification (User-ID), site-to-site VPN, remote access SSL VPN, and Quality-of-Service (QoS). Our products are designed for different performance requirements throughout an organization which range from the PA-200, which is designed for enterprise remote offices, to the PA-5060, which is designed for high-speed data centers. The same firewall functionality that is delivered in the hardware platforms is also available in the VM-Series virtual firewalls which secure virtualized and cloud-based computing environments. Multiple firewalls can leverage the WildFire appliance, WF-500, which identifies, analyzes, and blocks known and unknown malware in a private cloud-based environment. Our platform can be centrally managed in both virtualized and hardware platforms across an organization with our Panorama product. 
+
+Services revenue includes sales of subscriptions and support and maintenance. Our Threat Prevention, URL Filtering, GlobalProtect, and WildFire subscriptions provide our end-customers with real-time access to the latest antivirus, intrusion prevention, web filtering, and modern malware prevention capabilities across fixed and mobile devices. When end-customers purchase a product, they typically purchase one or more of our subscriptions for additional functionality, as well as support and maintenance in order to receive ongoing security updates, upgrades, bug fixes, and repairs. We leverage our hardware platform to sell SaaS (software as a service) subscription services to meet our customers&#8217; evolving enterprise security requirements. Our hybrid SaaS revenue model consists of product, subscriptions and support and maintenance, which will enable us to benefit from recurring revenues as we continue to grow our installed base. Sales of these services increase our deferred revenue balance and contribute significantly to our positive cash flow provided by operating activities. 
+
+We maintain a field sales force that works closely with our channel partners in developing sales opportunities. We use a two-tier, indirect fulfillment model whereby we sell our products and services to our global distributor channel partners, which, in turn, sell our products and services to our reseller network, which then sell to our end-customers. Our channel partners purchase our products and services at a discount to our list prices before reselling them to our end-customers. Our channel partners generally receive an order from an end-customer prior to placing an order with us and generally do not stock appliances. 
+
+For the first quarter &#32;of fiscal 2014 , we added more than 1,000 &#32;end-customers including some of the largest Fortune 100 and Global 2000 companies in the world. We had more than 14,500 &#32;end-customers in over 130 &#32;countries as of October 31, 2013 . Our 
+
+- 14 &#32;- 
+
+end-customers represent a broad range of industries including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications. As of October 31, 2013 , we had 1,264 &#32;employees. 
+
+We have experienced rapid growth and increased demand for our products in recent periods. For the first quarter &#32;of fiscal 2014 &#32;and 2013 , revenues were $128.2 million &#32;and $85.9 million , respectively, representing year-over-year growth of 49.2% , despite continued uncertainty in the macroeconomic environment, in particular, weakness in EMEA and a slowdown in spending by and the temporary shutdown of the U.S. Government. These macroeconomic factors may continue to impact overall spending in information technology (IT) by our customers, which could adversely affect our revenues and operating results. All three components of our hybrid SaaS model experienced year-over-year growth, led by support and maintenance which grew 75.3%, followed by subscription and product which grew 70.9% and 36.0% &#32;respectively. The growth reflected the increasing recurring revenue in the business model and the rapid adoption of high margin subscription services in our customer base. During the first quarter &#32;of fiscal 2014 , 67.2% &#32;of our revenue was generated from the Americas, 18.6% &#32;from Europe, the Middle East, and Africa (EMEA), and 14.2% &#32;from Asia Pacific and Japan (APAC). 
+
+We believe that the growth of our business and our short and long term success are dependent upon many factors, including our ability to extend our technology leadership, grow our base of end-customers, expand deployment of our platform within existing end-customers, and focus on end-customer satisfaction. While these areas present significant opportunities for us, they also pose challenges and risks that we must successfully address in order to sustain the growth of our business and improve our operating results. 
+
+To manage any future growth effectively, we must continue to improve and expand our information technology and financial infrastructure, our operating and administrative systems and controls, and our ability to manage headcount, capital, and processes in an efficient manner. Additionally, we face intense competition in our market, and to succeed, we need to innovate and offer products that are differentiated from existing infrastructure products, as well as effectively hire, retain, train, and motivate qualified personnel and senior management. If we are unable to successfully address these challenges, our business, operating results, and prospects could be adversely affected. 
+
+Key Financial Metrics 
+
+We monitor the key financial metrics set forth below to help us evaluate growth trends, establish budgets, measure the effectiveness of our sales and marketing efforts, and assess operational efficiencies. We discuss revenue, gross margin, and the components of operating income (loss) and margin below under &#8220;&#8212;Financial Overview&#8221; and &#8220;&#8212;Results of Operations.&#8221; Deferred revenue, cash flow provided by operating activities, free cash flow (non-GAAP), and billings (non-GAAP) are discussed immediately below the following table. 
+
+&#160; 
+
+October 31, 2013 
+
+&#160; 
+
+July 31, 2013 
+
+&#160; 
+
+(in thousands) 
+
+Total deferred revenue 
+
+$ 
+
+278,956 
+
+&#160; 
+
+$ 
+
+249,230 
+
+Cash, cash equivalents, and investments 
+
+$ 
+
+470,375 
+
+&#160; 
+
+$ 
+
+436,935 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+Total revenue 
+
+$ 
+
+128,180 
+
+&#160; 
+
+$ 
+
+85,934 
+
+Year-over-year percentage increase 
+
+49.2 
+
+&#160;% 
+
+&#160; 
+
+50.5 
+
+&#160;% 
+
+Gross margin percentage 
+
+73.6 
+
+&#160;% 
+
+&#160; 
+
+71.9 
+
+&#160;% 
+
+Operating loss (1)(2) 
+
+$ 
+
+(7,011 
+
+) 
+
+&#160; 
+
+$ 
+
+(3,131 
+
+) 
+
+Operating margin percentage 
+
+(5.5 
+
+)% 
+
+&#160; 
+
+(3.6 
+
+)% 
+
+Cash flow provided by operating activities 
+
+$ 
+
+38,881 
+
+&#160; 
+
+$ 
+
+23,076 
+
+Free cash flow (non-GAAP) 
+
+$ 
+
+23,201 
+
+&#160; 
+
+$ 
+
+19,061 
+
+Billings (non-GAAP) 
+
+$ 
+
+157,906 
+
+&#160; 
+
+$ 
+
+110,534 
+
+______________ 
+
+(1) 
+
+Includes share-based compensation expense for the three months ended October 31, 2013 and 2012 of $14.4 million and $8.3 million, respectively. 
+
+(2) 
+
+Includes IP litigation expense for the three months ended October 31, 2013 and 2012 of $1.9 million and $0.6 million, respectively. 
+
+- 15 &#32;- 
+
+&#8226; 
+
+Deferred Revenue . Our deferred revenue consists of amounts that have been invoiced but that have not yet been recognized as revenue as of the period end. The majority of our deferred revenue balance consists of subscription and support and maintenance revenue that is recognized ratably over the contractual service period. We monitor our deferred revenue balance because it represents a significant portion of revenue to be recognized in future periods. 
+
+&#8226; 
+
+Cash Flow Provided by Operating Activities . We monitor cash flow provided by operating activities as a measure of our overall business performance. Our cash flow provided by operating activities is driven in large part by sales of our products and from up-front payments for both subscriptions and support and maintenance. Monitoring cash flow provided by operating activities enables us to analyze our financial performance without the non-cash effects of certain items such as depreciation, amortization, and share-based compensation costs, thereby allowing us to better understand and manage the cash needs of our business. 
+
+&#8226; 
+
+Free Cash Flow (non-GAAP) . We define free cash flow, a non-GAAP financial measure, as cash provided by operating activities less purchases of property, equipment, and other assets. We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business that, after the purchases of property, equipment, and other assets, can be used for strategic opportunities, including investing in our business, making strategic acquisitions, and strengthening the balance sheet. 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(in thousands) 
+
+Cash Flow: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash flow provided by operating activities 
+
+$ 
+
+38,881 
+
+&#160; 
+
+$ 
+
+23,076 
+
+Less: purchase of property, equipment, and other assets 
+
+15,680 
+
+&#160; 
+
+4,015 
+
+Free cash flow (non-GAAP) 
+
+$ 
+
+23,201 
+
+&#160; 
+
+$ 
+
+19,061 
+
+Net cash used in investing activities 
+
+$ 
+
+(93,959 
+
+) 
+
+&#160; 
+
+$ 
+
+(172,490 
+
+) 
+
+Net cash provided by financing activities 
+
+$ 
+
+10,646 
+
+&#160; 
+
+$ 
+
+1,245 
+
+&#8226; 
+
+Billings (non-GAAP) . We define billings, a non-GAAP financial measure, as total revenue plus the change in deferred revenue during the period. Billings is a key measure used by our management to manage our business, particularly as we experience increased sales of subscriptions and high renewal rates for subscriptions and support and maintenance, and monitor our near term cash flows. We believe that billings provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management. 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(in thousands) 
+
+Billings (non-GAAP): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenue 
+
+$ 
+
+128,180 
+
+&#160; 
+
+$ 
+
+85,934 
+
+Add: Change in total deferred revenue 
+
+29,726 
+
+&#160; 
+
+24,600 
+
+Billings (non-GAAP) 
+
+$ 
+
+157,906 
+
+&#160; 
+
+$ 
+
+110,534 
+
+Financial Overview 
+
+Revenue 
+
+We derive revenue from sales of our products and services. Revenue is recognized when persuasive evidence of an arrangement exists, delivery has occurred, the fee is fixed or determinable, and collectability is reasonably assured. 
+
+Our total revenue is comprised of the following: 
+
+&#8226; 
+
+Product Revenue . The substantial majority of our product revenue is derived from sales of our appliances. Product revenue also includes revenue derived from software licenses of Panorama, Virtual Systems Upgrades, and the VM-Series. We recognize product revenue at the time of shipment, provided that all other revenue recognition criteria have been met. As a percentage of total revenue, we expect our product revenue to vary from quarter to quarter based on seasonal and cyclical factors. 
+
+- 16 &#32;- 
+
+&#8226; 
+
+Services Revenue . Services revenue is derived primarily from Threat Prevention, URL Filtering, GlobalProtect, and WildFire subscriptions and support and maintenance. Our subscriptions are priced as a percentage of the appliance&#8217;s list price. Our contractual subscription and support and maintenance terms are typically one to five years. We recognize revenue from subscriptions and support and maintenance over the contractual service period. As a percentage of total revenue, we expect our services revenue to remain at consistent levels or increase over the long term as we introduce new subscriptions, renew existing services contracts, and expand our end-customer base. 
+
+Cost of Revenue 
+
+Our total cost of revenue consists of cost of product revenue and cost of services revenue. Our cost of revenue includes personnel costs, which consist of salaries, bonuses, and share-based compensation associated with our operations and global customer support organizations. Our cost of revenue also includes allocated costs, which consist of certain facilities, depreciation, benefits, recruiting, and information technology costs that we allocate based on headcount. 
+
+&#8226; 
+
+Cost of Product Revenue . Cost of product revenue primarily includes costs paid to our third-party contract manufacturer. Our cost of product revenue also includes product testing costs, allocated costs, warranty costs, shipping costs, and personnel costs associated with logistics and quality control. We expect our cost of product revenue to increase as our product revenue increases. 
+
+&#8226; 
+
+Cost of Services Revenue . Cost of services revenue includes personnel costs for our global customer support organization, allocated costs, and URL filtering database service fees. We expect our cost of services revenue to increase as our end-customer base grows. 
+
+Gross Margin 
+
+Gross margin, or gross profit as a percentage of revenue, has been and will continue to be affected by a variety of factors, including the average sales price of our products, manufacturing costs, the mix of products sold, and the mix of revenue between products and services. For sales of our products, our higher throughput firewall products generally have higher gross margins than our lower throughput firewall products within each product series. For sales of our services, our subscriptions typically have higher gross margins than our support and maintenance. We expect our gross margins to fluctuate over time depending on the factors described above. 
+
+Operating Expenses 
+
+Our operating expenses consist of research and development, sales and marketing, and general and administrative expense. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, bonuses, share-based compensation, allocated costs, and with regard to sales and marketing expense, sales commissions. We expect operating expenses to increase in absolute dollars, although they may fluctuate as a percentage of revenue from period to period, as we continue to grow in response to demand for our products and services. As of October 31, 2013 , we expect to recognize approximately $137.2 million &#32;of share-based compensation over a weighted-average period of three years , excluding additional share-based compensation related to any future grants of share-based awards. Share-based compensation, net of forfeitures, is recognized on a straight-line basis over the requisite service periods of the awards. 
+
+&#8226; 
+
+Research and Development . Research and development expense consists primarily of personnel costs. Research and development expense also includes prototype related expenses and allocated costs. We expect research and development expense to increase in absolute dollars as we continue to invest in our future products and services, although our research and development expense may fluctuate as a percentage of total revenue. 
+
+&#8226; 
+
+Sales and Marketing . Sales and marketing expense consists primarily of personnel costs including commission costs. We expense commission costs as incurred. Sales and marketing expense also includes costs for market development programs, promotional and other marketing costs, travel costs, professional services, and allocated costs. In the last 12 months, we have significantly increased the size of our sales force and have also substantially grown our sales presence internationally. We expect sales and marketing expense to continue to increase in absolute dollars as we increase the size of our sales and marketing organizations to increase touch points with end-customers and to expand our international presence, although our sales and marketing expense may fluctuate as a percentage of total revenue. 
+
+&#8226; 
+
+General and Administrative . General and administrative expense consists of personnel costs as well as professional services. General and administrative personnel include our executive, finance, human resources, and legal organizations. Professional services consist primarily of legal, auditing, accounting, and other consulting costs. We expect general and administrative expense to increase in absolute dollars due to additional legal costs related to ongoing IP litigation and additional costs associated with accounting, compliance, insurance, and investor relations, although our general and administrative expense may fluctuate as a percentage of total revenue. Refer to the discussion 
+
+- 17 &#32;- 
+
+under &#8220;Legal Proceedings&#8221; included in Part II, Item 1 of this Quarterly Report on Form 10-Q for information related to pending litigation. 
+
+Interest Income 
+
+Interest income consists of income earned on our cash and cash equivalents and investments. We expect interest income will increase as we grow our cash and investments portfolio depending on our average investment balances during the period, types and mix of investments, and market interest rates. 
+
+Other Income (Expense), Net 
+
+Other income (expense), net consists primarily of foreign currency re-measurement gains and losses and foreign currency transaction gains and losses. We expect other income (expense), net to fluctuate depending on foreign exchange rate movements. 
+
+Provision for Income Taxes 
+
+Provision for income taxes consists primarily of income taxes in foreign jurisdictions in which we conduct business, withholding taxes, and federal and state income taxes in the United States. We maintain a full valuation allowance for domestic deferred tax assets, including net operating loss carryforwards and research and development and other tax credits. We expect the provision for income taxes to increase in absolute dollars in future years. 
+
+Results of Operations 
+
+The following tables summarize our results of operations for the periods presented and as a percentage of our total revenue for those periods. The period to period comparison of results is not necessarily indicative of results for future periods. 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(in thousands) 
+
+Condensed Consolidated Statements of Operations Data: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+$ 
+
+75,485 
+
+&#160; 
+
+$ 
+
+55,514 
+
+Services 
+
+52,695 
+
+&#160; 
+
+30,420 
+
+Total revenue 
+
+128,180 
+
+&#160; 
+
+85,934 
+
+Cost of revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+17,954 
+
+&#160; 
+
+14,416 
+
+Services 
+
+15,853 
+
+&#160; 
+
+9,774 
+
+Total cost of revenue 
+
+33,807 
+
+&#160; 
+
+24,190 
+
+Total gross profit 
+
+94,373 
+
+&#160; 
+
+61,744 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+19,893 
+
+&#160; 
+
+13,312 
+
+Sales and marketing 
+
+67,366 
+
+&#160; 
+
+42,607 
+
+General and administrative 
+
+14,125 
+
+&#160; 
+
+8,956 
+
+Total operating expenses 
+
+101,384 
+
+&#160; 
+
+64,875 
+
+Operating loss 
+
+(7,011 
+
+) 
+
+&#160; 
+
+(3,131 
+
+) 
+
+Interest income 
+
+&#160; 
+
+Other income (expense), net 
+
+&#160; 
+
+(170 
+
+) 
+
+Loss before income taxes 
+
+(6,614 
+
+) 
+
+&#160; 
+
+(3,203 
+
+) 
+
+Provision for income taxes 
+
+1,247 
+
+&#160; 
+
+Net loss 
+
+$ 
+
+(7,861 
+
+) 
+
+&#160; 
+
+$ 
+
+(3,515 
+
+) 
+
+&#160; 
+
+- 18 &#32;- 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(as a percentage of revenue) 
+
+Condensed Consolidated Statements of Operations Data: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+58.9 
+
+&#160;% 
+
+&#160; 
+
+64.6 
+
+&#160;% 
+
+Services 
+
+41.1 
+
+&#160;% 
+
+&#160; 
+
+35.4 
+
+&#160;% 
+
+Total revenue 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+14.0 
+
+&#160;% 
+
+&#160; 
+
+16.8 
+
+&#160;% 
+
+Services 
+
+12.4 
+
+&#160;% 
+
+&#160; 
+
+11.3 
+
+&#160;% 
+
+Total cost of revenue 
+
+26.4 
+
+&#160;% 
+
+&#160; 
+
+28.1 
+
+&#160;% 
+
+Total gross profit 
+
+73.6 
+
+&#160;% 
+
+&#160; 
+
+71.9 
+
+&#160;% 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+15.5 
+
+&#160;% 
+
+&#160; 
+
+15.5 
+
+&#160;% 
+
+Sales and marketing 
+
+52.6 
+
+&#160;% 
+
+&#160; 
+
+49.6 
+
+&#160;% 
+
+General and administrative 
+
+11.0 
+
+&#160;% 
+
+&#160; 
+
+10.4 
+
+&#160;% 
+
+Total operating expenses 
+
+79.1 
+
+&#160;% 
+
+&#160; 
+
+75.5 
+
+&#160;% 
+
+Operating loss 
+
+(5.5 
+
+)% 
+
+&#160; 
+
+(3.6 
+
+)% 
+
+Interest income 
+
+0.1 
+
+&#160;% 
+
+&#160; 
+
+0.1 
+
+&#160;% 
+
+Other income (expense), net 
+
+0.2 
+
+&#160;% 
+
+&#160; 
+
+(0.2 
+
+)% 
+
+Loss before income taxes 
+
+(5.2 
+
+)% 
+
+&#160; 
+
+(3.7 
+
+)% 
+
+Provision for income taxes 
+
+1.0 
+
+&#160;% 
+
+&#160; 
+
+0.4 
+
+&#160;% 
+
+Net loss 
+
+(6.2 
+
+)% 
+
+&#160; 
+
+(4.1 
+
+)% 
+
+Comparison of the Three &#32;Month Periods Ended October 31, 2013 &#32;and 2012 
+
+Revenue 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+% of Revenue 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+% of Revenue 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(dollars in thousands) 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+$ 
+
+75,485 
+
+&#160; 
+
+58.9 
+
+% 
+
+&#160; 
+
+$ 
+
+55,514 
+
+&#160; 
+
+64.6 
+
+% 
+
+&#160; 
+
+$ 
+
+19,971 
+
+&#160; 
+
+36.0 
+
+% 
+
+Services 
+
+52,695 
+
+&#160; 
+
+41.1 
+
+% 
+
+&#160; 
+
+30,420 
+
+&#160; 
+
+35.4 
+
+% 
+
+&#160; 
+
+22,275 
+
+&#160; 
+
+73.2 
+
+% 
+
+Total revenue 
+
+$ 
+
+128,180 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+$ 
+
+85,934 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+$ 
+
+42,246 
+
+&#160; 
+
+49.2 
+
+% 
+
+Revenue by geographic theater: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Americas 
+
+$ 
+
+86,166 
+
+&#160; 
+
+67.2 
+
+% 
+
+&#160; 
+
+$ 
+
+54,657 
+
+&#160; 
+
+64.0 
+
+% 
+
+&#160; 
+
+$ 
+
+31,509 
+
+&#160; 
+
+57.6 
+
+% 
+
+EMEA 
+
+23,875 
+
+&#160; 
+
+18.6 
+
+% 
+
+&#160; 
+
+19,677 
+
+&#160; 
+
+22.9 
+
+% 
+
+&#160; 
+
+4,198 
+
+&#160; 
+
+21.3 
+
+% 
+
+APAC 
+
+18,139 
+
+&#160; 
+
+14.2 
+
+% 
+
+&#160; 
+
+11,600 
+
+&#160; 
+
+13.5 
+
+% 
+
+&#160; 
+
+6,539 
+
+&#160; 
+
+56.4 
+
+% 
+
+Total revenue 
+
+$ 
+
+128,180 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+$ 
+
+85,934 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+$ 
+
+42,246 
+
+&#160; 
+
+49.2 
+
+% 
+
+Product revenue increased $20.0 million , or 36.0% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 . The increase was driven by increased demand for our PA-3000 and PA-5000 Series firewalls, and our M-100 management appliance. 
+
+Service revenue increased $22.3 million , or 73.2% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 . The increase was driven by a 75.3% increase in our support and maintenance revenue and a 
+
+- 19 &#32;- 
+
+70.9% increase in our subscription revenue due to increased sales to new and existing end-customers. The relative increases in subscriptions and support and maintenance will fluctuate over time, depending on the mix of services revenue and the introduction of new services offerings. 
+
+With respect to geographic theaters, the Americas contributed the largest portion of the increase in revenue for the three months ended &#32; October 31, &#32; 2013 &#32;due to its larger and more established sales force compared to our other theaters. Revenue from both EMEA and APAC increased for the three months ended &#32; October 31, &#32; 2013 &#32;due to our investment in our sales force and number of partners in these theaters. 
+
+Cost of Revenue and Gross Margin 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Gross Margin 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Gross Margin 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Percentage 
+
+&#160; 
+
+(dollars in thousands) 
+
+Cost of revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+$ 
+
+17,954 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+14,416 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+3,538 
+
+&#160; 
+
+24.5 
+
+% 
+
+Services 
+
+15,853 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+9,774 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+6,079 
+
+&#160; 
+
+62.2 
+
+% 
+
+Total cost of revenue 
+
+$ 
+
+33,807 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+24,190 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+9,617 
+
+&#160; 
+
+39.8 
+
+% 
+
+Gross profit: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product 
+
+$ 
+
+57,531 
+
+&#160; 
+
+76.2 
+
+% 
+
+&#160; 
+
+$ 
+
+41,098 
+
+&#160; 
+
+74.0 
+
+% 
+
+&#160; 
+
+$ 
+
+16,433 
+
+&#160; 
+
+2.2 
+
+% 
+
+Services 
+
+36,842 
+
+&#160; 
+
+69.9 
+
+% 
+
+&#160; 
+
+20,646 
+
+&#160; 
+
+67.9 
+
+% 
+
+&#160; 
+
+16,196 
+
+&#160; 
+
+2.0 
+
+% 
+
+Total gross profit 
+
+$ 
+
+94,373 
+
+&#160; 
+
+73.6 
+
+% 
+
+&#160; 
+
+$ 
+
+61,744 
+
+&#160; 
+
+71.9 
+
+% 
+
+&#160; 
+
+$ 
+
+32,629 
+
+&#160; 
+
+1.7 
+
+% 
+
+Product cost increased $3.5 million , or 24.5% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 &#32;due to an increase in product unit volume, including sales of our PA-3000 Series firewalls and M-100 management appliance, partially offset by decreases in manufacturing costs. 
+
+Service cost increased $6.1 million , or 62.2% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 &#32;due to an increase in personnel costs of $3.1 million, including share-based compensation of $1.0 million, and other costs incurred to expand our customer service capabilities to support our growing end-customer base. 
+
+Gross margin increased &#32; 170 &#32;basis points for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 . The increase &#32;of 220 &#32;basis points in product margin was due to continued focus on material cost reductions and product mix. The increase &#32;of 200 &#32;basis points in services margin was due to an increase in support and maintenance without a proportionate increase in our global customer service organization costs. The mix in services revenue was largely unchanged on a period over period basis. 
+
+Operating Expenses 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+% of Revenue 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+% of Revenue 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(dollars in thousands) 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+$ 
+
+19,893 
+
+&#160; 
+
+15.5 
+
+% 
+
+&#160; 
+
+$ 
+
+13,312 
+
+&#160; 
+
+15.5 
+
+% 
+
+&#160; 
+
+$ 
+
+6,581 
+
+&#160; 
+
+49.4 
+
+% 
+
+Sales and marketing 
+
+67,366 
+
+&#160; 
+
+52.6 
+
+% 
+
+&#160; 
+
+42,607 
+
+&#160; 
+
+49.6 
+
+% 
+
+&#160; 
+
+24,759 
+
+&#160; 
+
+58.1 
+
+% 
+
+General and administrative 
+
+14,125 
+
+&#160; 
+
+11.0 
+
+% 
+
+&#160; 
+
+8,956 
+
+&#160; 
+
+10.4 
+
+% 
+
+&#160; 
+
+5,169 
+
+&#160; 
+
+57.7 
+
+% 
+
+Total operating expenses 
+
+$ 
+
+101,384 
+
+&#160; 
+
+79.1 
+
+% 
+
+&#160; 
+
+$ 
+
+64,875 
+
+&#160; 
+
+75.5 
+
+% 
+
+&#160; 
+
+$ 
+
+36,509 
+
+&#160; 
+
+56.3 
+
+% 
+
+Includes share-based compensation of: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+$ 
+
+3,262 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+1,690 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+1,572 
+
+&#160; 
+
+93.0 
+
+% 
+
+Sales and marketing 
+
+6,628 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+4,298 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2,330 
+
+&#160; 
+
+54.2 
+
+% 
+
+General and administrative 
+
+2,858 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,744 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,114 
+
+&#160; 
+
+63.9 
+
+% 
+
+Total 
+
+$ 
+
+12,748 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+7,732 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+5,016 
+
+&#160; 
+
+64.9 
+
+% 
+
+- 20 &#32;- 
+
+Research and development expense increased &#32; $6.6 million , or 49.4% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 , due to an increase in personnel costs of $3.6 million related to increasing our headcount and share-based compensation, an increase in allocated costs of $1.9 million and an increase in development costs of $1.0 million to support continued investment in our future product and service offerings. 
+
+Sales and marketing expense increased &#32; $24.8 million , or 58.1% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 , due to an increase in personnel costs of $17.1 million largely due to an increase in headcount, share-based compensation, and commission costs, an increase in allocated costs of $3.0 million, and an increase in travel and entertainment cost of $2.3 million. 
+
+General and administrative expense increased &#32; $5.2 million , or 57.7% , for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 , due to an increase in professional services costs of $2.2 million, including expenses related to ongoing IP litigation with Juniper of $1.9 million. We expect that these litigation expenses will increase as we approach the February 2014 trial date. The remaining increase was due to an increase in personnel costs of $1.5 million largely due to an increase in headcount and share-based compensation and an increase in allocated costs of $0.7 million. 
+
+Provision for Income Taxes 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(dollars in thousands) 
+
+Provision for income taxes 
+
+$ 
+
+1,247 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+299.7 
+
+% 
+
+Effective tax rate 
+
+(18.9 
+
+)% 
+
+&#160; 
+
+(9.7 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+We recorded an income tax provision &#32;for the three months ended &#32; October 31, &#32; 2013 &#32;due to foreign income taxes and withholding taxes. The provision for income taxes increased &#32;for the three months ended &#32; October 31, &#32; 2013 &#32;compared to the three months ended &#32; October 31, &#32; 2012 &#32;due to an increase in foreign income taxes as a result of an increase in foreign taxable income. In addition, our global operations and foreign presence expanded year over year giving rise to additional foreign income taxes and withholding taxes. 
+
+Liquidity and Capital Resources 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+October 31, 2013 
+
+&#160; 
+
+July 31, 2013 
+
+&#160; 
+
+(in thousands) 
+
+Working capital 
+
+$ 
+
+324,003 
+
+&#160; 
+
+$ 
+
+323,597 
+
+Cash, cash equivalents, and investments: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash and cash equivalents 
+
+$ 
+
+266,182 
+
+&#160; 
+
+$ 
+
+310,614 
+
+Investments 
+
+204,193 
+
+&#160; 
+
+126,321 
+
+Total cash, cash equivalents, and investments 
+
+$ 
+
+470,375 
+
+&#160; 
+
+$ 
+
+436,935 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended October 31, 
+
+&#160; 
+
+&#160; 
+
+(in thousands) 
+
+Cash provided by operating activities 
+
+$ 
+
+38,881 
+
+&#160; 
+
+$ 
+
+23,076 
+
+Cash used in investing activities 
+
+(93,959 
+
+) 
+
+&#160; 
+
+(172,490 
+
+) 
+
+Cash provided by financing activities 
+
+10,646 
+
+&#160; 
+
+1,245 
+
+Net increase (decrease) in cash and cash equivalents 
+
+$ 
+
+(44,432 
+
+) 
+
+&#160; 
+
+$ 
+
+(148,169 
+
+) 
+
+At October 31, 2013 , our cash, cash equivalents, and investments of $470.4 million &#32;were held for working capital purposes, of which approximately $43.9 million &#32;was held outside the United States and not presently available to fund domestic operations and obligations. If we were to repatriate cash held outside the United States, it could be subject to U.S. income taxes, less any previously paid foreign income taxes. 
+
+We believe that our cash flow from operations with existing cash and cash equivalents will be sufficient to meet our anticipated cash needs for at least the next 12 months. Our future capital requirements will depend on many factors including our growth rate, the timing and extent of spending to support development efforts, the expansion of sales and marketing activities, the introduction of new and enhanced products and services offerings, the costs to ensure access to adequate manufacturing capacity, 
+
+- 21 &#32;- 
+
+and the continuing market acceptance of our products. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results, and financial condition may be adversely affected. 
+
+Operating Activities 
+
+Our primary source of cash from operating activities has been from cash collections from our customers. We expect cash inflows from operating activities to be affected by increases in sales and timing of collections. Our primary uses of cash from operating activities have been for personnel costs and purchases from our contract manufacturer. We expect cash outflows from operating activities to be affected by increases in sales and increases in personnel costs as we grow our business. Cash provided by operating activities for the first quarter &#32;of fiscal 2014 &#32;and the first quarter &#32;of fiscal 2013 &#32;was $38.9 million &#32;and $23.1 million , respectively. 
+
+For the three months ended &#32; October 31, &#32; 2013 , operating activities provided $38.9 million &#32;in cash as a result of our net loss &#32;of $7.9 million , non-cash charges of $17.9 million &#32;and a net change of $28.9 million &#32;in our net operating assets and liabilities. Non-cash charges included share-based compensation, depreciation and amortization, amortization of investment premiums, net of accretion of purchase discounts, and the excess tax benefit from share-based compensation. The net change in our net operating assets and liabilities was due to a $29.7 million &#32; increase &#32;in deferred revenue as a result of increases in sales of subscriptions and support and maintenance and a $5.0 million &#32; increase &#32;in accrued compensation and other liabilities as a result of increases in business activity, partially offset by a $4.0 million &#32; increase &#32;in accounts receivable due to an increase in sales, and a $1.7 million &#32; increase &#32;in prepaid expenses and other assets. Current deferred revenue increased 11.5% &#32;from $153.9 million &#32;as of July 31, 2013 &#32;to $171.6 million &#32;as of October 31, 2013 . The increase was due to an increase in business volume during the period. Non-current deferred revenue increased 12.7% &#32;from $95.3 million &#32;as of July 31, 2013 &#32;to $107.3 million &#32;as of October 31, 2013 . The increase was due to a higher proportion of sales of multi-year subscriptions and support and maintenance. Our day&#8217;s sales outstanding, or DSO, defined as the number of days it takes to turn our average quarterly accounts receivable into cash based on a 90 day average, was 63 &#32;days at October 31, 2013 . 
+
+For the three months ended &#32; October 31, &#32; 2012 , operating activities provided $23.1 million in cash as a result of net loss of $3.5 million, non-cash charges of $10.7 million and a net change of $15.9 million in our net operating assets and liabilities. The net change in our net operating assets and liabilities was primarily due to a $24.6 million increase in deferred revenue as a result of increases in sales of subscriptions and support and maintenance and a $4.8 million increase in accrued and other liabilities as a result of increases in business activity, partially offset by a $10.7 million increase in accounts receivable and a $3.8 million increase in prepaid expenses and other assets. Our day&#8217;s sales outstanding defined as the number of days it takes to turn our average quarterly accounts receivable into cash based on a 90 day average, was 53 days at October 31, 2012. 
+
+Investing Activities 
+
+Our investing activities have consisted of purchases of property, equipment, and other assets and purchases, sales, and maturities of investments. We expect to continue such activities as our business grows. 
+
+For the three months ended &#32; October 31, &#32; 2013 , investing activities used $94.0 million &#32;in cash as a result of $122.2 million &#32;in purchases of investments and $15.7 million &#32;in capital expenditures, partially offset by proceeds from sales and maturities of investments of $44.0 million . 
+
+For the three months ended &#32; October 31, &#32; 2012 , investing activities used $172.5 million in cash as a result of $168.5 million in purchases of short-term and long-term investments to shift the mix of investments from money market funds to higher yield commercial paper, corporate notes and bonds, and U.S. government agency securities and capital expenditures to purchase property, equipment, and other assets of $4.0 million. 
+
+Financing Activities 
+
+Our financing activities have consisted of proceeds from the exercises of stock options and proceeds from our employee stock purchase plan. 
+
+For the three months ended &#32; October 31, &#32; 2013 , financing activities provided $10.6 million &#32;in cash as a result of proceeds from the exercises of stock options and the employee stock purchase plan. 
+
+For the three months ended &#32; October 31, &#32; 2012 , financing activities provided $1.2 million in cash as a result of proceeds from the exercises of stock options. 
+
+- 22 &#32;- 
+
+Off-Balance Sheet Arrangements 
+
+Through October 31, 2013 , we did not have any relationships with unconsolidated organizations or financial partnerships, such as structured finance or special purpose entities, that would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+
+Critical Accounting Policies and Estimates 
+
+Our condensed consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances. We evaluate our estimates and assumptions on an ongoing basis. Actual results may differ from these estimates. To the extent that there are material differences between these estimates and our actual results, our future financial statements will be affected. 
+
+We believe the critical accounting policies and estimates discussed under Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K filed with the Securities and Exchange Commission on September 25, 2013, reflect our more significant judgments and estimates used in the preparation of the condensed consolidated financial statements. See &#8220;Available Information&#8221; below for instructions on how to access our Annual Report on Form 10-K. There have been no significant changes to our critical accounting policies and estimates as filed in such report. 
+
+Recent Accounting Pronouncements 
+
+Refer to &#8220;Recent Accounting Pronouncements&#8221; in Note 1 to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q. 
+
+Available Information 
+
+Our website is located at www.paloaltonetworks.com, and our investor relations website is located at investors.paloaltonetworks.com. The following filings are available through our investor relations website after we file them with the SEC: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and our Proxy Statements for our annual meetings of stockholders. These filings are also available for download free of charge on our investor relations website. We also provide a link to the section of the SEC's website at www.sec.gov that has all of our public filings, including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, our Proxy Statements, and other ownership related filings. Further, a copy of this Quarterly Report on Form 10-Q is located at the SEC's Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+Webcasts of our earnings calls and certain events we participate in or host with members of the investment community are on our investor relations website. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our certificate of incorporation, bylaws, corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading &#8220;Corporate Governance.&#8221; The contents of our websites are not incorporated by reference into this Quarterly Report on Form 10-Q or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+
+- 23 &#32;- 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Our operations and financial results are subject to various risks and uncertainties including those described below. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, also may become important factors that affect us. If any of the following risks or others not specified below materialize, our business, financial condition, and results of operations could be materially adversely affected. In that case, the trading price of our common stock could decline. 
+
+Risks Related to Our Business and Our Industry 
+
+Our limited operating history makes it difficult to evaluate our current business and future prospects, and may increase the risk of your investment. 
+
+We were founded in 2005 and shipped our first products in 2007. The majority of our revenue growth has occurred since 2009. Our limited operating history makes it difficult to evaluate our current business and our future prospects, including our ability to plan for and model future growth. We have encountered and will continue to encounter risks and difficulties frequently experienced by rapidly growing companies in constantly evolving industries, including the risks described in this Quarterly Report on Form 10-Q. If we do not address these risks successfully, our business and operating results will be adversely affected, and our stock price could decline. Further, we have limited historical financial data, and we operate in a rapidly evolving market. As such, any predictions about 
+
+- 24 &#32;- 
+
+our future revenue and expenses may not be as accurate as they would be if we had a longer operating history or operated in a more predictable market. 
+
+Our business and operations have experienced rapid growth in recent periods, and if we do not effectively manage any future growth or are unable to improve our systems and processes, our operating results will be adversely affected. 
+
+We have experienced rapid growth and increased demand for our products over the last few years. Our employee headcount and number of end-customers have increased significantly, and we expect to continue to grow our headcount significantly over the next year. For example, from the end of fiscal 2013 &#32;to the end of the first quarter &#32;of fiscal 2014 , our headcount increased from more than 1,147 &#32;to 1,264 employees, and our number of end-customers increased from approximately 13,500 &#32;to over 14,500 . The growth and expansion of our business and product and service offerings places a continuous significant strain on our management, operational, and financial resources. As we have grown, we have increasingly managed more complex deployments of our products and services with larger end-customers. To manage any future growth effectively, we must continue to improve and expand our information technology and financial infrastructure, our operating and administrative systems, and our ability to manage headcount, capital, and processes in an efficient manner. 
+
+We may not be able to successfully implement improvements to our systems and processes in an efficient or timely manner, and we may discover deficiencies in our existing systems and processes. We have licensed technology from third parties to help us accomplish this objective. We have continued to improve and customize our enterprise resource planning system since its launch in the second quarter of fiscal 2013. We may experience difficulties in managing improvements to our systems and processes or in connection with third-party software, which could disrupt existing customer relationships, cause us to lose customers, limit us to smaller deployments of our products, or increase our technical support costs. Our failure to improve our systems and processes, or their failure to operate in the intended manner, may result in our inability to manage the growth of our business and to accurately forecast our revenue, expenses, and earnings, or to prevent certain losses. In addition, our systems and processes may not prevent or detect all errors, omissions, or fraud. Our productivity and the quality of our products and services may be adversely affected if we do not integrate and train our new employees quickly and effectively. Any future growth would add complexity to our organization and require effective coordination throughout our organization. For example, as a result of growth in our employee headcount, on September 20, 2012, we entered into two lease agreements for an aggregate of approximately 300,000 square feet of space in Santa Clara, California to serve as our new corporate headquarters beginning in November 2013. We expect to incur additional expense in connection with the two new leases and the relocation of our headquarters, and we expect that the relocation could disrupt our operations and distract our management team. In the fourth quarter of fiscal 2013, we entered into a sublease agreement for our existing headquarters beginning in January 2014. Failure to manage any future growth effectively could result in increased costs, negatively impact our end-customers&#8217; satisfaction with our products and services, and harm our operating results. 
+
+Our operating results are likely to vary significantly from period to period and be unpredictable, which could cause the trading price of our common stock to decline. 
+
+Our operating results, in particular, our revenues, gross and operating margins, and operating expenses, &#32; have historically varied from period to period, and we expect that this trend will continue as a result of a number of factors, many of which are outside of our control and may be difficult to predict, including: 
+
+&#8226; 
+
+our ability to attract and retain new end-customers; 
+
+&#8226; 
+
+the budgeting cycles and purchasing practices of end-customers; 
+
+&#8226; 
+
+changes in end-customer, distributor or reseller requirements, or market needs; 
+
+&#8226; 
+
+the cost and potential outcomes of existing and future litigation, which could have a material adverse effect on our business; 
+
+&#8226; 
+
+changes in the growth rate of the enterprise network security market; 
+
+&#8226; 
+
+the timing and success of new product and service introductions by us or our competitors or any other change in the competitive landscape of our industry, including consolidation among our competitors or end-customers; 
+
+&#8226; 
+
+changes in mix of our products and services including increases in multi-year subscriptions and support and maintenance; 
+
+&#8226; 
+
+price competition; 
+
+&#8226; 
+
+deferral of orders from end-customers in anticipation of new products or product enhancements announced by us or our competitors; 
+
+&#8226; 
+
+our ability to successfully expand our business domestically and internationally; 
+
+&#8226; 
+
+our ability to increase the size of our distribution channel; 
+
+- 25 &#32;- 
+
+&#8226; 
+
+decisions by potential end-customers to purchase enterprise network security solutions from larger, more established security vendors or from their primary network equipment vendors; 
+
+&#8226; 
+
+changes in end-customer attach rates and renewal rates for our services; 
+
+&#8226; 
+
+timing of revenue recognition and revenue deferrals; 
+
+&#8226; 
+
+our ability to manage production and manufacturing related costs, global customer service organization costs, inventory excess and obsolescence costs, and warranty costs; 
+
+&#8226; 
+
+insolvency or credit difficulties confronting our customers, which could adversely affect their ability to purchase or pay for our products and services, or confronting our key suppliers, including our sole source suppliers, which could disrupt our supply chain; 
+
+&#8226; 
+
+any disruption in our channel or termination of our relationship with important channel partners, including as a result of consolidation among distributors and resellers of network security solutions; 
+
+&#8226; 
+
+our inability to fulfill our end-customers&#8217; orders due to supply chain delays or events that impact our manufacturers or their suppliers; 
+
+&#8226; 
+
+seasonality or cyclical fluctuations in our markets; 
+
+&#8226; 
+
+future accounting pronouncements or changes in our accounting policies; 
+
+&#8226; 
+
+the impact on our overall effective tax rate caused by any reorganization in our corporate structure or any changes in our valuation allowance for domestic deferred assets; 
+
+&#8226; 
+
+increases or decreases in our expenses caused by fluctuations in foreign currency exchange rates, as an increasing portion of our expenses are incurred and paid in currencies other than the U.S. dollar; and 
+
+&#8226; 
+
+general macroeconomic conditions, both domestically and in our foreign markets. 
+
+Any one of the factors above or the cumulative effect of some of the factors referred to above may result in significant fluctuations in our financial and other operating results. This variability and unpredictability could result in our failure to meet our revenue, margin, or other operating result expectations or those of securities analysts or investors for a particular period. If we fail to meet or exceed such expectations for these or any other reasons, the market price of our common stock could fall substantially, and we could face costly lawsuits, including securities class action suits. 
+
+We are involved in litigation in which Juniper alleges that our appliances infringe seven of its patents. If Juniper prevails in the litigation, we could be required to pay substantial damages for past sales of any infringing appliances, enjoined from manufacturing, using, selling, and importing such appliances if a license or other right to continue selling our appliances is not made available to us, and required to pay substantial ongoing royalties and comply with unfavorable terms if such a license is made available to us. 
+
+In December 2011, Juniper filed a lawsuit against us in the United States District Court for the District of Delaware, alleging that our appliances infringe six of its U.S. patents. One or both of Nir Zuk and Yuming Mao are named inventors on each of the patents being asserted against us. Both Mr. Zuk and Mr. Mao were employed by NetScreen Technologies, Inc., which was acquired by Juniper in April 2004. Mr. Zuk left Juniper in 2005 and founded Palo Alto Networks in that same year. Mr. Mao joined Palo Alto Networks in 2006. Juniper seeks preliminary and permanent injunctions against infringement, treble damages, and attorney&#8217;s fees. On February 9, 2012, we filed an answer to Juniper&#8217;s complaint, which denied that we infringed Juniper&#8217;s patents and asserted that Juniper&#8217;s patents were invalid. 
+
+On February 28, 2012, Juniper filed a motion to strike our defense of invalidity based on the legal doctrine of &#8220;assignor estoppel.&#8221; Under the doctrine of assignor estoppel, an inventor of a patented invention who assigns the patent to another for value cannot later challenge the validity of the patent. Under some circumstances, courts have held that the doctrine of assignor estoppel applies not only to the assigning inventor but also to a company in privity with the inventor. On March 23, 2012, we filed a brief in opposition to that motion. Juniper filed a brief in response on April 2, 2012. On August 2, 2012, the District Court issued an order granting Juniper&#8217;s motion as to one of the patents in suit (the &#8217;634 patent) but denying Juniper&#8217;s motion as to the five other patents in suit. Pursuant to the order, we will not be able to argue in the District Court that the &#8217;634 patent is invalid. Under the Court&#8217;s order, however, we are not precluded from arguing that our appliances do not infringe the &#8217;634 patent. Juniper may re-assert its position on the doctrine of assignor estoppel as to the other patents in suit at later stages of the proceedings. 
+
+On September 4, 2012, Juniper filed a motion to amend its complaint to allege that our appliances infringe two additional U.S. patents (the added patents) but also to withdraw its allegations as to a previously-asserted patent (the withdrawn patent). This amended complaint was officially filed on September 25, 2012, pursuant to a stipulation between the parties. Juniper now alleges that our appliances infringe seven of its patents. On October 12, 2012, we filed an answer to Juniper&#8217;s amended complaint, which denied that we infringed Juniper&#8217;s patents and asserted that Juniper&#8217;s patents were invalid. In light of the District Court&#8217;s prior order granting 
+
+- 26 &#32;- 
+
+Juniper&#8217;s assignor estoppel motion as to one of the patents in suit (the &#8216;634 patent), we do not intend to argue in the District Court that the &#8216;634 patent is invalid, and we do not intend to argue in the District Court that one of the two newly-asserted patents (the &#8216;752 patent) is invalid. 
+
+On September 13, 2012, we filed with the U.S. Patent and Trademark Office requests for inter partes reexamination of five of the six patents asserted by Juniper in its original complaint. We did not file a request for reexamination on the withdrawn patent. The Patent and Trademark Office has since issued decisions on our requests for reexaminations. On October 19, 2012 and December 3, 2012, the Patent and Trademark Office granted our requests for reexamination as to three patents (the '459, '700 and '634 patents) rejecting a number of the claims asserted in the litigation, and on November 15, 2012 and 26, 2012, the Patent and Trademark Office denied our requests for reexamination as to two other patents (the '723 and '347 patents). We have the opportunity to seek review of these denials within the Patent and Trademark Office, and have done so with respect to one of the patents (the '723 patent). On June 20, 2013 and July 23, 2013, we filed with the U.S. Patent and Trademark Office petitions for inter partes &#32;review for two other patents asserted by Juniper in the litigation (the '612 and '752 patents). The Patent and Trademark Office has not yet ruled on those petitions. Should any claim challenged in our reexamination requests be finally determined to be valid and patentable, we may be precluded in litigation from challenging any such patent claim on invalidity grounds that were or could have been raised during the inter partes &#32;reexamination proceedings. 
+
+The judge has issued a scheduling order which sets forth the current expectation for important events in the lawsuit, although no assurances can be given that the schedule will not change. On June 18, 2012 and on October 12, 2012, Juniper served infringement contentions, which, among other things, assert that each of our products that run our PAN-OS operating system infringes each of the Juniper patents-in-suit. We served our invalidity contentions on Juniper on July 18, 2012 and, for the newly-asserted patents, on November 19, 2012. Each party served its opening expert report on April 12, 2013, and rebuttal expert report on May 13, 2013, and supplemental expert reports on June 11, 2013. The parties filed opening and responsive briefs regarding claim construction (also known as Markman), filed their opening summary judgment briefs on August 20, 2013, and filed opposition briefs and additional summary judgment motions on September 12, 2013. A hearing to resolve claim construction issues, as well as motions for summary judgment, was heard on November 15, 2013, and a trial date has been scheduled for February 24, 2014. Pursuant to the Court&#8217;s general standing order, the February 2014 trial will be limited to determining whether the patents (other than the &#8217;634 and &#8217;752 patents) are valid and whether we infringe one or more valid patents. Thereafter, the Court will rule on any post-trial motions and enter a judgment on validity and infringement. According to the Court&#8217;s general standing order, if Juniper were to prevail on one or more of its patents, a subsequent trial on damages would be scheduled following an appeal on the liability issues to the appellate court. 
+
+On November 21, 2013, Juniper filed an answer and counterclaims in a separate action pending in the United States District Court for the Northern District of California. In that action, we accuse Juniper of infringing several patents owned by us. In its counterclaims Juniper seeks a declaration that the asserted patents owned by us are not infringed and are invalid. Juniper&#8217;s counterclaims also assert that our products infringe three additional Juniper patents: U.S. Patent Nos. 8,127,349, 7,953,895, and 7,769,851. We have not yet responded to Juniper&#8217;s counterclaims. 
+
+Should Juniper prevail on its claims that one or more of our appliances infringe one or more of its valid patents, we could be required to pay substantial damages for past sales of such appliances, enjoined from manufacturing, using, selling, and importing such appliances if a license or other right to continue selling our appliances is not made available to us, and required to pay substantial ongoing royalties and comply with unfavorable terms if such a license is made available to us. Any of these outcomes could result in a material adverse effect on our business. Even if we were to prevail, this litigation will be costly and time-consuming, divert the attention of our management and key personnel from our business operations, deter distributors from selling our appliances, and dissuade potential end-customers from purchasing our appliances, which would also materially harm our business. During the course of litigation, we anticipate announcements of the results of hearings and motions, and other interim developments related to the litigation. If securities analysts or investors regard these announcements as negative, the market price of our common stock may decline. 
+
+We are vigorously defending the lawsuit. At this stage in the litigation, we are unable to predict the likelihood of success of Juniper&#8217;s infringement claims. 
+
+Our revenue growth rate in recent periods may not be indicative of our future performance. 
+
+You should not consider our revenue growth rate in recent periods as indicative of our future performance. We have recently experienced revenue growth rates of 49% &#32;and 50% &#32;in the first quarter &#32;of fiscal 2014 &#32;and 2013 , respectively. We do not expect to achieve similar revenue growth rates in future periods. You should not rely on our revenue for any prior quarterly or annual periods as any indication of our future revenue or revenue growth. If we are unable to maintain consistent revenue or revenue growth, our stock price could be volatile, and it may be difficult to achieve and maintain profitability. 
+
+- 27 &#32;- 
+
+We have a history of losses, anticipate increasing our operating expenses in the future, and may not be able to maintain or increase profitability or cash flow on a consistent basis. If we cannot maintain or increase our profitability or cash flow, our business, financial condition, and operating results may suffer. 
+
+Other than fiscal 2012, we have incurred losses in all fiscal years since our inception. We incurred a net loss of $7.9 million &#32;in the first quarter &#32;of fiscal 2014 , $29.2 million in fiscal 2013 and $12.5 million in fiscal 2011. As a result, we had an accumulated deficit of $117.1 million &#32;at October 31, 2013 . We anticipate that our operating expenses will increase substantially in the foreseeable future as we continue to enhance our product and service offerings, broaden our end-customer base, expand our sales channels, expand our operations, hire additional employees, and continue to develop our technology. These efforts may prove more expensive than we currently anticipate, and we may not succeed in increasing our revenues sufficiently, or at all, to offset these higher expenses. Revenue growth may slow or revenue may decline for a number of possible reasons, including slowing demand for our products or services, increasing competition, a decrease in the growth of our overall market, or a failure to capitalize on growth opportunities. Any failure to increase our revenues as we grow our business could prevent us from maintaining or increasing profitability or cash flow on a consistent basis. If we are unable to meet these risks and challenges as we encounter them, our business, financial condition, and operating results may suffer. 
+
+If we are unable to sell additional products and services to our end-customers, our future revenue and operating results will be harmed. 
+
+Our future success depends, in part, on our ability to expand the deployment of our platform with existing end-customers by selling additional products to secure other areas of our end-customers&#8217; network and by upselling additional subscription services to provide increasing levels of network security. This may require increasingly sophisticated and costly sales efforts and may not result in additional sales. In addition, the rate at which our end-customers purchase additional products and services depends on a number of factors, including the perceived need for additional network security products and services as well as general economic conditions. If our efforts to sell additional products and services to our end-customers are not successful, our business may suffer. 
+
+Further, existing end-customers that purchase our subscriptions have no contractual obligation to renew their contracts after the initial contract period, which is typically one year, and we cannot accurately predict renewal rates. Our end-customers&#8217; renewal rates may decline or fluctuate as a result of a number of factors, including their satisfaction with our services and our end-customer support, the frequency and severity of subscription outages, our product uptime or latency, and the pricing of our, or competing, services. If our end-customers renew their subscriptions, they may renew for shorter contract lengths or on other terms that are less economically beneficial to us. We have limited historical data with respect to rates of end-customer renewals, so we may not accurately predict future renewal trends. We cannot assure you that our end-customers will renew their subscriptions, and if our end-customers do not renew their agreements or renew on less favorable terms, our revenues may grow more slowly than expected or decline. 
+
+We also depend on our installed end-customer base for future support and maintenance revenues. Our support and maintenance agreements are typically one year. If end-customers choose not to continue renewing their support and maintenance or seek to renegotiate the terms of support and maintenance agreements prior to renewing such agreements, our revenue may decline. 
+
+We face intense competition in our market, especially from larger, well-established companies, and we may lack sufficient financial or other resources to maintain or improve our competitive position. 
+
+The market for network security products is intensely competitive, and we expect competition to increase in the future from established competitors and new market entrants. Our current competitors include networking companies such as Cisco Systems, Inc. and Juniper, large companies, such as Intel Corporation, International Business Machines (IBM), and Hewlett-Packard (HP) that have acquired large network security vendors in recent years, security vendors such as Check Point Software Technologies, Ltd. and Fortinet, Inc., and other point solution security vendors. New, privately held companies, as well as established public companies, are currently attempting to enter this market, some of which may become significant competitors in the future. Many of our existing competitors have, and some of our potential competitors could have, substantial competitive advantages such as: 
+
+&#8226; 
+
+greater name recognition and longer operating histories; 
+
+&#8226; 
+
+larger sales and marketing budgets and resources; 
+
+&#8226; 
+
+broader distribution and established relationships with distribution partners and end-customers; 
+
+&#8226; 
+
+greater customer support resources; 
+
+&#8226; 
+
+greater resources to make acquisitions; 
+
+&#8226; 
+
+lower labor and development costs; 
+
+&#8226; 
+
+larger and more mature intellectual property portfolios; and 
+
+&#8226; 
+
+substantially greater financial, technical, and other resources. 
+
+- 28 &#32;- 
+
+In addition, some of our larger competitors have substantially broader and more diverse product offerings and leverage their relationships based on other products or incorporate functionality into existing products to gain business in a manner that discourages users from purchasing our products, including through selling at zero or negative margins, product bundling, or closed technology platforms. Potential end-customers may also prefer to purchase from their existing suppliers rather than a new supplier regardless of product performance or features. These larger competitors often have broader product lines and market focus and may therefore not be as susceptible to downturns in a particular market. Many of our smaller competitors that specialize in providing protection from a single type of network security threat are often able to deliver these specialized network security products to the market more quickly than we can. Conditions in our market could change rapidly and significantly as a result of technological advancements, partnering by our competitors or continuing market consolidation. New start-up companies that innovate and large competitors that are making significant investments in research and development may invent similar or superior products and technologies that compete with our products and technology. Our current and potential competitors may also establish cooperative relationships among themselves or with third parties that may further enhance their resources. 
+
+Some of our competitors have made acquisitions of businesses that may allow them to offer more directly competitive and comprehensive solutions than they had previously offered, such as Intel&#8217;s acquisition of McAfee and Stonesoft, Check Point&#8217;s acquisition of Nokia&#8217;s security appliance business, and Cisco's acquisition of SourceFire. As a result of such acquisitions, our current or potential competitors might be able to adapt more quickly to new technologies and end-customer needs, devote greater resources to the promotion or sale of their products and services, initiate or withstand substantial price competition, take advantage of acquisition or other opportunities more readily, or develop and expand their product and service offerings more quickly than we do. Due to various reasons, organizations may be more willing to incrementally add solutions to their existing network security infrastructure from competitors than to replace it with our solutions. These competitive pressures in our market or our failure to compete effectively may result in price reductions, fewer orders, reduced revenue and gross margins, and loss of market share. Any failure to meet and address these factors could seriously harm our business and operating results. 
+
+If functionality similar to that offered by our products is incorporated into existing network infrastructure products, organizations may decide against adding our appliances to their network, which would have an adverse effect on our business. 
+
+Large, well-established providers of networking equipment such as Cisco and Juniper offer, and may continue to introduce, network security features that compete with our products, either in stand-alone security products or as additional features in their network infrastructure products. The inclusion of, or the announcement of an intent to include, functionality perceived to be similar to that offered by our security solutions in networking products that are already generally accepted as necessary components of network architecture may have an adverse effect on our ability to market and sell our products. Furthermore, even if the functionality offered by network infrastructure providers is more limited than our products, a significant number of end-customers may elect to accept such limited functionality in lieu of adding appliances from an additional vendor such as us. Many organizations have invested substantial personnel and financial resources to design and operate their networks and have established deep relationships with other providers of networking products, which may make them reluctant to add new components to their networks, particularly from other vendors such as us. In addition, an organization&#8217;s existing vendors or new vendors with a broad product offering may be able to offer concessions that we are not able to match because we currently offer only network security products and have fewer resources than many of our competitors. If organizations are reluctant to add additional network infrastructure from new vendors or otherwise decide to work with their existing vendors, our ability to increase our market share and improve our financial condition and operating results will be adversely affected. 
+
+Reliance on shipments at the end of the quarter could cause our revenue for the applicable period to fall below expected levels. 
+
+As a result of end-customer buying patterns and the efforts of our sales force and channel partners to meet or exceed their sales objectives, we have historically received a substantial portion of sales orders and generated a substantial portion of revenue during the last few weeks of each fiscal quarter. If expected revenue at the end of any fiscal quarter is delayed for any reason, including the failure of anticipated purchase orders to materialize, our logistics partners&#8217; inability to ship products prior to fiscal quarter-end to fulfill purchase orders received near the end of the fiscal quarter, our failure to manage inventory to meet demand, our inability to release new products on schedule, any failure of our systems related to order review and processing, or any delays in shipments based on trade compliance requirements, our revenue for that quarter could fall below our expectations, resulting in a decline in the trading price of our common stock. 
+
+If we are unable to hire, retain, train, and motivate qualified personnel and senior management, our business could suffer. 
+
+Our future success depends, in part, on our ability to continue to attract and retain highly skilled personnel. The loss of the services of any of our key personnel, the inability to attract or retain qualified personnel, or delays in hiring required personnel, particularly in engineering and sales, may seriously harm our business, financial condition, and operating results. Although we have entered into employment offer letters with our key personnel, these agreements have no specific duration and constitute at-will employment. We are also substantially dependent on the continued service of our existing development personnel because of the complexity of our platform. Additionally, any failure to hire, train, and adequately incentivize our sales personnel could negatively impact our growth. Further, the inability of our recently hired sales personnel to effectively ramp to target productivity levels could 
+
+- 29 &#32;- 
+
+negatively impact our operating margins. If we are not effective in managing the leadership transition in our sales organization, our business could be adversely impacted and our operating results and financial condition could be harmed. 
+
+Competition for highly skilled personnel is often intense, especially in the San Francisco Bay Area where we have a substantial presence and need for highly skilled personnel. We may not be successful in attracting, integrating, or retaining qualified personnel to fulfill our current or future needs. Also, to the extent we hire personnel from competitors, we may be subject to allegations that they have been improperly solicited, or that they have divulged proprietary or other confidential information, or that their former employers own their inventions or other work product. 
+
+Our future performance also depends on the continued services and continuing contributions of our senior management to execute on our business plan and to identify and pursue new opportunities and product innovations. The loss of services of senior management could significantly delay or prevent the achievement of our development and strategic objectives, which could adversely affect our business, financial condition, and operating results. 
+
+Our employees do not have employment arrangements that require them to continue to work for us for any specified period, and therefore, they could terminate their employment with us at any time. We do not maintain key person life insurance policies on any of our employees. The loss of one or more of our key employees or groups could seriously harm our business. 
+
+We rely on third-party channel partners to sell substantially all of our products, and if our partners fail to perform, our ability to sell and distribute our products and services will be limited, and our operating results will be harmed. 
+
+Substantially all of our revenue is generated by sales through our channel partners, including distributors and resellers. We provide our sales channel partners with specific training and programs to assist them in selling our products, but there can be no assurance that these steps will be effective. In addition, our channel partners may be unsuccessful in marketing, selling, and supporting our products and services. If we are unable to develop and maintain effective sales incentive programs for our third-party channel partners, we may not be able to incentivize these partners to sell our products to end-customers and, in particular, to large enterprises. These partners may also market, sell, and support products and services that are competitive with ours and may devote more resources to the marketing, sales, and support of such competitive products. These partners may have incentives to promote our competitors&#8217; products to the detriment of our own or may cease selling our products altogether. Our agreements with our channel partners may generally be terminated for any reason by either party with advance notice prior to each annual renewal date. We cannot assure you that we will retain these channel partners or that we will be able to secure additional or replacement channel partners. The loss of one or more of our significant channel partners or a decline in the number or size of orders from them could harm our operating results. In addition, any new sales channel partner requires extensive training and may take several months or more to achieve productivity. Our channel partner sales structure could subject us to lawsuits, potential liability, and reputational harm if, for example, any of our channel partners misrepresent the functionality of our products or services to end-customers or violate laws or our corporate policies. If we fail to effectively manage our existing sales channels, or if our channel partners are unsuccessful in fulfilling the orders for our products, or if we are unable to enter into arrangements with, and retain a sufficient number of, high quality channel partners in each of the regions in which we sell products and keep them motivated to sell our products, our ability to sell our products and operating results will be harmed. 
+
+Because we depend on third-party manufacturers to build and ship our products, we are susceptible to manufacturing and logistics delays and pricing fluctuations that could prevent us from shipping customer orders on time, if at all, or on a cost-effective basis, which may result in the loss of sales and customers. 
+
+We depend on third-party manufacturers, primarily Flextronics International Ltd., our contract manufacturer, as sole source manufacturers for our product lines. Our reliance on these third-party manufacturers reduces our control over the manufacturing process and exposes us to risks, including reduced control over quality assurance, product costs, and product supply and timing, as well as the risk that minerals which originate from the Democratic Republic of the Congo and adjoining countries, or conflicts minerals, may be included in our products. Any manufacturing and logistics disruption by these third-party manufacturers could severely impair our ability to fulfill orders. In addition, we are subject to new requirements under the Dodd-Frank Wall Street Reform and Consumer Protection Act that will require us to diligence, disclose and report whether or not our products contain conflicts minerals. The implementation of these new requirements could adversely affect the sourcing, availability and pricing of minerals used in the manufacture of semiconductor devices or other components used in our products. In addition, we will incur additional costs to comply with the disclosure requirements, including costs related to determining the source of any of the relevant minerals and metals used in our products. 
+
+These manufacturers typically fulfill our supply requirements on the basis of individual orders. We do not have long term contracts with our third-party manufacturers that guarantee capacity, the continuation of particular pricing terms, or the extension of credit limits. Accordingly, they are not obligated to continue to fulfill our supply requirements, which could result in supply shortages, and the prices we are charged for manufacturing services could be increased on short notice. Our contract with one of our contract manufacturers permits them to terminate the agreement for their convenience, subject to prior notice requirements. If we are required to change contract manufacturers, our ability to meet our scheduled product deliveries to our customers could be adversely affected, which could cause the loss of sales to existing or potential customers, delayed revenue or an increase in our costs which could 
+
+- 30 &#32;- 
+
+adversely affect our gross margins. Any production interruptions for any reason, such as a natural disaster, epidemic, capacity shortages, or quality problems, at one of our manufacturing partners would negatively affect sales of our product lines manufactured by that manufacturing partner and adversely affect our business and operating results. 
+
+Managing the supply of our products and product components is complex. Insufficient supply and inventory may result in lost sales opportunities or delayed revenue, while excess inventory may harm our gross margins. 
+
+Our third-party manufacturers procure components and build our products based on our forecasts, and we generally do not hold inventory for a prolonged period of time. These forecasts are based on estimates of future demand for our products, which are in turn based on historical trends and analyses from our sales and marketing organizations, adjusted for overall market conditions. In order to reduce manufacturing lead times and plan for adequate component supply, from time to time we may issue forecasts for components and products that are non-cancelable and non-returnable. 
+
+Our inventory management systems and related supply chain visibility tools may be inadequate to enable us to forecast accurately and effectively manage supply of our products and product components. Supply management remains an increased area of focus as we balance the need to maintain supply levels that are sufficient to ensure competitive lead times against the risk of obsolescence because of rapidly changing technology and end-customer requirements. If we ultimately determine that we have excess supply, we may have to reduce our prices and write-down inventory, which in turn could result in lower gross margins. If our actual component usage and product demand are lower than the forecast we provide to our contract manufacturer, we accrue for losses on manufacturing commitments in excess of forecasted demand. Alternatively, insufficient supply levels may lead to shortages that result in delayed revenue or loss of sales opportunities altogether as potential end-customers turn to competitors&#8217; products that are readily available. Additionally, any increases in the time required to manufacture our products or ship products could result in supply shortfalls. If we are unable to effectively manage our supply and inventory, our operating results could be adversely affected. 
+
+Because some of the key components in our products come from limited sources of supply, we are susceptible to supply shortages or supply changes, which could disrupt or delay our scheduled product deliveries to our customers and may result in the loss of sales and customers. 
+
+Our products rely on key components, including integrated circuit components, which our contract manufacturers purchase on our behalf from a limited number of suppliers, including sole source providers. The manufacturing operations of some of our component suppliers are geographically concentrated in Asia and elsewhere, which makes our supply chain vulnerable to regional disruptions. A fire, flood, earthquake, tsunami or other disaster, condition or event such as political instability, civil unrest or a power outage that adversely affects any of these component suppliers&#8217; facilities could significantly affect our ability to obtain the necessary components for our products, which could result in a substantial loss of sales and revenue and a substantial harm to our operating results. Similarly, a localized health risk affecting employees at these facilities, such as the spread of a pandemic influenza, could impair the total volume of components that we are able to obtain, which could result in substantial harm to our operating results. 
+
+We do not have volume purchase contracts with any of our component suppliers, and they could cease selling to us at any time. In addition, our component suppliers change their selling prices frequently in response to market trends, including industry-wide increases in demand, and because we do not have contracts with these suppliers, we are susceptible to price fluctuations related to raw materials and components. If we are unable to pass component price increases along to our customers or maintain stable pricing, our gross margins and operating results could be negatively impacted. If we are unable to obtain a sufficient quantity of these components in a timely manner for any reason, sales of our products could be delayed or halted or we could be forced to expedite shipment of such components or our products at dramatically increased costs, which would negatively impact our revenue and gross margins. Additionally, poor quality in any of the sole-sourced components in our products could result in lost sales or lost sales opportunities. If the quality of the components does not meet our or our end-customers&#8217; requirements, if we are unable to obtain components from our existing suppliers on commercially reasonable terms, or if any of our sole source providers cease to remain in business or continue to manufacture such components, we could be forced to redesign our products and qualify new components from alternate suppliers. The resulting stoppage or delay in selling our products and the expense of redesigning our products could result in lost sales opportunities and damage to customer relationships, which would adversely affect our business and operating results. 
+
+If we are not successful in executing our strategy to increase sales of our products to new and existing medium and large enterprise end-customers, our operating results may suffer. 
+
+Our growth strategy is dependent, in part, upon increasing sales of our products to medium and large enterprises. Sales to these types of end-customers involve risks that may not be present (or that are present to a lesser extent) with sales to smaller entities. These risks include: 
+
+&#8226; 
+
+competition from larger competitors, such as Cisco, Check Point, and Juniper, that traditionally target larger enterprises, service providers, and government entities and that may have pre-existing relationships or purchase commitments from those end-customers; 
+
+&#8226; 
+
+increased purchasing power and leverage held by large end-customers in negotiating contractual arrangements with us; 
+
+- 31 &#32;- 
+
+&#8226; 
+
+more stringent requirements in our worldwide support service contracts, including stricter support response times and penalties for any failure to meet support requirements; and 
+
+&#8226; 
+
+longer sales cycles and the associated risk that substantial time and resources may be spent on a potential end-customer that elects not to purchase our products and services. 
+
+Large enterprises often undertake a significant evaluation process that results in a lengthy sales cycle, in some cases over 12 months. Although we have a channel sales model, our sales representatives typically engage in direct interaction with our distributors and resellers in connection with sales to larger end-customers. Because these evaluations are often lengthy, with significant size and scope and stringent requirements, we typically provide evaluation products to these end-customers. We may spend substantial time, effort, and money in our sales efforts without being successful in generating any sales. In addition, product purchases by large enterprises are frequently subject to budget constraints, multiple approvals, and unplanned administrative, processing, and other delays. Finally, large enterprises typically have longer implementation cycles, require greater product functionality and scalability and a broader range of services, demand that vendors take on a larger share of risks, sometimes require acceptance provisions that can lead to a delay in revenue recognition, and expect greater payment flexibility from vendors. All of these factors can add further risk to business conducted with these end-customers. If we fail to realize an expected sale from a large end-customer in a particular quarter or at all, our business, operating results, and financial condition could be materially and adversely affected. 
+
+We rely on revenue from subscription and support services which may decline, and because we recognize revenue from subscriptions and support services over the term of the relevant service period, downturns or upturns in sales are not immediately reflected in full in our operating results. 
+
+Services revenue accounts for a significant portion of our revenue, comprising 41% &#32;of total revenue in the first quarter &#32;of fiscal 2014 &#32;and 35% &#32;of total revenue in the first quarter &#32;of fiscal 2013 . Sales of new or renewal subscription and support and maintenance contracts may decline and fluctuate as a result of a number of factors, including end-customers&#8217; level of satisfaction with our products and services, the prices of our products and services, the prices of products and services offered by our competitors, and reductions in our end-customers&#8217; spending levels. If our sales of new or renewal subscription and support and maintenance contracts decline, our revenue and revenue growth may decline and our business will suffer. In addition, we recognize subscription and support and maintenance revenue monthly over the term of the relevant service period, which is typically one year and can be up to five years. As a result, much of the subscription and support and maintenance revenue we report each fiscal quarter is the recognition of deferred revenue from subscription and support and maintenance contracts entered into during previous fiscal quarters. Consequently, a decline in new or renewed subscription or support and maintenance contracts in any one fiscal quarter will not be fully reflected in revenue in that fiscal quarter but will negatively affect our revenue in future fiscal quarters. Accordingly, the effect of significant downturns in new or renewed sales of our subscriptions or support and maintenance is not reflected in full in our operating results until future periods. Also, it is difficult for us to rapidly increase our services revenue through additional service sales in any period, as revenue from new and renewal service contracts must be recognized over the applicable service period. Furthermore, any increase in the average term of services contracts would result in revenue for services contracts being recognized over longer periods of time. 
+
+Defects, errors, or vulnerabilities in our products or services or the failure of our products or services to block a virus or prevent a security breach could harm our reputation and adversely impact our results of operations. 
+
+Because our products and services are complex, they have contained and may contain design or manufacturing defects or errors that are not detected until after their commercial release and deployment by our end-customers. For example, from time to time, certain of our end-customers have reported defects in our products related to performance, scalability and compatibility that were not detected before shipping the product. Additionally, defects may cause our products or services to be vulnerable to security attacks, cause them to fail to help secure networks or temporarily interrupt end-customers&#8217; networking traffic. Because the techniques used by computer hackers to access or sabotage networks change frequently and generally are not recognized until launched against a target, we may be unable to anticipate these techniques and provide a solution in time to protect our end-customers&#8217; networks. Furthermore, as a well-known provider of network security solutions, our networks, products, and services could be targeted by attacks specifically designed to disrupt our business and harm our reputation. In addition, defects or errors in our subscription updates or our products could result in a failure of our services to effectively update end-customers&#8217; hardware products and thereby leave our end-customers vulnerable to attacks. Our data centers and networks may experience technical failures and downtime, may fail to distribute appropriate updates, or may fail to meet the increased requirements of a growing end-customer base, any of which could temporarily or permanently expose our end-customers&#8217; networks, leaving their networks unprotected against the latest security threats. 
+
+Any defects, errors or vulnerabilities in our products could result in: 
+
+&#8226; 
+
+expenditure of significant financial and product development resources in efforts to analyze, correct, eliminate, or work-around errors or defects or to address and eliminate vulnerabilities; 
+
+&#8226; 
+
+loss of existing or potential end-customers or channel partners; 
+
+&#8226; 
+
+delayed or lost revenue; 
+
+- 32 &#32;- 
+
+&#8226; 
+
+delay or failure to attain market acceptance; 
+
+&#8226; 
+
+an increase in warranty claims compared with our historical experience, or an increased cost of servicing warranty claims, either of which would adversely affect our gross margins; and 
+
+&#8226; 
+
+litigation, regulatory inquiries, or investigations that may be costly and harm our reputation. 
+
+Our business is subject to the risks of warranty claims, product returns, product liability, and product defects. 
+
+Our products are very complex and, despite testing prior to their release, they have contained and may contain undetected defects or errors, especially when first introduced or when new versions are released. Product defects or errors could affect the performance of our products and could delay the development or release of new products or new versions of products, adversely affect our reputation and our end-customers&#8217; willingness to buy products from us, and adversely affect market acceptance or perception of our products. Any such errors or delays in releasing new products or new versions of products or allegations of unsatisfactory performance could cause us to lose revenue or market share, increase our service costs, cause us to incur substantial costs in redesigning the products, cause us to lose significant end-customers, subject us to liability for damages and divert our resources from other tasks, any one of which could materially and adversely affect our business, results of operations and financial condition. Our products must successfully interoperate with products from other vendors. As a result, when problems occur in a network, it may be difficult to identify the sources of these problems. For example, from time to time certain of our end-customers have experienced temporary delays or interoperability issues when implementing our products in large complex global deployments where our products are required to interoperate with a complex environment of third party products. The occurrence of hardware or software errors, whether or not caused by our products, could delay or reduce market acceptance of our products, and have an adverse effect on our business and financial performance, and any necessary revisions may cause us to incur significant expenses. The occurrence of any such problems could harm our business, financial condition and results of operations. 
+
+Although we have limitation of liability provisions in our standard terms and conditions of sale, they may not fully or effectively protect us from claims as a result of federal, state, or local laws or ordinances, or unfavorable judicial decisions in the United States or other countries. The sale and support of our products also entails the risk of product liability claims. Although we may be indemnified by our manufacturers for product liability claims arising out of manufacturing defects, because we control the design of our products, we may not be indemnified for product liability claims arising out of design defects. We maintain insurance to protect against certain claims associated with the use of our products, but our insurance coverage may not adequately cover any claim asserted against us. In addition, even claims that ultimately are unsuccessful could result in our expenditure of funds in litigation, divert management&#8217;s time and other resources, and harm our reputation. 
+
+If the network security market does not continue to adopt our network security platform, our sales will not grow as quickly as anticipated, and our stock price could decline. 
+
+We are seeking to disrupt the network security market with our network security platform. However, organizations that use legacy products and services for their network security needs may believe that these products and services sufficiently achieve their purpose. Organizations may also believe that our products and services only serve the needs of a portion of the network security market. Accordingly, organizations may continue allocating their IT budgets for legacy products and services and may not adopt our network security platform. If the market for network security solutions does not continue to adopt our network security platform, if end-customers do not recognize the value of our platform compared to legacy products and services, or if we are otherwise unable to sell our products and services to organizations, then our revenue may not grow or may decline, which would have a material adverse effect on our operating results and financial condition. 
+
+If we do not accurately predict, prepare for, and respond promptly to the rapidly evolving technological and market developments and changing end-customer needs in the network security market, our competitive position and prospects will be harmed. 
+
+The network security market is expected to continue to evolve rapidly. Moreover, many of our end-customers operate in markets characterized by rapidly changing technologies and business plans, which require them to add numerous network access points and adapt increasingly complex enterprise networks, incorporating a variety of hardware, software applications, operating systems, and networking protocols. The technology in our products is especially complex because it needs to effectively identify and respond to new and increasingly sophisticated methods of attack, while minimizing the impact on network performance. Additionally, some of our new products and enhancements may require us to develop new hardware architectures that involve complex, expensive, and time-consuming research and development processes. Although the market expects rapid introduction of new products or product enhancements to respond to new threats, the development of these products is difficult and the timetable for commercial release and availability is uncertain as there can be long time periods between releases and availability of new products. We may experience unanticipated delays in the availability of new products and services and fail to meet customer expectations for such availability. If we do not quickly respond to the rapidly changing and rigorous needs of our end-customers by developing, releasing, and making available on a timely basis new products and services or enhancements that can respond adequately to new security threats, our competitive position and business prospects will be harmed. 
+
+- 33 &#32;- 
+
+Additionally, the process of developing new technology is complex and uncertain, and if we fail to accurately predict end-customers&#8217; changing needs and emerging technological trends in the network security industry, including the areas of mobility, virtualization, cloud computing and software defined networks (SDN), our business could be harmed. We must commit significant resources to developing new products before knowing whether our investments will result in products the market will accept. The success of new products depends on several factors, including appropriate new product definition, component costs, timely completion and introduction of these products, differentiation of new products from those of our competitors, and market acceptance of these products. There can be no assurance that we will successfully identify new product opportunities, develop and bring new products to market in a timely manner, or achieve market acceptance of our products, or that products and technologies developed by others will not render our products or technologies obsolete or noncompetitive. 
+
+Our current research and development efforts may not produce successful products or features that result in significant revenue, cost savings or other benefits in the near future, if at all. 
+
+Developing our products and related enhancements is expensive. Our investments in research and development may not result in significant design improvements, marketable products or features or may result in products that are more expensive than anticipated. Additionally, we may not achieve the cost savings or the anticipated performance improvements we expect, and we may take longer to generate revenue, or generate less revenue, than we anticipate. Our future plans include significant investments in research and development and related product opportunities. We believe that we must continue to dedicate a significant amount of resources to our research and development efforts to maintain our competitive position. However, we may not receive significant revenue from these investments in the near future, if at all, or these investments may not yield the expected benefits, either of which could adversely affect our business and operating results. 
+
+The sales prices of our products and services may decrease, which may reduce our gross profits and adversely impact our financial results. 
+
+The sales prices for our products and services may decline for a variety of reasons, including competitive pricing pressures, discounts, a change in our mix of products and services, anticipation of the introduction of new products or services, or promotional programs. Competition continues to increase in the market segments in which we participate, and we expect competition to further increase in the future, thereby leading to increased pricing pressures. Larger competitors with more diverse product and service offerings may reduce the price of products or services that compete with ours or may bundle them with other products and services. Additionally, although we price our products and services worldwide in U.S. dollars, currency fluctuations in certain countries and regions may negatively impact actual prices that partners and end-customers are willing to pay in those countries and regions. Furthermore, we anticipate that the sales prices and gross profits for our products will decrease over product life cycles. We cannot assure you that we will be successful in developing and introducing new offerings with enhanced functionality on a timely basis, or that our product and service offerings, if introduced, will enable us to maintain our prices and gross profits at levels that will allow us to achieve and maintain profitability. 
+
+We generate a significant amount of revenue from sales to distributors, resellers, and end-customers outside of the United States, and we are therefore subject to a number of risks associated with international sales and operations. 
+
+We have a limited history of marketing, selling, and supporting our products and services internationally. As a result, we must hire and train experienced personnel to staff and manage our foreign operations. To the extent that we experience difficulties in recruiting, training, managing, and retaining an international staff, and specifically staff related to sales management and sales personnel, we may experience difficulties in sales productivity in foreign markets. We also enter into strategic distributor and reseller relationships with companies in certain international markets where we do not have a local presence. If we are not able to maintain successful strategic distributor relationships internationally or recruit additional companies to enter into strategic distributor relationships, our future success in these international markets could be limited. Business practices in the international markets that we serve may differ from those in the United States and may require us in the future to include terms other than our standard terms in customer contracts, although to date we generally have not done so. To the extent that we may enter into customer contracts in the future that include non-standard terms related to payment, warranties, or performance obligations, our operating results may be adversely impacted. 
+
+Additionally, our international sales and operations are subject to a number of risks, including the following: 
+
+&#8226; 
+
+economic uncertainty around the world, in particular, macroeconomic challenges in Europe; 
+
+&#8226; 
+
+greater difficulty in enforcing contracts and accounts receivable collection and longer collection periods; 
+
+&#8226; 
+
+the uncertainty of protection for intellectual property rights in some countries; 
+
+&#8226; 
+
+greater risk of unexpected changes in regulatory practices, tariffs, and tax laws and treaties; 
+
+&#8226; 
+
+risks associated with trade restrictions and foreign legal requirements, including the importation, certification, and localization of our products required in foreign countries; 
+
+- 34 &#32;- 
+
+&#8226; 
+
+greater risk of a failure of foreign employees, partners, distributors, and resellers to comply with both U.S. and foreign laws, including antitrust regulations, the U.S. Foreign Corrupt Practices Act, and any trade regulations ensuring fair trade practices; 
+
+&#8226; 
+
+heightened risk of unfair or corrupt business practices in certain geographies and of improper or fraudulent sales arrangements that may impact financial results and result in restatements of, or irregularities in, financial statements; 
+
+&#8226; 
+
+increased expenses incurred in establishing and maintaining office space and equipment for our international operations; 
+
+&#8226; 
+
+greater difficulty in recruiting local experienced personnel, and the costs and expenses associated with such activities; 
+
+&#8226; 
+
+management communication and integration problems resulting from cultural and geographic dispersion; 
+
+&#8226; 
+
+fluctuations in exchange rates between the U.S. dollar and foreign currencies in markets where we do business; and 
+
+&#8226; 
+
+general economic and political conditions in these foreign markets. 
+
+These factors and other factors could harm our ability to gain future international revenues and, consequently, materially impact our business, operating results, and financial condition. The expansion of our existing international operations and entry into additional international markets will require significant management attention and financial resources. Our failure to successfully manage our international operations and the associated risks effectively could limit the future growth of our business. 
+
+We are exposed to the credit and liquidity risk of some of our channel partners and to credit exposure in weakened markets, which could result in material losses. 
+
+For the first quarter &#32;of fiscal 2014 , three channel partners represented 64% of our total revenue, and as of October 31, 2013 , four channel partners represented 78% of our gross accounts receivable. Most of our sales to our channel partners are made on an open credit basis. Although we have programs in place that are designed to monitor and mitigate these risks, we cannot assure you these programs will be effective in reducing our credit risks, especially as we expand our business internationally. If we are unable to adequately control these risks, our business, operating results, and financial condition could be harmed. 
+
+A portion of our revenue is generated by sales to government entities, which are subject to a number of challenges and risks. 
+
+Sales to U.S. and foreign, federal, state, and local governmental agency end-customers have accounted for an increasingly significant amount of our revenue, and we may in the future increase sales to government entities. Sales to government entities are subject to a number of risks. Selling to government entities can be highly competitive, expensive, and time-consuming, often requiring significant upfront time and expense without any assurance that these efforts will generate a sale. Government certification requirements for products like ours may change, thereby restricting our ability to sell into the federal government sector until we have attained the revised certification. Government demand and payment for our products and services may be impacted by public sector budgetary cycles and funding authorizations, with funding reductions or delays adversely affecting public sector demand for our products and services. For example, spending on network security by various agencies of the U.S. Government may be reduced as a result of sequestration which could adversely impact our business and operating results. In addition, the U.S. Congress may take additional action in 2013 or 2014 to further reduce federal spending and the deficit which could further impact our business and operating results. 
+
+The substantial majority of our sales to date to government entities have been made indirectly through our channel partners. Government entities may have statutory, contractual or other legal rights to terminate contracts with our distributors and resellers for convenience or due to a default, and any such termination may adversely impact our future operating results. Governments routinely investigate and audit government contractors&#8217; administrative processes, and any unfavorable audit could result in the government refusing to continue buying our products and services, a reduction of revenue or fines or civil or criminal liability if the audit uncovers improper or illegal activities, which could adversely impact our operating results in a material way. Finally, for purchases by the U.S. government, the government may require certain products to be manufactured in the United States and other relatively high cost manufacturing locations, and we may not manufacture all products in locations that meet the requirements of the U.S. government, affecting our ability to sell these products to the U.S. government. 
+
+If our products do not interoperate with our end-customers&#8217; infrastructure, sales of our products and services could be negatively affected, which would harm our business. 
+
+Our products must interoperate with our end-customers&#8217; existing infrastructure, which often have different specifications, utilize multiple protocol standards, deploy products from multiple vendors, and contain multiple generations of products that have been added over time. As a result, when problems occur in a network, it may be difficult to identify the sources of these problems. If we find defects in the hardware, we replace the hardware as part of our normal warranty process. If we find errors in the existing software that create problematic network configurations or settings, as we have in the past, we may have to issue software updates as part of our normal maintenance process. Any delays in identifying the sources of problems or in providing necessary modifications to our software or hardware could have a negative impact on our reputation and our end-customers&#8217; satisfaction with our products and 
+
+- 35 &#32;- 
+
+services, and our ability to sell products and services could be adversely affected. In addition, government and other end-customers may require our products to comply with certain security or other certifications and standards. If our products are late in achieving or fail to achieve compliance with these certifications and standards, or our competitors achieve compliance with these certifications and standards, we may be disqualified from selling our products to such end-customers, or at a competitive disadvantage, which would harm our business, operating results, and financial condition. 
+
+Our ability to sell our products is dependent on the quality of our and our channel partners&#8217; technical support services, and our or our channel partners&#8217; failure to offer high quality technical support services could have a material adverse effect on our end-customers&#8217; satisfaction with our products and services, our sales, and our operating results. 
+
+Once our products are deployed within our end-customers&#8217; networks, our end-customers depend on our technical support services, as well as the support of our channel partners, to resolve any issues relating to our products. Our channel partners often provide similar technical support for third parties&#8217; products, and may therefore have fewer resources to dedicate to the support of our products. If we or our channel partners do not effectively assist our end-customers in deploying our products, succeed in helping our end-customers quickly resolve post-deployment issues, or provide effective ongoing support, our ability to sell additional products and services to existing end-customers would be adversely affected and our reputation with potential end-customers could be damaged. Many larger enterprise, service provider, and government entity end-customers have more complex networks and require higher levels of support than smaller end-customers. If we or our channel partners fail to meet the requirements of the larger end-customers, it may be more difficult to execute on our strategy to increase our coverage with larger end-customers. Additionally, if our channel partners do not effectively provide support to the satisfaction of our end-customers, we may be required to provide direct support to such end-customers, which would require us to hire additional personnel and to invest in additional resources. It can take several months to recruit, hire, and train qualified technical support employees. We may not be able to hire such resources fast enough to keep up with unexpected demand, particularly when the sales of our products exceed our internal forecasts. To the extent that we or our partners are unsuccessful in hiring, training, and retaining adequate support resources, our and our channel partners&#8217; ability to provide adequate and timely support to our end-customers will be negatively impacted, and our end-customers&#8217; satisfaction with our products and services will be adversely affected. Additionally, to the extent that we may need to rely on our sales engineers to provide post-sales support while we are ramping our support resources, our sales productivity will be negatively impacted, which would harm our revenues. Our or our channel partners failure to provide and maintain high quality support services would have a material adverse effect on our business, financial condition, and operating results. 
+
+False detection of applications, viruses, spyware, vulnerability exploits, data patterns or URL categories could adversely affect our business. 
+
+Our classifications of application type, virus, spyware, vulnerability exploits, data, or URL categories may falsely detect applications, content, or threats that do not actually exist. This risk is heightened by the inclusion of a &#8220;heuristics&#8221; feature in our products, which attempts to identify applications and other threats not based on any known signatures but based on characteristics or anomalies which indicate that a particular item may be a threat. These false positives, while typical in our industry, may impair the perceived reliability of our products and may therefore adversely impact market acceptance of our products. If our products restrict important files or applications based on falsely identifying them as malware or some other item that should be restricted, this could adversely affect end-customers&#8217; systems and cause material system failures. Any such false identification of important files or applications could result in damage to our reputation, negative publicity, loss of end-customers and sales, increased costs to remedy any problem, and costly litigation. 
+
+Claims by others that we infringe their proprietary technology or other rights could harm our business. 
+
+Companies in the enterprise network security industry own large numbers of patents, copyrights, trademarks, domain names, and trade secrets and frequently enter into litigation based on allegations of infringement, misappropriation, or other violations of intellectual property or other rights. As we face increasing competition and gain an increasingly high profile, the possibility of intellectual property rights claims against us grows. Third parties have asserted and may in the future assert claims of infringement of intellectual property rights against us. For example, beginning in January 2009, Fortinet, Inc. began filing a series of complaints against us alleging, among other claims, patent infringement. We entered into a settlement agreement with Fortinet, Inc. in January 2011 which included a three-year covenant by each party not to sue the other party for patent related claims. This covenant not to sue expires in January 2014. Third parties may also assert such claims against our end-customers or channel partners, whom our standard license and other agreements obligate us to indemnify against claims that our products infringe the intellectual property rights of third parties. As the number of products and competitors in our market increases and overlaps occur, infringement claims may increase. While we intend to increase the size of our patent portfolio, our competitors and others may now and in the future have significantly larger and more mature patent portfolios than we have. In addition, future litigation may involve patent holding companies or other adverse patent owners who have no relevant product revenue and against whom our own patents may therefore provide little or no deterrence or protection. In addition, we have not registered our trademarks in all of our geographic markets and failure to secure those registrations could adversely affect our ability to enforce and defend our trademark rights. Any claim of infringement by a third party, even those without merit, could cause us to incur substantial costs defending against the claim, could distract our management 
+
+- 36 &#32;- 
+
+from our business and could require us to cease use of such intellectual property. Furthermore, because of the substantial amount of discovery required in connection with intellectual property litigation, there is a risk that some of our confidential information could be compromised by disclosure during this type of litigation. Refer to the discussion under &#8220;Legal Proceedings&#8221; included in Part I, Item 3 of this Quarterly Report on Form 10-Q for information related to pending litigation. 
+
+Although third parties may offer a license to their technology or other intellectual property, the terms of any offered license may not be acceptable and the failure to obtain a license or the costs associated with any license could cause our business, financial condition, and operating results to be materially and adversely affected. In addition, some licenses may be non-exclusive, and therefore our competitors may have access to the same technology licensed to us. If a third party does not offer us a license to its technology or other intellectual property on reasonable terms, or at all, we could be enjoined from continued use of such intellectual property. As a result, we may be required to develop alternative, non-infringing technology, which could require significant time (during which we would be unable to continue to offer our affected products or services), effort, and expense and may ultimately not be successful. Furthermore, a successful claimant could secure a judgment or we may agree to a settlement that prevents us from distributing certain products or performing certain services or that requires us to pay substantial damages, royalties or other fees. Any of these events could seriously harm our business, financial condition, and operating results. 
+
+Our proprietary rights may be difficult to enforce or protect, which could enable others to copy or use aspects of our products without compensating us. 
+
+We rely and expect to continue to rely on a combination of confidentiality and license agreements with our employees, consultants, and third parties with whom we have relationships, as well as trademark, copyright, patent, and trade secret protection laws, to protect our proprietary rights. We have filed various applications for certain aspects of our intellectual property. Valid patents may not issue from our pending applications, and the claims eventually allowed on any patents may not be sufficiently broad to protect our technology or products. Any issued patents may be challenged, invalidated or circumvented, and any rights granted under these patents may not actually provide adequate defensive protection or competitive advantages to us. Patent applications in the United States are typically not published until 18 months after filing, or, in some cases, not at all, and publications of discoveries in industry-related literature lag behind actual discoveries. We cannot be certain that we were the first to make the inventions claimed in our pending patent applications or that we were the first to file for patent protection, which could prevent our patent applications from issuing as patents or invalidate our patents following issuance. Additionally, the process of obtaining patent protection is expensive and time-consuming, and we may not be able to prosecute all necessary or desirable patent applications at a reasonable cost or in a timely manner. In addition, recent changes to the patent laws in the United States may bring into question the validity of certain categories of software patents. As a result, we may not be able to obtain adequate patent protection or effectively enforce any issued patents. 
+
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or obtain and use information that we regard as proprietary. We generally enter into confidentiality or license agreements with our employees, consultants, vendors, and customers, and generally limit access to and distribution of our proprietary information. However, we cannot assure you that we have entered into such agreements with all parties who may have or have had access to our confidential information or that the agreements we have entered into will not be breached. We cannot guarantee that any of the measures we have taken will prevent misappropriation of our technology. Because we may be an attractive target for computer hackers, we may have a greater risk of unauthorized access to, and misappropriation of, our proprietary information. In addition, the laws of some foreign countries do not protect our proprietary rights to as great an extent as the laws of the United States, and many foreign countries do not enforce these laws as diligently as government agencies and private parties in the United States. From time to time, we may need to take legal action to enforce our patents and other intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others or to defend against claims of infringement or invalidity. Such litigation could result in substantial costs and diversion of resources and could negatively affect our business, operating results, and financial condition. Attempts to enforce our rights against third parties could also provoke these third parties to assert their own intellectual property or other rights against us, or result in a holding that invalidates or narrows the scope of our rights, in whole or in part. If we are unable to protect our proprietary rights (including aspects of our software and products protected other than by patent rights), we may find ourselves at a competitive disadvantage to others who need not incur the additional expense, time, and effort required to create the innovative products that have enabled us to be successful to date. Any of these events would have a material adverse effect on our business, financial condition, and operating results. 
+
+Our use of open source software in our products could negatively affect our ability to sell our products and subject us to possible litigation. 
+
+Our products contain software modules licensed to us by third-party authors under &#8220;open source&#8221; licenses. Some open source licenses contain requirements that we make available source code for modifications or derivative works we create based upon the type of open source software we use. If we combine our proprietary software with open source software in a certain manner, we could, under certain open source licenses, be required to release the source code of our proprietary software to the public. This would allow our competitors to create similar products with lower development effort and time and ultimately could result in a loss of product sales for us. 
+
+- 37 &#32;- 
+
+Although we monitor our use of open source software to avoid subjecting our products to conditions we do not intend, the terms of many open source licenses have not been interpreted by United States courts, and there is a risk that these licenses could be construed in a way that could impose unanticipated conditions or restrictions on our ability to commercialize our products. From time to time, there have been claims against companies that distribute or use open source software in their products and services, asserting that open source software infringes the claimants&#8217; intellectual property rights. We could be subject to suits by parties claiming infringement of intellectual property rights in what we believe to be licensed open source software. Moreover, we cannot assure you that our processes for controlling our use of open source software in our products will be effective. If we are held to have breached the terms of an open source software license, we could be required to seek licenses from third parties to continue offering our products on terms that are not economically feasible, to re-engineer our products, to discontinue the sale of our products if re-engineering could not be accomplished on a timely basis, or to make generally available, in source code form, our proprietary code, any of which could adversely affect our business, operating results, and financial condition. 
+
+In addition to risks related to license requirements, usage of open source software can lead to greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or assurance of title or controls on origin of the software. In addition, many of the risks associated with usage of open source software, such as the lack of warranties or assurances of title, cannot be eliminated, and could, if not properly addressed, negatively affect our business. We have established processes to help alleviate these risks, including a review process for screening requests from our development organizations for the use of open source software, but we cannot be sure that all open source software is submitted for approval prior to use in our products. 
+
+Our failure to adequately protect personal information could have a material adverse effect on our business. 
+
+A wide variety of provincial, state, national, and international laws and regulations apply to the collection, use, retention, protection, disclosure, transfer, and other processing of personal data. These data protection and privacy-related laws and regulations are evolving and may result in ever-increasing regulatory and public scrutiny and escalating levels of enforcement and sanctions. Our failure to comply with applicable laws and regulations, or to protect such data, could result in enforcement action against us, including fines, imprisonment of company officials and public censure, claims for damages by end-customers and other affected individuals, damage to our reputation and loss of goodwill (both in relation to existing end-customers and prospective end-customers), any of which could have a material adverse effect on our operations, financial performance, and business. Evolving and changing definitions of personal data and personal information, within the European Union, the United States, and elsewhere, especially relating to classification of IP addresses, machine identification, location data, and other information, may limit or inhibit our ability to operate or expand our business, including limiting strategic partnerships that may involve the sharing of data. Even the perception of privacy concerns, whether or not valid, may harm our reputation and inhibit adoption of our products by current and future end-customers. 
+
+We license technology from third parties, and our inability to maintain those licenses could harm our business. 
+
+We incorporate technology that we license from third parties, including software, into our products and services. We cannot be certain that our licensors are not infringing the intellectual property rights of third parties or that our licensors have sufficient rights to the licensed intellectual property in all jurisdictions in which we may sell our products. Some of our agreements with our licensors may be terminated for convenience by them. If we are unable to continue to license any of this technology because of intellectual property infringement claims brought by third parties against our licensors or against us, or if we are unable to continue our license agreements or enter into new licenses on commercially reasonable terms, our ability to develop and sell products and services containing that technology would be severely limited, and our business could be harmed. Additionally, if we are unable to license necessary technology from third parties, we may be forced to acquire or develop alternative technology of lower quality or performance standards. This would limit and delay our ability to offer new or competitive products and services and increase our costs of production. As a result, our margins, market share, and operating results could be significantly harmed. 
+
+Misuse of our products could harm our reputation and divert resources. 
+
+Our products may be misused by end-customers or third parties that obtain access to our products. For example, our products could be used to censor private access to certain information on the Internet. Such use of our products for censorship could result in negative press coverage and negatively affect our reputation. 
+
+We are subject to governmental export and import controls that could subject us to liability or impair our ability to compete in international markets. 
+
+Because we incorporate encryption technology into our products, certain of our products are subject to U.S. export controls and may be exported outside the U.S. only with the required export license or through an export license exception. If we were to fail to comply with U.S. export licensing requirements, U.S. customs regulations, U.S. economic sanctions, or other laws, we could be subject to substantial civil and criminal penalties, including fines, incarceration for responsible employees and managers, and the possible loss of export or import privileges. Obtaining the necessary export license for a particular sale may be time-consuming and may result in the delay or loss of sales opportunities. Furthermore, U.S. export control laws and economic sanctions prohibit the shipment of certain products to U.S. embargoed or sanctioned countries, governments, and persons. Even though we take precautions 
+
+- 38 &#32;- 
+
+to ensure that our channel partners comply with all relevant regulations, any failure by our channel partners to comply with such regulations could have negative consequences, including reputational harm, government investigations, and penalties. 
+
+In addition, various countries regulate the import of certain encryption technology, including through import permit and license requirements, and have enacted laws that could limit our ability to distribute our products or could limit our end-customers&#8217; ability to implement our products in those countries. Changes in our products or changes in export and import regulations may create delays in the introduction of our products into international markets, prevent our end-customers with international operations from deploying our products globally or, in some cases, prevent or delay the export or import of our products to certain countries, governments, or persons altogether. Any change in export or import regulations, economic sanctions or related legislation, shift in the enforcement or scope of existing regulations, or change in the countries, governments, persons, or technologies targeted by such regulations, could result in decreased use of our products by, or in our decreased ability to export or sell our products to, existing or potential end-customers with international operations. Any decreased use of our products or limitation on our ability to export or sell our products would likely adversely affect our business, financial condition, and operating results. 
+
+Our corporate culture has contributed to our success, and if we cannot maintain this culture as we grow, we could lose the innovation, creativity, and teamwork fostered by our culture, and our business may be harmed. 
+
+We believe that a critical contributor to our success has been our corporate culture, which we believe fosters innovation, teamwork, passion for customers, and focus on execution, as well as facilitating critical knowledge transfer and knowledge sharing. As we grow and change, we may find it difficult to maintain these important aspects of our corporate culture, which could limit our ability to innovate and operate effectively. Any failure to preserve our culture could also negatively affect our ability to retain and recruit personnel, continue to perform at current levels or execute on our business strategy. 
+
+We may acquire other businesses which could require significant management attention, disrupt our business, dilute stockholder value, and adversely affect our operating results. 
+
+As part of our business strategy, we may make investments in complementary companies, products, or technologies. However, we have not made any significant acquisitions to date, and as a result, our ability as an organization to acquire and integrate other companies, products or technologies in a successful manner is unproven. We may not be able to find suitable acquisition candidates, and we may not be able to complete such acquisitions on favorable terms, if at all. If we do complete acquisitions, we may not ultimately strengthen our competitive position or achieve our goals, and any acquisitions we complete could be viewed negatively by our end-customers, investors, and securities analysts. In addition, if we are unsuccessful at integrating such acquisitions, or the technologies associated with such acquisitions, into our company, the revenue and operating results of the combined company could be adversely affected. Any integration process may require significant time and resources, and we may not be able to manage the process successfully. We may not successfully evaluate or utilize the acquired technology or personnel, or accurately forecast the financial impact of an acquisition transaction, including accounting charges. We may have to pay cash, incur debt or issue equity securities to pay for any such acquisition, each of which could adversely affect our financial condition or the value of our common stock. The sale of equity or issuance of debt to finance any such acquisitions could result in dilution to our stockholders. The incurrence of indebtedness would result in increased fixed obligations and could also include covenants or other restrictions that would impede our ability to manage our operations. 
+
+Our failure to raise additional capital or generate the significant capital necessary to expand our operations and invest in new products could reduce our ability to compete and could harm our business. 
+
+We intend to continue to make investments to support our business growth and may require additional funds to respond to business challenges, including the need to develop new features to enhance our platform, improve our operating infrastructure or acquire complementary businesses and technologies. Accordingly, we may need to engage in equity or debt financings to secure additional funds. If we raise additional equity financing, our stockholders may experience significant dilution of their ownership interests and the per share value of our common stock could decline. Furthermore, if we engage in debt financing, the holders of debt would have priority over the holders of common stock, and we may be required to accept terms that restrict our ability to incur additional indebtedness. We may also be required to take other actions that would otherwise be in the interests of the debt holders and force us to maintain specified liquidity or other ratios, any of which could harm our business, operating results, and financial condition. We may not be able to obtain additional financing on terms favorable to us, if at all. If we are unable to obtain adequate financing or financing on terms satisfactory to us when we require it, our ability to continue to support our business growth and to respond to business challenges could be significantly impaired, and our business may be adversely affected. 
+
+We may not be able to successfully manage the growth of our business if we are unable to improve our internal systems, processes, and controls. 
+
+We need to continue to improve our internal systems, processes, and controls to effectively manage our operations and growth. We may not be able to successfully implement improvements to these systems, processes, and controls in an efficient or timely manner. We have implemented a new enterprise resource planning system, and we may not be able to successfully scale improvements 
+
+- 39 &#32;- 
+
+to our enterprise resource planning system or implement and scale other systems and processes in a timely or efficient manner or in a manner that does not negatively affect our operating results. In addition, our systems and processes may not prevent or detect all errors, omissions, or fraud. We have licensed technology from third parties to help us improve our internal systems, processes, and controls. The support services available for such third-party technology may be negatively affected by mergers and consolidation in the software industry, and support services for such technology may not be available to us in the future. We may experience difficulties in managing improvements to our systems, processes, and controls or in connection with third-party software, which could impair our ability to provide products or services to our customers in a timely manner, causing us to lose customers, limit us to smaller deployments of our products, or increase our technical support costs. 
+
+We recently implemented a corporate structure more closely aligned with the international nature of our business activities, and if we do not achieve increased tax benefits as a result of our corporate structure, our financial condition and results of operations could be adversely affected. 
+
+We recently reorganized our corporate structure and intercompany relationships to more closely align with the international nature of our business activities. This corporate structure may allow us to reduce our overall effective tax rate through changes in how we use our intellectual property, international procurement, and sales operations. This corporate structure may also allow us to obtain financial and operational efficiencies. These efforts will require us to incur expenses in the near term for which we may not realize related benefits. If the structure is not accepted by the applicable taxing authorities, changes in domestic and international tax laws negatively impact the structure, including proposed legislation to reform U.S. taxation of international business activities, or we do not operate our business consistent with the structure and applicable tax provisions, we may fail to achieve the financial and operational efficiencies that we anticipate as a result of the structure and our future financial condition and results of operations may be negatively impacted. 
+
+If our estimates or judgments relating to our critical accounting policies are based on assumptions that change or prove to be incorrect, our operating results could fall below expectations of securities analysts and investors, resulting in a decline in our stock price. 
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the condensed consolidated financial statements and accompanying notes. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, as provided in the section entitled &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations,&#8221; the results of which form the basis for making judgments about the carrying values of assets, liabilities, equity, revenue, and expenses that are not readily apparent from other sources. Our operating results may be adversely affected if our assumptions change or if actual circumstances differ from those in our assumptions, which could cause our operating results to fall below the expectations of securities analysts and investors, resulting in a decline in our stock price. Significant assumptions and estimates used in preparing our condensed consolidated financial statements include those related to revenue recognition, share-based compensation, contract manufacturing liabilities, warranties, loss contingencies, and income taxes. 
+
+Failure to comply with governmental laws and regulations could harm our business. 
+
+Our business is subject to regulation by various federal, state, local, and foreign governmental agencies, including agencies responsible for monitoring and enforcing employment and labor laws, workplace safety, product safety, environmental laws, consumer protection laws, anti-bribery laws, import/export controls, federal securities laws, and tax laws and regulations. In certain jurisdictions, these regulatory requirements may be more stringent than those in the United States. Noncompliance with applicable regulations or requirements could subject us to investigations, sanctions, mandatory product recalls, enforcement actions, disgorgement of profits, fines, damages, civil and criminal penalties, or injunctions. If any governmental sanctions are imposed, or if we do not prevail in any possible civil or criminal litigation, our business, operating results, and financial condition could be materially adversely affected. In addition, responding to any action will likely result in a significant diversion of management&#8217;s attention and resources and an increase in professional fees. Enforcement actions and sanctions could harm our business, operating results, and financial condition. 
+
+If we fail to comply with environmental requirements, our business, financial condition, operating results, and reputation could be adversely affected. 
+
+We are subject to various environmental laws and regulations including laws governing the hazardous material content of our products and laws relating to the collection of and recycling of electrical and electronic equipment. Examples of these laws and regulations include the European Union, or EU, Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Directive, or RoHS, and the EU Waste Electrical and Electronic Equipment Directive, or WEEE, as well as the implementing legislation of the EU member states. Similar laws and regulations have been passed or are pending in China, South Korea, Norway, and Japan and may be enacted in other regions, including in the United States, and we are, or may in the future be, subject to these laws and regulations. 
+
+- 40 &#32;- 
+
+The EU RoHS and the similar laws of other jurisdictions ban the use of certain hazardous materials such as lead, mercury, and cadmium in the manufacture of electrical equipment, including our products. Currently, the manufacturer of our hardware appliances and major component part suppliers comply with the EU RoHS requirements. However, if there are changes to this or other laws (or their interpretation) or if new similar laws are passed in other jurisdictions, we may be required to reengineer our products to use components compatible with these regulations. This reengineering and component substitution could result in additional costs to us or disrupt our operations or logistics. 
+
+The WEEE Directive requires electronic goods producers to be responsible for the collection, recycling, and treatment of such products. Changes in interpretation of the directive may cause us to incur costs or have additional regulatory requirements to meet in the future in order to comply with this directive, or with any similar laws adopted in other jurisdictions. 
+
+Our failure to comply with past, present, and future similar laws could result in reduced sales of our products, substantial product inventory write-offs, reputational damage, penalties, and other sanctions, any of which could harm our business and financial condition. We also expect that our products will be affected by new environmental laws and regulations on an ongoing basis. To date, our expenditures for environmental compliance have not had a material impact on our results of operations or cash flows, and although we cannot predict the future impact of such laws or regulations, they will likely result in additional costs and may increase penalties associated with violations or require us to change the content of our products or how they are manufactured, which could have a material adverse effect on our business, operating results, and financial condition. 
+
+We are exposed to fluctuations in currency exchange rates, which could negatively affect our financial condition and operating results. 
+
+Our sales contracts are primarily denominated in U.S. dollars, and therefore, substantially all of our revenue is not subject to foreign currency risk. However, a strengthening of the U.S. dollar could increase the real cost of our products to our end-customers outside of the United States, which could adversely affect our financial condition and operating results. In addition, an increasing portion of our operating expenses is incurred outside the United States, is denominated in foreign currencies, and is subject to fluctuations due to changes in foreign currency exchange rates. If we are not able to successfully hedge against the risks associated with currency fluctuations, our financial condition and operating results could be adversely affected. 
+
+Our business is subject to the risks of earthquakes, fire, power outages, floods, and other catastrophic events, and to interruption by man-made problems such as terrorism. 
+
+A significant natural disaster, such as an earthquake, fire, a flood, or significant power outage could have a material adverse impact on our business, operating results, and financial condition. Both our corporate headquarters and the location where our products are manufactured are located in the San Francisco Bay Area, a region known for seismic activity. In addition, natural disasters could affect our supply chain, manufacturing vendors, or logistics providers&#8217; ability to provide materials and perform services such as manufacturing products or assisting with shipments on a timely basis. In the event our or our service providers&#8217; information technology systems or manufacturing or logistics abilities are hindered by any of the events discussed above, shipments could be delayed, resulting in missed financial targets, such as revenue and shipment targets, for a particular quarter. In addition, acts of terrorism and other geo-political unrest could cause disruptions in our business or the business of our supply chain, manufacturers, logistics providers, partners, or end-customers or the economy as a whole. Any disruption in the business of our supply chain, manufacturers, logistics providers, partners, or end-customers that impacts sales at the end of a fiscal quarter could have a significant adverse impact on our quarterly results. All of the aforementioned risks may be further increased if the disaster recovery plans for us and our suppliers prove to be inadequate. To the extent that any of the above should result in delays or cancellations of customer orders, or the delay in the manufacture, deployment, or shipment of our products, our business, financial condition, and operating results would be adversely affected. 
+
+Risks Related to Ownership of Our Common Stock 
+
+Our actual operating results may differ significantly from our guidance. 
+
+From time to time, we have released, and may continue to release guidance in our quarterly earnings releases, quarterly earnings conference call, or otherwise, regarding our future performance that represents our management&#8217;s estimates as of the date of release. This guidance, which includes forward-looking statements, has been and will be based on projections prepared by our management. These projections are not prepared with a view toward compliance with published guidelines of the American Institute of Certified Public Accountants, and neither our registered public accountants nor any other independent expert or outside party compiles or examines the projections. Accordingly, no such person expresses any opinion or any other form of assurance with respect to the projections. 
+
+Projections are based upon a number of assumptions and estimates that, while presented with numerical specificity, are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control and are based upon specific assumptions with respect to future business decisions, some of which will change. We intend to state possible outcomes as high and low ranges which are intended to provide a sensitivity analysis as variables are changed but are 
+
+- 41 &#32;- 
+
+not intended to imply that actual results could not fall outside of the suggested ranges. The principal reason that we release guidance is to provide a basis for our management to discuss our business outlook with analysts and investors. We do not accept any responsibility for any projections or reports published by any such persons. 
+
+Guidance is necessarily speculative in nature, and it can be expected that some or all of the assumptions underlying the guidance furnished by us will not materialize or will vary significantly from actual results. Accordingly, our guidance is only an estimate of what management believes is realizable as of the date of release. Actual results will vary from our guidance and the variations may be material. In light of the foregoing, investors are urged not to rely upon our guidance in making an investment decision regarding our common stock. 
+
+Any failure to successfully implement our operating strategy or the occurrence of any of the events or circumstances set forth in this &#8220;Risk Factors&#8221; section in this quarterly report could result in the actual operating results being different from our guidance, and the differences may be adverse and material. 
+
+The price of our common stock may be volatile and the value of your investment could decline. 
+
+The trading price of our common stock has been volatile since our initial public offering (IPO). Since shares of our common stock w ere sold in our IPO in July 2012 at a price of $42.00 per share, the reported high and low sales prices of our common stock has ranged from $72.61 &#32;to $39.08 , through &#32; November 15, 2013 . The trading price of our common stock may fluctuate widely in response to various factors, some of which are beyond our control. These factors include: 
+
+&#8226; 
+
+announcements of new products, services or technologies, commercial relationships, acquisitions or other events by us or our competitors; 
+
+&#8226; 
+
+price and volume fluctuations in the overall stock market from time to time; 
+
+&#8226; 
+
+significant volatility in the market price and trading volume of technology companies in general and of companies in our industry; 
+
+&#8226; 
+
+fluctuations in the trading volume of our shares or the size of our public float; 
+
+&#8226; 
+
+actual or anticipated changes in our operating results or fluctuations in our operating results; 
+
+&#8226; 
+
+whether our operating results meet the expectations of securities analysts or investors; 
+
+&#8226; 
+
+actual or anticipated changes in the expectations of securities analysts or investors; 
+
+&#8226; 
+
+litigation involving us, our industry, or both, including any developments with respect to our pending litigation, described under the "Litigation" subheading in Note 6. Commitments and Contingencies of Notes to Condensed Consolidated Financial Statements in Part II, Item 8 of this Quarterly Report on Form 10-Q; 
+
+&#8226; 
+
+regulatory developments in the United States, foreign countries or both; 
+
+&#8226; 
+
+major catastrophic events; 
+
+&#8226; 
+
+sales of large blocks of our stock; 
+
+&#8226; 
+
+departures of key personnel; or 
+
+&#8226; 
+
+economic uncertainty around the world, in particular, macroeconomic challenges in Europe; 
+
+In addition, if the market for technology stocks or the stock market in general experiences loss of investor confidence, the trading price of our common stock could decline for reasons unrelated to our business, operating results or financial condition. The trading price of our common stock might also decline in reaction to events that affect other companies in our industry even if these events do not directly affect us. In the past, following periods of volatility in the market price of a company&#8217;s securities, securities class action litigation has often been brought against that company. Securities litigation could result in substantial costs and divert our management&#8217;s attention and resources from our business. This could have a material adverse effect on our business, operating results and financial condition. 
+
+Substantial future sales of shares of our common stock could cause the market price of our common stock to decline. 
+
+The market price of shares of our common stock could decline as a result of substantial sales of our common stock, particularly sales by our directors, executive officers, employees and significant stockholders, a large number of shares of our common stock becoming available for sale, or the perception in the market that holders of a large number of shares intend to sell their shares. As of October 31, 2013 , we had outstanding approximately 72,483,000 &#32;shares of our common stock. 
+
+As of October 31, 2013 , certain holders of our common stock have rights, subject to some conditions, to require us to file registration statements covering their shares or to include their shares in registration statements that we may file for our stockholders 
+
+- 42 &#32;- 
+
+or ourselves. We have also registered shares of common stock that we may issue under our employee equity incentive plans. These shares will be able to be sold freely in the public market upon issuance. 
+
+The issuance of additional stock in connection with financings, acquisitions, investments, our stock incentive plans or otherwise will dilute all other stockholders. 
+
+Our amended and restated certificate of incorporation authorizes us to issue up to 1,000,000,000 shares of common stock and up to 100,000,000 shares of preferred stock with such rights and preferences as may be determined by our board of directors. Subject to compliance with applicable rules and regulations, we may issue our shares of common stock or securities convertible into our common stock from time to time in connection with a financing, acquisition, investment, our stock incentive plans or otherwise. Any such issuance could result in substantial dilution to our existing stockholders and cause the trading price of our common stock to decline. 
+
+Insiders have substantial control over us, which could limit your ability to influence the outcome of key transactions, including a change of control. 
+
+As of October 31, 2013 , our directors, executive officers and each of our stockholders who own greater than 5% of our outstanding common stock and their affiliates, in the aggregate, beneficially own approximately 32% &#32;of the outstanding shares of our common stock. As a result, these stockholders, if acting together, will be able to influence or control matters requiring approval by our stockholders, including the election of directors and the approval of mergers, acquisitions or other extraordinary transactions. They may also have interests that differ from yours and may vote in a way with which you disagree and which may be adverse to your interests. This concentration of ownership may have the effect of delaying, preventing or deterring a change of control of our company, could deprive our stockholders of an opportunity to receive a premium for their common stock as part of a sale of our company and might ultimately affect the market price of our common stock. 
+
+We do not intend to pay dividends for the foreseeable future. 
+
+We have never declared or paid any dividends on our common stock. We intend to retain any earnings to finance the operation and expansion of our business, and we do not anticipate paying any cash dividends in the future. As a result, you may only receive a return on your investment in our common stock if the market price of our common stock increases. 
+
+The requirements of being a public company may strain our resources, divert management&#8217;s attention and affect our ability to attract and retain qualified board members. 
+
+As a public company, we are subject to the reporting requirements of the Securities Exchange Act of 1934, as amended, or the Exchange Act, the listing requirements of the New York Stock Exchange and other applicable securities rules and regulations. Compliance with these rules and regulations will increase our legal and financial compliance costs, make some activities more difficult, time-consuming or costly, and increase demand on our systems and resources. Among other things, the Exchange Act requires that we file annual, quarterly and current reports with respect to our business and operating results and maintain effective disclosure controls and procedures and internal control over financial reporting. In order to maintain and, if required, improve our disclosure controls and procedures and internal control over financial reporting to meet this standard, significant resources and management oversight may be required. As a result, management&#8217;s attention may be diverted from other business concerns, which could harm our business and operating results. Although we have already hired additional employees to comply with these requirements, we may need to hire even more employees in the future, which will increase our costs and expenses. 
+
+Because we are no longer an &#8220;emerging growth company&#8221; as defined in the JOBS Act, we are subject to the independent auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act, enhanced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. While we were able to determine in our management's report for fiscal 2013 that our internal control over financial reporting is effective, as well as provide an unqualified attestation report from our independent registered public accounting firm to that effect, we have and will continue to consume management resources and incur significant expenses for Section 404 compliance on an ongoing basis. In the event that our chief executive officer, chief financial officer, or independent registered public accounting firm determines in the future that our internal control over financial reporting is not effective as defined under Section 404, we could be subject to one or more investigations or enforcement actions by state or federal regulatory agencies, stockholder lawsuits or other adverse actions requiring us to incur defense costs, pay fines, settlements or judgments and causing investor perceptions to be adversely affected and potentially resulting in a decline in the market price of our stock. 
+
+In addition, changing laws, regulations, and standards relating to corporate governance and public disclosure , such as continued rulemaking pursuant to the Dodd-Frank Act of 2010 and related rules and regulations regarding the disclosure of conflict minerals that are mandated by the Dodd-Frank Act, &#32; are creating uncertainty for public companies, increasing legal and financial compliance costs, and making some activities more time-consuming. These laws, regulations, and standards are subject to varying interpretations, in many cases due to their lack of specificity, and, as a result, their application in practice may evolve over time as new guidance is provided by regulatory and governing bodies. This could result in continuing uncertainty regarding compliance matters and higher 
+
+- 43 &#32;- 
+
+costs necessitated by ongoing revisions to disclosure and governance practices. We intend to invest resources to comply with evolving laws, regulations, and standards, and this investment may result in increased general and administrative expense and a diversion of management&#8217;s time and attention from revenue-generating activities to compliance activities. If our efforts to comply with new laws, regulations, and standards differ from the activities intended by regulatory or governing bodies, regulatory authorities may initiate legal proceedings against us and our business may be harmed. 
+
+We also expect that being a public company and these new rules and regulations will make it more expensive for us to obtain director and officer liability insurance, and we may be required to accept reduced coverage or incur substantially higher costs to obtain coverage. These factors could also make it more difficult for us to attract and retain qualified members of our board of directors, particularly to serve on our Audit Committee and Compensation Committee, and qualified executive officers. 
+
+We are obligated to maintain proper and effective internal controls over financial reporting. We may not complete our analysis of our internal controls over financial reporting in a timely manner, or these internal controls may not be determined to be effective, which may adversely affect investor confidence in our company and, as a result, the value of our common stock. 
+
+We are required, pursuant to the Exchange Act, to furnish a report by management on, among other things, the effectiveness of our internal control over financial reporting. This assessment will need to include disclosure of any material weaknesses identified by our management in our internal control over financial reporting, as well as a statement that our auditors have issued an attestation report on our internal controls. 
+
+&#32; While we were able to determine in our management's report for fiscal 2013 that our internal control over financial reporting is effective, as well as provide an unqualified attestation report from our independent registered public accounting firm to that effect, we &#32; may not be able to complete our evaluation, testing, and any required remediation in a timely fashion &#32; or our independent registered public accounting firm may not be able to formally attest to the effectiveness of our internal control over financial reporting in the future. &#32; During the evaluation and testing process, if we identify one or more material weaknesses in our internal control over financial reporting that we are unable to remediate before the end of the same fiscal year in which the material weakness is identified, we will be unable to assert that our internal controls are effective. If we are unable to assert that our internal control over financial reporting is effective, or if our auditors are unable to attest to the effectiveness of our internal controls or determine we have a material weakness in our internal controls, we could lose investor confidence in the accuracy and completeness of our financial reports, which would cause the price of our common stock to decline. 
+
+If securities or industry analysts do not publish research or reports about our business, or publish inaccurate or unfavorable research reports about our business, our share price and trading volume could decline. 
+
+The trading market for our common stock, to some extent, depends on the research and reports that securities or industry analysts publish about us or our business. We do not have any control over these analysts. If one or more of the analysts who cover us should downgrade our shares or change their opinion of our shares, our share price would likely decline. If one or more of these analysts should cease coverage of our company or fail to regularly publish reports on us, we could lose visibility in the financial markets, which could cause our share price or trading volume to decline. 
+
+Our charter documents and Delaware law could discourage takeover attempts and lead to management entrenchment. 
+
+Our amended and restated certificate of incorporation and amended and restated bylaws contain provisions that could delay or prevent a change in control of our company. These provisions could also make it difficult for stockholders to elect directors that are not nominated by the current members of our board of directors or take other corporate actions, including effecting changes in our management. These provisions include: 
+
+&#8226; 
+
+a classified board of directors with three-year staggered terms, which could delay the ability of stockholders to change the membership of a majority of our board of directors; 
+
+&#8226; 
+
+the ability of our board of directors to issue shares of preferred stock and to determine the price and other terms of those shares, including preferences and voting rights, without stockholder approval, which could be used to significantly dilute the ownership of a hostile acquiror; 
+
+&#8226; 
+
+the exclusive right of our board of directors to elect a director to fill a vacancy created by the expansion of our board of directors or the resignation, death or removal of a director, which prevents stockholders from being able to fill vacancies on our board of directors; 
+
+&#8226; 
+
+a prohibition on stockholder action by written consent, which forces stockholder action to be taken at an annual or special meeting of our stockholders; 
+
+&#8226; 
+
+the requirement that a special meeting of stockholders may be called only by the chairman of our board of directors, our president, our secretary, or a majority vote of our board of directors, which could delay the ability of our stockholders to force consideration of a proposal or to take action, including the removal of directors; 
+
+- 44 &#32;- 
+
+&#8226; 
+
+the requirement for the affirmative vote of holders of at least 66 2/3% of the voting power of all of the then outstanding shares of the voting stock, voting together as a single class, to amend the provisions of our amended and restated certificate of incorporation relating to the issuance of preferred stock and management of our business or our amended and restated bylaws, which may inhibit the ability of an acquiror to effect such amendments to facilitate an unsolicited takeover attempt; 
+
+&#8226; 
+
+the ability of our board of directors, by majority vote, to amend the bylaws, which may allow our board of directors to take additional actions to prevent an unsolicited takeover and inhibit the ability of an acquiror to amend the bylaws to facilitate an unsolicited takeover attempt; and 
+
+&#8226; 
+
+advance notice procedures with which stockholders must comply to nominate candidates to our board of directors or to propose matters to be acted upon at a stockholders&#8217; meeting, which may discourage or deter a potential acquiror from conducting a solicitation of proxies to elect the acquiror&#8217;s own slate of directors or otherwise attempting to obtain control of us. 
+
+In addition, as a Delaware corporation, we are subject to Section 203 of the Delaware General Corporation Law. These provisions may prohibit large stockholders, in particular those owning 15% or more of our outstanding voting stock, from merging or combining with us for a certain period of time. 
+

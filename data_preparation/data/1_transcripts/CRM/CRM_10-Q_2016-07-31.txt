@@ -1,0 +1,4846 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), and Section 21E of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;). Words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;aims,&#8221; &#8220;projects,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;seeks,&#8221; &#8220;assumes,&#8221; &#8220;may,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;foresees,&#8221; &#8220;forecasts,&#8221; &#8220;predicts,&#8221; &#8220;targets,&#8221; variations of such words and similar expressions are intended to identify such forward-looking statements, which may consist of, among other things, trend analyses and statements regarding future events, future financial performance, anticipated growth and industry prospects. These forward-looking statements are based on current expectations, estimates and forecasts, as well as the beliefs and assumptions of our management, and are subject to risks and uncertainties that are difficult to predict, including the effect of general economic and market conditions; the impact of foreign currency exchange rate and interest rate fluctuations on our results; our business strategy and our plan to build our business, including our strategy to be the leading provider of enterprise cloud computing applications and platforms; our service performance and security; the expenses associated with new data centers and third party infrastructure providers; additional data center capacity; real estate and office facilities space; our operating results; new services and product features; our strategy of acquiring or making investments in complementary businesses, joint ventures, services, technologies and intellectual property rights; our ability to successfully integrate acquired businesses and technologies; our ability to continue to grow and maintain deferred revenue and unbilled deferred revenue; our ability to protect our intellectual property rights; our ability to develop our brands; our ability to realize the benefits from strategic partnerships and investments; our reliance on third- party hardware, software and platform providers; the effect of evolving government regulations; the valuation of our deferred tax assets; the potential availability of additional tax assets in the future; the impact of expensing stock options and other equity awards; the sufficiency of our capital resources; factors related to our outstanding convertible notes, revolving credit facility, term loan and loan associated with 50 Fremont; compliance with our debt covenants and capital lease obligations; and current and potential litigation involving us. These and other risks and uncertainties may cause our actual results to differ materially and adversely from those expressed in any forward-looking statements. Readers are directed to risks and uncertainties identified below under &#8220;Risk Factors&#8221; and elsewhere in this report for additional detail regarding factors that may cause actual results to be different than those expressed in our forward-looking statements. Except as required by law, we undertake no obligation to revise or update publicly any forward-looking statements for any reason. 
+
+Overview 
+
+We are a leading provider of enterprise cloud computing solutions, with a focus on customer relationship management, or CRM. We introduced our first CRM solution in February 2000, and we have since expanded our service offerings with new editions, solutions, features and platform capabilities. 
+
+Our mission is to help our customers transform themselves into customer-centric companies by empowering them to connect with their customers in entirely new ways. Our Customer Success Platform includes among other things sales force automation, customer service and support, marketing automation, community management, analytics, application development, and Internet of Things (&#8220;IoT&#8221;) integration and our professional cloud services, provides the next-generation platform of enterprise applications, or apps, and services to enable customer success. 
+
+We believe that the convergence of cloud, social, mobile, data science and IoT technologies is fundamentally transforming how companies sell, service, market and innovate to connect with their customers. With our service offerings &#8212;Sales Cloud, Service Cloud, Marketing Cloud, Commerce Cloud, Community Cloud, Analytics Cloud, IoT Cloud and App Cloud &#8212;customers have the tools they need to build a next generation customer success platform. Key elements of our strategy include: 
+
+&#8226; 
+
+strengthening our market-leading solutions; 
+
+&#8226; 
+
+expanding strategic relationships with customers; 
+
+&#8226; 
+
+extending distribution into new and high-growth product categories; 
+
+&#8226; 
+
+expanding our world-class sales organization; 
+
+&#8226; 
+
+reducing customer attrition; 
+
+&#8226; 
+
+building our business in top software markets globally, which includes building partnerships that help add customers; and 
+
+&#8226; 
+
+encouraging the development of third-party applications on our cloud computing platforms. 
+
+We believe the factors that will influence our ability to achieve our objectives include: our prospective customers&#8217; willingness to migrate to enterprise cloud computing services; the availability, performance and security of our services; our ability to continue to release, and gain customer acceptance of, new and improved features; our ability to successfully integrate acquired businesses and technologies; successful customer adoption and utilization of our services; acceptance of our services in markets where we have few customers; the emergence of additional competitors in our market and improved product offerings by existing and new competitors; the location of new data centers; third-party developers&#8217; willingness to develop applications on our platforms; our ability to attract new personnel and retain and motivate current personnel; and general economic conditions which could affect our customers&#8217; ability and willingness to purchase our services, delay the customers&#8217; purchasing decision or affect attrition rates. 
+
+To address these factors, we will need to, among other things, continue to add substantial numbers of paying subscriptions, upgrade our customers to fully featured versions or arrangements such as an Enterprise License Agreement, provide high quality technical support to our customers, encourage the development of third-party applications on our platforms and continue to focus on retaining customers at the time of renewal. Our plans to invest for future growth include the continuation of the expansion of our data center capacity, the hiring of additional personnel, particularly in direct sales, other customer-related areas and research and development, the expansion of domestic and international selling and marketing activities, specifically in our top markets, continuing to develop our brands, the addition of distribution channels, the upgrade of our service offerings, the development of new services, the integration of acquired technologies, the expansion of our Marketing Cloud and App Cloud core service offerings, and the additions to our global infrastructure to support our growth. 
+
+We also regularly evaluate acquisitions or investment opportunities in complementary businesses, joint ventures, services and technologies and intellectual property rights in an effort to expand our service offerings. We expect to continue to make such investments and acquisitions in the future and we plan to reinvest a significant portion of our incremental revenue in future periods to grow our business and continue our leadership role in the cloud computing industry. As a result of our aggressive growth plans, specifically our hiring plan and acquisition activities, we have incurred significant expenses from equity awards and amortization of purchased intangibles. As we continue with our growth plan and absent any one-time gains, we may continue to incur similar expenses in the future. 
+
+Our typical subscription contract term is 12 to 36 months, although terms range from one to 60 months, so during any fiscal reporting period only a subset of active subscription contracts is eligible for renewal. We calculate our attrition rate as of the end of each month. Our current attrition rate calculation does not include the Marketing Cloud service offerings. Our attrition rate was between eight and nine percent as of July 31, 2016 . We expect our attrition rate to remain consistent as we continue to expand our enterprise business and invest in customer success and related programs. 
+
+We expect marketing and sales costs, which were 46 &#32;percent and 49 &#32;percent for the six months ended July 31, 2016 &#32;and 2015 , respectively, to continue to represent a substantial portion of total revenues in the future as we seek to grow our customer base, sell more products to existing customers, and build greater brand awareness. 
+
+In July 2016 we acquired Demandware, Inc. (&#8220;Demandware&#8221;), an industry-leading provider of enterprise cloud commerce solutions in the digital commerce market. We acquired Demandware to expand our position in customer relationship management and to pursue the digital commerce market segment with the new Salesforce Commerce Cloud. The financial results of Demandware are included in our consolidated financial statements from the date of acquisition. The total purchase price for Demandware was approximately $2.9 billion . 
+
+In July 2016, we entered into a credit agreement (the &#8220;Term Loan Credit Agreement&#8221;) which provides for a $500.0 million term loan (the &#8220;Term Loan&#8221;) that matures on July 11, 2019. All amounts borrowed under the Term Loan were used to pay a portion of the total purchase price for Demandware. Additionally, we entered into an Amended and Restated Credit Agreement (the &#8220; Revolving Loan Credit Agreement &#8221;) with Wells Fargo Bank, National Association, and certain other institutional lenders that increased our existing revolving credit facility dated October 2014 to $1.0 billion . As of July 31, 2016 , there were no borrowings under the revolving credit facility. 
+
+Fiscal Year 
+
+Our fiscal year ends on January 31. References to fiscal 2017 , for example, refer to the fiscal year ending January 31, 2017 . 
+
+Operating Segments 
+
+We operate as one operating segment. Operating segments are defined as components of an enterprise for which separate financial information is evaluated regularly by the chief operating decision maker, who in our case is the chief executive officer, in deciding how to allocate resources and assess performance. Over the past few years, we have completed several acquisitions. These acquisitions have allowed us to expand our offerings, presence and reach in various market segments of the enterprise cloud computing market. While we have offerings in multiple enterprise cloud computing market segments, our business operates in one operating segment because the majority of our offerings operate on a single platform and are deployed in an identical way, and &#32; our chief operating decision maker evaluates our financial information and resources and assesses the performance of these resources on a consolidated basis. Since we operate as one operating segment, all required financial segment information can be found in the consolidated financial statements. 
+
+Sources of Revenues 
+
+We derive our revenues from two sources: (1) subscription revenues, which are comprised of subscription fees from customers accessing our enterprise cloud computing services and from customers paying for additional support beyond the standard support that is included in the basic subscription fees; and (2) related professional services such as process mapping, project management, implementation services and other revenue. &#8220;Other revenue&#8221; consists primarily of training fees. Subscription and support revenues accounted for approximately 93 percent &#32;of our total revenues for the six months ended July 31, 2016 . Subscription revenues are driven primarily by the number of paying subscribers, varying service types, the price of our service and renewals. We define a &#8220;customer&#8221; as a separate and distinct buying entity (e.g., a company, a distinct business unit of a large corporation, a partnership, etc.) that has entered into a contract to access our enterprise cloud computing services. We define a &#8220;subscription&#8221; as a unique user account purchased by a customer for use by its employees or other customer-authorized users, and we refer to each such user as a &#8220;subscriber.&#8221; The number of paying subscriptions at each of our customers ranges from one to hundreds of thousands. None of our customers accounted for more than five percent of our revenues during the six months ended July 31, 2016 &#32;and 2015 . 
+
+Subscription and support revenues are recognized ratably over the contract terms beginning on the commencement dates of each contract. The typical subscription and support term is 12 to 36 months, although terms range from one to 60 months. Our subscription and support contracts are non-cancelable, though customers typically have the right to terminate their contracts for cause if we materially fail to perform. We generally invoice our customers in advance, in annual installments, and typical payment terms provide that our customers pay us within 30 days of invoice. Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue, or in revenue depending on whether the revenue recognition criteria have been met. In general, we collect our billings in advance of the subscription service period. 
+
+Professional services and other revenues consist of fees associated with consulting and implementation services and training. Our consulting and implementation engagements are billed on either a time and materials or fixed fee basis. We also offer a number of training classes on implementing, using and administering our service that are billed on a per person, per class basis. Our typical professional services payment terms provide that our customers pay us within 30 days of invoice. 
+
+In determining whether professional services can be accounted for separately from subscription and support revenues, we consider a number of factors, which are described in &#8220;Critical Accounting Estimates&#8212;Revenue Recognition&#8221; below. 
+
+Revenue by Cloud Service Offering 
+
+We are providing the information below on a supplemental basis to give additional insight into the revenue performance of our individual core service offerings. 
+
+Subscription and support revenues consisted of the following by core service offering (in millions): 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Variance- Percent 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Variance- Percent 
+
+Sales Cloud 
+
+$ 
+
+754.9 
+
+&#160; 
+
+$ 
+
+671.0 
+
+&#160; 
+
+13% 
+
+&#160; 
+
+$ 
+
+1,479.5 
+
+&#160; 
+
+$ 
+
+1,301.4 
+
+&#160; 
+
+14% 
+
+Service Cloud 
+
+575.4 
+
+&#160; 
+
+445.2 
+
+&#160; 
+
+29% 
+
+&#160; 
+
+1,115.5 
+
+&#160; 
+
+852.9 
+
+&#160; 
+
+31% 
+
+App Cloud and Other 
+
+353.4 
+
+&#160; 
+
+247.2 
+
+&#160; 
+
+43% 
+
+&#160; 
+
+679.3 
+
+&#160; 
+
+471.2 
+
+&#160; 
+
+44% 
+
+Marketing Cloud 
+
+202.4 
+
+&#160; 
+
+157.9 
+
+&#160; 
+
+28% 
+
+&#160; 
+
+387.3 
+
+&#160; 
+
+301.1 
+
+&#160; 
+
+29% 
+
+Total 
+
+$ 
+
+1,886.1 
+
+&#160; 
+
+$ 
+
+1,521.3 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+3,661.6 
+
+&#160; 
+
+$ 
+
+2,926.6 
+
+&#160; 
+
+Subscription and support revenues from the Analytics Cloud, Community Cloud, IoT Cloud and Commerce Cloud were not significant for the three and six months ended July 31, 2016 . The IoT Cloud was launched in September 2015. Analytics Cloud revenue is included with App Cloud and Other in the table above. Community Cloud revenue is included in either Sales Cloud, Service Cloud or App Cloud and Other revenue depending on the primary service offering purchased. Commerce Cloud revenue, resulting from our Demandware acquisition in July 2016, is included in Marketing Cloud. 
+
+In situations where a customer purchases multiple cloud offerings, such as through an Enterprise License Agreement, we allocate the contract value to each core service offering based on the customer&#8217;s estimated product demand plan and the service that was provided at the inception of the contract. We do not update these allocations based on actual product usage during the term of the contract. We have allocated approximately 13 &#32;percent of our total subscription and support revenues for the three and six months ended July 31, 2016 &#32;and 10 &#32;percent of our total subscription and support revenues for the three and six months ended July 31, 2015 , based on customers&#8217; estimated product demand plans and these allocated amounts are included in the table above. 
+
+Additionally, some of our service offerings have similar features and functions. For example, customers may use the Sales Cloud, the Service Cloud or our App Cloud to record account and contact information, which are similar features across these core service offerings. Depending on a customer&#8217;s actual and projected business requirements, more than one core service offering may satisfy the customer&#8217;s current and future needs. We record revenue based on the individual products ordered by a customer, and not according to the customer&#8217;s business requirements and usage. In addition, as we introduce new features and functions within each offering, and refine our allocation methodology for changes in our business, we do not expect it to be practical to adjust historical revenue results by service offering for comparability. Accordingly, comparisons of revenue performance by core service offering over time may not be meaningful. 
+
+Our Sales Cloud service offering is our most widely distributed service offering and has historically been the largest contributor of subscription and support revenues. As a result, Sales Cloud has the most international exposure and foreign exchange rate exposure, relative to the other cloud service offerings. Conversely, revenue for Marketing Cloud is primarily derived from the Americas, with little impact from foreign exchange rate movement. 
+
+Seasonal Nature of Deferred Revenue, Accounts Receivable and Operating Cash Flow 
+
+Deferred revenue primarily consists of billings to customers for our subscription service. Over 90 &#32;percent of the value of our billings to customers is for our subscription and support service. We generally invoice our customers in annual cycles. Approximately 80 &#32;percent of the value of all subscription and support related invoices were issued with annual terms during the three months ended July 31, 2016 &#32;in comparison to 74 percent during the same period a year ago. Occasionally, we bill customers for their multi-year contract on a single invoice which results in an increase in noncurrent deferred revenue. We typically issue renewal invoices in advance of the renewal service period, and depending on timing, the initial invoice for the subscription and services contract and the subsequent renewal invoice may occur in different quarters. This may result in an increase in deferred revenue and accounts receivable. There is a disproportionate weighting towards annual billings in the fourth quarter, primarily as a result of large enterprise account buying patterns. Our fourth quarter has historically been our strongest quarter for new business and renewals. The year on year compounding effect of this seasonality in both billing patterns and overall new and renewal business causes the value of invoices that we generate in the fourth quarter for both new business and renewals to increase as a proportion of our total annual billings. Accordingly, because of this billing activity, our first quarter is our largest collections and operating cash flow quarter. 
+
+The sequential quarterly changes in accounts receivable and the related deferred revenue and operating cash flow during the first quarter of our fiscal year are not necessarily indicative of the billing activity that occurs for the following quarters as displayed below (in thousands, except unbilled deferred revenue): &#160; 
+
+April 30, 2016 
+
+&#160; 
+
+July 31, 2016 
+
+Fiscal 2017 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Accounts receivable, net 
+
+$ 
+
+1,192,965 
+
+&#160; 
+
+$ 
+
+1,323,114 
+
+Deferred revenue, current and noncurrent 
+
+4,006,914 
+
+&#160; 
+
+3,823,561 
+
+Operating cash flow (1) 
+
+1,051,062 
+
+&#160; 
+
+250,678 
+
+Unbilled deferred revenue (2) 
+
+7.6 bn 
+
+&#160; 
+
+8.0 bn 
+
+&#160; 
+
+April 30, 2015 
+
+&#160; 
+
+July 31, 2015 
+
+&#160; 
+
+October 31, 2015 
+
+&#160; 
+
+January 31, 2016 
+
+Fiscal 2016 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Accounts receivable, net 
+
+$ 
+
+926,381 
+
+&#160; 
+
+$ 
+
+1,067,799 
+
+&#160; 
+
+$ 
+
+1,060,726 
+
+&#160; 
+
+$ 
+
+2,496,165 
+
+Deferred revenue, current and noncurrent 
+
+3,056,820 
+
+&#160; 
+
+3,034,991 
+
+&#160; 
+
+2,846,510 
+
+&#160; 
+
+4,291,553 
+
+Operating cash flow (1) 
+
+735,081 
+
+&#160; 
+
+304,278 
+
+&#160; 
+
+162,514 
+
+&#160; 
+
+470,208 
+
+Unbilled deferred revenue 
+
+6.0 bn 
+
+&#160; 
+
+6.2 bn 
+
+&#160; 
+
+6.7 bn 
+
+&#160; 
+
+7.1 bn 
+
+&#160; 
+
+April 30, 
+
+&#160; 
+
+July 31, 
+
+&#160; 
+
+October 31, 
+
+&#160; 
+
+January 31, 
+
+Fiscal 2015 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Accounts receivable, net 
+
+$ 
+
+684,155 
+
+&#160; 
+
+$ 
+
+834,323 
+
+&#160; 
+
+$ 
+
+794,590 
+
+&#160; 
+
+$ 
+
+1,905,506 
+
+Deferred revenue, current and noncurrent 
+
+2,324,615 
+
+&#160; 
+
+2,352,904 
+
+&#160; 
+
+2,223,977 
+
+&#160; 
+
+3,321,449 
+
+Operating cash flow (1) 
+
+482,128 
+
+&#160; 
+
+239,078 
+
+&#160; 
+
+123,732 
+
+&#160; 
+
+336,506 
+
+Unbilled deferred revenue 
+
+4.8 bn 
+
+&#160; 
+
+5.0 bn 
+
+&#160; 
+
+5.4 bn 
+
+&#160; 
+
+5.7 bn 
+
+&#160; 
+
+(1) 
+
+Operating cash flow represents net cash provided by operating activities for the three months ended in the periods stated above. In the first quarter of fiscal year 2017, we adopted Accounting Standards Update No. 2016-09, &#8220;Stock Compensation (Topic 718): Improvements to Employee Shared-Based Payment Accounting&#8221; (&#8220;ASU 2016-09&#8221;), which addresses among other items, updates to the presentation and treatment of excess tax benefits related to stock based compensation on the Statements of Cash Flows. We have adopted changes to the statement of cash flows on a retrospective basis and have accordingly updated the operating cash flow amounts presented above. 
+
+(2) 
+
+Unbilled deferred revenue represents future billings under our non-cancelable subscription agreements that have not been invoiced and, accordingly, are not recorded in deferred revenue. As of July 31, 2016, $300.0 million &#32;of the balance presented relates to Demandware, Inc. 
+
+Unbilled Deferred Revenue, an Operational Measure 
+
+The deferred revenue balance on our consolidated balance sheets does not represent the total contract value of annual or multi-year, non-cancelable subscription agreements. Unbilled deferred revenue is an operational measure that represents future billings under our subscription agreements that have not been invoiced and, accordingly, are not recorded in deferred revenue. Unbilled deferred revenue amounts by quarter are reflected in the table above. Our typical contract length is between 12 and 36 months. We expect that the amount of unbilled deferred revenue will change from quarter to quarter for several reasons, including the specific timing, duration and size of large customer subscription agreements, varying billing cycles of subscription agreements, the specific timing of customer renewals, foreign currency fluctuations, the timing of when unbilled deferred revenue is to be recognized as revenue, and changes in customer financial circumstances. For multi-year subscription agreements billed annually, the associated unbilled deferred revenue is typically high at the beginning of the contract period, zero just prior to renewal, and increases if the agreement is renewed. Low unbilled deferred revenue attributable to a particular subscription agreement is often associated with an impending renewal and may not be an indicator of the likelihood of renewal or future revenue from such customer. Accordingly, we expect that the amount of aggregate unbilled deferred revenue will change from year-to-year depending in part upon the number and dollar amount of subscription agreements at particular stages in their renewal cycle. Such fluctuations are not a reliable indicator of future revenues. Unbilled deferred revenue does not include minimum revenue commitments from indirect sales channels, as we recognize revenue, deferred revenue, and any unbilled deferred revenue upon sell-through to an end user customer. 
+
+Cost of Revenues and Operating Expenses 
+
+Cost of Revenues. Cost of subscription and support revenues primarily consists of expenses related to delivering our service and providing support, the costs of data center capacity, depreciation or operating lease expense associated with computer equipment and software, allocated overhead, amortization expense associated with capitalized software related to our services and acquired developed technologies and certain fees paid to various third parties for the use of their technology, services and data. We allocate overhead such as information technology infrastructure, rent and occupancy charges based on headcount. Employee benefit costs and taxes are allocated based upon a percentage of total compensation expense. As such, general overhead expenses are reflected in each cost of revenue and operating expense category. Cost of professional services and other revenues consists primarily of employee-related costs associated with these services, including stock-based expenses, the cost of subcontractors, certain third party fees and allocated overhead. The cost of providing professional services is significantly higher as a percentage of the related revenue than for our enterprise cloud computing subscription service due to the direct labor costs and costs of subcontractors. 
+
+We intend to continue to invest additional resources in our enterprise cloud computing services. For example, we have invested in additional database software and we plan to increase the capacity that we are able to offer globally through data centers and third party infrastructure providers. As we acquire new businesses and technologies, the amortization expense associated with this activity will be included in cost of revenues. Additionally, as we enter into new contracts with third parties for the use of their technology, services or data, or as our sales volume grows, the fees paid to use such technology or services may increase. The timing of these additional expenses will affect our cost of revenues, both in terms of absolute dollars and as a percentage of revenues, in the affected periods. 
+
+Research and Development . Research and development expenses consist primarily of salaries and related expenses, including stock-based expenses, the costs of our development and test data center and allocated overhead. We continue to focus our research and development efforts on adding new features and services, integrating acquired technologies, increasing the functionality and security and enhancing the ease of use of our enterprise cloud computing services. Our proprietary, scalable and secure multi-tenant architecture enables us to provide all of our customers with a service based on a single version of our application. As a result, we do not have to maintain multiple versions, which enables us to have relatively lower research and development expenses as compared to traditional enterprise software companies. 
+
+We expect that in the future, research and development expenses will increase in absolute dollars and may increase as a percentage of total revenues as we invest in building the necessary employee and system infrastructure required to support the development of new, and improve existing, technologies and the integration of acquired businesses and technologies. 
+
+Marketing and Sales. Marketing and sales expenses are our largest cost and consist primarily of salaries and related expenses, including stock-based expenses, for our sales and marketing staff, including commissions, payments to partners, marketing programs and allocated overhead. Marketing programs consist of advertising, events, corporate communications, brand building and product marketing activities. 
+
+We plan to continue to invest in marketing and sales by expanding our domestic and international selling and marketing activities, building brand awareness, attracting new customers and sponsoring additional marketing events. The timing of these marketing events, such as our annual and largest event, Dreamforce, will affect our marketing costs in a particular quarter. We expect that in the future, marketing and sales expenses will increase in absolute dollars and continue to be our largest cost. 
+
+General and Administrative. General and administrative expenses consist of salaries and related expenses, including stock-based expenses, for finance and accounting, legal, internal audit, human resources and management information systems personnel, legal costs, professional fees, other corporate expenses and allocated overhead. We expect that in the future, general and administrative expenses will increase in absolute dollars as we invest in our infrastructure and we incur additional employee related costs, professional fees and insurance costs related to the growth of our business and international expansion. We expect general and administrative costs as a percentage of total revenues to either remain flat or decrease for the next several quarters. However, the timing of additional expenses in a particular quarter, both in terms of absolute dollars and as a percentage of revenues, will affect our general and administrative expenses. 
+
+Stock-Based Expenses. Our cost of revenues and operating expenses include stock-based expenses related to equity plans for employees and non-employee directors. We recognize our stock-based compensation as an expense in the statement of operations based on their fair values and vesting periods. These charges have been significant in the past and we expect that they will increase as our stock price increases, as we acquire more companies, as we hire more employees and seek to retain existing employees. 
+
+During the six months ended July 31, 2016 , we recognized stock-based expense of $371.2 million . As of July 31, 2016 , the aggregate stock compensation remaining to be amortized to costs and expenses was $1.7 billion . We expect this stock compensation balance to be amortized as follows: $371.5 million &#32;during the remaining six months of fiscal 2017 ; $602.1 million &#32;during fiscal 2018 ; $436.6 million &#32;during fiscal 2019 ; $227.4 million &#32;during fiscal 2020 &#32;and $17.6 million &#32;during fiscal 2021 . The expected amortization reflects only outstanding stock awards as of July 31, 2016 &#32;and assumes no forfeiture activity. We expect to continue to issue stock-based awards to our employees in future periods. 
+
+Amortization of Purchased Intangibles from Business Combinations and the Purchase of 50 Fremont . Our cost of revenues, operating expenses and other expense include amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company&#8217;s research and development efforts, trade names, customer lists, acquired leases and customer relationships. We expect this expense to increase as we acquire more businesses. 
+
+Critical Accounting Estimates 
+
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions. 
+
+We believe that of our significant accounting policies, which are described in the Notes to the accompanying consolidated financial statements, the following accounting estimates involve a greater degree of judgment and complexity. Accordingly, these are the estimates we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations. 
+
+Revenue Recognition . We derive our revenues from two sources: (1) subscription revenues, which are comprised of subscription fees from customers accessing our enterprise cloud computing services and from customers purchasing additional support beyond the standard support that is included in the basic subscription fee; and (2) related professional services such as process mapping, project management, implementation services and other revenue. &#8220;Other revenue&#8221; consists primarily of training fees. 
+
+We commence revenue recognition when all of the following conditions are satisfied: 
+
+&#8226; 
+
+there is persuasive evidence of an arrangement; 
+
+&#8226; 
+
+the service has been or is being provided to the customer; 
+
+&#8226; 
+
+the collection of the fees is reasonably assured; and 
+
+&#8226; 
+
+the amount of fees to be paid by the customer is fixed or determinable. 
+
+Our subscription service arrangements are non-cancelable and do not contain refund-type provisions. 
+
+Subscription and Support Revenues 
+
+Subscription and support revenues are recognized ratably over the contract terms beginning on the commencement date of each contract, which is the date our service is made available to customers. Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on whether the revenue recognition criteria have been met. 
+
+Professional Services and Other Revenues 
+
+Our professional services contracts are either on a time and material or fixed fee basis. When these services are not combined with subscription revenues as a single unit of accounting, as discussed below, these revenues are recognized as the services are rendered for time and material contracts, and when the milestones are achieved and accepted by the customer for fixed price contracts. Training revenues are recognized after the services are performed. 
+
+Multiple Deliverable Arrangements 
+
+We enter into arrangements with multiple deliverables that generally include multiple subscriptions, premium support, and professional services. If the deliverables have standalone value upon delivery, we account for each deliverable separately. Subscription services have standalone value as such services are often sold separately. In determining whether professional services have standalone value, we consider the following factors for each professional services agreement: availability of the services from other vendors, the nature of the professional services, the timing of when the professional services contract was signed in comparison to the subscription service start date, and the contractual dependence of the subscription service on the customer&#8217;s satisfaction with the professional services work. To date, we have concluded that all of the professional services included in multiple deliverable arrangements executed have standalone value. 
+
+Multiple deliverables included in an arrangement are separated into different units of accounting and the arrangement consideration is allocated to the identified separate units based on a relative selling price hierarchy. We determine the relative selling price for a deliverable based on its vendor-specific objective evidence of selling price (&#8220;VSOE&#8221;), if available, or our best estimate of selling price (&#8220;BESP&#8221;), if VSOE is not available. We have determined that third-party evidence (&#8220;TPE&#8221;) is not a practical alternative due to differences in our service offerings compared to other parties and the availability of relevant third-party pricing information. The amount of revenue allocated to delivered items is limited by contingent revenue, if any. 
+
+For certain professional services, we have established VSOE as a consistent number of standalone sales of this deliverable have been priced within a reasonably narrow range. We have not established VSOE for our subscription services due to lack of pricing consistency, the introduction of new services and other factors. Accordingly, we use our BESP to determine the relative selling price of our subscription services. 
+
+We determined BESP by considering our overall pricing objectives and market conditions. Significant pricing practices taken into consideration include our discounting practices, the size and volume of our transactions, the customer demographic, the geographic area where our services are sold, our price lists, our go-to-market strategy, historical standalone sales and contract prices. The determination of BESP is made through consultation with and approval by management, taking into consideration the go-to-market strategy. As our go-to-market strategies evolve, we may modify our pricing practices in the future, which could result in changes in relative selling prices, including both VSOE and BESP. 
+
+Deferred Revenue. The deferred revenue balance does not represent the total contract value of annual or multi-year, non-cancelable subscription agreements. Deferred revenue primarily consists of billings or payments received in advance of revenue recognition from subscription services described above and is recognized as the revenue recognition criteria are met. We generally invoice customers in annual installments. The deferred revenue balance is influenced by several factors, including seasonality, the compounding effects of renewals, invoice duration, invoice timing, dollar size and new business linearity within the quarter. 
+
+Deferred revenue that will be recognized during the succeeding twelve month period is recorded as current deferred revenue and the remaining portion is recorded as noncurrent. 
+
+Deferred Commissions. We defer commission payments to our direct sales force. The commissions are deferred and amortized to sales expense over the non-cancelable terms of the related subscription contracts with our customers, which are typically 12 to 36 months. The commission payments, which are paid in full the month after the customer&#8217;s service commences, are a direct and incremental cost of the revenue arrangements. The deferred commission amounts are recoverable through the future revenue streams under the non-cancelable customer contracts. We believe this is the preferable method of accounting as the commission charges are so closely related to the revenue from the non-cancelable customer contracts that they should be recorded as an asset and charged to expense over the same period that the subscription revenue is recognized. 
+
+During the six months ended July 31, 2016 , we deferred $134.2 million &#32;of commission expenditures and we amortized $177.3 million &#32;to sales expense. During the same period a year ago, we deferred $120.8 million &#32;of commission expenditures and we amortized $153.8 million &#32;to sales expense. Deferred commissions on our consolidated balance sheets totaled $406.0 million &#32;at July 31, 2016 &#32;and $449.1 million &#32;at January 31, 2016 . 
+
+Capitalized Internal-Use Software Costs . We are required to follow the guidance of Accounting Standards Codification 350 (&#8220;ASC 350&#8221;), Intangibles- Goodwill and Other in accounting for the cost of computer software developed for internal-use and the accounting for web-based product development costs. ASC 350 requires companies to capitalize qualifying computer software costs, which are incurred during the application development stage, and amortize these costs on a straight-line basis over the estimated useful life of the respective asset. We deliver our enterprise cloud computing solutions as a service via all the major Internet browsers and on leading major mobile device operating systems. As a result of this software as a service delivery model, we believe we have larger capitalized costs as compared to traditional enterprise software companies as they are required to use a different accounting standard. 
+
+Costs related to preliminary project activities and post implementation activities are expensed as incurred. Internal-use software is amortized on a straight-line basis over its estimated useful life. We evaluate the useful lives of these assets on an annual basis and test for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets. 
+
+Business Combinations. Accounting for business combinations requires us to make significant estimates and assumptions, especially at the acquisition date with respect to tangible and intangible assets acquired and liabilities assumed and pre-acquisition contingencies. We use our best estimates and assumptions to accurately assign fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date. 
+
+Examples of critical estimates in valuing certain of the intangible assets and goodwill we have acquired include but are not limited to: 
+
+&#8226; 
+
+future net expected cash flows from subscription and support contracts, professional services contracts, other customer contracts and acquired developed technologies and patents; 
+
+&#8226; 
+
+the acquired company&#8217;s trade name, trademark and existing customer relationships, as well as assumptions about the period of time the acquired trade name and trademark will continue to be used in our offerings; 
+
+&#8226; 
+
+uncertain tax positions and tax related valuation allowances assumed; and 
+
+&#8226; 
+
+discount rates. 
+
+Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results. 
+
+In the event that we enter into a business combination with an entity in which we previously held a strategic investment, significant gains or losses are disclosed separately within the statements of operations. 
+
+Goodwill and Intangibles. &#32;We make estimates, assumptions, and judgments when valuing goodwill and other intangible assets in connection with the initial purchase price allocation of an acquired entity, as well as when evaluating the recoverability of our goodwill and other intangible assets on an ongoing basis. These estimates are based upon a number of factors, including historical experience, market conditions, and information obtained from the management of acquired companies. Critical estimates in valuing certain intangible assets include, but are not limited to, historical and projected attrition rates, discount rates, anticipated growth in revenue from the acquired customers and acquired technology, and the expected use of the acquired assets. These factors are also considered in determining the useful life of acquired intangible assets. The amounts and useful lives assigned to identified intangible assets impact the amount and timing of future amortization expense. 
+
+Income Taxes. We use the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the consolidated statements of operations in the period that includes the enactment date. At each of the interim financial reporting periods, we compute our tax provision by applying an estimated annual effective tax rate to year to date ordinary income or loss and adjust the provision for discrete tax items recorded in the same period. The estimated annual effective tax rate at each interim period represents our best estimate based on evaluations of possible future transactions and may be subject to subsequent refinement or revision. 
+
+Valuation allowances are established when necessary to reduce deferred tax assets to the amounts that are more likely than not expected to be realized based on the weighting of positive and negative evidence. Future realization of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character (for example, ordinary income or capital gain) within the carryback or carryforward periods available under the applicable tax law. We regularly review the deferred tax assets for recoverability based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. Our judgment regarding future profitability may change due to many factors, including future market conditions and the ability to successfully execute our business plans and tax planning strategies. Should there be a change in the ability to recover deferred tax assets, our income tax provision would increase or decrease in the period in which the assessment is changed. 
+
+Our tax positions are subject to income tax audits by multiple tax jurisdictions throughout the world. We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, based on the technical merits. The tax benefit recognized is measured as the largest amount of benefit which is 
+
+greater than 50 percent likely to be realized upon settlement with the taxing authority. We recognize interest accrued and penalties related to unrecognized tax benefits in our income tax provision. 
+
+Strategic Investments . We hold strategic investments in marketable equity securities and non-marketable debt and equity securities in which we do not have a controlling interest or significant influence, as defined in Accounting Standards Codification 323 (&#8220;ASC 323&#8221;), Investments - Equity Method and Joint Ventures. Marketable equity securities are measured using quoted prices in their respective active markets and non-marketable debt and equity securities are recorded at cost and presented in the consolidated balance sheet. If, based on the terms of our ownership of these marketable and non-marketable securities, we determine that we exercise significant influence on the entity to which these marketable and non-marketable securities relate, we apply the requirements of ASC 323 to account for such investments. 
+
+We determine the fair value of our marketable equity securities and non-marketable debt and equity securities quarterly for impairment and disclosure purposes; however, the non-marketable debt and equity securities are recorded at fair value only if an impairment is recognized. The measurement of fair value requires significant judgment and includes a qualitative and quantitative analysis of events and circumstances that impact the fair value of the investment. Our assessment of the severity and duration of the impairment and qualitative and quantitative analysis includes the investee&#8217;s financial metrics, the investee&#8217;s products and technologies meeting or exceeding predefined milestones, market acceptance of the product or technology, other competitive products or technology in the market, general market conditions, management and governance structure of the investee, investee&#8217;s liquidity, debt ratios and the rate at which the investee is using its cash, and investee&#8217;s receipt of additional funding at a lower valuation. In determining the estimated fair value of our strategic investments in privately held companies, we utilize the most recent data available to us. Valuations of privately held companies are inherently complex due to the lack of readily available market data. 
+
+If the fair value of an investment is below our cost, we determine whether the investment is other-than-temporarily impaired based on our qualitative and quantitative analysis, which includes the severity and duration of the impairment. If the investment is considered to be other-than-temporarily impaired, we record the investment at fair value by recognizing an impairment and establishing a new cost basis for the investment. 
+
+&#160; 
+
+Results of Operations 
+
+The following tables set forth selected data for each of the periods indicated (in thousands): 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription and support 
+
+$ 
+
+1,886,080 
+
+&#160; 
+
+$ 
+
+1,521,319 
+
+&#160; 
+
+$ 
+
+3,661,573 
+
+&#160; 
+
+$ 
+
+2,926,606 
+
+Professional services and other 
+
+150,538 
+
+&#160; 
+
+113,365 
+
+&#160; 
+
+291,648 
+
+&#160; 
+
+219,245 
+
+Total revenues 
+
+2,036,618 
+
+&#160; 
+
+1,634,684 
+
+&#160; 
+
+3,953,221 
+
+&#160; 
+
+3,145,851 
+
+Cost of revenues (1)(2): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription and support 
+
+360,943 
+
+&#160; 
+
+292,737 
+
+&#160; 
+
+696,771 
+
+&#160; 
+
+566,978 
+
+Professional services and other 
+
+164,636 
+
+&#160; 
+
+112,647 
+
+&#160; 
+
+325,789 
+
+&#160; 
+
+220,208 
+
+Total cost of revenues 
+
+525,579 
+
+&#160; 
+
+405,384 
+
+&#160; 
+
+1,022,560 
+
+&#160; 
+
+787,186 
+
+Gross profit 
+
+1,511,039 
+
+&#160; 
+
+1,229,300 
+
+&#160; 
+
+2,930,661 
+
+&#160; 
+
+2,358,665 
+
+Operating expenses (1)(2): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+291,506 
+
+&#160; 
+
+234,100 
+
+&#160; 
+
+552,476 
+
+&#160; 
+
+456,228 
+
+Marketing and sales 
+
+934,931 
+
+&#160; 
+
+793,691 
+
+&#160; 
+
+1,830,791 
+
+&#160; 
+
+1,530,629 
+
+General and administrative 
+
+252,051 
+
+&#160; 
+
+181,685 
+
+&#160; 
+
+462,857 
+
+&#160; 
+
+357,496 
+
+Operating lease termination resulting from purchase of 50 Fremont 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(36,617 
+
+) 
+
+Total operating expenses 
+
+1,478,488 
+
+&#160; 
+
+1,209,476 
+
+&#160; 
+
+2,846,124 
+
+&#160; 
+
+2,307,736 
+
+Income from operations 
+
+32,551 
+
+&#160; 
+
+19,824 
+
+&#160; 
+
+84,537 
+
+&#160; 
+
+50,929 
+
+Investment income 
+
+11,916 
+
+&#160; 
+
+3,283 
+
+&#160; 
+
+20,038 
+
+&#160; 
+
+7,844 
+
+Interest expense 
+
+(20,708 
+
+) 
+
+&#160; 
+
+(18,096 
+
+) 
+
+&#160; 
+
+(42,719 
+
+) 
+
+&#160; 
+
+(34,771 
+
+) 
+
+Other income (expense) (1) 
+
+&#160; 
+
+1,947 
+
+&#160; 
+
+(13,282 
+
+) 
+
+&#160; 
+
+1,029 
+
+Gains on sales of strategic investments 
+
+&#160; 
+
+&#160; 
+
+12,864 
+
+&#160; 
+
+Income before benefit from (provision for) income taxes 
+
+24,283 
+
+&#160; 
+
+6,958 
+
+&#160; 
+
+61,438 
+
+&#160; 
+
+25,031 
+
+Benefit from (provision for) income taxes (3) 
+
+205,339 
+
+&#160; 
+
+(7,810 
+
+) 
+
+&#160; 
+
+206,943 
+
+&#160; 
+
+(21,791 
+
+) 
+
+Net income (loss) 
+
+$ 
+
+229,622 
+
+&#160; 
+
+$ 
+
+(852 
+
+) 
+
+&#160; 
+
+$ 
+
+268,381 
+
+&#160; 
+
+$ 
+
+3,240 
+
+(1) Amounts related to amortization of purchased intangibles from business combinations, as follows (in thousands): 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues 
+
+$ 
+
+25,544 
+
+&#160; 
+
+$ 
+
+20,839 
+
+&#160; 
+
+$ 
+
+47,759 
+
+&#160; 
+
+$ 
+
+40,529 
+
+Marketing and sales 
+
+23,151 
+
+&#160; 
+
+19,002 
+
+&#160; 
+
+38,537 
+
+&#160; 
+
+39,029 
+
+Other non-operating expense 
+
+&#160; 
+
+1,301 
+
+&#160; 
+
+1,348 
+
+&#160; 
+
+2,116 
+
+(2) Amounts related to stock-based expenses, as follows (in thousands): 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues 
+
+$ 
+
+23,495 
+
+&#160; 
+
+$ 
+
+16,340 
+
+&#160; 
+
+$ 
+
+50,129 
+
+&#160; 
+
+$ 
+
+31,721 
+
+Research and development 
+
+38,624 
+
+&#160; 
+
+33,732 
+
+&#160; 
+
+73,792 
+
+&#160; 
+
+64,974 
+
+Marketing and sales 
+
+86,323 
+
+&#160; 
+
+71,724 
+
+&#160; 
+
+181,797 
+
+&#160; 
+
+142,258 
+
+General and administrative 
+
+33,868 
+
+&#160; 
+
+25,983 
+
+&#160; 
+
+65,511 
+
+&#160; 
+
+51,386 
+
+(3) Amounts include a $265.7 million &#32;tax benefit recorded during the three months ended July 31, 2016 as a result of the partial release of the valuation allowance related to the Demandware, Inc. acquisition. See Note 8 &#8220;Income Taxes.&#8221; 
+
+Revenues by geography were as follows (in thousands): 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Americas 
+
+$ 
+
+1,495,201 
+
+&#160; 
+
+$ 
+
+1,202,173 
+
+&#160; 
+
+$ 
+
+2,908,430 
+
+&#160; 
+
+$ 
+
+2,317,293 
+
+Europe 
+
+347,320 
+
+&#160; 
+
+286,904 
+
+&#160; 
+
+675,174 
+
+&#160; 
+
+545,709 
+
+Asia Pacific 
+
+194,097 
+
+&#160; 
+
+145,607 
+
+&#160; 
+
+369,617 
+
+&#160; 
+
+282,849 
+
+&#160; 
+
+$ 
+
+2,036,618 
+
+&#160; 
+
+$ 
+
+1,634,684 
+
+&#160; 
+
+$ 
+
+3,953,221 
+
+&#160; 
+
+$ 
+
+3,145,851 
+
+Americas revenue attributed to the United States was approximately 96 percent &#32;and 95 percent &#32;during the three months ended July 31, 2016 &#32;and 2015 , respectively, and was approximately 96 percent &#32;and 95 percent &#32;for the six months ended July 31, 2016 &#32;and 2015 , respectively. 
+
+The following tables set forth selected consolidated statements of operations data for each of the periods indicated as a percentage of total revenues: &#160; 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription and support 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues (1)(2): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription and support 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total cost of revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross profit 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating expenses (1)(2): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing and sales 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating lease termination resulting from purchase of 50 Fremont 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+Total operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Investment income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+(1 
+
+) 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(1 
+
+) 
+
+Other income (expense) (1) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gains on sales of strategic investments 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Income before benefit from (provision for) income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Benefit from (provision for) income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+Net income (loss) 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+(1) Amortization of purchased intangibles from business combinations as a percentage of total revenues, as follows: 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Marketing and sales 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other non-operating expense 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(2) Stock-based expense as a percentage of total revenues, as follows: 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing and sales 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues by geography as a percentage of total revenues, as follows: 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Americas 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Europe 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Asia Pacific 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Revenues and deferred revenue in constant currency, as follows: 
+
+Revenue constant currency growth rates 
+
+(as compared to the comparable prior periods) 
+
+Three Months Ended July 31, 2016 compared to Three Months Ended July 31, 2015 
+
+&#160; 
+
+Three Months Ended July 31, 2015 compared to Three Months Ended July 31, 2014 
+
+Americas 
+
+24% 
+
+&#160; 
+
+28% 
+
+Europe 
+
+32% 
+
+&#160; 
+
+29% 
+
+Asia Pacific 
+
+29% 
+
+&#160; 
+
+25% 
+
+Total growth 
+
+26% 
+
+&#160; 
+
+28% 
+
+We present constant currency information to provide a framework for assessing how our underlying business performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the weighted average exchange rate for the quarter being compared to for growth rate calculations presented, rather than the actual exchange rates in effect during that period. 
+
+&#160; 
+
+July 31, 2016 compared to July 31, 2015 
+
+&#160; 
+
+January 31, 2016 compared to January 31, 2015 
+
+Deferred revenue, current and noncurrent constant currency growth rates (as compared to the comparable prior periods) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total growth 
+
+27% 
+
+&#160; 
+
+31% 
+
+To present the information above, we convert the deferred revenue balances in local currencies in previous comparable periods using the United States dollar currency exchange rate as of the most recent balance sheet date. 
+
+Three Months Ended July 31, 2016 and 2015 &#32; 
+
+Revenues. &#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+&#160; 
+
+Percent 
+
+Subscription and support 
+
+$ 
+
+1,886,080 
+
+&#160; 
+
+$ 
+
+1,521,319 
+
+&#160; 
+
+$ 
+
+364,761 
+
+&#160; 
+
+24% 
+
+Professional services and other 
+
+150,538 
+
+&#160; 
+
+113,365 
+
+&#160; 
+
+37,173 
+
+&#160; 
+
+33% 
+
+Total revenues 
+
+$ 
+
+2,036,618 
+
+&#160; 
+
+$ 
+
+1,634,684 
+
+&#160; 
+
+$ 
+
+401,934 
+
+&#160; 
+
+25% 
+
+Total revenues were $2.0 billion &#32;for the three months ended July 31, 2016 , compared to $1.6 billion &#32;during the same period a year ago, an increase of $0.4 billion , or 25 percent . Subscription and support revenues were $1.9 billion , or 93 percent &#32;of total revenues, for the three months ended July 31, 2016 , compared to $1.5 billion , or 93 percent &#32;of total revenues, during the same period a year ago, an increase of $0.4 billion , or 24 percent . The increase in subscription and support revenues was primarily caused by volume-driven increases from new business, which includes new customers, upgrades and additional subscriptions from existing customers. We continue to invest in a variety of customer programs and initiatives, which, along with increasing enterprise adoption, have helped keep our attrition rate consistent as compared to the prior year. Our attrition rate also played a role in the increase in subscription and support revenues. Changes in the net price per user per month have not been a significant driver of revenue growth for the periods presented. Professional services and other revenues were $150.5 million , or seven &#32;percent of total revenues, for the three months ended July 31, 2016 , compared to $113.4 million , or seven percent &#32;of total revenues, for the same period a year ago, an increase of $37.2 million &#32;or 33 &#32;percent. The increase in professional services and other revenues was due primarily to the higher demand for services from an increased number of customers. Revenues from acquired businesses in fiscal 2017 were not material. 
+
+Revenues in Europe and Asia Pacific accounted for $541.4 million , or 27 &#32;percent of total revenues, for the three months ended July 31, 2016 , compared to $432.5 million , or 26 &#32;percent of total revenues, during the same period a year ago, an increase of $108.9 million , or 25 &#32;percent. The increase in revenues outside of the Americas was the result of the increasing acceptance of our services, our focus on marketing our services internationally and additional resources. Revenues outside of the Americas increased on a total dollar basis in the three months ended July 31, 2016 &#32;despite an overall strengthening of the U.S. dollar. This resulted in a reduction in aggregate international revenues by $23.7 million &#32;compared to the same period a year ago. 
+
+Cost of Revenues. &#160; 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Subscription and support 
+
+$ 
+
+360,943 
+
+&#160; 
+
+$ 
+
+292,737 
+
+&#160; 
+
+$ 
+
+68,206 
+
+Professional services and other 
+
+164,636 
+
+&#160; 
+
+112,647 
+
+&#160; 
+
+51,989 
+
+Total cost of revenues 
+
+$ 
+
+525,579 
+
+&#160; 
+
+$ 
+
+405,384 
+
+&#160; 
+
+$ 
+
+120,195 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues was $525.6 million , or 26 &#32;percent of total revenues, for the three months ended July 31, 2016 , compared to $405.4 million , or 25 &#32;percent of total revenues, during the same period a year ago, an increase of $120.2 million . The increase in absolute dollars was primarily due to an increase of $65.3 million &#32;in employee-related costs, an increase of $7.2 million &#32;in stock-based expenses, an increase of $26.5 million &#32;in service delivery costs, primarily due to our efforts to increase data center capacity, an increase of $6.1 million &#32;in professional and outside services and third party expenses, an increase of amortization of purchased intangible assets of $4.7 million &#32;and an increase of $6.1 million &#32;in allocated overhead. We have increased our headcount by 48 percent &#32;since July 31, 2015 &#32;to meet the higher demand for services from our customers, of which a component is due to the acquisition of Demandware on July 11, 2016. We intend to continue to invest additional resources in our enterprise cloud computing services and data center capacity. We also plan to add additional employees in our professional services group to facilitate the adoption of our services. The timing of these expenses will affect our cost of revenues, both in terms of absolute dollars and as a percentage of revenues in future periods. 
+
+The cost of professional services and other revenues was higher than the related revenue during the three months ended July 31, 2016 by $14.1 million &#32;as compared to lower than the related revenue by $0.7 million &#32;during the same period a year ago. We expect the cost of professional services to continue to be more than revenue from professional services in future fiscal quarters. We believe that this investment in professional services facilitates the adoption of our service offerings. 
+
+Research and Development. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Research and development 
+
+$ 
+
+291,506 
+
+&#160; 
+
+$ 
+
+234,100 
+
+&#160; 
+
+$ 
+
+57,406 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Research and development expenses were $291.5 million , or 14 &#32;percent of total revenues, for the three months ended July 31, 2016 , compared to $234.1 million , or 14 &#32;percent of total revenues, during the same period a year ago, an increase of $57.4 million . The increase in absolute dollars was primarily due to an increase of approximately $45.3 million &#32;in employee-related costs, an increase of $4.9 million &#32;in stock-based expenses, an increase of $6.2 million &#32;in our development and test data center costs, and increases in allocated overhead. We increased our research and development headcount by 33 percent &#32;since July 31, 2015 &#32;in order to improve and extend our service offerings and develop new technologies, a component of which is due to the acquisition of Demandware on July 11, 2016. We expect that research and development expenses will increase in absolute dollars and may increase as a percentage of revenues in future periods as we continue to invest in additional employees and technology to support the development of new, and improve existing, technologies and the integration of acquired technologies. 
+
+Marketing and Sales. &#160; 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Marketing and sales 
+
+$ 
+
+934,931 
+
+&#160; 
+
+$ 
+
+793,691 
+
+&#160; 
+
+$ 
+
+141,240 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Marketing and sales expenses were $934.9 million , or 46 &#32;percent of total revenues, for the three months ended July 31, 2016 , compared to $793.7 million , or 49 &#32;percent of total revenues, during the same period a year ago, an increase of $141.2 million . The change was primarily due to an increase of $121.7 million &#32;in employee-related costs and amortization of deferred commissions, an increase of $14.6 million &#32;in stock-based expenses and allocated overhead and an increase of $4.1 million &#32;related to the amortization of purchased intangible assets and increases in allocated overhead. Our marketing and sales headcount increased by 27 percent &#32;since July 31, 2015 ; a component was also due to the acquisition of Demandware on July 11, 2016. The increase in headcount was also attributable to hiring additional sales personnel to focus on adding new customers and increasing penetration within our existing customer base. 
+
+General and Administrative. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+General and administrative 
+
+$ 
+
+252,051 
+
+&#160; 
+
+$ 
+
+181,685 
+
+&#160; 
+
+$ 
+
+70,366 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+General and administrative expenses were $252.1 million , or 12 &#32;percent of total revenues, for the three months ended July 31, 2016 , compared to $181.7 million , or 11 &#32;percent of total revenues, during the same period a year ago, an increase of $70.4 million . The increase was primarily due to an increase of $43.2 million &#32;in employee-related costs and an increase of $7.9 million &#32;in stock-based expenses. Additionally, we incurred $15.5 million &#32;in transaction costs associated with our acquisition of Demandware. Our general and administrative headcount increased by 26 percent &#32;since July 31, 2015 , a component of which is due to the acquisition of Demandware on July 11, 2016, with additional personnel added to support our growth. 
+
+Income from operations. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Income from operations 
+
+$ 
+
+32,551 
+
+&#160; 
+
+$ 
+
+19,824 
+
+&#160; 
+
+$ 
+
+12,727 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Income from operations for the three months ended July 31, 2016 &#32;was $32.6 million &#32;and included $182.3 million &#32;of stock-based expenses, $15.5 million &#32;of transaction costs associated with our acquisition of Demandware and $48.7 million &#32;of amortization of purchased intangibles. During the same period a year ago, income from operations was $19.8 million &#32;and included $147.8 million &#32;of stock-based expenses and $39.8 million &#32;of amortization of purchased intangibles. The increase in income from operations is primarily due to a higher revenue growth rate compared to costs and operating expense growth rates. 
+
+Investment income. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Investment income 
+
+$ 
+
+11,916 
+
+&#160; 
+
+$ 
+
+3,283 
+
+&#160; 
+
+$ 
+
+8,633 
+
+Investment income consists of income on our cash and marketable securities balances. Investment income was $11.9 million &#32;for the three months ended July 31, 2016 &#32;and was $3.3 million &#32;during the same period a year ago. The increase was due to both realized gains resulting from the sales of marketable securities as well as higher interest income across our portfolio. 
+
+Interest expense. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Interest expense 
+
+$ 
+
+(20,708 
+
+) 
+
+&#160; 
+
+$ 
+
+(18,096 
+
+) 
+
+&#160; 
+
+$ 
+
+(2,612 
+
+) 
+
+Percent of total revenues 
+
+(1 
+
+)% 
+
+&#160; 
+
+(1 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+Interest expense consists of interest on our convertible senior notes, capital leases, financing obligation related to 350 Mission, 50 Fremont mortgage and the $500.0 million term loan that was entered into in connection with our acquisition of Demandware. Interest expense was $20.7 million &#32;for the three months ended July 31, 2016 &#32;and was $18.1 million &#32;during the same period a year ago. 
+
+Other income. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Other income 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,947 
+
+&#160; 
+
+$ 
+
+(1,423 
+
+) 
+
+Other income primarily consists of non-operating transactions such as strategic investments fair market value adjustments, gains and losses from foreign exchange rate fluctuations and real estate transactions. 
+
+Benefit from (provision for) income taxes. 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Benefit from (provision for) income taxes 
+
+$ 
+
+205,339 
+
+&#160; 
+
+$ 
+
+(7,810 
+
+) 
+
+&#160; 
+
+$ 
+
+213,149 
+
+Effective tax rate 
+
+(846 
+
+)% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+We recognized a tax benefit &#32;of $205.3 million &#32;on a pretax income of $24.3 million , which resulted in a negative effective tax rate of 846 &#32;percent for the three months ended July 31, 2016 . The most significant component of this tax amount was the discrete tax benefit of $265.7 million from a partial release of the valuation allowance in connection with the acquisition of Demandware. The net deferred tax liability from the acquisition of Demandware provided a source of additional income to support the realizability of our pre-existing deferred tax assets and as a result, we released a portion of our valuation allowance. The tax benefit associated with the release of the valuation allowance was partially offset by income taxes in profitable jurisdictions outside of the United States. Additionally, as a result of early adopting ASU 2016-09 and our valuation allowance position, we did not record any U.S. current income tax expense. 
+
+We regularly assess the realizability of our deferred tax assets and establish a valuation allowance if it is more-likely-than-not that some or all of our deferred tax assets will not be realized. We evaluate and weigh all available positive and negative evidence such as historic results, future reversals of existing deferred tax liabilities, projected future taxable income, as well as prudent and feasible tax-planning strategies. Generally, more weight is given to objectively verifiable evidence, such as the cumulative loss in recent years. We will adjust our valuation allowance in the event sufficient positive evidence overcomes the negative evidence of losses in recent years, for example, if our trend in increasing taxable income continues. Due to our valuation allowance, the effective tax rate could be volatile and is therefore difficult to forecast in future periods. 
+
+We recorded a tax provision of $7.8 million with a pretax income of $7.0 million, which resulted in an effective tax rate of 112 percent for the three months ended July 31, 2015 . The tax provision recorded was primarily due to income taxes in profitable jurisdictions outside the United States. 
+
+Six Months Ended July 31, 2016 and 2015 &#32; 
+
+Revenues. &#160; &#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+&#160; 
+
+Percent 
+
+Subscription and support 
+
+$ 
+
+3,661,573 
+
+&#160; 
+
+$ 
+
+2,926,606 
+
+&#160; 
+
+$ 
+
+734,967 
+
+&#160; 
+
+25% 
+
+Professional services and other 
+
+291,648 
+
+&#160; 
+
+219,245 
+
+&#160; 
+
+72,403 
+
+&#160; 
+
+33% 
+
+Total revenues 
+
+$ 
+
+3,953,221 
+
+&#160; 
+
+$ 
+
+3,145,851 
+
+&#160; 
+
+$ 
+
+807,370 
+
+&#160; 
+
+26% 
+
+Total revenues were $4.0 billion &#32;for the six months ended July 31, 2016 , compared to $3.1 billion &#32;during the same period a year ago, an increase of $0.8 billion , or 26 percent . Subscription and support revenues were $3.7 billion , or 93 percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $2.9 billion , or 93 percent &#32;of total revenues, during the same period a year ago, an increase of $735.0 million , or 25 percent . The increase in subscription and support revenues was primarily caused by volume-driven increases from new business, which includes new customers, upgrades and additional subscriptions from existing customers. Further, subscription revenues benefited due to an additional day in the six months ended July 31, 2016 &#32;compared to the six months ended July 31, 2015. We continue to invest in a variety of customer programs and initiatives, which, along with increasing enterprise adoption, have helped keep our attrition rate consistent as compared to the prior year. Our attrition rate also played a role in the increase in subscription and support revenues. Changes in the net price per user per month have not been a significant driver of revenue growth for the periods presented. Professional services and other revenues were $291.6 million , or seven percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $219.2 million , or seven percent &#32;of total revenues, for the same period a year ago, an increase of $72.4 million , or 33 percent . The increase in professional services and other revenues was due primarily to the higher demand for services from an increased number of customers. 
+
+Revenues in Europe and Asia Pacific accounted for $1.0 billion , or 26 percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $828.6 million , or 26 percent &#32;of total revenues, during the same period a year ago, an increase of $216.2 million , or 26 percent . The increase in revenues outside of the Americas was the result of the increasing acceptance of our services, our focus on marketing our services internationally and additional resources. Revenues outside of the Americas 
+
+increased on a total dollar basis in the six months ended July 31, 2016 &#32;despite an overall strengthening of the U.S. dollar. This resulted in a reduction in aggregate international revenues by $42.4 million &#32;compared to the same period a year ago. 
+
+Cost of Revenues. &#160; 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Subscription and support 
+
+$ 
+
+696,771 
+
+&#160; 
+
+$ 
+
+566,978 
+
+&#160; 
+
+$ 
+
+129,793 
+
+Professional services and other 
+
+325,789 
+
+&#160; 
+
+220,208 
+
+&#160; 
+
+105,581 
+
+Total cost of revenues 
+
+$ 
+
+1,022,560 
+
+&#160; 
+
+$ 
+
+787,186 
+
+&#160; 
+
+$ 
+
+235,374 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues was $1.0 billion , or 26 percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $787.2 million , or 25 percent &#32;of total revenues, during the same period a year ago, an increase of $235.4 million . The increase in absolute dollars was primarily due to an increase of $114.2 million in employee-related costs, &#32;an increase of $18.4 million &#32;in stock-based expenses, an increase of $58.4 million &#32;in service delivery costs, primarily due to our efforts to increase data center capacity, an increase of $14.3 million &#32;in professional and outside services and third party expenses, an increase of amortization of purchased intangible assets of $7.2 million &#32;and an increase of $11.7 million &#32;in allocated overhead. We have increased our headcount by 48 percent &#32;since July 31, 2015 &#32;to meet the higher demand for services from our customers, of which a component is due to the acquisition of Demandware on July 11, 2016. We intend to continue to invest additional resources in our enterprise cloud computing services and data center capacity. We also plan to add additional employees in our professional services group to facilitate the adoption of our services. The timing of these expenses will affect our cost of revenues, both in terms of absolute dollars and as a percentage of revenues in future periods. 
+
+The cost of professional services and other revenues was higher than the related revenue during the six months ended July 31, 2016 by $34.1 million &#32;as compared to $1.0 million &#32;during the same period a year ago. We expect the cost of professional services to continue to be more than revenue from professional services in future fiscal quarters. We believe that this investment in professional services facilitates the adoption of our service offerings. 
+
+Research and Development. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Research and development 
+
+$ 
+
+552,476 
+
+&#160; 
+
+$ 
+
+456,228 
+
+&#160; 
+
+$ 
+
+96,248 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Research and development expenses were $552.5 million , or 14 percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $456.2 million , or 14 percent &#32;of total revenues, during the same period a year ago, an increase of $96.2 million . The increase in absolute dollars was primarily due to an increase of approximately $74.4 million &#32;in employee-related costs, an increase of $8.8 million &#32;in stock-based expenses, an increase of $12.1 million &#32;in our development and test data center costs, and increases in allocated overhead. We increased our research and development headcount by 33 percent &#32;since July 31, 2015 &#32;in order to improve and extend our service offerings and develop new technologies, a component of which is due to the acquisition of Demandware on July 11, 2016. We expect that research and development expenses will increase in absolute dollars and may increase as a percentage of revenues in future periods as we continue to invest in additional employees and technology to support the development of new, and improve existing, technologies and the integration of acquired technologies. 
+
+Marketing and Sales. &#160; 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Marketing and sales 
+
+$ 
+
+1,830,791 
+
+&#160; 
+
+$ 
+
+1,530,629 
+
+&#160; 
+
+$ 
+
+300,162 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Marketing and sales expenses were $1.8 billion , or 46 percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $1.5 billion , or 49 percent &#32;of total revenues, during the same period a year ago, an increase of $300.2 million . The 
+
+change was primarily due to an increase of $230.4 million &#32;in employee-related costs and amortization of deferred commissions, an increase of $39.5 million &#32;in stock-based expenses, an increase of $17.1 million &#32;in advertising expenses and allocated overhead. Our marketing and sales headcount increased by 27 percent &#32;since July 31, 2015 . The increase in headcount was primarily attributable to hiring additional sales personnel to focus on adding new customers and increasing penetration within our existing customer base; a component was also due to the acquisition of Demandware on July 11, 2016. 
+
+General and Administrative. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+General and administrative 
+
+$ 
+
+462,857 
+
+&#160; 
+
+$ 
+
+357,496 
+
+&#160; 
+
+$ 
+
+105,361 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+General and administrative expenses were $462.9 million , or 12 percent &#32;of total revenues, for the six months ended July 31, 2016 , compared to $357.5 million , or 11 percent &#32;of total revenues, during the same period a year ago, an increase of $105.4 million . The increase was primarily due to an increase of $69.0 million &#32;in employee-related costs and an increase of $14.1 million &#32;in stock-based expenses. Additionally we incurred $15.5 million &#32;in acquisition costs associated with our acquisition of Demandware on July 11, 2016. Our general and administrative headcount increased by 26 percent &#32;since July 31, 2015 , a component of which is due to the acquisition of Demandware on July 11, 2016, with additional personnel added to support our growth. 
+
+Operating lease termination resulting from purchase of 50 Fremont. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Operating lease termination resulting from purchase of 50 Fremont 
+
+$ 
+
+&#160; 
+
+$ 
+
+(36,617 
+
+) 
+
+&#160; 
+
+$ 
+
+36,617 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+(1 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+Operating lease termination resulting from purchase of 50 Fremont for the six months ended July 31, 2015 was $36.6 million . In connection with the February 2015 purchase, we recognized a net non-cash gain totaling approximately $36.6 million on the termination of our office lease signed in January 2012. 
+
+Income from operations. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Income from operations 
+
+$ 
+
+84,537 
+
+&#160; 
+
+$ 
+
+50,929 
+
+&#160; 
+
+$ 
+
+33,608 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Income from operations for the six months ended July 31, 2016 &#32;was $84.5 million &#32;and included $371.2 million &#32;of stock-based expenses, $15.5 million of transaction costs associated with our acquisition of Demandware and $86.3 million &#32;of amortization of purchased intangibles. During the same period a year ago, income from operations was $50.9 million &#32;and included a gain of $36.6 million &#32;related to the purchase of 50 Fremont, $290.3 million &#32;of stock-based expenses and $79.6 million &#32;of amortization of purchased intangibles. The increase in income from operations is primarily due to a higher revenue growth rate compared to costs and operating expense growth rates. 
+
+Investment income. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Investment income 
+
+$ 
+
+20,038 
+
+&#160; 
+
+$ 
+
+7,844 
+
+&#160; 
+
+$ 
+
+12,194 
+
+Percent of total revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Investment income consists of income on our cash and marketable securities balances. Investment income was $20.0 million &#32;for the six months ended July 31, 2016 &#32;and was $7.8 million &#32;during the same period a year ago. The increase was due to both realized gains resulting from the sales of marketable securities as well as higher interest income across our portfolio. 
+
+Interest expense. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Interest expense 
+
+$ 
+
+(42,719 
+
+) 
+
+&#160; 
+
+$ 
+
+(34,771 
+
+) 
+
+&#160; 
+
+$ 
+
+(7,948 
+
+) 
+
+Percent of total revenues 
+
+(1 
+
+)% 
+
+&#160; 
+
+(1 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+Interest expense consists of interest on our convertible senior notes, capital leases, term loan, financing obligation related to 350 Mission, 50 Fremont mortgage and the $500.0 million term loan that was entered into in connection with our acquisition of Demandware. Interest expense was $42.7 million &#32;for the six months ended July 31, 2016 &#32;and was $34.8 million &#32;during the same period a year ago. 
+
+Other income (expense). 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Other income (expense) 
+
+$ 
+
+(13,282 
+
+) 
+
+&#160; 
+
+$ 
+
+1,029 
+
+&#160; 
+
+$ 
+
+(14,311 
+
+) 
+
+Other expense primarily consists of non-operating costs such as strategic investments fair market value adjustments, gains and losses from foreign exchange rate fluctuations and real estate transactions. 
+
+Gain on sales of strategic investments. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Gains on sales of strategic investments 
+
+$ 
+
+12,864 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+12,864 
+
+Gains on sales of strategic investments were $12.9 million &#32;for the six months ended July 31, 2016 . Gains on sales of strategic investments primarily consist of significant gains on sales of strategic investments resulting from mergers and acquisitions that we initiated in which we previously held an equity interest. 
+
+Benefit from (provision for) income taxes. 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+Variance 
+
+(in thousands) 
+
+&#160; 
+
+&#160; 
+
+Dollars 
+
+Benefit from (provision for) income taxes 
+
+$ 
+
+206,943 
+
+&#160; 
+
+$ 
+
+(21,791 
+
+) 
+
+&#160; 
+
+$ 
+
+228,734 
+
+Effective tax rate 
+
+(337 
+
+)% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+We recognized a tax benefit &#32;of $206.9 million &#32;on a pretax income of $61.4 million , which resulted in a negative effective tax rate of 337 percent &#32;for the six months ended July 31, 2016 . The most significant component of this tax amount was the discrete tax benefit of $265.7 million from a partial release of the valuation allowance in connection with the acquisition of Demandware. The net deferred tax liability from the acquisition of Demandware provided a source of additional income to support the realizability of our preexisting deferred tax assets and as a result, we released a portion of our tax valuation allowance. The tax benefit associated with the release of the valuation allowance was partially offset by income taxes in profitable jurisdictions outside of the United States. Additionally, as a result of early adopting ASU 2016-09 and our valuation allowance position, we did not record any U.S. current income tax expense. 
+
+We regularly assess the realizability of our deferred tax assets and establish a valuation allowance if it is more-likely-than-not that some or all of our deferred tax assets will not be realized. We evaluate and weigh all available positive and negative evidence such as historic results, future reversals of existing deferred tax liabilities, projected future taxable income, as well as prudent and feasible tax-planning strategies. Generally, more weight is given to objectively verifiable evidence, such as the cumulative loss in recent years. We will adjust our valuation allowance in the event sufficient positive evidence 
+
+overcomes the negative evidence of losses in recent years, for example, if our trend in increasing taxable income continues. Due to our valuation allowance, the effective tax rate could be volatile and is therefore difficult to forecast in future periods. 
+
+We recorded a tax provision of $21.8 million &#32;with a pretax income of $25.0 million, which resulted in an effective tax rate of 87 percent &#32;for the six months ended July 31, 2015 . The tax provision recorded was primarily due to income taxes in profitable jurisdictions outside the United States. 
+
+Liquidity and Capital Resources 
+
+At July 31, 2016 , our principal sources of liquidity were cash, cash equivalents and marketable securities totaling $1.7 billion &#32;and accounts receivable of $1.3 billion . 
+
+Net cash provided by operating activities was $1.3 billion &#32;during the six months ended July 31, 2016 &#32;and $1.0 billion &#32;during the same period a year ago. Cash provided by operating activities has historically been affected by the amount of net income &#32;adjusted for non-cash expense items such as depreciation and amortization; amortization of purchased intangibles from business combinations; amortization of debt discount; discrete items such as the non-cash gain from the termination of the 50 Fremont lease; the expense associated with stock-based awards; gains on sales of strategic investments; the timing of employee related costs including commissions and bonus payments; the timing of payments against accounts payable, accrued expenses and other current liabilities; the timing of collections from our customers, which is our largest source of operating cash flows; the timing of business combination activity and the related integration and transaction costs; and changes in working capital accounts. Net cash provided by operating activities was also impacted by payments made during the three months ended July 31, 2016 for the transaction fees related to the acquisition of Demandware. 
+
+Our working capital accounts consist of accounts receivable, deferred commissions, prepaid assets and other current assets. Claims against working capital include accounts payable, accrued expenses, deferred revenue, and other current liabilities and payments related to our debt obligations. Our working capital may be impacted by factors in future periods such as billings to customers for subscriptions and support services and the subsequent collection of those billings, certain amounts and timing of which are seasonal. Our working capital in some quarters, like the three months ended July 31, 2016, may be impacted by adverse foreign currency exchange rate movements. Our billings are also influenced by new business linearity within the quarters and across quarters. 
+
+As described above in &#8220;Seasonal Nature of Deferred Revenue, Accounts Receivable and Operating Cash Flow,&#8221; our fourth quarter has historically been our strongest quarter for new business and renewals and, correspondingly, the first quarter for cash collections. The year on year compounding effect of this seasonality in both billing patterns and overall business causes both the value of invoices that we generate in the fourth quarter and cash collections in the first quarter to increase as a proportion of our total annual billings. 
+
+We generally invoice our customers for our subscription and services contracts in advance in annual installments. We typically issue renewal invoices in advance of the renewal service period, and depending on timing, the initial invoice for the subscription and services contract and the subsequent renewal invoice may occur in different quarters. Such invoice amounts are initially reflected in accounts receivable and deferred revenue, which is reflected on the balance sheets. The operating cash flow benefit of increased billing activity generally occurs in the subsequent quarter when we collect from our customers. As such, our first quarter is our largest collections and operating cash flow quarter. 
+
+Net cash used in investing activities was $2.0 billion &#32;during the six months ended July 31, 2016 &#32;and $769.9 million &#32;during the same period a year ago. The net cash used in investing activities during the six months ended July 31, 2016 &#32;primarily related to the acquisition of Demandware in July 2016, sales of marketable securities of approximately $1.8 billion , which partially facilitated cash outflows relating to the Demandware acquisition, strategic investments and capital expenditures, including new office build-outs and investment of cash balances offset by sales and maturities of marketable securities. 
+
+Net cash provided by financing activities was $655.8 million &#32;during the six months ended July 31, 2016 &#32;as compared to net cash used in financing activities of $88.1 million &#32;during the same period a year ago. Net cash provided by financing activities during the six months ended July 31, 2016 &#32;consisted primarily of $495.6 million &#32;of proceeds from the Term Loan, net of loan fees, $62.8 million of principal payments on capital leases, offset by $223.0 million &#32;from proceeds from equity plans and the reclassification of excess tax benefits from employee stock plans to cash flows from operating activities due to the early adoption of ASU 2016-09. 
+
+In March 2013, we issued at par value $1.15 billion of 0.25% convertible senior notes (the &#8220;Notes&#8221;), due April 1, 2018, unless earlier purchased by us or converted. The Notes will be convertible if during any 20 trading days during the 30 consecutive trading days of any fiscal quarter, our common stock trades at a price exceeding 130% of the conversion price of $66.44 per share applicable to the Notes. The Notes are classified as a noncurrent liability on our consolidated balance sheet as 
+
+of July 31, 2016 . Our common stock did not trade at a price exceeding 130% of the conversion price of $66.44 per share applicable to the Notes during the fiscal quarter ended July 31, 2016 . Accordingly, the Notes were not convertible at the holders&#8217; option for the quarter ending July 31, 2016 . 
+
+In July 2016, we entered into a credit agreement (the &#8220; Revolving Loan Credit Agreement &#8221;), which provides for a $1.0 billion &#32;unsecured revolving credit facility (the &#8220;Credit Facility&#8221;) that matures in July 2021. We may use any future borrowings under the Credit Facility for refinancing other indebtedness, working capital, capital expenditures and other general corporate purposes, including permitted acquisitions. We may borrow amounts under the Credit Facility at any time during the term of the Revolving Loan Credit Agreement . As of July 31, 2016 , we had no outstanding borrowings under the Credit Facility. 
+
+The Revolving Loan Credit Agreement &#32;contains certain customary affirmative and negative covenants, including a consolidated leverage ratio covenant, a consolidated interest coverage ratio covenant, a limit on our ability to incur additional indebtedness, dispose of assets, make certain acquisition transactions, pay dividends or distributions, and certain other restrictions on our activities each defined specifically in the Revolving Loan Credit Agreement . We were in compliance with the Revolving Loan Credit Agreement &#8217;s covenants as of July 31, 2016 . 
+
+In February 2015, we acquired 50 Fremont Street, a 41-story building totaling approximately 817,000 rentable square feet located in San Francisco, California (&#8220;50 Fremont&#8221;). At the time of the acquisition, we were leasing approximately 500,000 square feet of the available space in 50 Fremont. 
+
+The total purchase price for 50 Fremont was $637.6 million . In financing the purchase price, we used $115.0 million &#32;of restricted cash on hand and assumed a $200.0 million &#32;loan secured by the property with the remainder paid in cash. 
+
+In April 2016, we entered into an agreement with a third party provider for certain infrastructure services for a period of four years. The agreement provides that we will pay $35.0 million &#32;in the remainder of fiscal 2017, $96.0 million &#32;in fiscal 2018, $108.0 million &#32;in fiscal 2019 and $126.0 million &#32;in fiscal 2020. 
+
+In July 2016, in order to partially finance the acquisition of Demandware, we entered into a $500.0 million &#32;term loan (the &#8220;Term Loan&#8221;) which matures in July 2019 and bears interest at our option, at either a base rate plus a spread of 0.00% to 0.75% or an adjusted LIBOR rate plus a spread of 1.00% to 1.75%. The weighted average interest rate on the Term Loan was 2.0% &#32;as of July 31, 2016. 
+
+Our cash, cash equivalents and marketable securities are comprised primarily of corporate notes and other obligations, U.S. treasury securities, government obligations, collateralized mortgage obligations, mortgage backed securities, time deposits, money market mutual funds and municipal securities. 
+
+As of July 31, 2016 , we have a total of $83.9 million &#32;in letters of credit outstanding in favor of certain landlords for office space. To date, no amounts have been drawn against the letters of credit, which renew annually and expire at various dates through December 2030. 
+
+We do not have any special purpose entities, and other than operating leases for office space and computer equipment, we do not engage in off-balance sheet financing arrangements. 
+
+Our principal commitments consist of obligations under leases for office space, co-location data center facilities, and our development and test data center, as well as leases for computer equipment, software, furniture and fixtures. At July 31, 2016 , the future non-cancelable minimum payments under these commitments were as follows (in thousands): 
+
+&#160; 
+
+&#160; 
+
+Capital Leases 
+
+&#160; 
+
+Operating Leases 
+
+&#160; 
+
+Financing Obligation - Leased Facility 
+
+Fiscal Period: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Remaining six months of fiscal 2017 
+
+$ 
+
+37,433 
+
+&#160; 
+
+$ 
+
+210,432 
+
+&#160; 
+
+$ 
+
+10,565 
+
+Fiscal 2018 
+
+122,713 
+
+&#160; 
+
+399,959 
+
+&#160; 
+
+21,437 
+
+Fiscal 2019 
+
+115,794 
+
+&#160; 
+
+350,317 
+
+&#160; 
+
+21,881 
+
+Fiscal 2020 
+
+201,577 
+
+&#160; 
+
+278,537 
+
+&#160; 
+
+22,325 
+
+Fiscal 2021 
+
+&#160; 
+
+252,082 
+
+&#160; 
+
+22,770 
+
+Thereafter 
+
+&#160; 
+
+1,401,711 
+
+&#160; 
+
+233,927 
+
+Total minimum lease payments 
+
+477,553 
+
+&#160; 
+
+$ 
+
+2,893,038 
+
+&#160; 
+
+$ 
+
+332,905 
+
+Less: amount representing interest 
+
+(41,847 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Present value of capital lease obligations 
+
+$ 
+
+435,706 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+The majority of our operating lease agreements provide us with the option to renew. Our future operating lease obligations would change if we exercised these options and if we entered into additional operating lease agreements as we expand our operations. 
+
+The financing obligation above represents the total obligation for our lease of approximately 445,000 rentable square feet of office space in San Francisco, California. As of July 31, 2016 , $221.2 million &#32;of the total obligation noted above was recorded to Financing obligation - leased facility, of which the current portion is included in &#8220;Accounts payable, accrued expenses and other liabilities&#8221; and the non-current portion is included in &#8220;Other noncurrent liabilities&#8221; on the consolidated balance sheets. 
+
+In February 2016, the Company entered into an agreement to sublease additional office space in New York, New York. The amounts associated with the agreement will be approximately $288.0 million over the approximately 12 year term of the agreement, beginning in the Company's first quarter of fiscal 2018. In May 2016, the Company entered into an agreement to lease additional office space in Indianapolis, Indiana. The amounts associated with the agreement will be approximately $77.0 million over the approximately 13 year term of the agreement, beginning in the Company's second quarter of fiscal 2018. 
+
+During the remaining months of fiscal 2017 &#32;and in future fiscal years, we have made and expect to continue to make additional investments in our infrastructure to scale our operations and increase productivity. We plan to upgrade or replace various internal systems to scale with the overall growth of the Company. Additionally, we expect capital expenditures to be higher in absolute dollars and remain consistent as a percentage of total revenues in future periods as a result of continued office build-outs, other leasehold improvements and data center investments. 
+
+In the future, we may enter into arrangements to acquire or invest in complementary businesses or joint ventures, services and technologies, and intellectual property rights. We may be required to seek additional equity or debt financing. Additional funds may not be available on terms favorable to us or at all. 
+
+We believe our existing cash, cash equivalents and short-term marketable securities and cash provided by operating activities will be sufficient to meet our working capital, capital expenditure and debt repayment needs over the next 12 months. 
+
+New Accounting Pronouncements 
+
+See Note 1 &#8220;Summary of Business and Significant Accounting Policies&#8221; to the consolidated financial statements for our discussion about new accounting pronouncements adopted and those pending. 
+
+Non-GAAP Financial Measures 
+
+Regulation S-K Item 10(e), &#8220;Use of Non-GAAP Financial Measures in Commission Filings,&#8221; defines and prescribes the conditions for use of non-GAAP financial information. Our measures of non-GAAP net income, non-GAAP gross profit, non-GAAP operating profit, non-GAAP free cash flow, non-GAAP earnings per share, and constant currency results, each meet the definition of a non-GAAP financial measure. The primary purpose of using non-GAAP measures is to provide supplemental information that may prove useful to investors who wish to consider the impact of certain non-cash or non-recurring items on the Company&#8217;s operating performance and to enable investors to evaluate the Company&#8217;s results in the same way management does. These non-cash or non-recurring items generally consist of one-time items resulting from strategic decisions that affect multiple periods or periods unrelated to when the actual items were incurred. Management believes that supplementing GAAP disclosure with non-GAAP disclosure that excludes items that are not directly related to performance in any particular period provides investors with a more complete view of the company&#8217;s operational performance and allows for meaningful period-to-period comparisons and analysis of trends in the Company&#8217;s business. Further, to the extent that other companies use similar methods in calculating non-GAAP measures, the provision of supplemental non-GAAP information can allow for a comparison of the Company&#8217;s relative performance against other companies that also report non-GAAP operating results. 
+
+Non-GAAP net income 
+
+We define non-GAAP net income as our total net income excluding the components described below, which we believe are not reflective of our core, ongoing operating results. In each case, for the reasons set forth below, we believe that excluding the component provides useful information to investors and others in understanding and evaluating the impact of certain items to our operating results and future prospects in the same manner as we do, in comparing financial results across accounting periods and to those of peer companies and in better understanding the impact of these items on our gross margin and operating performance. 
+
+&#8226; 
+
+Stock-Based Expense. The Company&#8217;s compensation strategy includes the use of stock-based compensation to attract and retain employees and executives. It is principally aimed at aligning their interests with those of our stockholders and at long-term employee retention, rather than to motivate or reward operational performance for any particular period. Thus, stock-based expense varies for reasons that are generally unrelated to operational decisions and performance in any particular period. 
+
+&#8226; 
+
+Amortization of Purchased Intangibles and Acquired Leases. The Company views amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company&#8217;s research and development efforts, trade names, customer lists, customer relationships and acquired lease intangibles, as items arising from pre-acquisition activities determined at the time of an acquisition. While these intangible assets are continually evaluated for impairment, amortization of the cost of purchased intangibles is a static expense, one that is not typically affected by operations during any particular period. 
+
+&#8226; 
+
+Amortization of Debt Discount. Under GAAP, certain convertible debt instruments that may be settled in cash (or other assets) on conversion are required to be separately accounted for as liability (debt) and equity (conversion option) components of the instrument in a manner that reflects the issuer&#8217;s non-convertible debt borrowing rate. Accordingly, for GAAP purposes we are required to recognize imputed interest expense on the Company&#8217;s $1.15 billion of convertible senior notes due 2018 that were issued in a private placement in March 2013. The imputed interest rate was approximately 2.53% for the convertible notes due 2018, while the actual coupon interest rate of the notes was 0.25%. The difference between the imputed interest expense and the coupon interest expense, net of the interest amount capitalized, is excluded from management&#8217;s assessment of the Company&#8217;s operating performance because management believes that this non-cash expense is not indicative of its core, ongoing operating performance. 
+
+&#8226; 
+
+Gains and Losses on Sales of Strategic Investments. The Company views gains and losses on sales of its strategic investments resulting from acquisitions initiated by the Company in which an equity interest was previously held as discrete events and not indicative of operational performance during any particular period. 
+
+&#8226; 
+
+Lease Termination Resulting from Purchase of Office Building. &#32;The Company views the non-cash, one-time gain associated with the termination of its lease at 50 Fremont to be a discrete item. 
+
+&#8226; 
+
+Income Tax Effects and Adjustments. &#32;The Company utilizes a fixed long-term projected non-GAAP tax rate in order to provide better consistency across the interim reporting periods by eliminating the effects of non-recurring and period-specific items such as changes in the tax valuation allowance and tax effects of acquisitions-related costs, since each of these can vary in size and frequency. When projecting this long-term rate, the Company evaluated a three-year financial projection that excludes the direct impact of the following non-cash items: stock-based expenses, amortization of purchased intangibles, amortization of acquired leases, amortization of debt discount, gains/losses on conversions of debt, gains on sales of strategic investments and termination of office leases. The projected rate also assumes no new acquisitions in the three-year period, and considers other factors including the Company&#8217;s tax structure, its tax positions in various jurisdictions and key legislation in major jurisdictions where the company operates. This long-term rate could be subject to change for a variety of reasons, such as significant changes in the geographic earnings mix including acquisition activity, or fundamental tax law changes in major jurisdictions where the company operates. The Company re-evaluates this long-term rate on an annual basis or if any significant events that may materially affect this long-term rate occur. The non-GAAP tax rate for fiscal 2017 is 35.0 percent. At the start of fiscal 2016, the Company used a tax rate of 36.5 percent, which was revised to 35.5 percent during the quarter ended October 31, 2015 to account for the related tax impact from the Tax Court decision in Altera Corporation's litigation with the Internal Revenue Service. 
+
+Additionally, as significant, unusual or discrete events occur, or as other events occur that are not related to the Company&#8217;s core, ongoing operating results, we may exclude the financial results of these events from non-GAAP net income in the period in which such events occur. For example, we could in the future recognize a significant gain or loss in connection with one or more of our strategic investments, which may not be viewed by management as reflective of our core, ongoing operating results. Similarly, the financial effects of significant facilities-related transactions may in the future be excluded from non-GAAP net income in the period in which such events may occur, if they are not viewed by management as reflective of our core, ongoing operating results. 
+
+Non-GAAP gross profit 
+
+We define non-GAAP gross profit as our total revenues less cost of revenues, as reported on our consolidated statement of operations, excluding the portions of stock-based expenses and amortization of purchased intangibles that are included in cost of revenues. 
+
+Non-GAAP operating profit 
+
+We define non-GAAP operating profit as our non-GAAP gross profit less operating expenses, as reported on our consolidated statement of operations, excluding the portions of stock-based expenses, amortization of purchased intangibles and gain resulting from termination of our office lease that are included in operating expenses. 
+
+Non-GAAP earnings per share 
+
+We define non-GAAP earnings per share as our non-GAAP net income divided by basic or diluted shares outstanding. 
+
+Non-GAAP free cash flow 
+
+We define the non-GAAP measure free cash flow as GAAP net cash provided by operating activities, less capital expenditures. For this purpose, capital expenditures does not include our strategic investments, nor does it include any costs or activities related to our purchase of 50 Fremont land and building, and building - leased facilities. 
+
+Constant currency results 
+
+We present constant currency information to provide a framework for assessing how our underlying business performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the weighted average exchange rate for the quarter being compared to for growth rate calculations presented, rather than the actual exchange rates in effect during that period. To present deferred revenue on a constant currency basis, we convert the deferred revenue balances in local currencies in previous comparable periods using the United States dollar currency exchange rate as of the most recent balance sheet date. 
+
+Limitations on the use of non-GAAP financial measures 
+
+A limitation of our non-GAAP financial measures of non-GAAP gross profit, non-GAAP operating profit, non-GAAP net income, non-GAAP earnings per share, non-GAAP free cash flow, and constant currency results is that they do not have uniform definitions. Our definitions will likely differ from the definitions used by other companies, including peer companies, 
+
+and therefore comparability may be limited. These non-GAAP measures should be considered in addition to, not as a substitute for, or in isolation from, measures prepared in accordance with GAAP. Additionally, in the case of stock-based expense, if we did not pay a portion of compensation in the form of stock-based expense, the cash salary expense included in costs of revenues and operating expenses would be higher which would affect our cash position. 
+
+We compensate for these limitations by reconciling our non-GAAP financial measures to the most comparable GAAP financial measures. We encourage investors and others to review our financial information in its entirety, not to rely on any single financial measure, and to view our non-GAAP financial measures in conjunction with the most comparable GAAP financial measures. 
+
+Our reconciliation of the non-GAAP financial measures to the most comparable GAAP measures for the three and six months ended July 31, 2016 &#32;and 2015 &#32;are as follows (in thousands, except for share numbers): 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Non-GAAP gross profit 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GAAP gross profit 
+
+$ 
+
+1,511,039 
+
+&#160; 
+
+$ 
+
+1,229,300 
+
+&#160; 
+
+$ 
+
+2,930,661 
+
+&#160; 
+
+$ 
+
+2,358,665 
+
+Plus: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of purchased intangibles 
+
+25,544 
+
+&#160; 
+
+20,839 
+
+&#160; 
+
+47,759 
+
+&#160; 
+
+40,529 
+
+Stock-based expense 
+
+23,495 
+
+&#160; 
+
+16,340 
+
+&#160; 
+
+50,129 
+
+&#160; 
+
+31,721 
+
+Non-GAAP gross profit 
+
+$ 
+
+1,560,078 
+
+&#160; 
+
+$ 
+
+1,266,479 
+
+&#160; 
+
+$ 
+
+3,028,549 
+
+&#160; 
+
+$ 
+
+2,430,915 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Non-GAAP income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GAAP income from operations 
+
+$ 
+
+32,551 
+
+&#160; 
+
+$ 
+
+19,824 
+
+&#160; 
+
+$ 
+
+84,537 
+
+&#160; 
+
+$ 
+
+50,929 
+
+Plus: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of purchased intangibles 
+
+48,695 
+
+&#160; 
+
+39,841 
+
+&#160; 
+
+86,296 
+
+&#160; 
+
+79,558 
+
+Stock-based expense 
+
+182,310 
+
+&#160; 
+
+147,779 
+
+&#160; 
+
+371,229 
+
+&#160; 
+
+290,339 
+
+Less: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating lease termination resulting from purchase of 50 Fremont 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(36,617 
+
+) 
+
+Non-GAAP income from operations 
+
+$ 
+
+263,556 
+
+&#160; 
+
+$ 
+
+207,444 
+
+&#160; 
+
+$ 
+
+542,062 
+
+&#160; 
+
+$ 
+
+384,209 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Non-GAAP net income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GAAP net income (loss) 
+
+$ 
+
+229,622 
+
+&#160; 
+
+$ 
+
+(852 
+
+) 
+
+&#160; 
+
+$ 
+
+268,381 
+
+&#160; 
+
+$ 
+
+3,240 
+
+Plus: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of purchased intangibles 
+
+48,695 
+
+&#160; 
+
+39,841 
+
+&#160; 
+
+86,296 
+
+&#160; 
+
+79,558 
+
+Amortization of acquired lease intangible 
+
+&#160; 
+
+1,301 
+
+&#160; 
+
+1,348 
+
+&#160; 
+
+2,116 
+
+Stock-based expense 
+
+182,310 
+
+&#160; 
+
+147,779 
+
+&#160; 
+
+371,229 
+
+&#160; 
+
+290,339 
+
+Amortization of debt discount, net 
+
+6,264 
+
+&#160; 
+
+6,110 
+
+&#160; 
+
+12,490 
+
+&#160; 
+
+12,169 
+
+Less: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating lease termination resulting from purchase of 50 Fremont 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(36,617 
+
+) 
+
+Gains on sales of strategic investments 
+
+&#160; 
+
+&#160; 
+
+(12,864 
+
+) 
+
+&#160; 
+
+Income tax effects and adjustments 
+
+(297,107 
+
+) 
+
+&#160; 
+
+(65,916 
+
+) 
+
+&#160; 
+
+(388,921 
+
+) 
+
+&#160; 
+
+(114,207 
+
+) 
+
+Non-GAAP net income 
+
+$ 
+
+170,426 
+
+&#160; 
+
+$ 
+
+128,263 
+
+&#160; 
+
+$ 
+
+337,959 
+
+&#160; 
+
+$ 
+
+236,598 
+
+&#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Non-GAAP diluted earnings per share &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GAAP diluted net income per share 
+
+$ 
+
+0.33 
+
+&#160; 
+
+$ 
+
+0.00 
+
+&#160; 
+
+$ 
+
+0.39 
+
+&#160; 
+
+$ 
+
+0.00 
+
+Plus: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of purchased intangibles 
+
+0.07 
+
+&#160; 
+
+0.06 
+
+&#160; 
+
+0.12 
+
+&#160; 
+
+0.12 
+
+Amortization of acquired lease intangible 
+
+0.00 
+
+&#160; 
+
+0.00 
+
+&#160; 
+
+0.00 
+
+&#160; 
+
+0.00 
+
+Stock-based expenses 
+
+0.26 
+
+&#160; 
+
+0.22 
+
+&#160; 
+
+0.54 
+
+&#160; 
+
+0.43 
+
+Amortization of debt discount, net 
+
+0.01 
+
+&#160; 
+
+0.01 
+
+&#160; 
+
+0.02 
+
+&#160; 
+
+0.02 
+
+Less: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating lease termination resulting from purchase of 50 Fremont 
+
+0.00 
+
+&#160; 
+
+0.00 
+
+&#160; 
+
+0.00 
+
+&#160; 
+
+(0.05 
+
+) 
+
+Gains on sales of strategic investments 
+
+0.00 
+
+&#160; 
+
+0.00 
+
+&#160; 
+
+(0.02 
+
+) 
+
+&#160; 
+
+0.00 
+
+Income tax effects and adjustments 
+
+(0.43 
+
+) 
+
+&#160; 
+
+(0.10 
+
+) 
+
+&#160; 
+
+(0.56 
+
+) 
+
+&#160; 
+
+(0.17 
+
+) 
+
+Non-GAAP diluted earnings per share 
+
+$ 
+
+0.24 
+
+&#160; 
+
+$ 
+
+0.19 
+
+&#160; 
+
+$ 
+
+0.49 
+
+&#160; 
+
+$ 
+
+0.35 
+
+Shares used in computing Non-GAAP diluted net income per share 
+
+695,968 
+
+&#160; 
+
+672,627 
+
+&#160; 
+
+691,714 
+
+&#160; 
+
+672,231 
+
+Non-GAAP net income for the quarter ended July 31, 2016 &#32;was $170.4 million &#32;and $128.3 million &#32;for the same period a year ago, an increase of $42.1 million &#32;or 33 percent . During the first six months of fiscal 2017 we remained focused on improving non-GAAP operating profit and expect to remain similarly focused for the remaining six months of fiscal 2017. &#160; 
+
+Three Months Ended July 31, 
+
+&#160; 
+
+Six Months Ended July 31, 
+
+Free cash flow analysis 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating cash flow 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GAAP net cash provided by operating activities 
+
+$ 
+
+250,678 
+
+&#160; 
+
+$ 
+
+304,278 
+
+&#160; 
+
+$ 
+
+1,301,740 
+
+&#160; 
+
+$ 
+
+1,039,359 
+
+Less: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Capital expenditures 
+
+(96,030 
+
+) 
+
+&#160; 
+
+(64,883 
+
+) 
+
+&#160; 
+
+(179,331 
+
+) 
+
+&#160; 
+
+(135,970 
+
+) 
+
+Free cash flow 
+
+$ 
+
+154,648 
+
+&#160; 
+
+$ 
+
+239,395 
+
+&#160; 
+
+$ 
+
+1,122,409 
+
+&#160; 
+
+$ 
+
+903,389 
+
+
+
+ ITEM 1A. 
+
+RISK FACTORS 
+
+The risks and uncertainties described below are not the only ones facing us. Other events that we do not currently anticipate or that we currently deem immaterial also may affect our results of operations, cash flows and financial condition. 
+
+Risks Related to Our Business and Industry 
+
+If our security measures or those of our third-party data center hosting facilities, cloud computing platform providers, or third-party service partners, are breached, and unauthorized access is obtained to a customer&#8217;s data, our data or our IT systems, our services may be perceived as not being secure, customers may curtail or stop using our services, and we may incur significant legal and financial exposure and liabilities. 
+
+Our services involve the storage and transmission of customers&#8217; proprietary information, and security breaches could expose us to a risk of loss of this information, litigation and possible liability. While we have security measures in place, they may be breached as a result of third-party action, including intentional misconduct by computer hackers, employee error, malfeasance or otherwise and result in someone obtaining unauthorized access to our IT data, our customers&#8217; data or our data, including our intellectual property and other confidential business information. Additionally, third parties may attempt to fraudulently induce employees or customers into disclosing sensitive information such as user names, passwords or other information in order to gain access to our customers&#8217; data, our data or our IT systems. Because the techniques used to obtain unauthorized access, or to sabotage systems, change frequently and generally are not recognized until launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures. In addition, our customers may authorize third-party technology providers to access their customer data, and some of our customers may not have 
+
+adequate security measures in place to protect their data that is stored on our services. Because we do not control our customers or third-party technology providers, or the processing of such data by third-party technology providers, we cannot ensure the integrity or security of such transmissions or processing. Malicious third parties may also conduct attacks designed to temporarily deny customers access to our services. Any security breach could result in a loss of confidence in the security of our services, damage our reputation, negatively impact our future sales, disrupt our business and lead to legal liability. 
+
+Defects or disruptions in our services could diminish demand for our services and subject us to substantial liability. 
+
+Because our services are complex and incorporate a variety of hardware and proprietary and third-party software, our services may have errors or defects that could result in unanticipated downtime for our subscribers and harm to our reputation and our business. Cloud services frequently contain undetected errors when first introduced or when new versions or enhancements are released. We have from time to time found defects in, and experienced disruptions to, our services and new defects or disruptions may occur in the future. In addition, our customers may use our services in unanticipated ways that may cause a disruption in services for other customers attempting to access their data. As we acquire companies, we may encounter difficulty in incorporating the acquired technologies into our services and maintaining the quality standards that are consistent with our brand and reputation. Since our customers use our services for important aspects of their business, any errors, defects, disruptions in service or other performance problems could hurt our reputation and may damage our customers&#8217; businesses. As a result, customers could elect to not renew our services or delay or withhold payment to us. We could also lose future sales or customers may make warranty or other claims against us, which could result in an increase in our provision for doubtful accounts, an increase in collection cycles for accounts receivable or the expense and risk of litigation. 
+
+Interruptions or delays in services from our third-party data center hosting facilities or cloud computing platform providers could impair the delivery of our services and harm our business. 
+
+We currently serve our customers from third-party data center hosting facilities and cloud computing platform providers located in the United States and other countries. Any damage to, or failure of, our systems generally could result in interruptions in our services. We have from time to time experienced interruptions in our services and such interruptions may occur in the future. Interruptions in our services may reduce our revenue, cause us to issue credits or pay penalties, cause customers to terminate their subscriptions and adversely affect our attrition rates and our ability to attract new customers, all of which would reduce our revenue. Our business would also be harmed if our customers and potential customers believe our services are unreliable. 
+
+As part of our current disaster recovery and business continuity arrangements, our production environment and all of our customers&#8217; data are currently replicated in near real-time in a separate facility located elsewhere. Companies and products added through acquisition may be served through alternate facilities. We do not control the operation of any of these facilities, and they may be vulnerable to damage or interruption from earthquakes, floods, fires, power loss, telecommunications failures and similar events. They may also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct, as well as local administrative actions, changes to legal or permitting requirements and litigation to stop, limit or delay operation. Despite precautions taken at these facilities, the occurrence of a natural disaster or an act of terrorism, a decision to close the facilities without adequate notice or other unanticipated problems at these facilities could result in lengthy interruptions in our services. Even with disaster recovery and business continuity arrangements, our services could be interrupted. 
+
+When we add data centers and add capacity, we may move or transfer our data and our customers&#8217; data. Despite precautions taken during this process, any unsuccessful data transfers may impair the delivery of our services, which may damage our business. 
+
+Privacy concerns and laws, evolving regulation of cloud computing, cross-border data transfer restrictions and other domestic or foreign regulations may limit the use and adoption of our services and adversely affect our business. 
+
+Regulation related to the provision of services on the Internet is increasing, as federal, state and foreign governments continue to adopt new laws and regulations addressing data privacy and the collection, processing, storage and use of personal information. In some cases, foreign data privacy laws and regulations, such as the European Union&#8217;s Data Protection Directive, and the country-specific laws and regulations that implement that directive, also govern the processing of personal information. Further, laws are increasingly aimed at the use of personal information for marketing purposes, such as the European Union&#8217;s e-Privacy Directive, and the country-specific regulations that implement that directive. Such laws and regulations are subject to new and differing interpretations and may be inconsistent among jurisdictions. These and other requirements could reduce demand for our services or restrict our ability to store and process data or, in some cases, impact our ability to offer our services in certain locations or our customers' ability to deploy our solutions globally. For example, in October 2015, the European Court of Justice invalidated the U.S.-EU Safe Harbor framework that had been in place since 2000, which allowed companies to meet certain European legal requirements for the transfer of personal data from the European Economic Area to the United States. While other adequate legal mechanisms to lawfully transfer such data remain, the invalidation of the U.S.-EU Safe Harbor framework may result in different European data protection regulators applying 
+
+differing standards for the transfer of personal data, which could result in increased regulation, cost of compliance and limitations on data transfer for us and our customers. The costs of compliance with and other burdens imposed by laws, regulations and standards may limit the use and adoption of our services, reduce overall demand for our services, lead to significant fines, penalties or liabilities for noncompliance, or slow the pace at which we close sales transactions, any of which could harm our business. 
+
+In addition to government activity, privacy advocacy and other industry groups have established or may establish new self-regulatory standards that may place additional burdens on us. Our customers expect us to meet voluntary certification or other standards established by third parties, such as TRUSTe. If we are unable to maintain these certifications or meet these standards, it could adversely affect our ability to provide our solutions to certain customers and could harm our business. 
+
+Furthermore, concerns regarding data privacy may cause our customers&#8217; customers to resist providing the data necessary to allow our customers to use our services effectively. Even the perception that the privacy of personal information is not satisfactorily protected or does not meet regulatory requirements could inhibit sales of our products or services, and could limit adoption of our cloud-based solutions. 
+
+Industry-specific regulation and other requirements and standards are evolving and unfavorable industry-specific laws, regulations, interpretive positions or standards could harm our business. 
+
+Our customers and potential customers conduct business in a variety of industries, including financial services, the public sector, healthcare and telecommunications. Regulators in certain industries have adopted and may in the future adopt regulations or interpretive positions regarding the use of cloud computing and other outsourced services. The costs of compliance with, and other burdens imposed by, industry-specific laws, regulations and interpretive positions may limit our customers&#8217; use and adoption of our services and reduce overall demand for our services. Compliance with these regulations may also require us to devote greater resources to support certain customers, which may increase costs and lengthen sales cycles. For example, some financial services regulators have imposed guidelines for use of cloud computing services that mandate specific controls or require financial services enterprises to obtain regulatory approval prior to outsourcing certain functions. If we are unable to comply with these guidelines or controls, or if our customers are unable to obtain regulatory approval to use our services where required, our business may be harmed. In addition, an inability to satisfy the standards of certain voluntary third-party certification bodies that our customers may expect, such as an attestation of compliance with the Payment Card Industry (PCI) Data Security Standards, may have an adverse impact on our business and results. Further, there are various statutes, regulations, and rulings relevant to the direct email marketing and text-messaging industries, including the Telephone Consumer Protection Act (TCPA) and related Federal Communication Commission (FCC) orders. The interpretation of many of these statutes, regulations, and rulings is evolving in the courts and administrative agencies and an inability to comply may have an adverse impact on our business and results. If in the future we are unable to achieve or maintain industry-specific certifications or other requirements or standards relevant to our customers, it may harm our business and adversely affect our results. 
+
+In some cases, industry-specific laws, regulations or interpretive positions may also apply directly to us as a service provider. Any failure or perceived failure by us to comply with such requirements could have an adverse impact on our business. 
+
+&#160; 
+
+We rely on third-party computer hardware, software and cloud computing platforms that could cause errors in, or failures of, our services and may be difficult to replace. 
+
+We rely on computer hardware purchased or leased from, software licensed from, and cloud computing platforms provided by, third parties in order to offer our services, including database software and hardware from a variety of vendors. Any errors or defects in third-party hardware, software or cloud computing platforms could result in errors in, or a failure of, our services, which could harm our business. These hardware, software and cloud computing platforms may not continue to be available at reasonable prices, on commercially reasonable terms or at all. Any loss of the right to use any of these hardware, software or cloud computing platforms could significantly increase our expenses and otherwise result in delays in the provisioning of our services until equivalent technology is either developed by us, or, if available, is identified, obtained through purchase or license and integrated into our services. 
+
+The market in which we participate is intensely competitive, and if we do not compete effectively, our operating results could be harmed. 
+
+The market for enterprise applications and platform services is highly competitive, rapidly evolving and fragmented, and subject to changing technology, shifting customer needs and frequent introductions of new products and services. We compete primarily with generalized platforms and vendors of packaged business software, as well as companies offering enterprise apps, including CRM, collaboration and business intelligence software. We also compete with internally developed apps and face competition from enterprise software vendors and online service providers who may develop toolsets and products that allow 
+
+customers to build new applications that run on the customers&#8217; current infrastructure or as hosted services. Our current competitors include: 
+
+&#8226; 
+
+on premise offerings from enterprise software application vendors; 
+
+&#8226; 
+
+cloud computing application service providers; 
+
+&#8226; 
+
+software companies that provide their product or service free of charge, and only charge a premium for advanced features and functionality; 
+
+&#8226; 
+
+social media companies; 
+
+&#8226; 
+
+traditional platform development environment companies; 
+
+&#8226; 
+
+cloud computing development platform companies; 
+
+&#8226; 
+
+internally developed applications (by our potential customers' IT departments); and 
+
+&#8226; 
+
+IoT platforms from large companies that have existing relationships with hardware and software companies. 
+
+Many of our current and potential competitors enjoy substantial competitive advantages, such as greater name recognition, longer operating histories and larger marketing budgets, as well as substantially greater financial, technical and other resources. In addition, many of our current and potential competitors have established marketing relationships and access to larger customer bases, and have major distribution agreements with consultants, system integrators and resellers. As a result, our competitors may be able to respond more quickly and effectively than we can to new or changing opportunities, technologies, standards or customer requirements. Furthermore, because of these advantages, even if our services are more effective than the products and services that our competitors offer, potential customers might select competitive products and services in lieu of purchasing our services. For all of these reasons, we may not be able to compete successfully against our current and future competitors. 
+
+As we acquire and invest in companies or technologies, we may not realize the expected business or financial benefits and the acquisitions could prove difficult to integrate, disrupt our business, dilute stockholder value and adversely affect our operating results and the market value of our common stock. 
+
+As part of our business strategy, we periodically make investments in, or acquisitions of, complementary businesses, joint ventures, services and technologies and intellectual property rights, and we expect that we will continue to make such investments and acquisitions in the future. Acquisitions and investments involve numerous risks, including: 
+
+&#8226; potential failure to achieve the expected benefits of the combination or acquisition; 
+
+&#8226; difficulties in, and the cost of, integrating operations, technologies, services and personnel; 
+
+&#8226; diversion of financial and managerial resources from existing operations; 
+
+&#8226; 
+
+the potential entry into new markets in which we have little or no experience or where competitors may have stronger market positions; 
+
+&#8226; 
+
+potential write-offs of acquired assets or investments, and potential financial and credit risks associated with acquired customers; 
+
+&#8226; 
+
+potential loss of key employees of the acquired company; 
+
+&#8226; 
+
+inability to generate sufficient revenue to offset acquisition or investment costs; 
+
+&#8226; 
+
+inability to maintain relationships with customers and partners of the acquired business; 
+
+&#8226; 
+
+difficulty of transitioning the acquired technology onto our existing platforms and maintaining the security standards for such technology consistent with our other services; 
+
+&#8226; 
+
+potential unknown liabilities associated with the acquired businesses; 
+
+&#8226; 
+
+unanticipated expenses related to acquired technology and its integration into our existing technology; 
+
+&#8226; 
+
+negative impact to our results of operations because of the depreciation and amortization of amounts related to acquired intangible assets, fixed assets and deferred compensation; additional stock based compensation; and the loss of acquired deferred revenue and unbilled deferred revenue; 
+
+&#8226; 
+
+delays in customer purchases due to uncertainty related to any acquisition; 
+
+&#8226; 
+
+the need to implement controls, procedures and policies at the acquired company; 
+
+&#8226; 
+
+challenges caused by distance, language and cultural differences; 
+
+&#8226; 
+
+in the case of foreign acquisitions, the challenges associated with integrating operations across different cultures and languages and any currency and regulatory risks associated with specific countries; and 
+
+&#8226; 
+
+the tax effects of any such acquisitions. 
+
+Any of these risks could harm our business. In addition, if we finance acquisitions by issuing equity or convertible or other debt securities or loans, our existing stockholders may be diluted, or we could face constraints related to the terms of and repayment obligation related to the incurrence of indebtedness that could affect the market price of our common stock. 
+
+We are subject to risks associated with our strategic investments. Other-than-temporary impairments in the value of our investments could negatively impact our financial results. 
+
+We invest in early-to-late stage companies for strategic reasons and to support key business initiatives, and may not realize a return on our strategic investments. Many such companies generate net losses and the market for their products, services or technologies may be slow to develop, and, therefore, are dependent on the availability of later rounds of financing from banks or investors on favorable terms to continue their operations. The financial success of our investment in any company is typically dependent on a liquidity event, such as a public offering, acquisition or other favorable market event reflecting appreciation to the cost of our initial investment. The capital markets for public offerings and acquisitions are dynamic and the likelihood of liquidity events for the companies we have invested in could significantly worsen. Further, valuations of privately-held companies are inherently complex due to the lack of readily available market data. If we determine that any of our investments in such companies have experienced a decline in value, we may be required to record an other than temporary impairment, which could be material. We have in the past written off the full value of specific investments. Similar situations could occur in the future and negatively impact our financial results. All of our investments are subject to a risk of a partial or total loss of investment capital. 
+
+Our quarterly results are likely to fluctuate and our stock price and the value of our common stock could decline substantially. 
+
+Our quarterly results are likely to fluctuate. For example, our fiscal fourth quarter has historically been our strongest quarter for new business and renewals. The year-over-year compounding effect of this seasonality in billing patterns and overall new business and renewal activity causes the value of invoices that we generate in the fourth quarter to continually increase in proportion to our billings in the other three quarters of our fiscal year. As a result, our fiscal first quarter is our largest collections and operating cash flow quarter. 
+
+Additionally, some of the important factors that may cause our revenues, operating results and cash flows to fluctuate from quarter to quarter include: 
+
+&#8226; 
+
+our ability to retain and increase sales to existing customers, attract new customers and satisfy our customers&#8217; requirements; 
+
+&#8226; 
+
+the attrition rates for our services; 
+
+&#8226; 
+
+the amount and timing of operating costs and capital expenditures related to the operations and expansion of our business; 
+
+&#8226; 
+
+changes in deferred revenue and unbilled deferred revenue balances, which are not reflected in the balance sheet, due to seasonality, the compounding effects of renewals, invoice duration, size and timing, new business linearity between quarters and within a quarter and fluctuations due to foreign currency movements; 
+
+&#8226; 
+
+changes in foreign currency exchange rates; 
+
+&#8226; 
+
+the number of new employees; 
+
+&#8226; 
+
+changes in our pricing policies and terms of contracts, whether initiated by us or as a result of competition; 
+
+&#8226; 
+
+the cost, timing and management effort for the introduction of new features to our services; 
+
+&#8226; 
+
+the costs associated with acquiring new businesses and technologies and the follow-on costs of integration and consolidating the results of acquired businesses; 
+
+&#8226; 
+
+the rate of expansion and productivity of our sales force; 
+
+&#8226; 
+
+the length of the sales cycle for our services; 
+
+&#8226; 
+
+new product and service introductions by our competitors; 
+
+&#8226; 
+
+our success in selling our services to large enterprises; 
+
+&#8226; 
+
+evolving regulations of cloud computing and cross-border data transfer restrictions and similar regulations; 
+
+&#8226; 
+
+variations in the revenue mix of editions of our services; 
+
+&#8226; 
+
+technical difficulties or interruptions in our services; 
+
+&#8226; 
+
+expenses related to our real estate, our office leases and our data center capacity and expansion; 
+
+&#8226; 
+
+changes in interest rates and our mix of investments, which would impact the return on our investments in cash and marketable securities; 
+
+&#8226; 
+
+conditions, particularly sudden changes, in the financial markets, which have impacted and may continue to impact the value of and liquidity of our investment portfolio; 
+
+&#8226; 
+
+income tax effects; 
+
+&#8226; 
+
+our ability to realize benefits from strategic partnerships, acquisition or investments; 
+
+&#8226; 
+
+other than temporary impairments in the value of our strategic investments in early-to-late stage privately held companies, which could be material in a particular quarter; 
+
+&#8226; 
+
+expenses related to significant, unusual or discrete events, which are recorded in the period in which the events occur; 
+
+&#8226; 
+
+general economic conditions, which may adversely affect either our customers&#8217; ability or willingness to purchase additional subscriptions or upgrade their services, or delay a prospective customer's purchasing decision, reduce the value of new subscription contracts, or affect attrition rates; 
+
+&#8226; 
+
+timing of additional investments in our enterprise cloud computing application and platform services and in our consulting services; 
+
+&#8226; 
+
+regulatory compliance costs; 
+
+&#8226; 
+
+changes in payment terms and the timing of customer payments and payment defaults by customers; 
+
+&#8226; 
+
+extraordinary expenses such as litigation or other dispute-related settlement payments; 
+
+&#8226; 
+
+the impact of new accounting pronouncements, for example, the adoption of ASU 2016-09 and the volatility of the effective tax rate; 
+
+&#8226; 
+
+equity issuances, including as consideration in acquisitions or due to the conversion of our outstanding convertible notes at the election of the note holders; 
+
+&#8226; 
+
+the timing of stock awards to employees and the related adverse financial statement impact of having to expense those stock awards on a straight-line basis over their vesting schedules; 
+
+&#8226; 
+
+the timing of commission, bonus, and other compensation payments to employees; and 
+
+&#8226; 
+
+the timing of payroll and other withholding tax expenses, which are triggered by the payment of bonuses and when employees exercise their vested stock awards. 
+
+Many of these factors are outside of our control, and the occurrence of one or more of them might cause our operating results to vary widely. As such, we believe that historical quarter-to-quarter comparisons of our revenues, operating results, changes in our deferred revenue and unbilled deferred revenue balances and cash flows may not be meaningful and should not be relied upon as an indication of future performance. 
+
+Additionally, if we fail to meet or exceed the expectations of securities analysts and investors, or if one or more of the securities analysts who cover us adversely change their recommendation regarding our stock, the market price of our common stock could decline. Moreover, our stock price may be based on expectations, estimates and forecasts of our future performance that may be unrealistic or that may not be met. Further, our stock price may fluctuate based on reporting by the financial media, including television, radio and press reports and blogs. 
+
+If we experience significant fluctuations in our rate of anticipated growth and fail to balance our expenses with our revenue forecasts, our results could be harmed. 
+
+Due to the pace of change and innovation in enterprise cloud computing services and the unpredictability of future general economic and financial market conditions and the impact of foreign currency exchange rate fluctuations, we may not be able to accurately forecast our rate of growth. We plan our expense levels and investment on estimates of future revenue and future anticipated rate of growth. We may not be able to adjust our spending appropriately if the addition of new subscriptions or the renewals of existing subscriptions fall short of our expectations. A portion of our expenses may also be fixed in nature for some minimum amount of time, such as with a data center contract or office lease, so it may not be possible to reduce costs in a timely manner or without the payment of fees to exit certain obligations early. As a result, we expect that our revenues, operating results and cash flows may fluctuate significantly on a quarterly basis. Our recent revenue growth rates may not be sustainable and may decline in the future. We believe that historical period-to-period comparisons of our revenues, operating results and cash flows may not be meaningful and should not be relied upon as an indication of future performance. 
+
+Our efforts to expand our services beyond the CRM market and to develop our existing services in order to keep pace with technological developments may not succeed and may reduce our revenue growth rate and harm our business. 
+
+We derive substantially all of our revenue from subscriptions to our CRM enterprise cloud computing application services, and we expect this will continue for the foreseeable future. The markets for our Analytics, Communities, IoT and Commerce Clouds remain relatively new and it is uncertain whether our efforts will ever result in significant revenue for us. Commerce Cloud originated as part of our Demandware acquisition. Further, the introduction of significant platform changes and upgrades, including our conversion to our new Lightning platform, and introduction of new services beyond the CRM market, may not be successful, and early stage interest and adoption of such new services may not result in long term success 
+
+or significant revenue for us. Our efforts to expand our services beyond the CRM market may not succeed and may reduce our revenue growth rate. 
+
+Additionally, if we are unable to develop enhancements to and new features for our existing or new services that keep pace with rapid technological developments, our business will be harmed. The success of enhancements, new features and services depends on several factors, including the timely completion, introduction and market acceptance of the feature, service or enhancement. Failure in this regard may significantly impair our revenue growth. In addition, because our services are designed to operate on a variety of network hardware and software platforms using a standard browser, we will need to continuously modify and enhance our services to keep pace with changes in Internet-related hardware, software, communication, browser and database technologies. We may not be successful in either developing these modifications and enhancements or in bringing them to market timely. Furthermore, uncertainties about the timing and nature of new network platforms or technologies, or modifications to existing platforms or technologies, could increase our research and development or service delivery expenses. Any failure of our services to operate effectively with future network platforms and technologies could reduce the demand for our services, result in customer dissatisfaction and harm our business. 
+
+Additionally, if we fail to anticipate or identify significant Internet-related and other technology trends and developments early enough, or if we do not devote appropriate resources to adapting to such trends and developments, our business could be harmed. 
+
+Sales to customers outside the United States expose us to risks inherent in international sales. 
+
+We sell our services throughout the world and are subject to risks and challenges associated with international business. Historically, sales in Europe and Asia Pacific together have represented approximately 30 percent of our total revenues, and we intend to continue to expand our international sales efforts. The risks and challenges associated with sales to customers outside the United States include: 
+
+&#8226; 
+
+localization of our services, including translation into foreign languages and associated expenses; 
+
+&#8226; 
+
+laws and business practices favoring local competitors; 
+
+&#8226; 
+
+pressure on the creditworthiness of sovereign nations, particularly in Europe, where we have customers and a balance of our cash, cash equivalents and marketable securities; 
+
+&#8226; 
+
+liquidity issues or political actions by sovereign nations, which could result in decreased values of these balances; 
+
+&#8226; 
+
+foreign currency fluctuations and controls; 
+
+&#8226; 
+
+compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, privacy, anti-corruption, import/export, antitrust, data transfer, storage and protection, and industry-specific laws and regulations, including rules related to compliance by our third-party resellers; 
+
+&#8226; 
+
+regional data privacy laws and other regulatory requirements that apply to outsourced service providers and to the transmission of our customers&#8217; data across international borders; 
+
+&#8226; 
+
+treatment of revenue from international sources and changes to tax codes, including being subject to foreign tax laws and being liable for paying withholding income or other taxes in foreign jurisdictions; 
+
+&#8226; 
+
+different pricing environments; 
+
+&#8226; 
+
+difficulties in staffing and managing foreign operations; 
+
+&#8226; 
+
+different or lesser protection of our intellectual property; 
+
+&#8226; 
+
+longer accounts receivable payment cycles and other collection difficulties; 
+
+&#8226; 
+
+natural disasters, acts of war, terrorism, pandemics or security breaches; and 
+
+&#8226; 
+
+regional economic and political conditions. 
+
+Any of these factors could negatively impact our business and results of operations. 
+
+Additionally, our international subscription fees are paid either in U.S. Dollars or local currency. As a result, fluctuations in the value of the U.S. Dollar and foreign currencies may make our services more expensive for international customers, which could harm our business. 
+
+Because we recognize revenue from subscriptions for our services over the term of the subscription, downturns or upturns in new business may not be immediately reflected in our operating results. 
+
+We generally recognize revenue from customers ratably over the terms of their subscription agreements, which are typically 12 to 36 months. As a result, most of the revenue we report in each quarter is the result of subscription agreements entered into during previous quarters. Consequently, a decline in new or renewed subscriptions in any one quarter may not be reflected in our revenue results for that quarter. Any such decline, however, will negatively affect our revenue in future 
+
+quarters. Accordingly, the effect of significant downturns in sales and market acceptance of our services, and potential changes in our attrition rate, may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to rapidly increase our revenue through additional sales in any period, as revenue from new customers must be recognized over the applicable subscription term. 
+
+&#160; 
+
+If our customers do not renew their subscriptions for our services or reduce the number of paying subscriptions at the time of renewal, our revenue will decline and our business will suffer. If we cannot accurately predict subscription renewals or upgrade rates, we may not meet our revenue targets which may adversely affect the market price of our common stock. 
+
+Our customers have no obligation to renew their subscriptions for our services after the expiration of their initial subscription period, which is typically 12 to 36 months, and in the normal course of business, some customers have elected not to renew. In addition, our customers may renew for fewer subscriptions, renew for shorter contract lengths, or switch to lower cost offerings of our services. We cannot accurately predict attrition rates given our varied customer base of enterprise and small and medium size business customers and the number of multi-year subscription contracts. Our attrition rates may increase or fluctuate as a result of a number of factors, including customer dissatisfaction with our services, customers&#8217; spending levels, decreases in the number of users at our customers, pricing increases or changes and deteriorating general economic conditions. 
+
+Our future success also depends in part on our ability to sell additional features and services, more subscriptions or enhanced editions of our services to our current customers. This may also require increasingly sophisticated and costly sales efforts that are targeted at senior management. Similarly, the rate at which our customers purchase new or enhanced services depends on a number of factors, including general economic conditions and that our customers do not react negatively to any price changes related to these additional features and services. If our efforts to upsell to our customers are not successful our business may suffer. 
+
+If the market for our technology delivery model and enterprise cloud computing services develops more slowly than we expect, our business could be harmed. 
+
+Our success depends on the willingness of third-party developers to build applications that are complementary to our services. Without the development of these applications, both current and potential customers may not find our services sufficiently attractive. In addition, for those customers who authorize a third-party technology partner access to their data, we do not provide any warranty related to the functionality, security and integrity of the data transmission or processing. Despite contract provisions to protect us, customers may look to us to support and provide warranties for the third-party applications, which may expose us to potential claims, liabilities and obligations for applications we did not develop or sell, all of which could harm our business. 
+
+We are exposed to fluctuations in currency exchange rates that could negatively impact our financial results and cash flows from changes in the value of the U.S. Dollar versus local currencies. 
+
+We conduct our business in the following locations: United States, Europe, Canada, Asia Pacific and Japan. The expanding global scope of our business exposes us to risk of fluctuations in foreign currency markets. This exposure is the result of selling in multiple currencies, growth in our international investments, including data center expansion, additional headcount in foreign locations, and operating in countries where the functional currency is the local currency. Specifically, our results of operations and cash flows are subject to fluctuations primarily in British Pound Sterling, the Euro and Japanese Yen against the U.S. Dollar. These exposures may change over time as business practices evolve and economic conditions change, including, for example, sudden global economic conditions resulting from measures like the referendum in the United Kingdom in June 2016, which resulted in a vote in favor of exiting the European Union (&#8220;Brexit&#8221;). The fluctuations of currencies in which we conduct business can both increase and decrease our overall revenue and expenses for any given fiscal period. Such volatility, even when it increases our revenues or decreases our expenses, impacts our ability to accurately predict our future results and earnings. 
+
+Supporting our existing and growing customer base could strain our personnel resources and infrastructure, and if we are unable to scale our operations and increase productivity, we may not be able to successfully implement our business plan. 
+
+We continue to experience significant growth in our customer base and personnel, which has placed a strain on our management, administrative, operational and financial infrastructure. We anticipate that additional investments in our internal infrastructure, data center capacity, research, customer support and development, and real estate spending will be required to scale our operations and increase productivity, to address the needs of our customers, to further develop and enhance our services, to expand into new geographic areas, and to scale with our overall growth. The additional investments we are making will increase our cost base, which will make it more difficult for us to offset any future revenue shortfalls by reducing expenses in the short term. 
+
+We regularly upgrade or replace our various software systems. If the implementations of these new applications are delayed, or if we encounter unforeseen problems with our new systems or in migrating away from our existing applications and systems, our operations and our ability to manage our business could be negatively impacted. 
+
+Our success will depend in part upon the ability of our senior management to manage our projected growth effectively. To do so, we must continue to increase the productivity of our existing employees and to hire, train and manage new employees as needed. To manage the expected domestic and international growth of our operations and personnel, we will need to continue to improve our operational, financial and management controls, our reporting systems and procedures, and our utilization of real estate. If we fail to successfully scale our operations and increase productivity, we will be unable to execute our business plan. 
+
+As more of our sales efforts are targeted at larger enterprise customers, our sales cycle may become more time-consuming and expensive, we may encounter pricing pressure and implementation and customization challenges, and we may have to delay revenue recognition for some complex transactions, all of which could harm our business and operating results. 
+
+As we target more of our sales efforts at larger enterprise customers, including governmental entities, we may face greater costs, longer sales cycles, greater competition and less predictability in completing some of our sales. In this market segment, the customer&#8217;s decision to use our services may be an enterprise-wide decision and, if so, these types of sales would require us to provide greater levels of education regarding the use and benefits of our services, as well as education regarding privacy and data protection laws and regulations to prospective customers with international operations. In addition, larger customers and governmental entities may demand more customization, integration services and features. As a result of these factors, these sales opportunities may require us to devote greater sales support and professional services resources to individual customers, driving up costs and time required to complete sales and diverting our own sales and professional services resources to a smaller number of larger transactions, while potentially requiring us to delay revenue recognition on some of these transactions until the technical or implementation requirements have been met. 
+
+Pricing and packaging strategies for enterprise and other customers for subscriptions to our existing and future service offerings may not be widely accepted by other new or existing customers. Our adoption of such new pricing and packaging strategies may harm our business. 
+
+For large enterprise customers, professional services may also be performed by a third party or a combination of our own staff and a third party. Our strategy is to work with third parties to increase the breadth of capability and depth of capacity for delivery of these services to our customers. If a customer is not satisfied with the quality of work performed by us or a third party or with the type of services or solutions delivered, then we could incur additional costs to address the situation, the profitability of that work might be impaired, and the customer&#8217;s dissatisfaction with our services could damage our ability to obtain additional work from that customer. In addition, negative publicity related to our customer relationships, regardless of its accuracy, may further damage our business by affecting our ability to compete for new business with current and prospective customers. 
+
+We have been and may in the future be sued by third parties for various claims including alleged infringement of proprietary rights. 
+
+We are involved in various legal matters arising from the normal course of business activities. These may include claims, suits, government investigations and other proceedings involving alleged infringement of third-party patents and other intellectual property rights, commercial, corporate and securities, labor and employment, class actions, wage and hour, and other matters. 
+
+The software and Internet industries are characterized by the existence of a large number of patents, trademarks and copyrights and by frequent litigation based on allegations of infringement or other violations of intellectual property rights. We have received in the past and may receive in the future communications from third parties, including practicing entities and non-practicing entities, claiming that we have infringed their intellectual property rights. 
+
+In addition, we have been, and may in the future be, sued by third parties for alleged infringement of their claimed proprietary rights. For example, during fiscal 2015, we received a communication from a large technology company alleging that we infringed certain of its patents. While we continue to analyze this claim and no litigation has been filed to date, there can be no assurance that this claim will not lead to litigation in the future. Our technologies may be subject to injunction if they are found to infringe the rights of a third party or we may be required to pay damages, or both. Further, many of our subscription agreements require us to indemnify our customers for third-party intellectual property infringement claims, which would increase the cost to us of an adverse ruling on such a claim. 
+
+The outcome of any claims or litigation, regardless of the merits, is inherently uncertain. Any claims and lawsuits, and the disposition of such claims and lawsuits, whether through settlement or licensing discussions, or litigation, could be time-consuming and expensive to resolve, divert management attention from executing our business plan, result in efforts to enjoin 
+
+our activities, lead to attempts on the part of other parties to pursue similar claims and, in the case of intellectual property claims, require us to change our technology, change our business practices, pay monetary damages or enter into short- or long-term royalty or licensing agreements. 
+
+Any adverse determination related to intellectual property claims or other litigation could prevent us from offering our services to others, could be material to our financial condition or cash flows, or both, or could otherwise adversely affect our operating results. In addition, depending on the nature and timing of any such dispute, an unfavorable resolution of a legal matter could materially affect our future results of operations or cash flows or both of a particular quarter. 
+
+In addition, our exposure to risks associated with various claims, including the use of intellectual property, may be increased as a result of acquisitions of other companies. For example, we may have a lower level of visibility into the development process with respect to intellectual property or the care taken to safeguard against infringement risks with respect to the acquired company or technology. In addition, third parties may make infringement and similar or related claims after we have acquired technology that had not been asserted prior to our acquisition. 
+
+Any failure to protect our intellectual property rights could impair our ability to protect our proprietary technology and our brand. 
+
+If we fail to protect our intellectual property rights adequately, our competitors may gain access to our technology, and our business may be harmed. In addition, defending our intellectual property rights may entail significant expense. Any of our patents, trademarks or other intellectual property rights may be challenged by others or invalidated through administrative process or litigation. While we have some U.S. patents and many U.S. and international patent applications pending, we may be unable to obtain patent protection for the technology covered in our patent applications or the patent protection may not be obtained quickly enough to meet our business needs. In addition, our existing patents and any patents issued in the future may not provide us with competitive advantages, or may be successfully challenged by third parties. Furthermore, legal standards relating to the validity, enforceability and scope of protection of intellectual property rights are uncertain, and we also may face proposals to change the scope of protection for some intellectual property rights in the U.S. Effective patent, trademark, copyright and trade secret protection may not be available to us in every country in which our services are available. The laws of some foreign countries may not be as protective of intellectual property rights as those in the U.S., and mechanisms for enforcement of intellectual property rights may be inadequate. Also, our involvement in standard setting activity or the need to obtain licenses from others may require us to license our intellectual property. Accordingly, despite our efforts, we may be unable to prevent third parties from using our intellectual property. 
+
+We may be required to spend significant resources to monitor and protect our intellectual property rights and we may conclude that in at least some instances the benefits of protecting our intellectual property rights may be outweighed by the expense. We may initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity of our proprietary rights. Any litigation, whether or not it is resolved in our favor, could result in significant expense to us and divert the efforts of our technical and management personnel. 
+
+Our continued success depends on our ability to maintain and enhance our brands. 
+
+We believe that the brand identities we have developed have significantly contributed to the success of our business. Maintaining and enhancing the Salesforce brand and our other brands are critical to expanding our base of customers, partners and employees. Our brand strength will depend largely on our ability to remain a technology leader and continue to provide high-quality innovative products, services, and features. In order to maintain and enhance our brands, we may be required to make substantial investments that may later prove to be unsuccessful. In addition, positions the Company takes on social issues may be unpopular with some customers or potential customers, which may impact our ability to attract or retain such customers. If we fail to maintain and enhance our brands, or if we incur excessive expenses in our efforts to do so, our business, operating results and financial condition may be materially and adversely affected. 
+
+We may lose key members of our management team or development and operations personnel, and may be unable to attract and retain employees we need to support our operations and growth. 
+
+Our success depends substantially upon the continued services of our executive officers and other key members of management, particularly our Chief Executive Officer. From time to time, there may be changes in our executive management team resulting from the hiring or departure of executives. Such changes in our executive management team may be disruptive to our business. We are also substantially dependent on the continued service of our existing development and operations personnel because of the complexity of our services and technologies. We do not have employment agreements with any of our executive officers, key management, development or operations personnel and they could terminate their employment with us at any time. The loss of one or more of our key employees or groups could seriously harm our business. 
+
+In the technology industry, there is substantial and continuous competition for engineers with high levels of experience in designing, developing and managing software and Internet-related services, as well as competition for sales executives and operations personnel. We may not be successful in attracting and retaining qualified personnel. We have from time to time 
+
+experienced, and we expect to continue to experience, difficulty in hiring and retaining highly skilled employees with appropriate qualifications. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be severely harmed. 
+
+In addition, we believe in the importance of our corporate culture, or Aloha spirit, which fosters dialogue, collaboration, recognition and a sense of family. As our organization grows, we may find it increasingly difficult to maintain the beneficial aspects of our corporate culture. This could negatively impact our future success. 
+
+Any failure in our delivery of high-quality technical support services may adversely affect our relationships with our customers and our financial results. 
+
+Our customers depend on our support organization to resolve technical issues relating to our applications. We may be unable to respond quickly enough to accommodate short-term increases in customer demand for support services. Increased customer demand for these services, without corresponding revenues, could increase costs and adversely affect our operating results. In addition, our sales process is highly dependent on our applications and business reputation and on positive recommendations from our existing customers. Any failure to maintain high-quality technical support, or a market perception that we do not maintain high-quality support, could adversely affect our reputation, our ability to sell our enterprise cloud computing solutions to existing and prospective customers, and our business, operating results and financial position. 
+
+Periodic changes to our sales organization can be disruptive and may reduce our rate of growth. 
+
+We periodically change and make adjustments to our sales organization in response to market opportunities, competitive threats, management changes, product introductions or enhancements, acquisitions, sales performance, increases in sales headcount, cost levels and other internal and external considerations. Any such future sales organization changes may result in a temporary reduction of productivity, which could negatively affect our rate of growth. In addition, any significant change to the way we structure our compensation of our sales organization may be disruptive and may affect our revenue growth. 
+
+Unanticipated changes in our effective tax rate and additional tax liabilities may impact our financial results. 
+
+We are subject to income taxes in the United States and various jurisdictions outside of the United States. Our effective tax rate could fluctuate due to changes in the mix of earnings and losses in countries with differing statutory tax rates. Our tax expense could also be impacted by changes in non-deductible expenses, changes in excess tax benefits of stock-based compensation, changes in the valuation of deferred tax assets and liabilities and our ability to utilize them, the applicability of withholding taxes and effects from acquisitions. 
+
+We are subject to tax examinations in multiple jurisdictions. While we regularly evaluate new information that may change our judgment resulting in recognition, derecognition or change in measurement of a tax position taken, there can be no assurance that the final determination of any examinations will not have an adverse effect on our operating results and financial position. 
+
+Our tax provision could also be impacted by changes in accounting principles, changes in U.S federal and state or international tax laws applicable to corporate multinationals such as the legislation recently enacted in the United Kingdom and Australia, other fundamental law changes currently being considered by many countries and changes in taxing jurisdictions' administrative interpretations, decisions, policies and positions. Additionally, in October 2015, the Organisation for Economic Co-Operation and Development released final guidance covering various topics, including transfer pricing, country-by-country reporting and definitional changes to permanent establishment which could ultimately impact our tax liabilities. 
+
+We may also be subject to additional tax liabilities due to changes in non-income taxes resulting from changes in federal, state or international tax laws, changes in taxing jurisdictions&#8217; administrative interpretations, decisions, policies, and positions, results of tax examinations, settlements or judicial decisions, changes in accounting principles, changes to the business operations, including acquisitions, as well as the evaluation of new information that results in a change to a tax position taken in a prior period. 
+
+Our debt service obligations and operating lease commitments may adversely affect our financial condition and cash flows from operations. 
+
+We have a high level of debt, including the 0.25% convertible senior notes we issued in March 2013 (the &#8220; 0.25% &#32;Senior Notes&#8221;) due April 1, 2018, the loan we assumed when we purchased 50 Fremont, and capital lease arrangements. Additionally, we have significant contractual commitments in operating lease arrangements, which are not reflected on our consolidated balance sheets. In addition, we have a financing obligation for a leased facility of which we are deemed the owner for accounting purposes. In July 2016, we amended and restated our revolving credit facility under which we can draw down up to $1.0 billion. We currently have no outstanding borrowings under this credit facility. Also in July 2016, we entered into the $500.0 million term loan to finance our acquisition of Demandware. Our maintenance of this indebtedness and any additional issuance of indebtedness could: 
+
+&#8226; 
+
+impair our ability to obtain additional financing in the future for working capital, capital expenditures, acquisitions, general corporate or other purposes; 
+
+&#8226; 
+
+cause us to dedicate a substantial portion of our cash flows from operations towards debt service obligations and principal repayments; 
+
+&#8226; 
+
+make us more vulnerable to downturns in our business, our industry or the economy in general; and 
+
+&#8226; 
+
+due to limitations within the revolving credit facility covenants, restrict our ability to incur additional indebtedness, grant liens, merge or consolidate, dispose of assets, make investments, make acquisitions, enter into transactions with affiliates, pay dividends or make distributions, repurchase stock and enter into restrictive agreements, as defined in the credit agreement. 
+
+Our ability to meet our expenses and debt obligations will depend on our future performance, which will be affected by financial, business, economic, regulatory and other factors. We will not be able to control many of these factors, such as economic conditions and governmental regulations. Further, our operations may not generate sufficient cash to enable us to service our debt or contractual obligations resulting from our leases. If we fail to make a payment on our debt, we could be in default on such debt. If we are at any time unable to generate sufficient cash flows from operations to service our indebtedness when payment is due, we may be required to attempt to renegotiate the terms of the instruments relating to the indebtedness, seek to refinance all or a portion of the indebtedness or obtain additional financing. There can be no assurance that we would be able to successfully renegotiate such terms, that any such refinancing would be possible or that any additional financing could be obtained on terms that are favorable or acceptable to us. 
+
+A failure to comply with the covenants and other provisions of our outstanding debt could result in events of default under such instruments, which could permit acceleration of all of our notes and borrowings under our revolving credit facility. Any required repayment of our notes or revolving credit facility as a result of a fundamental change or other acceleration would lower our current cash on hand such that we would not have those funds available for use in our business. 
+
+The new lease accounting guidance places operating lease activity on our consolidated balance sheet in fiscal 2020, which results in an increase in both our assets and financing obligations. The implementation of this guidance may impact our ability to obtain the necessary financing from financial institutions at commercially viable rates or at all as this new guidance will result in a higher financing obligation on our consolidated balance sheet. 
+
+Weakened global economic conditions may adversely affect our industry, business and results of operations. 
+
+Our overall performance depends in part on worldwide economic conditions. The United States and other key international economies have experienced cyclical downturns from time to time in which economic activity was impacted by falling demand for a variety of goods and services, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, bankruptcies and overall uncertainty with respect to the economy. These economic conditions can arise suddenly and the full impact of such conditions can remain uncertain. For example, increased uncertainty in the wake of Brexit has resulted in increased volatility in the global financial markets and the impact of Brexit on the global economy in 2016 and beyond remains uncertain. Moreover, these conditions can affect the rate of information technology spending and could adversely affect our customers&#8217; ability or willingness to purchase our enterprise cloud computing services, delay prospective customers&#8217; purchasing decisions, reduce the value or duration of their subscription contracts, or affect attrition rates, all of which could adversely affect our operating results. 
+
+Natural disasters and other events beyond our control could materially adversely affect us. 
+
+Natural disasters or other catastrophic events may cause damage or disruption to our operations, international commerce and the global economy, and thus could have a strong negative effect on us. Our business operations are subject to interruption by natural disasters, fire, power shortages, pandemics and other events beyond our control. Although we maintain crisis management and disaster response plans, such events could make it difficult or impossible for us to deliver our services to our customers, and could decrease demand for our services. The majority of our research and development activities, corporate headquarters, information technology systems, and other critical business operations, are located near major seismic faults in the San Francisco Bay Area. Because we do not carry earthquake insurance for direct quake-related losses, with the exception of the building that we own in San Francisco, and significant recovery time could be required to resume operations, our financial condition and operating results could be materially adversely affected in the event of a major earthquake or catastrophic event. 
+
+Risks Relating to Our Convertible Senior Notes and Our Common Stock 
+
+The market price of our common stock is likely to be volatile and could subject us to litigation. 
+
+The trading prices of the securities of technology companies have been highly volatile. Accordingly, the market price of our notes and common stock has been and is likely to continue to be subject to wide fluctuations. Factors affecting the market price of our notes and common stock include: 
+
+&#8226; 
+
+variations in our operating results, earnings per share, cash flows from operating activities, deferred revenue, year-over-year growth rates for individual core service offerings and other financial metrics and non-financial metrics, and how those results compare to analyst expectations; 
+
+&#8226; 
+
+variations in, and limitations of, the various financial and other metrics and modeling used by analysts in their research and reports about our business; 
+
+&#8226; 
+
+forward-looking guidance to industry and financial analysts related to future revenue and earnings per share; 
+
+&#8226; 
+
+changes in the estimates of our operating results or changes in recommendations by securities analysts that elect to follow our common stock; 
+
+&#8226; 
+
+announcements of technological innovations, new services or service enhancements, strategic alliances or significant agreements by us or by our competitors; 
+
+&#8226; 
+
+announcements by us or by our competitors of mergers or other strategic acquisitions, or rumors of such transactions involving us or our competitors; 
+
+&#8226; 
+
+announcements of customer additions and customer cancellations or delays in customer purchases; 
+
+&#8226; 
+
+recruitment or departure of key personnel; 
+
+&#8226; 
+
+disruptions in our service due to computer hardware, software, network or data center problems; 
+
+&#8226; 
+
+the economy as a whole, market conditions in our industry and the industries of our customers; 
+
+&#8226; 
+
+trading activity by a limited number of stockholders who together beneficially own a significant portion of our outstanding common stock; 
+
+&#8226; 
+
+the issuance of shares of common stock by us, whether in connection with an acquisition, a capital raising transaction or upon conversion of some or all of our outstanding convertible senior notes; and 
+
+&#8226; 
+
+issuance of debt or other convertible securities. 
+
+In addition, if the market for technology stocks or the stock market in general experiences uneven investor confidence, the market price of our notes and common stock could decline for reasons unrelated to our business, operating results or financial condition. The market price of our notes and common stock might also decline in reaction to events that affect other companies within, or outside, our industry even if these events do not directly affect us. Some companies that have experienced volatility in the trading price of their stock have been the subject of securities class action litigation. If we are the subject of such litigation, it could result in substantial costs and a diversion of management&#8217;s attention and resources. 
+
+We may issue additional shares of our common stock or instruments convertible into shares of our common stock, including in connection with the conversion of the notes, and thereby materially and adversely affect the market price of our common stock and the trading price of the notes. 
+
+We are not restricted from issuing additional shares of our common stock or other instruments convertible into, or exchangeable or exercisable for, shares of our common stock during the life of the notes. If we issue additional shares of our common stock or instruments convertible into shares of our common stock, it may materially and adversely affect the market price of our common stock and, in turn, the trading price of the notes. In addition, the conversion of some or all of the notes may dilute the ownership interests of existing holders of our common stock, and any sales in the public market of any shares of our common stock issuable upon such conversion of the notes could adversely affect the prevailing market price of our common stock. In addition, the potential conversion of the notes could depress the market price of our common stock. 
+
+We may not have the ability to raise the funds necessary to pay the amount of cash due upon conversion of the notes or the fundamental change purchase price due when a holder submits its notes for purchase upon the occurrence of a fundamental change. 
+
+Upon the occurrence of a fundamental change, holders of the notes may require us to purchase, for cash, all or a portion of their notes. In addition, if a holder converts its notes, we will generally pay such holder an amount of cash before delivering to such holder any shares of our common stock. 
+
+There can be no assurance that we will have sufficient financial resources, or will be able to arrange financing, to pay the fundamental change purchase price if holders submit their notes for purchase by us upon the occurrence of a fundamental change or to pay the amount of cash due if holders surrender their notes for conversion. In addition, agreements governing any future debt may restrict our ability to make each of the required cash payments even if we have sufficient funds to make them. Furthermore, our ability to purchase the notes or to pay cash upon the conversion of the notes may be limited by law or regulatory authority. If we fail to purchase the notes, to pay interest due on, or to pay the amount of cash due upon conversion, we will be in default under the indenture, which in turn may result in the acceleration of other indebtedness we may then have. If the repayment of the other indebtedness were to be accelerated, we may not have sufficient funds to repay that indebtedness and to purchase the notes or to pay the amount of cash due upon conversion. Our inability to pay for the notes that are tendered for purchase or upon conversion could result in note holders receiving substantially less than the principal amount of the notes, which could harm our reputation, financing opportunities and our business. 
+
+The fundamental change provisions may delay or prevent an otherwise beneficial takeover attempt of us. 
+
+The fundamental change purchase rights will allow holders of the notes to require us to purchase all or a portion of their notes upon the occurrence of a fundamental change. The provisions requiring an increase to the conversion rate for conversions in connection with a make-whole fundamental change may, in certain circumstances, delay or prevent a takeover of us and the removal of incumbent management that might otherwise be beneficial to investors. 
+
+&#160; 
+
+The convertible note hedges and warrant transactions may affect the trading price of the notes and the market price of our common stock. 
+
+We entered into privately negotiated convertible note hedge transactions with certain hedge counterparties concurrently with the pricing of the notes. We also entered into privately negotiated warrant transactions with the hedge counterparties. Taken together, the convertible note hedge transactions and the warrant transactions are expected, but not guaranteed, to reduce the potential dilution with respect to our common stock upon conversion of the notes. If, however, the price of our common stock, as measured under the terms of the warrant transactions, exceeds the exercise price of the warrant transactions, the warrant transactions will have a dilutive effect on our earnings per share to the extent that the price of our common stock as measured under the warrant transactions exceeds the strike price of the warrant transactions. 
+
+The hedge counterparties and their respective affiliates periodically modify their hedge positions from time to time following the pricing of the notes (and are particularly likely to do so during any observation period relating to a conversion of the notes) by entering into or unwinding various over-the-counter derivative transactions with respect to our common stock, or by purchasing or selling shares of our common stock or the notes in privately negotiated transactions or open market transactions. The effect, if any, of these transactions and activities on the market price of our common stock or the trading price of the notes will depend in part on market conditions and cannot be ascertained at this time. Any of these activities, however, could adversely affect the market price of our common stock and the trading price of the notes. 
+
+We do not make any representation or prediction as to the direction or magnitude of any potential effect that the transactions described above may have on the price of the notes or our common stock. In addition, we do not make any representation that the counterparties to those transactions will engage in these transactions or activities or that these transactions and activities, once commenced, will not be discontinued without notice; the counterparties or their affiliates may choose to engage in, or discontinue engaging in, any of these transactions or activities with or without notice at any time, and their decisions will be in their sole discretion and not within our control. 
+
+We are subject to counterparty risk with respect to the convertible note hedge transactions. 
+
+The hedge counterparties are financial institutions or affiliates of financial institutions, and we will be subject to the risk that these hedge counterparties may default under the convertible note hedge transactions. Our exposure to the credit risk of the hedge counterparties will not be secured by any collateral. If one or more of the hedge counterparties to one or more of our convertible note hedge transactions becomes subject to insolvency proceedings, we will become an unsecured creditor in those proceedings with a claim equal to our exposure at the time under those transactions. Our exposure will depend on many factors but, generally, the increase in our exposure will be correlated to the increase in our stock price and the volatility of our stock. In addition, upon a default by one of the hedge counterparties, we may suffer adverse tax consequences and dilution with respect to our common stock. We can provide no assurances as to the financial stability or viability of any of the hedge counterparties. 
+
+Provisions in our amended and restated certificate of incorporation and bylaws and Delaware law might discourage, delay or prevent a change of control of our company or changes in our management and, therefore, depress the market price of our common stock. 
+
+Our amended and restated certificate of incorporation and bylaws contain provisions that could depress the market price of our common stock by acting to discourage, delay or prevent a change in control of our company or changes in our management that the stockholders of our company may deem advantageous. These provisions among other things: 
+
+&#8226; 
+
+permit the board of directors to establish the number of directors; 
+
+&#8226; 
+
+provide that directors may only be removed with the approval of holders of 66 2/3 percent of our outstanding capital stock; 
+
+&#8226; 
+
+require super-majority voting to amend some provisions in our amended and restated certificate of incorporation and bylaws; 
+
+&#8226; 
+
+authorize the issuance of &#8220;blank check&#8221; preferred stock that our board could use to implement a stockholder rights plan (also known as a &#8220;poison pill&#8221;); 
+
+&#8226; 
+
+prohibit the ability of our stockholders to call special meetings of stockholders; 
+
+&#8226; 
+
+prohibit stockholder action by written consent, which requires all stockholder actions to be taken at a meeting of our stockholders; 
+
+&#8226; 
+
+provide that the board of directors is expressly authorized to make, alter or repeal our bylaws; and 
+
+&#8226; 
+
+establish advance notice requirements for nominations for election to our board or for proposing matters that can be acted upon by stockholders at annual stockholder meetings. 
+
+In addition, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company. Section 203 imposes certain restrictions on merger, business combinations and other transactions between us and holders of 15 percent or more of our common stock. 
+
+In addition, the fundamental change purchase rights applicable to the notes, which will allow note holders to require us to purchase all or a portion of their notes upon the occurrence of a fundamental change, and the provisions requiring an increase to the conversion rate for conversions in connection with a make-whole fundamental change may in certain circumstances delay or prevent a takeover of us and the removal of incumbent management that might otherwise be beneficial to investors. 
+

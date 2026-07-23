@@ -1,0 +1,3336 @@
+ ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+As used herein, "we," "our," "us" and similar terms refer to Micron Technology, Inc. and its subsidiaries, unless the context indicates otherwise. The following discussion contains trend information and other forward-looking statements that involve a number of risks and uncertainties. Forward-looking statements include, but are not limited to, statements such as those made in "Operating Expenses and Other" regarding SG&#38;A expenses, R&#38;D expenses and Restructure and Asset Impairments for the fourth quarter of 2014, regarding our expected gain in our fourth quarter of 2014 on Inotera's issuance of stock and regarding proceeds and gain from On Semiconductor's acquisition of our interest in Aptina; in "Liquidity and Capital Resources" regarding the sufficiency of our cash and investments, cash flows from operations and available financing to meet our requirements for at least the next 12 months, regarding our pursuit of additional financing and debt restructuring, regarding capital spending in 2014 and regarding the timing of payments for certain contractual obligations. Our actual results could differ materially from our historical results and those discussed in the forward-looking statements. Factors that could cause actual results to differ materially include, but are not limited to, those identified in "Part II, Item 1A. Risk Factors." This discussion should be read in conjunction with the consolidated financial statements and accompanying notes for the year ended August 29, 2013. All period references are to our fiscal periods unless otherwise indicated. Our fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31 and fiscal 2014 and 2013 each contain 52 weeks. All production data includes the production of IMFT and Inotera. All tabular dollar amounts are in millions. 
+
+Our Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&#38;A") is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&#38;A is organized as follows: 
+
+&#8226; 
+
+Overview: &#32; An overview of our business and operations and highlights of key transactions and events. 
+
+&#8226; 
+
+Results of Operations: &#32; An analysis of our financial results consisting of the following: 
+
+&#9702; 
+
+Consolidated results; 
+
+&#9702; 
+
+Operating results by business segment; 
+
+&#9702; 
+
+Operating results by product; and 
+
+&#9702; 
+
+Operating expenses and other. 
+
+&#8226; 
+
+Liquidity and Capital Resources: &#32; An analysis of changes in our balance sheet and cash flows and discussion of our financial condition and potential sources of liquidity. 
+
+&#8226; 
+
+Recently Issued Accounting Standards 
+
+Overview 
+
+We are one of the world's leading providers of advanced semiconductor solutions. Through our worldwide operations, we manufacture and market a full range of DRAM, NAND Flash and NOR Flash memory, as well as other innovative memory technologies, packaging solutions and semiconductor systems for use in leading-edge computing, consumer, networking, automotive, industrial, embedded and mobile products. We market our products through our internal sales force, independent sales representatives and distributors primarily to original equipment manufacturers ("OEMs") and retailers located around the world. Our success is largely dependent on the market acceptance of our diversified portfolio of semiconductor products, efficient utilization of our manufacturing infrastructure, successful ongoing development of advanced product and process technologies and generating a return on research and development ("R&#38;D") investments. 
+
+We obtain products from three primary sources: (1) production from our wholly-owned manufacturing facilities, (2) production from our joint venture manufacturing facilities, and (3) to a lesser degree, from third party manufacturers. In recent years, we have increased our manufacturing scale and product diversity through strategic acquisitions and various partnering arrangements, including joint ventures. 
+
+&#32;35 
+
+We make significant investments to develop the proprietary product and process technologies that are implemented in our worldwide manufacturing facilities and through our joint ventures. These investments enable our production of semiconductor products with increasing functionality and performance at lower costs. We generally reduce the manufacturing cost of each generation of product through advancements in product and process technology such as our leading-edge line-width process technology and innovative array architecture. We continue to introduce new generations of products that offer improved performance characteristics, such as higher data transfer rates, reduced package size, lower power consumption, improved read/ write reliability and increased memory density. To leverage our significant investments in R&#38;D, we have formed, and may continue to form, strategic joint ventures that allow us to share the costs of developing memory product and process technologies with joint venture partners. In addition, from time to time, we also sell and/or license technology to other parties. We continue to pursue additional opportunities to monetize our investment in intellectual property through partnering and other arrangements. 
+
+Business Segments 
+
+In the third quarter of 2014, we reorganized our business units. All prior period amounts reflect this reorganization. After the reorganization, we have the following four reportable segments: 
+
+Compute and Networking Business Unit ("CNBU"): &#32;Includes DRAM and NOR Flash products sold to the compute, networking, graphics, and cloud server markets, as well as NAND Flash products sold primarily into the networking market. 
+
+Storage Business Unit ("SBU"): &#32;Includes NAND Flash components and Solid State Drives ("SSDs") sold into enterprise and client storage, and cloud and removable storage markets. SBU also includes NAND Flash products sold to Intel through our IM Flash Technologies, LLC ("IMFT") joint venture. 
+
+Mobile Business Unit ("MBU"): &#32; Includes DRAM, NAND Flash, and NOR Flash products sold to the smartphone, feature phone, and tablet mobile-device market. 
+
+Embedded Business Unit ("EBU"): &#32; Includes DRAM, NAND Flash and NOR Flash products sold into automotive and industrial applications, as well as the connected home and consumer electronics markets. 
+
+Our other operations do not meet the thresholds of a reportable segment and are reported under All Other. 
+
+Acquisition of Micron Memory Japan, Inc. 
+
+On July 31, 2013, we acquired Elpida Memory, Inc. ("Elpida"), now known as Micron Memory Japan, Inc. ("MMJ"), and 89% of Rexchip Electronics Corporation ("Rexchip''), now known as Micron Memory Taiwan Co., Ltd. ("MMT"), for an aggregate of $949 million in cash (collectively, the "MMJ Acquisition"). In the second and third quarters of 2014, we purchased an additional aggregate 10.6% &#32;of MMT's outstanding common stock, after which we owned 99.5% &#32;of the outstanding common stock of MMT. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Micron Memory Japan, Inc." note.) 
+
+MMJ's assets include, among others, a 300mm DRAM wafer fabrication facility located in Hiroshima, Japan and an assembly and test facility located in Akita, Japan. MMT's assets include a 300mm DRAM wafer fabrication facility in Taichung City, Taiwan. The MMJ and MMT fabrication facilities together represent approximately 30% of our wafer capacity. MMJ's semiconductor memory products include Mobile DRAM targeted toward mobile phones and tablets. MMJ's operations are included primarily in the MBU and CNBU segments. Our results of operations for the fourth quarter 2013 included approximately one month of operating results from the acquired MMJ operations. Our results of operations for the fourth quarter 2013 included a gain of $1.48 billion on the MMJ Acquisition. In the second quarter of 2014, the provisional amounts recorded in connection with the MMJ Acquisition were adjusted, primarily for pre-petition liabilities. As a result, other non-operating expense for the second quarter of 2014 included these measurement period adjustments of $33 million . 
+
+&#32;36 
+
+MMJ and its wholly-owned subsidiary, Micron Akita, Inc. ("MAI" and, together with MMJ, the "MMJ Companies") are currently subject to corporate reorganization proceedings under the Corporate Reorganization Act of Japan. Because the plans of reorganization of the MMJ Companies provide for ongoing payments to creditors following the closing of the MMJ Acquisition, these proceedings are continuing, and the MMJ Companies remain subject to the oversight of the Tokyo District Court (the "Japan Court") and of the trustees appointed by the Japan Court (including a trustee designated by us, who we refer to as the business trustee, and a trustee designated by the Japan Court, who we refer to as the legal trustee), pending completion of the reorganization proceedings. As a result of this oversight and related consent rights of the Japan Court and the legal trustee, our ability to effectively integrate the MMJ Companies as part of our global operations or to cause the MMJ Companies to take certain actions that we deem advisable for their businesses could be adversely affected if the Japan Court or the legal trustee is unwilling to consent to various actions. For more information, see "Part II, Item 1. Legal Proceedings &#8211; Reorganization Proceedings of the MMJ Companies" and "Part II, Item 1A. Risk Factors." 
+
+Results of Operations 
+
+Consolidated Results 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+(dollar amounts in millions) 
+
+Net sales 
+
+$ 
+
+3,982 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+2,318 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+4,107 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+12,131 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+6,230 
+
+&#160; 
+
+&#160;% 
+
+Cost of goods sold 
+
+2,614 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,762 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+2,704 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+8,079 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+5,091 
+
+&#160; 
+
+&#160;% 
+
+Gross margin 
+
+1,368 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,403 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+4,052 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,139 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+SG&#38;A 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+R&#38;D 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,013 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Restructure and asset impairments 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Other operating (income) expense, net 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(17 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Operating income 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+2,259 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest income (expense), net 
+
+(75 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(52 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(77 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(248 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(159 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+Other non-operating income (expense), net 
+
+(21 
+
+) 
+
+&#160; 
+
+(1 
+
+)% 
+
+&#160; 
+
+(45 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(122 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+&#160; 
+
+(223 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(263 
+
+) 
+
+&#160; 
+
+(4 
+
+)% 
+
+Income tax (provision) benefit 
+
+(72 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(63 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(215 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Equity in net income (loss) of equity method investees 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(10 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+(120 
+
+) 
+
+&#160; 
+
+(2 
+
+)% 
+
+Net income attributable to noncontrolling interests 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(10 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(33 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Net income (loss) attributable to Micron 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+1,895 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+(518 
+
+) 
+
+&#160; 
+
+(8 
+
+)% 
+
+&#32;37 
+
+Net Sales 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+CNBU 
+
+$ 
+
+1,857 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,835 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+5,436 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,244 
+
+&#160; 
+
+% 
+
+SBU 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,573 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,044 
+
+&#160; 
+
+% 
+
+MBU 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,717 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+EBU 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+1,298 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+All Other 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+3,982 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,318 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+4,107 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+12,131 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+6,230 
+
+&#160; 
+
+% 
+
+Total net sales for the third quarter of 2014 decreased 3% as compared to the second quarter of 2014 as a result of declines in MBU and SBU gigabit sales volumes. Total net sales for the third quarter and first nine months of 2014 increased 72% and 95%, respectively, as compared to the corresponding periods of 2013 primarily due to higher CNBU and MBU sales resulting from the MMJ Acquisition. Net sales for the third quarter and first nine months of 2014 also benefitted, as compared to the corresponding periods of 2013, from increases in DRAM and NAND Flash sales volumes driven primarily by higher manufacturing output as a result of improvements in product and process technology and an increased share of output from Inotera Memories, Inc. ("Inotera"). 
+
+Gross Margin 
+
+Our overall gross margin percentage of 34% for the third quarter of 2014 was substantially unchanged from the second quarter of 2014 as the gross margins for all of our reportable segments were relatively stable. 
+
+Our overall gross margin percentage improved to 34% for the third quarter of 2014 from 24% for the third quarter of 2013 primarily due to improvements in the gross margin percentage for MBU and CNBU as a result of higher margins for DRAM products. Our overall gross margin percentage improved to 33% for the first nine months of 2014 from 18% for the first nine months of 2013 primarily due to improvements in the gross margin percentage for CNBU and MBU as a result of higher margins for DRAM products. The gross margin improvements for CNBU and MBU for the third quarter and first nine months of 2014 as compared to the corresponding periods of 2013 resulted from the MMJ Acquisition, manufacturing cost reductions and higher average selling prices for CNBU. 
+
+We purchase substantially all of the DRAM output of our Inotera joint venture at a discount from market prices for our comparable components. Our costs for Inotera product for the third quarter of 2014 decreased from the second quarter of 2014 but were significantly higher than for the third quarter of 2013 due to changes in average selling prices for our DRAM products and to changes in the terms of our supply agreement with Inotera. In the second quarter of 2013, we entered into a new supply agreement with Inotera under which we are obligated to purchase substantially all of Inotera's DRAM output at a discount from market prices for our comparable components over an initial three-year term (the "Inotera Supply Agreement"). The Inotera Supply Agreement replaced a previous supply agreement under which Inotera sold product at pricing based on a margin-sharing formula among Nanya, Inotera and us. The Inotera Supply Agreement contemplates annual negotiations with respect to potential successive one-year extensions and in the second quarter of 2014, we renewed our supply agreement with Inotera, which extended the initial period that we will purchase substantially all of Inotera's DRAM output through December 2016. For the third quarter of 2014, our costs for Inotera product were significantly higher than our manufacturing costs for similar products at our wholly-owned fabrication facilities. 
+
+From the fourth quarter of 2013 through the second quarter of 2014, our costs of goods sold for DRAM products were adversely impacted by the sale of inventories obtained in the MMJ Acquisition. In accounting for the MMJ Acquisition, inventories were recorded at fair value (based on their estimated future selling prices, estimated costs to complete and other factors), which was approximately $200 million higher than the manufacturing cost of such inventories. As a result, our costs of goods sold were adversely affected by approximately $42 million for the second quarter of 2014, $111 million for the first quarter of 2014 and $41 million for the fourth quarter of 2013 as those inventories were sold. 
+
+&#32;38 
+
+Operating Results by Business Segments 
+
+Compute and Networking Business Unit ("CNBU") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+1,857 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,835 
+
+&#160; 
+
+$ 
+
+5,436 
+
+&#160; 
+
+$ 
+
+2,244 
+
+Operating income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,462 
+
+&#160; 
+
+CNBU sales and operating results track closely with our average selling prices, gigabit sales volumes and cost per gigabit for our sales of DRAM products. (See "Operating Results by Product &#8211; DRAM" for further detail.) CNBU sales for the third quarter of 2014 were relatively unchanged from the second quarter of 2014 as slight increases in gigabit sales volumes due to higher production output were offset by declines in average selling prices. Increases in production output for the third quarter of 2014 reflect a shift in DRAM production from mobile DRAM to computing DRAM and improvements in product and process technologies, partially offset by the transition of one of our Singapore wafer fabrication facilities from DRAM to NAND Flash. CNBU operating income for the third quarter of 2014 improved from the second quarter of 2014 primarily due to higher gross margins for DRAM products. 
+
+CNBU sales for the third quarter and first nine months of 2014 increased 106% and 142%, respectively, as compared to the corresponding periods of 2013 primarily due to (1) the MMJ Acquisition, (2) higher average selling prices, (3) increased DRAM supply from Inotera as a result of the restructuring of our supply agreement and (4) higher output due to improvements in product and process technologies. CNBU sales for the third quarter and first nine months of 2014 as compared to the corresponding periods of 2013 were adversely impacted by the transition of one of our Singapore wafer fabrication facilities from DRAM to NAND Flash. CNBU operating income for the third quarter and first nine months of 2014 improved from the corresponding periods of 2013 primarily due to the MMJ Acquisition, higher average selling prices and manufacturing cost reductions. 
+
+Storage Business Unit ("SBU") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,573 
+
+&#160; 
+
+$ 
+
+2,044 
+
+Operating income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+SBU sales and operating results track closely with our average selling prices, gigabit sales volumes and cost per gigabit for our sales of NAND Flash products. (See "Operating Results by Product &#8211; NAND Flash" for further detail.) SBU sales for the third quarter of 2014 decreased 4% from the second quarter of 2014 primarily due to decreases in gigabits sold. Decreases in gigabits sold for the third quarter of 2014 were primarily due to a shift to a higher mix of products sold in the form of SSDs which have longer manufacturing cycle times. SBU sells a portion of its products to Intel through our IMFT joint venture at long-term negotiated prices approximating cost. SBU sales to Intel under this arrangement were $107 million &#32;for the third quarter of 2014, $104 million for the second quarter of 2014 and $89 million &#32;for the third quarter of 2013. All other SBU products are sold to OEMs, resellers, retailers and other customers (including Intel), which we collectively refer to as "trade customers." 
+
+SBU sales of NAND Flash products to trade customers for the third quarter of 2014 decreased 5% as compared to the second quarter of 2014 primarily due to decreases in gigabits sold. SBU operating income for the third quarter of 2014 declined from the second quarter of 2014 primarily due to higher research and development costs. 
+
+SBU sales of NAND Flash products to trade customers for the third quarter and first nine months of 2014 increased 21% and 29%, respectively, as compared to the corresponding periods of 2013 primarily due to an increase in gigabits sold partially offset by declines in average selling prices. SBU operating income for the first nine months of 2014 improved from the corresponding period of 2013 primarily due to increased gross margins generated from higher gigabit sales. 
+
+&#32;39 
+
+Mobile Business Unit ("MBU") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,717 
+
+&#160; 
+
+$ 
+
+Operating income (loss) 
+
+&#160; 
+
+&#160; 
+
+(62 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(212 
+
+) 
+
+In the third quarter of 2014, MBU sales were comprised primarily of DRAM, NAND Flash and NOR Flash, in decreasing order of revenue, with mobile DRAM products accounting for a significant majority of the sales. MBU sales for the third quarter of 2014 decreased 17% as compared to the second quarter of 2014 primarily due to decreases in gigabit sales and declines in average selling prices for mobile DRAM products. The decline in gigabits sold in the third quarter of 2014 was primarily due to a shift in DRAM production from mobile DRAM to computing DRAM and reduced production because of an earthquake, which temporarily disrupted our Hiroshima wafer fabrication facility. MBU operating income for the third quarter of 2014 declined from the second quarter of 2014 primarily due to the lower sales volumes. 
+
+MBU sales for the third quarter and first nine months of 2014 increased 181% and 265%, respectively, as compared to the corresponding periods of 2013 primarily due to the MMJ Acquisition. MBU operating margin for the third quarter and first nine months of 2014 also improved from the corresponding periods of 2013 primarily due to the MMJ Acquisition. 
+
+Embedded Business Unit ("EBU") 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,298 
+
+&#160; 
+
+$ 
+
+Operating income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+In the third quarter of 2014, EBU sales were comprised of DRAM, NAND Flash and NOR Flash in decreasing order of revenue. EBU sales for the third quarter of 2014 increased 11% as compared to the second quarter of 2014 primarily due to increases in sales volumes partially offset by declines in average selling prices. EBU operating income for the third quarter of 2014 improved from the second quarter of 2014 primarily due to increased margins from sales of NOR Flash and DRAM products as a result of higher sales volumes, partially offset by declines in average selling prices. 
+
+EBU sales for the third quarter and first nine months of 2014 increased 38% and 40%, respectively, as compared to the corresponding periods of 2013 primarily due to increased sales volumes of DRAM and NAND Flash products partially offset by declines in average selling prices. EBU operating income for the third quarter and first nine months of 2014 improved as compared to the corresponding periods of 2013 primarily due to higher margins on sales of DRAM and NAND Flash products as a result of cost reductions. 
+
+Operating Results by Product 
+
+Net Sales by Product 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+&#160; 
+
+&#160; 
+
+% of net sales 
+
+DRAM 
+
+$ 
+
+2,729 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,098 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,785 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+8,308 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,709 
+
+&#160; 
+
+% 
+
+NAND Flash 
+
+1,097 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+1,154 
+
+&#160; 
+
+% 
+
+&#160; 
+
+3,309 
+
+&#160; 
+
+% 
+
+&#160; 
+
+2,609 
+
+&#160; 
+
+% 
+
+NOR Flash 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Other 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+3,982 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+2,318 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+4,107 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+12,131 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+6,230 
+
+&#160; 
+
+% 
+
+&#32;40 
+
+In order to balance our future product mix in anticipation of the closing of the MMJ Acquisition, in the fourth quarter of 2013, we began to transition production at one of our wafer fabrication facilities in Singapore from DRAM to NAND Flash. This transition to NAND Flash production is substantially complete. During this period of transition, there was a marginal reduction in wafer production. 
+
+DRAM 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 2014 Versus 
+
+&#160; 
+
+First Nine Months 2014 Versus 
+
+&#160; 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+First Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(percentage change from period indicated) 
+
+Net sales 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Average selling prices per gigabit 
+
+&#160; 
+
+(2 
+
+)% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Gigabits sold 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Cost per gigabit 
+
+&#160; 
+
+(3 
+
+)% 
+
+&#160; 
+
+(17 
+
+)% 
+
+&#160; 
+
+(20 
+
+)% 
+
+Gigabit sales of DRAM products for the third quarter of 2014 were essentially unchanged from the second quarter of 2014, as higher production volumes resulting from improved product and process technologies were offset by lost production at our Hiroshima fabrication facility due to an earthquake and the transition of one of our wafer fabrication facilities in Singapore from DRAM to NAND Flash. The increase in gigabit sales of DRAM products for the third quarter and first nine months of 2014 as compared to the corresponding periods of 2013 was primarily due to higher production volumes resulting from the MMJ Acquisition, the effect of the new Inotera Supply Agreement and improved product and process technologies, partially offset by the transition of one of our wafer fabrication facilities in Singapore from DRAM to NAND Flash. 
+
+Effective on January 1, 2013, we entered into the new Inotera Supply Agreement under which we purchase substantially all of Inotera's DRAM output at a discount from market prices for our comparable components over an initial three-year term. Prior to the new Inotera Supply Agreement we had the right to purchase 50% of Inotera's wafer production capacity based on a margin-sharing formula among Nanya, Inotera and us. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Equity Method Investments" note.) Our cost of products purchased from Inotera under these supply agreements was $700 million &#32;for the third quarter of 2014, $714 million for the second quarter of 2014 and $341 million &#32;for the third quarter of 2013. Our cost of products purchased from Inotera for the third quarter of 2014 decreased from the second quarter of 2014 but was significantly higher than our cost of similar products manufactured in our wholly-owned facilities in the third and second quarters of 2014. DRAM products acquired from Inotera accounted for 40% of our DRAM gigabit production for the third quarter of 2014 as compared to 37% for the second quarter of 2014 and 62% for the third quarter of 2013. 
+
+Our gigabit production and sales volumes of DRAM products have increased significantly in 2014 as compared to 2013 due to our MMJ Acquisition. MMJ and MMT have 300mm wafer fabrication facilities in Japan and Taiwan, respectively, that are dedicated to the production of DRAM products. In the third quarter of 2014, DRAM products produced by these facilities constituted 52% of our aggregate DRAM gigabit production. 
+
+Our gross margin percentage on sales of DRAM products for the third quarter of 2014 was relatively unchanged from the second quarter of 2014 as slight reductions in costs from improvements in product and process technologies were offset by declines in average selling prices. Our gross margin percentage on sales of DRAM products for the third quarter and first nine months of 2014 improved from the corresponding periods of 2013 primarily due to manufacturing cost reductions, higher average selling prices and the MMJ Acquisition. 
+
+&#32;41 
+
+NAND Flash 
+
+We sell a portion of our output of NAND Flash products to Intel through IMFT at long-term negotiated prices approximating cost. (See "Operating Results by Business Segments &#8211; Storage Business Unit" for further detail.) We sell the remainder of our NAND Flash products to trade customers. 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 2014 Versus 
+
+&#160; 
+
+First Nine Months 2014 Versus 
+
+&#160; 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+First Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(percentage change from period indicated) 
+
+Sales to trade customers: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+&#160; 
+
+(6 
+
+)% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Average selling prices per gigabit 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(29 
+
+)% 
+
+&#160; 
+
+(22 
+
+)% 
+
+Gigabits sold 
+
+&#160; 
+
+(6 
+
+)% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Cost per gigabit 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+(27 
+
+)% 
+
+&#160; 
+
+(24 
+
+)% 
+
+Decreases in NAND Flash gigabits sold to trade customers for the third quarter of 2014 as compared to the second quarter of 2014 were primarily due to a shift to a higher mix of products sold in the form of SSDs which have longer manufacturing cycle times. SSD NAND Flash products generally have higher average selling prices and manufacturing costs per gigabit than other NAND Flash products and, as a result, the shift to a higher mix of SSDs in the third quarter of 2014 also affected changes in these measures. Increases in NAND Flash gigabits sold to trade customers for the third quarter and first nine months of 2014 as compared to the corresponding periods of 2013 were primarily due to the transition of one of our wafer fabrication facilities in Singapore from DRAM to NAND Flash production and improved product and process technologies. Our gross margin percentage on sales of trade NAND Flash products for the third quarter of 2014 was relatively unchanged from the second quarter of 2014 as average selling prices and manufacturing costs were stable. Our gross margin percentage on sales of trade NAND Flash products for the third quarter of 2014 decreased from the third quarter of 2013 as declines in average selling prices outpaced manufacturing cost reductions. Our gross margin percentage on sales of trade NAND Flash products for first nine months of 2014 improved from the corresponding period of 2013 as manufacturing cost reductions outpaced decreases in average selling prices. Manufacturing cost reductions for the third quarter of 2014 as compared to the third quarter of 2013 primarily resulted from improvements in product and process technologies. 
+
+NOR Flash 
+
+Sales of NOR Flash products for the third quarter and first nine months of 2014 declined as compared to corresponding periods of 2013 primarily due to decreases in sales of wireless products as a result of the continued transition of wireless applications to NAND Flash products. Our gross margin percentage on sales of NOR Flash products for the third quarter of 2014 improved as compared to the second quarter of 2014 primarily due to shifts in product mix. Our gross margin percentage on sales of NOR Flash products for the third quarter and first nine months of 2014 declined as compared to the corresponding periods of 2013 primarily due to costs of underutilized capacity in connection with the decrease in production of wireless products and decreases in average selling prices. 
+
+Operating Expenses and Other 
+
+Selling, General and Administrative 
+
+Selling, general and administrative ("SG&#38;A") expenses for the third quarter of 2014 were substantially unchanged as compared to the second quarter of 2014. SG&#38;A expenses for the third quarter and first nine months of 2014 increased 37% and 43%, respectively, from the corresponding periods of 2013 primarily due to the incremental costs resulting from the MMJ Acquisition and higher payroll costs resulting primarily from the reinstatement of variable pay plans. We expect that SG&#38;A expenses will approximate $175 million to $185 million for the fourth quarter of 2014. 
+
+&#32;42 
+
+Research and Development 
+
+R&#38;D expenses for the third quarter of 2014 were substantially unchanged as compared to the second quarter of 2014. R&#38;D expenses for the third quarter and first nine months of 2014 increased 54% and 53%, respectively, from the corresponding periods of 2013 primarily due to the incremental costs resulting from the MMJ Acquisition, higher payroll costs resulting primarily from the reinstatement of variable pay plans and increased resources dedicated to development efforts. 
+
+As a result of amounts reimbursable from Intel under cost-sharing agreements, R&#38;D expenses were reduced by $36 million &#32;for the third quarter of 2014, $35 million for the second quarter of 2014 and $33 million &#32;for the third quarter of 2013. Pursuant to a cost-sharing arrangement with Nanya effective through December 31, 2012, our R&#38;D costs were reduced by $19 million &#32;in the first six months of 2013. Nanya ceased participating in the joint development program in the second quarter of 2013. We expect that R&#38;D expenses, net of amounts reimbursable from our R&#38;D partners, will approximate $355 million to $365 million for the fourth quarter of 2014. 
+
+Our process technology R&#38;D efforts are focused primarily on development of successively smaller line-width process technologies which are designed to facilitate our transition to next generation memory products. Additional process technology R&#38;D efforts focus on the enablement of advanced computing and mobile memory architectures, the investigation of new opportunities that leverage our core semiconductor expertise and the development of new manufacturing materials. Product design and development efforts include our high density DDR3 and DDR4 DRAM, Mobile Low Power DDR DRAM products, high density NAND Flash memory (including multi-level, triple-level cell and 3D technologies), SSDs, Hybrid Memory Cubes, specialty memory, NOR Flash memory, and other memory technologies and systems. 
+
+Restructure and Asset Impairments 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Loss (gain) on impairment of MIT assets 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+(5 
+
+) 
+
+&#160; 
+
+$ 
+
+(5 
+
+) 
+
+&#160; 
+
+$ 
+
+Loss (gain) on impairment of LED assets 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(6 
+
+) 
+
+&#160; 
+
+Loss on restructure of ST consortium agreement 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Gain on termination of lease to Transform 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(25 
+
+) 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+For the first nine months of 2014, other restructure included an aggregate of approximately $30 million &#32;associated with our efforts to wind down our 200 mm operations in Agrate, Italy and Kiryat Gat, Israel. We anticipate incurring restructure charges of $15 million &#32;to $25 million &#32;in the fourth quarter of 2014 for employee termination benefits in Italy. 
+
+For the third quarter of 2013, we recognized charges of $25 million , primarily to impair certain production assets used in the development of LED technology, and $26 million &#32;in connection with the restructure of a consortium agreement with STMicroelectronics S.r.l. ("ST"), whereby certain assets and approximately 500 &#32;employees from our Agrate, Italy fabrication facility were transferred to ST. For the first nine months of 2013, we also recognized a charge of $62 million &#32;to impair the assets of Micron Technology Italia, S.r.l. ("MIT"), a wholly-owned subsidiary, to their estimated fair values in connection with the sale of MIT to LFoundry Marsica S.r.l. and a gain of $25 million &#32;related to the termination of a lease with Transform Solar Pty Ltd., an equity method investee, to a portion of our manufacturing facilities in Boise, Idaho. 
+
+(See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Restructure and Asset Impairments.") 
+
+Interest Income (Expense) 
+
+Net interest expense for the third quarter of 2014, second quarter of 2014 and third quarter of 2013, included aggregate amounts of amortization of debt discount and other costs of $36 million, $44 million and $28 million, respectively. 
+
+&#32;43 
+
+Income Taxes 
+
+Income taxes for the third &#32;and second quarters of 2014 included $49 million &#32;and $55 million, respectively, related to the utilization of deferred tax assets as a result of MMJ's and MMT's operations. Remaining taxes for 2014 and 2013 primarily reflect taxes on our non-U.S. operations. We have a full valuation allowance for our net deferred tax asset associated with our U.S. operations. The provision (benefit) for taxes on U.S. operations in the third quarters and first nine months of 2014 and 2013 was substantially offset by changes in the valuation allowance. As of May 29, 2014 , we estimate an increase in unrecognized tax benefits for 2014 of approximately $110 million &#32;primarily related to transfer pricing matters. This increase is expected to be substantially offset by a change in our valuation allowance. 
+
+Equity in Net Income (Loss) of Equity Method Investees 
+
+We recognize our share of earnings or losses from our equity method investments generally on a two-month lag. Equity in net income (loss) of equity method investees, net of tax, included the following: 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 
+
+&#160; 
+
+Second Quarter 
+
+&#160; 
+
+Nine Months 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Inotera 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(13 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(121 
+
+) 
+
+Tera Probe 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Other 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(10 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(120 
+
+) 
+
+Our equity in net income (loss) of Inotera improved for the third quarter and first nine months of 2014 as compared to the corresponding periods of 2013 primarily due to Inotera's improved operating results from higher average selling prices to us and lower manufacturing costs. Higher average selling prices resulted from the new Inotera Supply Agreement coupled with an improved market. 
+
+On May 15, 2014, Inotera issued 400 million &#32;common shares in a public offering at a price equal to 31.50 &#32;New Taiwan dollars per share, which was in excess of our carrying value per share. We did not purchase any shares in the offering and our ownership interest decreased from 35% &#32;to 33% . As a result of Inotera's offering, we will recognize a non-operating gain of approximately $90 million . Because we recognize the effects of our investment in Inotera on a two-month lag, the gain will be recorded in the fourth quarter of 2014. 
+
+On June 9, 2014, ON Semiconductor Corporation announced that it will pay approximately $400 million to acquire Aptina Imaging Corporation ("Aptina"), a company in which we hold an equity method investment, subject to certain customary closing adjustments. The transaction is expected to close in the fourth quarter of 2014 or first quarter of 2015, subject to required regulatory approvals and customary closing conditions. Upon the successful completion of ON Semiconductor's acquisition of Aptina, we expect to receive proceeds of approximately $100 million, based on our diluted ownership interest of approximately 27% , and recognize a gain approximately equal to the proceeds we receive. 
+
+(See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Equity Method Investments.") 
+
+Other 
+
+In the second quarter of 2014, we settled all pending litigation between us and Rambus, including all antitrust and patent matters, and entered into a patent cross-license agreement. As a result, other operating expense for the first nine months of 2014 included a $233 million charge to accrue a liability, which reflects the discounted value of amounts due under this arrangement. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Contingencies" note.) 
+
+Other non-operating expense for the third quarter of 2014, second quarter of 2014 and first nine months of 2014 included losses from the restructure of our debt of $16 million , $80 million and $171 million , respectively. Other non-operating expense for the first nine months of 2013 included losses of $31 million &#32;from the restructure of our debt. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Debt" note.) 
+
+&#32;44 
+
+Further discussion of other operating and non-operating income and expense can be found in the following notes contained in "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements": 
+
+&#8226; 
+
+Equity Plans 
+
+&#8226; 
+
+Other Operating (Income) Expense, Net 
+
+&#8226; 
+
+Other Non-Operating Income (Expense), Net 
+
+Liquidity and Capital Resources 
+
+As of 
+
+&#160; 
+
+May 29, 2014 
+
+&#160; 
+
+August 29, 2013 
+
+Cash and equivalents and short-term investments: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Bank deposits 
+
+&#160; 
+
+$ 
+
+3,402 
+
+&#160; 
+
+$ 
+
+1,619 
+
+Money market funds 
+
+&#160; 
+
+&#160; 
+
+1,188 
+
+Certificates of deposit 
+
+&#160; 
+
+&#160; 
+
+Corporate bonds 
+
+&#160; 
+
+&#160; 
+
+Government securities 
+
+&#160; 
+
+&#160; 
+
+Commercial paper 
+
+&#160; 
+
+&#160; 
+
+Asset-backed securities 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+4,264 
+
+&#160; 
+
+$ 
+
+3,101 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Long-term marketable investments 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restricted cash: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Current 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+Noncurrent (included in "Other noncurrent assets") 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Cash and equivalents and short-term investments as of May 29, 2014 &#32;included $2.58 billion held by MMJ and its subsidiaries. Substantially all of our restricted cash is held by MMJ for its installment payments to its secured and unsecured creditors. Use of cash and equivalents and restricted cash held by MMJ is subject to limitations described below. 
+
+As a result of the corporate reorganization proceedings of the MMJ Companies entered into in March 2012 and for so long as such proceedings are continuing, the MMJ Companies and their subsidiaries are subject to certain restrictions on dividends, loans and advances. The plans of reorganization of the MMJ Companies prohibit the MMJ Companies from paying dividends, including any cash dividends, to us and require that excess earnings be used in their businesses or to fund the MMJ Companies' installment payments. These prohibitions also effectively prevent the subsidiaries of the MMJ Companies from paying cash dividends to us as any such dividends would have to be first paid to the MMJ Companies which are prohibited from repaying those amounts to us as dividends under the plans of reorganization. In addition, pursuant to an order of the Japan Court, the MMJ Companies cannot make loans or advances, other than certain ordinary course advances, to us without the consent of the Japan Court. Moreover, loans or advances by subsidiaries of the MMJ Companies may be considered outside of the ordinary course of business and subject to approval of the legal trustee and Japan Court. As a result, the assets of the MMJ Companies and their subsidiaries, while available to satisfy the MMJ Companies' installment payments and the other obligations, capital expenditures and other operating needs of the MMJ Companies and their subsidiaries, are not available for use by us in our other operations. Moreover, certain uses of the assets of the MMJ Companies, including investments in certain capital expenditures and in MMT, may require consent of MMJ's trustees and/or the Japan Court. 
+
+Cash and equivalents in the table above included $84 million &#32;held by IMFT as of May 29, 2014 . Our ability to access funds held by IMFT to finance our other operations is subject to agreement by Intel and by contractual limitations. Amounts held by IMFT are not anticipated to be available to finance our other operations. 
+
+As of May 29, 2014 , $3.75 billion of our cash and equivalents and short-term investments was held by foreign subsidiaries, of which $828 million was denominated in currencies other than the U.S. dollar. As of May 29, 2014 , we had $3.43 billion of cash and equivalents and short-term investments that was held by foreign subsidiaries whose earnings were considered to be indefinitely reinvested and repatriation of funds to the U.S. would be subject to U.S. federal income taxes. 
+
+&#32;45 
+
+To mitigate credit risk, we invest through high-credit-quality financial institutions and, by policy, generally limit the concentration of credit exposure by restricting investments with any single obligor. 
+
+Cash generated by operations is our primary source of liquidity. Our liquidity is highly dependent on selling prices for our products and the timing and level of our capital expenditures, both of which can vary significantly from period to period. Depending on conditions in the semiconductor memory market, our cash flows from operations and current holdings of cash and investments may not be adequate to meet our needs for capital expenditures and operations. In the first nine months of 2014, we obtained $1.06 billion of proceeds from the issuance of debt. In 2013, we obtained $1.12 billion of proceeds from the issuance of debt and $126 million of proceeds from equipment sale-leaseback financing. (See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Debt.") As of May 29, 2014 , we had credit facilities available that provide for up to $408 million of additional financing, subject to outstanding balances of trade receivables and other conditions. We expect our cash and investments, cash flows from operations and available financing will be sufficient to meet our requirements at least through the next 12 months. 
+
+Holders of our outstanding convertible notes can convert the notes during any calendar quarter if the closing price of our common stock for at least 20 trading days in the 30 consecutive trading days ending on the last trading day of the preceding calendar quarter is more than 130% of the conversion price. As of May 29, 2014 , our 2031B Notes, 2033E Notes and 2033F Notes with an aggregate principal amount of $714 million contained contractual terms that require us to pay cash up to the principal amount of the notes upon conversion. These notes met the conversion criteria for the calendar quarter ended March 31, 2014 and, as a result, we reclassified the $626 million carrying value of these notes to current debt and reclassified the $88 million &#32;difference between the principal and carrying amount of these convertible notes from additional capital to redeemable convertible notes. These notes also met the conversion criteria for the calendar quarter ended June 30, 2014 and are therefore convertible by the holders through September 30, 2014. 
+
+We are continuously evaluating alternatives for efficiently financing our capital expenditures and operations and optimizing our balance sheet. We have engaged in the past, and we expect from time to time in the future to engage, in a variety of transactions for such purposes, including the issuance or incurrence of secured and unsecured debt and the refinancing and restructuring of existing debt, including our convertible notes, through exchanges, repurchases, redemptions and conversions. We have used substantial amounts of cash in recent periods in connection with repurchases and conversions of our convertible notes and we could pursue other actions to reduce our outstanding balance of convertible notes, which could require further outlays of cash. 
+
+Operating Activities 
+
+Net cash provided by operating activities was $4.35 billion &#32;for the first nine months of 2014, due primarily to a strong market for our products and our continued focus on cost-efficient operations. Operating cash flows in the first nine months of 2014 also benefitted by a $575 million &#32;increase in accounts payable and accrued expenses offset by a $330 million &#32;increase in receivables. 
+
+Investing Activities 
+
+Net cash used for investing activities was $923 million &#32;for the first nine months of 2014, which consisted primarily of cash expenditures of $1.52 billion &#32;for property, plant and equipment offset by release of restrictions on $534 million of cash in connection with the first MMJ creditor installment payment. 
+
+We believe that to develop new product and process technologies, support future growth, achieve operating efficiencies and maintain product quality, we must continue to invest in manufacturing technologies, facilities and capital equipment and R&#38;D. We estimate that capital spending for 2014 will be approximately $2.8 billion to $3.2 billion. As of May 29, 2014 , we had commitments of approximately $1.33 billion for the acquisition of property, plant and equipment, substantially all of which is expected to be paid within one year. 
+
+Financing Activities 
+
+Net cash used for financing activities was $2.23 billion &#32;for the first nine months of 2014, which included $3.13 billion &#32;for repayments of debt and $292 million &#32;of payments on equipment purchase contracts. Cash outflows for these financing activities were partially offset by $1.06 billion of proceeds from issuance of debt and by $247 million of proceeds from issuance of common stock under our equity plans. 
+
+&#32;46 
+
+As of May 29, 2014 , under the terms and conditions of the MMJ Companies' plans of reorganization, we are obligated to pay 142 billion &#32;yen (or the equivalent of $1.40 billion &#32;based on exchange rates as of May 29, 2014 ) to the external creditors of the MMJ Companies. In October 2013, we made the first installment payment of $534 million to the external creditors of the MMJ Companies from funds that had been held in a restricted cash account since the acquisition date. The remaining installment payments are due at the end of each calendar year beginning in 2014 through 2019. 
+
+In the first nine months of 2014, we initiated a series of actions to restructure our debt as follows: 
+
+Exchanges : Exchanged approximately $80 million in aggregate principal amount of our 2027 Notes, $155 million in aggregate principal amount of our 2031A Notes and $205 million in aggregate principal amount of our 2031B Notes for $1.03 billion in aggregate principal amount at maturity of new 3.00% Convertible Senior Notes due 2043. 
+
+Conversions : Settled conversions of a portion of our 2027 Notes, 2031A Notes and 2014 Notes entirely in cash. Principal amounts of debt converted and cash paid on settlement of conversions in the first nine months of 2014 were as follows: 
+
+&#160; 
+
+&#160; 
+
+Principal Converted 
+
+&#160; 
+
+Cash Paid on Settlement 
+
+Second Quarter 2014: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2014 Notes 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2027 Notes 
+
+&#160; 
+
+&#160; 
+
+2031A Notes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 2014: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2014 Notes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,446 
+
+Repurchases : Repurchased for cash a portion of our 2031B Notes, 2032C Notes and 2032D Notes in privately negotiated transactions. Principal amounts of debt repurchased and cash paid on settlement of conversions in the third and second quarters of 2014 were as follows: 
+
+&#160; 
+
+&#160; 
+
+Principal Repurchased 
+
+&#160; 
+
+Cash Paid for Repurchase 
+
+Second Quarter 2014: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2031B Notes 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2032C Notes 
+
+&#160; 
+
+&#160; 
+
+2032D Notes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Third Quarter 2014: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2032C Notes 
+
+&#160; 
+
+&#160; 
+
+2032D Notes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#32;47 
+
+Other Financing Activities : On December 20, 2013, we issued $462 million &#32;in principal amount of 1.258% &#32;Secured Notes due January 2019 (the "2019 Notes"). The 2019 Notes mature on January 15, 2019 and are collateralized by certain equipment which had a carrying value of $215 million &#32;as of May 29, 2014 . The principal amount of the 2019 Notes is payable in 10 &#32;consecutive semi-annual installments payable in January and July of each year, commencing in July 2014. The Export-Import Bank of the United States ("Ex-Im Bank") guaranteed payment of all regularly scheduled installment payments of principal of, and interest on, the 2019 Notes. We paid $23 million &#32;to Ex-Im Bank for its guarantee upon issuance of the 2019 Notes. 
+
+On February 5, 2014, we issued $600 million in aggregate principal amount of 5.875% Senior Notes due February 2022 (the "2022 Notes"). We paid issuance costs of $14 million for the 2022 Notes. Interest is payable in February and August. 
+
+On February 27, 2014, in connection with our acquisition of an additional 9.9% &#32;interest in MMT, we recorded a $127 million &#32;note payable to the seller for the present value of the monthly installments, from March 2014 through December 2014. 
+
+See "Item 1. Financial Statements &#8211; Notes to Consolidated Financial Statements &#8211; Debt.") 
+
+Contractual Obligations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Payments Due by Period 
+
+As of May 29, 2014 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+Remainder of 2014 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2019 and Thereafter 
+
+Notes payable (1) (2) 
+
+&#160; 
+
+$ 
+
+6,403 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+3,853 
+
+Capital lease obligations (2) 
+
+&#160; 
+
+1,056 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating leases (3) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+$ 
+
+7,579 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,011 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+4,061 
+
+(1) Amounts include MMJ creditor installment payments, convertible notes and other notes. Any future redemption or conversion of our convertible notes could impact the timing and amount of cash payments. 
+
+(2) Amounts reflect principal and interest. 
+
+(3) Amounts do not include contingent lease payments. 
+
+Recently Issued Accounting Standards 
+
+In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standard Update ("ASU") 2014-09 &#8211; Revenue from Contracts with Customers , which will supersede nearly all existing revenue recognition guidance under U.S. GAAP. The core principal of this ASU is that an entity should recognize revenue when it transfers promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. This ASU also requires additional disclosure about the nature, amount, timing and uncertainty of revenue and cash flows arising from customer contracts, including significant judgments and changes in judgments and assets recognized from costs incurred to obtain or fulfill a contract. This ASU will be effective for us in our first quarter of 2018. Early adoption is not permitted. The ASU allows for either full retrospective or modified retrospective adoption. We are evaluating the transition method that will be elected and the potential effects of the adoption of this ASU on our financial statements. 
+
+&#32;48 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+In addition to the factors discussed elsewhere in this Form 10-Q, the following are important factors which could cause actual results or events to differ materially from those contained in any forward-looking statements made by or on behalf of us. 
+
+We have experienced dramatic declines in average selling prices for our semiconductor memory products which have adversely affected our business. 
+
+If average selling prices for our memory products decrease faster than we can decrease per gigabit costs, our business, results of operations or financial condition could be materially adversely affected. We have experienced significant decreases in our average selling prices per gigabit in recent years as noted in the table below and may continue to experience such decreases in the future. In some prior periods, average selling prices for our memory products have been below our manufacturing costs and we may experience such circumstances in the future. 
+
+&#160; 
+
+&#160; 
+
+DRAM 
+
+&#160; 
+
+&#160; 
+
+Trade NAND Flash* 
+
+&#160; 
+
+&#160; 
+
+(percentage change in average selling prices) 
+
+2013 from 2012 
+
+&#160; 
+
+(11)% 
+
+&#160; 
+
+&#160; 
+
+(18)% 
+
+2012 from 2011 
+
+&#160; 
+
+(45)% 
+
+&#160; 
+
+&#160; 
+
+(55)% 
+
+2011 from 2010 
+
+&#160; 
+
+(39)% 
+
+&#160; 
+
+&#160; 
+
+(12)% 
+
+2010 from 2009 
+
+&#160; 
+
+28% 
+
+&#160; 
+
+&#160; 
+
+26% 
+
+2009 from 2008 
+
+&#160; 
+
+(52)% 
+
+&#160; 
+
+&#160; 
+
+(52)% 
+
+* Trade NAND Flash excludes sales to Intel from IMFT. 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#32;55 
+
+We may be unable to reduce our per gigabit manufacturing costs at the rate average selling prices decline. 
+
+Our gross margins are dependent upon continuing decreases in per gigabit manufacturing costs achieved through improvements in our manufacturing processes, including reducing the die size of our existing products. In future periods, we may be unable to reduce our per gigabit manufacturing costs at sufficient levels to improve or maintain gross margins. Factors that may limit our ability to reduce costs include, but are not limited to, strategic product diversification decisions affecting product mix, the increasing complexity of manufacturing processes, difficulty in transitioning to smaller line-width process technologies, technological barriers and changes in process technologies or products that may require relatively larger die sizes. Per gigabit manufacturing costs may also be affected by the relatively smaller production quantities and shorter product lifecycles of certain specialty memory products. 
+
+The semiconductor memory industry is highly competitive. 
+
+We face intense competition in the semiconductor memory market from a number of companies, including Samsung Electronics Co., Ltd.; SanDisk Corporation; SK Hynix Inc.; Spansion Inc. and Toshiba Corporation. Some of our competitors are large corporations or conglomerates that may have greater resources to withstand downturns in the semiconductor markets in which we compete, invest in technology and capitalize on growth opportunities. Our competitors seek to increase silicon capacity, improve yields, reduce die size and minimize mask levels in their product designs. Transitions to smaller line-width process technologies and product and process improvements have resulted in significant increases in the worldwide supply of semiconductor memory. Increases in worldwide supply of semiconductor memory also result from semiconductor memory fab capacity expansions, either by way of new facilities, increased capacity utilization or reallocation of other semiconductor production to semiconductor memory production. Our competitors may increase capital expenditures resulting in future increases in worldwide supply. Increases in worldwide supply of semiconductor memory, if not accompanied with commensurate increases in demand, would lead to further declines in average selling prices for our products and would materially adversely affect our business, results of operations or financial condition. 
+
+Debt obligations could adversely affect our financial condition. 
+
+We are engaged in a capital intensive business subject to significant changes in supply and demand and product pricing and recent periods of consolidation, any of which could result in our incurrence or assumption of indebtedness. In recent periods, our debt levels have increased. As of May 29, 2014 , we had debt with a carrying value of $5.65 billion. In addition, the conversion value in excess of principal amount for our convertible notes outstanding as of May 29, 2014 &#32;was $2.66 billion. In the first nine months of 2014, we paid $2.11 billion to repurchase and settle conversion obligations for convertible notes with a principal amount of $1.03 billion. As of May 29, 2014 , we had two credit facilities available that provide for up to $408 million of additional financing, subject to outstanding balances of trade receivables and other conditions. Events and circumstances may occur which would cause us to not be able to satisfy the applicable drawdown conditions and utilize either of these facilities. We have in the past and expect in the future to continue to incur additional debt to finance our capital investments, including debt incurred in connection with asset-backed financing. 
+
+As of May 29, 2014 , under the terms and conditions of the respective plans of reorganization of Elpida Memory, Inc. ("Elpida"), now known as Micron Memory Japan, Inc. ("MMJ") and Akita Elpida Memory, Inc., now known as Micron Akita, Inc. ("MAI" and, together with MMJ, the "MMJ Companies"), we are obligated to pay the secured and unsecured creditors 142 billion yen (or the equivalent of $1.40 billion &#32;based on exchange rates as of May 29, 2014 ). If the resolution of certain unfixed claims under the plans of reorganization, primarily comprised of outstanding litigation claims, would result in payments in respect of those claims in excess of amounts reserved under the plans of reorganization to satisfy such claims, there is a possibility that we could be required to pay more than 142 billion yen to the pre-petition creditors of the MMJ Companies under the plans of reorganization. In addition, if unfixed claims of the MMJ Companies are resolved pursuant to settlement arrangements or other post-petition agreements, a substantial portion of the amounts payable with respect to the claims may have to be funded by the MMJ Companies outside of the installment payments provided for by the plans of reorganization. 
+
+Our debt obligations could adversely impact us. For example, these obligations could: 
+
+&#8226; 
+
+require us to use a large portion of our cash flow to pay principal and interest on debt, which will reduce the amount of cash flow available to fund working capital, capital expenditures, acquisitions, research and development expenditures and other business activities; 
+
+&#8226; 
+
+continue to dilute our earnings per share as a result of the conversion provisions in our convertible notes; 
+
+&#8226; 
+
+require us to continue to pay cash amounts substantially in excess of the principal amounts upon settlement of our convertible notes to minimize dilution of our earnings per share; 
+
+&#32;56 
+
+&#8226; 
+
+limit our future ability to raise funds for capital expenditures, strategic acquisitions or business opportunities, research and development and other general corporate requirements; 
+
+&#8226; 
+
+contribute to a future downgrade of our credit rating, which could increase future borrowing costs; and 
+
+&#8226; 
+
+increase our vulnerability to adverse economic and semiconductor memory industry conditions. 
+
+Our ability to meet our payment obligations under our debt instruments depends on our ability to generate significant cash flow in the future. This, to some extent, is subject to general economic, financial, competitive, legislative and regulatory factors as well as other factors that are beyond our control. There can be no assurance that our business will generate cash flow from operations, or that additional capital will be available to us, in an amount sufficient to enable us to meet our debt payment obligations and to fund other liquidity needs. If we are unable to generate sufficient cash flow to service our debt obligations, we may need to refinance or restructure our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. If we were unable to implement one or more of these alternatives, we may be unable to meet our debt payment obligations, which could have a material adverse effect on our business and results of operations. 
+
+We may be unable to generate sufficient cash flows or obtain access to external financing necessary to fund our operations, make scheduled debt payments and make adequate capital investments. 
+
+Our cash flows from operations depend primarily on the volume of semiconductor memory sold, average selling prices and per unit manufacturing costs. To develop new product and process technologies, support future growth, achieve operating efficiencies and maintain product quality, we must make significant capital investments in manufacturing technology, capital equipment, facilities, R&#38;D and product and process technology. We estimate that capital spending for 2014 will be approximately $2.8 billion to $3.2 billion. In addition, as a result of the MMJ acquisition, we believe that our future capital spending will be higher than our historical levels as we integrate our manufacturing operations and support the increase of capacity resulting from the MMJ transaction. As of May 29, 2014 , we had cash and equivalents of $4.06 billion, short-term investments of $202 million &#32;and long-term marketable investments of $545 million . Cash and investments included $2.58 billion held by MMJ and its consolidated subsidiaries and $84 million &#32;held by IM Flash Technologies, LLC ("IMFT"), none of which is generally available to finance our other operations. 
+
+As a result of the Japan Proceedings, for so long as such proceedings are continuing, the MMJ Companies and their subsidiaries are subject to certain restrictions on dividends, loans and advances. The plans of reorganization of the MMJ Companies prohibit the MMJ Companies from paying dividends, including any cash dividends, to us and require that excess earnings be used in their businesses or to fund the MMJ Companies' installment payments. These prohibitions would also effectively prevent the subsidiaries of the MMJ Companies from paying cash dividends to us in respect of the shares of such subsidiaries owned by the MMJ Companies, as any such dividends would have to be first paid to the MMJ Companies which are prohibited from repaying those amounts to us as dividends under the plans of reorganization. In addition, pursuant to an order of the Japan Court, the MMJ Companies cannot make loans or advances, other than certain ordinary course advances, to us without the consent of the Japan Court. Moreover, loans or advances by subsidiaries of the MMJ Companies may be considered outside of the ordinary course of business and subject to approval of the legal trustees and Japan Court. As a result, the assets of the MMJ Companies and their subsidiaries, while available to satisfy the MMJ Companies' installment payments and the other obligations, capital expenditures and other operating needs of the MMJ Companies and their subsidiaries, are not available for use by us in our other operations. Moreover, certain uses of the assets of the MMJ Companies, including investments in certain capital expenditures in Micron Memory Taiwan Co., Ltd. ("MMT"), formerly known as Rexchip Electronics Corporation ("Rexchip''), may require consent of MMJ's trustees and/or the Japan Court. 
+
+In the past we have utilized external sources of financing when needed. As a result of our current debt levels, expected debt amortization and general economic conditions, it may be difficult for us to obtain financing on terms acceptable to us. There can be no assurance that we will be able to generate sufficient cash flows, use cash held by MMJ to fund its capital expenditures, access capital markets or find other sources of financing to fund our operations, make debt amortization payments and make adequate capital investments to remain competitive in terms of technology development and cost efficiency. Our inability to do the foregoing could have a material adverse effect on our business and results of operations. 
+
+&#32;57 
+
+The acquisition of our ownership interest in Inotera from Qimonda has been challenged by the administrator of the insolvency proceedings for Qimonda. 
+
+On January 20, 2011, Dr. Michael Jaff&#233;, administrator for Qimonda AG ("Qimonda") insolvency proceedings, filed suit against Micron Technology, Inc. ("Micron Technology") and Micron Semiconductor B.V., our Netherlands subsidiary ("Micron B.V."), in the District Court of Munich, Civil Chamber. The complaint seeks to void under Section 133 of the German Insolvency Act a share purchase agreement between Micron B.V. and Qimonda signed in fall 2008 pursuant to which Micron B.V. purchased substantially all of Qimonda's shares of Inotera Memories, Inc. (the "Inotera Shares") and seeks an order requiring us to retransfer those shares to the Qimonda estate. The complaint also seeks, among other things, to recover damages for the alleged value of the joint venture relationship with Inotera and to terminate under Sections 103 or 133 of the German Insolvency Code a patent cross-license between us and Qimonda entered into at the same time as the share purchase agreement. 
+
+Following a series of hearings with pleadings, arguments and witnesses on behalf of the Qimonda estate, on March 13, 2014, the Court issued judgments: (1) ordering Micron B.V. to pay approximately $1 million in respect of certain Inotera shares sold in connection with the original share purchase; (2) ordering Micron B.V. to disclose certain information with respect to any Inotera Shares sold by it to third parties; (3) ordering Micron B.V. to disclose the benefits derived by it from ownership of the Inotera Shares, including in particular, any profits distributed on such shares and all other benefits; (4) denying Qimonda&#8217;s claims against Micron Technology for any damages relating to the joint venture relationship with Inotera; and (5) determining that Qimonda's obligations under the patent cross-license agreement are cancelled. In addition, the Court issued interlocutory judgments ordering, among other things: (1) that Micron B.V. transfer to the Qimonda estate the Inotera Shares still owned by it and pay to the Qimonda estate compensation in an amount to be specified for any Inotera Shares sold to third parties; and (2) that Micron B.V. pay the Qimonda estate as compensation an amount to be specified for benefits derived by it from ownership of the Inotera Shares. The interlocutory judgments have no immediate, enforceable effect on us, and, accordingly, we expect to be able to continue to operate with full control of the Inotera Shares subject to further developments in the case. We have filed a notice of appeal, and the parties are in the process of submitting briefs to the appeals court. 
+
+We are unable to predict the outcome of the matter and therefore cannot estimate the range of possible loss. The final resolution of this lawsuit could result in the loss of the Inotera shares or equivalent monetary damages, unspecified damages based on the benefits derived by Micron B.V. from the ownership of the Inotera Shares, and/or the termination of the patent cross-license, which could have a material adverse effect on our business, results of operation or financial condition. As of May 29, 2014, the Inotera Shares had a carrying value for purposes of our financial reporting of $381 million and a market value of $1.66 billion. 
+
+The operations of the MMJ Companies will be subject to continued oversight by the Japan Court during the pendency of the corporate reorganization proceedings. 
+
+Because the plans of reorganization of the MMJ Companies provide for ongoing payments to creditors following the closing of our acquisition of MMJ, the Japan Proceedings are continuing, and the MMJ Companies remain subject to the oversight of the Japan Court and of the trustees (including a trustee designated by us, who we refer to as the business trustee, and a trustee designated by the Japan Court, who we refer to as the legal trustee), pending completion of the Japan Proceedings. The Japan Proceedings and oversight of the Japan Court are expected to continue until the final creditor payment is made under the MMJ Companies' plans of reorganization, which is scheduled to occur in December 2019, but may occur on a later date to the extent any claims of creditors remain unfixed on the final scheduled installment payment date. Although we may be able to petition the court to terminate the Japan Proceedings once two-thirds of all payments under the plans of reorganization are made, there can be no assurance that the Japan Court will grant any such petition. 
+
+During the pendency of the Japan Proceedings, the MMJ Companies are obligated to provide periodic financial reports to the Japan Court and may be required to obtain the consent of the Japan Court prior to taking a number of significant actions relating to their businesses, including transferring or disposing of, or acquiring, certain material assets, incurring or guaranteeing material indebtedness, settling disputes or entering into certain material agreements. The consent of the legal trustee may also be required for matters that would likely have a material impact on the operations or assets of the MMJ Companies and their subsidiaries or for transfers of material assets, to the extent the matters or transfers would reasonably be expected to materially and adversely affect execution of the plans of reorganization of the MMJ Companies. Accordingly, during the pendency of the Japan Proceedings, our ability to effectively integrate the MMJ Companies as part of our global operations or to cause the MMJ Companies to take certain actions that we deem advisable for their businesses could be adversely affected if the Japan Court or the legal trustee is unwilling to consent to various actions that we may wish to take with respect to the MMJ Companies. 
+
+&#32;58 
+
+Our acquisitions of MMJ and MMT may increase our risk of significant deficiencies or material weaknesses in our internal controls over financial reporting. 
+
+MMJ and MMT have not performed an assessment of the effectiveness of the design and operation of their internal control over financial reporting. In addition, MMJ and MMT have not historically prepared their financial statements under U.S. generally accepted accounting standards. MMJ and MMT were not required to be included in our assessment of internal controls for 2013 but will be included in our assessment for 2014, which may increase our risk for material weaknesses in our internal control over financial reporting. 
+
+Our acquisitions of MMJ and MMT involve numerous risks. 
+
+On July 31, 2013, we acquired MMJ and 89% of MMT for an aggregate of $949 million in cash. In the third and second quarters of 2014, we purchased an additional aggregate 10.6% &#32;of MMT's outstanding common stock. 
+
+In addition to the acquisition risks described elsewhere, these acquisitions are expected to involve the following significant risks: 
+
+&#8226; 
+
+we may be unable to maintain customers, successfully execute our integration strategies, or achieve planned synergies; 
+
+&#8226; 
+
+we may be unable to accurately forecast the anticipated financial results of the combined business; 
+
+&#8226; 
+
+our consolidated financial condition may be adversely impacted by the increased leverage resulting from the transactions; 
+
+&#8226; 
+
+deterioration of MMJ's and MMT's operations and customer base following closing; 
+
+&#8226; 
+
+increased exposure to operating costs denominated in yen and New Taiwan dollar; 
+
+&#8226; 
+
+integration issues with MMJ's and MMT's primary manufacturing operations in Japan and Taiwan; 
+
+&#8226; 
+
+integration issues of our product and process technology with MMJ and MMT; 
+
+&#8226; 
+
+integration of business systems and processes; and 
+
+&#8226; 
+
+an overlap in customers. 
+
+Our acquisitions of MMJ and MMT are inherently risky, may not be successful and may materially adversely affect our business, results of operations or financial condition. 
+
+Our future success depends on our ability to develop and produce competitive new memory technologies. 
+
+Our key semiconductor memory technologies of DRAM, NAND Flash and NOR Flash face technological barriers to continue to meet long-term customer needs. These barriers include potential limitations on the ability to shrink products in order to reduce costs, meet higher density requirements and improve power consumption and reliability. To meet these requirements, we expect that new memory technologies will be developed by the semiconductor memory industry. Our competitors are working to develop new memory technologies that may offer performance and/or cost advantages to our existing memory technologies and render existing technologies obsolete. Accordingly, our future success may depend on our ability to develop and produce viable and competitive new memory technologies . &#32;&#32;There can be no assurance of the following: 
+
+&#8226; 
+
+that we will be successful in developing competitive &#32; new semiconductor memory technologies; 
+
+&#8226; 
+
+that we will be able to cost-effectively manufacture new products; 
+
+&#8226; 
+
+that we will be able to successfully market these technologies; and 
+
+&#8226; 
+
+that margins generated from sales of these products will allow us to recover costs of development efforts. 
+
+If our efforts to develop new semiconductor memory technologies are unsuccessful, our business, results of operations or financial condition may be adversely affected. 
+
+New product development may be unsuccessful. 
+
+We are developing new products that complement our traditional memory products or leverage their underlying design or process technology. We have made significant investments in product and process technologies and anticipate expending significant resources for new semiconductor product development over the next several years. The process to develop DRAM, NAND Flash, NOR Flash and certain specialty memory products requires us to demonstrate advanced functionality and performance, many times well in advance of a planned ramp of production, in order to secure design wins with our customers. There can be no assurance that our product development efforts will be successful, that we will be able to cost-effectively manufacture new products, that we will be able to successfully market these products or that margins generated from sales of these products will allow us to recover costs of development efforts. 
+
+&#32;59 
+
+Products that fail to meet specifications, are defective or that are otherwise incompatible with end uses could impose significant costs on us. 
+
+Products that do not meet specifications or that contain, or are perceived by our customers to contain, defects or that are otherwise incompatible with end uses could impose significant costs on us or otherwise materially adversely affect our business, results of operations or financial condition. From time to time we experience problems with nonconforming, defective or incompatible products after we have shipped such products. In recent periods we have further diversified and expanded our product offerings which could potentially increase the chance that one or more of our products could fail to meet specifications in a particular application. As a result of these problems we could be adversely affected in several ways, including the following: 
+
+&#8226; 
+
+we may be required to compensate customers for costs incurred or damages caused by defective or incompatible product or replace products; 
+
+&#8226; 
+
+we could incur a decrease in revenue or adjustment to pricing commensurate with the reimbursement of such costs or alleged damages; and 
+
+&#8226; 
+
+we may encounter adverse publicity, which could cause a decrease in sales of our products. 
+
+A determination that our products or manufacturing processes infringe the intellectual property rights of others or entering into a license agreement covering such intellectual property could materially adversely affect our business, results of operations or financial condition. 
+
+As is typical in the semiconductor and other high technology industries, from time to time others have asserted, and may in the future assert, that our products or manufacturing processes infringe their intellectual property rights. We are unable to predict the outcome of assertions of infringement made against us. A court determination that our products or manufacturing processes infringe the intellectual property rights of others could result in significant liability and/or require us to make material changes to our products and/or manufacturing processes. Any of the foregoing results could have a material adverse effect on our business, results of operations or financial condition. (See "Item 1. Legal Proceedings.") 
+
+We have a number of intellectual property license agreements. Some of these license agreements require us to make one time or periodic payments. We may need to obtain additional patent licenses or renew existing license agreements in the future. We are unable to predict whether these license agreements can be obtained or renewed on acceptable terms. 
+
+Our Inotera Supply Agreement involves numerous risks. 
+
+We have a supply agreement with Inotera (the "Inotera Supply Agreement") under which we are obligated to purchase substantially all of Inotera's DRAM output at a purchase price based on a discount from market prices for our comparable components over an initial three-year term. For the third quarter of 2014, we purchased $700 million &#32;of DRAM products from Inotera and our supply from Inotera accounted for 40% of our aggregate DRAM gigabit production. Our Inotera Supply Agreement involves numerous risks including the following: 
+
+&#8226; 
+
+higher costs for supply obtained under the market-based provisions of the Inotera Supply Agreement relative to our wholly-owned facilities; 
+
+&#8226; 
+
+difficulties and delays in ramping production at Inotera and delays in the future; and 
+
+&#8226; 
+
+difficulties in transferring technology to Inotera. 
+
+If our supply of DRAM from Inotera is impacted, our business, results of operations or financial condition could be materially adversely affected. 
+
+Our joint ventures and strategic relationships involve numerous risks. 
+
+We have entered into strategic relationships to manufacture products and develop new manufacturing process technologies and products. These relationships include our IMFT NAND Flash joint venture with Intel Corporation ("Intel"), our Inotera DRAM joint venture with Nanya and our MP Mask joint venture with Photronics. These joint ventures and strategic relationships are subject to various risks that could adversely affect the value of our investments and our results of operations. These risks include the following: 
+
+&#8226; 
+
+our interests could diverge from our partners or we may not be able to agree with partners on ongoing manufacturing and operational activities, or on the amount, timing or nature of further investments in our joint venture; 
+
+&#32;60 
+
+&#8226; 
+
+we may experience difficulties in transferring technology to joint ventures; 
+
+&#8226; 
+
+we may experience difficulties and delays in ramping production at joint ventures; 
+
+&#8226; 
+
+our control over the operations of our joint ventures is limited; 
+
+&#8226; 
+
+we may recognize losses from our equity investment in Inotera in future results of operations; 
+
+&#8226; 
+
+due to financial constraints, our joint venture partners may be unable to meet their commitments to us or our joint ventures and may pose credit risks for our transactions with them; 
+
+&#8226; 
+
+due to differing business models or long-term business goals, our partners may decide not to join us in funding capital investment by our joint ventures, which may result in higher levels of cash expenditures by us; 
+
+&#8226; 
+
+cash flows may be inadequate to fund increased capital requirements; 
+
+&#8226; 
+
+we may experience difficulties or delays in collecting amounts due to us from our joint ventures and partners; 
+
+&#8226; 
+
+the terms of our partnering arrangements may turn out to be unfavorable; and 
+
+&#8226; 
+
+changes in tax, legal or regulatory requirements may necessitate changes in the agreements with our partners. 
+
+If our joint ventures and strategic relationships are unsuccessful, our business, results of operations or financial condition may be adversely affected. 
+
+We may incur additional restructure or other charges in future periods. 
+
+In recent periods, we have implemented restructure activities and may implement restructure initiatives in future periods. As a result, we could incur restructure charges (including but not limited to severance and other termination benefits, losses on disposition or impairment of equipment or other long-lived assets and inventory write downs), lose production output, lose key personnel and experience disruptions in our operations and difficulties in the timely delivery of products. In connection with these actions, we recorded charges of $18 million &#32;in the first nine months of 2014 and $126 million in 2013. We anticipate incurring restructure charges of $15 million to $25 million in the fourth quarter of 2014 for employee termination benefits in Agrate, Italy. We may incur additional restructure charges or other losses associated with other initiatives in future periods. 
+
+Changes in foreign currency exchange rates could materially adversely affect our business, results of operations or financial condition. 
+
+Across our multi-national operations, there are transactions and balances denominated in currencies other than the U.S. dollar (our reporting currency), primarily the euro, the shekel, the Singapore dollar, the New Taiwan dollar, the yen and the yuan. We recorded net losses from changes in currency exchange rates of $229 million for 2013 and $6 million for 2012. Based on our foreign currency exposures from monetary assets and liabilities, offset by balance sheet hedges, we estimate that a 10% adverse change in exchange rates versus the U.S. dollar would result in losses of approximately $13 million &#32;as of May 29, 2014 . In the event that the exchange rates for U.S. dollar adversely change against our foreign currency exposures in the euro, Singapore dollar, New Taiwan dollar or yen, our results of operations or financial condition may be adversely affected. 
+
+As of May 29, 2014 , we had obligations to make payments to the secured and unsecured creditors of the MMJ Companies in an aggregate amount of 142 billion yen (or the equivalent of $1.40 billion &#32;based on exchange rates as of May 29, 2014 ). The U.S. dollar amount of this payment obligation could increase if the yen strengthens against the U.S. dollar. As of May 29, 2014 , to hedge certain yen-denominated payments resulting from our acquisition of MMJ, we had an outstanding forward contract to purchase 20 billion yen on November 28, 2014 at a yen per U.S. dollar exchange rate of 98.53 and a forward contract to purchase 10 billion yen on November 27, 2015 at a yen per U.S. dollar exchange rate of 97.25. A significant portion of MMJ's and MMT's operating costs are paid in yen and New Taiwan dollars so our operating results could also be adversely impacted if the exchange rates for those currencies to USD change adversely. 
+
+&#32;61 
+
+If our manufacturing process is disrupted, our business, results of operations or financial condition could be materially adversely affected. 
+
+We manufacture products using highly complex processes that require technologically advanced equipment and continuous modification to improve yields and performance. Difficulties in the manufacturing process or the effects from a shift in product mix can reduce yields or disrupt production and may increase our per gigabit manufacturing costs. We maintain operations and continuously implement new product and process technology at our manufacturing operations which are widely dispersed in multiple locations in several countries including the U.S., Singapore, Taiwan, Japan and China. Additionally, our control over operations at our IMFT, Inotera, MP Mask and Tera Probe joint ventures is limited by our agreements with our partners. From time to time, we have experienced disruptions in our manufacturing process as a result of power outages, improperly functioning equipment and equipment failures. If production at a fabrication facility is disrupted for any reason, manufacturing yields may be adversely affected or we may be unable to meet our customers' requirements and they may purchase products from other suppliers. This could result in a significant increase in manufacturing costs or loss of revenues or damage to customer relationships, which could materially adversely affect our business, results of operations or financial condition. 
+
+We may make future acquisitions and/or alliances, which involve numerous risks. 
+
+Acquisitions and the formation or operation of alliances, such as joint ventures and other partnering arrangements, involve numerous risks including the following: 
+
+&#8226; 
+
+integrating the operations, technologies and products of acquired or newly formed entities into our operations; 
+
+&#8226; 
+
+increasing capital expenditures to upgrade and maintain facilities; 
+
+&#8226; 
+
+increased debt levels; 
+
+&#8226; 
+
+the assumption of unknown or underestimated liabilities; 
+
+&#8226; 
+
+the use of cash to finance a transaction, which may reduce the availability of cash to fund working capital, capital expenditures, research and development expenditures and other business activities; 
+
+&#8226; 
+
+diverting management's attention from normal daily operations; 
+
+&#8226; 
+
+managing larger or more complex operations and facilities and employees in separate and diverse geographic areas; 
+
+&#8226; 
+
+hiring and retaining key employees; 
+
+&#8226; 
+
+requirements imposed by governmental authorities in connection with the regulatory review of a transaction, which may include, among other things, divestitures or restrictions on the conduct of our business or the acquired business; 
+
+&#8226; 
+
+inability to realize synergies or other expected benefits; 
+
+&#8226; 
+
+failure to maintain customer, vendor and other relationships; 
+
+&#8226; 
+
+inadequacy or ineffectiveness of an acquired company's internal financial controls, disclosure controls and procedures, and/or environmental, health and safety, anti-corruption, human resource, or other policies or practices; and 
+
+&#8226; 
+
+impairment of acquired intangible assets and goodwill as a result of changing business conditions, technological advancements or worse-than-expected performance of the acquired business. 
+
+In recent years, supply of memory products has significantly exceeded customer demand resulting in significant declines in average selling prices for DRAM, NAND Flash and NOR Flash products. Resulting operating losses have led to the deterioration in the financial condition of a number of industry participants, including the liquidation of Qimonda AG and the 2012 bankruptcy filing by Elpida (now known as MMJ). These types of proceedings often lead to confidential court-directed processes involving the sale of related businesses or assets. We believe the global memory industry is experiencing a period of consolidation as a result of these market conditions and other factors, and we may engage in discussions regarding potential acquisitions and similar opportunities arising out of these industry conditions. To the extent we are successful in completing any such transactions, we could be subject to some or all of the risks described above, including the risks pertaining to funding, assumption of liabilities, integration challenges and increases in debt that may accompany such transactions. Acquisitions of, or alliances with, high-technology companies are inherently risky and may not be successful and may materially adversely affect our business, results of operations or financial condition. 
+
+&#32;62 
+
+Consolidation of industry participants and governmental assistance to some of our competitors may contribute to uncertainty in the semiconductor memory industry and negatively impact our ability to compete. 
+
+In recent years, supply of memory products has significantly exceeded customer demand resulting in significant declines in average selling prices of DRAM, NAND Flash and NOR Flash products and substantial operating losses by us and our competitors. The operating losses as well as limited access to sources of financing have led to the deterioration in the financial condition of a number of industry participants and significant recent consolidation and, in certain cases, liquidation. Some of our competitors may try to enhance their capacity and lower their cost structure through consolidation. In addition, some governments have provided, and may be considering providing, significant financial assistance to some of our competitors. Consolidation of industry competitors could put us at a competitive disadvantage. 
+
+The limited availability of raw materials, supplies or capital equipment could materially adversely affect our business, results of operations or financial condition. 
+
+Our operations require raw materials that meet exacting standards. We generally have multiple sources of supply for our raw materials. However, only a limited number of suppliers are capable of delivering certain raw materials that meet our standards. In some cases, materials are provided by a single supplier. Various factors could reduce the availability of raw materials such as silicon wafers, photomasks, chemicals, gases, photoresist, lead frames and molding compound. Shortages may occur from time to time in the future. In addition, disruptions in transportation lines could delay our receipt of raw materials. Lead times for the supply of raw materials have been extended in the past. If our supply of raw materials is disrupted or our lead times extended, our business, results of operations or financial condition could be materially adversely affected. 
+
+Our operations are dependent on our ability to procure advanced semiconductor equipment that enables the transition to lower cost manufacturing processes. For certain key types of equipment, including photolithography tools, we are sometimes dependent on a single supplier. From time to time we have experienced difficulties in obtaining some equipment on a timely basis due to the supplier's limited capacity. Our inability to timely obtain this equipment could adversely affect our ability to transition to next generation manufacturing processes and reduce costs. Delays in obtaining equipment could also impede our ability to ramp production at new facilities and increase our overall costs of the ramp. If we are unable to timely obtain advanced semiconductor equipment, our business, results of operations or financial condition could be materially adversely affected. 
+
+Our net operating loss and tax credit carryforwards may be limited. 
+
+As of August 29, 2013, we had a valuation allowance against substantially all U.S. net deferred tax assets as well as $1.5 billion related to our foreign subsidiaries. As of August 29, 2013, our federal and state net operating loss carryforwards were $4.2 billion and $2.2 billion, respectively. If not utilized, our federal and state net operating loss carryforwards will expire at various dates through 2033. As of August 29, 2013, our federal and state tax credit carryforwards were $238 million and $203 million, respectively. If not utilized, our federal and state tax credit carryforwards will expire at various dates through 2033. As of August 29, 2013, our foreign net operating loss carryforwards were $7.0 billion, of which $5.9 billion pertains to MMJ. We have placed a valuation allowance against $4.7 billion of these foreign net operating loss carryforwards, of which $3.8 billion pertains to MMJ. If not utilized, our foreign net operating loss carryforwards will expire at various dates through 2023. 
+
+A downturn in the worldwide economy may harm our business. 
+
+Downturns in the worldwide economy have harmed our business in the past and future downturns could also adversely affect our business. Adverse economic conditions affect demand for devices that incorporate our products, such as personal computers, mobile devices, solid-state drives and servers. Reduced demand for these products could result in significant decreases in our average selling prices and product sales. A deterioration of current conditions in worldwide credit markets could limit our ability to obtain external financing to fund our operations and capital expenditures. In addition, we may experience losses on our holdings of cash and investments due to failures of financial institutions and other parties. Difficult economic conditions may also result in a higher rate of loss on our accounts receivables due to credit defaults. As a result, our business, results of operations or financial condition could be materially adversely affected. 
+
+&#32;63 
+
+Our results of operations could be affected by natural disasters and other events in the locations in which we or our customers or suppliers operate. 
+
+We have manufacturing and other operations in locations subject to natural occurrences such as severe weather and geological events including earthquakes or tsunamis that could disrupt operations. In addition, our suppliers and customers also have operations in such locations. A natural disaster, fire, chemical explosion or other event that results in a prolonged disruption to our operations, or the operations of our customers or suppliers, may adversely affect our business, results of operations or financial condition. 
+
+We face risks associated with our international sales and operations that could materially adversely affect our business, results of operations or financial condition. 
+
+Sales to customers outside the United States approximated 83% &#32;of our consolidated net sales for the third quarter of 2014. In addition, a substantial portion of our manufacturing operations are located outside the United States. In particular, a significant portion of our manufacturing operations are concentrated in Taiwan, Singapore and Japan. Our international sales and operations are subject to a variety of risks, including: 
+
+&#8226; 
+
+export and import duties, changes to import and export regulations, and restrictions on the transfer of funds; 
+
+&#8226; 
+
+compliance with U.S. and international laws involving international operations, including the Foreign Corrupt Practices Act, export control laws and similar rules and regulations; 
+
+&#8226; 
+
+political and economic instability; 
+
+&#8226; 
+
+problems with the transportation or delivery of our products; 
+
+&#8226; 
+
+issues arising from cultural or language differences and labor unrest; 
+
+&#8226; 
+
+longer payment cycles and greater difficulty in collecting accounts receivable; 
+
+&#8226; 
+
+compliance with trade, technical standards and other laws in a variety of jurisdictions; 
+
+&#8226; 
+
+contractual and regulatory limitations on our ability to maintain flexibility with our staffing levels; 
+
+&#8226; 
+
+disruptions to our manufacturing operations as a result of actions imposed by foreign governments; 
+
+&#8226; 
+
+changes in economic policies of foreign governments; and 
+
+&#8226; 
+
+difficulties in staffing and managing international operations. 
+
+These factors may materially adversely affect our business, results of operations or financial condition. 
+
+Breaches of our network security could expose us to losses. 
+
+We manage and store on our network systems, various proprietary information and sensitive or confidential data relating to our operations. We also process, store, and transmit large amounts of data for our customers, including sensitive personal information. Computer programmers and hackers may be able to gain unauthorized access to our network system and steal proprietary information, compromise confidential information, create system disruptions, or cause shutdowns. These parties may also be able to develop and deploy viruses, worms, and other malicious software programs that disrupt our operations and create security vulnerabilities. Attacks on our network systems could result in significant losses and damage our reputation with customers. 
+
+We are subject to counterparty default risks. 
+
+We have numerous arrangements with financial institutions that subject us to counterparty default risks, including cash deposits, investments, capped-call contracts on our stock and derivative instruments. As a result, we are subject to the risk that the counterparty to one or more of these arrangements will default on its performance obligations. A counterparty may not comply with their contractual commitments which could then lead to their defaulting on their obligations with little or no notice to us, which could limit our ability to take action to mitigate our exposure. Additionally, our ability to mitigate our exposures may be constrained by the terms of our contractual arrangements or because market conditions prevent us from taking effective action. If one of our counterparties becomes insolvent or files for bankruptcy, our ability to recover any losses suffered as a result of that counterparty's default may be limited by the liquidity of the counterparty or the applicable laws governing the bankruptcy proceeding. In the event of such default, we could incur significant losses, which could adversely impact our business, results of operations or financial condition. 
+
+&#32;64 
+
+Compliance with new regulations regarding the use of conflict minerals could limit the supply and increase the cost of certain metals used in manufacturing our products. 
+
+Increased focus on environmental protection and social responsibility initiatives led to the passage of Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act") and its implementing SEC regulations. The Dodd-Frank Act imposes new supply chain diligence and disclosure requirements for certain manufacturers of products containing specific minerals that may originate in or near the Democratic Republic of the Congo (the "DRC") and finance or benefit local armed groups. These "conflict minerals" are commonly found in materials used in the manufacture of semiconductors. The implementation of these new regulations may limit the sourcing and availability of some of these materials. This in turn may affect our ability to obtain materials necessary for the manufacture of our products in sufficient quantities and may affect related material pricing. Some of our customers may elect to disqualify us as a supplier if we are unable to verify that our products are DRC conflict free. 
+

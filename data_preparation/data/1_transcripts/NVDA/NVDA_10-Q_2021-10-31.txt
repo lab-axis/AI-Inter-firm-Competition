@@ -1,0 +1,418 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements &#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. Other statements in this Quarterly Report on Form 10-Q regarding the potential future impact of the COVID-19 pandemic on the Company&#8217;s business and results of operations are forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q and in our Annual Report on Form 10-K for the fiscal year ended January 31, 2021 in greater detail under the heading &#8220;Risk Factors&#8221; of such reports. Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+All references to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries. 
+
+NVIDIA, the NVIDIA logo, GeForce, GeForce NOW, Mellanox, NVIDIA AI Enterprise, NVIDIA Clara, NVIDIA DRIVE Orin, NVIDIA Jetson AGX Orin, NVIDIA Omniverse, NVIDIA ReOpt, NVIDIA RTX, NVIDIA Triton Inference Server and Quadro, are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the risk factors set forth in Item 1A. &#8220;Risk Factors&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 31, 2021 and Part II, Item 1A. &#8220;Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+Overview 
+
+Our Company and Our Businesses 
+
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, autonomous vehicles, or AV, robotics, and augmented and virtual reality, or AR and VR. 
+
+Our two operating segments are "Graphics" and "Compute &#38; Networking," as described in Note 15 of the Notes to Condensed Consolidated Financial Statements. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+Pending Acquisition of Arm Limited 
+
+On September 13, 2020, we entered into the Purchase Agreement with Arm and SoftBank to acquire, from SoftBank, all allotted and issued ordinary shares of Arm in a transaction valued at $40 billion. We paid the Signing Consideration, and will pay upon closing of the acquisition $10 billion in cash and issue to SoftBank 177.5 million shares of our common 
+
+stock, which had an aggregate value of $21.5 billion as of the date of the Purchase Agreement, and was valued at $56.2 billion as of November 18, 2021. The transaction includes a potential earn out, which is contingent on the achievement of certain financial performance targets by Arm during the fiscal year ending March 31, 2022. If the financial targets are achieved, SoftBank can elect to receive either up to an additional $5 billion in cash or up to an additional 41.3 million shares of our common stock, which was valued at $13.1 billion as of November 18, 2021. We will issue up to $1.5 billion in restricted stock units to Arm employees after closing. The Signing Consideration was allocated between advanced consideration for the acquisition of $1.36 billion and the prepayment of intellectual property licenses from Arm of $0.17 billion and royalties of $0.47 billion, both with a 20-year term. The Signing Consideration was allocated on a fair value basis and any refund of the Signing Consideration will use stated values in the Purchase Agreement. The Purchase Agreement can be terminated by either party if the transaction has not closed by September 2022, subject to certain qualifications. If the transaction does not close due to failure to receive regulatory approval, and all other covenants have been met, we will not be refunded $1.25 billion of the advanced consideration for the acquisition we paid at signing. 
+
+The closing of the acquisition is subject to customary closing conditions, including receipt of specified governmental and regulatory consents and approvals and the expiration of any related mandatory waiting period, and Arm's implementation of the reorganization and distribution of Arm&#8217;s IoT Services Group and certain other assets and liabilities. 
+
+We are seeking regulatory approval in the United States, the United Kingdom, the European Union, China and other jurisdictions. Regulators at the FTC have expressed concerns regarding the transaction, and we are engaged in discussions with the FTC regarding remedies to address those concerns. The transaction has been under the review of China&#8217;s antitrust authority, pending the formal case initiation. Regulators in the United Kingdom and the European Union declined to approve the transaction in Phase 1 of their review processes, expressed numerous concerns, began a more in-depth Phase 2 review on the transaction&#8217;s impact on competition, and, in the United Kingdom, a Phase 2 review of the impact on the United Kingdom&#8217;s national security interests.&#8239;Although regulators and some Arm licensees have expressed concerns or objected to the transaction, we continue to believe in the merits and benefits of the acquisition to Arm, its licensees, and the industry. 
+
+Demand 
+
+Demand for our products is based on many factors, including our product introductions, time to market, transitions, competitor product releases and announcements, and competing technologies, all of which can impact the timing and volume of our revenue. GPUs have many use cases including their intended marketed use case. GPUs can be used for cryptocurrency mining, though we do not have visibility into how much of our GPU usage is for cryptocurrency mining nor the future demand for GPUs to mine cryptocurrency. Volatility in the cryptocurrency market, including new compute technologies, price changes in cryptocurrencies, changes in government cryptocurrency policies and regulations, and new cryptocurrency standards can impact cryptocurrency demand, and further impact demand for our products and our ability to estimate demand for our products. Changes to cryptocurrency standards and processes including, but not limited to, the pending Ethereum 2.0 standard may decrease the usage of GPUs for Ethereum mining and may also create increased aftermarket resale of our GPUs, impact retail prices for our GPUs, increase returns of our products in the distribution channel, and may reduce demand for our new GPUs. We have introduced Lite Hash Rate, or LHR, GeForce GPUs with limited Ethereum mining capability. During the third quarter of fiscal year 2022, nearly all our desktop Ampere architecture GeForce GPU shipments were LHR in our effort to direct GeForce to gamers. There have been aftermarket attempts to increase the Ethereum mining capability of our LHR cards. Additionally, consumer and enterprise behavior during the COVID-19 pandemic has made it more difficult for us to estimate future demand, and these challenges may be more pronounced or volatile in the future on both a global and regional basis if and when the effects of the pandemic subside. In estimating demand and evaluating trends, we make multiple assumptions, any of which may prove to be incorrect. 
+
+Supply 
+
+Our products are manufactured based on estimates of customers&#8217; future demand and our manufacturing lead times are very long. This could lead to a significant mismatch between supply and demand, giving rise to product shortages or excess inventory, and make our demand forecast more uncertain. We sell many of our products through a channel model, and our channel customers sell to retailers, distributors, and/or end customers. As a result, the decisions made by our channel partners, retailers, and distributors in response to changing market conditions and the changing demand for our products could impact our ability to properly forecast demand. To have shorter shipment lead times and quicker delivery schedules for our customers, we may build finished products and maintain inventory for anticipated periods of growth which do not occur, anticipating demand that does not materialize, or for what we believe is pent-up demand. We expect to remain supply-constrained into fiscal year 2023. We have placed non-cancellable inventory orders for certain 
+
+products in advance of our normal lead times, paid premiums and provided deposits to secure normal and incremental future supply and capacity and may need to continue to do so in the future. Ordering product in advance of our normal lead times to secure supply in a constrained environment may trigger excess inventory or other charges if there is a partial or complete reduction in long term demand for our products or if such demand is served by our competitors. Given our long lead times on inventory purchasing, demand may be perishable or may disappear. 
+
+COVID-19 
+
+The worldwide COVID-19 pandemic has caused governments and businesses to take unprecedented measures including restrictions on travel, temporary business closures, quarantines and shelter-in-place orders. It has significantly impacted global economic activity and caused volatility and disruption in global financial markets. Some regions are easing COVID-19 related restrictions; however, most of our employees continue to work remotely and we continue to temporarily prohibit most business travel. 
+
+The COVID-19 pandemic continues to evolve and affect our business and financial results. During the third quarter of fiscal year 2022, our Gaming, Data Center and Professional Visualization market platforms have benefited from stronger demand as people continue to work, learn, and play from home. As our own offices begin to reopen, we expect to incur incremental expenses as we resume onsite services and related in-office costs. 
+
+As the COVID-19 pandemic continues, the timing and overall demand from customers and the availability of supply chain, rising inflation, logistical services and component supply may have a material net negative impact on our business and financial results. 
+
+We believe our existing balances of cash, cash equivalents and marketable securities, along with commercial paper arrangements, will be sufficient to satisfy our working capital needs, capital asset purchases, dividends, debt repayments and other liquidity requirements associated with our existing operations. 
+
+Third Quarter of Fiscal Year 2022 Summary 
+
+Three Months Ended &#160; October 31, 2021 August 1, 2021 October 25, 2020 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 7,103 $ 6,507 $ 4,726 9 % 50 % Gross margin 65.2 % 64.8 % 62.6 % 40 bps 260 bps Operating expenses $ 1,960 $ 1,771 $ 1,562 11 % 25 % Income from operations $ 2,671 $ 2,444 $ 1,398 9 % 91 % Net income $ 2,464 $ 2,374 $ 1,336 4 % 84 % Net income per diluted share $ 0.97 $ 0.94 $ 0.53 3 % 83 % 
+
+We specialize in markets where our computing platforms can provide tremendous acceleration for applications. These platforms incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Gaming, Data Center, Professional Visualization, and Automotive. 
+
+Revenue for the third quarter of fiscal year 2022 was $7.10 billion, up 50% from a year earlier. 
+
+Gaming revenue was up 42% from a year ago and up 5% sequentially, reflecting higher sales of GeForce GPUs. We benefited from strong demand for our NVIDIA Ampere architecture products leading into the holiday season. Nearly all our desktop Ampere architecture GeForce GPU shipments are LHR in our effort to direct GeForce to gamers. 
+
+Data Center revenue was up 55% from a year ago and up 24% sequentially, driven by sales of NVIDIA Ampere architecture products to hyperscale customers for cloud computing and workloads such as natural language processing and deep recommender models, as well as to vertical industries. 
+
+Professional Visualization revenue was up 144% from a year earlier and up 11% sequentially, driven by NVIDIA Ampere architecture products, with growth in desktop and notebook workstation GPUs as enterprises deploy systems to support hybrid work environments. 
+
+Automotive revenue was up 8% from a year earlier and down 11% sequentially. The year-on-year growth was due to the ramp of self-driving programs, while the sequential decline was related to automotive makers&#8217; supply constraints. 
+
+OEM and Other revenue was up 21% from a year ago and down 43% sequentially. The year-on-year growth reflects CMP revenue of $105 million this quarter. The sequential decline primarily reflects lower CMP revenue. 
+
+GAAP gross margin for the third quarter was up 260 basis points from a year earlier, primarily due to a higher-end mix within desktop and notebook GeForce GPUs. The year-on-year increase also benefited from a reduced impact of acquisition-related costs. Sequentially, gross margin was up 40 basis points primarily due to growth in Data Center, partially offset by a mix shift in Gaming. 
+
+Operating expenses for the third quarter were up 25% from a year earlier and up 11% sequentially. The year-on-year increase was primarily driven by compensation-related costs relating to employee growth and higher infrastructure costs. The sequential increase was primarily driven by development materials and employee growth. 
+
+Income from operations was $2.67 billion, up 91% from a year earlier and up 9% sequentially. Net income was $2.46 billion. Net income per diluted share was $0.97, up 83% from a year earlier and up 3% sequentially. 
+
+Cash, cash equivalents and marketable securities were $19.30 billion, up from $10.14 billion a year earlier and down from $19.65 billion in the prior quarter. The year-on-year increase reflects $5 billion of debt issuance proceeds and operating cash flow generation. The sequential decrease primarily reflects prepayments for long-term supply, $1 billion of debt maturity and business acquisitions. 
+
+We paid $100 million in quarterly cash dividends in the third quarter. 
+
+Market Platform Highlights 
+
+At our recent GTC conference, we announced general availability of NVIDIA Omniverse Enterprise; 65 new and updated software development kits, including NVIDIA Riva, Modulus, ReOpt, Morpheus, cuNumeric, and Clara Holoscan; tools for developing and deploying large language models, including NVIDIA NeMo Megatron; new capabilities in the open source NVIDIA Triton Inference Server software; the NVIDIA Quantum-2 400Gbps switch and end-to-end networking platform; and NVIDIA Jetson AGX Orin for edge AI and autonomous machines. 
+
+Additionally, in our Gaming platform during the third quarter of fiscal year 2022, we announced RTX capabilities coming to blockbuster titles; announced new RTX-accelerated AI features in Adobe applications; and introduced a new high-performance membership tier to GeForce NOW. 
+
+In our Data Center platform, we announced plans to build Earth-2, an AI supercomputer dedicated to addressing the global climate change crisis; announced the availability of NVIDIA AI Enterprise; expanded NVIDIA LaunchPad; and announced further collaboration with VMware to develop an AI-ready enterprise platform based on VMware vSphere with Tanzu. 
+
+In our Professional Visualization platform, we announced the general availability of NVIDIA Omniverse Enterprise. 
+
+In our Automotive platform, we announced that NVIDIA DRIVE Orin is being used by autonomous truck company Kodiak Robotics, automaker Lotus, autonomous driving-solutions provider QCraft and EV startup WM Motor. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information. 
+
+Results of Operations 
+
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. 
+
+&#160; Three Months Ended Nine Months Ended &#160; October 31, 2021 October 25, 2020 October 31, 2021 October 25, 2020 Revenue 100.0 % 100.0 % 100.0 % 100.0 % Cost of revenue 34.8 37.4 35.3 38.0 Gross profit 65.2 62.6 64.7 62.0 Operating expenses &#160; &#160; &#160; Research and development 19.8 22.2 19.7 23.8 Sales, general and administrative 7.8 10.9 8.3 12.3 Total operating expenses 27.6 33.1 28.0 36.1 Income from operations 37.6 29.5 36.7 25.9 Interest income 0.1 0.1 0.1 0.4 Interest expense (0.9) (1.1) (0.9) (1.1) Other, net 0.3 (0.1) 0.8 &#8212; Other income (expense), net 
+
+(0.5) (1.1) &#8212; (0.7) Income before income tax 37.1 28.4 36.7 25.2 Income tax expense 2.4 0.3 1.7 0.5 Net income 34.7 % 28.1 % 35.0 % 24.7 % 
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+Three Months Ended Nine Months Ended &#160; October 31, 2021 October 25, 2020 $ Change % Change October 31, 2021 October 25, 2020 $ Change % Change &#160; ($ in millions) Graphics $ 4,092 $ 2,787 $ 1,305 47 % $ 11,450 $ 6,778 $ 4,672 69 % Compute &#38; Networking 3,011 1,939 1,072 55 % 7,821 4,894 2,927 60 % Total $ 7,103 $ 4,726 $ 2,377 50 % $ 19,271 $ 11,672 $ 7,599 65 % 
+
+Graphics - Graphics segment revenue increased 47% in the third quarter of fiscal year 2022 compared to the third quarter of fiscal year 2021 and 69% in the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2021, reflecting strong demand for our NVIDIA Ampere architecture products. Additionally, revenue increased from growth in desktop and mobile workstation GPUs. 
+
+Compute &#38; Networking - Compute &#38; Networking segment revenue increased 55% for the third quarter of fiscal year 2022 compared to the third quarter of fiscal year 2021 and 60% in the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2021. Year-on-year growth in the third quarter was driven by sales of NVIDIA Ampere architecture products to vertical industries, and to hyperscale customers for cloud computing and workloads such as natural language processing and deep recommender models. The increase in the first nine months of fiscal year 2022 also reflects the addition of Mellanox, which we acquired on April 27, 2020, and CMP products. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States accounted for 84% and 85% of total revenue for the third quarter and first nine months of fiscal year 2022, respectively, and 81% and 80% of total revenue for the third quarter 
+
+and first nine months of fiscal year 2021, respectively. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+No customer represented 10% or more of total revenue for the third quarter and first nine months of fiscal years 2022 or 2021. 
+
+Gross Margin 
+
+Our overall gross margin increased to 65.2% and 64.7% for the third quarter and first nine months of fiscal year 2022, respectively, from 62.6% and 62.0% for the third quarter and first nine months of fiscal year 2021, respectively. The year-on-year increase in the third quarter was primarily due to a higher-end mix within desktop and notebook GeForce GPUs, reflecting strong demand for our Ampere architecture. The increase in the first nine months was primarily due to a higher-end mix within desktop and notebook GeForce GPUs, partially offset by a mix shift within the Compute &#38; Networking segment. These increases also benefited from a reduced impact of acquisition-related costs. 
+
+Inventory provisions totaled $107 million and $15 million for the third quarter of fiscal years 2022 and 2021, respectively. Sales of inventory that was previously written-off or -down totaled $48 million and $29 million for the third quarter of fiscal years 2022 and 2021, respectively. As a result, the overall net effect on our gross margin was an unfavorable impact of 0.8% and a favorable impact of 0.3% in the third quarter of fiscal years 2022 and 2021, respectively. 
+
+Inventory provisions totaled $238 million and $96 million for the first nine months of fiscal years 2022 and 2021, respectively. Sales of inventory that was previously written-off or -down totaled $89 million and $116 million for the first nine months of fiscal years 2022 and 2021, respectively. As a result, the overall net effect on our gross margin was an unfavorable impact of 0.8% and a favorable impact of 0.2% in the first nine months of fiscal years 2022 and 2021, respectively. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+Graphics - The gross margin of our Graphics segment increased during the third quarter and first nine months of fiscal year 2022 compared to the third quarter and first nine months of fiscal year 2021, primarily due to a higher-end mix within desktop and notebook GeForce GPUs. 
+
+Compute &#38; Networking - The gross margin of our Compute &#38; Networking segment increased during the third quarter of fiscal year 2022 compared to the third quarter of fiscal year 2021 due to higher average selling prices of our compute products, partially offset by product mix. The gross margin of our Compute &#38; Networking segment decreased during the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2021, primarily due to a shift in product mix, partially offset by higher average selling prices of our compute products and a reduced contribution from Automotive solutions. 
+
+Operating Expenses 
+
+&#160; Three Months Ended Nine Months Ended &#160; October 31, 2021 October 25, 2020 $ Change % Change October 31, 2021 October 25, 2020 $ Change % Change &#160; ($ in millions) Research and development expenses $ 1,403 $ 1,047 $ 356 34 % $ 3,802 $ 2,778 $ 1,024 37 % % of net revenue 20 % 22 % 20 % 24 % Sales, general and administrative expenses 557 515 42 8 % 1,603 1,437 166 12 % % of net revenue 8 % 11 % 8 % 12 % Total operating expenses $ 1,960 $ 1,562 $ 398 25 % $ 5,405 $ 4,215 $ 1,190 28 % 
+
+Research and Development 
+
+Research and development expenses increased by 34% during the third quarter of fiscal year 2022 compared to the third quarter of fiscal year 2021, primarily driven by employee additions and higher employee compensation, including stock-based compensation, and infrastructure costs. 
+
+Research and development expenses increased by 37% during the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2021, primarily driven by employee additions and higher employee compensation, including stock-based compensation, infrastructure costs, and the acquisition of Mellanox. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 8% during the third quarter of fiscal year 2022 compared to the third quarter of fiscal year 2021, primarily driven by employee additions and higher employee compensation, including stock-based compensation, partially offset by lower amortization of intangible assets. 
+
+Sales, general and administrative expenses increased by 12% during the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2021, primarily driven by employee additions and higher employee compensation, including stock-based compensation, the acquisition of Mellanox, partially offset by lower amortization of intangible assets. 
+
+Other Income (Expense), Net 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $7 million for both the third quarters of fiscal years 2022 and 2021, and $20 million and $50 million during the first nine months of fiscal years 2022 and 2021, respectively. The decrease in interest income was primarily due to lower interest rates earned on our investments. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to our September 2016 Notes, March 2020 Notes, and June 2021 Notes. Interest expense was $62 million and $53 million during the third quarter of fiscal years 2022 and 2021, respectively, and $175 million and $131 million during the first nine months of fiscal years 2022 and 2021, respectively. 
+
+Other, net, consists primarily of realized or unrealized gains and losses from investments in non-affiliated entities and the impact of changes in foreign currency rates. Other, net, was an income of $22 million and $160 million during the third quarter and first nine months of fiscal year 2022, respectively, and not significant during the third quarter and first nine months of fiscal year 2021. The increase during the third quarter and first nine months of fiscal year 2022 was primarily due to unrealized gains from our investments in non-affiliated entities. Refer to Note 8 of the Notes to Condensed Consolidated Financial Statements for additional information regarding our investments in non-affiliated entities. 
+
+Income Taxes 
+
+We recognized an income tax expense of $174 million and $327 million for the third quarter and first nine months of fiscal year 2022, respectively, and an income tax expense of $12 million and $64 million for the third quarter and first nine months of fiscal year 2021, respectively. The income tax expense as a percentage of income before income tax was 6.6% and 4.6% for the third quarter and first nine months of fiscal year 2022, respectively, and 0.9% and 2.2% for the third quarter and first nine months of fiscal year 2021, respectively. 
+
+The increase in our effective tax rate for the third quarter and first nine months of fiscal year 2022 as compared to the same periods of fiscal year 2021 was primarily due to an increase in the amount of earnings subject to U.S. tax, and a decreased impact of tax benefits from stock-based compensation and the U.S. federal research tax credit, partially offset, for the first nine months, by the discrete benefit of the Domestication. Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information, including the Domestication. 
+
+Liquidity and Capital Resources 
+
+&#160; October 31, 2021 January 31, 2021 &#160; (In millions) Cash and cash equivalents $ 1,288 $ 847 Marketable securities 18,010 10,714 Cash, cash equivalents and marketable securities $ 19,298 $ 11,561 
+
+&#160; Nine Months Ended October 31, 2021 October 25, 2020 &#160; (In millions) Net cash provided by operating activities $ 6,075 $ 3,755 Net cash used in investing activities $ (8,244) $ (16,546) Net cash provided by financing activities $ 2,610 $ 4,146 
+
+As of October 31, 2021, we had $19.30 billion in cash, cash equivalents and marketable securities, an increase of $7.74 billion from the end of fiscal year 2021. Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain maturity limits on our portfolio. 
+
+Cash provided by operating activities increased in the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2021, due to higher net income, partially offset by changes in working capital. Changes in working capital were primarily driven by prepayments of $1.65 billion for long-term supply agreements and increases in trade receivables due to higher revenue. 
+
+Cash used in investing activities decreased in the first nine months of fiscal year 2022 compared to cash used in the first nine months of fiscal year 2021, primarily driven by the acquisition of Mellanox in the second quarter of fiscal year 2021, and higher marketable securities sales and maturities, partially offset by higher purchases of marketable securities. 
+
+Cash provided by financing activities decreased in the first nine months of fiscal year 2022 compared to cash provided in the first nine months of fiscal year 2021, which primarily reflects a debt repayment in the third quarter of fiscal year 2022 and higher tax payments on restricted stock units. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of October 31, 2021, we had $19.30 billion in cash, cash equivalents, and marketable securities. Our marketable securities consist of certificates of deposits and debt securities issued by the U.S. government and its agencies, highly rated corporations and financial institutions, and foreign government entities. These marketable securities are primarily denominated in U.S. dollars. Refer to Note 7 of the Notes to Condensed Consolidated Financial Statements for additional information. We believe that we have sufficient liquidity to meet our operating requirements for at least the next 12 months, and for the foreseeable future, including our proposed acquisition of Arm and current and future obligations to secure normal and incremental supply. We continuously evaluate our liquidity and capital resources, including our access to external capital, to ensure we can finance our future capital requirements. 
+
+We have approximately $1.9 billion of cash, cash equivalents, and marketable securities held outside the U.S. for which we have not accrued any related foreign or state taxes if we repatriate these amounts to the U.S. Other than that, substantially all of our cash, cash equivalents and marketable securities held outside of the U.S. as of October 31, 2021 are available for use in the U.S. without incurring additional U.S. federal income taxes. Following the Domestication, we expect to fully utilize our accumulated U.S. federal research tax credits during fiscal year 2022, resulting in higher cash tax payments starting in fiscal year 2023. 
+
+Capital Return to Shareholders 
+
+In the first nine months of fiscal year 2022, we paid $298 million in quarterly cash dividends. Our cash dividend program and the payment of future cash dividends under that program are subject to the continuing determination by our Board of Directors that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. 
+
+As of October 31, 2021, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022. We did not repurchase any shares during the first nine months of fiscal year 2022. 
+
+Outstanding Indebtedness and Commercial Paper 
+
+As of October 31, 2021, we had outstanding: 
+
+&#8226; $1.25 billion of Notes Due 2023; 
+
+&#8226; $1.25 billion of Notes Due 2024; 
+
+&#8226; $1.00 billion of Notes Due 2026; 
+
+&#8226; $1.25 billion of Notes Due 2028; 
+
+&#8226; $1.50 billion of Notes Due 2030; 
+
+&#8226; $1.25 billion of Notes Due 2031; 
+
+&#8226; $1.00 billion of Notes Due 2040; 
+
+&#8226; $2.00 billion of Notes Due 2050; and 
+
+&#8226; $500 million of Notes Due 2060. 
+
+On August 16, 2021, we repaid the $1.00 billion of 2.20% Notes Due 2021. 
+
+We have a $575 million commercial paper program to support general corporate purposes. As of October 31, 2021, we had not issued any commercial paper. 
+
+Contractual Obligations 
+
+We have $163 million of long-term tax liabilities related to tax basis differences in Mellanox and unrecognized tax benefits of $638 million, which includes related interest and penalties of $60 million recorded in non-current income tax payable as of October 31, 2021. We are unable to reasonably estimate the timing of any potential tax liability, interest payments, or penalties in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. We are currently under examination by the Internal Revenue Service for our fiscal years 2018 and 2019. Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Other than the contractual obligations described above, there were no material changes outside the ordinary course of business in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 31, 2021. Refer to Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for the fiscal year ended January 31, 2021 for a description of our contractual obligations. For a description of our operating lease obligations, long-term debt, and purchase obligations, refer to Note 3, Note 12, and Note 13 of the Notes to Condensed Consolidated Financial Statements, respectively. 
+
+Climate Change 
+
+In the area of sustainability, we continue to address our climate impact across our product lifecycle and to assess relevant risks, including current and emerging regulations and market impacts. We undertake efforts to reduce greenhouse gas emissions, water usage and waste in our data centers, labs and offices, including sourcing a portion of our global electricity from renewable energy. Our investments include sustainability features when opening new offices and new construction to incorporate green building standards, such as our LEED Gold headquarters in Santa Clara, California, and energy-efficient systems and technologies in our data centers. We focus on energy efficiency in our processor design and utilize recyclable packaging to minimize our environmental footprint. To date, there has been no material impact to our results of operations associated with global sustainability regulations, compliance, or costs from sourcing renewable energy. We have announced plans to build the world&#8217;s most powerful AI supercomputer, Earth-2, dedicated to predicting climate change. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Refer to Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of a new and recently issued accounting pronouncement. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 31, 2021 and Item 1A of our Quarterly Reports on Form 10-Q for the fiscal quarters ended May 2, 2021 and August 1, 2021. 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 31, 2021 and Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarters ended May 2, 2021 and August 1, 2021. Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+
+Risks Related to Our Supply and Manufacturing 
+
+We depend on third parties and their technology to manufacture, assemble, test and/or package our products, which reduces our control over product quantity and quality, manufacturing yields, development, enhancement and product delivery schedule and could harm our business. 
+
+We do not manufacture the silicon wafers used for our products and do not own or operate a wafer fabrication facility. Instead, we are dependent on industry-leading foundries, such as Taiwan Semiconductor Manufacturing Company Limited and Samsung Electronics Co. Ltd., to manufacture our semiconductor wafers using their fabrication equipment and techniques. Similarly, we do not directly assemble, test or package our products, but instead rely on independent subcontractors. We must continue to scale and adapt our supply chain or it could have an adverse impact on our business. While we may enter into long-term supply and capacity commitments as our business grows or in periods with limited availability of capacity and components in our supply chain, we may not be able to secure sufficient commitments to address our business needs or at all. As a result, we face several significant risks which could have an adverse effect on our ability to meet customer demand and scale our supply chain and/or negatively impact longer-term demand for our products and services, our business operations, gross margin, revenue and/or financial results, including: 
+
+&#8226; a lack of guaranteed supply of wafers, components and capacity and potential higher wafer and component prices, which could be impacted by our failure to correctly estimate demand and to place orders with our suppliers in sufficient quantities and/or in a timely manner; 
+
+&#8226; a failure by our foundries or contract manufacturers to procure raw materials or to provide or allocate adequate, or any, manufacturing or test capacity for our products; 
+
+&#8226; a failure by our foundries to develop, obtain or successfully implement high quality, leading-edge process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products profitably or on a timely basis; 
+
+&#8226; a limited number of suppliers, including foundries, contract manufacturers, assembly and test providers, and memory manufacturers; 
+
+&#8226; loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; 
+
+&#8226; a lack of direct control over delivery schedules or product quantity and quality; and 
+
+&#8226; delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors&#8217; orders over our orders or otherwise. 
+
+In addition, low manufacturing yields could have an adverse effect on our ability to meet customer demand, increase manufacturing costs, harm customer or partner relationships, and/or negatively impact our business operations, gross margin, revenue and/or financial results. Manufacturing yields for our products are a function of product design, which is developed largely by us, and process technology, which typically is proprietary to the foundry. Low yields may result from either product design or process technology failure. We do not know whether a yield problem will exist until our design is actually manufactured by the foundry. As a result, yield problems may not be identified until well into the manufacturing process and require us and the foundry to cooperate to resolve the problem. 
+
+We also rely on third-party software development tools to assist us in the design, simulation and verification of new products or product enhancements, and to bring such new products and enhancements to market in a timely manner. In the past, we have experienced delays in the introduction of products and enhancements as a result of the inability of then available software development tools to fully simulate the complex features and functionalities of our products. The design requirements necessary to meet consumer demands for more features and greater functionality from our products may exceed the capabilities of available software development tools. If we miss design cycles or lose design wins due to the unavailability of such software development tools, we could lose market share and our revenues could decline. If we fail to achieve design wins for our products, our business will be harmed. 
+
+Risks Related to Our Operating Business 
+
+If we fail to estimate customer demand properly or if demand exceeds supply, our financial results could be harmed. 
+
+Our products are manufactured based on estimates of customers&#8217; future demand and our manufacturing lead times are very long. This could lead to a significant mismatch between supply and demand, giving rise to product shortages or excess inventory, and make our demand forecast more uncertain. We sell many of our products through a channel model, and our channel customers sell to retailers, distributors, and/or end customers. As a result, the decisions made by our channel partners, retailers, and distributors in response to changing market conditions and the changing demand for our products could impact our ability to properly forecast demand. To have shorter shipment lead times and quicker delivery schedules for our customers, we may build finished products and maintain in inventory for anticipated periods of growth which do not occur, anticipating demand that does not materialize, or for what we believe is pent-up demand. In periods with limited availability of capacity and components in our supply chain, we have placed and may continue to place non-cancellable inventory orders in advance of our normal lead times, pay premiums and/or provide deposits to secure normal and incremental future supply and capacity. Ordering product in advance of our normal lead times to secure supply in a constrained environment may trigger excess inventory or other charges if there is a partial or complete reduction in long term demand for our products or if such demand is served by our competitors, which could negatively impact our financial results. Given our long lead times on inventory purchasing, demand may be perishable or may disappear. Demand for our products is based on many factors, including our product introductions, time to market, and transitions, competitor product releases and announcements, and competing technologies, all of which can impact the timing and volume of our revenue. GPUs have many use cases including their intended marketed use case and other uses. For example, GPUs can be used for digital currency mining, though we do not have visibility into how much of our GPU usage is for cryptocurrency nor the past or future demand for GPU usage in cryptocurrency mining. Volatility in the cryptocurrency market, including new compute technologies, price changes in cryptocurrencies, changes in government cryptocurrency policies and regulations, and new cryptocurrency standards can impact cryptocurrency demand, and further impact demand for our products and our ability to estimate demand for our products. Changes to cryptocurrency standards and processes including, but not limited to, the pending Ethereum 2.0 standard may decrease the usage of GPUs for Ethereum mining and may also create increased aftermarket resales of our GPUs, impact retail prices for our GPUs, increase returns of our products in the distribution channel, and may reduce demand for our new GPUs. Although we have introduced LHR GeForce GPUs with limited Ethereum mining capability in order to address demand from gamers, if attempts in the aftermarket to improve the hash rate capabilities of our LHR cards are successful, our gaming cards may become attractive to miners and increase demand for our GPUs, and therefore exacerbate our ability to supply our cards to gamers or other customers. Additionally, consumer and enterprise behavior during the COVID-19 pandemic, such as increased demand for our Gaming, Data Center and mobile workstation and laptop products and suppressed corporate demand for desktop workstations, has made it more difficult for us to estimate future demand, and these challenges may be more pronounced in the future if and when the effects of the pandemic subside. In estimating demand, we make multiple assumptions, any of which may prove to be incorrect. If we are unable to accurately anticipate demand for our products, our business and financial results could be adversely impacted. Situations that may result in excess or obsolete inventory include: 
+
+&#8226; changes in business and economic conditions, including downturns in our target markets and/or overall economy; 
+
+&#8226; changes in consumer confidence caused by changes in market conditions, including changes in the credit market; 
+
+&#8226; a sudden and significant decrease in demand for our products; 
+
+&#8226; a higher incidence of inventory obsolescence because of rapidly changing technology or customer requirements; 
+
+&#8226; our introduction of new products resulting in lower demand for older products; 
+
+&#8226; less demand than expected for newly-introduced products; or 
+
+&#8226; increased competition, including competitive pricing actions. 
+
+The cancellation or deferral of customer purchase orders could result in our holding excess inventory, which could adversely affect our gross margins. In addition, because we often sell a substantial portion of our products in the last month of each quarter, we may not be able to reduce our inventory purchase commitments in a timely manner in response to customer cancellations or deferrals. We could be required to write-down our inventory to the lower of cost 
+
+or net realizable value or excess inventory, and we could experience a reduction in average selling prices if we incorrectly forecast product demand, any of which could harm our financial results. 
+
+Conversely, if we underestimate our customers' demand for our products, our foundry partners may not have adequate lead-time or capacity to increase production and we may not be able to obtain sufficient inventory to fill customers' orders on a timely basis. We may also face supply constraints caused by natural disasters or other events. In such cases, even if we are able to increase production levels to meet customer demand, we may not be able to do so in a cost-effective or timely manner. If we fail to fulfill our customers' orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market share and our reputation could be damaged. 
+
+System security and data protection breaches, as well as cyber-attacks, could disrupt our operations, reduce our expected revenue and increase our expenses, which could adversely affect our stock price and damage our reputation. 
+
+Security breaches, computer malware, phishing, and cyber-attacks continue to become more prevalent and sophisticated. These threats are constantly evolving, making it increasingly difficult to successfully defend against them or implement adequate preventative measures. These attacks have occurred on our systems in the past and are expected to occur in the future. Experienced computer programmers, attackers and employees may penetrate our security controls and misappropriate or compromise our confidential information, or that of our employees or third parties. These attacks may create system disruptions or cause shutdowns. Attackers may also develop and deploy viruses, worms and other malicious software that attacks or otherwise exploits security vulnerabilities in our products and services, including consumer, enterprise and automotive products. For portions of our critical infrastructure, including business management and communication software products, we rely on products and services provided by third parties, potentially exposing us to supply-chain attacks which may impact our systems. Data security breaches may also result from non-technical means, such as actions by an employee with access to our systems. To defend against security threats, both to our internal systems and those of our customers, we must continuously engineer more secure products and enhance security and reliability features, which may result in increased expenses. We must also continue to develop security measures within NVIDIA, ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers or our business could be negatively impacted. 
+
+Actual or perceived breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us, our partners, our customers or third parties could expose us and the parties affected to a risk of loss or misuse of this information, resulting in litigation and potential liability, paying damages, regulatory inquiries or actions, damage to our brand and reputation or other harm to our business. Reported or perceived vulnerabilities, even if not exploited, can cause us harm. Our efforts to prevent and overcome these and similar challenges could increase our expenses and may not be successful. We may experience interruptions, delays, cessation of service and loss of existing or potential customers. Such disruptions could adversely impact our ability to fulfill orders and interrupt other critical functions. Delayed sales, lower margins or lost customers as a result of these disruptions could adversely affect our financial results, stock price and reputation. 
+
+Our operating results have in the past fluctuated and may in the future fluctuate, and if our operating results are below the expectations of securities analysts or investors, our stock price could decline. 
+
+Our operating results have in the past fluctuated and may in the future continue to fluctuate due to numerous factors. Therefore, investors should not rely on quarterly comparisons of our results of operations as an indication of our future performance. Additional factors, other than or in addition to those described elsewhere in these risk factors, that could affect our results of operations in the future include, but are not limited to: 
+
+&#8226; our ability to achieve volume production of our next-generation products; 
+
+&#8226; our inability to adjust spending to offset revenue shortfalls due to the multi-year development cycle for some of our products and services; 
+
+&#8226; fluctuations in the demand for our products related to cryptocurrencies and COVID-19, as discussed further in the risk factor &#8220;If we fail to estimate customer demand properly, our financial results could be harmed&#8221; above; 
+
+&#8226; supply constraints for and changes in the cost of the other components incorporated into our products; 
+
+&#8226; changes in the timing of product orders due to unexpected delays in the introduction of our partners&#8217; products; 
+
+&#8226; our ability to cover the manufacturing and design costs of our products through competitive pricing; 
+
+&#8226; our ability to comply and continue to comply with our customers&#8217; contractual obligations; 
+
+&#8226; product rates of return in excess of that forecasted or expected due to quality issues; 
+
+&#8226; our ability to secure appropriate safety certifications and meet industry safety standards; 
+
+&#8226; rising inflation and our ability to control costs, including our operating expenses; 
+
+&#8226; inventory write-downs; 
+
+&#8226; our ability to continue generating revenue from our partner network, including by generating sales within our partner network and ensuring our products are incorporated into our partners product ecosystems, and our partner network&#8217;s ability to sell products that incorporate our technologies; 
+
+&#8226; our dependence on third party vendors and end users to adopt our products, including InfiniBand; 
+
+&#8226; the inability of certain of our customers to make required payments to us, and our ability to obtain credit insurance over the purchasing credit extended to these customers; 
+
+&#8226; customer bad debt write-offs; 
+
+&#8226; any unanticipated costs associated with environmental liabilities; 
+
+&#8226; unexpected costs related to our ownership of real property; 
+
+&#8226; our ability to maintain and scale our business processes, information systems and internal controls; 
+
+&#8226; increases in our future tax rates, as discussed further in the risk factor &#8220;We may have exposure to additional tax liabilities and our operating results may be adversely impacted by higher than expected tax rates&#8221; below; 
+
+&#8226; changes in financial accounting standards or interpretations of existing standards; and 
+
+&#8226; general macroeconomic or industry events and factors affecting the overall market and our target markets. 
+
+Any one or more of the factors discussed above could prevent us from achieving our expected future financial results. Any such failure to meet our expectations or the expectations of our investors or security analysts could cause our stock price to decline or experience substantial price volatility. 
+
+We may not be able to realize the potential benefits of business acquisitions or investments, including the Mellanox acquisition and the planned Arm acquisition, and we may not be able to successfully integrate acquisition targets, which could hurt our ability to grow our business, develop new products or sell our products. 
+
+We hold and may in the future hold investments in publicly traded companies which could create volatility in our results and may generate losses up to the value of the investment. We have in the past acquired and invested in, and may continue to acquire and invest in, other businesses that offer products, services and technologies that we believe will help expand or enhance our existing products, strategic objectives and business. We completed our acquisition of Mellanox for approximately $7 billion in April 2020. In September 2020, we announced our agreement to acquire all shares of Arm in a transaction valued at $40 billion. The actual valuation of the transaction will likely differ significantly from the estimated amount due to the significant increase in the price of our common stock since entry into the Purchase Agreement. 
+
+We are seeking regulatory approval for our proposed acquisition of Arm in the United States, the United Kingdom, the European Union, China and other jurisdictions. Regulators at the FTC have expressed concerns regarding the transaction, and we are engaged in discussions with the FTC regarding remedies to address those concerns. The transaction has been under the review of China&#8217;s antitrust authority, pending the formal case initiation. Regulators in the United Kingdom and the European Union declined to clear the transaction in Phase 1 of their review processes, expressed numerous concerns, and began a more in-depth Phase 2 review on the transactions impact on competition, and, in the United Kingdom, a Phase 2 review of the impact on the United Kingdom&#8217;s national security interests. We are in discussions with regulators in the United States, United Kingdom and European Union regarding our proposed remedies. Unless regulators accept our proposed remedies and approve the transaction, the regulatory process is likely to extend beyond September 2022, which may result in the termination of the Purchase Agreement and the failure to close the transaction.&#8239;If the transaction does not close due to failure to receive regulatory approval, and all other 
+
+covenants have been met, we will not be refunded $1.25 billion of the advanced consideration for the acquisition we paid at signing. 
+
+The Mellanox acquisition, the planned Arm acquisition and future acquisitions or investments involve significant challenges and risks, and could impair our ability to grow our business, develop new products or sell our products, and ultimately could have a negative impact on our growth or our financial results. Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives. Furthermore, if we are unable to complete acquisitions in a timely manner, including due to delays in obtaining regulatory approvals, such as with respect to the planned Arm acquisition, we may be unable to pursue other transactions, we may not be able to retain critical talent from the target company, technology may evolve, making the acquisition less attractive, and other changes can take place which could jeopardize or reduce the anticipated benefits of the transaction and negatively impact our business. In addition, we have made and may in the future make strategic investments in private companies and may not realize a return on our investments. Additional risks related to the Mellanox acquisition, the planned Arm acquisition and other acquisitions or strategic investments include, but are not limited to: 
+
+&#8226; difficulty in combining the technology, products, or operations of the acquired business with our business; 
+
+&#8226; difficulty in integrating and retaining the acquired workforce, including key employees; 
+
+&#8226; diversion of capital and other resources, including management&#8217;s attention; 
+
+&#8226; assumption of liabilities and incurring amortization expenses, impairment charges to goodwill or write-downs of acquired assets; 
+
+&#8226; integrating financial forecasting and controls, procedures and reporting cycles; 
+
+&#8226; coordinating and integrating operations in countries in which we have not previously operated; 
+
+&#8226; acquiring business challenges and risks, including, but not limited to, disputes with management and integrating international operations and joint ventures; 
+
+&#8226; difficulty in realizing a satisfactory return, if any return at all; 
+
+&#8226; difficulty in obtaining or inability to obtain governmental and regulatory consents and approvals, other approvals or financing; 
+
+&#8226; the impact of complying with governmental or other regulatory restrictions placed on an acquisition; 
+
+&#8226; the impact on our stock price and financial results or reputation if we are unable to obtain regulatory approval for an acquisition, are required to pay reverse breakup fees or are otherwise unable to close an acquisition; 
+
+&#8226; failure and costs associated with the failure to consummate a proposed acquisition or other strategic investment, including any negative publicity associated with any of these events; 
+
+&#8226; legal proceedings initiated as a result of an acquisition or investment; 
+
+&#8226; the potential for our acquisitions to result in dilutive issuances of our equity securities; 
+
+&#8226; the potential variability of the amount and form of any performance-based consideration; 
+
+&#8226; uncertainties and time needed to realize the benefits of an acquisition or strategic investment, if at all; 
+
+&#8226; negative changes in general economic conditions in the regions or the industries in which we or our target operate; 
+
+&#8226; the need to determine an alternative strategy if an acquisition does not meet our expectations; 
+
+&#8226; potential failure of our due diligence processes to identify significant issues with the acquired assets or company; and 
+
+&#8226; impairment of relationships with, or loss of our or our target&#8217;s employees, vendors and customers, as a result of our acquisition or investment. 
+
+Climate change may have a long-term impact on our business. 
+
+Climate change may have an increasingly adverse impact on our business and those of our customers, partners and vendors. While we seek to mitigate the risks associated with&#8239;climate&#8239;change&#8239;on our operations, there are inherent&#8239;climate-related risks globally. Water and energy availability and reliability in the communities where we conduct business is critical. We have facilities in regions that may be vulnerable to the impacts of extreme weather events. For example, extreme heat in Northern California combined with concerns about wildfire risk have led to, and in the future may lead to, several prolonged power safety shut offs that have had, and in the future may have, adverse implications for our Santa Clara, California headquarter operations. Severe weather events such as these may impair the ability of our employees to work effectively. Climate change, including the increasing frequency of extreme weather, its impact on our supply chain and critical infrastructure worldwide and its potential to increase political instability in regions where we, our customers, partners and our vendors do business, may disrupt our business and may cause us to experience higher attrition, losses and costs to maintain or resume operations. Although we maintain a program of insurance coverage for a variety of property, casualty, and other risks, the types and amounts of insurance we obtain vary depending on availability and cost. Some of our policies have large deductibles and broad exclusions. In addition, one or more of our insurance providers may be unable or unwilling to pay a claim. Losses not covered by insurance may be large, which could harm our results of operations and financial condition. 
+
+Our operations, products and services, as well as those of our suppliers and customers, may also be subject to climate-related laws, regulations and lawsuits. Regulations such as carbon taxes, fuel or energy taxes, and pollution limits could result in greater direct costs, including manufacturing costs such as costs associated with changes to manufacturing processes or the procurement of raw materials used in manufacturing processes, increased levels of capital expenditures to improve facilities and equipment, and higher compliance and energy costs to reduce emissions, as well as greater indirect costs resulting from our customers, suppliers or both incurring additional compliance costs that are passed on to us. These costs and restrictions could harm our business and results of operations by increasing our expenses or requiring us to alter our operations and product design activities. Furthermore, while we have endeavored to provide transparency by disclosing our environmental, social and governance efforts, it is possible that if we are deemed by one or more stakeholder groups to be insufficiently responsive to the implications of climate change to our business or insufficiently forthcoming about our practices, we could face legal action or reputational harm. For example, we may not achieve our goal to source 65% of our global electricity use from renewable energy by the end of fiscal year 2025, which could harm our reputation, or we may incur additional, unexpected costs to achieve such a goal, which could affect our business and financial condition in an adverse manner. We may also experience contractual disputes due to supply chain delays arising from climate change-related disruptions, which could result in increased litigation and costs. 
+
+We also face risks related to business trends that may be influenced by climate change concerns. For example, decreased consumer or customer demand for computationally powerful but energy intensive products, such as our GPUs, despite their energy efficient design, and/or increased consumer or customer expectations around the energy efficiency of our products, could negatively impact our business and financial performance. We may also face increased competition to develop additional products and services with a lower carbon impact, and our investments in new technologies may not be successful. Additionally, these changing trends related to climate change may negatively affect our attractiveness to existing and prospective employees, which may make it difficult for us to attract and/or retain critical personnel. 
+
+Our business is dependent upon the proper functioning of our business processes and information systems and modification or interruption of such systems may disrupt our business, processes and internal controls. 
+
+We rely upon a number of internal business processes and information systems to support key business functions, including our assessment of internal controls over financial reporting as required by Section 404 of the Sarbanes-Oxley Act. The efficient operation of these processes and systems is critical to our business. Our business processes and information systems need to be scalable to support our growth, including for acquisitions of other businesses. We will need to make modifications and upgrades from time to time in order to meet our business needs. We expect in the first quarter of fiscal year 2023 to commence implementation of accounting and consolidation functionality related to a new enterprise resource planning, or ERP, system. Any ERP system problems upon implementation, such as quality issues or programming errors, could impact our continued ability to successfully operate our business or to timely and accurately report our financial results. These changes may be costly and disruptive to our operations and could impose substantial demands on management time. Failure to implement new or updated controls, or difficulties encountered in the implementation of such controls, either in our existing business or in businesses that we acquire, could harm our operating results or cause us to fail to meet our reporting obligations. 
+
+If we identify material weaknesses in our internal controls, the disclosure of that fact, even if quickly remediated, may cause investors to lose confidence in our financial statements and the trading price of our common stock may decline. Remediation of any material weakness could require us to incur significant expenses and if we fail to remediate any material weakness, our financial statements may be inaccurate, we may be required to restate our financial statements, our ability to report our financial results on a timely and accurate basis may be adversely affected, our access to the capital markets may be restricted, the trading price of our common stock may decline, and we may be subject to sanctions or investigation by regulatory authorities. 
+
+Risks Related to Regulatory, Legal, Our Common Stock and Other Matters 
+
+We may have exposure to additional tax liabilities and our operating results may be adversely impacted by higher than expected tax rates. 
+
+As a multinational corporation, we are subject to income taxes as well as non-income based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions. Our domestic and international tax liabilities are subject to the allocation of revenue and expenses in different jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities. We are regularly under audit by tax authorities in different jurisdictions. For example, we are currently under examination by the Internal Revenue Service for our fiscal years 2018 and 2019 and under audit in Germany, Israel and India. Although we believe our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows. Further, changes in United States federal, and state or international tax laws applicable to multinational corporations or other fundamental law changes, including proposed changes to existing tax rules and regulations under the current U.S. administration and Congress and as a result of recommendations from intergovernmental economic organizations such as the Organization for Economic Cooperation and Development, may materially impact our tax expense and cash flows, as we experienced in fiscal year 2018 with the passage of the Tax Cuts and Jobs Act. 
+
+Our future effective tax rate may also be affected by such factors as changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in the domestic or international organization of our business and structure, as well as the expiration of statute of limitations and settlements of audits. Any changes in our effective tax rate may reduce our net income. 
+

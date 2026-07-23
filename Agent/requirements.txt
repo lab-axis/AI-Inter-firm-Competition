@@ -1,0 +1,23 @@
+# Agent pipeline dependencies (GDELT collection → Neo4j → TemporalRAG)
+# (For the TemporalRAG FastAPI service, see Agent/TemporalRAG/requirements.txt)
+
+# Data processing
+pandas
+numpy
+
+# Neo4j graph DB driver
+neo4j
+
+# Article body crawling / extraction
+newspaper3k
+trafilatura
+beautifulsoup4
+requests
+aiohttp
+
+# Agent / orchestration
+langgraph
+pydantic
+
+# Environment variables
+python-dotenv

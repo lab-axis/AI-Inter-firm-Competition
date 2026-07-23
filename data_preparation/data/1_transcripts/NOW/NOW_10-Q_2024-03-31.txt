@@ -1,0 +1,260 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; 
+
+The following discussion and analysis of our financial condition, results of operations and cash flows should be read in conjunction with the (1) unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, and (2) the audited consolidated financial statements and notes thereto and management&#8217;s discussion and analysis of financial condition and results of operations for the year ended December 31, 2023 included in the Annual Report on Form 10-K filed with the Securities and Exchange Commission (the &#8220;SEC&#8221;), on January 25, 2024. This Quarterly Report on Form 10-Q contains &#8220;forward-looking statements&#8221; within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;). These statements are often identified by the use of words such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;believe,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;could,&#8221; &#8220;estimate,&#8221; or &#8220;continue,&#8221; and similar expressions or variations. Forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to those identified herein, and those discussed in the section titled &#8220;Risk Factors&#8221; in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC on January 25, 2024 and in Part II, Item 1A of this Quarterly Report on Form 10-Q and in our other SEC filings. We disclaim any obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. 
+
+Investors and others should note that we announce material financial information to our investors using our investor relations website (https://www.servicenow.com/company/investor-relations.html), SEC filings, press releases, public conference calls and webcasts. We use these channels, as well as social media, to communicate with our investors and the public about our Company, our services and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media and others interested in our Company to review the information we post on the social media channels listed on our investor relations website. 
+
+Our free cash flow measure included in the section entitled &#8220;Key Business Metrics&#8212;Free Cash Flow,&#8221; is not in accordance with U.S. Generally Accepted Accounting Principles (&#8220;GAAP&#8221;). This non-GAAP financial measure is not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. This measure may be different from non-GAAP financial measures used by other companies, limiting its usefulness for comparison purposes. We encourage investors to carefully consider our results under GAAP, as well as our supplemental non-GAAP results, to more fully understand our business. 
+
+Overview 
+
+ServiceNow was founded on a simple premise: to make work flow better. Our purpose is to make the world work better for everyone. Our intelligent platform, the Now Platform, is a cloud-based solution with embedded artificial intelligence and machine learning capabilities that helps global enterprises across industries, universities and governments unify and digitize their workflows. The Now Platform automates workflows across an entire enterprise by connecting disparate departments, systems and silos in a seamless way to unlock productivity and improve experiences for both employees and customers. Our workflow applications built on the Now Platform are organized along four primary areas: Technology, Customer and Industry, Employee and Creator. The transformation to digital operations, enabled by the Now Platform, increases our customers&#8217; resiliency and security and delivers great experiences and additional value to their C-suite, employees and consumers. 
+
+We are closely monitoring the Russian invasion of Ukraine and the current armed conflict in Israel and the Gaza Strip. While these events are still evolving and the outcomes remain highly uncertain, we do not believe these conflicts will have a material impact on our business and results of operations. However, if the conflicts continue or worsen, leading to greater global economic disruptions and uncertainty, our business and results of operations could be materially impacted. Our customers in these regions represented an immaterial portion of our net assets as of March 31, 2024 and December 31, 2023, and of our total consolidated revenues for each of the three months ended March 31, 2024 and 2023. 
+
+Additionally, other macroeconomic events, including higher interest rates, global inflation and bank failures, have led to economic uncertainty in the global economy. To mitigate risk, our cash and cash equivalents are distributed across several large financial institutions and are not concentrated in one financial institution. We have not experienced any impact to our liquidity or to our current and projected business operations and financial condition due to recent macroeconomic events. Further, we have policy restrictions on the types of securities that can be purchased as part of our available-for-sale debt securities portfolio. These restrictions take industry and company concentration limits into consideration among other things. Furthermore, the majority of our non-marketable equity investments do not have material relationships with any one financial institution, and therefore, we believe that our exposure to loss as a result of bank failure is immaterial. We will continue to monitor the direct and indirect impact of macroeconomic events on our business and financial results. 
+
+See the &#8220;Risk Factors&#8221; section in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC on January 25, 2024 for further discussion of the possible impact of conflicts and macroeconomic events on our business and financial results. 
+
+Key Business Metrics 
+
+Remaining performance obligations. Transaction price allocated to remaining performance obligations (&#8220;RPO&#8221;) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancellable amounts that will be invoiced and recognized as revenue in future periods. RPO excludes contracts that are billed in arrears, such as certain time and materials contracts, as we apply the &#8220;right to invoice&#8221; practical expedient under relevant accounting guidance. Current remaining performance obligations (&#8220;cRPO&#8221;) represents RPO that will be recognized as revenue in the next 12 months. 
+
+As of March 31, 2024, our RPO was $17.7 billion, of which 48% represented cRPO. RPO and cRPO increased by 26% and 21%, respectively, compared to March 31, 2023. Factors that may cause our RPO to vary from period to period include the following: 
+
+&#8226; Foreign currency exchange rates . While a majority of our contracts have historically been in U.S. Dollars, an increasing percentage of our contracts in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates as of the balance sheet date will cause variability in our RPO. 
+
+&#8226; Mix of offerings . In a minority of cases, we allow our customers to host our software by themselves or through a third-party service provider. In self-hosted offerings, we recognize a portion of the revenue upfront upon the delivery of the software and as a result, such revenue is excluded from RPO. 
+
+&#160; 
+
+&#8226; Subscription start date . From time to time, we enter into contracts with a subscription start date in the future and these amounts are included in RPO if such contracts are signed by the balance sheet date. 
+
+&#160; 
+
+&#8226; Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time, customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+&#8226; Contract duration . While we typically enter into multi-year subscription services, the duration of our contracts varies. Further, we continue to see an increase in the number of 12-month agreements entered into with the U.S. federal government throughout the year, with the highest number of agreements entered into in the quarter ended September 30, driven primarily by timing of their annual budget expenditures. We sometimes also enter into contracts with durations that have a 12-month or shorter term to enable the contracts to co-terminate with the existing contract. The contract duration will cause variability in our RPO. 
+
+Number of customers with ACV greater than $1 million. We count the total number of customers with annual contract value (&#8220;ACV&#8221;) greater than $1 million as of the end of the period. We had 1,933 and 1,687 customers with ACV greater than $1 million as of March 31, 2024 and 2023, respectively. For purposes of customer count, a customer is defined as an entity that has a unique Dunn &#38; Bradstreet Global Ultimate (&#8220;GULT&#8221;) Data Universal Numbering System (&#8220;DUNS&#8221;) number and an active subscription contract as of the measurement date. The DUNS number is a global standard for business identification and tracking. We make exceptions for holding companies, government entities and other organizations for which the GULT, in our judgment, does not accurately represent the ServiceNow customer. For example, while all U.S. government agencies roll up to &#8220;Government of the United States&#8221; under the GULT, we count each government agency that we contract with as a separate customer. Our customer count is subject to adjustments for acquisitions, spin-offs and other market activity; accordingly, we restate previously disclosed number of customers with ACV greater than $1 million calculations to allow for comparability. ACV is calculated based on the foreign exchange rate in effect at the time the contract was signed. Foreign exchange rate fluctuations could cause some variability in the number of customers with ACV greater than $1 million. We believe information regarding the total number of customers with ACV greater than $1 million provides useful information to investors because it is an indicator of our growing customer base and demonstrates the value customers are receiving from the Now Platform. 
+
+Free cash flow. We define free cash flow, a non-GAAP financial measure, as GAAP net cash provided by operating activities plus cash outflows for legal settlements, repayments of convertible senior notes attributable to debt discount and business combination and other related costs including compensation expense, reduced by purchases of property and equipment. Purchases of property and equipment are otherwise included in cash used in investing activities under GAAP. We believe information regarding free cash flow provides useful information to investors because it is an indicator of the strength and performance of our business operations. However, our calculation of free cash flow may not be comparable to similar measures used by other companies. A calculation of free cash flow is provided below: 
+
+Three Months Ended March 31, % Change 2024 2023 (dollars in millions) Free cash flow: Net cash provided by operating activities $ 1,341 $ 902 49 % Purchases of property and equipment (135) (165) (18 %) Business combination and other related costs 
+
+19 &#8212; 100 % Free cash flow $ 1,225 $ 737 66 % 
+
+We have historically seen higher collections in the quarter ended March 31 due to seasonality in timing of entering into customer contracts, which is significantly higher in the quarter ended December 31. Additionally, we have historically seen higher disbursements in the quarters ended March 31 and September 30 due to payouts under our annual commission plans, purchases under our employee stock purchase plan, payouts under our bonus plans and coupon payments related to our 2030 Notes beginning in 2021. 
+
+Renewal rate. We calculate our renewal rate by subtracting our attrition rate from 100%. Our attrition rate for a period is equal to the ACV from customers lost during the period, divided by the sum of (i) the total ACV from all customers that renewed during the period, excluding changes in price or users, and (ii) the total ACV from all customers lost during the period. Accordingly, our renewal rate is calculated based on ACV and is not based on the number of customers that have renewed. Further, our renewal rate does not reflect increased or decreased purchases from our customers to the extent such customers are not lost customers or lapsed renewals. A lost customer is a customer that did not renew an expiring contract and that, in our judgment, will not be renewed. Typically, a customer that reduces its subscription upon renewal is not considered a lost customer. However, in instances where the subscription decrease represents the majority of the customer&#8217;s ACV, we may deem the renewal as a lost customer. For our renewal rate calculation, we define a customer as an entity with a separate production instance of our service and an active subscription contract as of the measurement date, instead of an entity with a unique GULT or DUNS number. We adjust our renewal rate for acquisitions, consolidations and other customer events that cause the merging of two or more accounts occurring at the time of renewal. Our renewal rate was 98% for each of the three months ended March 31, 2024 and 2023. As our renewal rate is impacted by the timing of renewals, which could occur in advance of, or subsequent to the original contract end date, period-to-period comparison of renewal rates may not be meaningful. 
+
+Components of Results of Operations 
+
+&#160; 
+
+Revenues 
+
+Subscription revenues . Subscription revenues are primarily comprised of fees that give customers access to the ordered subscription service for both self-hosted offerings and cloud-based subscription offerings, and related standard and enhanced support and updates, if any, to the subscription service during the subscription term. For our cloud-based offerings, we recognize revenue ratably over the subscription term. For self-hosted offerings, a substantial portion of the sales price is recognized upon delivery of the software, which may cause greater variability in our subscription revenues and subscription gross margin. Pricing includes multiple instances, hosting and support services, data backup and disaster recovery services, as well as future updates, when and if available, offered during the subscription term. We typically invoice our customers for subscription fees in annual increments upon execution of the initial contract or subsequent renewal. Our contracts are generally non-cancellable during the subscription term, though a customer can terminate for breach if we materially fail to perform. 
+
+Professional services and other revenues . Our arrangements for professional services are primarily on a time-and-materials basis, and we generally invoice our customers monthly in arrears for the professional services based on actual hours and expenses incurred. Some of our professional services arrangements are on a fixed fee basis. Professional services revenues are recognized as services are delivered. Other revenues primarily consist of fees from customer training delivered on-site or through publicly available classes. Typical payment terms require our customers to pay us within 30 days of invoice. 
+
+We sell our subscription services primarily through our direct sales organization. We also sell services through managed service providers and resale partners. We also generate revenues from certain professional services and from training of customers and partner personnel, through both our direct team and indirect channel sales. Revenues from our direct sales organization represented 78% and 79% of our total revenues for the three months ended March 31, 2024 and 2023, respectively. For purposes of calculating revenues from our direct sales organization, revenues from systems integrators and managed services providers are included as part of the direct sales organization. 
+
+Seasonality . We have historically experienced seasonality in terms of when we enter into customer agreements. We sign a significantly higher percentage of agreements with new customers, as well as expansion with existing customers, in the fourth quarter of each year. The increase in customer agreements for the fourth quarter is primarily a result of both large enterprise account buying patterns typical in the software industry, which are driven primarily by the expiration of annual authorized budgeted expenditures, and the terms of our commission plans, which incentivize our direct sales organization to meet their annual quotas by December 31. Furthermore, we usually sign a significant portion of these agreements during the last month, and often the last two weeks, of each quarter. This seasonality of entering into customer agreements is sometimes not immediately apparent in our revenues, due to the fact that we recognize subscription revenues from our cloud offering contracts over the term of the subscription agreement, which is generally 12 to 36 months. In addition, we continue to see an increase in the number of 12-month agreements entered into with the U.S. federal government throughout the year, with the highest number of agreements entered into in the third quarter driven primarily by the timing of their annual budget expenditures. This larger mix of contracts with 12-month renewal terms in the third quarter will generally cause variability in our RPO and cRPO in subsequent quarters until they are renewed. Although these seasonal factors may be common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance. 
+
+Cost of Revenues 
+
+Cost of subscription revenues . Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which include colocation costs associated with our data centers as well as interconnectivity between data centers, depreciation related to our infrastructure hardware equipment dedicated for customer use, amortization of intangible assets, expenses associated with software, public cloud service costs, IT services and dedicated customer support, personnel-related costs directly associated with data center operations and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. 
+
+Cost of professional services and other revenues . Cost of professional services and other revenues consists primarily of personnel-related costs directly associated with our professional services and training departments, including salaries, benefits, bonuses and stock-based compensation, the costs of contracted third-party partners, travel expenses and allocated overhead. 
+
+Professional services are performed directly by our services team, as well as by contracted third-party partners. Fees paid by us to third-party partners are primarily recognized as cost of revenues as the professional services are delivered. Cost of revenues associated with our professional services engagements contracted with third-party partners as a percentage of professional services and other revenues was 15% and 11% for the three months ended March 31, 2024 and 2023, respectively. 
+
+Sales and Marketing 
+
+Sales and marketing expenses consist primarily of personnel-related expenses directly associated with our sales and marketing staff, including salaries, benefits, bonuses and stock-based compensation. Sales and marketing expenses also include the amortization of commissions paid to our sales employees, including related payroll taxes and fringe benefits. In addition, sales and marketing expenses include branding expenses, marketing program expenses, which include events such as Knowledge, and costs associated with purchasing advertising and marketing data, software and subscription services dedicated for sales and marketing use and allocated overhead. 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses consist primarily of personnel-related expenses directly associated with our research and development staff, including salaries, benefits, bonuses, stock-based compensation and allocated overhead. Research and development expenses also include data center capacity costs, costs associated with outside services contracted for research and development purposes and depreciation of infrastructure hardware equipment that is used solely for research and development purposes. 
+
+&#160; 
+
+General and Administrative 
+
+&#160; 
+
+General and administrative expenses consist primarily of personnel-related expenses for our executive, finance, legal, human resources, facilities and administrative personnel, including salaries, benefits, bonuses, stock-based compensation, external legal, accounting and other professional services fees, other corporate expenses, amortization of intangible assets and allocated overhead. 
+
+&#160; 
+
+Provision for Income Taxes 
+
+Provision for income taxes consists of federal, state and foreign income taxes. Our income tax provision for the three months ended March 31, 2024 is primarily attributable to the mix of earnings and losses in countries with differing statutory tax rates, offset by excess tax benefits of stock-based compensation. We continue to maintain a valuation allowance against our California deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the &#8220;more likely than not&#8221; realization criteria, particularly as we expect research and development tax credit generation to exceed our ability to use the credits in future years. 
+
+Comparison of the Three Months Ended March 31, 2024 and 2023 
+
+&#160; 
+
+Revenues 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Revenues: Subscription $ 2,523 $ 2,024 25% Professional services and other 80 72 11% Total revenues $ 2,603 $ 2,096 24% Percentage of revenues: Subscription 97% 97% Professional services and other 3% 3% Total 100% 100% 
+
+Subscription revenues increased by $499 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily driven by increased purchases by new and existing customers. Included in subscription revenues is $126 million and $95 million of revenues recognized upfront from the delivery of software associated with self-hosted offerings during the three months ended March 31, 2024 and 2023, respectively. 
+
+We expect subscription revenues for the year ending December 31, 2024 to increase in absolute dollars and remain relatively flat as a percentage of revenue as we continue to add new customers and existing customers increase their usage of our products compared to the year ended December 31, 2023. 
+
+Our expectations for revenues, cost of revenues and operating expenses for the remainder of 2024 are based on the 31-day average of foreign exchange rates for March 31, 2024. 
+
+Subscription revenues consist of the following: 
+
+Three Months Ended March 31, % Change 2024 2023 (dollars in millions) Digital workflow products $ 2,231 $ 1,790 25% ITOM products 292 234 25% Total subscription revenues $ 2,523 $ 2,024 25% 
+
+Our digital workflow products include most of our product offerings and are generally priced on a per user basis. Our remaining product offerings, primarily comprised of our IT Operations Management (&#8220;ITOM&#8221;) products, are predominantly priced on a subscription unit basis. 
+
+Professional services and other revenues increased by $8 million during the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to an increase in services and trainings provided to new and existing customers. 
+
+We expect professional services and other revenues for the year ending December 31, 2024 to increase in absolute dollars and to remain relatively flat as a percentage of revenue compared to the year ended December 31, 2023. 
+
+Cost of Revenues and Gross Profit Percentage 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Cost of revenues: Subscription $ 441 $ 354 25% Professional services and other 79 84 (6%) Total cost of revenues $ 520 $ 438 19% Gross profit (loss) percentage: Subscription 83% 83% Professional services and other 1% (17%) Total gross profit percentage 80% 79% Gross profit $ 2,083 $ 1,658 
+
+Cost of subscription revenues increased by $87 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to increased headcount and increased costs to support the growth of our subscription offerings including costs to support customers in regulated markets. Personnel-related costs including stock-based compensation and overhead expenses increased by $59 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023. Expenses associated with software, maintenance, and other costs to support the expansion of our data center capacity increased by $22 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023. 
+
+We expect our cost of subscription revenues for the year ending December 31, 2024 to increase in absolute dollars as we provide subscription services to more customers and increase usage within our customer instances but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2023. We will continue to incur incremental costs to attract customers in regulated markets by adopting public cloud offerings as well as increased support for customers impacted by new and evolving data residency requirements. To the extent future acquisitions are consummated, our cost of subscription revenues may increase due to additional non-cash charges associated with the amortization of intangible assets acquired. 
+
+Our subscription gross profit percentage was 83% for each of the three months ended March 31, 2024 and 2023. We expect our subscription gross profit percentage to remain relatively flat for the year ending December 31, 2024 compared to the year ended December 31, 2023. 
+
+Cost of professional services and other revenues decreased by $5 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to decreased internal headcount resulting in a decrease in fixed personnel-related costs including stock-based compensation, partially offset by an increase in variable contracted third-party partner spend. 
+
+Our professional services and other gross profit percentage improved to 1% for the three months ended March 31, 2024 compared to a gross loss percentage of 17% for the three months ended March 31, 2023, primarily due to an increase in revenue and a decrease in fixed personnel-related costs including stock-based compensation, as we execute our strategy to shift a portion of professional services to variable spending with strategic partners. We expect our professional services and other gross profit percentage to improve for the year ending December 31, 2024 compared to the year ended December 31, 2023. 
+
+Sales and Marketing 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Sales and marketing $ 923 $ 823 12% Percentage of revenues 35% 39% 
+
+Sales and marketing expenses increased by $100 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to increased headcount resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $61 million. Amortization expenses associated with deferred commissions increased $22 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to an increase in contracts with new customers, expansion and renewal contracts. Other sales and marketing program expenses, which include branding, costs associated with purchasing advertising, marketing events and market data, increased by $11 million compared to the prior year, primarily due to increased program costs and travel for our annual Sales Kickoff. 
+
+We expect sales and marketing expenses for the year ending December 31, 2024 to increase in absolute dollars and to decrease as a percentage of revenue compared to the year ended December 31, 2023, as we continue to see leverage from increased sales productivity and marketing efficiencies. 
+
+Research and Development 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Research and development $ 606 $ 492 23% Percentage of revenues 23% 23% 
+
+Research and development (&#8220;R&#38;D&#8221;) expenses increased by $114 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to increased headcount, resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $98 million. The remaining increase was primarily due to an increase in data center capacity costs and depreciation of infrastructure hardware equipment that is used solely for R&#38;D purposes of $7 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023. 
+
+We expect R&#38;D expenses for the year ending December 31, 2024 to increase in absolute dollars but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2023, as we continue to improve the existing functionality of our services, develop new applications to fill market needs and enhance our core platform. 
+
+General and Administrative 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; General and administrative $ 222 $ 199 12% Percentage of revenues 9% 9% 
+
+&#160; 
+
+General and administrative (&#8220;G&#38;A&#8221;) expenses increased by $23 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily due to an increase in non personnel-related costs and outside services of $15 million. The remaining increase was primarily due to increased headcount, resulting in an increase in personnel-related costs including stock-based compensation of $5 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023. 
+
+We expect G&#38;A expenses for the year ending December 31, 2024 to increase in absolute dollars but decrease slightly as a percentage of revenue compared to the year ended December 31, 2023, as we continue to see leverage from continued G&#38;A productivity. 
+
+Stock-based Compensation 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Cost of revenues: Subscription $ 58 $ 46 26% Professional services and other 12 14 (14%) Operating expenses: Sales and marketing 134 126 6% Research and development 159 135 18% General and administrative 59 60 (2%) Total stock-based compensation $ 422 $ 381 11% Percentage of revenues 16% 18% 
+
+Stock-based compensation increased by $41 million for the three months ended March 31, 2024, compared to the three months ended March 31, 2023, primarily due to additional grants to current and new employees. 
+
+Stock-based compensation is inherently difficult to forecast due to fluctuations in our stock price. Based upon our stock price as of March 31, 2024, we expect stock-based compensation to continue to increase in absolute dollars for the year ending December 31, 2024 as we continue to issue stock-based awards to our employees, but decrease slightly as a percentage of revenue compared to the year ended December 31, 2023. We expect stock-based compensation as a percentage of revenue to decline over time as we continue to grow. 
+
+Foreign Currency Exchange 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues. Revenues outside North America represented 37% and 36% of total revenues for the three months ended March 31, 2024 and 2023, respectively. 
+
+We primarily transact in certain foreign currencies for sales outside of the United States. The general weakening of the U.S. Dollar relative to certain major foreign currencies (primarily the Euro and British Pound Sterling) had an immaterial favorable impact on our revenues for the three months ended March 31, 2024. 
+
+In addition, because we primarily transact in several foreign currencies for cost of revenues and operating expenses outside of the United States, the general weakening of the U.S. Dollar relative to certain major foreign currencies had an immaterial unfavorable impact on our expenses for the three months ended March 31, 2024. 
+
+Interest Income 
+
+Three Months Ended March 31, % Change 2024 2023 (dollars in millions) Interest income $ 101 $ 60 68% Percentage of revenues 4 % 3% 
+
+Interest income increased by $41 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023, primarily driven by an increase in investment income from our managed portfolio resulting from higher portfolio balances and an increase in interest rates. 
+
+Other Expense, net 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Interest expense $ (6) $ (6) &#8212;% Other (2) (10) (80%) Other expense, net $ (8) $ (16) (50%) Percentage of revenues &#8212;% (1%) 
+
+Other expense, net decreased by $8 million for the three months ended March 31, 2024 compared to the three months ended March 31, 2023 primarily due to lower losses on equity investments. 
+
+To mitigate our risks associated with fluctuations in foreign currency exchange rates, we enter into foreign currency forward contracts with maturities of 12 months or less to hedge a portion of our net outstanding monetary assets and liabilities. These hedging contracts may reduce, but cannot entirely eliminate, the impact of adverse currency exchange rate movements. The gains (losses) recognized for these foreign currency forward contracts in other expense, net were immaterial for the three months ended March 31, 2024 and 2023. 
+
+Provision for Income Taxes 
+
+&#160; Three Months Ended March 31, % Change 2024 2023 &#160; (dollars in millions) &#160; Income before income taxes $ 425 $ 188 126% 
+
+Provision for income taxes 
+
+$ 78 $ 38 105% Effective tax rate 18% 20% 
+
+The income tax provision was $78 million for the three months ended March 31, 2024. The income tax provision was primarily attributable to the mix of earnings and losses in countries with differing statutory tax rates, offset by excess tax benefits of stock-based compensation. 
+
+Our income tax provision was $38 million for the three months ended March 31, 2023. The income tax provision was primarily attributable to the mix of earnings and losses in countries with differing statutory tax rates and the valuation allowance in the United States. 
+
+We regularly assess the need for a valuation allowance against our deferred tax assets. In making that assessment, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of available evidence, whether it is more likely than not that some or all of the deferred tax assets will not be realized. As of June 30, 2023, we achieved cumulative U.S. income during the prior twelve quarters when considering pre-tax income adjusted for permanent differences and other comprehensive losses. Based on all available positive and negative evidence, having demonstrated sustained profitability which is objective and verifiable, and taking into account anticipated future earnings, we concluded it is more likely than not that our U.S. federal and state deferred tax assets will be realizable, with the exception of California. As of March 31, 2024, we continue to maintain a valuation allowance against our California deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the &#8220;more likely than not&#8221; realization criteria, particularly as we expect research and development tax credit generation to exceed our ability to use the credits in future years. We will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis. 
+
+Liquidity and Capital Resources 
+
+We generate cash inflows from operations primarily from selling subscription services which are generally paid in advance of provisioning services, and cash outflows to develop new services and core technologies that further enhance the Now Platform, engage our customer and enhance their experience, and enable and transform our business operations. Subscription services arrangements typically have a three-year duration, and we have experienced a renewal rate of 98% over the last three years. Cash outflows from operations are principally comprised of the salaries, bonuses, commissions, and benefits for our workforce, licenses and services arrangements that are integral to our business operations and data centers; and operating lease arrangements that underlie our facilities. We have generated positive operating cash flows for more than ten years as we continue to grow our business in pursuit of our business strategy, and we expect to grow our business and generate positive cash flows from operations during 2024. When assessing sources of liquidity, we also include cash and cash equivalents, short-term investments and long-term investments totaling $8.8 billion as of March 31, 2024. 
+
+Our working capital requirements are principally comprised of non-contract workforce salaries, bonuses, commissions and benefits and, to a lesser extent, cancellable and non-cancellable licenses and services arrangements that are integral to our business operations and operating lease obligations. Operating lease obligations totaling $923 million are principally associated with leased facilities and have varying maturities with $501 million due over the next five years. 
+
+We may repurchase our shares of common stock in the open market, in privately negotiated transactions or by other means, with the objective to return value to our stockholders and manage the dilution from future employee equity grants and employee stock purchase programs. In May 2023, our board of directors authorized a program to repurchase up to $1.5 billion of our common stock. During the quarter ended March 31, 2024, the Company repurchased 0.2 million shares of its common stock for $175 million. All repurchases were made in open market transactions. Repurchases of common stock are recognized as treasury stock and held for future issuance. As of March 31, 2024, approximately $787 million of the originally authorized amount under the Share Repurchase Program remained available for future repurchases. 
+
+To grow our business, we also invest in capital and other resources to expand our data centers and enable our workforce, and we acquire technology and businesses to supplement our technology portfolio. Our capital expenditures are typically under cancellable arrangements primarily used to support the installed base and growth of our hosted business. We have also issued long-term debt to finance our business. In August 2020, we issued 1.40% fixed rate ten-year notes with an aggregate principal amount of $1.5 billion due on September 1, 2030 (the &#8220;2030 Notes&#8221;). 
+
+Our free cash flows, together with our other sources of liquidity, are available to service our liabilities as well as our cancellable and non-cancellable arrangements. We anticipate cash flows generated from operations, cash, cash equivalents and investments will be sufficient to meet our liquidity needs for at least the next 12 months. As we look beyond the next 12 months, we seek to continue to grow free cash flows necessary to fund our operations and grow our business. If we require additional capital resources, we may seek to finance our operations from the current funds available or additional equity or debt financing. 
+
+&#160; Three Months Ended March 31, 2024 2023 &#160; (dollars in millions) Net cash provided by operating activities $ 1,341 $ 902 Net cash used in investing activities $ (918) $ (524) Net cash (used in) provided by financing activities $ (259) $ 5 
+
+Net increase in cash, cash equivalents and restricted cash 
+
+$ 160 $ 384 
+
+Operating Activities 
+
+Net cash provided by operating activities was $1,341 million for the three months ended March 31, 2024 compared to $902 million for the three months ended March 31, 2023. The net increase in operating cash flows was primarily due to higher collections driven by revenue growth. 
+
+Investing Activities 
+
+&#160; 
+
+Net cash used in investing activities for the three months ended March 31, 2024 was $918 million compared to $524 million for the three months ended March 31, 2023. The net increase in cash used in investing activities was primarily due to a $194 million increase in business combinations, a $190 million increase in net purchases of investments and a $21 million increase in purchases of other intangible assets, partially offset by a $30 million decrease in purchases of property and equipment. 
+
+Financing Activities 
+
+&#160; 
+
+Net cash used in financing activities was $259 million for the three months ended March 31, 2024 compared to net cash provided by financing activities of $5 million for the three months ended March 31, 2023. The increase in cash used in financing activities was due to repurchases of common stock of $175 million and a $103 million increase in taxes paid related to net share settlement of equity awards, partially offset by a $14 million increase in proceeds from employee stock plans. 
+
+Critical Accounting Policies and Significant Judgments and Estimates 
+
+There have been no significant changes to our critical accounting policies and estimates as described in our Annual Report on Form 10-K for the year ended December 31, 2023, which was filed with the SEC on January 25, 2024. 
+
+ITEM 3. QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Except for the cash flow hedging program initiated during the three months ended March 31, 2024 discussed below, there have been no other changes to our quantitative and qualitative disclosure set forth in Part II, Item 7A in our Annual Report on Form 10-K for the year ended December 31, 2023, which was filed with the SEC on January 25, 2024. 
+
+Foreign Currency Exchange Risk 
+
+To mitigate our risks associated with fluctuations in foreign currency exchange rates, we enter into foreign currency forward contracts to hedge a portion of our net outstanding monetary assets, liabilities and forecasted foreign currency denominated revenues. These foreign currency forward contracts are intended to offset gains or losses related to remeasuring monetary assets and liabilities and to reduce foreign exchange impact on our forecasted revenues. Derivative contracts related to hedging of forecasted revenues are designated as cash flow hedges for accounting purposes. For contracts qualifying as cash flow hedges, the derivative&#8217;s gain or loss is initially reported as a component of accumulated other comprehensive income (loss) and subsequently reclassified into earnings in the same period the forecasted transaction affects earnings. For contracts not designated as cash flow hedges for accounting purposes, the derivative&#8217;s gain or loss is recognized immediately in earnings within our condensed consolidated statements of comprehensive income. 
+
+These foreign currency forward contracts expose us to credit risk to the extent that the counterparties may be unable to meet the terms of the agreement. We mitigate this credit risk by transacting with major financial institutions with high credit ratings. While the contract or notional amount is often used to express the volume of foreign currency forward contracts, the amounts potentially subject to credit risk are generally limited to the amounts, if any, by which the counterparties&#8217; obligations under the agreements exceed our obligations to the counterparties. We are not required to pledge, and are not entitled to receive, cash collateral related to these derivative instruments. We do not enter into foreign currency forward contracts for trading or speculative purposes. Refer to Note 8 in the notes to our condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for additional information. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+The Company&#8217;s business, financial condition, results of operations and stock price can be affected by a number of factors, whether currently known or unknown, including those described in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023, under the section &#8220;Risk Factors.&#8221; When any one or more of these risks materialize from time to time, the Company&#8217;s business, financial condition, results of operations and stock price can be materially and adversely affected. There have been no material changes to the Company&#8217;s risk factors since our Annual Report on Form 10-K. 
+

@@ -1,0 +1,1650 @@
+ Item 2. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+We begin Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations with an overview of our key operating business segments and significant trends. This overview is followed by a summary of our critical accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. We then provide a more detailed analysis of our results of operations and financial condition. 
+
+Business Overview 
+
+We are the world&#146;s largest provider of enterprise software and a leading provider of computer hardware products and services. Our software, hardware systems, and services businesses develop, manufacture, market, host and support database and middleware software, applications software and hardware systems, with the latter consisting primarily of computer server and storage products. Our businesses provide products and services that are built upon industry standards, are engineered to work together or independently within existing customer information technology (IT) environments and run securely on a wide range of customer IT environments, including cloud computing environments. 
+
+Cloud computing environments provide on demand access to a shared pool of computing resources in a scalable, self-service manner, delivering advantages in speed, agility and efficiency. Cloud computing has evolved from technologies and services that Oracle has provided for many years, including clustering, server virtualization, Service-Oriented Architecture (SOA), shared services, large-scale management automation, and more recently, our Oracle Engineered Systems. Our secure, reliable and scalable product offerings are designed to improve business efficiencies at a low total cost of ownership. We seek to be an industry leader in each of the product offering categories in which we compete and to expand into new and emerging markets. 
+
+We believe our ability to offer our customers choice and flexibility in the manner in which they deploy our products and services while maintaining enterprise-grade reliability, security and interoperability based upon industry-standards is important to our corporate strategy. Oracle Fusion Applications, for example, offer customers a choice of deployment models to run our standards-based software applications in on-premise or cloud computing IT environments. Oracle Cloud, a family of our cloud-based software subscription offerings, provides access to select Oracle software applications and software platforms on a subscription basis in a secure, standards-based cloud computing environment. Oracle Cloud includes software applications as a service, such as Oracle Fusion Human Capital Management and Oracle Fusion Customer Relationship Management, and software platform services such as Oracle Database and Oracle Java, among others. 
+
+We are organized into three businesses&#151;software, hardware systems and services&#151;which are further divided into certain operating segments. We believe our internal growth and continued innovation with respect to our software, hardware and services businesses are the foundation of our long-term strategic plans. We continue to focus the engineering of our hardware and software products to make them work together more effectively and deliver improved computing performance, reliability and security to our customers. For example, Oracle Engineered Systems, which include our Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud and SPARC SuperCluster products, among others, combine certain of our hardware and software offerings to provide engineered systems that increase computing performance and reduce storage requirements relative to our competitors&#146; products, creating time savings, efficiencies and operational cost advantages for our customers. 
+
+We believe that an active acquisition program is an important element of our corporate strategy as it strengthens our competitive position, enhances the products and services that we can offer to customers, expands our customer base, provides greater scale to accelerate innovation, grows our revenues and earnings and increases stockholder value. In recent years, we have invested billions of dollars to acquire a number of companies, products, services and technologies that add to, are complementary to, or have otherwise enhanced our existing offerings. We expect to continue to acquire companies, products, services and technologies to further our corporate strategy. 
+
+Each of our businesses and operating segments has unique characteristics and faces different opportunities and challenges. Although we report our actual results in U.S. Dollars, we conduct a significant number of transactions in currencies other than U.S. Dollars. Therefore, we present constant currency information to 
+
+&#160; 
+
+provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. An overview of our three businesses and related operating segments follows. 
+
+Software Business 
+
+Our software business, which represented 73% of our total revenues on a trailing 4-quarter basis, is comprised of two operating segments: (1) new software licenses and cloud software subscriptions and (2) software license updates and product support. On a constant currency basis, we expect that our software business&#146; total revenues generally will continue to increase due to continued demand for our software products and software license updates and product support offerings, including the high percentage of customers that renew their software license updates and product support contracts, and due to our acquisitions, which should allow us to grow our profits and continue to make investments in research and development. 
+
+New Software Licenses and Cloud Software Subscriptions: We license our database and middleware, as well as our applications software, and provide access to certain of our software offerings through cloud software subscriptions contracts. We offer customers choice and flexibility in the manner in which they deploy our enterprise-grade, standards-based software products within on-premise or cloud computing IT environments. Our customers include businesses of many sizes, government agencies, educational institutions and resellers. We market and sell our software products and services to these customers with a sales force positioned to offer the combinations that best fit their needs. We enable customers to evolve and transform to substantially any IT environment at whatever pace is most appropriate for them. 
+
+The growth in new software licenses and cloud software subscriptions revenues that we report is affected by the strength of general economic and business conditions, governmental budgetary constraints, the competitive position of our software offerings, our acquisitions and foreign currency fluctuations. The substantial majority of our new software license transactions is characterized by long sales cycles and the timing of a few large software license transactions can substantially affect our quarterly new software licenses and cloud software subscriptions revenues. Since our new software licenses and cloud software subscriptions revenues in a particular quarter can be difficult to predict as a result of the timing of a few large software license transactions, we believe that analysis of new software licenses and cloud software subscriptions revenues on a trailing 4-quarter period provides additional visibility into the underlying performance of this business segment. New software licenses and cloud software subscriptions revenues represented 28% of our total revenues on a trailing 4-quarter basis. Our cloud software subscriptions contracts are generally one to three years in duration and we strive to renew these contracts when they are eligible for renewal. Our new software licenses and cloud software subscriptions segment&#146;s margin has historically trended upward over the course of the four quarters within a particular fiscal year due to the historical upward trend of our new software licenses revenues over those quarterly periods and because the majority of our costs for this segment are predominantly fixed in the short-term. However, our new software licenses and cloud software subscriptions segment&#146;s margin has been and will continue to be affected by the fair value adjustments relating to the cloud software subscriptions obligations that we assumed in our business combinations (described further below) and by the amortization of intangible assets associated with companies and technologies that we have acquired. 
+
+For certain of our acquired businesses, we recorded adjustments to reduce cloud software subscription obligations to their estimated fair values at the acquisition dates. As a result, as required by business combination accounting rules, we did not recognize cloud software subscriptions revenues related to cloud software subscriptions contracts that would have been otherwise recorded by the acquired businesses as independent entities in the amounts of $6 million and $37 million for the three and nine months ended February 28, 2013, respectively. To the extent underlying cloud software subscriptions contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the cloud software subscriptions contracts over their respective contractual periods. 
+
+Software License Updates and Product Support: Customers that purchase software license updates and product support are granted rights to unspecified product upgrades and maintenance releases issued during the support period, as well as technical support assistance. Our software license updates and product support contracts are generally one year in duration and substantially all of our customers renew their software license 
+
+&#160; 
+
+updates and product support contracts annually. The growth of software license updates and product support revenues is primarily influenced by three factors: (1) the percentage of our software support contract customer base that renews its software support contracts, (2) the amount of new software support contracts sold in connection with the sale of new software licenses and (3) the amount of software support contracts assumed from companies we have acquired. 
+
+Software license updates and product support revenues, which represented 45% of our total revenues on a trailing 4-quarter basis, is our highest margin business unit. Our software support margins over the trailing 4-quarters were 88% and accounted for 74% of our total margins over the same period. Our software license updates and product support margins have been affected by fair value adjustments relating to software support obligations assumed in business combinations (described further below) and by amortization of intangible assets. However, over the longer term, we believe that software license updates and product support revenues and margins will grow for the following reasons: 
+
+&#160;
+
+&#160; &#149; &#160; substantially all of our customers, including customers from acquired companies, renew their software support contracts when eligible for renewal; 
+
+&#160;
+
+&#160; &#149; &#160; substantially all of our customers purchase software license updates and product support contracts when they buy new software licenses, resulting in a further increase in our software support contract base. Even if new software licenses revenues growth was flat, software license updates and product support revenues would continue to grow in comparison to the corresponding prior year periods assuming contract renewal and cancellation rates and foreign currency rates remained relatively constant since substantially all new software licenses transactions result in the sale of software license updates and product support contracts, which add to our software support contract base; and 
+
+&#160;
+
+&#160; &#149; &#160; our acquisitions have increased our software support contract base, as well as the portfolio of products available to be licensed and supported. 
+
+We recorded adjustments to reduce software support obligations assumed in business combinations to their estimated fair values at the acquisition dates. As a result, as required by business combination accounting rules, we did not recognize software license updates and product support revenues related to software support contracts that would have been otherwise recorded by the acquired businesses as independent entities in the amounts of $4 million and $17 million for the three months ended February 28, 2013 and February 29, 2012, respectively, and $12 million and $40 million for the nine months ended February 28, 2013 and February 29, 2012, respectively. To the extent underlying software support contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the software support contracts over the respective support periods, the majority of which are one year. 
+
+Hardware Systems Business 
+
+Our hardware systems business consists of two operating segments: (1) hardware systems products and (2) hardware systems support. Our hardware business represented 15% of our total revenues on a trailing 4-quarter basis. We expect our hardware business to have lower operating margins as a percentage of revenues than our software business due to the incremental costs we incur to produce and distribute these products and to provide support services, including direct materials and labor costs. We expect to make investments in research and development to improve existing hardware products and services and to develop new hardware products and services. 
+
+Hardware Systems Products: We provide a complete selection of hardware systems and related services including servers, storage, networking, virtualization software, operating systems, and management software to support diverse IT environments, including public and private cloud computing environments. We engineer our hardware systems with virtualization and management capabilities to enable the rapid deployment and efficient management of cloud IT infrastructures. Our hardware systems products consist primarily of computer server, storage and hardware-related software, including our Oracle Solaris operating system. Our hardware systems component products are designed to be &#147;open,&#148; or to work in customer environments that may include other Oracle or non-Oracle hardware or software components. 
+
+&#160; 
+
+We have also engineered our hardware systems products to create performance and operational cost advantages for customers when our hardware and software products are combined as Oracle Engineered Systems. Our Oracle Engineered Systems include Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In- Memory Machine, SPARC SuperCluster, Oracle Database Appliance and the Oracle Big Data Appliance. By combining our server and storage hardware with our software, our open, integrated products better address customer on-premise and cloud computing requirements for performance, scalability, reliability, security, ease of management and lower total cost of ownership. 
+
+We offer a wide range of server systems using our SPARC microprocessor. Our SPARC servers are differentiated by their reliability, security, scalability and customer environments that they target (general purpose or specialized systems). Our midsize and large servers are designed to offer greater performance and lower total cost of ownership than mainframe systems for business critical applications and for customers having more computationally intensive needs. Our SPARC servers run the Oracle Solaris operating system and are designed for the most demanding mission critical enterprise environments at any scale. 
+
+We also offer enterprise x86 servers. These x86 servers are primarily based on microprocessor platforms from Intel Corporation and are also compatible with Oracle Solaris, Oracle Linux, Microsoft Windows and other operating systems. 
+
+Our Netra line of servers are aimed at the unique needs of original equipment manufacturers (OEMs) and network equipment providers. Rack-optimized systems and our blade product offerings combine high-density hardware architecture and system management software that OEMs find particularly useful in building their own solution architectures. 
+
+Our storage products are designed to securely manage, protect, archive and restore customers&#146; mission critical data assets and consist of tape, disk, hardware-related software including file systems software, back-up and archive software and storage management software and networking for mainframe and open systems environments. 
+
+The majority of our hardware systems products are sold through indirect channels, including independent distributors and value added resellers. 
+
+To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. Our internal manufacturing operations consist primarily of final assembly, test and quality control of enterprise and data center servers and storage systems. For all other manufacturing, we rely on third party manufacturing partners. We distribute most of our hardware products either from our facilities or partner facilities. We strive to reduce costs by simplifying our manufacturing processes through increased standardization of components across product types and a &#147;build-to-order&#148; manufacturing process in which products generally are built only after customers have placed firm orders. In addition, we seek to enhance hardware systems support processes that are designed to proactively identify and solve quality issues and to increase the amount of new hardware systems support contracts sold in connection with the sales of new hardware products. 
+
+Our hardware systems products revenues, cost of hardware systems products and hardware systems operating margins that we report are affected by the strength of general economic and business conditions, governmental budgetary constraints, our strategy for and the competitive position of our hardware systems products, certain of our acquisitions and foreign currency rate fluctuations. In addition, our operating margins for our hardware systems products segment have been and will be affected by the amortization of intangible assets. 
+
+We have limited experience in predicting our quarterly hardware systems products revenues. The timing of customer orders and delays in our ability to timely manufacture or deliver a few large hardware transactions could substantially affect the amount of hardware systems products revenues, expenses and operating margins that we report. 
+
+Hardware Systems Support: Our hardware systems support offerings provide customers with software updates for the software components that are essential to the functionality of our server and storage products, such as Oracle Solaris, and can include product repairs, maintenance services and technical support services. Typically, our hardware systems support contract arrangements are invoiced to the customer at the beginning of the support 
+
+&#160; 
+
+period and are one year in duration. Our hardware systems support revenues that we report are influenced by a number of factors, including the volume of purchases of hardware products, the mix of hardware products purchased, whether customers decide to purchase hardware systems support contracts at or in close proximity to the time of sale, and the percentage of our hardware systems support contract customer base that renews its support contracts. All of these factors are heavily influenced by our customers&#146; decisions to either maintain or upgrade their existing hardware systems&#146; infrastructure to newly developed technologies that are available. 
+
+Our hardware systems support margins have been and will be affected by certain of our acquisitions and related accounting including fair value adjustments relating to hardware systems support obligations assumed and by the amortization of intangible assets. As required by business combination accounting rules, we recorded adjustments to reduce our hardware systems support revenues for contracts assumed from our acquisitions to their estimated fair values. These amounts would have been recorded as hardware systems support revenues by the acquired businesses as independent entities in the amounts of $2 million and $6 million for the three months ended February 28, 2013 and February 29, 2012, respectively, and $10 million and $26 million for the nine months ended February 28, 2013 and February 29, 2012, respectively. To the extent underlying hardware systems support contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the hardware systems support contracts over the respective support periods. 
+
+Services Business 
+
+Our services business is comprised of the remainder of our operating segments and offers consulting services, managed cloud services and education services. Our services business, which represented 12% of our total revenues on a trailing 4-quarter basis, has lower margins than our software and hardware businesses. Our services revenues are impacted by certain of our acquisitions, general economic conditions, personnel reductions in our customers&#146; IT departments, tighter controls over discretionary spending and the growth in our software and hardware systems products revenues. 
+
+Our consulting line of business primarily provides services to customers in business and IT strategy alignment, enterprise architecture planning and design, initial product implementation and integration, and ongoing product enhancements and upgrades. The amount of consulting revenues recognized tends to lag the amount of our software and hardware systems products revenues by several quarters since consulting services, if purchased, are typically segmentable from the products to which they relate and are performed after the customer&#146;s purchase of the products. Our services revenues as they relate to consulting services are dependent upon general economic conditions and the level of our product revenues, in particular the new software licenses sales of our application products. To the extent we are able to grow our products revenues, in particular our software application product revenues, we would also generally expect to be able to eventually grow our consulting revenues. 
+
+Oracle managed cloud services provide comprehensive software and hardware management and maintenance services&#151;including deployment, management, monitoring, patching, security and upgrade services&#151;for customers hosted at our Oracle data center facilities, select partner data centers or physically on-premise at customer facilities. Additionally, we provide support services, both on-premise and remote, to Oracle customers to enable increased performance and higher availability of their products and services. We believe that our managed cloud services offerings provide our customers with greater value and choice through increased business performance, reduced risk, a predictable cost and more flexibility in terms of service in order to maximize the performance of their Oracle software and hardware products and services. 
+
+Education services provide training to customers, partners and employees as a part of our mission to further the adoption and usage of our software and hardware products by our customers and create opportunities to grow our products revenues. 
+
+Acquisitions 
+
+An active acquisition program is another important element of our corporate strategy. In recent years, we have invested billions of dollars to acquire a number of complementary companies, products, services and technologies. We believe our acquisition program strengthens our competitive position, enhances the products and services that we can offer to customers, expands our customer base, provides greater scale to accelerate 
+
+&#160; 
+
+innovation, grows our revenues and earnings and increases stockholder value. We expect to continue to acquire companies, products, services and technologies in furtherance of our corporate strategy. Note 2 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report provides additional information related to our pending and recent acquisitions. 
+
+On February 4, 2013, we entered into an Agreement and Plan of Merger (Merger Agreement) with Acme Packet, Inc. (Acme Packet), a provider of session border control technology. Pursuant to the Merger Agreement, our wholly-owned subsidiary will merge with and into Acme Packet and Acme Packet will become a wholly-owned subsidiary of Oracle. Upon the consummation of the merger, each share of Acme Packet common stock will be converted into the right to receive $29.25 (Merger Consideration) in cash. In addition, the unvested portion of each Acme Packet stock option and restricted stock-based award and the vested portion of each Acme Packet stock option, the exercise price of which is equal to or greater than the Merger Consideration, in each case that is outstanding immediately prior to the consummation of the merger and held by employees, will generally be converted into a stock option or restricted stock-based award, as the case may be, denominated in shares of Oracle common stock based on formulas contained in the Merger Agreement. The estimated total purchase price of Acme Packet is approximately $2.1 billion. The completion of the merger is subject to customary conditions, including without limitation, the approval of the merger by Acme Packet&#146;s stockholders. 
+
+We believe we can fund our future acquisitions, including the proposed acquisition of Acme Packet, with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities. We estimate the financial impact of any potential acquisition with regard to earnings, operating margin, cash flow and return on invested capital targets before deciding to move forward with an acquisition. 
+
+Critical Accounting Policies and Estimates 
+
+Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles (GAAP) as set forth in the Financial Accounting Standards Board&#146;s Accounting Standards Codification (Codification) and consider the various staff accounting bulletins and other applicable guidance issued by the United States Securities and Exchange Commission. GAAP, as set forth within the Codification, requires us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent there are differences between these estimates, judgments or assumptions and actual results, our financial statements will be affected. The accounting policies that reflect our more significant estimates, judgments and assumptions and which we believe are the most critical to aid in fully understanding and evaluating our reported financial results include the following: 
+
+&#160;
+
+&#160; &#149; &#160; Revenue Recognition 
+
+&#160;
+
+&#160; &#149; &#160; Business Combinations 
+
+&#160;
+
+&#160; &#149; &#160; Goodwill and Intangible Assets&#151;Impairment Assessments 
+
+&#160;
+
+&#160; &#149; &#160; Accounting for Income Taxes 
+
+&#160;
+
+&#160; &#149; &#160; Legal and Other Contingencies 
+
+&#160;
+
+&#160; &#149; &#160; Stock-Based Compensation 
+
+&#160;
+
+&#160; &#149; &#160; Allowances for Doubtful Accounts 
+
+In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management&#146;s judgment in its application. There are also areas in which management&#146;s judgment in selecting among available alternatives would not produce a materially different result. Our senior management has reviewed these critical accounting policies and related disclosures with the Finance and Audit Committee of our Board of Directors. 
+
+&#160; 
+
+During the first nine months of fiscal 2013, there were no significant changes to our critical accounting policies and estimates. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended May 31, 2012 provides a more complete discussion of our critical accounting policies and estimates. 
+
+Results of Operations 
+
+Impact of Acquisitions 
+
+The comparability of our operating results in the third quarter and first nine months of fiscal 2013 compared to the same periods of fiscal 2012 is impacted by our acquisitions, primarily our acquisitions of Taleo Corporation (Taleo) in the fourth quarter of fiscal 2012 and RightNow Technologies, Inc. (RightNow) in the third quarter of fiscal 2012. 
+
+In our discussion of changes in our results of operations from the third quarter and first nine months of fiscal 2013 compared to the same periods of fiscal 2012, we quantify the contributions of our acquired products (for acquisitions that were completed since the beginning of fiscal 2012) to the growth in new software licenses and cloud software subscriptions revenues and to the growth in software license updates and product support revenues. The incremental contributions of our acquisitions to our other businesses and operating segments&#146; revenues and expenses are not provided as they either were not separately identifiable due to the integration of these operating segments into our existing operations and/or were insignificant to our results of operations during the periods presented. 
+
+We caution readers that, while pre- and post-acquisition comparisons, as well as the quantified amounts themselves may provide indications of general trends, the acquisition information that we provide has inherent limitations for the following reasons: 
+
+&#160;
+
+&#160; &#149; &#160; the quantifications cannot address the substantial effects attributable to changes in business strategies, including our sales force integration efforts. We believe that if our acquired companies had operated independently and sales forces had not been integrated, the relative mix of products sold would have been different; and 
+
+&#160;
+
+&#160; &#149; &#160; although substantially all of our customers, including customers from acquired companies, renew their software license updates and product support contracts when the contracts are eligible for renewal and we strive to renew cloud software subscriptions contracts and hardware systems support contracts, the amounts shown as new software licenses and cloud software subscriptions deferred revenues, software license updates and product support deferred revenues, and hardware systems support deferred revenues in our supplemental disclosure related to certain charges (presented below) are not necessarily indicative of revenue improvements we will achieve upon contract renewals to the extent customers do not renew. 
+
+Seasonality 
+
+Our quarterly revenues have historically been affected by a variety of seasonal factors, including the structure of our sales force incentive compensation plans, which are common in the technology industry. Our total revenues and operating margins are typically highest in our fourth fiscal quarter and lowest in our first fiscal quarter. The operating margins of our businesses are generally affected by seasonal factors in a similar manner as our revenues (in particular, our new software licenses and cloud software subscriptions segment) as the majority of expenses within our cost structure are relatively fixed in the short term. 
+
+Constant Currency Presentation 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues and expenses. As a result, total revenues and expenses will continue to be affected by changes in the U.S. Dollar against major international currencies. In order to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency fluctuations, we compare the percent change in the results from one period to another period in this Quarterly Report using constant currency disclosure. To present this information, current and comparative prior period results for entities reporting in 
+
+&#160; 
+
+currencies other than U.S. Dollars are converted into U.S. Dollars at constant exchange rates (i.e. the rates in effect on May 31, 2012, which was the last day of our prior fiscal year) rather than the actual exchange rates in effect during the respective periods. For example, if an entity reporting in Euros had revenues of 1.0 million Euros from products sold on February 28, 2013 and February 29, 2012, our financial statements would reflect reported revenues of $1.31 million in the first nine months of fiscal 2013 (using 1.31 as the month-end average exchange rate for the period) and $1.34 million in the first nine months of fiscal 2012 (using 1.34 as the month-end average exchange rate for the period). The constant currency presentation would translate the results for the three and nine months ended February 28, 2013 and February 29, 2012 using the May 31, 2012 exchange rate and indicate, in this example, no change in revenues during the period. In each of the tables below, we present the percent change based on actual, unrounded results in reported currency and in constant currency. 
+
+Total Revenues and Operating Expenses 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Total Revenues by Geography: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; $ 4,698 &#160; &#160; &#160; 0% &#160; &#160; &#160; 0% &#160; &#160; $ 4,707 &#160; &#160; $ 13,808 &#160; &#160; &#160; 3% &#160; &#160; &#160; 3% &#160; &#160; $ 13,465 &#160; EMEA (1) 
+
+&#160; &#160; 2,745 &#160; &#160; &#160; -2% &#160; &#160; &#160; -1% &#160; &#160; &#160; 2,787 &#160; &#160; &#160; 7,829 &#160; &#160; &#160; -5% &#160; &#160; &#160; -1% &#160; &#160; &#160; 8,247 &#160; Asia Pacific (2) 
+
+&#160; &#160; 1,515 &#160; &#160; &#160; -2% &#160; &#160; &#160; 2% &#160; &#160; &#160; 1,545 &#160; &#160; &#160; 4,596 &#160; &#160; &#160; 2% &#160; &#160; &#160; 5% &#160; &#160; &#160; 4,493 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 8,958 &#160; &#160; &#160; -1% &#160; &#160; &#160; 0% &#160; &#160; &#160; 9,039 &#160; &#160; &#160; 26,233 &#160; &#160; &#160; 0% &#160; &#160; &#160; 2% &#160; &#160; &#160; 26,205 &#160; Total Operating Expenses 
+
+&#160; &#160; 5,624 &#160; &#160; &#160; -2% &#160; &#160; &#160; -1% &#160; &#160; &#160; 5,722 &#160; &#160; &#160; 16,549 &#160; &#160; &#160; -3% &#160; &#160; &#160; -1% &#160; &#160; &#160; 17,094 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Operating Margin 
+
+&#160; $ 3,334 &#160; &#160; &#160; 1% &#160; &#160; &#160; 2% &#160; &#160; $ 3,317 &#160; &#160; $ 9,684 &#160; &#160; &#160; 6% &#160; &#160; &#160; 10% &#160; &#160; $ 9,111 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Operating Margin % 
+
+&#160; &#160; 37% &#160; &#160; &#160; &#160; &#160; 37% &#160; &#160; &#160; 37% &#160; &#160; &#160; &#160; &#160; 35% &#160; % Revenues by Geography: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; &#160; 52% &#160; &#160; &#160; &#160; &#160; 52% &#160; &#160; &#160; 53% &#160; &#160; &#160; &#160; &#160; 51% &#160; EMEA 
+
+&#160; &#160; 31% &#160; &#160; &#160; &#160; &#160; 31% &#160; &#160; &#160; 30% &#160; &#160; &#160; &#160; &#160; 32% &#160; Asia Pacific 
+
+&#160; &#160; 17% &#160; &#160; &#160; &#160; &#160; 17% &#160; &#160; &#160; 17% &#160; &#160; &#160; &#160; &#160; 17% &#160; Total Revenues by Business: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Software 
+
+&#160; $ 6,672 &#160; &#160; &#160; 4% &#160; &#160; &#160; 5% &#160; &#160; $ 6,425 &#160; &#160; $ 19,035 &#160; &#160; &#160; 6% &#160; &#160; &#160; 8% &#160; &#160; $ 17,979 &#160; Hardware Systems 
+
+&#160; &#160; 1,241 &#160; &#160; &#160; -16% &#160; &#160; &#160; -15% &#160; &#160; &#160; 1,473 &#160; &#160; &#160; 3,915 &#160; &#160; &#160; -17% &#160; &#160; &#160; -15% &#160; &#160; &#160; 4,725 &#160; Services 
+
+&#160; &#160; 1,045 &#160; &#160; &#160; -8% &#160; &#160; &#160; -7% &#160; &#160; &#160; 1,141 &#160; &#160; &#160; 3,283 &#160; &#160; &#160; -6% &#160; &#160; &#160; -3% &#160; &#160; &#160; 3,501 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; $ 8,958 &#160; &#160; &#160; -1% &#160; &#160; &#160; 0% &#160; &#160; $ 9,039 &#160; &#160; $ 26,233 &#160; &#160; &#160; 0% &#160; &#160; &#160; 2% &#160; &#160; $ 26,205 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; % Revenues by Business: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Software 
+
+&#160; &#160; 74% &#160; &#160; &#160; &#160; &#160; 71% &#160; &#160; &#160; 73% &#160; &#160; &#160; &#160; &#160; 69% &#160; Hardware Systems 
+
+&#160; &#160; 14% &#160; &#160; &#160; &#160; &#160; 16% &#160; &#160; &#160; 15% &#160; &#160; &#160; &#160; &#160; 18% &#160; Services 
+
+&#160; &#160; 12% &#160; &#160; &#160; &#160; &#160; 13% &#160; &#160; &#160; 12% &#160; &#160; &#160; &#160; &#160; 13% &#160; &#160;
+
+(1) &#160; Comprised of Europe, the Middle East and Africa 
+
+&#160;
+
+(2) &#160; Asia Pacific includes Japan 
+
+Fiscal Third Quarter 2013 Compared to Fiscal Third Quarter 2012: Excluding the effect of unfavorable foreign currency rate fluctuations of 1 percentage point, our total revenues were flat in the third quarter of fiscal 2013. On a constant currency basis, the increase in our software business revenues resulting from growth in our software license updates and product support revenues was offset by decreases in revenues from our hardware systems and services businesses. On a constant currency basis, a decrease in total revenues in the third quarter of fiscal 2013 in the EMEA region was offset by an increase in total revenues in the Asia Pacific region, while the Americas region was flat. 
+
+Excluding the effect of favorable foreign currency rate fluctuations of 1 percentage point, total operating expenses decreased in the third quarter of fiscal 2013 due to lower hardware systems products costs associated with lower hardware systems products revenues, expense decreases in most of our other lines of business primarily due to lower variable compensation expenses and lower contractor expenses, a reduction in intangible 
+
+&#160; 
+
+asset amortization as certain intangible assets from our legacy acquisitions became fully amortized, and lower restructuring expenses, in each case in comparison to the corresponding prior year period. In constant currency, these expense decreases during the third quarter of fiscal 2013 were partially offset by increases in salaries and benefits expenses that were primarily related to additional sales and marketing and research and development headcount in comparison to the corresponding prior year period. 
+
+On a constant currency basis, our operating margin and our operating margin as a percentage of revenues increased during the third quarter of fiscal 2013 primarily due to a decrease in our total operating expenses. 
+
+First Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012: Excluding the effect of unfavorable foreign currency rate fluctuations of 2 percentage points, our total revenues increased in the first nine months of fiscal 2013 due to an increase in our software business revenues, which was attributable to growth in our software license updates and product support revenues and our new software licenses and cloud software subscriptions revenues. This constant currency increase was partially offset by reductions in our hardware systems and services business&#146; revenues. 
+
+Excluding the effect of favorable foreign currency rate fluctuations of 2 percentage points, total operating expenses decreased modestly in the first nine months of fiscal 2013 primarily due to a $306 million benefit that we recorded during the first quarter of fiscal 2013 related to certain litigation (see Note 14 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information), a $118 million acquisition related benefit (described further below) and certain other operating expense decreases in most of our other lines of business primarily due to lower variable compensation expenses and lower external contractor expenses. In constant currency, these total expense decreases during the first nine months of fiscal 2013 were partially offset by higher salary and benefit expenses due to additional sales and marketing and research and development headcount added during the first nine months of fiscal 2013, and higher restructuring expenses primarily associated with our Fiscal 2013 Oracle Restructuring Plan. 
+
+On a constant currency basis, our operating margin and our operating margin as a percentage of revenues increased during the first nine months of fiscal 2013 due to the increase in our total revenues and the decrease in our total operating expenses. 
+
+Supplemental Disclosure Related to Certain Charges 
+
+To supplement our consolidated financial information, we believe the following information is helpful to an overall understanding of our past financial performance and prospects for the future. You should review the introduction under &#147;Impact of Acquisitions&#148; (above) for a discussion of the inherent limitations in comparing pre- and post-acquisition information. 
+
+Our operating results included the following business combination accounting adjustments and expenses related to acquisitions, as well as certain other significant expense and income items: 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (in millions) 
+
+&#160; February 28, 2013 &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; February 29, 2012 &#160; New software licenses and cloud software subscriptions deferred revenues (1) 
+
+&#160; $ 6 &#160; &#160; $ &#151; &#160; &#160; $ 37 &#160; &#160; $ &#151; &#160; Software license updates and product support deferred revenues (1) 
+
+&#160; &#160; 4 &#160; &#160; &#160; 17 &#160; &#160; &#160; 12 &#160; &#160; &#160; 40 &#160; Hardware systems support deferred revenues (1) 
+
+&#160; &#160; 2 &#160; &#160; &#160; 6 &#160; &#160; &#160; 10 &#160; &#160; &#160; 26 &#160; Amortization of intangible assets (2) 
+
+&#160; &#160; 586 &#160; &#160; &#160; 606 &#160; &#160; &#160; 1,789 &#160; &#160; &#160; 1,790 &#160; Acquisition related and other (3)(5) 
+
+&#160; &#160; 32 &#160; &#160; &#160; 38 &#160; &#160; &#160; (347 ) &#160; &#160; 63 &#160; Restructuring (4) 
+
+&#160; &#160; 42 &#160; &#160; &#160; 64 &#160; &#160; &#160; 318 &#160; &#160; &#160; 217 &#160; Stock-based compensation (5) 
+
+&#160; &#160; 172 &#160; &#160; &#160; 157 &#160; &#160; &#160; 536 &#160; &#160; &#160; 453 &#160; Income tax effects (6) 
+
+&#160; &#160; (240 ) &#160; &#160; (258 ) &#160; &#160; (630 ) &#160; &#160; (740 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; $ 604 &#160; &#160; $ 630 &#160; &#160; $ 1,725 &#160; &#160; $ 1,849 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160;
+
+(1) &#160; In connection with our acquisitions, we have estimated the fair values of the cloud software subscriptions, software support and hardware systems support obligations assumed. Due to our application of business combination accounting rules, we did not recognize cloud software subscriptions revenues related to contracts that would have otherwise been recorded by the acquired businesses as independent entities in the amounts of $6 million and $37 million for the three and nine months ended February 28, 2013, respectively. We also did not recognize software license updates and product support revenues related to software support contracts that would have otherwise been recorded by the acquired 
+
+&#160; 
+
+&#160; businesses as independent entities in the amounts of $4 million and $17 million for the three months ended February 28, 2013 and February 29, 2012, respectively, and $12 million and $40 million for the nine months ended February 28, 2013 and February 29, 2012, respectively. In addition, we did not recognize hardware systems support revenues related to hardware systems support contracts that would have otherwise been recorded by the acquired businesses as independent entities in the amounts of $2 million and $6 million for the three months ended February 28, 2013 and February 29, 2012, respectively, and $10 million and $26 million for the nine months ended February 28, 2013 and February 29, 2012, respectively. &#160;
+
+&#160; Approximately $7 million and $6 million of estimated cloud software subscriptions revenues assumed will not be recognized during the remainder of fiscal 2013 and fiscal 2014, respectively, that would have otherwise been recognized as revenues by the acquired businesses as independent entities due to the application of the aforementioned business combination accounting rules. Approximately $3 million and $2 million of estimated software license updates and product support revenues related to software support contracts assumed will not be recognized during the remainder of fiscal 2013 and fiscal 2014, respectively, that would have otherwise been recognized by the acquired businesses as independent entities due to the application of the aforementioned business combination accounting rules. Approximately $2 million of estimated hardware systems support revenues related to hardware systems support contracts assumed will not be recognized during each of the remainder of fiscal 2013 and fiscal 2014 that would have otherwise been recognized by certain acquired companies as independent entities due to the application of the aforementioned business combination accounting rules. To the extent customers renew these contracts with us, we expect to recognize revenues for the full contracts&#146; values over the respective contracts&#146; renewal periods. &#160;
+
+(2) &#160; Represents the amortization of intangible assets substantially all of which were acquired in connection with our acquisitions. As of February 28, 2013, estimated future amortization expenses related to intangible assets were as follows (in millions): 
+
+&#160;
+
+Remainder of Fiscal 2013 
+
+&#160; $ 582 &#160; Fiscal 2014 
+
+&#160; &#160; 2,043 &#160; Fiscal 2015 
+
+&#160; &#160; 1,582 &#160; Fiscal 2016 
+
+&#160; &#160; 1,020 &#160; Fiscal 2017 
+
+&#160; &#160; 450 &#160; Fiscal 2018 
+
+&#160; &#160; 324 &#160; Thereafter 
+
+&#160; &#160; 661 &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total intangible assets, net 
+
+&#160; $ 6,662 &#160; &#160; &#160;
+
+&#160;
+
+&#160; 
+
+&#160;
+
+(3) &#160; Acquisition related and other expenses primarily consist of personnel related costs for transitional and certain other employees, stock-based compensation expenses, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and changes in fair value of contingent consideration payable and certain other operating items, net. In the first nine months of fiscal 2013, acquisition related and other expenses included a benefit of $306 million related to certain litigation (see Note 14 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information), and a net benefit of $118 million due to an acquisition related item (see Note 2 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information). 
+
+&#160;
+
+(4) &#160; The significant majority of restructuring expenses during the first nine months of fiscal 2013 related to employee severance and facility exit costs in connection with our Fiscal 2013 Oracle Restructuring Plan (the 2013 Restructuring Plan). Restructuring expenses during the first nine months of fiscal 2012 primarily related to costs incurred pursuant to our Sun Restructuring Plan. Additional information regarding certain of our restructuring plans is provided in Note 7 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report. 
+
+&#160;
+
+(5) &#160; Stock-based compensation was included in the following operating expense line items of our condensed consolidated statements of operations (in millions): 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, &#160; &#160; February 29, &#160; &#160; February 28, &#160; &#160; February 29, &#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; 2013 &#160; &#160; 2012 &#160; Sales and marketing 
+
+&#160; $ 32 &#160; &#160; $ 30 &#160; &#160; $ 112 &#160; &#160; $ 86 &#160; Software license updates and product support 
+
+&#160; &#160; 5 &#160; &#160; &#160; 5 &#160; &#160; &#160; 15 &#160; &#160; &#160; 13 &#160; Hardware systems products 
+
+&#160; &#160; 1 &#160; &#160; &#160; &#151; &#160; &#160; &#160; 2 &#160; &#160; &#160; 1 &#160; Hardware systems support 
+
+&#160; &#160; 1 &#160; &#160; &#160; 1 &#160; &#160; &#160; 3 &#160; &#160; &#160; 4 &#160; Services 
+
+&#160; &#160; 7 &#160; &#160; &#160; 6 &#160; &#160; &#160; 24 &#160; &#160; &#160; 16 &#160; Research and development 
+
+&#160; &#160; 86 &#160; &#160; &#160; 74 &#160; &#160; &#160; 258 &#160; &#160; &#160; 213 &#160; General and administrative 
+
+&#160; &#160; 40 &#160; &#160; &#160; 41 &#160; &#160; &#160; 122 &#160; &#160; &#160; 120 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Subtotal 
+
+&#160; &#160; 172 &#160; &#160; &#160; 157 &#160; &#160; &#160; 536 &#160; &#160; &#160; 453 &#160; Acquisition related and other 
+
+&#160; &#160; 8 &#160; &#160; &#160; 18 &#160; &#160; &#160; 30 &#160; &#160; &#160; 21 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total stock-based compensation 
+
+&#160; $ 180 &#160; &#160; $ 175 &#160; &#160; $ 566 &#160; &#160; $ 474 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; 
+
+Stock-based compensation included in acquisition related and other expenses resulted from unvested stock options and restricted stock-based awards assumed from acquisitions whose vesting was accelerated upon termination of the employees pursuant to the terms of those stock options and restricted stock-based awards. 
+
+&#160; 
+
+(6) &#160; The income tax effects presented were calculated as if the above described charges were not included in our results of operations for each of the respective periods presented. Income tax effects for the three months ended February 28, 2013 were calculated based on the applicable jurisdictional tax rates applied to the items within the table above and resulted in an effective tax rate of 21.0%, instead of 19.0%, which represented our effective tax rate as derived per our condensed consolidated statement of operations, primarily due to the net tax effects of acquisition related items, including the tax effects of amortization of intangible assets, and the disproportionate rate impact of discrete items for the quarter. Income tax effects for the first nine months of fiscal 2013 were calculated reflecting an effective tax rate of 22.6%, instead of 21.5%, which represented our effective tax rate as derived per our condensed consolidated statement of operations, primarily due to the net tax effects of acquisition related items, including the tax effects of amortization of intangible assets. Income tax effects for the three and nine months ended February 29, 2012 were calculated reflecting effective tax rates of 22.5% and 25.0%, respectively, instead of 20.7% and 23.9%, respectively, which represented our effective tax rates as derived per our condensed consolidated statements of operations, primarily due to income tax effects related to acquired tax exposures, the differences in jurisdictional tax rates and related tax benefits attributable to our restructuring expenses, and the disproportionate rate impact of discrete items for each of the respective periods. 
+
+Software Business 
+
+Our software business consists of our new software licenses and cloud software subscriptions segment and software license updates and product support segment. 
+
+New Software Licenses and Cloud Software Subscriptions: New software licenses revenues represent fees earned from granting customers licenses to use our database and middleware and our application software products. Cloud software subscriptions revenues represent fees earned from granting customers access to select Oracle software applications and software platforms on a subscription basis in a secure, standards-based cloud computing environment that includes access, hosting, infrastructure management, the use of software updates, and support. We continue to place significant emphasis, both domestically and internationally, on direct sales through our own sales force. We also continue to market our products through indirect channels. Expenses associated with our new software licenses and cloud software subscriptions revenues are included in sales and marketing expenses, which are largely personnel related and include commissions earned by our sales force for the sale of our software offerings, marketing program costs, the cost of providing cloud software subscriptions services and amortization of intangible assets. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; New Software Licenses and Cloud Software Subscriptions Revenues: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; $ 1,205 &#160; &#160; &#160; -2% &#160; &#160; &#160; -1% &#160; &#160; $ 1,228 &#160; &#160; $ 3,271 &#160; &#160; &#160; 10% &#160; &#160; &#160; 11% &#160; &#160; $ 2,982 &#160; EMEA 
+
+&#160; &#160; 690 &#160; &#160; &#160; 0% &#160; &#160; &#160; 1% &#160; &#160; &#160; 693 &#160; &#160; &#160; 1,734 &#160; &#160; &#160; 1% &#160; &#160; &#160; 5% &#160; &#160; &#160; 1,718 &#160; Asia Pacific 
+
+&#160; &#160; 437 &#160; &#160; &#160; -3% &#160; &#160; &#160; 1% &#160; &#160; &#160; 453 &#160; &#160; &#160; 1,290 &#160; &#160; &#160; 6% &#160; &#160; &#160; 8% &#160; &#160; &#160; 1,221 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 2,332 &#160; &#160; &#160; -2% &#160; &#160; &#160; 0% &#160; &#160; &#160; 2,374 &#160; &#160; &#160; 6,295 &#160; &#160; &#160; 6% &#160; &#160; &#160; 9% &#160; &#160; &#160; 5,921 &#160; Expenses: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Sales and marketing (1) 
+
+&#160; &#160; 1,548 &#160; &#160; &#160; 10% &#160; &#160; &#160; 12% &#160; &#160; &#160; 1,402 &#160; &#160; &#160; 4,332 &#160; &#160; &#160; 5% &#160; &#160; &#160; 8% &#160; &#160; &#160; 4,110 &#160; Stock-based compensation 
+
+&#160; &#160; 31 &#160; &#160; &#160; 1% &#160; &#160; &#160; 1% &#160; &#160; &#160; 30 &#160; &#160; &#160; 109 &#160; &#160; &#160; 28% &#160; &#160; &#160; 28% &#160; &#160; &#160; 85 &#160; Amortization of intangible assets (2) 
+
+&#160; &#160; 250 &#160; &#160; &#160; 23% &#160; &#160; &#160; 23% &#160; &#160; &#160; 203 &#160; &#160; &#160; 740 &#160; &#160; &#160; 27% &#160; &#160; &#160; 27% &#160; &#160; &#160; 581 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; &#160; 1,829 &#160; &#160; &#160; 12% &#160; &#160; &#160; 13% &#160; &#160; &#160; 1,635 &#160; &#160; &#160; 5,181 &#160; &#160; &#160; 9% &#160; &#160; &#160; 11% &#160; &#160; &#160; 4,776 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin 
+
+&#160; $ 503 &#160; &#160; &#160; -32% &#160; &#160; &#160; -30% &#160; &#160; $ 739 &#160; &#160; $ 1,114 &#160; &#160; &#160; -3% &#160; &#160; &#160; -1% &#160; &#160; $ 1,145 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin % 
+
+&#160; &#160; 22% &#160; &#160; &#160; &#160; &#160; 31% &#160; &#160; &#160; 18% &#160; &#160; &#160; &#160; &#160; 19% &#160; % Revenues by Geography: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; &#160; 52% &#160; &#160; &#160; &#160; &#160; 52% &#160; &#160; &#160; 52% &#160; &#160; &#160; &#160; &#160; 50% &#160; EMEA 
+
+&#160; &#160; 29% &#160; &#160; &#160; &#160; &#160; 29% &#160; &#160; &#160; 28% &#160; &#160; &#160; &#160; &#160; 29% &#160; Asia Pacific 
+
+&#160; &#160; 19% &#160; &#160; &#160; &#160; &#160; 19% &#160; &#160; &#160; 20% &#160; &#160; &#160; &#160; &#160; 21% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+&#160;
+
+(2) &#160; Included as a component of &#145;Amortization of Intangible Assets&#146; in our condensed consolidated statements of operations 
+
+Fiscal Third Quarter 2013 Compared to Fiscal Third Quarter 2012: Excluding the effect of unfavorable currency rate fluctuations of 2 percentage points, total new software licenses and cloud software subscriptions revenues were flat in the third quarter of fiscal 2013. In constant currency, a modest decrease in new software licenses and cloud software subscriptions revenues in the Americas region was substantially offset by modest revenue increases in the EMEA and Asia Pacific regions. 
+
+&#160; 
+
+In reported currency, our new software license revenues were $2.1 billion and $2.3 billion in the third quarter of fiscal 2013 and 2012, respectively, or a decrease of 6% after excluding unfavorable foreign currency fluctuations. Our cloud software subscriptions revenues were $231 million and $110 million in the third quarter of fiscal 2013 and 2012, respectively, an increase of 111% that was primarily due to incremental revenues from our acquisitions. In constant currency, our new software licenses and cloud software subscriptions revenues increased over the trailing 4-quarters by 10% due to growth across all regions and product types and incremental revenues from our acquisitions. 
+
+In reported currency, our recent acquisitions contributed $116 million of growth to our total new software licenses and cloud software subscriptions revenues during the third quarter of fiscal 2013. 
+
+As a result of our acquisitions, we recorded adjustments to reduce assumed cloud software subscriptions obligations to their estimated fair values at the acquisition dates. Due to our application of business combination accounting rules, cloud software subscriptions revenues in the amount of $6 million that would have been otherwise recorded by our acquired businesses as independent entities were not recognized in the third quarter of fiscal 2013. To the extent underlying cloud software subscriptions contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the cloud software subscriptions contracts over the respective contractual periods. 
+
+In reported currency, new software licenses revenues earned from transactions of $3 million or greater decreased by 17% in the third quarter of fiscal 2013 and represented 22% of our total new software licenses and cloud software subscriptions revenues in the third quarter of fiscal 2013 in comparison to 26% in the third quarter of fiscal 2012. 
+
+Excluding the effect of favorable currency rate fluctuations of 1 percentage point, total new software licenses and cloud software subscriptions expenses increased in the third quarter of fiscal 2013 primarily due to higher employee related expenses from increased headcount and higher intangible asset amortization. 
+
+Excluding the effect of currency rate fluctuations, total new software licenses and cloud software subscriptions margin and margin as a percentage of revenues decreased during the third quarter of fiscal 2013 primarily due to the aforementioned increases in our expenses. 
+
+First Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012: Excluding the effect of unfavorable currency rate fluctuations of 3 percentage points, total new software licenses and cloud software subscriptions revenues increased in the first nine months of fiscal 2013 due to incremental revenues from our acquisitions, and growth across all regions and product types primarily during our first half of fiscal 2013. Excluding the effect of currency rate fluctuations, the Americas contributed 65%, EMEA contributed 15% and Asia Pacific contributed 20% to the increase in new software licenses and cloud software subscriptions revenues during the first nine months of fiscal 2013. 
+
+In reported currency, our new software licenses revenues were $5.6 billion in each of the first nine months of fiscal 2013 and 2012. In reported currency, our cloud software subscriptions revenues were $653 million and $284 million in the first nine months of fiscal 2013 and 2012, respectively. In constant currency, new software licenses revenues and cloud software subscriptions revenues increased by 2% and 130%, respectively, in the first nine months of fiscal 2013 primarily due to improved customer demand for our software product offerings, our sales force&#146;s execution and incremental revenues from our acquisitions. In reported currency, cloud software subscriptions revenues in the amount of $37 million that would have been otherwise recorded by our acquired businesses as independent entities were not recognized in the first nine months of fiscal 2013 due to business combination accounting rules. 
+
+In reported currency, our recent acquisitions contributed $390 million of growth to our total new software licenses and cloud software subscriptions revenues during the first nine months of fiscal 2013. In reported currency, new software licenses revenues earned from transactions of $3 million or greater increased by 12% in the first nine months of fiscal 2013 and represented 24% of our total new software licenses and cloud software subscriptions revenues in the first nine months of fiscal 2013 in comparison to 23% in the first nine months of fiscal 2012. 
+
+&#160; 
+
+Excluding the effect of favorable currency rate fluctuations of 2 percentage points, total new software licenses and cloud software subscriptions expenses increased in the first nine months of fiscal 2013 primarily due to the same reasons as noted above, partially offset by a decrease in certain legal expenses. 
+
+Excluding the effect of unfavorable currency rate fluctuations of 2 percentage points, total new software licenses and cloud software subscriptions margin and margin as a percentage of revenues decreased modestly during the first nine months of fiscal 2013 as our expenses increased at a faster rate than our revenues. 
+
+Software License Updates and Product Support: Software license updates grant customers rights to unspecified software product upgrades and maintenance releases issued during the support period. Product support includes internet access to technical content as well as internet and telephone access to technical support personnel in our global support centers. Expenses associated with our software license updates and product support line of business include the cost of providing the support services, largely personnel related expenses, and the amortization of our intangible assets associated with software support contracts and customer relationships obtained from acquisitions. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Software License Updates and Product Support Revenues: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; $ 2,362 &#160; &#160; &#160; 8% &#160; &#160; &#160; 8% &#160; &#160; $ 2,194 &#160; &#160; $ 6,919 &#160; &#160; &#160; 8% &#160; &#160; &#160; 8% &#160; &#160; $ 6,431 &#160; EMEA 
+
+&#160; &#160; 1,365 &#160; &#160; &#160; 8% &#160; &#160; &#160; 7% &#160; &#160; &#160; 1,269 &#160; &#160; &#160; 3,977 &#160; &#160; &#160; 3% &#160; &#160; &#160; 8% &#160; &#160; &#160; 3,879 &#160; Asia Pacific 
+
+&#160; &#160; 613 &#160; &#160; &#160; 4% &#160; &#160; &#160; 9% &#160; &#160; &#160; 588 &#160; &#160; &#160; 1,844 &#160; &#160; &#160; 6% &#160; &#160; &#160; 9% &#160; &#160; &#160; 1,748 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 4,340 &#160; &#160; &#160; 7% &#160; &#160; &#160; 8% &#160; &#160; &#160; 4,051 &#160; &#160; &#160; 12,740 &#160; &#160; &#160; 6% &#160; &#160; &#160; 8% &#160; &#160; &#160; 12,058 &#160; Expenses: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Software license updates and product support (1) 
+
+&#160; &#160; 301 &#160; &#160; &#160; 1% &#160; &#160; &#160; 2% &#160; &#160; &#160; 300 &#160; &#160; &#160; 845 &#160; &#160; &#160; -5% &#160; &#160; &#160; -2% &#160; &#160; &#160; 886 &#160; Stock-based compensation 
+
+&#160; &#160; 5 &#160; &#160; &#160; 6% &#160; &#160; &#160; 6% &#160; &#160; &#160; 5 &#160; &#160; &#160; 15 &#160; &#160; &#160; 14% &#160; &#160; &#160; 14% &#160; &#160; &#160; 13 &#160; Amortization of intangible assets (2) 
+
+&#160; &#160; 207 &#160; &#160; &#160; -5% &#160; &#160; &#160; -5% &#160; &#160; &#160; 218 &#160; &#160; &#160; 629 &#160; &#160; &#160; -3% &#160; &#160; &#160; -3% &#160; &#160; &#160; 646 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; &#160; 513 &#160; &#160; &#160; -2% &#160; &#160; &#160; -1% &#160; &#160; &#160; 523 &#160; &#160; &#160; 1,489 &#160; &#160; &#160; -4% &#160; &#160; &#160; -2% &#160; &#160; &#160; 1,545 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin 
+
+&#160; $ 3,827 &#160; &#160; &#160; 8% &#160; &#160; &#160; 9% &#160; &#160; $ 3,528 &#160; &#160; $ 11,251 &#160; &#160; &#160; 7% &#160; &#160; &#160; 10% &#160; &#160; $ 10,513 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin % 
+
+&#160; &#160; 88% &#160; &#160; &#160; &#160; &#160; 87% &#160; &#160; &#160; 88% &#160; &#160; &#160; &#160; &#160; 87% &#160; % Revenues by Geography: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; &#160; 54% &#160; &#160; &#160; &#160; &#160; 54% &#160; &#160; &#160; 54% &#160; &#160; &#160; &#160; &#160; 53% &#160; EMEA 
+
+&#160; &#160; 32% &#160; &#160; &#160; &#160; &#160; 31% &#160; &#160; &#160; 31% &#160; &#160; &#160; &#160; &#160; 32% &#160; Asia Pacific 
+
+&#160; &#160; 14% &#160; &#160; &#160; &#160; &#160; 15% &#160; &#160; &#160; 15% &#160; &#160; &#160; &#160; &#160; 15% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+&#160;
+
+(2) &#160; Included as a component of &#145;Amortization of Intangible Assets&#146; in our condensed consolidated statements of operations 
+
+Fiscal Third Quarter 2013 Compared to Fiscal Third Quarter 2012: Excluding the effect of unfavorable currency rate fluctuations of 1 percentage point, software license updates and product support revenues increased in the third quarter of fiscal 2013 as a result of new software licenses sold (with substantially all customers electing to purchase software support contracts) during the trailing 4-quarter period, the renewal of substantially all of the software support customer base eligible for renewal during the trailing 4-quarter period and incremental revenues from recent acquisitions. Excluding the effect of currency rate fluctuations, the Americas contributed 55%, EMEA contributed 29% and Asia Pacific contributed 16% to the increase in software license updates and product support revenues during the third quarter of fiscal 2013. 
+
+In reported currency, software license updates and product support revenues in the third quarter of fiscal 2013 included incremental revenues of $13 million from our recently acquired companies. As a result of our acquisitions, we recorded adjustments to reduce assumed software support obligations to their estimated fair values at the acquisition dates. Due to our application of business combination accounting rules, software license updates and product support revenues related to software support contracts in the amounts of $4 million and $17 million that would have been otherwise recorded by our acquired businesses as independent entities were not recognized in the third quarter of fiscal 2013 and fiscal 2012, respectively. Historically, substantially all of our customers, including customers from acquired companies, renew their software support contracts when such contracts are eligible for renewal. To the extent these underlying support contracts are renewed, we will recognize the revenues for the full values of these contracts over the respective support periods, the substantial majority of which are one year in duration. 
+
+&#160; 
+
+Excluding the effect of foreign currency rate fluctuations, total software license updates and product support expenses decreased in the third quarter of fiscal 2013 primarily due to lower amortization of intangible assets, lower bad debt expenses, and lower variable compensation expenses, which were partially offset by an increase in certain non-income based taxes. 
+
+Excluding the effect of currency rate fluctuations, total software license updates and product support margin and margin as a percentage of revenues increased as our total revenues for this segment increased while our operating expenses decreased. 
+
+First Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012: Excluding the effect of unfavorable currency rate fluctuations of 2 percentage points, software license updates and product support revenues increased in the first nine months of fiscal 2013 primarily due to the same reasons as noted above. Excluding the effect of currency rate fluctuations, the Americas contributed 56%, EMEA contributed 29% and Asia Pacific contributed 15% to the increase in software license updates and product support revenues during the first nine months of fiscal 2013. 
+
+In reported currency, software license updates and product support revenues in the first nine months of fiscal 2013 included incremental revenues of $47 million from our recently acquired companies. Due to our application of business combination accounting rules, software license updates and product support revenues related to software support contracts in the amounts of $12 million and $40 million that would have been otherwise recorded by our acquired businesses as independent entities were not recognized in the first nine months of fiscal 2013 and 2012, respectively. 
+
+Excluding the effect of favorable foreign currency rate fluctuations of 2 percentage points, total software license updates and product support expenses decreased primarily due to a reduction in certain non-income based taxes, lower amortization of intangible assets, lower bad debt expenses, and lower variable compensation expenses. In constant currency, software license updates and product support margin and margin as a percentage of revenues increased primarily due to the same reasons as noted above. 
+
+Hardware Systems Business 
+
+Our hardware systems business consists of our hardware systems products segment and hardware systems support segment. 
+
+&#160; 
+
+Hardware Systems Products: Hardware systems products revenues are primarily generated from the sales of our computer server and storage products and include sales of our Oracle Engineered Systems. We market and sell our hardware systems products through our direct sales force and indirect channels such as independent distributors and value added resellers. Operating expenses associated with our hardware systems products include the cost of hardware systems products, which consists of expenses for materials and labor used to produce these products by our internal manufacturing operations or by third party manufacturers, warranty expenses and the impact of periodic changes in inventory valuation, including the impact of inventory determined to be excess and obsolete. Operating expenses associated with our hardware systems products also include sales and marketing expenses, which are largely personnel related and include variable compensation earned by our sales force for the sales of our hardware products, and amortization of intangible assets. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Hardware Systems Products Revenues: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; $ 307 &#160; &#160; &#160; -25% &#160; &#160; &#160; -25% &#160; &#160; $ 410 &#160; &#160; $ 1,056 &#160; &#160; &#160; -24% &#160; &#160; &#160; -23% &#160; &#160; $ 1,382 &#160; EMEA 
+
+&#160; &#160; 201 &#160; &#160; &#160; -24% &#160; &#160; &#160; -24% &#160; &#160; &#160; 265 &#160; &#160; &#160; 615 &#160; &#160; &#160; -30% &#160; &#160; &#160; -27% &#160; &#160; &#160; 880 &#160; Asia Pacific 
+
+&#160; &#160; 163 &#160; &#160; &#160; -16% &#160; &#160; &#160; -14% &#160; &#160; &#160; 194 &#160; &#160; &#160; 514 &#160; &#160; &#160; -13% &#160; &#160; &#160; -12% &#160; &#160; &#160; 589 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 671 &#160; &#160; &#160; -23% &#160; &#160; &#160; -22% &#160; &#160; &#160; 869 &#160; &#160; &#160; 2,185 &#160; &#160; &#160; -23% &#160; &#160; &#160; -22% &#160; &#160; &#160; 2,851 &#160; Expenses: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Hardware systems products (1) 
+
+&#160; &#160; 336 &#160; &#160; &#160; -21% &#160; &#160; &#160; -20% &#160; &#160; &#160; 424 &#160; &#160; &#160; 1,085 &#160; &#160; &#160; -21% &#160; &#160; &#160; -19% &#160; &#160; &#160; 1,366 &#160; Sales and marketing (1) 
+
+&#160; &#160; 222 &#160; &#160; &#160; -17% &#160; &#160; &#160; -16% &#160; &#160; &#160; 268 &#160; &#160; &#160; 676 &#160; &#160; &#160; -19% &#160; &#160; &#160; -16% &#160; &#160; &#160; 831 &#160; Stock-based compensation 
+
+&#160; &#160; 2 &#160; &#160; &#160; 631% &#160; &#160; &#160; 631% &#160; &#160; &#160; &#151; &#160; &#160; &#160; 5 &#160; &#160; &#160; 139% &#160; &#160; &#160; 139% &#160; &#160; &#160; 2 &#160; Amortization of intangible assets (2) 
+
+&#160; &#160; 76 &#160; &#160; &#160; -21% &#160; &#160; &#160; -21% &#160; &#160; &#160; 97 &#160; &#160; &#160; 240 &#160; &#160; &#160; -19% &#160; &#160; &#160; -19% &#160; &#160; &#160; 296 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; &#160; 636 &#160; &#160; &#160; -19% &#160; &#160; &#160; -19% &#160; &#160; &#160; 789 &#160; &#160; &#160; 2,006 &#160; &#160; &#160; -20% &#160; &#160; &#160; -18% &#160; &#160; &#160; 2,495 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin 
+
+&#160; $ 35 &#160; &#160; &#160; -56% &#160; &#160; &#160; -57% &#160; &#160; $ 80 &#160; &#160; $ 179 &#160; &#160; &#160; -50% &#160; &#160; &#160; -49% &#160; &#160; $ 356 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin % 
+
+&#160; &#160; 5% &#160; &#160; &#160; &#160; &#160; 9% &#160; &#160; &#160; 8% &#160; &#160; &#160; &#160; &#160; 12% &#160; % Revenues by Geography: 
+
+&#160; 
+
+&#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; &#160; 46% &#160; &#160; &#160; &#160; &#160; 47% &#160; &#160; &#160; 48% &#160; &#160; &#160; &#160; &#160; 48% &#160; EMEA 
+
+&#160; &#160; 30% &#160; &#160; &#160; &#160; &#160; 31% &#160; &#160; &#160; 28% &#160; &#160; &#160; &#160; &#160; 31% &#160; Asia Pacific 
+
+&#160; &#160; 24% &#160; &#160; &#160; &#160; &#160; 22% &#160; &#160; &#160; 24% &#160; &#160; &#160; &#160; &#160; 21% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+&#160;
+
+(2) &#160; Included as a component of &#145;Amortization of Intangible Assets&#146; in our condensed consolidated statements of operations 
+
+On a constant currency basis, hardware systems products revenues decreased in the fiscal 2013 periods presented primarily due to reductions in the sales volumes of certain of our legacy product lines, including lower margin products. These revenue decreases were partially offset by increases in hardware revenues attributable to our Oracle Engineered Systems. 
+
+On a constant currency basis, total hardware systems products operating expenses declined in the fiscal 2013 periods presented primarily due to a reduction in hardware systems products costs associated with lower hardware revenues, a decrease in employee related expenses due to decreased headcount, and lower intangible asset amortization. 
+
+Excluding the effect of currency rate fluctuations, total hardware systems products margin and margin as a percentage of revenues decreased in the fiscal 2013 periods presented as our total revenues decreased at a faster rate than our total expenses. 
+
+&#160; 
+
+Hardware Systems Support: Our hardware systems support offerings provide customers with software updates for the software components that are essential to the functionality of our hardware systems and can include product repairs, maintenance services and technical support services. Expenses associated with our hardware systems support operating segment include the cost of materials used to repair customer products, the cost of providing support services, largely personnel related expenses, and the amortization of our intangible assets associated with hardware systems support contracts and customer relationships obtained from our acquisitions. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Hardware Systems Support Revenues: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; $ 270 &#160; &#160; &#160; -5% &#160; &#160; &#160; -5% &#160; &#160; $ 286 &#160; &#160; $ 821 &#160; &#160; &#160; -6% &#160; &#160; &#160; -5% &#160; &#160; $ 869 &#160; EMEA 
+
+&#160; &#160; 189 &#160; &#160; &#160; -10% &#160; &#160; &#160; -10% &#160; &#160; &#160; 209 &#160; &#160; &#160; 568 &#160; &#160; &#160; -15% &#160; &#160; &#160; -11% &#160; &#160; &#160; 671 &#160; Asia Pacific 
+
+&#160; &#160; 111 &#160; &#160; &#160; 1% &#160; &#160; &#160; 5% &#160; &#160; &#160; 109 &#160; &#160; &#160; 341 &#160; &#160; &#160; 2% &#160; &#160; &#160; 5% &#160; &#160; &#160; 334 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 570 &#160; &#160; &#160; -6% &#160; &#160; &#160; -5% &#160; &#160; &#160; 604 &#160; &#160; &#160; 1,730 &#160; &#160; &#160; -8% &#160; &#160; &#160; -5% &#160; &#160; &#160; 1,874 &#160; Expenses: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Hardware systems support (1) 
+
+&#160; &#160; 218 &#160; &#160; &#160; -15% &#160; &#160; &#160; -15% &#160; &#160; &#160; 256 &#160; &#160; &#160; 667 &#160; &#160; &#160; -16% &#160; &#160; &#160; -14% &#160; &#160; &#160; 794 &#160; Stock-based compensation 
+
+&#160; &#160; 1 &#160; &#160; &#160; 37% &#160; &#160; &#160; 37% &#160; &#160; &#160; 1 &#160; &#160; &#160; 3 &#160; &#160; &#160; -14% &#160; &#160; &#160; -14% &#160; &#160; &#160; 4 &#160; Amortization of intangible assets (2) 
+
+&#160; &#160; 49 &#160; &#160; &#160; -37% &#160; &#160; &#160; -37% &#160; &#160; &#160; 77 &#160; &#160; &#160; 162 &#160; &#160; &#160; -29% &#160; &#160; &#160; -29% &#160; &#160; &#160; 229 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; &#160; 268 &#160; &#160; &#160; -20% &#160; &#160; &#160; -20% &#160; &#160; &#160; 334 &#160; &#160; &#160; 832 &#160; &#160; &#160; -19% &#160; &#160; &#160; -17% &#160; &#160; &#160; 1,027 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin 
+
+&#160; $ 302 &#160; &#160; &#160; 11% &#160; &#160; &#160; 13% &#160; &#160; $ 270 &#160; &#160; $ 898 &#160; &#160; &#160; 6% &#160; &#160; &#160; 9% &#160; &#160; $ 847 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin % 
+
+&#160; &#160; 53% &#160; &#160; &#160; &#160; &#160; 45% &#160; &#160; &#160; 52% &#160; &#160; &#160; &#160; &#160; 45% &#160; % Revenues by Geography: 
+
+&#160; 
+
+&#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; &#160; 48% &#160; &#160; &#160; &#160; &#160; 47% &#160; &#160; &#160; 47% &#160; &#160; &#160; &#160; &#160; 46% &#160; EMEA 
+
+&#160; &#160; 33% &#160; &#160; &#160; &#160; &#160; 35% &#160; &#160; &#160; 33% &#160; &#160; &#160; &#160; &#160; 36% &#160; Asia Pacific 
+
+&#160; &#160; 19% &#160; &#160; &#160; &#160; &#160; 18% &#160; &#160; &#160; 20% &#160; &#160; &#160; &#160; &#160; 18% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+&#160;
+
+(2) &#160; Included as a component of &#145;Amortization of Intangible Assets&#146; in our condensed consolidated statements of operations 
+
+Excluding the impact of currency rate fluctuations, hardware systems support revenues decreased in the fiscal 2013 periods presented primarily due to reductions in sales volumes of certain of our legacy hardware systems product lines for which we offer our hardware systems support. As a result of our acquisitions, we recorded adjustments to reduce assumed hardware systems support obligations to their estimated fair values at the acquisition dates. Due to our application of business combination accounting rules, hardware systems support revenues related to hardware systems support contracts in the amounts of $2 million and $6 million that would have been otherwise reported by our acquired businesses as independent entities were not recognized in the third quarter of fiscal 2013 and fiscal 2012, respectively, and $10 million and $26 million were not recognized in the first nine months of fiscal 2013 and fiscal 2012, respectively. To the extent these underlying hardware systems support contracts are renewed, we will recognize the revenues for the full value of these contracts over the future support periods. 
+
+Excluding the effect of currency rate fluctuations, total hardware systems support expenses decreased in the fiscal 2013 periods presented primarily due to a reduction in employee related expenses attributable to decreased headcount, reduced service delivery costs due to operational initiatives, lower bad debt expenses, and lower amortization of intangible assets. 
+
+Excluding the effect of currency rate fluctuations, total hardware systems support margin and margin as a percentage of total revenues increased in the fiscal 2013 periods presented due to a reduction in our total hardware systems support expenses. 
+
+&#160; 
+
+Services Business 
+
+Our services business consists of consulting, managed cloud services and education services. Consulting revenues are earned by providing services to customers in business and IT strategy alignment, enterprise architecture planning and design, initial product implementation and integration and ongoing product enhancements and upgrades. Managed cloud services revenues are earned by providing services for comprehensive software and hardware management and maintenance services for customers hosted at our Oracle data center facilities, select partner data centers or physically on-premise at customer facilities. Additionally, we provide support services, both on-premise and remote, to customers to enable increased performance and higher availability of their products and services. Education revenues are earned by providing instructor-led, media-based and internet-based training in the use of our software and hardware products. The cost of providing our services consists primarily of personnel related expenses, technology infrastructure expenditures, facilities expenses and external contractor expenses. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Services Revenues: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; $ 554 &#160; &#160; &#160; -6% &#160; &#160; &#160; -5% &#160; &#160; $ 589 &#160; &#160; $ 1,741 &#160; &#160; &#160; -3% &#160; &#160; &#160; -2% &#160; &#160; $ 1,801 &#160; EMEA 
+
+&#160; &#160; 300 &#160; &#160; &#160; -15% &#160; &#160; &#160; -14% &#160; &#160; &#160; 351 &#160; &#160; &#160; 935 &#160; &#160; &#160; -15% &#160; &#160; &#160; -11% &#160; &#160; &#160; 1,099 &#160; Asia Pacific 
+
+&#160; &#160; 191 &#160; &#160; &#160; -5% &#160; &#160; &#160; 1% &#160; &#160; &#160; 201 &#160; &#160; &#160; 607 &#160; &#160; &#160; 1% &#160; &#160; &#160; 5% &#160; &#160; &#160; 601 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 1,045 &#160; &#160; &#160; -8% &#160; &#160; &#160; -7% &#160; &#160; &#160; 1,141 &#160; &#160; &#160; 3,283 &#160; &#160; &#160; -6% &#160; &#160; &#160; -3% &#160; &#160; &#160; 3,501 &#160; Expenses: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Services (1) 
+
+&#160; &#160; 847 &#160; &#160; &#160; -8% &#160; &#160; &#160; -6% &#160; &#160; &#160; 916 &#160; &#160; &#160; 2,644 &#160; &#160; &#160; -5% &#160; &#160; &#160; -1% &#160; &#160; &#160; 2,772 &#160; Stock-based compensation 
+
+&#160; &#160; 7 &#160; &#160; &#160; 17% &#160; &#160; &#160; 17% &#160; &#160; &#160; 6 &#160; &#160; &#160; 24 &#160; &#160; &#160; 47% &#160; &#160; &#160; 47% &#160; &#160; &#160; 16 &#160; Amortization of intangible assets (2) 
+
+&#160; &#160; 4 &#160; &#160; &#160; -66% &#160; &#160; &#160; -66% &#160; &#160; &#160; 11 &#160; &#160; &#160; 18 &#160; &#160; &#160; -52% &#160; &#160; &#160; -52% &#160; &#160; &#160; 38 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; &#160; 858 &#160; &#160; &#160; -8% &#160; &#160; &#160; -6% &#160; &#160; &#160; 933 &#160; &#160; &#160; 2,686 &#160; &#160; &#160; -5% &#160; &#160; &#160; -2% &#160; &#160; &#160; 2,826 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin 
+
+&#160; $ 187 &#160; &#160; &#160; -10% &#160; &#160; &#160; -9% &#160; &#160; $ 208 &#160; &#160; $ 597 &#160; &#160; &#160; -12% &#160; &#160; &#160; -9% &#160; &#160; $ 675 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total Margin % 
+
+&#160; &#160; 18% &#160; &#160; &#160; &#160; &#160; 18% &#160; &#160; &#160; 18% &#160; &#160; &#160; &#160; &#160; 19% &#160; % Revenues by Geography: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Americas 
+
+&#160; &#160; 53% &#160; &#160; &#160; &#160; &#160; 52% &#160; &#160; &#160; 53% &#160; &#160; &#160; &#160; &#160; 52% &#160; EMEA 
+
+&#160; &#160; 29% &#160; &#160; &#160; &#160; &#160; 31% &#160; &#160; &#160; 29% &#160; &#160; &#160; &#160; &#160; 31% &#160; Asia Pacific 
+
+&#160; &#160; 18% &#160; &#160; &#160; &#160; &#160; 17% &#160; &#160; &#160; 18% &#160; &#160; &#160; &#160; &#160; 17% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+&#160;
+
+(2) &#160; Included as a component of &#145;Amortization of Intangible Assets&#146; in our condensed consolidated statements of operations 
+
+On a constant currency basis, our total services revenues decreased in the fiscal 2013 periods presented in comparison to the corresponding prior year periods due to revenue decreases in each of our services segments. The largest revenue decrease in the fiscal 2013 periods presented was to our consulting revenues, which were primarily impacted by weaker demand in EMEA due to weaker economic conditions. 
+
+Excluding the effect of currency rate fluctuations, total services expenses decreased during the fiscal 2013 periods presented in comparison to the corresponding prior year periods primarily due to expense decreases during our third quarter of fiscal 2013 across all of our services segments, which consisted primarily of decreases in external contractor costs, lower variable compensation expenses, and lower intangible asset amortization. 
+
+Excluding the effect of currency rate fluctuations, total services margin and margin as a percentage of revenues decreased during the fiscal 2013 periods presented as our services revenues declined at a faster rate than our services expenses. 
+
+&#160; 
+
+Research and Development Expenses: Research and development expenses consist primarily of personnel related expenditures. We intend to continue to invest significantly in our research and development efforts because, in our judgment, they are essential to maintaining our competitive position. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Research and development (1) 
+
+&#160; $ 1,100 &#160; &#160; &#160; 3% &#160; &#160; &#160; 3% &#160; &#160; $ 1,071 &#160; &#160; $ 3,328 &#160; &#160; &#160; 8% &#160; &#160; &#160; 9% &#160; &#160; $ 3,084 &#160; Stock-based compensation 
+
+&#160; &#160; 86 &#160; &#160; &#160; 16% &#160; &#160; &#160; 16% &#160; &#160; &#160; 74 &#160; &#160; &#160; 258 &#160; &#160; &#160; 21% &#160; &#160; &#160; 21% &#160; &#160; &#160; 213 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; $ 1,186 &#160; &#160; &#160; 4% &#160; &#160; &#160; 4% &#160; &#160; $ 1,145 &#160; &#160; $ 3,586 &#160; &#160; &#160; 9% &#160; &#160; &#160; 10% &#160; &#160; $ 3,297 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; % of Total Revenues 
+
+&#160; &#160; 13% &#160; &#160; &#160; &#160; &#160; 13% &#160; &#160; &#160; 14% &#160; &#160; &#160; &#160; &#160; 13% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+On a constant currency basis, total research and development expenses increased during the fiscal 2013 periods presented primarily due to an increase in employee related expenses including salaries, benefits and stock-based compensation from increased headcount, and were partially offset by lower variable compensation expenses. 
+
+General and Administrative Expenses: General and administrative expenses primarily consist of personnel related expenditures for information technology, finance, legal and human resources support functions. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; General and administrative (1) 
+
+&#160; $ 220 &#160; &#160; &#160; 0% &#160; &#160; &#160; 1% &#160; &#160; $ 220 &#160; &#160; $ 676 &#160; &#160; &#160; -7% &#160; &#160; &#160; -5% &#160; &#160; $ 728 &#160; Stock-based compensation 
+
+&#160; &#160; 40 &#160; &#160; &#160; -3% &#160; &#160; &#160; -3% &#160; &#160; &#160; 41 &#160; &#160; &#160; 122 &#160; &#160; &#160; 2% &#160; &#160; &#160; 2% &#160; &#160; &#160; 120 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total expenses 
+
+&#160; $ 260 &#160; &#160; &#160; 0% &#160; &#160; &#160; 1% &#160; &#160; $ 261 &#160; &#160; $ 798 &#160; &#160; &#160; -6% &#160; &#160; &#160; -4% &#160; &#160; $ 848 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; % of Total Revenues 
+
+&#160; &#160; 3% &#160; &#160; &#160; &#160; &#160; 3% &#160; &#160; &#160; 3% &#160; &#160; &#160; &#160; &#160; 3% &#160; &#160;
+
+(1) &#160; Excluding stock-based compensation 
+
+Fiscal Third Quarter 2013 Compared to Fiscal Third Quarter 2012: On a constant currency basis, total general and administrative expenses increased modestly during the third quarter of fiscal 2013 primarily due to slightly higher salaries and benefits expenses due to a modest increase in headcount, partially offset by decreased variable compensation expenses. 
+
+First Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012: On a constant currency basis, total general and administrative expenses decreased during the first nine months of fiscal 2013 primarily due to a decrease in professional fees and lower variable compensation expenses, partially offset by slightly higher salaries and benefits expenses due to a modest increase in headcount. 
+
+Amortization of Intangible Assets: 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Software support agreements and related relationships 
+
+&#160; $ 145 &#160; &#160; &#160; -2% &#160; &#160; &#160; -2% &#160; &#160; $ 148 &#160; &#160; $ 437 &#160; &#160; &#160; 0% &#160; &#160; &#160; 0% &#160; &#160; $ 438 &#160; Hardware systems support agreements and related relationships 
+
+&#160; &#160; 30 &#160; &#160; &#160; 0% &#160; &#160; &#160; 0% &#160; &#160; &#160; 30 &#160; &#160; &#160; 90 &#160; &#160; &#160; 1% &#160; &#160; &#160; 1% &#160; &#160; &#160; 89 &#160; Developed technology 
+
+&#160; &#160; 203 &#160; &#160; &#160; -12% &#160; &#160; &#160; -12% &#160; &#160; &#160; 230 &#160; &#160; &#160; 626 &#160; &#160; &#160; -9% &#160; &#160; &#160; -9% &#160; &#160; &#160; 687 &#160; Core technology 
+
+&#160; &#160; 82 &#160; &#160; &#160; -4% &#160; &#160; &#160; -4% &#160; &#160; &#160; 85 &#160; &#160; &#160; 246 &#160; &#160; &#160; -3% &#160; &#160; &#160; -3% &#160; &#160; &#160; 253 &#160; Customer relationships and contract backlog 
+
+&#160; &#160; 81 &#160; &#160; &#160; -12% &#160; &#160; &#160; -12% &#160; &#160; &#160; 92 &#160; &#160; &#160; 262 &#160; &#160; &#160; 0% &#160; &#160; &#160; 0% &#160; &#160; &#160; 262 &#160; Cloud software subscriptions and related relationships 
+
+&#160; &#160; 29 &#160; &#160; &#160; 383% &#160; &#160; &#160; 383% &#160; &#160; &#160; 6 &#160; &#160; &#160; 81 &#160; &#160; &#160; 523% &#160; &#160; &#160; 523% &#160; &#160; &#160; 13 &#160; Trademarks 
+
+&#160; &#160; 16 &#160; &#160; &#160; 7% &#160; &#160; &#160; 7% &#160; &#160; &#160; 15 &#160; &#160; &#160; 47 &#160; &#160; &#160; -2% &#160; &#160; &#160; -2% &#160; &#160; &#160; 48 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total amortization of intangible assets 
+
+&#160; $ 586 &#160; &#160; &#160; -3% &#160; &#160; &#160; -3% &#160; &#160; $ 606 &#160; &#160; $ 1,789 &#160; &#160; &#160; 0% &#160; &#160; &#160; 0% &#160; &#160; $ 1,790 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; 
+
+Amortization of intangible assets decreased during the fiscal 2013 periods presented as certain of our intangible assets pertaining to our acquisitions of Sun Microsystems, Inc. and certain other companies became fully amortized. These decreases were partially offset by additional amortization from intangible assets that we recently acquired in connection with our acquisitions, including our acquisitions of RightNow and Taleo in fiscal 2012, among others. Note 5 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report has additional information regarding our intangible assets and related amortization. 
+
+Acquisition Related and Other Expenses: Acquisition related and other expenses consist of personnel related costs for transitional and certain other employees, stock-based compensation expenses, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and changes in fair value of contingent consideration payable (see Note 2 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report) and certain other operating items, net. Stock-based compensation expenses included in acquisition related and other expenses resulted from unvested stock options and restricted stock-based awards assumed from acquisitions whereby vesting was accelerated upon termination of the employees pursuant to the original terms of those stock options and restricted stock-based awards. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Transitional and other employee related costs 
+
+&#160; $ 7 &#160; &#160; &#160; 18% &#160; &#160; &#160; 19% &#160; &#160; $ 6 &#160; &#160; $ 24 &#160; &#160; &#160; 37% &#160; &#160; &#160; 42% &#160; &#160; $ 18 &#160; Stock-based compensation 
+
+&#160; &#160; 8 &#160; &#160; &#160; -55% &#160; &#160; &#160; -55% &#160; &#160; &#160; 18 &#160; &#160; &#160; 30 &#160; &#160; &#160; 39% &#160; &#160; &#160; 39% &#160; &#160; &#160; 21 &#160; Professional fees and other, net 
+
+&#160; &#160; 7 &#160; &#160; &#160; 14% &#160; &#160; &#160; 16% &#160; &#160; &#160; 6 &#160; &#160; &#160; (282 ) &#160; &#160; * &#160; &#160; &#160; * &#160; &#160; &#160; (1 ) Business combination adjustments, net 
+
+&#160; &#160; 10 &#160; &#160; &#160; 25% &#160; &#160; &#160; 20% &#160; &#160; &#160; 8 &#160; &#160; &#160; (119 ) &#160; &#160; -568% &#160; &#160; &#160; -582% &#160; &#160; &#160; 25 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total acquisition related and other expenses 
+
+&#160; $ 32 &#160; &#160; &#160; -16% &#160; &#160; &#160; -17% &#160; &#160; $ 38 &#160; &#160; $ (347 ) &#160; &#160; -652% &#160; &#160; &#160; -660% &#160; &#160; $ 63 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160;
+
+* Not meaningful Fiscal Third Quarter 2013 Compared to Fiscal Third Quarter 2012: Excluding the effect of currency rate fluctuations, the decrease in acquisition related and other expenses during the third quarter of fiscal 2013 was primarily due to a decrease in stock-based compensation expenses associated with our recent acquisitions. 
+
+First Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012: On a constant currency basis, the decrease in our acquisition related and other expenses in the first nine months of fiscal 2013 was primarily due to a $306 million benefit that we recorded in the first quarter of fiscal 2013 related to certain litigation (see Note 14 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information) and the change in fair value of contingent consideration payable, which resulted in a net benefit of $118 million (see Note 2 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information). 
+
+Restructuring expenses: Restructuring expenses result from the execution of management approved restructuring plans that were generally developed to improve our cost structure and/or operations, often in conjunction with our acquisition integration strategies. Restructuring expenses consist of employee severance costs and may also include charges for duplicate facilities and other contract termination costs to improve our cost structure prospectively. For additional information regarding our restructuring plans, see Note 7 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Restructuring expenses 
+
+&#160; $ 42 &#160; &#160; &#160; -35% &#160; &#160; &#160; -36% &#160; &#160; $ 64 &#160; &#160; $ 318 &#160; &#160; &#160; 46% &#160; &#160; &#160; 52% &#160; &#160; $ 217 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Restructuring expenses in the fiscal 2013 periods presented primarily related to the Fiscal 2013 Oracle Restructuring Plan (the 2013 Restructuring Plan), which our management approved, committed to and initiated in order to restructure and further improve efficiencies in our operations. We amended the 2013 Restructuring Plan in the third quarter of fiscal 2013 to reflect additional actions that we expect to take to improve efficiencies in our 
+
+&#160; 
+
+operations. The total estimated restructuring costs associated with the 2013 Restructuring Plan are $420 million and will be recorded to the restructuring expense line item within our consolidated statements of operations as they are incurred. The total estimated remaining restructuring costs associated with the 2013 Restructuring Plan were approximately $126 million as of February 28, 2013. The majority of the remaining costs are expected to be incurred through fiscal 2014. Our estimated costs may be subject to change in future periods. 
+
+Restructuring expenses in the first nine months of fiscal 2012 primarily related to our Sun Restructuring Plan. Note 9 of Notes to Consolidated Financial Statements as included in our Annual Report on Form 10-K for our fiscal year ended May 31, 2012 contains additional information pertaining to our Sun Restructuring Plan. 
+
+Interest Expense: 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Interest expense 
+
+&#160; $ 205 &#160; &#160; &#160; 8% &#160; &#160; &#160; 8% &#160; &#160; $ 190 &#160; &#160; $ 588 &#160; &#160; &#160; 2% &#160; &#160; &#160; 3% &#160; &#160; $ 574 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Interest expense generally increased in the fiscal 2013 periods presented due to higher average borrowings resulting from our issuance of $5.0 billion of senior notes in October 2012 (see Note 6 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information). 
+
+Non-Operating (Expense) Income, net : Non-operating (expense) income, net consists primarily of interest income, net foreign currency exchange gains (losses), the noncontrolling interests in the net profits of our majority-owned subsidiaries (Oracle Financial Services Software Limited and Oracle Japan) and net other income (losses) including net realized gains and losses related to all of our investments and net unrealized gains and losses related to the small portion of our investment portfolio that we classify as trading. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Interest income 
+
+&#160; $ 62 &#160; &#160; &#160; 3% &#160; &#160; &#160; 7% &#160; &#160; $ 60 &#160; &#160; $ 180 &#160; &#160; &#160; 3% &#160; &#160; &#160; 9% &#160; &#160; $ 175 &#160; Foreign currency losses, net 
+
+&#160; &#160; (87 ) &#160; &#160; 210% &#160; &#160; &#160; 197% &#160; &#160; &#160; (28 ) &#160; &#160; (150 ) &#160; &#160; 120% &#160; &#160; &#160; 116% &#160; &#160; &#160; (68 ) Noncontrolling interests in income 
+
+&#160; &#160; (29 ) &#160; &#160; -17% &#160; &#160; &#160; -15% &#160; &#160; &#160; (35 ) &#160; &#160; (93 ) &#160; &#160; 7% &#160; &#160; &#160; 10% &#160; &#160; &#160; (88 ) Other income, net 
+
+&#160; &#160; 15 &#160; &#160; &#160; -35% &#160; &#160; &#160; -35% &#160; &#160; &#160; 24 &#160; &#160; &#160; 39 &#160; &#160; &#160; 70% &#160; &#160; &#160; 72% &#160; &#160; &#160; 23 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Total non-operating (expense) income, net 
+
+&#160; $ (39 ) &#160; &#160; 284% &#160; &#160; &#160; 298% &#160; &#160; $ 21 &#160; &#160; $ (24 ) &#160; &#160; 158% &#160; &#160; &#160; 166% &#160; &#160; $ 42 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Fiscal Third Quarter 2013 Compared to Fiscal Third Quarter 2012: On a constant currency basis, we incurred non-operating expense, net during the third quarter of fiscal 2013 due to an increase in foreign currency losses, net that included a loss relating to our Venezuelan subsidiary&#146;s operations. During our third quarter of fiscal 2013, the Venezuelan government devalued its currency and we recognized a $64 million foreign currency loss as a result of the remeasurement of certain assets and liabilities of our Venezuelan subsidiary. As a large portion of our consolidated operations are international, we could experience additional foreign currency volatility in the future including additional foreign currency losses related to our Venezuelan subsidiary if the Venezuelan government further devalues the Venezuelan currency, the amounts and timing of which are uncertain. 
+
+First Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012: On a constant currency basis we incurred non-operating expense, net in the first nine months of fiscal 2013 primarily due to an increase in foreign currency transaction losses, net, as described above, and an increase in noncontrolling interests in income of our majority-owned subsidiaries. These favorable impacts to our non-operating expense, net during the first nine months of fiscal 2013 were partially offset by gains from our marketable securities that we designate as trading that are held to support our deferred compensation plan obligations. 
+
+Provision for Income Taxes: Our effective tax rate in all periods is the result of the mix of income earned in various tax jurisdictions that apply a broad range of income tax rates. The provision for income taxes differs from the tax computed at the U.S. federal statutory income tax rate due primarily to earnings considered as indefinitely reinvested in foreign operations, state taxes, the U.S. research and development tax credit and the U.S. domestic production activity 
+
+&#160; 
+
+deduction. Future effective tax rates could be adversely affected if earnings are lower than anticipated in countries where we have lower statutory tax rates, by unfavorable changes in tax laws and regulations or by adverse rulings in tax related litigation. 
+
+&#160;
+
+&#160; &#160; Three Months Ended &#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; February 28, 2013 &#160; &#160; Percent Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; &#160; &#160; Actual &#160; &#160; Constant &#160; &#160; Provision for income taxes 
+
+&#160; $ 586 &#160; &#160; &#160; -10% &#160; &#160; &#160; -8% &#160; &#160; $ 650 &#160; &#160; $ 1,953 &#160; &#160; &#160; -5% &#160; &#160; &#160; -1% &#160; &#160; $ 2,050 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Effective tax rate 
+
+&#160; &#160; 19.0% &#160; &#160; &#160; &#160; &#160; 20.7% &#160; &#160; &#160; 21.5% &#160; &#160; &#160; &#160; &#160; 23.9% &#160; Fiscal Third Quarter 2013 compared to Fiscal Third Quarter 2012 : Provision for income taxes decreased during the third quarter of fiscal 2013 primarily due to the retroactive extension of the U.S. research and development credit. 
+
+Fiscal Nine Months Fiscal 2013 Compared to First Nine Months Fiscal 2012 : Provision for income taxes in the first nine months of fiscal 2013 decreased primarily due to a tax favorable change in the jurisdictional mix of our earnings, and the retroactive extension of the U.S. research and development credit, both of which more than offset our higher income before provision for income taxes. 
+
+Liquidity and Capital Resources 
+
+&#160;
+
+&#160; &#160; February 28, 2013 &#160; &#160; Change &#160; &#160; May 31, 2012 &#160; (Dollars in millions) 
+
+&#160; &#160; &#160; Working capital 
+
+&#160; $ 28,770 &#160; &#160; &#160; 17% &#160; &#160; $ 24,635 &#160; Cash, cash equivalents and marketable securities 
+
+&#160; $ 33,407 &#160; &#160; &#160; 9% &#160; &#160; $ 30,676 &#160; Working capital: The increase in working capital as of February 28, 2013 in comparison to May 31, 2012 was primarily due to our issuance of $5.0 billion of senior notes in October 2012, the favorable impact to our net current assets resulting from our net income during the first nine months of fiscal 2013, and, to a lesser extent, cash proceeds from stock option exercises. This increase was partially offset by cash used for repurchases of our common stock (we used $8.2 billion of cash for common stock repurchases during the first nine months of fiscal 2013), cash used to pay dividends to our stockholders and cash used for acquisitions, all of which occurred during the first nine months of fiscal 2013. Our working capital may be impacted by some of the aforementioned factors in future periods, certain amounts and timing of which are variable. 
+
+Cash, cash equivalents and marketable securities: Cash and cash equivalents primarily consist of deposits held at major banks, Tier-1 commercial paper, U.S. Treasury obligations, U.S. government agency and government sponsored enterprise obligations, and other securities with original maturities of 90 days or less. Marketable securities primarily consist of time deposits held at major banks, Tier-1 commercial paper, corporate notes, U.S. Treasury obligations, U.S. government agency and government sponsored enterprise obligations and certain other securities. The increase in cash, cash equivalents and marketable securities at February 28, 2013 in comparison to May 31, 2012 was due to the issuance of $5.0 billion of senior notes in October 2012, an increase in cash generated from our operating activities, and to a lesser extent, cash proceeds from stock option exercises. This increase was partially offset by $8.2 billion of repurchases of our common stock, the repayment of $1.7 billion of short-term borrowings pursuant to certain revolving credit facilities, cash used for acquisitions and the payment of cash dividends to our stockholders. Cash, cash equivalents and marketable securities included $27.4 billion held by our foreign subsidiaries as of February 28, 2013, a significant portion of which was generated from the earnings of these foreign subsidiaries that we consider as indefinitely reinvested outside the United States. These undistributed earnings that are considered as indefinitely reinvested overseas would be subject to U.S. income tax if repatriated to the United States. The amount of cash, cash equivalents and marketable securities that we report in U.S. Dollars for a significant portion of the cash held by our foreign subsidiaries is subject to translation adjustments caused by changes in foreign currency exchange rates as of the end of each respective reporting period (the offset to which is recorded to accumulated other comprehensive income in our consolidated balance sheets and is also presented as a line item in our condensed consolidated statements of other comprehensive income included elsewhere in this Quarterly Report). As the U.S. Dollar generally weakened against certain major international currencies as of February 28, 2013 in comparison to May 31, 2012, the 
+
+&#160; 
+
+amount of cash, cash equivalents and marketable securities that we reported in U.S. Dollars for these subsidiaries generally increased as of February 28, 2013 relative to what we would have reported using constant currency rates as of May 31, 2012. 
+
+Days sales outstanding, which was calculated by dividing period end accounts receivable by average daily sales for the quarter, was 42 days at February 28, 2013 compared with 53 days at May 31, 2012. The days sales outstanding calculation excluded the revenue adjustments that reduced our acquired cloud software subscriptions obligations, software license updates and product support obligations and hardware systems support obligations to fair value. Our decline in days sales outstanding was primarily due to the collection, in our first nine months of fiscal 2013, of large software license and software support balances outstanding as of May 31, 2012. 
+
+&#160;
+
+&#160; &#160; Nine Months Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; &#160; Cash provided by operating activities 
+
+&#160; $ 9,660 &#160; &#160; &#160; 0% &#160; &#160; $ 9,686 &#160; Cash used for investing activities 
+
+&#160; $ (3,727 ) &#160; &#160; -43% &#160; &#160; $ (6,537 ) Cash used for financing activities 
+
+&#160; $ (4,874 ) &#160; &#160; -9% &#160; &#160; $ (5,350 ) Cash flows from operating activities: Our largest source of operating cash flows is cash collections from our customers following the purchase and renewal of their software license updates and product support agreements. Payments from customers for these support agreements are generally received near the beginning of the contracts&#146; terms, which are generally one year in length. We also generate significant cash from new software licenses sales and sales of hardware systems support arrangements, and to a lesser extent, sales of services, hardware systems products, and cloud software subscriptions. Our primary uses of cash from operating activities are for employee related expenditures, material and manufacturing costs related to the production of our hardware systems products, taxes and leased facilities. 
+
+Net cash provided by operating activities remained flat in the first nine months of fiscal 2013 in comparison to the corresponding prior year period. Cash favorable impacts of increased net income adjusted for stock-based compensation and depreciation, and a decrease in cash used to pay accrued compensation liabilities such as commissions and bonuses, were substantially offset by an increase in cash used to pay income taxes and certain other net cash unfavorable working capital movements, in each case during the first nine months of fiscal 2013 in comparison to the first nine months of fiscal 2012. 
+
+Cash flows from investing activities: The changes in cash flows from investing activities primarily relate to acquisitions and the timing of purchases, maturities and sales of our investments in marketable debt securities. We also use cash to invest in capital and other assets, including certain intangible assets, to support our growth. 
+
+Net cash used for investing activities decreased in the first nine months of fiscal 2013 in comparison to the corresponding prior year period primarily due to a decrease in net cash used to purchase marketable securities (net of proceeds received from sales and maturities) and a decrease in cash used for acquisitions (net of cash acquired). 
+
+Cash flows from financing activities: The changes in cash flows from financing activities primarily relate to borrowings and payments under debt facilities as well as stock repurchases, dividend payments and proceeds from stock option exercises. 
+
+Net cash used for financing activities in the first nine months of fiscal 2013 decreased in comparison to the first nine months of fiscal 2012 primarily due to our issuance of $5.0 billion of senior notes in October 2012 and an increase in proceeds from stock option exercises, partially offset by an increase in our common stock repurchases (we used $8.2 billion of cash for common stock repurchases during the first nine months of fiscal 2013 in comparison to $3.5 billion in the first nine months of fiscal 2012), an increase in dividends paid (described in further detail below), and an increase in repayments of borrowings (we repaid $1.7 billion of short-term borrowings pursuant to our revolving credit facilities during the first nine months of fiscal 2013 in comparison to our repayments of $1.15 billion of short-term borrowings pursuant to our revolving credit facilities and $255 million of RightNow&#146;s legacy convertible notes in the first nine months of fiscal 2012). 
+
+&#160; 
+
+Free cash flow: To supplement our statements of cash flows presented on a GAAP basis, we use non-GAAP measures of cash flows on a trailing 4-quarter basis to analyze cash flows generated from our operations. We believe free cash flow is also useful as one of the bases for comparing our performance with our competitors. The presentation of non-GAAP free cash flow is not meant to be considered in isolation or as an alternative to net income as an indicator of our performance, or as an alternative to cash flows from operating activities as a measure of liquidity. We calculate free cash flows as follows: 
+
+&#160;
+
+&#160; &#160; Trailing 4-Quarters Ended &#160; (Dollars in millions) 
+
+&#160; February 28, 2013 &#160; &#160; Change &#160; &#160; February 29, 2012 &#160; &#160; &#160; &#160; Net cash provided by operating activities 
+
+&#160; $ 13,717 &#160; &#160; &#160; 2% &#160; &#160; $ 13,463 &#160; Capital expenditures (1) 
+
+&#160; &#160; (684 ) &#160; &#160; 34% &#160; &#160; &#160; (509 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Free cash flow 
+
+&#160; $ 13,033 &#160; &#160; &#160; 1% &#160; &#160; $ 12,954 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Net income 
+
+&#160; $ 10,571 &#160; &#160; &#160; $ 9,738 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; Free cash flow as percent of net income 
+
+&#160; &#160; 123% &#160; &#160; &#160; &#160; 133% &#160; &#160;
+
+(1) &#160; Derived from capital expenditures as reported in cash flows from investing activities as per our condensed consolidated statements of cash flows presented in accordance with U.S. GAAP. 
+
+Long-Term Customer Financing: We offer certain of our customers the option to acquire our software products, hardware systems products and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts&#146; dates of execution. We record the transfers of amounts due from customers to financial institutions as sales of financial assets because we are considered to have surrendered control of these financial assets. We financed $829 million and $705 million, respectively, or approximately 13% and 12%, respectively, of our new software licenses and cloud software subscriptions revenues in the first nine months of fiscal 2013 and 2012, and $94 million and $81 million, respectively, or approximately 4% and 3%, respectively, of our hardware systems products revenues in the first nine months of fiscal 2013 and 2012. 
+
+Recent Financing Activities: 
+
+Cash Dividends : In December 2012, our Board of Directors declared and paid an accelerated cash dividend totaling $0.18 per share of outstanding common stock. This accelerated cash dividend was intended by our Board of Directors to be in lieu of quarterly dividends that we would have otherwise announced with our quarterly earnings results for the second, third and fourth quarters of fiscal 2013, and that would have been paid in calendar year 2013. The next opportunity for our Board of Directors to consider and approve the declaration of a dividend will be when we announce our earnings results for the first quarter of fiscal 2014, which ends on August 31, 2013. Future declarations of dividends and the establishment of future record and payment dates are subject to the final determination of our Board of Directors. 
+
+Senior Notes : In October 2012, we issued $5.0 billion of fixed rate senior notes comprised of $2.5 billion of 1.20% notes due October 2017 and $2.5 billion of 2.50% notes due October 2022. We issued these senior notes for general corporate purposes, which may include stock repurchases, future acquisitions and repayment of indebtedness, including repayment of our $1.25 billion of 4.95% senior notes due April 2013. Additional details regarding these senior notes are included in Note 6 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report. 
+
+Revolving Credit Agreement : On July 2, 2012, our revolving credit agreement with JPMorgan Chase Bank, N.A., as initial lender and administrative agent; and J.P. Morgan Securities, LLC, as sole lead arranger and sole bookrunner (the 2012 Credit Agreement) to borrow $1.7 billion was repaid in full and the 2012 Credit Agreement expired pursuant to its terms. 
+
+Common Stock Repurchases : Our Board of Directors has approved a program for us to repurchase shares of our common stock. On June 18, 2012, we announced that our Board of Directors approved an expansion of our stock repurchase program by an additional $10.0 billion. As of February 28, 2013, approximately $5.0 billion 
+
+&#160; 
+
+remained available for stock repurchases under the stock repurchase program. Our stock repurchase authorization does not have an expiration date and the pace of our repurchase activity will depend on factors such as our working capital needs, our cash requirements for acquisitions and dividend repayments, our debt repayment obligations, our stock price and economic and market conditions. Our stock repurchases may be effected from time to time through open market purchases or pursuant to a Rule 10b5-1 plan. Our stock repurchase program may be accelerated, suspended, delayed or discontinued at any time. 
+
+Contractual Obligations: During the first nine months of fiscal 2013, there were no significant changes to our estimates of future payments under our fixed contractual obligations and commitments as presented in Part II, Item 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for our fiscal year ended May 31, 2012 other than the following: 
+
+Proposed Acquisition of Acme Packet, Inc. : On February 4, 2013, we entered into an Agreement and Plan of Merger (Merger Agreement) with Acme Packet, a provider of session border control technology. Pursuant to the Merger Agreement, our wholly-owned subsidiary will merge with and into Acme Packet and Acme Packet will become a wholly-owned subsidiary of Oracle. Upon the consummation of the merger, each share of Acme Packet common stock will be converted into the right to receive $29.25 (Merger Consideration) in cash. In addition, the unvested portion of each Acme Packet stock option and restricted stock-based award and the vested portion of each Acme Packet stock option, the exercise price of which is equal to or greater than the Merger Consideration, in each case that is outstanding immediately prior to the consummation of the merger and held by employees, will generally be converted into a stock option or restricted stock-based award, as the case may be, denominated in shares of Oracle common stock based on formulas contained in the Merger Agreement. The estimated total purchase price of Acme Packet is approximately $2.1 billion. The completion of the merger is subject to customary conditions, including without limitation, the approval of the merger by Acme Packet&#146;s stockholders. 
+
+Senior Notes : In October 2012, we issued $5.0 billion of fixed rate senior notes comprised of $2.5 billion of 1.20% notes due October 2017 and $2.5 billion of 2.50% notes due October 2022. Additional details regarding these senior notes are included in Note 6 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report. 
+
+We believe that our current cash, cash equivalents and marketable securities and cash generated from operations will be sufficient to meet our working capital, capital expenditures and contractual obligation requirements, including repayment of our $1.25 billion of 4.95% senior notes due April 2013. In addition, we believe we could fund any future acquisitions, including the proposed acquisition of Acme Packet, dividend payments and repurchases of common stock or debt with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities. 
+
+Off-Balance Sheet Arrangements: We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. 
+
+Stock Options and Restricted Stock-Based Awards 
+
+Our stock-based compensation program is a key component of the compensation package we provide to attract and retain certain of our talented employees and align their interests with the interests of existing stockholders. We historically have granted only stock options to our employees and any restricted stock-based awards outstanding were assumed as a result of our acquisitions. 
+
+We recognize that stock options and restricted stock-based awards dilute existing stockholders and have sought to control the number of stock options and restricted stock-based awards granted while providing competitive compensation packages. Consistent with these dual goals, our cumulative potential dilution since June 1, 2009 has been a weighted average annualized rate of 1.5% per year. The potential dilution percentage is calculated as the average annualized new stock options or restricted stock-based awards granted and assumed, net of stock options and restricted stock-based awards forfeited by employees leaving the company, divided by the weighted average outstanding shares during the calculation period. This maximum potential dilution will only result if all 
+
+&#160; 
+
+stock options are exercised and restricted stock-based awards vest. Of the outstanding stock options at February 28, 2013, which generally have a 10-year exercise period, less than 1% have exercise prices higher than the current market price of our common stock. In recent years, our stock repurchase program has more than offset the dilutive effect of our stock-based compensation program; however, we may reduce the level of our stock repurchases in the future as we may use our available cash for acquisitions, to pay dividends, to repay or repurchase indebtedness or for other purposes. At February 28, 2013, the maximum potential dilution from all outstanding and unexercised stock options and restricted stock-based awards, regardless of when granted and regardless of whether vested or unvested and including stock options where the strike price is higher than the current market price, was 9.6%. 
+
+Recent Accounting Pronouncements 
+
+For information with respect to recent accounting pronouncements, if any, and the impact of these pronouncements on our consolidated financial statements, if any, see Note 1 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report. 
+
+
+
+ Item 1A. Risk Factors 
+
+In addition to the other information set forth in this Quarterly Report, you should carefully consider the factors discussed in Part I, Item 1A. &#147;Risk Factors&#148; in our Annual Report on Form 10-K for our fiscal year ended May 31, 2012. The risks discussed in our Annual Report on Form 10-K could materially affect our business, financial condition and future results. The risks described in our Annual Report on Form 10-K are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be insignificant also may materially and adversely affect our business, financial condition or operating results in the future. 
+

@@ -1,0 +1,17 @@
+# B-MTGNN model dependencies (training + Bayesian forecasting)
+
+# Core deep learning
+torch
+numpy
+scipy
+
+# Data / config
+pandas
+pyyaml
+safetensors
+
+# Hyperparameter search
+optuna
+
+# Plotting
+matplotlib

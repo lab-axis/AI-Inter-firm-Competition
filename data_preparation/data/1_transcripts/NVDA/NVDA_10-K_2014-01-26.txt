@@ -1,0 +1,2410 @@
+ ITEM 1. BUSINESS 
+
+Our Company 
+
+NVIDIA is a visual computing company. In a world increasingly filled with visual displays, our graphics technologies let our customers interact with the world of digital ideas, information and entertainment with an efficiency that no other communication medium can match. &#32; 
+
+Our strategy is to be the world leader in visual computing. We target applications in each of the major computing platforms - PC, cloud, mobile - where we can create value. Our target markets are gaming, design and visualization, high performance computing, or HPC, and data center, and automotive and smart devices. We deploy business models we believe are best suited for each application, whether IP, chips, systems, or NVIDIA-branded devices and services. &#32; 
+
+We have long been known for bringing video games to life with our PC graphics chips. With our invention of the GPU, we introduced the world to the power of programmable shading, which defines modern computer graphics. Today, we reach well beyond PC graphics and games. Our energy-efficient processors are at the heart of products ranging from smartphones to automobiles to supercomputers. We believe in leveraging our processors and visual computing expertise to create differentiated products. &#32; 
+
+PC gamers choose our GPUs to enjoy immersive fantasy worlds. Our Tegra system-on-a-chip, or SOC, processors power smartphones, tablets and automobile infotainment systems. Professional designers use our GPUs to create visual effects in movies and design everything from audio headsets to commercial aircraft. Supercomputers take advantage of the massively parallel processing capabilities of our GPUs to accelerate a wide range of important applications, from simulations of viruses to weather forecasting and global oil exploration. &#32; 
+
+NVIDIA's research and development in visual computing has yielded approximately 7,000 patent assets, including inventions essential to modern computing. &#32; 
+
+Our businesses are based on two technologies with a consistent underlying graphics architecture: the GPU and the Tegra processor. &#32; 
+
+GPUs, each with billions of transistors, are the engines of visual computing and among the world's most complex processors. We have GPU product brands aimed at specific users and applications: GeForce for gamers; Quadro for designers; Tesla for researchers; and GRID for cloud-based graphics. &#32; 
+
+##TABLE_START &#8226; 
+
+In gaming, GPUs enhance the gaming experience on PCs by improving the visual quality of graphics, increasing the frame rate for smoother gameplay and improving realism by replicating the behavior of light and physical objects. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+For designers, GPUs improve productivity and introduce new capabilities. For example, an architect designing a new building in a CAD package can interact with the model in real time, the model can be more detailed, and photo realistic renderings can be generated for the client. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Researchers can use GPUs to run their simulations faster while consuming less power, increasing the accuracy of weather forecasts, or pricing financial derivatives more quickly. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+GRID uses GPUs to deliver graphics performance remotely, from the cloud. Uses include gaming, professional applications provided as a service (SaaS) and improving Citrix and VMware installations. 
+
+##TABLE_END The Tegra processor is a SOC integrating an entire computer on a single chip. Tegra processors incorporate GPUs and multi-core CPUs together with audio, video and input/output capabilities. They can also be integrated with baseband processors to add voice and data communication. Our Tegra SOC conserves power while delivering state-of-the-art graphics and multimedia processing. &#32; 
+
+Tegra runs devices like smartphones, tablets and PCs; it can also be embedded into smart devices, such as televisions, monitors, set-top boxes, gaming devices and cars. SHIELD, our Android gaming device based on Tegra, contains proprietary NVIDIA-developed software and system technologies and leverages our deep partnerships with game developers. &#32; 
+
+Headquartered in Santa Clara, California, we were incorporated in California in April 1993 and reincorporated in Delaware in April 1998. &#32; 
+
+Our Businesses 
+
+Our two reporting segments - GPU and Tegra Processor - leverage a single, unified architecture. &#32;On this foundation, we build technologies for each of the major computing platforms - PC, cloud, mobile. We create differentiated brands to target large markets - Gaming, Design and Visualization, HPC and Data Center, and Automotive and Smart Devices - where visual computing is challenging. 
+
+Businesses &#160; NVIDIA Brands and &#32; Product Lines 
+
+GPU &#160; 
+
+##TABLE_START &#8226; 
+
+GeForce &#32;for consumer desktop and notebook PCs 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Quadro &#32;for professionals working in computer-aided design, video editing, special effects and other applications 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Tesla &#32;for supercomputing and big data applications 
+
+##TABLE_END##TABLE_START &#8226; 
+
+GRID to provide the power of NVIDIA graphics through the cloud 
+
+##TABLE_END 
+
+Tegra Processor &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32; 
+
+##TABLE_START &#8226; 
+
+Tegra &#32;processors for smartphones, tablets, gaming devices, other computer devices such as Windows RT-based devices, set-top boxes, chromebooks, clamshells, and others 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Icera &#32;baseband processors and radio frequency (RF) transceivers for mobile connectivity 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Tegra NOTE , a complete tablet platform based on Tegra 4 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Tegra VCM , &#32; a &#32; Tegra-based vehicle computing module that integrates an entire automotive computer into a single component 
+
+##TABLE_END##TABLE_START &#8226; 
+
+SHIELD , an Android gaming device optimized to help users enjoy digital content in the cloud 
+
+##TABLE_END 
+
+In addition, we have also announced an IP licensing initiative designed to bring our GPU technology to new markets. 
+
+Our Markets 
+
+We are focused on markets in which visual computing is important, such as gaming, design and visualization, HPC and data center, and automotive and smart devices. 
+
+Gaming 
+
+We focus on open platforms - PCs, mobile devices and the cloud. We build processors to deliver the best graphics for a great gaming experience, sophisticated 3D software and algorithms that are incorporated into games, and technology that enables games to be played remotely from the cloud. 
+
+Our products for the gaming market include: GeForce GTX GPUs for PC gaming; Tegra processors for mobile devices; the GRID visual computing appliance, which streams games from the cloud to connected devices; and SHIELD. These products can be enjoyed independently or in conjunction with each other to connect the gaming experience across platforms. For example, gamers can use SHIELD to play Android games or stream games from a PC with a GeForce processor; or they can stream games from a GRID gaming server to their PC or TV. 
+
+Design and Visualization 
+
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;Our strategy is to serve as our customers' most trusted graphics partner, working closely with independent software vendors to optimize their offerings for NVIDIA GPUs. Our visual computing solutions enhance productivity for critical parts of the workflow of major industries, ranging from automotive, to film and television broadcast. 
+
+Visual computing is vital to productivity in many environments: 
+
+##TABLE_START &#8226; 
+
+Design and Manufacturing &#32;- including computer-aided design, architectural design, consumer-products manufacturing, medical instrumentation, and science and aerospace 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Media and Entertainment &#32;- including professional video editing and movie post production, special effects for movies and television, advertising, and virtual sets for broadcast 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Virtual Desktop Infrastructure (VDI) &#32;- many enterprises choose to virtualize their IT infrastructure using software from companies such as Citrix and VMware; for these environments, NVIDIA GRID hardware and software can significantly improve the end-user experience 
+
+##TABLE_END NVIDIA brands for this market include Quadro GPUs for workstations and GRID for enterprise VDI. 
+
+NVIDIA Quadro GPUs enhance the productivity of designers by improving performance and adding functionality, such as photorealistic rendering for computer-aided design workstations. Other applications include professional video editing, generating special effects in movies and creating virtual sets for broadcast. 
+
+GRID makes it possible to run graphics-intensive applications remotely on a server in the datacenter, instead of locally on a PC or workstation. Applications include accelerating virtual desktop infrastructures and delivering graphics-intensive applications from the cloud. 
+
+&#32; HPC and Data Center 
+
+Our strategy for the HPC and data center market is to serve demand for big data analytics, including aerospace simulation, molecular dynamics, bio-science simulations of viruses, oil and gas exploration. 
+
+NVIDIA Tesla applies the parallel-processing capability of GPUs to general-purpose computing problems, greatly increasing performance and power efficiency over CPU-only solutions. Tesla-based servers and supercomputers increase the speed of applications used in bio-science research, mechanical and fluid simulations, energy exploration, computational finance and in big data analytics. 
+
+Automotive and Smart Devices 
+
+The foundation of our mobile computing strategy is the Tegra processor, which harnesses our expertise in computer chip, software and system design, while leveraging our world-leading expertise in visual computing. 
+
+The mobile market is more than smartphones. The combination of Tegra and our significant computing software assets enables us to address the many new markets for connected smart devices. For example, millions of cars are sold each year, and all, we believe, will eventually include multiple smart devices similar to Tegra-based computers that augment our driving experience. They will ensure our safety and the safety of those around us, search and navigate to destinations through heads-up displays, and enhance our comfort and enjoyment. Cars will be connected to our mobile devices. They may someday drive themselves out of parking garages to meet their owners, with the seat and temperature already set to their liking. These features could be enabled by sophisticated navigation and infotainment systems, as well as next-generation safety and driver-assistance systems. 
+
+Increasingly, devices are becoming smarter and more connected. There will be smart TVs that respond to voice and gesture commands, smart monitors powered by Android making a PC optional, and watches and jewelry that recognize voice commands and make calls. Our mobile vision is to put Tegra into every device where visual computing is valued. 
+
+Our Strategies 
+
+Extend Technology Leadership in Visual Computing. &#32;We believe that visual computing is fundamental to the continued expansion of computing and essential to new computing experiences that define the future of computing. We apply our expertise in these areas to enhance the user experience for consumer entertainment and professional visualization applications. We focus our significant R&#38;D depth and scale to extend our visual computing leadership. 
+
+Enable and Deliver the World's Best Gaming Experiences . &#32;By focusing on open platforms and end-to-end experiences, we aim to bring the highest fidelity and quality to any gaming device. We have a broad portfolio of products and technologies optimized for gamers - GPUs and software, mobile SOCs, value-added solutions such as GeForce Experience and TegraZone, differentiated devices like SHIELD, and technologies and appliances for high-quality streaming in GRID. 
+
+Revolutionize Computing with the Parallel Processing Capability of the GPU. &#32; NVIDIA CUDA is a general purpose parallel computing platform that leverages the thousands of massively parallel processors inside an NVIDIA GPU to solve many complex computational problems in a fraction of the time required by a CPU and at a fraction of the power consumption. We work with developers worldwide who write programs for the CUDA platform using various high-level programming languages. Developers are able to accelerate applications in areas ranging from molecular dynamics to image processing, derivatives modeling for financial risk analysis and big data analytics. 
+
+Extend our Visual Computing Leadership into Mobile and Cloud Computing Platforms. &#32; Mobile, cloud and SaaS are driving changes in the computer industry. We believe visual computing will be a key component in this new computing paradigm. We want to enable interactive graphics applications like games, movie and photo editors, and design software to be accessed from any computer and from anywhere. &#32; &#32;We also believe that the user experience in VDIs, such as those enabled by Citrix and VMware, should be indistinguishable from traditional, non-virtual, environments. 
+
+Leverage our Processors and Visual Computing Expertise to Create Differentiated Devices. &#32;&#32;We leverage our significant R&#38;D depth and scale to create differentiated products, including SHIELD. SHIELD is intended to attract modern gamers who want to play on open platforms. We believe SHIELD also enhances the strategic position of Tegra, for example, by attracting more games to TegraZone, which will in turn make every Tegra-powered device more enjoyable. 
+
+Use Our Intellectual Property and Resources to Enter into License and Development Contracts. &#32;We believe our intellectual property portfolio is a valuable asset than can be monetized by licensing our technology to customers that desire to build such capabilities directly into their own products. Such license and development arrangements may further enhance the reach of our graphics and mobile technology. 
+
+Sales and Marketing 
+
+Our worldwide sales and marketing strategy is key to our objective to become the leading supplier of high-performance and efficient GPUs and mobile SOC products. Our sales and marketing teams work closely with each industry's respective original equipment manufacturers, or OEMs, original design manufacturers, or ODMs, system builders, motherboard manufacturers, add-in board manufacturers, or AIBs, and industry trendsetters, collectively referred to as our Channel, to define product features, performance, price and timing of new products. Members of our sales team have a high level of technical expertise and product and industry knowledge to support the competitive and complex design win process. We also employ a highly skilled team of application engineers to assist our Channel in designing, testing and qualifying system designs that incorporate our products. We believe that the depth and quality of our design support are keys to improving our Channel's time-to-market, maintaining a high level of customer satisfaction within our Channel and fostering relationships that encourage customers to use the next generation of our products. 
+
+In the markets we serve that purchase our GPUs, the sales process involves achieving key design wins with leading OEMs and major system builders and supporting the product design into high volume production with key ODMs, motherboard manufacturers and AIBs. These design wins in turn influence the retail and system builder channel that is serviced by AIB and motherboard manufacturers. Our distribution strategy is to work with a number of leading independent contract equipment manufacturers, or CEMs, ODMs, motherboard manufacturers, AIBs and distributors, each of which have relationships with a broad range of major OEMs and/or strong brand name recognition in the retail channel. Currently, we sell a significant portion of our processors directly to distributors, CEMs, ODMs, motherboard manufacturers and AIBs, which then sell boards and systems with our products to leading OEMs, retail outlets and a large number of system builders. In the Tegra Processor segment that we serve, the sales process primarily involves achieving key design wins directly with the leading mobile OEMs and supporting the product design into high-volume production. 
+
+As a result of our Channel strategy, a small number of our customers represent the majority of our revenue. However, their end customers consist of a large number of OEMs and system builders throughout the world. Sales to our largest customer accounted for 11% &#32;of our total revenue for fiscal year 2014 . 
+
+To encourage software title developers and publishers to develop games optimized for platforms utilizing our products and enterprise applications optimized for our GPUs, we seek to establish and maintain strong relationships in the software development community. Engineering and marketing personnel interact with and visit key software developers to promote and discuss our products, as well as to ascertain product requirements and solve technical problems. Our developer program makes certain that our products are available to developers prior to volume availability in order to encourage the development of software applications and game titles that are optimized for our products. 
+
+&#32;Backlog &#32; 
+
+Our sales are primarily made pursuant to standard purchase orders. The quantity of products purchased by our customers as well as our shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. The semiconductor industry is characterized by short lead time orders and quick delivery schedules. In light of industry practice and experience, we believe that only a small portion of our backlog is non-cancelable and that the dollar amount associated with the non-cancelable portion is not significant. 
+
+Seasonality 
+
+Our GPU and Tegra processor products serve many markets from consumer PC gaming to enterprise workstations to government and service provider cloud datacenters; however, a majority of our revenue is consumer focused. Our consumer products have typically seen stronger revenue in the second half of our fiscal year. However, there can be no assurance that this trend will continue. 
+
+&#160; 
+
+Manufacturing &#32; 
+
+We do not directly manufacture semiconductor wafers used for our products. Instead, we utilize what is known as a fabless manufacturing strategy for all of our product-line operating segments whereby we employ world-class suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing and packaging. This strategy uses the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability and testing. In addition, this strategy allows us to avoid many of the significant costs and risks associated with owning and operating manufacturing operations. Our suppliers are also responsible for procurement of most of the raw materials used in the production of our products. As a result, we can focus our resources on product design, additional quality assurance, marketing and customer support. 
+
+We utilize industry-leading suppliers, such as Taiwan Semiconductor Manufacturing Company Limited, to produce our semiconductor wafers. We then utilize independent subcontractors, such as Advanced Semiconductor Engineering, Inc., JSI Logistics Ltd., King Yuan Electronics Co., Ltd. and Siliconware Precision Industries Company Ltd. to perform assembly, testing and packaging of most of our products. We purchase substrates from IbidenCo., Ltd., Nanya Technology Corporation, and Unimicron Technology Corporation. 
+
+We typically receive semiconductor products from our subcontractors, perform incoming quality assurance and then ship the semiconductors to CEMs, distributors, motherboard and AIB customers from our third-party warehouse in Hong Kong. Generally, these manufacturers assemble and test the boards based on our design kit and test specifications, and then ship our products to retailers, system builders or OEMs as motherboard and add-in board solutions. 
+
+Inventory and Working Capital 
+
+&#160; 
+
+We focus considerable attention on managing our inventories and other working-capital-related items. We manage inventories by communicating with our customers and then using our industry experience to forecast demand on a product-by-product basis. We then place manufacturing orders for our products that are based on forecasted demand. The quantity of products actually purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. We generally maintain substantial inventories of our products because the semiconductor industry is characterized by short lead time orders and quick delivery schedules. A substantial amount of our inventories are maintained as semi-finished products that can be leveraged across a wide range of our processors to balance our customer demands. 
+
+&#160; 
+
+Our existing cash and marketable securities balances increased by 25.3% &#32;to $4.67 billion at the end of fiscal year 2014 &#32;compared with the end of fiscal year 2013 , primarily due to our issuance of $1.5 billion in Convertible Senior Notes in December 2013. We believe that these balances and our anticipated cash flows from operations will be sufficient to meet our operating, acquisition, capital purchases and our intended capital return to shareholders needs for at least the next twelve months. 
+
+Research and Development 
+
+&#160; 
+
+We believe that the continued introduction of new and enhanced products designed to deliver leading visual computing technology including 3D graphics, HD video, audio, ultra-low power consumption and SOC architectures is essential to our future success. Our research and development strategy is to focus on concurrently developing multiple generations of GPUs and Tegra Processors, including GPUs for high-performance computing, and Tegra SOCs for SHIELD and other mobile products using independent design teams. Our research and development efforts are performed within specialized groups consisting of software engineering, hardware engineering, very large scale integration design engineering, process engineering, architecture and algorithms. These groups act as a pipeline designed to allow the efficient simultaneous development of multiple generations of products. 
+
+&#160; 
+
+A critical component of our product development effort is our partnerships with leaders in the computer-aided design industry. We invest significant resources in the development of relationships with industry leaders, often assisting these companies in the product definition of their new products. We believe that forming these relationships and utilizing next-generation development tools to design, simulate and verify our products will help us remain at the forefront of the 3D graphics market and develop products that utilize leading-edge technology on a rapid basis. We believe this approach assists us in meeting the new design schedules of PC OEMs and other manufacturers. We believe in leveraging our significant R&#38;D depth and scale to create differentiated products. 
+
+&#160; 
+
+As of January 26, 2014 , we had 6,384 &#32;full-time employees engaged in research and development. During fiscal years 2014 , 2013 and 2012, we incurred research and development expense of $ 1,335.8 million , $1,147.3 million &#32;and $ 1,002.6 million , respectively. 
+
+Competition 
+
+&#160; 
+
+The market for our products is intensely competitive and is characterized by rapid technological change, evolving industry standards and declining average selling prices. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and distribution channels, software support, conformity to industry standard Application Programming Interfaces, manufacturing capabilities, processor pricing and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be less costly than ours, or may provide better performance or additional features not provided by our products. In addition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share . 
+
+A significant source of competition comes from companies that provide or intend to provide GPUs and mobile SOC products. Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes. 
+
+&#160; 
+
+Our current competitors include: 
+
+##TABLE_START &#8226; 
+
+suppliers of discrete and integrated GPUs, including supercomputers and chipsets that incorporate 3D graphics functionality as part of their existing solutions, such as Advanced Micro Devices, or AMD, and Intel Corporation; 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+suppliers of SOC products that support tablets, smartphones, and PCs as well as products that are embedded into smart devices such as televisions, monitors, set-top boxes, gaming devices and automobiles, such as AMD, ARM Holdings plc, or ARM, Broadcom Corporation, Freescale Semiconductor Inc., HiSilicon Technologies Co., Ltd., Imagination Technologies Ltd., Intel, Marvell Technology Group Ltd., Mediatek, Qualcomm Incorporated, Renesas Technology Corp., Samsung Electronics Co. Ltd., ST Microelectronics, and Texas Instruments Incorporated; 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+licensors of graphics technologies, such as ARM and Imagination Technologies Group plc.; and 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+suppliers of cellular basebands, such as Broadcom Corporation, HiSilicon Technologies Co., Ltd., Intel, Marvell Technology Group Ltd., Mediatek, Qualcomm Incorporated, Samsung Electronics Co. Ltd., and Spreadtrum Communications Co., Ltd. 
+
+##TABLE_END 
+
+If and to the extent we offer products in new markets, we may face competition from existing competitors as well as from companies with which we currently do not compete. We expect substantial competition from both Intel's and AMD's, strategy of selling platform solutions, including integrating a CPU and a GPU on the same chip or same package, as evidenced by Intel's CPUs with integrated graphics and AMD's accelerated processing unit, or APU, products. As AMD and Intel continue to pursue platform solutions and integrated CPUs, we may not be able to successfully compete and our business could be negatively impacted. 
+
+Patents and Proprietary Rights 
+
+&#32;We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements and licensing arrangements to protect our intellectual property in the United States and internationally. Our currently issued patents have expiration dates from April 2014 to September 2033. We have numerous patents issued, allowed and pending in the United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations and foreign laws to protect our intellectual property. The laws of certain foreign countries in which our products are or may be manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as the laws of the United States. This decreased protection makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as: 
+
+##TABLE_START &#8226; 
+
+the location in which our products are manufactured; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our strategic technology or product directions in different countries; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions; and 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+the commercial significance of our operations and our competitors' operations in particular countries and regions. 
+
+##TABLE_END 
+
+We have also licensed technology from third parties for incorporation in some of our products and for defensive reasons, and expect to continue to enter into such license agreements. 
+
+Employees 
+
+&#160; 
+
+As of January 26, 2014 , we had 8,808 &#32;employees, 6,384 &#32;of whom were engaged in research and development and 2,424 &#32;of whom were engaged in sales, marketing, operations and administrative positions. 
+
+Environmental Regulatory Compliance 
+
+To date, we have not incurred significant expenses related to environmental regulatory compliance matters. For additional detail see &#8220;Item 1A. Risk Factors - Risks Related to Regulatory, Legal, Our Common Stock and Other Matters - Our failure to comply with any applicable environmental regulations could result in a range of consequences, including fines, suspension of production, excess inventory, sales limitations, and criminal and civil liabilities .&#8221; 
+
+Financial Information by Reporting Segment and Geographic Data 
+
+The information included in Note 16 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K, including financial information by reporting segment and revenue and long-lived assets by geographic region, is hereby incorporated by reference. For additional detail regarding the risks attendant to our foreign operations see &#8220;Item 1A. Risk Factors - Risks Related to Our Business, Industry and Partners - We are subject to risks associated with international operations which may harm our business. &#8221; 
+
+Executive Officers of the Registrant 
+
+The following sets forth certain information regarding our executive officers, their ages and their positions as of March 7, 2014 : 
+
+##TABLE_START Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Jen-Hsun Huang 
+
+&#160; 
+
+&#160; 
+
+President, Chief Executive Officer and Director 
+
+Colette M. Kress 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Financial Officer 
+
+Ajay K. Puri 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Worldwide Sales 
+
+David M. Shannon 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Chief Administrative Officer and Secretary 
+
+Debora Shoquist 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Operations 
+
+##TABLE_END
+
+&#160; 
+
+Jen-Hsun Huang &#32;co-founded NVIDIA in April 1993 and has served as its President, Chief Executive Officer and a member of the Board of Directors since its inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer, where he held a variety of positions, most recently as Director of Coreware, the business unit responsible for LSI's &#8220;system-on-chip&#8221; strategy. From 1983 to 1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford University. 
+
+Colette M. Kress joined NVIDIA in September 2013 as Executive Vice President and Chief Financial Officer. Prior to NVIDIA, Ms. Kress most recently served as Senior Vice President and Chief Financial Officer of the Business Technology and Operations Finance organization at Cisco Systems, Inc., a networking equipment company, since 2010. At Cisco, Ms. Kress was responsible for financial strategy, planning, reporting and business development for all business segments, engineering and operations. From 1997 to 2010 Ms. Kress held a variety of positions at Microsoft Corporation, a software company, including, beginning in 2006, Chief Financial Officer of the Server and Tools division, where Ms. Kress was responsible for financial strategy, planning, reporting and business development for the division. Prior to joining Microsoft, Ms. Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions. Ms. Kress holds a B.S. degree in Finance from University of Arizona and an M.B.A. degree from Southern Methodist University. 
+
+&#160; 
+
+Ajay K. Puri &#32;joined NVIDIA in December 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, Worldwide Sales in January 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over a 22-year career at Sun Microsystems, Inc., a computing systems company. Mr. Puri previously held marketing, management consulting, and product development positions at Hewlett-Packard Company, an information technology company, Booz Allen Hamilton Inc., a management and technology consulting company, and Texas Instruments. Mr. Puri holds a B.S.E.E. degree from the University of Minnesota, an M.S.E.E. degree from the California Institute of Technology and an M.B.A. degree from Harvard Business School. 
+
+&#160; 
+
+David M. Shannon &#32;serves as Executive Vice President, Chief Administrative Officer and Secretary of NVIDIA. In this role, he is responsible for NVIDIA&#8217;s legal and human resources functions, as well as intellectual property licensing. Mr. Shannon joined NVIDIA in August 2002 as Vice President and General Counsel. Mr. Shannon became Secretary of NVIDIA in April 2005, a Senior Vice President in December 2005 and an Executive Vice President in January 2009. In January 2013, Mr. Shannon also became the head of Human Resources. Mr. Shannon was promoted to the role of Chief Administrative Officer in January 2014. From 1993 to 2002, Mr. Shannon held various counsel positions at Intel, most recently the position of Vice President and Assistant General Counsel. Mr. Shannon also practiced for eight years in the law firm of Gibson Dunn and Crutcher, focusing on complex commercial and high-technology related litigation. Mr. Shannon holds B.A. and J.D. degrees from Pepperdine University. 
+
+&#160; 
+
+Debora Shoquist &#32;joined NVIDIA in September 2007 as Senior Vice President of Operations and became Executive Vice President of Operations in January 2009. From 2004 to 2007, Ms. Shoquist served as Executive Vice President of Operations at JDS Uniphase Corporation, a provider of communications test and measurement solutions and optical products for the telecommunications industry. From 2002 to 2004, Ms. Shoquist served as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Ms. Shoquist&#8217;s experience includes her role at Quantum Corporation, a data protection company, as the President of the Personal Computer Hard Disk Drive Division. Ms. Shoquist&#8217;s experience also includes senior roles at Hewlett-Packard. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University. 
+
+Available Information 
+
+&#160; 
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended, are available free of charge on or through our web site, http://www.nvidia.com , as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or the SEC. Our web site and the information on it or connected to it are not a part of this Annual Report on Form 10-K. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+In evaluating NVIDIA and our business, the following factors should be considered in addition to the other information in this Annual Report on Form 10-K. Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described below. Additionally, any one of the following risks could seriously harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+
+Risks Related to Our Business, Industry and Partners 
+
+If we are unable to compete in the markets for our products, our financial results will be adversely impacted . 
+
+The market for our products is extremely competitive, and we expect competition to intensify as current competitors expand their product offerings, industry standards continue to evolve and others realize the market potential of mobile and consumer products and services. 
+
+We expect competition to increase from both existing competitors and new market entrants with products that may be less costly than ours, or may provide better performance or additional features not provided by our products. In addition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share. Furthermore, competitors with greater financial resources may be able to offer lower prices than us, or they may offer additional products, services or other incentives that we may not be able to match. In addition, many of our competitors operate and maintain their own fabrication facilities and have longer operating histories, greater name recognition, larger customer bases, and greater sales, marketing and distribution resources than we do. In order to effectively compete we may have to invest more resources in research and development than anticipated, which could increase our operating expenses and negatively impact our operating results. If we are required to invest significantly greater resources than anticipated in research and development efforts without a corresponding increase in revenue, our operating results could decline. In order to remain competitive and meet the demands of the markets we serve, we expect to devote a substantial portion of our resources to research and development. Our ability to compete will depend on, among other factors, our ability to: 
+
+##TABLE_START &#8226; 
+
+continue to keep pace with technological developments; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+develop and introduce new products, services, technologies and enhancements on a timely basis; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+transition our semiconductor products to increasingly smaller line width geometries; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+obtain sufficient foundry capacity and packaging materials; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+succeed in significant foreign markets, such as China and India. 
+
+##TABLE_END If we are unable to compete in our current or new markets, demand for our products could decrease which could cause our revenue to decline and our financial results to suffer. If and to the extent we offer products in new markets, we may face competition from existing competitors as well as from companies with which we currently do not compete. We expect substantial competition from both Intel and AMD's, strategy of selling platform solutions, including integrating a CPU and a GPU on the same chip or same package, as evidenced by Intel's CPUs with integrated graphics and AMD's APU product. As AMD and Intel continue to pursue platform solutions and integrated CPUs, we may not be able to successfully compete and our business could be negatively impacted. Despite the use of these integrated CPUs, personal computer, or PC, builders and consumers have continued to embrace discrete GPUs to provide higher performance. If integrated CPUs offer a more compelling value proposition in the future, PC builders and consumers may move away from the use of discrete GPUs, which could adversely affect our business and cause our financial results to decline. 
+
+We are implementing a business strategy to license our GPU cores and visual computing patent portfolio to device manufacturers. Although we have engaged in licensing in the past, we are now engaging a broader market with new and existing competitors who may be able to adapt more quickly to customer requirements and emerging technologies. We cannot be assured of the extent of the demand for licenses to our GPU cores or other elements of our visual computing patent portfolio, or that we will be able to compete successfully against current or new competitors who may have stronger positions in these new markets. 
+
+Our business results could be adversely affected if the identification and development of new products is delayed or unsuccessful. 
+
+In order to maintain or improve our financial results, we will need to continue to identify and develop new products and enhancements to our existing products in a timely and cost-effective manner. The process of developing new products and services and enhancing existing products and services is highly complex, costly and uncertain, and any failure by us to anticipate customers' changing needs and emerging technology trends could adversely affect our business. We must make multi-year investments and commit significant resources before knowing whether our predictions will accurately reflect customer demand for our new products and technologies. It is possible that our development efforts will not be successful and that our new technologies will not result in meaningful revenues. Even if we introduce new and enhanced products to the market, we may not be able to achieve consumer and/or market acceptance of them in a timely manner. 
+
+Our ability to successfully develop and deliver new products will depend on various factors, including our ability to: 
+
+##TABLE_START &#8226; 
+
+effectively identify and capitalize upon opportunities in new markets; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+timely complete and introduce new products and technologies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+transition our semiconductor products to increasingly smaller line width geometries; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+obtain sufficient foundry capacity and packaging materials. 
+
+##TABLE_END We occasionally have experienced delays in completing the development and introduction of new products and product enhancements, and we could experience delays in the future. In addition, in the past, we have faced challenges in managing product transitions from older to newer products resulting in obsolete inventory. Our failure to successfully develop and introduce new products and technologies or identify new uses for existing or future products could result in rapidly declining average selling prices, reduced demand for our products or loss of market share, any of which could harm our competitive position and cause our revenue, gross margin and overall financial results to suffer. 
+
+If we are unable to achieve consumer and market acceptance and design wins for our products and technologies, our results of operations and competitive position will be harmed. 
+
+The success of our business depends to a significant extent on our ability to achieve consumer and market acceptance of our new products and enhancements to our existing products and identify and enter new markets, such as cloud-based computing appliances, servers, automotive technology, smartphones, tablets, video game consoles, and other similar consumer electronic devices. The markets for our products and technologies are characterized by unpredictable and sometimes rapid shifts in the popularity of products, often caused by the publication of competitive industry benchmark results, changes in pricing of dynamic random-access memory devices and other changes in the total system cost of add-in boards, or AIBs, as well as by severe price competition and by frequent new technology and product introductions. Broad consumer and market acceptance is difficult to achieve and such consumer and market acceptance, if achieved, is difficult to sustain due to intense competition and frequent new technology and product introductions. Our success in achieving consumer and market acceptance will depend in part on our ability to cultivate new industry relationships and improve the functionality of our products as the number of internet-connected devices increases. If we do not successfully achieve or maintain consumer and market acceptance for our products and enhancements or identify and enter new markets, our ability to compete and maintain or increase revenues will suffer. 
+
+We believe achieving design wins, which entails having our existing and future products chosen for hardware components or subassemblies designed by original equipment manufacturers, or OEMs, original design manufacturers, or ODMs, and AIB and motherboard manufacturers, is an integral part of our future success. Our OEM, ODM, and AIB and motherboard manufacturers' customers typically introduce new system configurations as often as twice per year, typically based on spring and fall design cycles or in connection with trade shows. Accordingly, when our customers are making their design decisions, our existing products must have competitive performance levels or we must timely introduce new products in order to be included in our customers' new system configurations. This requires that we: 
+
+##TABLE_START &#8226; 
+
+anticipate the features and functionality that customers and consumers will demand; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+incorporate those features and functionalities into products that meet the exacting design requirements of our customers; 
+
+##TABLE_END 14 
+
+##TABLE_START &#8226; 
+
+price our products competitively; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+introduce products to the market within our customers' limited design cycles. 
+
+##TABLE_END If OEMs, ODMs, and AIB and motherboard manufacturers do not include our products in their systems, they will typically not use our products in their systems until at least the next design configuration. 
+
+Our ability to achieve design wins also depends in part on our ability to identify and be compliant with evolving industry standards. Unanticipated changes in industry standards could render our products incompatible with products developed by major hardware manufacturers and software developers. If our products are not in compliance with prevailing industry standards, we may not be designed into our customers' product designs. However, to be compliant with changes to industry standards, we may have to invest significant time and resources to redesign our products which could negatively impact our gross margin or operating results. If we are unable to achieve new design wins for existing or new customers, we may lose market share and our operating results would be negatively impacted. 
+
+We depend on foundries to manufacture our products and these third parties may not be able to obtain or successfully implement high quality, leading-edge process technologies or otherwise satisfy our manufacturing requirements, which would harm our business . 
+
+We do not manufacture the silicon wafers used for our products and do not own or operate a wafer fabrication facility. Instead, we are dependent on industry-leading foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, to manufacture our semiconductor wafers using their fabrication equipment and techniques. A substantial portion of our wafers are supplied by TSMC. The foundries, which have limited capacity, also manufacture products for other semiconductor companies, including some of our competitors. Because we do not have long-term commitment contracts with any of these foundries, they do not have an obligation to provide us with any set pricing or minimum quantity of product at any time except as may be provided in a specific purchase order. Most of our products are only manufactured by one foundry at a time. In times of high demand, the foundries could choose to prioritize their capacity for other companies, reduce or eliminate deliveries to us, or increase the prices that they charge us. If we are unable to meet customer demand due to reduced or eliminated deliveries or have to increase the prices of our products, we could lose sales to customers, which would negatively impact our revenue and our reputation. 
+
+Furthermore, our third-party foundries may not be able to develop, obtain or successfully implement high quality, leading-edge process technologies, including transitions to smaller geometry process technologies, needed to manufacture our products profitably or on a timely basis. If our third-party foundries experience manufacturing inefficiencies, we may fail to achieve acceptable yields or experience product delivery delays. For example, due to capacity constraints at TSMC of our 28 nanometer Kepler GPUs in the first quarter of fiscal year 2013, we were unable to fulfill customer demand for our high-end desktop GPU products, and as our sales mix shifted to our mainstream desktop GPU products, revenue and gross margins for the first quarter of fiscal year 2013 were negatively impacted compared to the prior quarter. 
+
+Because the lead-time needed to establish strategic relationships with new manufacturing partners and achieve initial production could be over a year, we do not have a readily available alternative source of supply for our products. In addition, the time and effort to qualify a new foundry would result in additional expense and diversion of resources, and could result in lost sales, any of which would negatively impact our financial results. We believe that long-term market acceptance for our products will depend on reliable relationships with the third-party manufacturers we use to ensure adequate product supply and competitive pricing to respond to customer demand. 
+
+Failure to achieve expected manufacturing yields for our products could negatively impact our financial results and damage our reputation. 
+
+Manufacturing yields for our products are a function of product design, which is developed largely by us, and process technology, which typically is proprietary to the manufacturer. Low yields may result from either product design or process technology failure. We do not know a yield problem exists until our design is manufactured. When a yield issue is identified, the product is analyzed and tested to determine the cause. As a result, yield problems may not be identified until well into the production process. Resolution of yield problems requires cooperation by, and communication between, us and the manufacturer. Because of our potentially limited access to wafer foundry capacity, decreases in manufacturing yields could result in an increase in our costs and force us to allocate our available product supply among our customers. Lower than expected yields could potentially harm customer relationships, our reputation and our financial results. &#32;&#32;&#32; 
+
+A decline in demand in certain end-user markets could decrease the demand for our products and harm our results of operations. 
+
+Our customer base includes companies in a wide range of end-user markets, but we generate a significant amount of revenue from sales to consumers of communications- and PC-related products. Within these end-user markets, a large portion of our revenue is generated from sales to consumers in the smartphone, tablet and PC markets, including professional workstations. Decline in one or several of these end-user markets could harm demand for our products and our results of operations and financial condition. These declines could be large and sudden. Because smartphone, tablet and PC manufacturers often build inventories during periods of anticipated growth, they may be left with excess inventories if growth slows or if they incorrectly forecast product transitions. In these cases, these manufacturers may abruptly suspend substantially all purchases of additional inventory from suppliers like us until their excess inventory has been absorbed, which would have a negative impact on our financial results. 
+
+We sell our products to a limited number of customers and our business could suffer if we lose any of these customers. 
+
+We receive a significant amount of our revenue from a limited number of customers. Revenue from significant customers, those representing 10% or more of total revenue, was approximately 21% of our total revenue from two customers in fiscal year 2014 and approximately 13% and 11% of our total revenue from one customer in fiscal years 2013 and 2012, respectively. &#32; Approximately 23% of our accounts receivable balance was from one customer as of January 26, 2014, and approximately 40% of our accounts receivable balance was from three customers as of January 27, 2013. We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments and obtain credit insurance over the purchasing credit extended to certain customers. In the future, we may have to record additional reserves or write-offs and/or defer revenue on certain sales transactions which could negatively impact our financial results and as a result of the tightening of the credit markets, we may not be able to acquire credit insurance on the credit we extend to these customers or in amounts that we deem sufficient. 
+
+Revenue from our largest customer has fluctuated significantly from period to period primarily due to the timing and number of design wins with each customer, as well as the continued diversification of our customer base as we expand into new markets, and will likely continue to fluctuate dramatically in the future. Our operating results in the foreseeable future will continue to depend on sales to a relatively small number of customers, as well as the ability of these customers to sell products that incorporate our products. In the future, these customers may decide not to purchase our products at all, purchase fewer products than they did in the past, or alter their purchasing patterns in some other way, particularly because: 
+
+##TABLE_START &#8226; 
+
+substantially all of our sales are made on a purchase order basis, which permits our customers to cancel, change or delay product purchase commitments with little or no notice to us and without penalty; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our customers may develop their own solutions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our customers may purchase products from our competitors; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our customers may discontinue sales or lose market share in the markets for which they purchase our products. 
+
+##TABLE_END The loss of any of our large customers or a significant reduction in sales we make to them would likely harm our financial condition and results of operations and any difficulties in collecting accounts receivable could harm our operating results and financial condition. 
+
+If we fail to appropriately scale our operations in response to changes in demand for our existing products or to the demand for new products requested by our customers, our business and profitability could be harmed. 
+
+To achieve our business objectives, it may be necessary from time to time for us to expand or contract our operations. In the future, we may not be able to scale our workforce and operations in a sufficiently timely manner to respond effectively to changes in demand for our existing products or to the demand for new products requested by our customers. In that event, we may be unable to meet competitive challenges or exploit potential market opportunities, and our current or future business could be materially and adversely affected. Conversely, if we expand our operations and workforce too rapidly in anticipation of increased demand for our products, and such demand does not materialize at the pace at which we expected, the rate of increase in our costs and operating expenses may exceed the rate of increase in our revenue, which would adversely affect our results of operations. In addition, if such demand does not materialize at the pace which we expect, we may be required to scale down our business through expense and headcount reductions as well as facility consolidations or closures that could result in restructuring charges that would materially and adversely affect our results of operations. Because many of our expenses are fixed in the short-term or are incurred in advance of anticipated sales, we may not be able to decrease our expenses in a timely manner to offset any decrease in customer demand. If customer demand does not increase as anticipated, our profitability could be adversely affected due to our higher expense levels. 
+
+Our past growth has placed, and any future long-term growth is expected to continue to place, a significant strain on our management personnel, systems and resources. To implement our current business and product plans, we will need to continue to expand, train, manage and motivate our workforce. All of these endeavors require substantial management effort. If we are unable to effectively manage our expanding operations, we may be unable to scale our business quickly enough to meet competitive challenges or exploit potential market opportunities, or conversely, we may scale our business too quickly and the rate of increase in our costs and expenses may exceed the rate of increase in our revenue, either of which would harm our results of operations. 
+
+Our revenue may fluctuate while a majority of our operating expenses are a factor of multi-year investments ahead of when revenue is received, which makes our results difficult to predict and could cause our results to fall short of expectations. &#32; 
+
+Our operating expenses are primarily related to multi-year research and development investments ahead of the revenue received from the products which are produced. Our research and development expenses totaled $1.34 billion , $1.15 billion , and $1.00 billion &#32;in fiscal years 2014, 2013 and 2012, respectively. 
+
+Any one or more of the risks discussed in this Annual Report on Form 10-K or other factors could prevent us from achieving our expected future revenue or net income. Accordingly, we believe that period-to-period comparisons of our results of operations should not be relied upon as an indication of future performance. Similarly, the results of any quarterly or full fiscal year period are not necessarily indicative of results to be expected for a subsequent quarter or a full fiscal year. As a result, it is possible that in some quarters our operating results could be below the expectations of securities analysts or investors, which could cause the trading price of our common stock to decline. We believe that our quarterly and annual results of operations may continue to be affected by a variety of factors that could harm our revenue, gross profit and results of operations. 
+
+Because our gross margin for any period depends on a number of factors, our failure to forecast changes in any of these factors could adversely affect our gross margin. 
+
+We are focused on improving our gross margin. Our gross margin for any period depends on a number of factors, including: 
+
+##TABLE_START &#8226; 
+
+the mix of our products sold; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+average selling prices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+introduction of new products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+product transitions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+sales discounts; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unexpected pricing actions by our competitors; 
+
+##TABLE_END 17 
+
+##TABLE_START &#8226; 
+
+the cost of product components; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the yield of wafers produced by the foundries that manufacture our products. 
+
+##TABLE_END If we do not correctly forecast the impact of any of the relevant factors on our business, there may not be any actions we can take or we may not be able to take any possible actions in time to counteract any negative impact on our gross margin. In addition, if we are unable to meet our gross margin target for any period or the target set by analysts, the trading price of our common stock may decline. 
+
+Our failure to estimate customer demand properly could adversely affect our financial results. 
+
+We manufacture our products based on forecasts of customer demand in order to have shorter shipment lead times and quicker delivery schedules for our customers. As a result, we may build inventories for anticipated periods of growth which do not occur or may build inventory anticipating demand for a product that does not materialize. In forecasting demand, we make multiple assumptions any of which may prove to be incorrect. Situations that may result in excess or obsolete inventory include: 
+
+##TABLE_START &#8226; 
+
+changes in business and economic conditions, including downturns in the semiconductor industry and/or overall economy; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in consumer confidence caused by changes in market conditions, including changes in the credit market, expectations for inflation, and energy prices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+if there were a sudden and significant decrease in demand for our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+if there were a higher incidence of inventory obsolescence because of rapidly changing technology and customer requirements; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+if we fail to estimate customer demand properly for our older products as our newer products are introduced; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+if our competition were to take unexpected competitive pricing actions. 
+
+##TABLE_END Any inability to sell products to which we have devoted resources could harm our business. In addition, cancellation or deferral of customer purchase orders could result in our holding excess inventory, which could adversely affect our gross margin and restrict our ability to fund operations. Additionally, because we often sell a substantial portion of our products in the last month of each quarter, we may not be able to reduce our inventory purchase commitments in a timely manner in response to customer cancellations or deferrals. We could be subject to excess or obsolete inventories and be required to take corresponding inventory write-downs and/or a reduction in average selling prices if growth slows or does not materialize, or if we incorrectly forecast product demand, which could negatively impact our financial results. 
+
+Conversely, if we underestimate our customers' demand for our products, our third-party manufacturing partners may not have adequate lead-time or capacity to increase production for us meaning that we may not be able to obtain sufficient inventory to fill our customers' orders on a timely basis. Even if we are able to increase production levels to meet customer demand, we may not be able to do so in a cost effective or timely manner. Inability to fulfill our customers' orders on a timely basis, or at all, could damage our customer relationships, result in lost revenue, cause a loss in market share, impact our customer relationships or damage our reputation, any of which could adversely impact our business. 
+
+We may not be able to realize the potential financial or strategic benefits of business acquisitions or strategic investments and we may not be able to successfully integrate acquisition targets, which could hurt our ability to grow our business, develop new products or sell our products. 
+
+We have acquired and invested in other businesses that offered products, services and technologies that we believe will help expand or enhance our existing products and business. 
+
+We may enter into future acquisitions of, or investments in, businesses, in order to complement or expand our current businesses or enter into a new business market. Negotiations associated with an acquisition or strategic investment could divert management's attention and other company resources. Any of the following risks associated with past or future acquisitions or investments could impair our ability to grow our business, develop new products or sell our products, and ultimately could have a negative impact on our growth or our financial results: 
+
+##TABLE_START &#8226; 
+
+difficulty in combining the technology, products, operations or workforce of the acquired business with our business; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+difficulty in operating in a new or multiple new locations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+disruption of our ongoing businesses or the ongoing business of the company we invest in or acquire; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+difficulty in realizing the potential financial or strategic benefits of the transaction; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+difficulty in maintaining uniform standards, controls, procedures and policies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+difficulty integrating the target's accounting, management information, human resources and other administrative systems; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+diversion of capital and other resources; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+assumption of liabilities; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+incurring acquisition-related costs or amortization costs for acquired intangible assets that could impact our operating results; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+incurring impairment charges related to goodwill and other purchased intangible assets acquired in connection with acquisitions or investments; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+diversion of resources and unanticipated expenses resulting from litigation arising from potential or actual business acquisitions or investments; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+potential failure of the due diligence processes to identify significant issues with product quality, architecture and development, or legal and financial contingencies, among other things; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+difficulties in entering into new markets in which we have limited or no experience and where competitors in such markets have stronger positions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+potential inability to obtain, or obtain in a timely manner, approvals from governmental authorities, which could delay or prevent such acquisitions or investments; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+impairment of relationships with employees, vendors and customers, or the loss of any of our key employees, vendors or customers or our target's key employees, vendors or customers, as a result of our acquisition or investment. 
+
+##TABLE_END 19 
+
+We may be required to record a charge to earnings if our goodwill or amortizable intangible assets become impaired, which could negatively impact our operating results. 
+
+Under generally accepted accounting principles in the United States, or U.S. GAAP, we review our amortizable intangible assets and goodwill for impairment when events or changes in circumstances indicate the carrying value may not be recoverable. Goodwill is tested for impairment at least annually. The carrying value of our goodwill or amortizable assets from acquisitions may not be recoverable due to factors such as a decline in stock price and market capitalization, reduced estimates of future cash flows and slower growth rates in our industry or in any of our reporting units. Estimates of future cash flows are based on an updated long-term financial outlook of our operations. However, actual performance in the near-term or long-term could be materially different from these forecasts, which could impact future estimates. For example, in the most recent impairment test of our Tegra Processor reporting unit, the fair value of the reporting unit only exceeded its carrying value by 17%. If the future operating results of the Tegra Processor reporting unit are significantly lower than our estimates, the goodwill assigned to Tegra Processor could be impaired, which would negatively impact our results of operations. 
+
+System security risks, data protection breaches, cyber-attacks and systems integration issues could disrupt our internal operations, and any such disruption could reduce our expected revenue, increase our expenses, damage our reputation and adversely affect our stock price . 
+
+Experienced computer programmers and hackers may be able to penetrate our security controls and misappropriate or compromise our confidential information or that of third parties, create system disruptions or cause shutdowns. Computer programmers and hackers also may be able to develop and deploy viruses, worms and other malicious software programs that attack our products or otherwise exploit any security vulnerabilities of our products. The costs to us to eliminate or alleviate malicious software programs and security vulnerabilities could be significant, and our efforts to address these problems may not be successful and could result in interruptions, delays, cessation of service and loss of existing or potential customers that may impede our sales, manufacturing, distribution or other critical functions. 
+
+We manage and store various proprietary information and sensitive or confidential data relating to our business and third party business. Breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us or our partners or customers, including the potential loss or disclosure of such information or data as a result of fraud, trickery or other forms of deception, could expose us, our partners and customers or the individuals affected to a risk of loss or misuse of this information, result in litigation and potential liability for us, damage our brand and reputation or otherwise harm our business. In addition, the cost and operational consequences of implementing further data protection measures could be significant. For example, in July 2012, unauthorized third parties gained access to certain user information on our online forums. We have strengthened security in an effort to minimize future attacks. However, hackers may continue to target our security controls in the future, and we cannot guarantee that our security measures will be able to prevent future breaches of our website and/or attacks on our products. 
+
+Portions of our IT infrastructure also may experience interruptions of service or produce errors in connection with systemic failures, systems integration or migration work that takes place from time to time. We may not be successful in implementing new systems and transitioning data, which could cause business disruptions and be more expensive, time consuming, disruptive and resource-intensive. Such disruptions could adversely impact our ability to fulfill orders and interrupt other processes. Delayed sales, lower margins or lost customers resulting from these disruptions could adversely affect our financial results, stock price and reputation. 
+
+We may not be able to attract and retain qualified employees which could negatively impact our business. 
+
+Our future success and ability to compete are substantially dependent on our ability to identify, hire, train and retain highly qualified key personnel. The market for key employees in the technology industry can be competitive. None of our key employees is bound by an employment agreement, meaning our relationships with all of our key employees are at will. The loss of the services of any of our key employees could delay our product development efforts, harm our ability to sell our products or otherwise negatively impact our business. 
+
+We are dependent on third parties for assembly, testing and packaging of our products, which reduces our control over our product delivery schedule, product quantity or product quality. 
+
+Our products are assembled, tested and packaged by independent subcontractors, such as Advanced Semiconductor Engineering, Inc., ChipPAC, JSI Logistics, Ltd., King Yuan Electronics Co. and Siliconware Precision Industries Co. Ltd. As a result, we do not directly control our product delivery schedules, product quantity, or product quality. All of these subcontractors assemble, test and package products for other companies, including some of our competitors. Because we do not have long-term agreements with our subcontractors, when demand for subcontractors to assemble, test or package products is high, our subcontractors may decide to prioritize the orders of other customers over our orders. Because the time required to qualify a different subcontractor to assemble, test or package our products can be lengthy, if we have to find a replacement subcontractor we could experience significant delays in shipments of our products, product shortages, a decrease in the quality of our products, or an increase in product cost. Any product shortages or quality assurance problems could increase the costs of manufacture, assembly or testing of our products, which could cause our gross margin to decline. 
+
+We rely on third-party vendors to supply software development tools to us for the development of our new products and we may be unable to obtain the tools necessary to develop or enhance new or existing products. 
+
+We rely on third-party software development tools to assist us in the design, simulation and verification of new products or product enhancements. To bring new products or product enhancements to market in a timely manner, or at all, we need software development tools that are sophisticated enough or technologically advanced enough to complete our design, simulations and verifications. In the past, we have experienced delays in the introduction of products as a result of the inability of then available software development tools to fully simulate the complex features and functionalities of our products. In the future, the design requirements necessary to meet consumer demands for more features and greater functionality from our products may exceed the capabilities of available software development tools. Unavailability of software development tools may result in our missing design cycles or losing design wins, either of which could result in a loss of market share or negatively impact our operating results. 
+
+Because of the importance of software development tools to the development and enhancement of our products, a critical component of our product development efforts is our partnerships with leaders in the computer-aided design industry, including Cadence Design Systems, Inc. and Synopsys, Inc. We have invested significant resources to develop relationships with these industry leaders and have often assisted them in the development of their new products. We believe that forming these relationships and utilizing next-generation development tools to design, simulate and verify our products will help us remain at the forefront of the 3D graphics, communications and networking segments and develop products that utilize leading-edge technology on a rapid basis. If these relationships are not successful, we may be unable to develop new products or product enhancements in a timely manner, which could result in a loss of market share, a decrease in revenue or a negative impact on our operating results. 
+
+If our products contain significant defects, our financial results could be negatively impacted, our reputation could be damaged and we could lose market share. 
+
+Our products are complex and may contain defects or experience failures due to any number of issues in design, fabrication, packaging, materials and/or use within a system. If any of our products or technologies contains a defect, compatibility issue or other error, we may have to invest additional research and development efforts to find and correct the issue. Such efforts could divert our engineers' attention from the development of new products and technologies and could increase our operating costs and reduce our gross margin. In addition, an error or defect in new products or releases or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance or loss of design wins. Also, we may be required to reimburse customers, including our customers' costs to repair or replace products in the field. A product recall or a significant number of product returns could be expensive, could damage our reputation, could result in the shifting of business to our competitors and could result in litigation against us. Costs associated with correcting defects, errors, bugs or other issues could be significant and could materially harm our financial results. &#32;&#32;&#32;&#32; 
+
+Our business is cyclical in nature and has experienced severe downturns that have harmed, and may in the future harm, our business and financial results. 
+
+Our business is directly affected by market conditions in the highly cyclical semiconductor industry. The semiconductor industry has been adversely affected by many factors, including the global downturn that started in the second half of 2008, ongoing efforts by our customers to reduce their spending, diminished product demand, increased inventory levels, lower average selling prices, uncertainty regarding long-term growth rates and underlying financial health and increased competition. These factors could, among other things, limit our ability to maintain or increase our sales or recognize revenue and in turn adversely affect our business, operating results and financial condition. If our actions to reduce our operating expenses to sufficiently offset these factors when they occur are unsuccessful, our operating results will suffer. 
+
+We are subject to risks associated with international operations which may harm our business. 
+
+We conduct our business worldwide and we have offices in various countries outside of the United States. Our semiconductor wafers are manufactured, assembled, tested and packaged by third parties located outside of the United States and other Americas. We generated 75% , 74% and 78% of our revenue for fiscal years 2014, 2013 and 2012, respectively, from sales to customers outside the United States and other Americas. The manufacture, assembly, test and packaging of our products outside of the United States, operation of offices outside of the United States, and sales to customers internationally subjects us to a number of risks, including: 
+
+##TABLE_START &#8226; 
+
+international economic and political conditions, such as political tensions between countries in which we do business; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unexpected changes in, or impositions of, legislative or regulatory requirements; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+complying with a variety of foreign laws; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+differing legal standards with respect to protection of intellectual property and employment practices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+local business and cultural factors that differ from our normal standards and practices, including business practices that we are prohibited from engaging in by the Foreign Corrupt Practices Act and other anticorruption laws and regulations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+inadequate local infrastructure that could result in business disruptions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+exporting or importing issues related to export or import restrictions, tariffs, quotas and other trade barriers and restrictions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+financial risks such as longer payment cycles, difficulty in collecting accounts receivable and fluctuations in currency exchange rates; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+imposition of additional taxes and penalties; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased costs due to imposition of climate change regulations, such as carbon taxes, fuel or energy taxes, and pollution limits; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+other factors beyond our control such as terrorism, cyber attack, civil unrest, war and diseases. 
+
+##TABLE_END If sales to any of our customers outside of the United States and other Americas are delayed or cancelled because of any of the above factors, our revenue may be negatively impacted. 
+
+Our international operations are subject to many of the above listed risks. Difficulties with our international operations, including finding appropriate staffing and office space, may divert management's attention and other resources, any of which could negatively impact our operating results. 
+
+Legal and regulatory requirements differ among jurisdictions worldwide. Violations of these laws and regulations could result in fines; criminal sanctions against us, our officers, or our employees; prohibitions on the conduct of our business; and damage to our reputation. Although we have policies, controls, and procedures designed to ensure compliance with foreign laws, many of these laws and regulations are ambiguous and are often interpreted and enforced in unpredictable ways. 
+
+The economic conditions in our primary overseas markets, particularly in Asia, may negatively impact the demand for our products abroad. All of our international sales to date have been denominated in United States dollars. Accordingly, an increase in the value of the United States dollar relative to foreign currencies could make our products less competitive in international markets or require us to assume the risk of denominating certain sales in foreign currencies. We anticipate that these factors will impact our business to a greater degree as we further expand our international business activities. 
+
+Business disruptions could seriously harm our future revenue and financial condition and increase our costs and expenses. 
+
+Our worldwide operations could be disrupted by earthquakes, telecommunications failures, power or water shortages, tsunamis, floods, hurricanes, typhoons, fires, extreme weather conditions, medical epidemics or pandemics and other natural or man-made disasters, catastrophic events or climate change. The occurrence of any of these business disruptions could result in significant losses, seriously harm our revenue and financial condition, adversely affect our competitive position, increase our costs and expenses, and require substantial expenditures and recovery time in order to fully resume operations. Our corporate headquarters, and a portion of our research and development activities, are located in California, and other critical business operations and some of our suppliers are located in Asia, near major earthquake faults known for seismic activity. In addition, a majority of our principal IT data centers are located in California, making our operations vulnerable to natural disasters or other business disruptions occurring in this geographical area. The manufacture of product components, the final assembly of our products and other critical operations are concentrated in certain geographic locations, including Taiwan, China and Korea. Our operations could be adversely affected if manufacturing, logistics or other operations in these locations are disrupted for any reason, including natural disasters, high heat events or water shortages, information technology system failures, military actions or economic, business, labor, environmental, public health, regulatory or political issues. The ultimate impact on us, our significant suppliers and our general infrastructure of being located near major earthquake faults and being consolidated in certain geographical areas is unknown. However, in the event of a major earthquake or other natural disaster or catastrophic event, our revenue, profitability and financial condition could suffer. 
+
+Our investment portfolio may become impaired by deterioration of the capital markets. 
+
+Our cash equivalent and marketable securities portfolio as of January 26, 2014 consisted of cash and cash equivalents, commercial paper, mortgage-backed securities issued by government-sponsored enterprises, asset-backed securities, money market funds and debt securities of corporations, municipalities and the United States government and its agencies. We follow an established investment policy and set of guidelines, designed to preserve principal, minimize risk, and monitor and help mitigate our exposure to interest rate and credit risk. The policy sets forth credit quality standards and limits our exposure to any one issuer, as well as our maximum exposure to various asset classes, and a variety of financial instruments, consisting principally of cash and cash equivalents, commercial paper, mortgage-backed securities issued by government-sponsored enterprises, asset-backed securities, money market funds and debt securities of corporations, municipalities and the United States government and its agencies. 
+
+Should financial market conditions worsen in the future, investments in some financial instruments may pose risks arising from market liquidity and credit concerns. In addition, any deterioration of the capital markets could cause our other income and expense to vary from expectations. As of January 26, 2014, we had no material impairment charges associated with our short-term investment portfolio, and although we believe our current investment portfolio has very little risk of material impairment, we cannot predict future market conditions or market liquidity, or credit availability, and can provide no assurance that our investment portfolio will remain materially unimpaired. 
+
+Risks Related to Regulatory, Legal, Our Common Stock and Other Matters &#32; 
+
+Our common stock price has at times experienced substantial price volatility and, as a result, investors may suffer losses . 
+
+Our stock has at times experienced substantial price volatility as a result of variations between our actual and anticipated financial results, announcements by us and our competitors, or uncertainty about current global economic conditions. The stock market as a whole also has experienced extreme price and volume fluctuations that have affected the market price of many technology companies in ways that may have been unrelated to these companies' operating performance. 
+
+In the past, securities class action litigation has often been brought against a company following periods of volatility in the market price of its securities. Due to changes in the volatility of our stock price, we have been in the past and may be in the future the target of securities litigation. Such lawsuits generally result in the diversion of management's time and attention away from business operations, which could harm our business. In addition, the costs of defense and any damages resulting from litigation, a ruling against us, or a settlement of the litigation could adversely affect our cash flow and financial results. 
+
+We are subject to litigation which, if determined adversely to us, could harm our business. 
+
+We are engaged in litigation with parties related to our acquisition of 3dfx in 2001. In addition, in September, October and November 2008, several putative securities class action lawsuits were filed against us for alleged defects in our previous generation MCP and GPU products. Please refer to Note 12 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further details on these lawsuits. 
+
+There can be no assurance that any litigation to which we are a party will be resolved in our favor. Any claim that is successfully decided against us may cause us to pay substantial damages, including punitive damages, and other related fees or prevent us from selling or importing certain of our products. Regardless of whether lawsuits are resolved in our favor or if we are the plaintiff or the defendant in the litigation, any lawsuits to which we are a party will likely be expensive and time consuming to defend or resolve. Such lawsuits could result in the diversion of management's time and attention away from business operations, which could harm our business. Such lawsuits could also harm our relationships with existing customers and result in the diversion of management's time and attention away from business operations, which could harm our business. Costs of defense and any damages resulting from litigation, a ruling against us, or a settlement of the litigation could adversely affect our cash flow and financial results. 
+
+Actions to adequately protect our intellectual property rights, such as litigation to defend against alleged infringement of intellectual property rights or to enforce our intellectual property rights, could result in substantial costs to us and our ability to compete could be harmed if we fail to take such actions or are unsuccessful in doing so. 
+
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, and licensing arrangements to protect our intellectual property in the United States and internationally. We have numerous patents issued, allowed and pending in the United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations and foreign laws to protect our intellectual property. The laws of certain foreign countries in which our products are or may be manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as the laws of the United States. This makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as: 
+
+##TABLE_START &#8226; 
+
+the commercial significance of our operations and our competitors' operations in particular countries and regions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the location in which our products are manufactured; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our strategic technology or product directions in different countries; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions. 
+
+##TABLE_END Our pending patent applications and any future applications may not be approved. In addition, any issued patents may not provide us with competitive advantages or may be challenged, invalidated, infringed, circumvented or misappropriated by third parties. We expect that as the number of issued hardware and software patents increases and as competition intensifies, the volume of intellectual property infringement claims and lawsuits may increase. We may in the future become involved in lawsuits or other legal proceedings alleging patent infringement or other intellectual property rights violations by us or parties that we have agreed to indemnify for certain claims of infringement. Third parties may also claim that our employees have misappropriated or divulged their former employers&#8217; trade secrets or confidential information. 
+
+An unfavorable ruling in any such intellectual property related litigation could include significant damages, invalidation of a patent or family of patents, indemnification of customers, payment of lost profits, or, when it has been sought, injunctive relief. 
+
+In addition, in the future, we may need to commence litigation or other legal proceedings in order to: 
+
+##TABLE_START &#8226; 
+
+assert claims of infringement of our intellectual property; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+enforce our patents; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+protect our trade secrets or know-how; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+determine the enforceability, scope and validity of the propriety rights of others. 
+
+##TABLE_END If we have to initiate litigation in order to protect our intellectual property, our operating expenses may increase which could negatively impact our operating results. Our failure to effectively protect our intellectual property could harm our business. 
+
+If infringement claims are made against us or our products are found to infringe a third parties' patent or intellectual property, we or one of our indemnitees may have to seek a license to the third parties' patent or other intellectual property rights. However, we may not be able to obtain licenses at all or on terms acceptable to us particularly from our competitors. If we or one of our indemnitees is unable to obtain a license from a third party for technology that we use or that is used in one of our products, we could be subject to substantial liabilities or have to suspend or discontinue the manufacture and sale of one or more of our products. We may also have to make royalty or other payments, or cross license our technology. If these arrangements are not concluded on commercially reasonable terms, our business could be negatively impacted. Furthermore, the indemnification of a customer or other indemnitee may increase our operating expenses which could negatively impact our operating results. &#32; 
+
+Changes in United States tax legislation regarding our foreign earnings could adversely impact our business. &#32; 
+
+Currently, a majority of our revenue is generated from customers located outside the United States, and a significant portion of our assets, including employees, are located outside the United States. United States income taxes and foreign withholding taxes have not been provided on undistributed earnings for certain non-United States subsidiaries, because such earnings are intended to be indefinitely reinvested in the operations of those subsidiaries. Throughout the period of President Obama's administration, the White House has proposed various international tax measures, some of which, if enacted into law, would substantially reduce our ability to defer United States taxes on such indefinitely reinvested non-United States earnings, eliminate certain tax deductions until foreign earnings are repatriated to the United States and/or otherwise cause the total tax cost of U.S. multinational corporations to increase. If these or similar proposals are constituted into legislation in the current or future year(s), they could have a negative impact on our financial position and results of operations. 
+
+Our operating results may be adversely affected if we are subject to unexpected tax liabilities. 
+
+&#32;We are subject to taxation by a number of taxing authorities both in the United States and throughout the world. Tax rates vary among the jurisdictions in which we operate. Significant judgment is required in determining our provision for our income taxes as there are many transactions and calculations where the ultimate tax determination is uncertain. Although we believe our tax estimates are reasonable, any of the below could cause our effective tax rate to be materially different than that which is reflected in historical income tax provisions and accruals: 
+
+##TABLE_START &#8226; 
+
+the jurisdictions in which profits are determined to be earned and taxed; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+adjustments to estimated taxes upon finalization of various tax returns; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in available tax credits; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in stock-based compensation expense; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in tax laws, the interpretation of tax laws either in the United States or abroad or the issuance of new interpretative accounting guidance related to transactions and calculations where the tax treatment was previously uncertain; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the resolution of issues arising from tax audits with various tax authorities. 
+
+##TABLE_END 25 
+
+Should additional taxes be assessed as a result of any of the above, our operating results could be adversely affected. In addition, our future effective tax rate could be adversely affected by changes in the mix of earnings in countries with differing statutory tax rates, changes in tax laws or changes in the interpretation of tax laws. 
+
+We are subject to the risks of owning real property. 
+
+During fiscal year 2009, we purchased real property in Santa Clara, California that includes approximately 36 acres of land and twelve commercial buildings &#32;and eventually expect to break ground on a new building for a corporate headquarters campus in Santa Clara. We also own real property in India. We have limited experience in the ownership and management of real property and are subject to the risks of owning real property, including: 
+
+##TABLE_START &#8226; 
+
+the possibility of environmental contamination and the costs associated with mitigating any environmental problems; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+adverse changes in the value of these properties, due to interest rate changes, changes in the market in which the property is located, or other factors; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the risk of loss if we decide to sell and are not able to recover all capitalized costs; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased cash commitments for the planned construction of our Santa Clara campus; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the possible need for structural improvements in order to comply with zoning, seismic and other legal or regulatory requirements; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increased operating expenses for the buildings or the property or both; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+possible disputes with third parties, such as neighboring owners or others, related to the buildings or the property or both; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the risk of financial loss in excess of amounts covered by insurance, or uninsured risks, such as the loss caused by damage to the buildings as a result of earthquakes, floods and or other natural disasters. 
+
+##TABLE_END Expensing employee equity compensation adversely affects our operating results and could also adversely affect our competitive position. 
+
+Since inception, we have used equity through our equity incentive plans and our employee stock purchase program as a fundamental component of our compensation packages. We believe that these programs directly motivate our employees and, through the use of vesting, encourage our employees to remain with us. 
+
+We record compensation expense for stock options, restricted stock units and our employee stock purchase plan using the fair value of those awards in accordance with U.S. GAAP. Stock-based compensation expense was $136.3 million , $136.7 million and $136.4 million for fiscal years 2014, 2013 and 2012, respectively, related to on-going vesting of equity awards, which negatively impacted our operating results. 
+
+To the extent that expensing employee equity compensation makes it more expensive to grant stock options and restricted stock units or to continue to have an employee stock purchase program, we may decide to incur increased cash compensation costs. In addition, actions that we may take to reduce stock-based compensation expense that may be more severe than any actions our competitors may implement and may make it difficult to attract retain and motivate employees, which could adversely affect our competitive position as well as our business and operating results. &#32;&#32;&#32; 
+
+We have a substantial amount of indebtedness which could adversely affect our financial position and prevent us from implementing our strategy or fulfilling our contractual obligations . 
+
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;In December 2013, we issued $1.5 billion of 1.00% Convertible Senior Notes due 2018, or 1.00% Notes. Our substantial indebtedness may: 
+
+##TABLE_START &#8226; 
+
+limit our ability to use our cash flow or borrow additional funds for working capital, capital expenditures, acquisitions and general corporate and other purposes; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+make it difficult for us to satisfy our financial obligations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+place us at a competitive disadvantage compared to our less leveraged competitors; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increase our vulnerability to the impact of adverse economic and industry conditions. 
+
+##TABLE_END The exercise of warrants issued to Goldman, Sachs &#38; Co., or Goldman, concurrently with our 1.00% Notes would, and the conversion of our 1.00% Notes could, dilute the ownership interest of our existing stockholders . 
+
+The warrants issued concurrently with our 1.00% Notes shall be deemed to be automatically exercised on certain dates between March 2019 and June 2019, unless Goldman notifies us otherwise. Any issuance by us of additional shares to Goldman upon exercise of the warrants will dilute the ownership interests of our existing stockholders. Moreover, the conversion of our 1.00% Notes may dilute the ownership interests of our existing stockholders and could have a dilutive effect on our earnings per share to the extent that the price of our common stock exceeds the conversion price of the 1.00% Notes. Any sales in the public market by Goldman of our common stock upon exercise of the warrants or sales in the public market of our common stock issuable upon conversion of the 1.00% Notes could adversely affect prevailing market prices of our common stock. 
+
+Our failure to comply with any applicable environmental regulations could result in a range of consequences, including fines, suspension of production, excess inventory, sales limitations, and criminal and civil liabilities. 
+
+We are subject to various state, federal and international laws and regulations governing the environment, including restricting the presence of certain substances in electronic products and making producers of those products financially responsible for the collection, treatment, recycling and disposal of those products. Although our management systems are designed to maintain compliance, we cannot assure you that we have been or will be at all times in complete compliance with such laws and regulations. If we violate or fail to comply with any of them, a range of consequences could result, including fines, import/export restrictions, sales limitations, criminal and civil liabilities or other sanctions. We could also be held liable for any and all consequences arising out of exposure to hazardous materials used, stored, released, disposed of by us or located at, under or emanating from our facilities or other environmental or natural resource damage. 
+
+Environmental laws are complex, change frequently and have tended to become more stringent over time. For example, the European Union and China are two among a growing number of jurisdictions that have enacted in recent years restrictions on the use of lead, among other chemicals, in electronic products. These regulations affect semiconductor packaging. There is a risk that the cost, quality and manufacturing yields of lead-free products may be less favorable compared to lead-based products or that the transition to lead-free products may produce sudden changes in demand, which may result in excess inventory. 
+
+There is also a movement to improve the transparency and accountability concerning the supply of minerals coming from the areas of conflict. Recent U.S. legislation includes SEC disclosure requirements regarding the use of &#8220;conflict&#8221; minerals mined from the Democratic Republic of Congo and adjoining countries, for which the first report is due on May 31, 2014 for the 2013 calendar year. The implementation of these requirements could affect the sourcing and availability of minerals used in the manufacture of semiconductor devices. As a result, there may only be a limited pool of suppliers who provide conflict-free metals, and we cannot assure you that we will be able to obtain products in sufficient quantities or at competitive prices. Furthermore, we may incur additional costs associated with complying with these disclosure requirements, including costs related to determining the source of any &#8220;conflict&#8221; minerals in our products. Also, because our supply chain is complex, we may be unable to sufficiently verify the origins for all metals used in our products, resulting in reputational challenges with our customers and stockholders. Some customers may require that all of our products are certified to be conflict-free; if we cannot satisfy these customers, they may choose a competitor's products. Although we expect to be able to file the required report on time, we are dependent upon the information provided by our many suppliers. To the extent that the information we receive from our suppliers is inaccurate or inadequate or our processes in obtaining such information do not fulfill the SEC&#8217;s diligence requirements, we could also face SEC enforcement risks. 
+
+Future environmental legal requirements may become more stringent or costly and our compliance costs and potential liabilities arising from past and future releases of, or exposure to, hazardous substances may harm our business and our reputation. 
+
+While we believe that we have adequate internal control over financial reporting, if we or our independent registered public accounting firm determines that we do not, our reputation may be adversely affected and our stock price may decline. 
+
+Section 404 of the Sarbanes-Oxley Act of 2002, or Section 404, requires our management to report on, and our independent registered public accounting firm to audit, the effectiveness of our internal control structure and procedures for financial reporting. We have an ongoing program to perform the system and process evaluation and testing necessary to comply with these requirements. However, the manner in which companies and their independent public accounting firms apply these requirements and test companies' internal controls remains subject to some judgment. To date, we have incurred, and we expect to continue to incur, increased expense and to devote additional management resources to Section 404 compliance. Despite our efforts, if we identify a material weakness in our internal controls, there can be no assurance that we will be able to remediate that material weakness in a timely manner, or that we will be able to maintain all of the controls necessary to determine that our internal control over financial reporting is effective. In the event that our chief executive officer, our chief financial officer or our independent registered public accounting firm determine that our internal control over financial reporting is not effective as defined under Section 404, investor perceptions of us may be adversely affected and could cause a decline in the market price of our stock. &#32;&#32;&#32; 
+
+Changes in financial accounting standards or interpretations of existing standards could affect our reported results of operations. 
+
+We prepare our consolidated financial statements in conformity with U.S. GAAP. These principles are constantly subject to review and interpretation by the SEC and various bodies formed to interpret and create appropriate accounting principles. A change in these principles, or the interpretation of them, can have a significant effect on our reported results and may even retroactively affect previously reported transactions. Additionally, changes in existing accounting rules, such as the possible upcoming changes to revenue recognition and lease accounting standards, or changes in practices, such as changes to auditing standards promulgated by the Public Company Accounting Oversight Board, could have a significant adverse effect on our results of operations or the manner in which we conduct our business. 
+
+Delaware law and provisions in our certificate of incorporation, our bylaws and our agreement with Microsoft Corporation could delay or prevent a change in control. 
+
+Our status as a Delaware corporation and the anti-takeover provisions of the Delaware General Corporation Law may discourage, delay, or prevent a change in control by prohibiting us from engaging in a business combination with an interested stockholder for a period of three years after the person becomes an interested stockholder, even if a change of control would be beneficial to our existing stockholders. In addition, our certificate of incorporation and bylaws contain provisions that could make it more difficult for a third party to acquire a majority of our outstanding voting stock. These provisions include the following: 
+
+##TABLE_START &#8226; 
+
+the ability of our Board of Directors to create and issue preferred stock without prior stockholder approval; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the prohibition of stockholder action by written consent; 
+
+##TABLE_END 28 
+
+##TABLE_START &#8226; 
+
+a classified Board of Directors, which will become fully declassified from and after our 2014 Annual Meeting of Stockholders; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+advance notice requirements for director nominations and stockholder proposals; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the ability of our Board of Directors to increase or decrease the number of directors without stockholder approval; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+a super-majority voting requirement to amend some provisions in our certificate of incorporation and bylaws; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the elimination of the ability of our stockholders to call special meetings of stockholders; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the ability of our Board of Directors to make, amend or repeal our bylaws. 
+
+##TABLE_END On March 5, 2000, we entered into an agreement with Microsoft in which we agreed to develop and sell graphics chips and to license certain technology to Microsoft and its licensees for use in the Xbox. Under the agreement, if an individual or corporation makes an offer to purchase shares equal to or greater than 30% of the outstanding shares of our common stock, Microsoft may have first and last rights of refusal to purchase the stock. The Microsoft provision and the other factors listed above could also delay or prevent a change in control of NVIDIA. These provisions could also discourage proxy contests and make it more difficult for stockholders to elect directors of their choosing and to cause us to take other corporate actions they desire. 
+
+
+
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS &#160; 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 1A. Risk Factors&#8221;, &#8220;Item 6. Selected Financial Data&#8221;, our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. &#160; 
+
+Overview 
+
+Our Company 
+
+NVIDIA is a visual computing company. In a world increasingly filled with visual displays, our graphics technologies let our customers interact with the world of digital ideas, information and entertainment with an efficiency that no other communication medium can match. 
+
+Our strategy is to be the world leader in visual computing. We target applications in each of the major computing platforms - PC, cloud, mobile - where we can create value. Our target markets are gaming, design and visualization, high performance computing, or HPC, and data center, and automotive and smart devices. We deploy business models we believe are best suited for each application, whether IP, chips, systems, or NVIDIA-branded devices and services. 
+
+We have long been known for bringing video games to life with our PC graphics chips. With our invention of the GPU, we introduced the world to the power of programmable shading, which defines modern computer graphics. Today, we reach well beyond PC graphics and games. Our energy-efficient processors are at the heart of products ranging from smartphones to automobiles to supercomputers. We believe in leveraging our processors and visual computing expertise to create differentiated products. 
+
+PC gamers choose our GPUs to enjoy immersive fantasy worlds. Our Tegra system-on-a-chip, or SOC, processors power smartphones, tablets and automobile infotainment systems. Professional designers use our GPUs to create visual effects in movies and design everything from audio headsets to commercial aircraft. Supercomputers take advantage of the massively parallel processing capabilities of our GPUs to accelerate a wide range of important applications, from simulations of viruses to weather forecasting and global oil exploration. &#32; 
+
+NVIDIA's research and development in visual computing has yielded approximately 7,000 patent assets, including inventions essential to modern computing. &#32; 
+
+Our businesses are based on two technologies with a consistent underlying graphics architecture: the GPU and the Tegra processor. 
+
+GPUs, each with billions of transistors, are the engines of visual computing and among the world's most complex processors. We have GPU product brands aimed at specific users and applications: GeForce for gamers; Quadro for designers; Tesla for researchers; and GRID for cloud-based graphics. &#32; 
+
+##TABLE_START &#8226; 
+
+In gaming, GPUs enhance the gaming experience on PCs by improving the visual quality of graphics, increasing the frame rate for smoother gameplay and improving realism by replicating the behavior of light and physical objects. 
+
+##TABLE_END 
+
+##TABLE_START &#8226; 
+
+For designers, GPUs improve productivity and introduce new capabilities. For example, an architect designing a new building in a CAD package can interact with the model in real time, the model can be more detailed, and photo realistic renderings can be generated for the client. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Researchers can use GPUs to run their simulations faster while consuming less power, increasing the accuracy of weather forecasts, or pricing financial derivatives more quickly. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+GRID uses GPUs to deliver graphics performance remotely, from the cloud. Uses include gaming, professional applications provided as a service (SaaS) and improving Citrix and VMware installations. 
+
+##TABLE_END The Tegra processor is a SOC integrating an entire computer on a single chip. Tegra processors incorporate GPUs and multi-core CPUs together with audio, video and input/output capabilities. They can also be integrated with baseband processors to add voice and data communication. Our Tegra SOC conserves power while delivering state-of-the-art graphics and multimedia processing. 
+
+Tegra runs devices like smartphones, tablets and PCs; it can also be embedded into smart devices, such as televisions, monitors, set-top boxes, gaming devices and cars. SHIELD, our Android gaming device based on Tegra, contains proprietary NVIDIA-developed software and system technologies and leverages our deep partnerships with game developers. 
+
+Headquartered in Santa Clara, California, we were incorporated in California in April 1993 and reincorporated in Delaware in April 1998. &#32; 
+
+Our Businesses 
+
+We have two reporting segments - GPU and Tegra Processor - that leverage a single, unified architecture. Our GPU business leverages our GPU technology across multiple end markets. It comprises four primary product lines: GeForce for desktop and notebook PCs; Quadro for professional workstations; Tesla for high-performance servers and workstations; and NVIDIA GRID for server graphics solutions. It also includes other related products, licenses and revenue supporting the GPU business, such as memory products. Our Tegra Processor business comprises product lines primarily based on our Tegra SOC and modem processor technologies including Tegra for smartphones and tablets, including for Windows RT-based devices; automotive computers, including infotainment and navigation systems; and gaming devices such as SHIELD. It also includes other related products, licenses and revenue supporting the Tegra Processor business - such as Icera baseband processors and RF transceivers, embedded products, and license and other revenue associated with game consoles. 
+
+In addition to the two reporting segments discussed above, the &#8220;All Other&#8221; category primarily includes licensing revenue from our patent cross licensing agreement with Intel, which we expect to recognize through March 2017. 
+
+&#160; Recent Developments, Future Objectives and Challenges 
+
+GPU Business 
+
+During fiscal year 2014, we announced and shipped our new family of high-end Kepler-based gaming GPUs - GeForce GTX Titan, GeForce GTX 780, GeForce GTX 780 Ti, GeForce GTX 770 and GeForce GTX 760, and introduced G-SYNC technology that enables synchronization between the GPU and the display to help eliminate on-screen lag. 
+
+In addition, we extended our Kepler technology further into the workstation market by shipping four new professional graphics products under our Quadro K Series, including our most powerful workstation graphics card - the Quadro K6000. Furthermore, we launched Tesla K40, an accelerator for supercomputing and enterprise data analytics, and partnered with IBM to build supercomputers for the high performance computing community. 
+
+For the cloud computing platform, we launched GRID VCA - the industry's first visual computing appliance that enables businesses to deploy cloud-based, GPU-accelerated applications through any Windows, Linux or Mac client on their network. We also announced that VMware Horizon View supports NVIDIA GRID technology and that Citrix&#8217;s XenDesktop 7 has fully integrated our GRID vGPU technology to share GPUs across virtual machines. Finally, we announced an IP licensing initiative designed to bring our GPU technology to new markets and generate revenue from markets previously inaccessible to us. 
+
+Tegra Processor Business 
+
+&#32;During fiscal year 2014, we announced our first fully integrated 4G LTE mobile processor - Tegra 4i, and extended our reach in the mobile devices market with the first shipments of Tegra 4 devices - including Xiaomi's Mi3 smartphone in China and Tegra Note, a complete tablet platform. We also launched our next generation mobile system-on-a-chip, Tegra K1, extending the Kepler architecture across the Company&#8217;s entire line of processors, displayed Denver, our custom 64-bit ARM core inside Tegra K1, and showed Android running on 64-bit ARM. 
+
+In addition, we announced that Audi introduced a new Tegra-powered infotainment system, smart display and digital cockpit and that Audi would use Tegra K1 to power its future piloted-driving initiatives. Finally, we started shipping SHIELD, an open-platform gaming and entertainment portable that enables gamers to play Android games or stream games from a PC with a GeForce processor. 
+
+Convertible Notes 
+
+On December 2, 2013, we issued $1.5 billion of 1.00% Convertible Senior Notes, or the Notes, due in 2018 and concurrently entered into separate note hedge and warrant transactions and used $14.3 million to repurchase shares of our common stock from purchasers of the Notes in privately negotiated transactions. In addition to using the net proceeds to fund the transaction costs, note hedge and warrant transactions, we further intend to use the proceeds to repurchase of shares of our common stock and pay cash dividends pursuant to our recently announced fiscal year 2015 capital return program, and for general corporate purposes. &#32;&#32;Please refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Capital Return to Shareholders 
+
+During fiscal year 2014, we repurchased shares worth $887.3 million , paid a total of $181.3 million &#32;in dividends and increased our quarterly cash dividend by 13% to $0.085 per share. We &#32;have announced our intention to return $1.0 billion to shareholders in fiscal year 2015 in the form of share repurchases and dividends. As part of our capital return program, during February 2014 we entered into an accelerated share repurchase agreement to purchase $500.0 million in shares of our common stock. 
+
+Please refer to Note 14 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Critical Accounting Policies and Estimates 
+
+&#160; 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. On an on-going basis, we evaluate our estimates, including those related to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income taxes, goodwill, stock-based compensation, warranty liabilities, litigation, investigation and settlement costs and other contingencies. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
+
+&#160; 
+
+We believe the following critical accounting policies affect our significant judgments and estimates used in the preparation of our consolidated financial statements. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Annual Report on Form 10-K. 
+
+&#160; &#160; 
+
+Revenue Recognition 
+
+&#160; 
+
+Product Revenue 
+
+We recognize revenue from product sales when persuasive evidence of an arrangement exists, the product has been delivered, the price is fixed or determinable and collection of the related receivable is reasonably assured. For most sales, we use a binding purchase order and in certain cases we use a contractual agreement as evidence of an arrangement. We consider delivery to occur upon shipment provided title and risk of loss have passed to the customer. At the point of sale, we assess whether the arrangement fee is fixed or determinable and whether collection is reasonably assured. If we determine that collection of a fee is not reasonably assured, we defer the fee and recognize revenue at the time collection becomes reasonably assured, which is generally upon receipt of payment. &#32; 
+
+&#160; 
+
+Our policy on sales to certain distributors with rights of return is to defer recognition of revenue and related cost of revenue until the distributors resell the product, as the level of returns cannot be reasonably estimated. &#32; 
+
+Our customer programs primarily involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets. We account for rebates as a reduction of revenue and accrue for 100% of the potential rebates and do not apply a breakage factor. While we have a long history of rebate arrangements with OEMs, we believe we are unable to apply our historical experience to reliably estimate the amount of rebates that will eventually be claimed by individual OEMs. The OEMs are not our direct customers and the quantity and mix of demand they place on CEM/ODMs may shift as we introduce new generations and iterations of products and as we experience changes in new competitor offerings. In addition, we typically find that approximately 95% of the rebates we accrue each year are eventually claimed, which is substantially close to 100%, and that this percentage varies by program and by customer. We recognize a liability for these rebates at the later of the date at which we record the related revenue or the date at which we offer the rebate. Rebates typically expire six months from the date of the original sale, unless we reasonably believe that the customer intends to claim the rebate. Unclaimed rebates are reversed to revenue, the amount of which typically represents approximately 0.5% of total revenue. &#32; 
+
+&#160; 
+
+Our customer programs also include marketing development funds, or MDFs. MDFs represent monies paid to retailers, system builders, original equipment manufacturers, or OEMs, distributors and add-in card partners that are earmarked for market segment development and expansion and typically are designed to support our partners&#8217; activities while also promoting NVIDIA products. Depending on market conditions, we may take actions to increase amounts offered under customer programs, possibly resulting in an incremental reduction of revenue at the time such programs are offered. We account for MDFs as a reduction of revenue and apply a breakage factor to certain types of MDF program accruals for which we believe we can make a reasonable and reliable estimate of the amount that will ultimately be unclaimed. MDF amounts that have been previously recorded against revenue and subsequently expired unclaimed are reversed to revenue. Such amounts have not been significant. &#32; 
+
+We also record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a particular fiscal period exceed historical return rates we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns. &#32; 
+
+License and Development Revenue 
+
+&#160; 
+
+For license arrangements that require significant customization of our intellectual property components, we generally recognize the related revenue over the period that services are performed. For most license and service arrangements, we determine progress to completion based on actual direct labor hours incurred to date as a percentage of the estimated total direct labor hours required to complete the project. We periodically evaluate the actual status of each project to ensure that the estimates to complete each contract remain accurate. A provision for estimated losses on contracts is made in the period in which the loss becomes probable and can be reasonably estimated. Costs incurred in advance of revenue recognized are recorded as deferred costs on uncompleted contracts. If the amount billed exceeds the amount of revenue recognized, the excess amount is recorded as deferred revenue. Revenue recognized in any period is dependent on our progress toward completion of projects in progress. Significant management judgment and discretion are used to estimate total direct labor hours. Any changes in or deviations from these estimates could have a material effect on the amount of revenue we recognize in any period. &#32; 
+
+For license arrangements that do not require significant customization but where we are obligated to provide further deliverables over the term of the license agreement, we record revenue over the life of the license term, with consideration received in advance of the performance period classified as deferred revenue . 
+
+Royalty revenue is recognized related to the distribution or sale of products that use our technologies under license agreements with third parties. We recognize royalty revenue upon receipt of a confirmation of earned royalties and when collectability is reasonably assured from the applicable licensee. &#32; 
+
+&#160; 
+
+Accounts Receivable 
+
+&#160; 
+
+We maintain an allowance for doubtful accounts receivable for estimated losses resulting from the inability of our customers to make required payments. Management determines this allowance, which consists of an amount identified for specific customer issues as well as an amount based on overall estimated exposure. Our accounts receivable are highly concentrated and make us vulnerable to adverse changes in our customers businesses, and to downturns in the industry and the worldwide economy. Our overall estimated exposure excludes significant amounts that are covered by credit insurance and letters of credit. If the financial condition of our customers, the financial institutions providing letters of credit, or our credit insurance carrier were to deteriorate, resulting in an impairment of their ability to make payments, additional allowances may be required that could adversely affect our operating results. Furthermore, there can be no assurance that we will be able to continue to obtain credit insurance in the future. 
+
+As of January 26, 2014 , our allowance for doubtful accounts receivable was $0.8 million and our gross accounts receivable balance was $443.5 million. Of the $443.5 million, $84.1 million was covered by credit insurance and $23.1 million was covered by letters of credit. If the financial condition of our customers were to deteriorate, resulting in an impairment of their ability to make payments, additional allowances may be required and we may have to record additional reserves or write-offs on certain sales transactions in the future. Factors impacting the allowance include the level of gross receivables, the financial condition of our customers and the extent to which balances are covered by credit insurance or letters of credit. The amount of our cumulative bad debt charges over the last three fiscal years has not been significant. As a result of our low bad debt experience, our allowance for doubtful accounts receivable has ranged between 0.1% and 0.4% during fiscal years 2014 and 2013. As of January 26, 2014 , our allowance for doubtful accounts receivable represented 0.2% of our gross accounts receivable balance. 
+
+&#160; Inventories 
+
+&#160; 
+
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-out basis. Inventory costs consist primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, and shipping costs, as well as the cost of purchased memory products and other component parts. We charge cost of sales for inventory provisions to write down our inventory to the lower of cost or estimated market value or to completely write off obsolete or excess inventory. Most of our inventory provisions relate to the write-off of excess quantities of products, based on our inventory levels and future product purchase commitments compared to assumptions about future demand and market conditions. Once inventory has been written-off or written-down, it creates a new cost basis for the inventory that is not subsequently written-up. &#32; 
+
+Situations that may result in excess or obsolete inventory include changes in business and economic conditions, changes in consumer confidence caused by changes in market conditions, sudden and significant decreases in demand for our products, inventory obsolescence because of rapidly changing technology and customer requirements, failure to estimate customer demand properly for older products as newer products are introduced, or unexpected competitive pricing actions by our competition. In addition, cancellation or deferral of customer purchase orders could result in our holding excess inventory. Also, because we often sell a substantial portion of our products in the last month of each quarter, we may not be able to reduce our inventory purchase commitments in a timely manner in response to customer cancellations or deferrals. 
+
+Charges to cost of sales for inventory provisions totaled $50.1 million, $89.9 million and $53.0 million, unfavorably impacting our gross margin by 1.2%, 2.1% and 1.3%, in fiscal years 2014, 2013 and 2012, respectively. Sales of inventory that was previously written-off or written-down totaled $43.4 million, $53.7 million and $71.1 million, favorably impacting our gross margin by 1.1%, 1.3% and 1.8% in fiscal years 2014, 2013 and 2012, respectively. As a result, the overall net effect on our gross margin from charges to cost of sales for inventory provisions and sales of items previously written-off or written-down was a 0.1% unfavorable impact in fiscal year 2014, a 0.8% unfavorable impact in fiscal year 2013 and a 0.5% favorable impact in fiscal year 2012. 
+
+During fiscal years 2014, 2013 and 2012, the charges we took to cost of sales for inventory provisions were primarily related to the write-off of excess quantities of certain older generations of GPU and Tegra Processor products whose inventory levels were higher than our updated forecasts of future demand for those products. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products. 
+
+Please refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion. 
+
+Warranty Liabilities 
+
+Cost of revenue includes the estimated cost of product warranties that are calculated at the point of revenue recognition. Under limited circumstances, we may offer an extended limited warranty to customers for certain products. Our products are complex and may contain defects or experience failures due to any number of issues in design, fabrication, packaging, materials and/or use within a system. If any of our products or technologies contains a defect, compatibility issue or other error, we may have to invest additional research and development efforts to find and correct the issue. In addition, an error or defect in new products or releases or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance or loss of design wins. Also, we may be required to reimburse customers, including our customers&#8217; costs to repair or replace products in the field. 
+
+&#160; 
+
+Income Taxes 
+
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized. 
+
+United States income tax has not been provided on a portion of earnings of our non-U.S. subsidiaries to the extent that such earnings are considered to be indefinitely reinvested. 
+
+Our calculation of current and deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of current and deferred tax assets and liabilities may change based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in the United States, or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize liabilities for potential United States and foreign income tax contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in our financial statements, accordingly. 
+
+As of January 26, 2014, we had a valuation allowance of $244.5 million related to state and certain foreign deferred tax assets that management determined are not likely to be realized due, in part, to projections of future taxable income and potential utilization limitations of tax attributes acquired as a result of stock ownership changes. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax asset as an income tax benefit during the period. 
+
+Our deferred tax assets do not include the excess tax benefit related to stock-based compensation that are a component of our federal and state net operating loss and research tax credit carryforwards in the amount of $427.9 million as of January 26, 2014. Consistent with prior years, the excess tax benefit reflected in our net operating loss and research tax credit carryforwards will be accounted for as a credit to stockholders' equity, if and when realized. In determining if and when excess tax benefits have been realized, we have elected to utilize the with-and-without approach with respect to such excess tax benefits. We have also elected to ignore the indirect tax effects of stock-based compensation deductions for financial and accounting reporting purposes, and specifically to recognize the full effect of the research tax credit in income from operations. 
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense. Please refer to Note 13 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Goodwill 
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier if indicators of potential impairment exist, using either a qualitative or a quantitative assessment. Our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value. We have identified three reporting units, GPU, Professional Solutions and Tegra Processor, for the purposes of completing our goodwill analysis. Goodwill assigned to these reporting units as of January 26, 2014 was $135.3 million, $95.1 million and $412.8 million , respectively. Determining the number of reporting units and the fair value of a reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We also make judgments and assumptions in allocating assets and liabilities to each of our reporting units. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. 
+
+Both a qualitative and quantitative approach are applicable accounting standards for the assessment of goodwill impairment. With the qualitative approach to testing goodwill for impairment, we perform an analysis evaluating factors including, but not limited to, macro-economic conditions, market and industry conditions, the competitive environment, the operational stability and overall financial performance of the reporting units, including cost factors and actual revenue results. For reporting units in which the qualitative assessment concludes it is more likely than not that the fair value is more than its carrying value, no further goodwill impairment testing is required. 
+
+For those reporting units where a significant change or event has occurred, where potential impairment indicators exist, or for which we have not performed a quantitative assessment recently, we utilize a two-step quantitative assessment to testing goodwill for impairment. The first step tests for possible impairment by applying a fair value-based test. The second step, if necessary, measures the amount of such impairment by applying fair value-based tests to individual assets and liabilities. We estimated the fair value of reporting units by weighing the results from the income approach and the market approach. These valuation approaches consider a number of factors that include, but are not limited to, prospective financial information, growth rates, terminal or residual values, discount rates and comparable multiples from publicly traded companies in our industry and require us to make certain assumptions and estimates regarding industry economic factors and the future profitability of our business. 
+
+When performing an income approach valuation, we incorporate the use of projected financial information and a discount rate that are developed using market participant based assumptions to our discounted cash flow model. Our estimates of discounted cash flow were based upon, among other things, certain assumptions about our expected future operating performance, such as revenue growth rates, operating margins, risk-adjusted discount rates, and future economic and market conditions. Our estimates may differ from actual cash flow due to, among other things, economic conditions, changes to our business model or changes in operating performance. Additionally, certain estimates of discounted cash flow involve businesses with limited financial history and developing revenue models, which increases the risk of differences between the projected and actual performance. The long-term financial forecasts that we utilize represent the best estimate that we have at this time and we believe that its underlying assumptions are reasonable. Significant differences between our estimates and actual cash flow could materially affect our future financial results, which could impact our future estimates of the fair value of our reporting unit. 
+
+During the fourth quarter of fiscal year 2014, we utilized a quantitative assessment to test goodwill impairment for all three reporting units and concluded that there was no impairment, as the fair value of our GPU and Professional Solutions reporting units significantly exceeded their carrying values and the fair value of our Tegra Processor reporting unit exceeded its carrying value by 17%. As such, even if we applied a hypothetical 10% decrease to the fair value of each reporting unit, it still would not have resulted in the fair value of our reporting units being less than their carrying values. As an overall test of the reasonableness of estimated fair values of reporting units, we reconciled the combined fair value estimates of our reporting units to our market capitalization as of the valuation date of October 27, 2013. The reconciliation confirmed that the fair values were relatively representative of the market views when applying a reasonable control premium to the market capitalization. However, any significant reductions in the actual amount of future cash flows realized by our reporting units, reductions in the value of market comparables, or reductions in our market capitalization could impact future estimates of the fair values of our reporting units. Such events could ultimately result in a charge to our earnings in future periods due to the potential for a write-down of the goodwill associated with our reporting units. 
+
+In particular, the fair value of our Tegra reporting unit exceeded its carrying value by approximately 17%. The fair value of this reporting unit was assessed using a combination of income and market approaches. The underlying assumptions we used in assessing the fair value of the Tegra reporting unit include, but are not limited to, assumptions around future revenue growth rates, gross margins, operating expense investment levels, overall market growth rates, our market share of the overall market, and the appropriate discount rates to apply to future cash flows. If the actual future results of the Tegra reporting unit do not achieve the levels we estimated in assessing its fair value, the fair value of the Tegra reporting unit could decline. A future decline in the fair value of the Tegra reporting unit could result a charge to our earnings as a result of a write-down of the value of the goodwill associated with that reporting unit. 
+
+Our next annual evaluation of the goodwill by reporting unit will be performed during the fourth quarter of fiscal year 2015, or earlier if indicators of potential impairment exist. Such indicators include, but are not limited to, challenging economic conditions, such as a decline in our operating results, an unfavorable industry or macroeconomic environment, a substantial decline in our stock price, or any other adverse change in market conditions. Such conditions could have the effect of changing one of the critical assumptions or estimates we use to calculate the fair value of our reporting units, which could result in a decrease in fair value and require us to record goodwill impairment charges. 
+
+Cash Equivalents and Marketable Securities 
+
+&#160; 
+
+&#32;Cash equivalents consist of financial instruments which are readily convertible into cash and have original maturities of three months or less at the time of acquisition. Marketable securities consist primarily of highly liquid investments with maturities of greater than three months when purchased. We generally classify our marketable securities at the date of acquisition as available- for- sale. These securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income (loss), a component of stockholder&#8217;s equity, net of tax. Any unrealized losses which are considered to be other-than-temporary impairments are recorded in the other income (expense) section of our consolidated statements of operations. Realized gains (losses) on the sale of marketable securities are determined using the specific-identification method and recorded in the other income (expense) section of our consolidated statements of operations. Please refer to Note 7 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. We measure our cash equivalents and marketable securities at fair value. The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or quoted market prices of similar assets from active markets. Our Level 1 assets consist of our money market funds. We classify securities within Level 1 assets when the fair value is obtained from real time quotes for transactions in active exchange markets involving identical assets. Our available-for- sale securities are classified as having Level 2 inputs. Our Level 2 assets are valued utilizing a market approach where the market prices of similar assets are provided by a variety of independent industry standard data providers to our investment custodian. Most of our cash equivalents and marketable securities are valued based on Level 2 inputs. We do not have any investments classified as Level 3 as of January 26, 2014 . 
+
+All of our available-for-sale investments are subject to a periodic impairment review. We record a charge to earnings when a decline in fair value is significantly below cost basis and judged to be other-than-temporary, or have other indicators of impairments. If the fair value of an available-for-sale debt instrument is less than its amortized cost basis, an other-than - temporary impairment is triggered in circumstances where (1) we intend to sell the instrument, (2) it is more likely than not that we will be required to sell the instrument before recovery of its amortized cost basis, or (3) a credit loss exists where we do not expect to recover the entire amortized cost basis of the instrument. If we intend to sell or it is more likely than not that we will be required to sell the available-for-sale debt instrument before recovery of its amortized cost basis, we recognize an other-than- temporary impairment in earnings equal to the entire difference between the debt instruments&#8217; amortized cost basis and its fair value. For available-for-sale debt instruments that are considered other-than-temporarily impaired due to the existence of a credit loss, if we do not intend to sell and it is more likely than not that we will be required to sell the instrument before recovery of its remaining amortized cost basis (amortized cost basis less any current-period credit loss), we separate the amount of the impairment into the amount that is credit related and the amount due to all other factors. The credit loss component is recognized in earnings. 
+
+&#160; 
+
+&#32;Stock-based Compensation 
+
+We measure stock-based compensation expense based on the estimated fair value of equity awards at the grant date, and recognize the expense using a straight-line attribution method over the requisite employee service period. We estimate the fair value of employee stock options on the date of grant using a binomial model. We use the closing trading price of our common stock on the date of grant, minus a dividend yield discount, as the fair value of awards of restricted stock units, or RSUs. The fair value of our employee stock purchase plan is calculated using the Black-Scholes model. Our stock-based compensation for employee stock purchase plan is expensed using an accelerated amortization model. 
+
+We determine the fair value of stock option awards on the date of grant using an option-pricing model that is affected by our stock price as well as assumptions regarding a number of highly complex and subjective variables. These variables include, but are not limited to, weighted average expected term, risk-free interest rate, expected stock price volatility, dividend yield, actual and projected employee stock option exercise behaviors, vesting schedules and death and disability probabilities We also segregate options into groups of employees with relatively homogeneous exercise behavior in order to calculate the best estimate of fair value using the binomial valuation model. 
+
+The expected life of employee stock options is a derived output of our valuation model and is impacted by the underlying assumptions of our company. The risk-free interest rate assumption is based upon observed interest rates on Treasury bills appropriate for the term of our employee stock options. Our management has determined that the use of implied volatility is expected to be more reflective of market conditions and, therefore, can reasonably be expected to be a better indicator of our expected volatility than historical volatility. Dividend yield is based on history and expectation of dividend payouts. 
+
+Our RSU awards are not eligible for cash dividends prior to vesting; therefore, the fair value of RSUs is discounted by the dividend yield. Additionally, for employee stock option and RSU awards, we estimate forfeitures annually and revise the estimates of forfeiture in subsequent periods if actual forfeitures differ from those estimates. Forfeitures are estimated based on historical experience. If factors change and we employ different assumptions in the application of accounting standards in future periods, the compensation expense that we record under these accounting standards may differ significantly from what we have recorded in the current period. 
+
+&#32;&#32; 
+
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Using the binomial model, we estimated the fair value of the stock options granted under our stock option plans using the following assumptions during fiscal year 2014 : 
+
+##TABLE_START Weighted average expected life (in years) 
+
+2.4-3.5 
+
+Risk-free interest rate 
+
+1.8%-3.0% 
+
+Volatility 
+
+28%-37% 
+
+Dividend yield 
+
+1.9%-2.4% 
+
+##TABLE_END
+
+&#160; 
+
+&#32;We used the Black-Scholes model to estimate the fair value of shares issued under our ESPP during fiscal year 2014 , using the following assumptions: 
+
+&#160; 
+
+##TABLE_START Weighted average expected life (in years) 
+
+0.5-2.0 
+
+Risk-free interest rate 
+
+0.1%-0.4% 
+
+Volatility 
+
+32%-37% 
+
+Dividend yield 
+
+2.0%-2.4% 
+
+##TABLE_END
+
+&#160; 
+
+Litigation, Investigation and Settlement Costs 
+
+&#160; 
+
+From time to time, we are involved in legal actions and/or investigations by regulatory bodies. We are aggressively defending our current litigation matters. However, there are many uncertainties associated with any litigation or investigations, and we cannot be certain that these actions or other third-party claims against us will be resolved without costly litigation, fines and/or substantial settlement payments. If that occurs, our business, financial condition and results of operations could be materially and adversely affected. If information becomes available that causes us to determine that a loss in any of our pending litigation, investigations or settlements is probable, and we can reasonably estimate the loss associated with such events, we will record the loss in accordance with U.S. GAAP. However, the actual liability in any such litigation or investigation may be materially different from our estimates, which could require us to record additional costs. 
+
+Results of Operations 
+
+&#160; 
+
+The following table sets forth, for the periods indicated, certain items in our consolidated statements of operations expressed as a percentage of revenue. 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2014 
+
+&#160; 
+
+January 27, 2013 
+
+&#160; 
+
+January 29, 2012 
+
+Revenue 
+
+100.0 
+
+% 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+100.0 
+
+% 
+
+Cost of revenue 
+
+45.1 
+
+&#160; 
+
+48.0 
+
+&#160; 
+
+48.6 
+
+Gross profit 
+
+54.9 
+
+&#160; 
+
+52.0 
+
+&#160; 
+
+51.4 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+32.3 
+
+&#160; 
+
+26.8 
+
+&#160; 
+
+25.1 
+
+Sales, general and administrative 
+
+10.5 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+10.1 
+
+Total operating expenses 
+
+42.8 
+
+&#160; 
+
+36.9 
+
+&#160; 
+
+35.2 
+
+Income from operations 
+
+12.1 
+
+&#160; 
+
+15.1 
+
+&#160; 
+
+16.2 
+
+Interest income 
+
+0.4 
+
+&#160; 
+
+0.5 
+
+&#160; 
+
+0.5 
+
+Interest expense 
+
+(0.3 
+
+) 
+
+&#160; 
+
+(0.1 
+
+) 
+
+&#160; 
+
+(0.1 
+
+) 
+
+Other income (expense), net 
+
+0.2 
+
+&#160; 
+
+(0.1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Income before income taxes 
+
+12.4 
+
+&#160; 
+
+15.4 
+
+&#160; 
+
+16.6 
+
+Income tax expense 
+
+1.7 
+
+&#160; 
+
+2.3 
+
+&#160; 
+
+2.1 
+
+Net income 
+
+10.7 
+
+% 
+
+&#160; 
+
+13.1 
+
+% 
+
+&#160; 
+
+14.5 
+
+% 
+
+##TABLE_END
+
+Fiscal Years Ended January 26, 2014, January 27, 2013, and January 29, 2012 
+
+&#160; 
+
+Revenue 
+
+Fiscal Year 2014 vs. Fiscal Year 2013 
+
+Revenue was $4.13 billion &#32;for fiscal year 2014 &#32;and $4.28 billion &#32;for fiscal year 2013 , a decrease of 4% . A discussion of our revenue results for each of our reporting segments and the other category is as follows: 
+
+GPU Business. GPU business revenue for fiscal year 2014 &#32;increased by 7% &#32;to $3.47 billion &#32;when compared to $3.25 billion &#32;for fiscal year 2013 . This growth was largely attributable to strength in our high-end GeForce GTX GPUs which grew 18% driven by gaming market segment demand. The GPU business also benefited from a 37% increase in Tesla high-performance computing revenue and a 10% increase in Quadro workstation revenue in fiscal year 2014. Offsetting these growth areas were declines in the overall market for desktop PCs and notebooks, which contributed to lower unit volumes of our mainstream GeForce GPUs. 
+
+Tegra Processor Business. &#160; Tegra Processor business revenue decreased by 48% &#32;to $398.0 million &#32;for fiscal year 2014 &#32;as compared to $764.4 million &#32;for fiscal year 2013 . This decrease was primarily due to lower sales of our previous generation Tegra 3-based products for smartphones and tablet devices. Additionally, sales of our embedded products for entertainment devices and revenue from license fees related to game consoles also decreased during fiscal year 2014. These decreases were partially offset by the sales of Tegra 4-based products for smartphones and tablet devices as well as infotainment systems for automobiles. 
+
+All Other. &#32;License revenue from the patent cross licensing arrangement we entered into with Intel in January 2011 was flat at $264.0 million between fiscal years 2014 and 2013. 
+
+Fiscal Year 2013 vs. Fiscal Year 2012 
+
+Revenue was $4.28 billion for fiscal year 2013 and $4.00 billion for fiscal year 2012, an increase of 7%. A discussion of our revenue results for each of our reporting segments and the other category is as follows: 
+
+GPU Business. &#32;GPU business revenue of $3.25 billion for fiscal year 2013 increased by 2% compared to $3.19 billion for fiscal year 2012. This growth was largely attributable to the introduction of GPUs based on our Kepler architecture in fiscal year 2013. GeForce notebook revenues increased on the strength of Kepler-based design wins on the Ivy Bridge platform. Strong demand for Kepler-based GeForce desktop GPU products also contributed to the increase in GPU business revenues. The GPU business also benefited from a greater than 36% increase in Tesla revenue in fiscal year 2013. Offsetting these increases were a decrease in Quadro revenue, which we believe was due primarily to general weakness in Western Europe, and a continued decline in sales of our MCP products as we continued to phase out our chipset product line. 
+
+Tegra Processor Busines s. Tegra Processor business revenue increased by 29% to $764.4 million for fiscal year 2013 as compared to $591.2 million for fiscal year 2012. This increase was primarily due to higher sales of our Tegra 3-based smartphones and tablet devices as we transitioned from the previous generation Tegra 2-based products and introduced our Tegra-3 based processors in Windows RT-based tablet devices. Additionally, revenues for our embedded products for entertainment and automotive devices also increased during fiscal year 2013. Offsetting these increases was a decrease in revenue from license fees and other revenue related to game consoles. 
+
+&#32;&#32;&#32;&#32;&#32;&#32;All Other . The increase in revenue is also due to revenue from the patent cross licensing arrangement we entered into with Intel in January 2011. We recognized $264.0 million in related licensing revenue during the entire twelve months of fiscal year 2013, while fiscal year 2012 only included $220.0 million in related revenue - reflecting only ten months of the corresponding revenue. 
+
+&#160; 
+
+Concentration of Revenue 
+
+&#160; 
+
+We generated 75% , 74% and 78% of our total revenue for fiscal years 2014 , 2013 and 2012, respectively, from sales to customers outside the United States and other Americas. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the foreign contract equipment manufacturers, add-in board and motherboard manufacturers&#8217; revenue is attributable to end customers in a different location. 
+
+Revenue from significant customers, those representing 10% or more of total revenue for the respective dates, is summarized as follows: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2014 
+
+&#160; 
+
+January 27, 
+
+&#160; 
+
+January 29, 
+
+Revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Customer A 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Customer B 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+&#160; 
+
+Gross Profit and Gross Margin 
+
+&#160; 
+
+Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions and shipping costs. Cost of revenue also includes development costs for license, service arrangements and stock-based compensation related to personnel associated with manufacturing. 
+
+&#160; 
+
+Gross margin is the percentage of gross profit to revenue. Our gross margin was 54.9%, 52.0% and 51.4% for fiscal years 2014, 2013 and 2012, respectively. Our gross margin is significantly impacted by the mix of products we sell and can vary in any period depending on that product mix. 
+
+A discussion of our gross margin results for each of our reporting segments is as follows: 
+
+Fiscal Year 2014 vs. Fiscal Year 2013 
+
+Our gross margin increased to 54.9% &#32;in fiscal year 2014 &#32;from 52.0% &#32;in fiscal year 2013 . The improvement in gross margin was driven primarily by a combination of increased unit sales and a richer product mix of our high-end GeForce GTX GPU, Tesla high performance computing, and Quadro professional workstation products. The lower sales unit volumes of our lower margin mainstream GPUs and Tegra processors also contributed to the gross margin increase. Gross margin also improved due to the favorable impact of lower net inventory provisions in fiscal year 2014 compared to fiscal year 2013. 
+
+Charges to cost of sales for inventory provisions totaled $50.1 million and $89.9 million for fiscal years 2014 and 2013, unfavorably impacting our gross margin by 1.2% and 2.1%, respectively. Sales of inventory that was previously written-off or written-down totaled $43.4 million and $53.7 million for fiscal years 2014 and 2013, favorably impacting our gross margin by 1.1% and 1.3%, respectively. As a result, the overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 0.1% and 0.8% in fiscal years 2014 and 2013, respectively. 
+
+GPU Business . The gross margin of our GPU business increased during fiscal year 2014 when compared to fiscal year 2013. This was primarily due to a combination of increased unit sales and a richer product mix of our high-end GeForce GTX GPU, Tesla high performance computing, and Quadro professional workstation products. Lower inventory provisions for excess inventory in fiscal year 2014 also contributed to the increase in gross margin. 
+
+&#32; 
+
+Tegra Processor Business. &#160; The gross margin of our Tegra Processor business decreased during fiscal year 2014 when compared to fiscal year 2013. This decrease was driven primarily by a combination of an overall decline in margins of our Tegra products and a less rich mix between tablet products, which have had higher gross margins, and smartphone and automotive module products, which have had comparably lower gross margins. 
+
+Fiscal Year 2013 vs. Fiscal Year 2012 
+
+Our gross margin increased to 52.0% in fiscal year 2013 from 51.4% in fiscal year 2012. The improvement in gross margin was driven primarily by increased unit sales and a richer product mix of our high-end GeForce desktop products, plus Tesla and Quadro products. The addition of a full year of revenue from the patent cross licensing arrangement with Intel compared to ten months of such corresponding revenue in fiscal year 2012 also contributed to the improvement in gross margin. Offsetting these were the unfavorable impact of higher net provisions for inventory in fiscal year 2013 when compared to fiscal year 2012. 
+
+Charges to cost of sales for inventory provisions totaled $89.9 million and $53.0 million for fiscal years 2013 and 2012, unfavorably impacting our gross margin by 2.1% and 1.3%, respectively. Sales of inventory that was previously written-off or written down totaled $53.7 million and $71.1 million for fiscal years 2013 and 2012, favorably impacting our gross margin by 1.3% and 1.8%, respectively. As a result, the overall net effect on our gross margin from inventory provisions and sales of items previously written down was a 0.8% unfavorable impact in fiscal year 2013 and a 0.5% favorable impact in fiscal year 2012. 
+
+GPU Business . The gross margin of our GPU business increased during fiscal year 2013 when compared to fiscal year 2012. This was primarily due to a richer product mix of our Kepler-based high-end 28 nanometer GeForce desktop products and our Quadro products. Memory margins strengthened on improved market pricing. These favorable contributors to gross margin were primarily offset by higher net inventory provisions in fiscal year 2013 compared to fiscal year 2012. 
+
+&#32; 
+
+Tegra Processor Business. &#160; The gross margin of our Tegra Processor business decreased slightly during fiscal year 2013 as compared to fiscal year 2012. This decrease was the result of a change in product mix driven by a lower mix of revenue from areas such as license fees and other revenues related to game consoles, which typically have higher gross margins than our Tegra products, offset by a higher mix of revenue from sales of our Tegra products, which grew substantially during the year. 
+
+&#160; 
+
+&#160; 
+
+Operating Expenses &#160; 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2014 
+
+&#160; 
+
+January 27, 2013 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+January 27, 2013 
+
+&#160; 
+
+January 29, 2012 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+(In millions) 
+
+Research and development expenses 
+
+$ 
+
+1,335.8 
+
+&#160; 
+
+$ 
+
+1,147.3 
+
+&#160; 
+
+$ 
+
+188.5 
+
+&#160; 
+
+16.4 
+
+% 
+
+&#160; 
+
+$ 
+
+1,147.3 
+
+&#160; 
+
+$ 
+
+1,002.6 
+
+&#160; 
+
+$ 
+
+144.7 
+
+&#160; 
+
+14.4 
+
+% 
+
+Sales, general and administrative expenses 
+
+435.7 
+
+&#160; 
+
+430.8 
+
+&#160; 
+
+4.9 
+
+&#160; 
+
+1.1 
+
+% 
+
+&#160; 
+
+430.8 
+
+&#160; 
+
+405.6 
+
+&#160; 
+
+25.2 
+
+&#160; 
+
+6.2 
+
+% 
+
+Total operating expenses 
+
+$ 
+
+1,771.5 
+
+&#160; 
+
+$ 
+
+1,578.1 
+
+&#160; 
+
+$ 
+
+193.4 
+
+&#160; 
+
+12.3 
+
+% 
+
+&#160; 
+
+$ 
+
+1,578.1 
+
+&#160; 
+
+$ 
+
+1,408.2 
+
+&#160; 
+
+$ 
+
+169.9 
+
+&#160; 
+
+12.1 
+
+% 
+
+Research and development as a percentage of net revenue 
+
+32.3 
+
+% 
+
+&#160; 
+
+26.8 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+26.8 
+
+% 
+
+&#160; 
+
+25.1 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative as a percentage of net revenue 
+
+10.5 
+
+% 
+
+&#160; 
+
+10.1 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+10.1 
+
+% 
+
+&#160; 
+
+10.1 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+&#160; 
+
+Research and Development 
+
+Fiscal Year 2014 vs. Fiscal Year 2013 
+
+Research and development expenses increased by $188.5 million , or 16% , year over year. This increase was primarily due to a $101.9 million increase in compensation and benefits expense due to increased hiring of engineering talent. The growth in engineering employees also drove an increase in facilities and IT support expense of $34.6 million, purchases of computer and software supplies of $14.1 million and depreciation and amortization of $11.0 million. In addition, engineering development expenses increased by $23.2 million, primarily related to the ramp up of our next generation Tegra products. 
+
+Fiscal Year 2013 vs. Fiscal Year 2012 
+
+Research and development expenses increased by $144.7 million, or 14%, year over year. This increase was primarily due to a $99.4 million increase in compensation and benefits expense as we continue to hire engineering talent to invest in our business. Depreciation and amortization increased by $9.8 million, driven primarily by amortization of intangible assets associated with our acquisition of Icera in fiscal year 2012, as well as purchases of additional hardware and licenses during the year. Engineering development expenses increased by $6.8 million related to the ramp of our next-generation GPU architecture, Kepler, designed for 28nm technology and our next generation Tegra processor architecture, Tegra 4. 
+
+Sales, General and Administrative 
+
+Fiscal Year 2014 vs. Fiscal Year 2013 
+
+&#32;Sales, general and administrative expenses increased by $ 4.9 million , or 1% , year over year. This increase was primarily due to a $37.9 million increase in compensation and benefits expense due to increased hiring. Offsetting this increase were the absence of both a $20.1 million charge for a charitable contribution and a charge of $3.1 million for a class action settlement that we recorded in the prior fiscal year. 
+
+Fiscal Year 2013 vs. Fiscal Year 2012 
+
+&#32;Sales, general and administrative expenses increased by $25.2 million, or 6%, year over year. This increase was primarily due to a $21.6 million increase in compensation and benefits expense as we continue to invest in our business. Also contributing to the increase was a $20.1 million expense for the net present value of a charitable contribution that we recorded in the second quarter of fiscal year 2013. Offsetting these increases were decreases in outside professional fees of $10.4 million due to an overall decrease in professional services costs during fiscal year 2013 compared with fiscal year 2012 due to a general decline in litigation-related costs and the absence of services associated with acquisition activity in fiscal year 2013. 
+
+Interest Income and Interest Expense 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest expense is primarily comprised of coupon interest and debt discount amortization related to the convertible notes issued in the fourth quarter of fiscal year 2014. 
+
+Interest income was $17.1 million , $19.9 million &#32;and $19.1 million &#32;in fiscal years 2014, 2013 and 2012, respectively. The decrease in fiscal year 2014 from the prior year was primarily due to the result of lower average cash balances as we liquidated a portion of our investment portfolio to fund an accelerated share repurchase transaction during the second quarter of fiscal year 2014. 
+
+&#32;Interest expense was $10.4 million , $3.3 million , and $3.1 million &#32;in fiscal years 2014, 2013 and 2012, respectively. The increase from prior year is attributable to $2.5 million for coupon interest and $4.6 million for debt discount amortization related to the convertible notes. We expect to incur annual coupon interest expense of $15.0 million, and annual debt discount amortization of $28.0 million, for fiscal year 2015. 
+
+&#160; Other Income and Expense 
+
+Other income and expense primarily consists of realized gains and losses from the sale of marketable securities, sale of investment in non-affiliated companies, and the impact of changes in foreign currency rates. Net other income (expense) was $ 7.4 million , $ (2.8) million &#32;and $ (1.0) million &#32;in fiscal years 2014 , 2013 &#32;and 2012 , respectively. The increase in other income for fiscal year 2014 was primarily due to an increase in gains from foreign currency remeasurements and a gain of $3.1 million from sale of a non-affiliated investment. 
+
+&#32;&#32; 
+
+Income Taxes 
+
+&#160; 
+
+We recognized income tax expense of $ 70.3 million , $ 99.5 million &#32;and $ 82.3 million &#32;during fiscal years 2014 , 2013 &#32;and 2012 , respectively. Income tax expense as a percentage of income before taxes, or our annual effective tax rate, was 13.8% , 15.0% , and 12.4% &#32;in fiscal years 2014 , 2013 &#32;and 2012 , respectively. 
+
+Our effective tax rate on income or loss before tax for the fiscal years was lower than the United States federal statutory rate of 35% &#32;due to income or loss earned in jurisdictions, including British Virgin Islands, Hong Kong, China, Taiwan and United Kingdom, where the tax rate is lower than the United States federal statutory tax rate of 35% , favorable recognition in these fiscal years of the U.S. federal R&#38;D tax credit and release of tax reserves as a result of the expiration of statutes of limitations in certain non-U.S. jurisdictions for which we had not previously recognized related tax benefits. 
+
+Please refer to Note 13 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Liquidity and Capital Resources &#160; 
+
+##TABLE_START &#160; 
+
+January 26, 2014 
+
+&#160; 
+
+January 27, 2013 
+
+&#160; 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+1,151.6 
+
+&#160; 
+
+$ 
+
+732.8 
+
+Marketable securities 
+
+3,520.2 
+
+&#160; 
+
+2,995.1 
+
+Cash, cash equivalents, and marketable securities 
+
+$ 
+
+4,671.8 
+
+&#160; 
+
+$ 
+
+3,727.9 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2014 
+
+&#160; 
+
+January 27, 2013 
+
+&#160; 
+
+January 29, 2012 
+
+&#160; 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+835.1 
+
+&#160; 
+
+$ 
+
+824.2 
+
+&#160; 
+
+$ 
+
+909.2 
+
+Net cash used in investing activities 
+
+$ 
+
+(805.9 
+
+) 
+
+&#160; 
+
+$ 
+
+(744.0 
+
+) 
+
+&#160; 
+
+$ 
+
+(1,143.4 
+
+) 
+
+Net cash (used in) provided by financing activities 
+
+$ 
+
+389.6 
+
+&#160; 
+
+$ 
+
+(15.3 
+
+) 
+
+&#160; 
+
+$ 
+
+236.7 
+
+##TABLE_END
+
+As of January 26, 2014 , we had $4.67 billion &#32;in cash, cash equivalents and marketable securities, an increase of $943.9 million &#32;from the end of fiscal year 2013 . Our portfolio of cash equivalents and marketable securities is managed on our behalf by several financial institutions which are required to follow our investment policy, which requires the purchase of high grade investment securities, the diversification of asset types and includes certain limits on our portfolio duration. 
+
+&#32;Operating activities 
+
+&#160; 
+
+Operating activities consist primarily of net income or loss for the fiscal period, offset by the impact of non-cash expenses such as stock-based compensation and depreciation and amortization expense, and changes in operating assets and liabilities such as accounts receivable and inventories. 
+
+Cash provided by operating activities increased slightly in fiscal year 2014 compared to fiscal year 2013 primarily due to favorable changes in operating assets offset by a decrease in net income. The favorable change in operating assets was driven mainly by a combination of a decrease in accounts receivable, resulting from strong collections and linear monthly shipments in the fourth quarter of fiscal year 2014, and a decrease in inventories. 
+
+Cash provided by operating activities decreased in fiscal year 2013 compared to fiscal year 2012 primarily due to a decrease in net income and unfavorable changes in operating assets compared to fiscal year 2012. For example, accounts receivable increased primarily due to higher sales in the fourth quarter of fiscal year 2013 compared to the fourth quarter of fiscal year 2012 and inventory increased as a result of the production ramp of Kepler-based GPU products. 
+
+Investing activities 
+
+&#32;Investing activities consist primarily of purchases, sales and maturities of marketable securities, acquisitions of businesses and purchases of property and equipment, including leasehold improvements for our facilities and intangible assets. 
+
+Cash used in investing activities for fiscal year 2014 increased from fiscal year 2013 driven primarily by capital expenditures in fiscal year 2014 for new technology licenses and leasehold improvements at our facilities in various locations. 
+
+Cash used in investing activities for fiscal year 2013 decreased from fiscal year 2012 due primarily to the acquisition of Icera in fiscal year 2012. We used $183.3 million towards capital expenditures in fiscal year 2013 mainly for the purchase of new research and development equipment, testing equipment to support our increased production requirements, technology licenses, software, intangible assets and leasehold improvements at our facilities in various locations. 
+
+&#160; 
+
+Financing activities 
+
+Financing activities consist primarily of borrowing activities, such as convertible debt issuances or capital leases, and equity-related activities such as stock repurchases and dividend payments. 
+
+Cash provided by financing activities increased in fiscal year 2014 due primarily to the net proceeds of $1.48 billion we received from the convertible note offering that was completed during the fourth quarter of fiscal year 2014 as well as cash proceeds of $70.2 million &#32;from common stock issued under our employee stock plans. Concurrent with the convertible note offering, we used net proceeds of $108 million to fund the related note hedge and warrant transactions. During fiscal year 2014, we also used $887.3 million to repurchase shares of our common stock and paid $181.3 million of cash dividends to shareholders. 
+
+Cash used in financing activities in fiscal year 2013 was due primarily to our repurchase of $100.0 million of shares of our common stock and our first quarterly cash dividend payment of $46.9 million. These uses of cash were offset by cash proceeds of $64.9 million from common stock issued under our employee stock plans and a non-cash tax benefit of $68.7 million related to employee stock-based compensation. 
+
+Liquidity 
+
+Our primary source of liquidity is cash generated by our operations. Our investment portfolio consisted of cash and cash equivalents, commercial paper, mortgage-backed securities issued by government-sponsored enterprises, money market funds and debt securities of corporations, municipalities and the United States government and its agencies. These investments are denominated in United States dollars. As of January 26, 2014 , we did not have any investments in auction-rate preferred securities. 
+
+All of the cash equivalents and marketable securities are treated as &#8220;available-for-sale&#8221;. Investments in both fixed and floating rate interest earning instruments carry a degree of interest rate risk. Fixed rate debt securities may have their market value adversely impacted due to a rise in interest rates, while floating rate securities may produce less income than expected if interest rates fall. Due in part to these factors, our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair value of our publicly traded debt or equity investments is judged to be other-than-temporary. We may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates. However, because any debt securities we hold are classified as &#8220;available-for-sale,&#8221; no gains or losses are realized in our statement of income due to changes in interest rates unless such securities are sold prior to maturity or unless declines in market values are determined to be other-than-temporary. These securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income, a component of stockholders&#8217; equity, net of tax. 
+
+As of January 26, 2014 &#32;and January 27, 2013 , we had $ 4.67 billion &#32;and $ 3.73 billion , respectively, in cash, cash equivalents and marketable securities. Our investment policy requires the purchase of high grade investment securities, the diversification of asset types and includes certain limits on our portfolio duration, as specified in our investment policy guidelines. These guidelines also limit the amount of credit exposure to any one issue, issuer or type of instrument. As of January 26, 2014 , we were in compliance with our investment policy. As of January 26, 2014 , our investments in U.S. government agencies and U.S. government sponsored enterprises represented approximately 42% &#32;of our total investment portfolio, while the financial sector accounted for approximately 27% &#32;of our total investment portfolio. Substantially all of our investments are with A/A3 or better rated securities. 
+
+We performed an impairment review of our investment portfolio as of January 26, 2014 . Based on our quarterly impairment review, we concluded that our investments were appropriately valued and did not record any impairment during fiscal year 2014 . 
+
+Net realized gains were $ 2.4 million , $ 0.5 million &#32;and $ 0.4 million &#32;for fiscal years 2014 , 2013 &#32;and 2012 , respectively. As of January 26, 2014 , we had a net unrealized gain of $ 4.8 million , which was comprised of gross unrealized gains of $ 7.2 million , offset by $ 2.4 million &#32;of gross unrealized losses. As of January 27, 2013 , we had a net unrealized gain of $ 10.9 million , which was comprised of gross unrealized gains of $11.7 million , offset by $ 0.8 million &#32;of gross unrealized losses. 
+
+Our accounts receivable are highly concentrated. One &#32;customer accounted for approximately 23% &#32;of our accounts receivable balance at January 26, 2014 . We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments. This allowance consists of an amount identified for specific customers and an amount based on overall estimated exposure. As of January 26, 2014 , our allowance for doubtful accounts receivable was 0.2% of our gross accounts receivable balance. 
+
+&#32;Our cash balances are held in numerous locations throughout the world, including substantial amounts held outside of the United States. As of January 26, 2014, we had cash, cash equivalents and marketable securities of $2.06 billion held within the United States and $2.61 billion held outside of the United States. Most of the amounts held outside the United States may be repatriated to the United States but, under current law, would be subject to U.S. federal income taxes, less applicable foreign tax credits. Further, repatriation of some foreign balances may be restricted by local laws. As of January 26, 2014, we have not provided for U.S. federal and state income taxes on approximately $1.96 billion of undistributed earnings of non-United States subsidiaries, as such earnings are considered indefinitely reinvested outside the United States. Although we have no current need to do so, if we repatriate foreign earnings for cash requirements in the United States, we would incur U.S. federal and state income tax, less applicable foreign tax credits, and reduced by the current amount of our U.S. federal and state net operating loss and tax credit carryforwards. Further, in addition to the $2.06 billion of cash, cash equivalents and marketable securities held within the United States and available to fund our U.S. operations and any other U.S. cash needs, we have access to external sources of financing if cash is needed in the United States other than by repatriation of foreign earnings where U.S. income tax may otherwise be due. Accordingly, we do not reasonably expect any material effect on our business, as a whole, or to our financial flexibility with respect to our current cash balances held outside of the United States. 
+
+&#160; 
+
+Convertible Notes 
+
+On December 2, 2013, we issued $1.5 billion of 1.00% Convertible Senior Notes, or the Notes, due in 2018 and concurrently entered into separate note hedge and warrant transactions and used $14.3 million to repurchase shares of our common stock from purchasers of the Notes in privately negotiated transactions. In addition to using the net proceeds to fund the transaction costs, note hedge and warrant transactions, we further intend to use the proceeds to repurchase of shares of our common stock and pay cash dividends pursuant to our recently announced fiscal year 2015 capital return program, and for general corporate purposes. &#32;&#32; 
+
+The Notes are unsecured, unsubordinated obligations of the Company, which pay interest in cash semi-annually at a rate of 1.00% per annum. The Notes will mature on December 1, 2018 unless earlier repurchased or converted in accordance with their terms prior to such date. As of January 26, 2014, none of the conditions allowing holders of the Notes to convert had been met and the Notes are therefore classified as a long-term liability on our consolidated balance sheets. Please refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Stock Repurchase Program 
+
+Our Board of Directors has authorized us to repurchase up to $3.7 billion of our common stock through January 2016. As of January 26, 2014, we had repurchased $2.45 billion of that amount, leaving up to $1.25 billion available under this authorization through January 2016. We have announced our intention to return $1.0 billion to shareholders in fiscal year 2015 in the form of share repurchases and dividends. As part of our capital return program, during February 2014 we entered into an accelerated share repurchase agreement to purchase $500.0 million in shares of our common stock. Please refer to Note 14 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion regarding our stock repurchase program. 
+
+&#160; 
+
+Cash Dividend Program 
+
+Prior to fiscal year 2013, we had never declared or paid any dividend on shares of our common stock. On November 8, 2012, we announced the initiation of a quarterly cash dividend program. This initial quarterly dividend of $0.075 per share was equivalent to $0.30 per share on an annual basis. On November 7, 2013, we increased our quarterly cash dividend by 13% to $0.085 per share which was equivalent to $0.34 per share on an annual basis. A subsequent cash dividend of $0.085 per share was declared on February 12, 2014, payable on March 20, 2014 to all common stockholders of record at the close of business on February 27, 2014. &#32;In fiscal year 2014 and fiscal year 2013, we paid $181.3 million &#32;and $46.9 million , respectively, in dividends to our common stockholders. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to continued capital availability and our Board of Directors' continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our stockholders and are in compliance with all laws and agreements of NVIDIA applicable to the declaration and payment of cash dividends. 
+
+Operating Capital and Capital Expenditure Requirements 
+
+&#160; 
+
+We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating, acquisition, stock repurchase, cash dividend and capital requirements for at least the next twelve months. However, there is no assurance that we will not need to raise additional equity or debt financing within this time frame. Additional financing may not be available on favorable terms or at all and may be dilutive to our then-current stockholders. We also may require additional capital for other purposes not presently contemplated. If we are unable to obtain sufficient capital, we could be required to curtail capital equipment purchases or research and development expenditures, which could harm our business. Factors that could affect our cash used or generated from operations and, as a result, our need to seek additional borrowings or capital include: 
+
+&#160; 
+
+##TABLE_START &#8226; 
+
+decreased demand and market acceptance for our products and/or our customers&#8217; products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+inability to successfully develop and produce in volume production our next-generation products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+competitive pressures resulting in lower than expected average selling prices; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+new product announcements or product introductions by our competitors. 
+
+##TABLE_END 
+
+We expect to spend approximately $ 150.0 million &#32;to $ 175.0 million &#32;for capital expenditures during fiscal year 2015, primarily for leasehold improvements, emulation equipment, computers and engineering workstations. 
+
+For additional factors see &#8220;Item 1A. Risk Factors - Risks Related to Our Business, Industry and Partners - Our revenue may fluctuate while a majority of our operating expenses are a factor of multi-year investments ahead of when revenue is received, which makes our results difficult to predict and could cause our results to fall short of expectations. &#8221; 
+
+&#160; 
+
+Contractual Obligations 
+
+The following table summarizes our contractual obligations as of January 26, 2014 : 
+
+##TABLE_START &#160; 
+
+Payment Due By Period 
+
+&#160; 
+
+&#160; 
+
+Contractual Obligations 
+
+Total 
+
+&#160; 
+
+Less than 1 Year 
+
+&#160; 
+
+1-3 Years 
+
+&#160; 
+
+4-5 Years 
+
+&#160; 
+
+More than 5 Years 
+
+&#160; 
+
+All Other 
+
+&#160; 
+
+(In thousands) 
+
+&#160; 
+
+&#160; 
+
+1.00% Convertible Senior Notes due 2018 (1) 
+
+$ 
+
+1,575,000 
+
+&#160; 
+
+$ 
+
+15,000 
+
+&#160; 
+
+$ 
+
+30,000 
+
+&#160; 
+
+$ 
+
+1,530,000 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+Operating leases (2) 
+
+291,848 
+
+&#160; 
+
+74,007 
+
+&#160; 
+
+131,684 
+
+&#160; 
+
+51,464 
+
+&#160; 
+
+34,693 
+
+&#160; 
+
+&#8212; 
+
+Capital lease 
+
+27,324 
+
+&#160; 
+
+5,168 
+
+&#160; 
+
+10,756 
+
+&#160; 
+
+11,374 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Inventory purchase obligations 
+
+397,704 
+
+&#160; 
+
+397,704 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Uncertain tax positions, interest and penalties (3) 
+
+119,977 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+119,977 
+
+Capital purchase obligations 
+
+41,293 
+
+&#160; 
+
+41,293 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Retention program (4) 
+
+18,090 
+
+&#160; 
+
+14,468 
+
+&#160; 
+
+3,622 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Total contractual obligations 
+
+$ 
+
+2,471,236 
+
+&#160; 
+
+$ 
+
+547,640 
+
+&#160; 
+
+$ 
+
+176,062 
+
+&#160; 
+
+$ 
+
+1,592,838 
+
+&#160; 
+
+$ 
+
+34,719 
+
+&#160; 
+
+$ 
+
+119,977 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Represents the aggregate principal amount of $1,500.0 million &#32;and anticipated interest payments of $75.0 million &#32;of the Notes. See Note 11 &#32;of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+##TABLE_END 
+
+##TABLE_START (2) 
+
+The Company includes most of its facilities leases as well as non-cancelable obligations under certain software licensing arrangements in the operating lease category. 
+
+##TABLE_END &#160; 
+
+##TABLE_START (3) 
+
+Represents unrecognized tax benefits of $120.0 million which consists of $107.1 million plus the related interest and penalties of $12.9 million recorded in non-current income tax payable as of January 26, 2014. We are unable to reasonably estimate the timing of any potential tax liability or interest/penalty payments in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. 
+
+##TABLE_END 
+
+##TABLE_START (4) 
+
+Represents the remaining portion of a retention program totaling approximately $61.5 million that we initiated in fiscal year 2012 in connection with our acquisition of Icera. As of January 26, 2014 , we have made payments of $43.4 million in connection with this program. The remaining payments will be paid out over the next two years. 
+
+##TABLE_END &#160; 
+
+&#32; Off-Balance Sheet Arrangements 
+
+&#32;During fiscal years 2014 , 2013 &#32;and 2012 , we had no material off-balance sheet arrangements as defined in Regulation S-K 303(a)(4)(ii). 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Please see Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+&#160; 
+

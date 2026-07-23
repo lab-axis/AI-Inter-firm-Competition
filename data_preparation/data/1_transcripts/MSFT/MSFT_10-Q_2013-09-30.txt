@@ -1,0 +1,968 @@
+ ITEM 2. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+
+RESULTS OF OPERATIONS 
+
+Note About Forward-Looking Statements 
+
+Certain statements in this report, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives and expected operating results, and the assumptions upon which those statements are based, are &#147;forward-looking statements&#148; within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including without limitation, the following sections: &#147;Management&#146;s Discussion and Analysis,&#148; and &#147;Risk Factors.&#148; These forward-looking statements generally are identified by the words &#147;believe,&#148; &#147;project,&#148; &#147;expect,&#148; &#147;anticipate,&#148; &#147;estimate,&#148; &#147;intend,&#148; &#147;strategy,&#148; &#147;future,&#148; &#147;opportunity,&#148; &#147;plan,&#148; &#147;may,&#148; &#147;should,&#148; &#147;will,&#148; &#147;would,&#148; &#147;will be,&#148; &#147;will continue,&#148; &#147;will likely result,&#148; and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking statements. A detailed discussion of risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included in the section titled &#147;Risk Factors&#148; (Part II, Item 1A of this Form 10-Q). We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise. 
+
+OVERVIEW 
+
+The following Management&#146;s Discussion and Analysis (&#147;MD&#38;A&#148;) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD&#38;A is provided as a supplement to, and should be read in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2013 and our financial statements and accompanying Notes to Financial Statements in this Form 10-Q. 
+
+Microsoft is a technology leader focused on helping people and businesses throughout the world realize their full potential. We create technology that transforms the way people work, play, and communicate across a wide range of computing devices. 
+
+We generate revenue by developing, licensing, and supporting a wide range of software products, by offering an array of services, including cloud-based services to consumers and businesses, by designing and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience. Our most significant expenses are related to compensating employees, designing, manufacturing, marketing, and selling our products and services, and income taxes. 
+
+Industry Trends 
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers, industry trends, and competitive forces. 
+
+Key Opportunities and Investments 
+
+Based on our assessment of key technology trends and our broad focus on long-term research and development of new products and services, we see significant opportunities to generate future growth. 
+
+We invest research and development resources in new products and services in these areas. The capabilities and accessibility of PCs, tablets, phones, televisions, and other devices powered by rich software platforms and applications continue to grow. With this trend, we believe the full potential of software will be seen and felt in how people use these devices and the associated services at work and in their personal lives. 
+
+Devices with end-user services 
+
+We work with an ecosystem of partners to deliver a broad spectrum of Windows devices. In some cases we build our own devices, as we have chosen to do with Xbox and Surface. In all of our work with partners and on our own devices, we focus on delivering seamless services and experiences across devices. As consumer services and hardware advance, we 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+expect they will continue to better complement one another, connecting the devices people use daily to unique communications, productivity, and entertainment services from Microsoft and our partners and developers around the world. 
+
+Windows 8 reflects this shift. Launched in October 2012, Windows 8 was designed to unite the light, thin, and convenient aspects of a tablet with the power of a PC. The Windows 8 operating system includes the Windows Store, which offers a large and growing number of applications from Microsoft and partners for both business and consumer customers. The general availability of Windows 8.1, which will enable new hardware and further the integration with other Microsoft services, started on October 17, 2013. 
+
+Going forward, our strategy will focus on creating a family of devices and services for individuals and businesses that empower people around the globe at home, at work, and on the go, for the activities they value most. This strategy will require investment in datacenters and other infrastructure to support our services, and will bring continued competition with Apple, Google, and other well-established and emerging competitors. We believe our history of powering devices such as Windows PCs and Xbox, as well as our experience delivering high-value experiences through Office and other applications, will position us for future success. 
+
+Services for the enterprise 
+
+Today, businesses face important opportunities and challenges. Enterprises are asked to deploy technology that drives business strategy forward. They decide what solutions will make employees more productive, collaborative, and satisfied, or connect with customers in new and compelling ways. They work to unlock business insights from a world of data. At the same time, they must manage and secure corporate information that employees access across a growing number of personal and corporate devices. 
+
+To address these opportunities, businesses look to our world-class business applications like Office, Exchange, SharePoint, Lync, Yammer, Microsoft Dynamics, and our business intelligence solutions. They rely on our technology to manage employee corporate identity and to protect their corporate data. And, increasingly, businesses of all sizes are looking to Microsoft to realize the benefits of the cloud. 
+
+Helping businesses move to the cloud is one of our largest opportunities. Cloud-based solutions provide customers with software, services, and content over the Internet by way of shared computing resources located in centralized data centers. The shift to the cloud is driven by three important economies of scale: larger data centers can deploy computational resources at significantly lower cost per unit than smaller ones; larger data centers can coordinate and aggregate diverse customer, geographic, and application demand patterns improving the utilization of computing, storage, and network resources; and multi-tenancy lowers application maintenance labor costs for large public clouds. Because of the improved economics, the cloud offers unique levels of elasticity and agility that enable new solutions and applications. For businesses of all sizes, the cloud creates the opportunity to focus on innovation while leaving non-differentiating activities to reliable and cost-effective providers. 
+
+We continue to design and deliver cloud solutions that allow our customers to use both the cloud and their on-premise assets however best suits their own needs. For example, a company can choose to deploy Office or Microsoft Dynamics on premise, as a cloud service, or a combination of both. With Windows Server 2012, Windows Azure, and System Center infrastructure, businesses can deploy applications in their own datacenter, a partner&#146;s datacenter, or in Microsoft&#146;s datacenter with common security, management, and administration across all environments, with the flexibility and scale they desire. These hybrid capabilities allow customers to fully harness the power of the cloud so they can achieve greater levels of efficiency and tap new areas of growth. 
+
+Our future opportunity 
+
+There are several distinct areas of technology that we are focused on driving forward. Our goal is to lead the industry in these areas over the long-term, which we expect will translate to sustained growth well into the future. We are investing significant resources in: 
+
+&#160;
+
+&#160; &#149; &#160; Developing new form factors that have increasingly natural ways to use them, including touch, gesture, and speech. 
+
+&#160;
+
+&#160; &#149; &#160; Applying machine learning to make technology more intuitive and able to act on our behalf, instead of at our command. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+&#160; &#149; &#160; Building and running cloud-based services in ways that unleash new experiences and opportunities for businesses and individuals. 
+
+&#160;
+
+&#160; &#149; &#160; Establishing our Windows platform across the PC, tablet, phone, server, and cloud to drive a thriving ecosystem of developers, unify the cross-device user experience, and increase agility when bringing new advances to market. 
+
+&#160;
+
+&#160; &#149; &#160; Delivering new high-value experiences with improvements in how people learn, work, play, and interact with one another. 
+
+We believe the breadth of our devices and services portfolio, our large, global partner and customer base, and the growing Windows ecosystem position us to be a leader in these areas. 
+
+Economic Conditions, Challenges, and Risks 
+
+The market for software, devices, and cloud-based services is dynamic and highly competitive. Some of our traditional businesses such as the Windows operating system are in a period of transition. Our competitors are developing new devices and deploy competing cloud-based services for consumers and businesses. The devices and form factors customers prefer evolve rapidly, and influence how users access services in the cloud and in some cases the user&#146;s choice of which suite of cloud-based services to use. The Windows ecosystem must continue to evolve and adapt, over an extended time, in pace with this changing environment. To support our strategy of offering a family of devices and services designed to empower our customers for the activities they value most, we announced a change in our organizational structure in July 2013. Through this realignment our goal is to become more nimble, collaborative, communicative, motivated, and decisive. Even if we achieve these benefits, the investments we are making in devices and infrastructure to support our cloud-based services will increase our operating costs and may decrease our operating margins. 
+
+We prioritize our investments among the highest long-term growth opportunities. These investments require significant resources and are multi-year in nature. The products and services we bring to market may be developed internally, as part of a partnership or alliance, or through acquisition. 
+
+Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. Microsoft competes for talented individuals worldwide by offering broad customer reach, scale in resources, and competitive compensation. 
+
+Aggregate demand for our software, services, and hardware is correlated to global macroeconomic factors, which remain dynamic. See a discussion of these factors and other risks under Risk Factors (Part II, Item 1A of this Form 10-Q). 
+
+Unearned Revenue 
+
+Quarterly and annual revenue may be impacted by the deferral of revenue. See the discussions within Corporate and Other below regarding: 
+
+&#160;
+
+&#160; &#149; &#160; revenue deferred on pre-sales of Windows 8.1 to original equipment manufacturers (&#147;OEMs&#148;) and retailers before general availability (&#147;Windows 8.1 Pre-Sales&#148;); 
+
+&#160;
+
+&#160; &#149; &#160; revenue deferred on sales of Windows 7 with an option to upgrade to Windows 8 Pro at a discounted price (the &#147;Windows Upgrade Offer&#148;) and pre-sales of Windows 8 to OEMs and retailers before general availability (collectively, the &#147;Windows Deferral&#148;); and 
+
+&#160;
+
+&#160; &#149; &#160; revenue deferred on sales of the previous version of the Microsoft Office system, with a guarantee to be upgraded to the new Office at minimal or no cost (the &#147;Office Upgrade Offer&#148;) and pre-sales of the new Office to OEMs and retailers before general availability (collectively, the &#147;Office Deferral&#148;). 
+
+If our customers elect to license cloud-based versions of our products and services rather than licensing transaction-based products and services, the associated revenue will shift from being recognized at the time of the transaction to being recognized over the subscription period or upon consumption, as applicable. 
+
+Reportable Segments 
+
+The segment amounts included in MD&#38;A are presented on a basis consistent with our internal management reporting. Segment information appearing in Note 16 &#150; Segment Information of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) is also presented on this basis. All differences between our internal management reporting basis and accounting principles generally accepted in the U.S. (&#147;U.S. GAAP&#148;), along with certain corporate-level and other activity, are included in Corporate and Other. Operating expenses are not allocated to our segments. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+During the first quarter of fiscal year 2014, we changed our organizational structure as part of our transformation to a devices and services company. As a result of these changes, information that our chief operating decision maker regularly reviews for purposes of allocating resources and assessing performance changed. Therefore, we have recast certain prior period amounts to conform to the way we internally manage and monitor segment performance during the current fiscal year. Our reportable segments are described below. 
+
+Devices and Consumer (&#147;D&#38;C&#148;) 
+
+Our D&#38;C segments develop and market products and services designed to entertain and connect people, increase personal productivity, help people simplify tasks and make more informed decisions online, and help advertisers connect with audiences. Our D&#38;C segments are: 
+
+&#160;
+
+&#160; &#149; &#160; D&#38;C Licensing , comprising: Windows, including all OEM licensing (&#147;Windows OEM&#148;) and other non-volume licensing and academic volume licensing of the Windows operating system and related software (collectively, &#147;Consumer Windows&#148;); non-volume licensing of Microsoft Office, comprising the core Office product set, for consumers (&#147;Consumer Office&#148;); Windows Phone, including related patent licensing; and certain other patent licensing revenue; 
+
+&#160;
+
+&#160; &#149; &#160; D&#38;C Hardware , comprising: the Xbox 360 gaming and entertainment console and accessories, second-party and third-party video games, and Xbox LIVE subscriptions (&#147;Xbox Platform&#148;); Surface; and Microsoft PC accessories; and 
+
+&#160;
+
+&#160; &#149; &#160; D&#38;C Other , comprising: Resale, including Windows Store, Xbox LIVE transactions, and the Windows Phone Marketplace; search advertising; display advertising; Subscription, comprising Office 365 (&#147;O365&#148;) Home Premium; Studios, comprising first-party video games; our retail stores; and certain other consumer products and services not included in the categories above. 
+
+Commercial 
+
+Our Commercial segments develop and market software and services designed to increase individual, team, and organization productivity and efficiency, and to simplify everyday tasks through seamless operations across the user&#146;s hardware and software. Our Commercial segments are: 
+
+&#160;
+
+&#160; &#149; &#160; Commercial Licensing , comprising: server products, including Windows Server, Microsoft SQL Server, Visual Studio, and System Center; Windows Embedded; volume licensing of the Windows operating system, excluding academic (&#147;Commercial Windows&#148;); Microsoft Office for business, including Office, Exchange, SharePoint, and Lync (&#147;Commercial Office&#148;); Client Access Licenses, which provide access rights to certain server products (&#147;CAL&#148;); Microsoft Dynamics business solutions, excluding Dynamics CRM Online; and Skype; and 
+
+&#160;
+
+&#160; &#149; &#160; Commercial Other , comprising: Enterprise Services, including Premier product support services and Microsoft Consulting Services; Cloud Services, comprising O365, excluding O365 Home Premium (&#147;Commercial O365&#148;), other Microsoft Office online offerings, Dynamics CRM Online, and Windows Azure; and certain other commercial products and online services not included in the categories above. 
+
+SUMMARY RESULTS OF OPERATIONS 
+
+Summary 
+
+&#160;
+
+(In millions, except percentages and per share amounts) &#160; Three Months Ended 
+
+September 30, 
+
+&#160; &#160; Percentage 
+
+Change 
+
+&#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Revenue 
+
+&#160; $ 18,529 &#160; &#160; $ 16,008 &#160; &#160; &#160; 16% &#160; Operating income 
+
+&#160; $ 6,334 &#160; &#160; $ 5,308 &#160; &#160; &#160; 19% &#160; Diluted earnings per share 
+
+&#160; $ 0.62 &#160; &#160; $ 0.53 &#160; &#160; &#160; 17% &#160; Revenue increased, mainly due to higher Commercial Licensing, D&#38;C Hardware, and Commercial Other revenue. Revenue was also impacted by the timing of revenue deferrals. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+Operating income increased, reflecting higher revenue and lower general and administrative expenses, offset in part by higher cost of revenue, sales and marketing expenses, and research and development expenses. Key changes in cost of revenue and operating expenses were: 
+
+&#160;
+
+&#160; &#149; &#160; Cost of revenue increased $946 million or 23%, primarily due to Surface product costs, as well as higher datacenter and headcount-related expenses. 
+
+&#160;
+
+&#160; &#149; &#160; Sales and marketing expenses increased $359 million or 12%, due mainly to increased advertising of Windows Phone 8 and Surface and higher headcount-related expenses, as well as due to higher fees paid to third-party enterprise software advisors. 
+
+&#160;
+
+&#160; &#149; &#160; Research and development expenses increased $307 million or 12%, due mainly to higher capitalization of certain costs in the prior year. 
+
+&#160;
+
+&#160; &#149; &#160; General and administrative expenses decreased $117 million or 10%, primarily due to lower legal charges. 
+
+SEGMENT RESULTS OF OPERATIONS 
+
+Devices and Consumer 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended 
+
+September 30, 
+
+&#160; &#160; Percentage 
+
+Change 
+
+&#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Revenue &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Licensing 
+
+&#160; $ 4,343 &#160; &#160; $ 4,678 &#160; &#160; &#160; (7)% &#160; Hardware 
+
+&#160; &#160; 1,485 &#160; &#160; &#160; 1,084 &#160; &#160; &#160; 37% &#160; Other 
+
+&#160; &#160; 1,635 &#160; &#160; &#160; 1,400 &#160; &#160; &#160; 17% &#160; &#160; &#160; &#160; &#160; &#160; Total revenue 
+
+&#160; $ 7,463 &#160; &#160; $ 7,162 &#160; &#160; &#160; 4% &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Gross Margin &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Licensing 
+
+&#160; $ 3,925 &#160; &#160; $ 4,103 &#160; &#160; &#160; (4)% &#160; Hardware 
+
+&#160; &#160; 206 &#160; &#160; &#160; 448 &#160; &#160; &#160; (54)% &#160; Other 
+
+&#160; &#160; 352 &#160; &#160; &#160; 362 &#160; &#160; &#160; (3)% &#160; &#160; &#160; &#160; &#160; &#160; Total gross margin 
+
+&#160; $ 4,483 &#160; &#160; $ 4,913 &#160; &#160; &#160; (9)% &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Devices and Consumer revenue increased $301 million or 4%, reflecting continued adoption of the Windows platform, including customer adoption of new Windows-enabled devices. Devices and Consumer gross margin declined $430 million or 9%, due mainly to our preparation for new product launches. 
+
+D&#38;C Licensing 
+
+D&#38;C Licensing revenue decreased $335 million or 7%, due mainly to lower revenue from licenses of Windows OEM and Consumer Office, offset in part by increased Windows Phone revenue. Windows OEM revenue declined $237 million or 7%, reflecting a 22% decrease in OEM non-Pro revenue, offset in part by a 6% increase in OEM Pro revenue. Consumer Office revenue declined $217 million or 23%. These decreases resulted primarily from the impact on revenue of a decline in consumer demand. In the case of Consumer Office, the decline was also influenced by the transition of customers to O365 Home Premium, offset by increased levels of Office attached to devices shipped. Windows Phone revenue increased $102 million, including an increase in patent licensing revenue. 
+
+D&#38;C Licensing gross margin decreased $178 million or 4%, due to decreased revenue, offset in part by a $157 million or 27% decrease in cost of revenue. D&#38;C Licensing cost of revenue decreased, due mainly to lower traffic acquisition costs. 
+
+D&#38;C Hardware 
+
+D&#38;C Hardware revenue increased $401 million or 37%, due primarily to Surface revenue of $400 million. The general availability of Surface RT and Surface Pro started October 26, 2012 and February 9, 2013, respectively. 
+
+D&#38;C Hardware gross margin decreased $242 million or 54%, due to a $643 million or 101% increase in cost of revenue, offset in part by higher revenue. D&#38;C Hardware cost of revenue increased, primarily due to $645 million higher Surface cost of revenue. Surface product costs increased with higher volumes sold, while other costs grew as we ready inventory lines for the Surface 2 launch and the holiday sales cycle. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+D&#38;C Other 
+
+D&#38;C Other revenue increased $235 million or 17%, due mainly to higher advertising revenue, which increased $106 million or 13%. Search advertising revenue growth was offset in part by a decline in display advertising revenue. Search advertising revenue increased 47%, due primarily to increased revenue per search resulting from ongoing improvements in ad products and higher search volume, offset in part by lower display advertising revenue, which was down 31%, due mainly to a decline in Outlook.com advertising revenue. D&#38;C Other revenue also increased $129 million or 21%, primarily due to higher volumes of content resold through our online platforms. 
+
+D&#38;C Other gross margin decreased slightly, due to a $245 million or 24% increase in cost of revenue, substantially offset by higher revenue. D&#38;C Other cost of revenue increased, due mainly to a $99 million or 20% increase in advertising cost of revenue, reflecting increased investment in online infrastructure and higher traffic acquisition costs. D&#38;C Other cost of revenue also increased, due mainly to royalty costs on higher volumes of resale transactions. 
+
+Commercial 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended 
+
+September 30, 
+
+&#160; &#160; Percentage 
+
+Change 
+
+&#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Revenue &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Licensing 
+
+&#160; $ 9,594 &#160; &#160; $ 8,945 &#160; &#160; &#160; 7% &#160; Other 
+
+&#160; &#160; 1,603 &#160; &#160; &#160; 1,248 &#160; &#160; &#160; 28% &#160; &#160; &#160; &#160; &#160; &#160; Total revenue 
+
+&#160; $ 11,197 &#160; &#160; $ 10,193 &#160; &#160; &#160; 10% &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Gross Margin &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Licensing 
+
+&#160; $ 8,801 &#160; &#160; $ 8,183 &#160; &#160; &#160; 8% &#160; Other 
+
+&#160; &#160; 275 &#160; &#160; &#160; 105 &#160; &#160; &#160; 162% &#160; &#160; &#160; &#160; &#160; &#160; Total gross margin 
+
+&#160; $ 9,076 &#160; &#160; $ 8,288 &#160; &#160; &#160; 10% &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Commercial revenue increased $1.0 billion or 10%, reflecting growth in our traditional businesses as well as adoption by customers of our cloud services. Commercial gross margin increased $788 million or 10%, in line with revenue growth. 
+
+Commercial Licensing 
+
+Commercial Licensing revenue increased $649 million or 7%, due primarily to increased revenue from our server, CAL, and Office licenses offset in part by the transition of customers to Commercial O365. Annuity revenue grew 8% driven by growth in revenue from volume licensing with Software Assurance. Non-annuity revenue grew 4% driven by increased sales of Office and SQL Server. 
+
+Commercial Licensing gross margin increased $618 million or 8%, due to higher revenue, offset in part by a $31 million or 4% increase in cost of revenue. 
+
+Commercial Other 
+
+Commercial Other revenue increased $355 million or 28%, due to higher Cloud Services revenue and Enterprise Services revenue. Cloud Services revenue grew $261 million or 103%, due mainly to higher revenue from Commercial O365. Enterprise Services revenue grew $93 million or 9%, due to growth in both Premier product support and consulting services. 
+
+Commercial Other gross margin increased $170 million or 162%, due to higher revenue, offset in part by a $185 million or 16% increase in cost of revenue. The increase in cost of revenue was due mainly to higher datacenter expenses, reflecting investment in online operations infrastructure, and increased headcount-related expenses due to higher headcount. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+Corporate and Other 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended 
+
+September 30, 
+
+&#160; &#160; Percentage 
+
+Change 
+
+&#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Revenue 
+
+&#160; $ &#160;(131 ) &#160; $ &#160;(1,347 ) &#160; &#160; 90% &#160; Gross margin 
+
+&#160; $ (144 ) &#160; $ (1,361 ) &#160; &#160; 89% &#160; Corporate and Other revenue comprises certain revenue deferrals, including those related to product and service upgrade offers and pre-sales of new products to OEMs prior to general availability. 
+
+Corporate and Other revenue increased $1.2 billion or 90%, primarily due to the timing of revenue deferrals. During the first quarter of fiscal year 2014, we deferred $113 million of revenue, primarily related to Windows 8.1 Pre-Sales. During the first quarter of fiscal year 2013, we deferred $1.2 billion and $189 million of revenue related to the Windows Deferral and Office Deferral, respectively. 
+
+Corporate and Other gross margin increased $1.2 billion or 89%, due mainly to increased revenue. 
+
+COST OF REVENUE 
+
+Cost of Revenue 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended September 30, &#160; &#160; Percentage Change &#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Cost of revenue 
+
+&#160; $ 5,114 &#160; &#160; $ 4,168 &#160; &#160; &#160; 23% &#160; As a percent of revenue 
+
+&#160; &#160; 28 % &#160; &#160; 26 % &#160; &#160; 2ppt &#160; Cost of revenue includes: manufacturing and distribution costs for products sold, including Xbox and Surface, and programs licensed; operating costs related to product support service centers and product distribution centers; costs incurred to include software on PCs sold by OEMs, to drive traffic to our websites, and to acquire online advertising space (&#147;traffic acquisition costs&#148;); costs incurred to support and maintain Internet-based products and services, including datacenter costs and royalties; warranty costs; inventory valuation adjustments; costs associated with the delivery of consulting services; and the amortization of capitalized research and development costs. 
+
+Cost of revenue increased, primarily due to a $645 million increase in Surface product costs, as well as higher datacenter and headcount-related expenses. Datacenter expenses increased $185 million or 51%, reflecting investment in online operations infrastructure. Headcount-related expenses increased $132 million or 13%, largely related to increased headcount within our Commercial Other segment. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+OPERATING EXPENSES 
+
+Research and Development 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended September 30, &#160; &#160; Percentage Change &#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Research and development 
+
+&#160; $ 2,767 &#160; &#160; $ 2,460 &#160; &#160; &#160; 12% &#160; As a percent of revenue 
+
+&#160; &#160; 15 % &#160; &#160; 15 % &#160; &#160; 0ppt &#160; Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include third-party development and programming costs, localization costs incurred to translate software for international markets, and the amortization of purchased software code. 
+
+Research and development expenses increased, primarily reflecting higher capitalization of certain costs in the prior year, mainly related to Office 2013 and Windows 8. 
+
+Sales and Marketing 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended September 30, &#160; &#160; Percentage Change &#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; Sales and marketing 
+
+&#160; $ 3,304 &#160; &#160; $ 2,945 &#160; &#160; &#160; 12% &#160; As a percent of revenue 
+
+&#160; &#160; 18 % &#160; &#160; 18 % &#160; &#160; 0ppt &#160; Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel and the costs of advertising, promotions, trade shows, seminars, and other programs. 
+
+Sales and marketing expenses increased, the largest driver of which was a $111 million or 37% increase in advertising, largely for Windows Phone 8 and Surface. Sales and marketing expenses also increased due to higher headcount-related expenses, largely related to our retail stores, and higher fees paid to third-party enterprise software advisors. 
+
+General and Administrative 
+
+&#160;
+
+(In millions, except percentages) &#160; Three Months Ended September 30, &#160; &#160; Percentage Change &#160; &#160; &#160; 2013 &#160; &#160; 2012 &#160; &#160; &#160; &#160; General and administrative 
+
+&#160; $ 1,010 &#160; &#160; $ 1,127 &#160; &#160; &#160; (10)% &#160; As a percent of revenue 
+
+&#160; &#160; 5 % &#160; &#160; 7 % &#160; &#160; (2)ppt &#160; General and administrative expenses include payroll, employee benefits, stock-based compensation expense, severance expense, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees. 
+
+General and administrative expenses decreased, due mainly to a $73 million decrease in legal charges. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+OTHER INCOME (EXPENSE) 
+
+The components of other income (expense) were as follows: 
+
+&#160;
+
+(In millions) &#160; &#160; &#160; &#160; &#160; &#160; Three Months Ended September 30, &#160; 2013 &#160; &#160; 2012 &#160; Dividends and interest income 
+
+&#160; $ 179 &#160; &#160; $ 159 &#160; Interest expense 
+
+&#160; &#160; (118 ) &#160; &#160; (95 ) Net recognized losses on investments 
+
+&#160; &#160; (7 ) &#160; &#160; (15 ) Net gains (losses) on derivatives 
+
+&#160; &#160; (86 ) &#160; &#160; 4 &#160; Net gains (losses) on foreign currency remeasurements 
+
+&#160; &#160; 26 &#160; &#160; &#160; (29 ) Other 
+
+&#160; &#160; 80 &#160; &#160; &#160; 202 &#160; &#160; Total 
+
+&#160; $ 74 &#160; &#160; $ 226 &#160; &#160; &#160; &#160; We use derivative instruments to: manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedges are primarily recognized in other income (expense). Other than those derivatives entered into for investment purposes, such as commodity contracts, the gains (losses) are generally economically offset by unrealized gains (losses) in the underlying available-for-sale securities, which are recorded as a component of other comprehensive income (&#147;OCI&#148;) until the securities are sold or other-than-temporarily impaired, at which time the amounts are reclassified from accumulated other comprehensive income (&#147;AOCI&#148;) into other income (expense). 
+
+Net gains on derivatives decreased due to lower gains on commodity derivatives and higher losses on foreign exchange derivatives in the current period as compared to the comparable period. Other reflects recognized gains on divestitures, including the gain recognized upon the divestiture of our 50% share in the MSNBC joint venture in fiscal year 2013. 
+
+INCOME TAXES 
+
+Our effective tax rates were approximately 18% and 19% for the three months ended September 30, 2013 and 2012, respectively. Our effective tax rate was lower than the U.S. federal statutory rate primarily due to earnings taxed at lower rates in foreign jurisdictions resulting from producing and distributing our products and services through our foreign regional operations centers in Ireland, Singapore, and Puerto Rico. 
+
+This quarter&#146;s effective tax rate was lower than the prior year&#146;s first quarter effective tax rate, primarily due to foreign earnings taxed at lower tax rates. 
+
+Tax contingencies and other tax liabilities were $9.0 billion and $9.4 billion as of September 30, 2013 and June 30, 2013, respectively, and were included in other long-term liabilities. While we settled a portion of the I.R.S. audit for tax years 2004 to 2006 during the third quarter of fiscal year 2011, we remain under audit for these years. In February 2012, the I.R.S. withdrew its 2011 Revenue Agents Report and reopened the audit phase of the examination. As of September 30, 2013, the primary unresolved issue related to transfer pricing which could have a significant impact on our financial statements if not resolved favorably. We do not believe it is reasonably possible that the total amount of unrecognized tax benefits will significantly increase or decrease within the next 12 months, as we do not believe the remaining open issues will be resolved within the next 12 months. We also continue to be subject to examination by the I.R.S. for tax years 2007 to 2012. 
+
+We are subject to income tax in many jurisdictions outside the U.S. Our operations in certain jurisdictions remain subject to examination for tax years 1996 to 2012, some of which are currently under audit by local tax authorities. The resolutions of these audits are not expected to be material to our financial statements. 
+
+FINANCIAL CONDITION 
+
+Cash, Cash Equivalents, and Investments 
+
+Cash, cash equivalents, and short-term investments totaled $80.7 billion as of September 30, 2013, compared with $77.0 billion as of June 30, 2013. Equity and other investments were $12.0 billion as of September 30, 2013 compared to $10.8 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+billion as of June 30, 2013. Our short-term investments are primarily to facilitate liquidity and for capital preservation. They consist predominantly of highly liquid investment grade fixed-income securities, diversified among industries and individual issuers. The investments are predominantly U.S. dollar-denominated securities, but also include foreign currency-denominated securities in order to diversify risk. Our fixed-income investments are exposed to interest rate risk and credit risk. The credit risk and average maturity of our fixed-income portfolio are managed to achieve economic returns that correlate to certain fixed-income indices. The settlement risk related to these investments is insignificant given that the short-term investments held are primarily highly liquid investment-grade fixed-income securities. While we own certain mortgage-backed and asset-backed fixed-income securities, our portfolio as of September 30, 2013 does not contain direct exposure to subprime mortgages or structured vehicles that derive their value from subprime collateral. The majority of our mortgage-backed securities are collateralized by prime residential mortgages and carry a 100% principal and interest guarantee, primarily from Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, and Government National Mortgage Association. 
+
+We routinely monitor our financial exposure to both sovereign and non-sovereign borrowers and counterparties. Our gross exposures to our customers and investments in Portugal, Italy, Ireland, Greece, and Spain are individually and collectively not material. 
+
+Of the cash, cash equivalents, and short-term investments at September 30, 2013, approximately $76.0 billion was held by our foreign subsidiaries and would be subject to material repatriation tax effects. The amount of cash, cash equivalents, and short-term investments held by foreign subsidiaries subject to other restrictions on the free flow of funds (primarily currency and other local regulatory) was approximately $1.0 billion. As of September 30, 2013, approximately 88% of the cash equivalents and short-term investments held by our foreign subsidiaries were invested in U.S. government and agency securities, approximately 4% were invested in corporate notes and bonds of U.S. companies, and approximately 2% were invested in U.S. mortgage-backed securities, all of which are denominated in U.S. dollars. 
+
+Securities lending 
+
+We lend certain fixed-income and equity securities to increase investment returns. The loaned securities continue to be carried as investments on our balance sheet. Cash and/or security interests are received as collateral for the loaned securities with the amount determined based upon the underlying security lent and the creditworthiness of the borrower. Cash received is recorded as an asset with a corresponding liability. Our securities lending payable balance was $582 million as of September 30, 2013. Our average and maximum securities lending payable balances for the three months ended September 30, 2013 were $595 million and $765 million, respectively. Intra-quarter variances in the amount of securities loaned are mainly due to fluctuations in the demand for the securities. 
+
+Valuation 
+
+In general, and where applicable, we use quoted prices in active markets for identical assets or liabilities to determine the fair value of our financial instruments. This pricing methodology applies to our Level 1 investments, such as exchange-traded mutual funds, domestic and international equities, and U.S. government securities. If quoted prices in active markets for identical assets or liabilities are not available to determine fair value, then we use quoted prices for similar assets and liabilities or inputs other than the quoted prices that are observable either directly or indirectly. This pricing methodology applies to our Level 2 investments such as corporate notes and bonds, foreign government bonds, mortgage-backed securities, and U.S. agency securities. Level 3 investments are valued using internally developed models with unobservable inputs. Assets and liabilities measured using unobservable inputs are an immaterial portion of our portfolio. 
+
+A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these vendors either provide a quoted market price in an active market or use observable inputs for their pricing without applying significant adjustments. Broker pricing is used mainly when a quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the market in which the investment trades. Our broker-priced investments are generally classified as Level 2 investments because the broker prices these investments based on similar assets without applying significant adjustments. In addition, all of our broker-priced investments have a sufficient level of trading volume to demonstrate that the fair values used are appropriate for these investments. Our fair value processes include controls that are designed to ensure appropriate fair values are recorded. These controls include model validation, review of key model inputs, analysis of period-over-period fluctuations, and independent recalculation of prices where appropriate. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+Cash Flows 
+
+Cash flows from operations decreased slightly by $279 million or 3%, to $8.2 billion, primarily due to changes in working capital. Cash used in financing increased $682 million or 25%, to $3.4 billion, due mainly to $1.0 billion in debt repayments, a $556 million increase in cash used for common stock repurchases, and a $240 million increase in dividends paid, partially offset by $1.3 billion in issuances of commercial paper. Cash used in investing decreased $3.1 billion or 40%, to $4.6 billion, due mainly to a $2.3 billion decrease in cash used for net investment purchases, sales, and maturities, and a $1.1 billion decrease in cash used for acquisition of companies and purchases of intangible and other assets, partially offset by a $628 million increase in capital expenditures for property and equipment. 
+
+Debt 
+
+As of September 30, 2013, we had $15.9 billion of issued and outstanding debt, comprising $1.3 billion of commercial paper and $14.6 billion of long-term debt, including the current portion. 
+
+We issued debt to take advantage of favorable pricing and liquidity in the debt markets, reflecting our credit rating and the low interest rate environment. The proceeds of these issuances were or will be used for general corporate purposes, which may include, among other things, funding for working capital, capital expenditures, repurchases of capital stock, acquisitions, and repayment of existing debt. 
+
+Short-term debt 
+
+As of September 30, 2013, we had $1.3 billion of commercial paper issued and outstanding, with a weighted-average interest rate of 0.10% and maturities of 70 to 98 days. The estimated fair value of this commercial paper approximates its carrying value. 
+
+In June 2013, we entered into a $1.3 billion credit facility, which serves as a back-up for our commercial paper. As of September 30, 2013, we were in compliance with the only financial covenant in the credit agreement, which requires us to maintain a coverage ratio of at least three times earnings before interest, taxes, depreciation, and amortization to interest expense, as defined in the credit agreement. The credit facility expires on June 24, 2018. No amounts were drawn against the credit facility since its inception. 
+
+Long-term debt 
+
+As of September 30, 2013, the total carrying value and estimated fair value of our long-term debt, including the current portion, were $14.6 billion and $14.5 billion, respectively. This is compared to a carrying value and estimated fair value of $15.6 billion and $15.8 billion, respectively, as of June 30, 2013. These estimated fair values are based on Level 2 inputs. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+The components of our long-term debt, including the current portion, and the associated interest rates were as follows as of September 30, 2013: 
+
+&#160;
+
+Due Date &#160; Face Value &#160; &#160; Stated Interest 
+
+Rate 
+
+&#160; &#160; Effective Interest 
+
+Rate 
+
+&#160; &#160; &#160; (In millions) &#160; &#160; &#160; &#160; &#160; &#160; &#160; Notes &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; June 1, 2014 
+
+&#160; $ 2,000 &#160; &#160; &#160; 2.950% &#160; &#160; &#160; 3.049% &#160; September 25, 2015 
+
+&#160; &#160; 1,750 &#160; &#160; &#160; 1.625% &#160; &#160; &#160; 1.795% &#160; February 8, 2016 
+
+&#160; &#160; 750 &#160; &#160; &#160; 2.500% &#160; &#160; &#160; 2.642% &#160; November 15, 2017 
+
+&#160; &#160; 600 &#160; &#160; &#160; 0.875% &#160; &#160; &#160; 1.084% &#160; May 1, 2018 
+
+&#160; &#160; 450 &#160; &#160; &#160; 1.000% &#160; &#160; &#160; 1.106% &#160; June 1, 2019 
+
+&#160; &#160; 1,000 &#160; &#160; &#160; 4.200% &#160; &#160; &#160; 4.379% &#160; October 1, 2020 
+
+&#160; &#160; 1,000 &#160; &#160; &#160; 3.000% &#160; &#160; &#160; 3.137% &#160; February 8, 2021 
+
+&#160; &#160; 500 &#160; &#160; &#160; 4.000% &#160; &#160; &#160; 4.082% &#160; November 15, 2022 
+
+&#160; &#160; 750 &#160; &#160; &#160; 2.125% &#160; &#160; &#160; 2.239% &#160; May 1, 2023 
+
+&#160; &#160; 1,000 &#160; &#160; &#160; 2.375% &#160; &#160; &#160; 2.465% &#160; May 2, 2033 (a) 
+
+&#160; &#160; 745 &#160; &#160; &#160; 2.625% &#160; &#160; &#160; 2.690% &#160; June 1, 2039 
+
+&#160; &#160; 750 &#160; &#160; &#160; 5.200% &#160; &#160; &#160; 5.240% &#160; October 1, 2040 
+
+&#160; &#160; 1,000 &#160; &#160; &#160; 4.500% &#160; &#160; &#160; 4.567% &#160; February 8, 2041 
+
+&#160; &#160; 1,000 &#160; &#160; &#160; 5.300% &#160; &#160; &#160; 5.361% &#160; November 15, 2042 
+
+&#160; &#160; 900 &#160; &#160; &#160; 3.500% &#160; &#160; &#160; 3.571% &#160; May 1, 2043 
+
+&#160; &#160; 500 &#160; &#160; &#160; 3.750% &#160; &#160; &#160; 3.829% &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Total 
+
+&#160; $ 14,695 &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
+
+(a) In April 2013, we issued &#128;550 million of debt securities. 
+
+The notes are senior unsecured obligations and rank equally with our other unsecured and unsubordinated debt outstanding. Interest on the notes is paid semi-annually, except for the euro-denominated debt securities on which interest is paid annually. As of September 30, 2013, the aggregate unamortized discount for our long-term debt, including the current portion, was $63 million. 
+
+Unearned Revenue 
+
+Unearned revenue at September 30, 2013 comprised mainly unearned revenue from volume licensing programs. Unearned revenue from volume licensing programs represents customer billings for multi-year licensing arrangements paid for either at inception of the agreement or annually at the beginning of each coverage period and accounted for as subscriptions with revenue recognized ratably over the coverage period. Unearned revenue at September 30, 2013 also included payments for: post-delivery support and consulting services to be performed in the future; Xbox LIVE subscriptions and prepaid points; OEM minimum commitments; Microsoft Dynamics business solutions products; Skype prepaid credits and subscriptions; Office 365 Home Premium subscriptions; and other offerings for which we have been paid in advance and earn the revenue when we provide the service or software, or otherwise meet the revenue recognition criteria. 
+
+The following table outlines the expected future recognition of unearned revenue as of September 30, 2013: 
+
+&#160;
+
+(In millions) &#160; &#160; &#160; Three Months Ending, &#160; &#160; &#160; December 31, 2013 
+
+&#160; $ 8,039 &#160; March 31, 2014 
+
+&#160; &#160; 6,148 &#160; June 30, 2014 
+
+&#160; &#160; 3,417 &#160; September 30, 2014 
+
+&#160; &#160; 981 &#160; Thereafter 
+
+&#160; &#160; 1,629 &#160; Total 
+
+&#160; $ 20,214 &#160; &#160; &#160; &#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+Share Repurchases 
+
+During the three months ended September 30, 2013, we repurchased 46.8 million shares of Microsoft common stock for $1.5 billion under the share repurchase plan we announced on September 22, 2008. All repurchases were made using cash resources. On September 16, 2013, our Board of Directors approved a new $40.0 billion share repurchase program, which replaced the share repurchase program that expired September 30, 2013. The new share repurchase program became effective on October 1, 2013, has no expiration date, and may be suspended or discontinued at any time without notice. 
+
+Dividends 
+
+Our Board of Directors declared the following dividends during the periods presented: 
+
+&#160;
+
+Declaration Date &#160; Dividend Per Share &#160; &#160; Record Date &#160; &#160; Total Amount &#160; &#160; Payment Date &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; (in millions) &#160; &#160; &#160; &#160; September 16, 2013 
+
+&#160; &#160; $ 0.28 &#160; &#160; &#160; November 21, 2013 &#160; &#160; &#160; $ 2,337 &#160; &#160; &#160; December 12, 2013 &#160; September 18, 2012 
+
+&#160; &#160; $ 0.23 &#160; &#160; &#160; November 15, 2012 &#160; &#160; &#160; $ 1,933 &#160; &#160; &#160; December 13, 2012 &#160; Off-Balance Sheet Arrangements 
+
+We provide indemnifications of varying scope and size to certain customers against claims of intellectual property infringement made by third parties arising from the use of our products and certain other matters. In evaluating estimated losses on these indemnifications, we consider factors such as the degree of probability of an unfavorable outcome and our ability to make a reasonable estimate of the amount of loss. These obligations did not have a material impact on our financial statements during the periods presented. 
+
+Other Planned Uses of Capital 
+
+On September 2, 2013, we announced that we entered into a definitive agreement to acquire substantially all of Nokia Corporation&#146;s (&#147;Nokia&#148;) Devices &#38; Services business, license Nokia&#146;s patents, and license and use Nokia&#146;s mapping services. Under the terms of the agreement, we agreed to pay &#128; 3.79 billion (approximately $5.0 billion) to purchase substantially all of Nokia&#146;s Devices &#38; Services business, and &#128; 1.65 billion (approximately $2.2 billion) to license Nokia&#146;s patents, for a total transaction price of &#128; 5.44 billion (approximately $7.2 billion) in cash. We intend to draw upon our overseas cash resources to fund the acquisition. In connection with this agreement, on September 23, 2013 we provided Nokia &#128; 1.5 billion ($2.0 billion) of financing in the form of convertible notes, which are included in short-term investments on our balance sheet. Nokia will repay these notes from the proceeds of the acquisition upon closing. We expect the acquisition will close in the first calendar quarter of 2014, subject to approval by Nokia&#146;s shareholders, regulatory approvals, and other closing conditions. 
+
+In February 2013, we announced that we agreed to lend $2.0 billion to the group that has proposed to take Dell private upon the closing of their merger transaction. On September 12, 2013, Dell announced shareholder approval of the merger transaction. 
+
+We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology. Additions to property and equipment will continue, including new facilities, data centers, and computer systems for research and development, sales and marketing, support, and administrative staff. We expect capital expenditures to increase in coming years in support of our cloud and devices strategy. We have operating leases for most U.S. and international sales and support offices and certain equipment. We have not engaged in any related party transactions or arrangements with unconsolidated entities or other persons that are reasonably likely to materially affect liquidity or the availability of capital resources. 
+
+Liquidity 
+
+We earn a significant amount of our operating income outside the U.S., which is deemed to be permanently reinvested in foreign jurisdictions. As a result, as discussed above under Cash, Cash Equivalents, and Investments, the majority of our cash, cash equivalents, and short-term investments are held by foreign subsidiaries. We currently do not intend nor foresee a need to repatriate these funds. We expect existing domestic cash, cash equivalents, short-term investments, and cash flows from operations to continue to be sufficient to fund our domestic operating activities and cash commitments for investing and financing activities, such as regular quarterly dividends, debt repayment schedules, and 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+material capital expenditures, for at least the next 12 months and thereafter for the foreseeable future. In addition, we expect existing foreign cash, cash equivalents, short-term investments, and cash flows from operations to continue to be sufficient to fund our foreign operating activities and cash commitments for investing activities, such as material capital expenditures, for at least the next 12 months and thereafter for the foreseeable future. 
+
+Should we require more capital in the U.S. than is generated by our operations domestically, for example to fund significant discretionary activities such as business acquisitions and share repurchases, we could elect to repatriate future earnings from foreign jurisdictions or raise capital in the U.S. through debt or equity issuances. These alternatives could result in higher effective tax rates, increased interest expense, or dilution of our earnings. We have borrowed funds domestically and continue to believe we have the ability to do so at reasonable interest rates. 
+
+RECENT ACCOUNTING GUIDANCE 
+
+Recently Adopted Accounting Guidance 
+
+In December 2011, the Financial Accounting Standards Board (&#147;FASB&#148;) issued guidance enhancing disclosure requirements about the nature of an entity&#146;s right to offset and related arrangements associated with its financial instruments. The new guidance requires the disclosure of the gross amounts subject to rights of set-off, amounts offset in accordance with the accounting standards followed, and the related net exposure. In January 2013, the FASB clarified that the scope of this guidance applies to derivatives, repurchase agreements, and securities lending arrangements that are either offset or subject to an enforceable master netting arrangement, or similar agreements. We adopted this new guidance beginning July 1, 2013. Adoption of this new guidance resulted only in changes to the presentation of Note 5 &#150; Derivatives in the Notes to the Financial Statements. 
+
+In February 2013, the FASB issued guidance on disclosure requirements for items reclassified out of AOCI. This new guidance requires entities to present (either on the face of the income statement or in the notes) the effects on the line items of the income statement for amounts reclassified out of AOCI. We adopted this new guidance beginning July 1, 2013. Adoption of this new guidance resulted only in changes to the presentation of Note 15 &#150; Accumulated Other Comprehensive Income in the Notes to the Financial Statements. 
+
+Recent Accounting Guidance Not Yet Adopted 
+
+In March 2013, the FASB issued guidance on a parent&#146;s accounting for the cumulative translation adjustment upon derecognition of a subsidiary or group of assets within a foreign entity. This new guidance requires that the parent release any related cumulative translation adjustment into net income only if the sale or transfer results in the complete or substantially complete liquidation of the foreign entity in which the subsidiary or group of assets had resided. The new guidance will be effective for us beginning July 1, 2014. We do not anticipate material impacts on our financial statements upon adoption. 
+
+APPLICATION OF CRITICAL ACCOUNTING POLICIES 
+
+Our financial statements and accompanying notes are prepared in accordance with U.S. GAAP. Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. These estimates and assumptions are affected by management&#146;s application of accounting policies. Critical accounting policies for us include revenue recognition, impairment of investment securities, goodwill, research and development costs, contingencies, income taxes, and inventories. 
+
+Revenue Recognition 
+
+Revenue recognition requires judgment, including whether a software arrangement includes multiple elements, and if so, whether the vendor-specific objective evidence (&#147;VSOE&#148;) of fair value exists for those elements. A portion of revenue may be recorded as unearned due to undelivered elements. Changes to the elements in a software arrangement, the ability to identify the VSOE for those elements, and the fair value of the respective elements could materially impact the amount of earned and unearned revenue. Judgment is also required to assess whether future releases of certain software represent new products or upgrades and enhancements to existing products. Certain volume licensing arrangements include a perpetual license for current products combined with rights to receive unspecified future versions of software products (&#147;Software Assurance&#148;) and are accounted for as subscriptions, with billings recorded as unearned revenue and recognized as revenue ratably over the coverage period. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+Software updates are evaluated on a case-by-case basis to determine whether they meet the definition of an upgrade, which may require revenue to be deferred and recognized when the upgrade is delivered, or if it is determined that implied post-contract customer support (&#147;PCS&#148;) is being provided, revenue from the arrangement is deferred and recognized over the implied PCS term. If updates are determined to not meet the definition of an upgrade, revenue is generally recognized as products are shipped or made available. 
+
+Windows 8.1 will enable new hardware, further the integration with other Microsoft services and address customer issues with Windows 8, and will be provided to Windows 8 customers when available at no additional charge. We evaluated Windows 8.1 and determined that it did not meet the definition of an upgrade and thus have not deferred revenue related to this update. Windows 8.1 revenue was deferred for pre-sales of Windows 8.1 to original equipment manufacturers and retailers before general availability. 
+
+Windows 7 revenue was subject to deferral as a result of the Windows Upgrade Offer, which started June 2, 2012. The offer provided significantly discounted rights to purchase Windows 8 Pro to qualifying end-users that purchased Windows 7 PCs during the eligibility period. Microsoft was responsible for delivering Windows 8 Pro to the end customer. Accordingly, revenue related to the allocated discount for undelivered Windows 8 was deferred until it was delivered or the redemption period expired. 
+
+Microsoft Office system revenue was subject to deferral as a result of the Office Upgrade Offer, which started October 19, 2012. The Office Upgrade Offer allowed customers who purchased qualifying 2010 Microsoft Office system or Office for Mac 2011 products to receive, at no cost, a one-year subscription to Office 365 Home Premium or the equivalent version of 2013 Microsoft Office system upon general availability. Small business customers in applicable markets were also eligible for a three-month trial of Office 365 Small Business Premium. Accordingly, estimated revenue related to the undelivered 2013 Microsoft Office system and subscription services was deferred until the products and services were delivered or the redemption period expired. 
+
+Impairment of Investment Securities 
+
+We review investments quarterly for indicators of other-than-temporary impairment. This determination requires significant judgment. In making this judgment, we employ a systematic methodology quarterly that considers available quantitative and qualitative evidence in evaluating potential impairment of our investments. If the cost of an investment exceeds its fair value, we evaluate, among other factors, general market conditions, credit quality of debt instrument issuers, the duration and extent to which the fair value is less than cost, and for equity securities, our intent and ability to hold, or plans to sell, the investment. For fixed-income securities, we also evaluate whether we have plans to sell the security or it is more likely than not that we will be required to sell the security before recovery. We also consider specific adverse conditions related to the financial health of and business outlook for the investee, including industry and sector performance, changes in technology, and operational and financing cash flow factors. Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded to other income (expense) and a new cost basis in the investment is established. If market, industry, and/or investee conditions deteriorate, we may incur future impairments. 
+
+Goodwill 
+
+We allocate goodwill to reporting units based on the reporting unit expected to benefit from the business combination. We evaluate our reporting units on an annual basis and, if necessary, reassign goodwill using a relative fair value allocation approach. Goodwill is tested for impairment at the reporting unit level (operating segment or one level below an operating segment) on an annual basis (May 1 for us) and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. These events or circumstances could include a significant change in the business climate, legal factors, operating performance indicators, competition, or sale or disposition of a significant portion of a reporting unit. 
+
+Application of the goodwill impairment test requires judgment, including the identification of reporting units, assignment of assets and liabilities to reporting units, assignment of goodwill to reporting units, and determination of the fair value of each reporting unit. The fair value of each reporting unit is estimated using a discounted cash flow methodology. This analysis requires significant judgments, including estimation of future cash flows, which is dependent on internal forecasts, estimation of the long-term rate of growth for our business, estimation of the useful life over which cash flows will occur, and determination of our weighted average cost of capital. 
+
+&#160; 
+
+PART I 
+
+Item 2 
+
+&#160; 
+
+The estimates used to calculate the fair value of a reporting unit change from year to year based on operating results, market conditions, and other factors. Changes in these estimates and assumptions could materially affect the determination of fair value and goodwill impairment for each reporting unit. 
+
+Research and Development Costs 
+
+Costs incurred internally in researching and developing a computer software product are charged to expense until technological feasibility has been established for the product. Once technological feasibility is established, all software costs are capitalized until the product is available for general release to customers. Judgment is required in determining when technological feasibility of a product is established. We have determined that technological feasibility for our software products is reached after all high-risk development issues have been resolved through coding and testing. Generally, this occurs shortly before the products are released to manufacturing. The amortization of these costs is included in cost of revenue over the estimated life of the products. 
+
+Legal and Other Contingencies 
+
+The outcomes of legal proceedings and claims brought against us are subject to significant uncertainty. An estimated loss from a loss contingency such as a legal proceeding or claim is accrued by a charge to income if it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. Disclosure of a contingency is required if there is at least a reasonable possibility that a loss has been incurred. In determining whether a loss should be accrued we evaluate, among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. Changes in these factors could materially impact our financial statements. 
+
+Income Taxes 
+
+The objectives of accounting for income taxes are to recognize the amount of taxes payable or refundable for the current year and deferred tax liabilities and assets for the future tax consequences of events that have been recognized in an entity&#146;s financial statements or tax returns. We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. Accounting literature also provides guidance on derecognition of income tax assets and liabilities, classification of current and deferred income tax assets and liabilities, accounting for interest and penalties associated with tax positions, and income tax disclosures. Judgment is required in assessing the future tax consequences of events that have been recognized in our financial statements or tax returns. Variations in the actual outcome of these future tax consequences could materially impact our financial statements. 
+
+Inventories 
+
+Inventories are stated at average cost, subject to the lower of cost or market. Cost includes materials, labor, and manufacturing overhead related to the purchase and production of inventories. We regularly review inventory quantities on hand, future purchase commitments with our suppliers, and the estimated utility of our inventory. These reviews include analysis of demand forecasts, product life cycle status, product development plans, current sales levels, pricing strategy, and component cost trends. If our review indicates a reduction in utility below carrying value, we reduce our inventory to a new cost basis through a charge to cost of revenue. The determination of market value and the estimated volume of demand used in the lower of cost or market analysis require significant judgment. 
+
+&#160; 
+
+PART I 
+
+Item 2, 3 
+
+&#160; 
+
+SEGMENT RESULTS OF OPERATIONS &#150; FISCAL YEAR 2013 REPORTABLE SEGMENT PRESENTATION 
+
+To assist the reader in assessing the impact of our change in segments, in addition to the segment information provided in the Notes to Financial Statements, we have provided this quarter&#146;s results of operations on the same basis as our historical reporting. Segment revenue and operating income (loss) reported in conformity with the fiscal year 2013 reportable segment presentation in our MD&#38;A were as follows during the periods presented: 
+
+&#160;
+
+(In millions) &#160; &#160; &#160; &#160; &#160; &#160; Three Months Ended September 30, &#160; 2013 &#160; &#160; 2012 &#160; Revenue &#160; &#160; &#160; &#160; &#160; &#160; Windows Division 
+
+&#160; $ 4,468 &#160; &#160; $ 3,244 &#160; Server and Tools 
+
+&#160; &#160; 5,052 &#160; &#160; &#160; 4,553 &#160; Online Services Division 
+
+&#160; &#160; 872 &#160; &#160; &#160; 697 &#160; Microsoft Business Division 
+
+&#160; &#160; 5,991 &#160; &#160; &#160; 5,501 &#160; Entertainment and Devices Division 
+
+&#160; &#160; 2,070 &#160; &#160; &#160; 1,947 &#160; Corporate and other 
+
+&#160; &#160; 76 &#160; &#160; &#160; 66 &#160; &#160; Consolidated revenue 
+
+&#160; $ 18,529 &#160; &#160; $ 16,008 &#160; &#160; &#160; &#160; Operating Income (Loss) &#160; &#160; &#160; &#160; &#160; &#160; Windows Division 
+
+&#160; $ 2,129 &#160; &#160; $ 1,651 &#160; Server and Tools 
+
+&#160; &#160; 2,026 &#160; &#160; &#160; 1,739 &#160; Online Services Division 
+
+&#160; &#160; (321 ) &#160; &#160; (364 ) Microsoft Business Division 
+
+&#160; &#160; 3,859 &#160; &#160; &#160; 3,650 &#160; Entertainment and Devices Division 
+
+&#160; &#160; (15 ) &#160; &#160; 21 &#160; Corporate and other 
+
+&#160; &#160; (1,344 ) &#160; &#160; (1,389 ) &#160; Consolidated operating income 
+
+&#160; $ 6,334 &#160; &#160; $ 5,308 &#160; &#160; &#160; &#160; 
+
+ ITEM 1A. RISK FACTORS 
+
+Our operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock. 
+
+We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins. 
+
+Competition in the technology sector 
+
+Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in our businesses generally are low and software products can be distributed broadly and quickly at relatively low cost. Many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers. 
+
+Competition among platforms, ecosystems, and devices 
+
+An important element of our business model has been to create platform-based ecosystems on which many participants can build diverse solutions. A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth. Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins. The strategic importance of developing and maintaining a vibrant ecosystem increased with the launch of the Windows 8 operating system, Surface, Windows Phone, and associated cloud-based services. We face significant competition from firms that provide competing platforms, applications, and services. 
+
+&#160;
+
+&#160; &#149; &#160; A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has been successful with some consumer products such as personal computers, tablets, mobile phones, gaming consoles, and digital music players. Competitors pursuing this model also earn revenue from services that are integrated with the hardware and software platform. We also offer some vertically-integrated hardware and software products and services; however, our competitors in smartphones and tablets have established significantly larger user bases. Efforts to compete with the vertically integrated model will increase our cost of revenue and reduce our operating margins. 
+
+&#160;
+
+&#160; &#149; &#160; We derive substantial revenue from licenses of Windows operating systems on personal computers. We face substantial competitive challenges from competing platforms developed for new devices and form factors such as smartphones and tablet computers. These devices compete on multiple bases including price and the perceived utility of the device and its platform. Users are increasingly turning to these devices to perform functions that would have been performed by personal computers in the past. Even if many users view these devices as complementary to a personal computer, the prevalence of these devices may make it more difficult to attract applications developers to our platforms. In addition, Surface competes with products made by our OEM partners, which may affect their commitment to our platform. 
+
+&#160;
+
+&#160; &#149; &#160; Competing platforms have applications marketplaces (sometimes referred to as &#147;stores&#148;) with scale and significant installed bases on mobile devices. These applications leverage free and user-paid services that over time result in disincentives for users to switch to competing platforms. In order to compete, we must successfully enlist developers to write applications for our marketplace and ensure that these applications have high quality, customer appeal, and value. Efforts to compete with these application marketplaces may increase our cost of revenue and lower our operating margins. 
+
+Business model competition 
+
+Companies compete with us based on a growing variety of business models. 
+
+&#160; 
+
+PART II 
+
+Item 1A 
+
+&#160; 
+
+&#160; &#149; &#160; Under the license-based proprietary software model that generates most of our revenue, we bear the costs of converting original ideas into software products through investments in research and development, offsetting these costs with the revenue received from licensing our products. Many of our competitors also develop and sell software to businesses and consumers under this model and we expect this competition to continue. 
+
+&#160;
+
+&#160; &#149; &#160; Other competitors develop and offer free applications, online services and content, and make money by selling third-party advertising. Advertising revenue funds development of products and services these competitors provide to users at no or little cost, competing directly with our revenue-generating products. 
+
+&#160;
+
+&#160; &#149; &#160; Some companies compete with us using an open source business model by modifying and then distributing open source software at nominal cost to end-users and earning revenue on advertising or complementary services and products. These firms do not bear the full costs of research and development for the software. Some open source software vendors develop software that mimics the features and functionality of our products. 
+
+The competitive pressures described above may result in decreased sales volumes, price reductions, and/or increased operating costs, such as for marketing and sales incentives. This may lead to lower revenue, gross margins, and operating income. 
+
+Our increasing focus on services presents execution and competitive risks. A growing part of our strategy involves cloud-based services used with smart devices. Our competitors are rapidly developing and deploying cloud-based services for consumers and business customers. Pricing and delivery models are evolving. Devices and form factors influence how users access services in the cloud and in some cases the user&#146;s choice of which suite of cloud-based services to use. We are devoting significant resources to develop and deploy our own competing cloud-based strategies. The Windows ecosystem must continue to evolve with this changing environment. While we believe our expertise, investments in infrastructure, and the breadth of our cloud-based services provide us with a strong foundation to compete, it is uncertain whether our strategies will attract the users or generate the revenue required to be successful. In addition to software development costs, we are incurring costs to build and maintain infrastructure to support cloud computing services. These costs may reduce the operating margins we have previously achieved. Whether we are successful in this new business model depends on our execution in a number of areas, including: 
+
+&#160;
+
+&#160; &#149; &#160; continuing to bring to market compelling cloud-based experiences that generate increasing traffic and market share; 
+
+&#160;
+
+&#160; &#149; &#160; maintaining the utility, compatibility, and performance of our cloud-based services on the growing array of computing devices, including PCs, smartphones, tablets, and television-related devices; 
+
+&#160;
+
+&#160; &#149; &#160; continuing to enhance the attractiveness of our cloud platforms to third-party developers; and 
+
+&#160;
+
+&#160; &#149; &#160; ensuring that our cloud-based services meet the reliability expectations of our customers and maintain the security of their data. 
+
+In July 2013, we announced a change in organizational structure as part of our transformation to a devices and services company. This change in structure is designed to enable us to innovate with greater speed, efficiency, and capability in the fast-changing competitive environment. We expect this change to alter the way we plan, develop, and market our products and services, as we pursue a single strategy to offer a family of devices and services designed to empower our customers for the activities they value most. It is uncertain whether our &#147;One Microsoft&#148; strategy will yield the anticipated efficiencies or competitive benefits. 
+
+As we increasingly license cloud-based versions of our products and services, such as Office 365, rather than licensing transaction-based products and services, the associated revenue will shift from being recognized at the time of the transaction to being recognized over the period of the subscription. 
+
+We make significant investments in new products and services that may not be profitable. We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, the Microsoft Office system, Bing, Windows Phone, Windows Server, the Windows Store, the Windows Azure Services platform, Office 365, other cloud-based services offerings, and the Xbox 360 entertainment platform. We will continue to invest in new software and hardware products, services, and technologies, such as the Microsoft-designed and manufactured Surface launched in October 2012. Investments in new technology are speculative. Commercial success depends on many factors, including innovativeness, developer support, and effective distribution and marketing. If customers do not perceive our latest offerings as providing significant new functionality or other value, they may reduce their purchases of new software products or upgrades, unfavorably impacting revenue. We may not achieve significant revenue from new product, service, and distribution channel 
+
+&#160; 
+
+PART II 
+
+Item 1A 
+
+&#160; 
+
+investments for a number of years, if at all. Moreover, new products and services may not be profitable, and even if they are profitable, operating margins for some new products and businesses will not be as high as the margins we have experienced historically. 
+
+In October 2012, we launched Windows 8, a major new release of our operating system, which seeks to deliver a unique user experience through well-integrated software, hardware, and services. In October 2013, we released the Windows 8.1 update. The success of Windows 8 depends on a number of factors including the extent to which customers embrace the new user interface and functionality, successfully coordinating with our OEM partners in releasing a variety of hardware devices that take advantage of new features, pricing Windows 8-based devices competitively, and attracting developers at scale to ensure a competitive array of quality applications. The marketing costs we are incurring to promote Windows 8 and associated services and devices may reduce our operating margins. 
+
+Acquisitions, joint ventures, and strategic alliances may have an adverse effect on our business. We expect to continue making acquisitions or entering into joint ventures and strategic alliances as part of our long-term business strategy. These transactions involve significant challenges and risks including that the transaction does not advance our business strategy, that we do not realize a satisfactory return on our investment, that we experience difficulty integrating new employees, business systems, and technology, or that the transaction diverts management&#146;s attention from our other businesses. In September 2013, we announced an agreement with Nokia Corporation to acquire its Devices &#38; Services business, including patent licensing and financing agreements. Factors that may prevent us from realizing the financial and other benefits from this transaction include: our inability to close the acquisition, or Nokia&#146;s inability to repay the financing and the acquisition doesn&#146;t close; the response to the acquisition by the customers, employees, and strategic and business partners of Nokia&#146;s Devices &#38; Services business; the extent to which we achieve anticipated operating efficiencies and cost savings, and anticipated smart device and mobile phone market share targets; the overall growth rates for the smart device and mobile phone markets; ongoing downward pressure on prices for mobile devices; unanticipated restructuring expenses; any restrictions or limitations imposed by regulatory authorities; our management and organizational changes resulting from acquisition of Nokia&#146;s Devices &#38; Services business; the ability to retain key Nokia personnel; our effectiveness in integrating the Nokia Devices &#38; Services business with Microsoft&#146;s businesses; the response of existing Microsoft smart devices original equipment manufacturers; and risks related to the Nokia Devices &#38; Services international operations. This and other acquisitions provide opportunities to enhance our existing products and services; their success will depend in part on our ability to provide compelling experiences that distinguish us from our competitors in both consumer and business markets. It may take longer than expected to realize the full benefits from these transactions, such as increased revenue, enhanced efficiencies, or increased market share, or the benefits may ultimately be smaller than anticipated or may not be realized. These events could adversely affect our operating results or financial condition. 
+
+We may not be able to adequately protect our intellectual property rights. Protecting our global intellectual property rights and combating unlicensed copying and use of our software and other intellectual property is difficult. While piracy adversely affects U.S. revenue, the impact on revenue from outside the U.S. is more significant, particularly in countries where laws are less protective of intellectual property rights. As a result, our revenue in these markets may grow slower than the underlying PC market. Similarly, the absence of harmonized patent laws makes it more difficult to ensure consistent respect for patent rights. Throughout the world, we actively educate consumers about the benefits of licensing genuine products and obtaining indemnification benefits for intellectual property risks, and we educate lawmakers about the advantages of a business climate where intellectual property rights are protected. However, continued educational and enforcement efforts may fail to enhance revenue. Reductions in the legal protection for software intellectual property rights could adversely affect revenue. 
+
+Third parties may claim we infringe their intellectual property rights. From time to time, we receive notices from others claiming we infringe their intellectual property rights. The number of these claims may grow because of constant technological change in the segments in which we compete, the extensive patent coverage of existing technologies, the rapid rate of issuance of new patents, and our offering of Microsoft-branded services and hardware devices, such as Surface. To resolve these claims we may enter into royalty and licensing agreements on terms that are less favorable than currently available, stop selling or redesign affected products or services, or pay damages to satisfy indemnification commitments with our customers. These outcomes may cause operating margins to decline. In addition to money damages, in some jurisdictions plaintiffs can seek injunctive relief that may limit or prevent importing, marketing, and selling our products or services that have infringing technologies. In some countries, such as Germany, an injunction can be issued before the parties have fully litigated the validity of the underlying patents. We have made and expect to continue making significant expenditures to settle claims related to the use of technology and intellectual property rights and to procure intellectual property rights as part of our strategy to manage this risk. 
+
+&#160; 
+
+PART II 
+
+Item 1A 
+
+&#160; 
+
+We may not be able to protect our source code from copying if there is an unauthorized disclosure of source code. Source code, the detailed program commands for our operating systems and other software programs, is critical to our business. Although we license portions of our application and operating system source code to a number of licensees, we take significant measures to protect the secrecy of large portions of our source code. If an unauthorized disclosure of a significant portion of our source code occurs, we could potentially lose future trade secret protection for that source code. It may become easier for third parties to compete with our products by copying functionality, which could adversely affect our revenue and operating margins. Unauthorized disclosure of source code also could increase the security risks described in the next paragraph. 
+
+Cyber-attacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our competitive position. 
+
+Security of Microsoft&#146;s information technology 
+
+Maintaining the security of computers and computer networks is paramount for us and our customers. Threats to information technology (&#147;IT&#148;) security can take a variety of forms. Hackers develop and deploy viruses, worms, and other malicious software programs that attack our products and services and gain access to our networks and data centers. Groups of hackers may also act in a coordinated manner to launch distributed denial of service attacks, or other coordinated attacks. Sophisticated organizations, individuals, or governments launch targeted attacks to gain access to our network. Breaches of our network or data security could disrupt and compromise the security of our internal systems and business applications, impair our ability to provide services to our customers and protect the privacy of their data, result in product development delays, compromise confidential or technical business information harming our competitive position, result in theft or misuse of our intellectual property, or otherwise adversely affect our business. 
+
+In addition, our internal IT environment continues to evolve. Often we are early adopters of new devices and technologies. We embrace new ways of sharing data and communicating internally and with partners and customers using methods such as social networking and other consumer-oriented technologies. These practices can enhance efficiency and business insight, but they also present risks that our business policies and internal security controls may not keep pace with the speed of these changes. 
+
+Security of our customers&#146; products and services 
+
+Security threats are a particular challenge to companies like us whose business is technology products and services. The threats to our own IT infrastructure also affect our customers. Customers using our cloud-based services rely on the security of our infrastructure to ensure the reliability of our services and the protection of their data. Hackers tend to focus their efforts on the most popular operating systems, programs, and services, including many of ours, and we expect them to continue to do so. The security of our products and services is an important consideration in our customers&#146; purchasing decisions. 
+
+We devote significant resources to defend against security threats, both to our internal IT systems and those of our customers. These include: 
+
+&#160;
+
+&#160; &#149; &#160; engineering more secure products and services; 
+
+&#160;
+
+&#160; &#149; &#160; enhancing security and reliability features in our products and services, and continuously evaluating and updating those security and reliability features; 
+
+&#160;
+
+&#160; &#149; &#160; improving the deployment of software updates to address security vulnerabilities; 
+
+&#160;
+
+&#160; &#149; &#160; investing in mitigation technologies that help to secure customers from attacks even when software updates are not deployed; 
+
+&#160;
+
+&#160; &#149; &#160; protecting the digital security infrastructure that ensures the integrity of our products and services; 
+
+&#160;
+
+&#160; &#149; &#160; helping our customers make the best use of our products and services to protect against computer viruses and other attacks; and 
+
+&#160;
+
+&#160; &#149; &#160; providing customers online automated security tools, published security guidance, and security software such as firewalls and anti-virus software. 
+
+The cost of these steps could reduce our operating margins. Despite these efforts, actual or perceived security vulnerabilities in our products and services could cause significant reputational harm and lead some customers to reduce or delay future purchases of products or subscriptions to services, or to use competing products or services. Customers may also increase their expenditures on protecting their existing computer systems from attack, which could delay 
+
+&#160; 
+
+PART II 
+
+Item 1A 
+
+&#160; 
+
+adoption of additional products or services. Any of these actions by customers could adversely affect our revenue. Actual or perceived vulnerabilities may lead to claims against us. Although our license agreements typically contain provisions that eliminate or limit our exposure to such liability, there is no assurance these provisions will withstand legal challenges. Legislative or regulatory action may increase the costs to develop or implement our products and services. 
+
+Improper disclosure of personal data could result in liability and harm our reputation. As we continue to grow the number and scale of our cloud-based offerings, we store and process increasingly large amounts of personally identifiable information of our customers. At the same time, the continued occurrence of high-profile data breaches provides evidence of an external environment increasingly hostile to information security. This environment demands that we continuously improve our design and coordination of security controls across our business groups and geographies. Despite these efforts, it is possible our security controls over personal data, our training of employees and vendors on data security, and other practices we follow may not prevent the improper disclosure of personally identifiable information that we or our vendors store and manage. Improper disclosure of this information could harm our reputation, lead to legal exposure to customers, or subject us to liability under laws that protect personal data, resulting in increased costs or loss of revenue. Our software products and services also enable our customers to store and process personal data on premise or, increasingly, in a cloud-based environment we host. We believe consumers using our email, messaging, storage, sharing, and social networking services will increasingly want efficient, centralized methods of choosing their privacy preferences and controlling their data. Perceptions that our products or services do not adequately protect the privacy of personal information could inhibit sales of our products or services, and could constrain consumer and business adoption of our cloud-based solutions. 
+
+We may experience outages, data losses, and disruptions of our online services if we fail to maintain an adequate operations infrastructure. Our increasing user traffic and the complexity of our products and services demand more computing power. We have spent and expect to continue to spend substantial amounts to purchase or lease data centers and equipment and to upgrade our technology and network infrastructure to handle more traffic on our websites and in our data centers, and to introduce new products and services and support existing services such as Bing, Exchange Online, Office 365, SharePoint Online, SkyDrive, Skype, Xbox LIVE, Windows Azure, Outlook.com, and Microsoft Office Web Apps. We also are growing our business of providing a platform and back-end hosting for services provided by third-party businesses to their end customers. Maintaining and expanding this infrastructure is expensive and complex. Inefficiencies or operational failures, including temporary or permanent loss of customer data, could diminish the quality of our products, services, and user experience resulting in contractual liability, claims by customers and other third parties, damage to our reputation and loss of current and potential users, subscribers, and advertisers, each of which may harm our operating results and financial condition. 
+
+We are subject to government litigation and regulatory activity that may limit how we design and market our products. As a leading global software maker, we are closely scrutinized by government agencies under U.S. and foreign competition laws. Some jurisdictions also provide private rights of action for competitors or consumers to assert claims of anti-competitive conduct. For example, we were sued on competition law grounds by the U.S. Department of Justice, 18 states, and the District of Columbia in the late 1990s. The resolution of the government lawsuits imposed various constraints on our Windows operating system businesses. Although these constraints expired in May 2011, we expect that federal and state antitrust authorities will continue to closely scrutinize our business. 
+
+The European Commission closely scrutinizes the design of high-volume Microsoft products and the terms on which we make certain technologies used in these products, such as file formats, programming interfaces, and protocols, available to other companies. In 2004, the Commission ordered us to create new versions of Windows that do not include certain multimedia technologies and to provide our competitors with specifications for how to implement certain proprietary Windows communications protocols in their own products. In 2009, the Commission accepted a set of commitments offered by Microsoft to address the Commission&#146;s concerns relating to competition in Web browsing software, including an undertaking to address Commission concerns relating to interoperability. These obligations may limit our ability to innovate in Windows or other products in the future, diminish the developer appeal of the Windows platform, and increase our product development costs. The availability of licenses related to protocols and file formats may enable competitors to develop software products that better mimic the functionality of our products which could hamper sales of our products. 
+
+&#160; 
+
+PART II 
+
+Item 1A 
+
+&#160; 
+
+Government regulatory actions and court decisions such as these may hinder our ability to provide the benefits of our software to consumers and businesses, thereby reducing the attractiveness of our products and the revenue that come from them. New competition law actions could be initiated at any time. The outcome of such actions, or steps taken to avoid them, could adversely affect us in a variety of ways, including: 
+
+&#160;
+
+&#160; &#149; &#160; We may have to choose between withdrawing products from certain geographies to avoid fines or designing and developing alternative versions of those products to comply with government rulings, which may entail a delay in a product release and removing functionality that customers want or on which developers rely. 
+
+&#160;
+
+&#160; &#149; &#160; We may be required to make available licenses to our proprietary technologies on terms that do not reflect their fair market value or do not protect our associated intellectual property. 
+
+&#160;
+
+&#160; &#149; &#160; The rulings described above may be used as precedent in other competition law proceedings. 
+
+&#160;
+
+&#160; &#149; &#160; We are subject to a variety of ongoing commitments as a result of court or administrative orders, consent decrees or other voluntary actions we have taken. If we fail to comply with these commitments we may incur litigation costs and be subject to substantial fines or other remedial actions. For example, in July 2012, we announced that, for some PCs sold in Europe, we were not in compliance with our 2009 agreement to display a &#147;Browser Choice Screen&#148; on Windows PCs where Internet Explorer is the default browser. As a result, the European Commission imposed a fine of &#128; 561 million (approximately $733 million). 
+
+Our products and online services offerings, including new technologies we develop or acquire such as Skype, are subject to government regulation in some jurisdictions, including in areas of user privacy, telecommunications, data protection, and online content. The application of these laws and regulations to our business is often unclear, subject to change over time, and sometimes may conflict from jurisdiction to jurisdiction. Additionally these laws and governments&#146; approach to their enforcement, as well as our products and services, are continuing to evolve. Compliance with these types of regulation may involve significant costs or require changes in products or business practices that result in reduced revenue. Noncompliance could result in penalties being imposed on us or orders that we stop the alleged noncompliant activity. 
+
+Our business depends on our ability to attract and retain talented employees. Our business is based on successfully attracting and retaining talented employees. The market for highly skilled workers and leaders in our industry is extremely competitive. We are limited in our ability to recruit internationally by restrictive domestic immigration laws. If we are less successful in our recruiting efforts, or if we are unable to retain key employees, our ability to develop and deliver successful products and services may be adversely affected. Effective succession planning is also important to our long-term success. Failure to ensure effective transfer of knowledge and smooth transitions involving key employees could hinder our strategic planning and execution. In August 2013, Steve Ballmer announced he would retire as Chief Executive Officer within 12 months. Our ability to execute our business strategies and retain key executives may be adversely affected by uncertainty associated with the transition to a successor CEO. 
+
+Delays in product development schedules may adversely affect our revenue. The development of software products is a complex and time-consuming process. New products and enhancements to existing products can require long development and testing periods. Our increasing focus on devices and cloud-based services also presents new and complex development issues. Significant delays in new product or service releases or significant problems in creating new products or services could adversely affect our revenue. 
+
+Adverse economic or market conditions may harm our business. Unfavorable changes in economic conditions, including inflation, recession, or other changes in economic conditions, may result in lower IT spending and adversely affect our revenue. If demand for PCs, servers, and other computing devices declines, or consumer or business spending for those products declines, our revenue will be adversely affected. A substantial amount of our revenue comes from U.S. government contracts. An extended federal government shutdown resulting from the failure to pass budget appropriations, adopt continuing funding resolutions or raise the debt ceiling, as well as other budgetary decisions limiting or delaying federal government spending generally, could reduce government IT spending on our products and services and adversely affect our revenues. Our product distribution system also relies on an extensive partner and retail network. OEMs building devices that run our software have also been a significant means of distribution. The impact of economic conditions on our partners, such as the bankruptcy of a major distributor, OEM, or retailer, could result in sales channel disruption. Challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased. As a result, allowances for doubtful accounts and write-offs of accounts receivable may increase. We maintain an investment portfolio of various holdings, types, and maturities. These investments are subject to general credit, liquidity, market, and interest rate risks, which may be exacerbated by unusual events that affect global financial markets. A significant part of our investment portfolio consists of U.S. government securities. If global credit and equity 
+
+&#160; 
+
+PART II 
+
+Item 1A 
+
+&#160; 
+
+markets experience prolonged periods of decline, or if there is a downgrade of the U.S. government credit rating due to an actual or threatened default on government debt, our investment portfolio may be adversely impacted and we could determine that more of our investments have experienced an other-than-temporary decline in fair value, requiring impairment charges that could adversely affect our financial results. 
+
+We have claims and lawsuits against us that may result in adverse outcomes. We are subject to a variety of claims and lawsuits. Adverse outcomes in some or all of these claims may result in significant monetary damages or injunctive relief that could adversely affect our ability to conduct our business. The litigation and other claims are subject to inherent uncertainties and management&#146;s view of these matters may change in the future. A material adverse impact on our financial statements also could occur for the period in which the effect of an unfavorable final outcome becomes probable and reasonably estimable. 
+
+We may have additional tax liabilities. We are subject to income taxes in the U.S. and many foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes. In the ordinary course of our business, there are many transactions and calculations where the ultimate tax determination is uncertain. We regularly are under audit by tax authorities. Economic and political pressures to increase tax revenues in various jurisdictions may make resolving tax disputes more difficult. Although we believe our tax estimates are reasonable, the final determination of tax audits and any related litigation could be materially different from our historical income tax provisions and accruals. The results of an audit or litigation could have a material effect on our financial statements in the period or periods for which that determination is made. 
+
+We earn a significant amount of our operating income from outside the U.S., and any repatriation of funds currently held in foreign jurisdictions to the U.S. may result in higher effective tax rates for the company. In addition, there have been proposals from Congress to change U.S. tax laws that would significantly impact how U.S. multinational corporations are taxed on foreign earnings. Although we cannot predict whether or in what form any proposed legislation may pass, if enacted it could have a material adverse impact on our tax expense and cash flows. 
+
+Our hardware and software products may experience quality or supply problems. Our vertically-integrated hardware products such as the Xbox console, Surface, and other hardware devices we design and market are highly complex and can have defects in design, manufacture, or associated software. We could incur significant expenses, lost revenue, and reputational harm if we fail to detect or effectively address such issues through design, testing, or warranty repairs. We obtain some components of our hardware devices from sole suppliers. Our competitors use some of the same suppliers and their demand for hardware components can affect the amount of capacity available to us. If a component delivery from a sole-source supplier is delayed or becomes unavailable or industry shortages occur, we may be unable to obtain timely replacement supplies, resulting in reduced sales. Component shortages, excess or obsolete inventory, or price reductions resulting in inventory adjustments may increase our cost of revenue. Xbox consoles and Surface are assembled in Asia; disruptions in the supply chain may result in shortages that would affect our revenue and operating margins. These same risks would apply to any other vertically-integrated hardware and software products we may offer. 
+
+Our stand-alone software products also may experience quality or reliability problems. The highly sophisticated software products we develop may contain bugs and other defects that interfere with their intended operation. Any defects we do not detect and fix in pre-release testing could result in reduced sales and revenue, damage to our reputation, repair or remediation costs, delays in the release of new products or versions, or legal liability. Although our license agreements typically contain provisions that eliminate or limit our exposure to liability, there is no assurance these provisions will withstand legal challenge. 
+
+If our goodwill or amortizable intangible assets become impaired we may be required to record a significant charge to earnings. We acquire other companies and intangible assets and may not realize all the economic benefit from those acquisitions, which could result in an impairment of goodwill or intangibles. Under accounting principles generally accepted in the United States, we review our amortizable intangible assets for impairment when events or changes in circumstances indicate the carrying value may not be recoverable. We test goodwill for impairment at least annually. Factors that may be considered a change in circumstances, indicating that the carrying value of our goodwill or amortizable intangible assets may not be recoverable, include a decline in stock price and market capitalization, reduced future cash flow estimates, and slower growth rates in our industry. We may be required to record a significant charge in our financial statements during the period in which any impairment of our goodwill or amortizable intangible assets is determined, negatively impacting our results of operations. For example, in the fourth quarter of fiscal year 2012, we recorded a $6.2 billion charge for the impairment of goodwill in our previous Online Services Division business (Devices and Consumer Other under our current segment structure). 
+
+&#160; 
+
+PART II 
+
+Item 1A, 2 
+
+&#160; 
+
+We operate a global business that exposes us to additional risks. We operate in over 100 countries and a significant part of our revenue comes from international sales. Competitive or regulatory pressure to make our pricing structure uniform might require that we reduce the sales price of our software in the U.S. and other countries. Operations outside the U.S. may be affected by changes in trade protection laws, policies and measures, and other regulatory requirements affecting trade and investment. The Foreign Corrupt Practices Act and local laws (&#147;Anti-Corruption Laws&#148;) prohibit corrupt payments by our employees, vendors, or agents. While we devote substantial resources to our global compliance programs and have implemented certain policies, training, and internal controls designed to reduce the risk of corrupt payments, if we fail to comply with Anti-Corruption Laws, we may be exposed to significant fines and penalties. Emerging markets are a significant focus of our international growth strategy. The developing nature of these markets presents a number of risks. Deterioration of social, political, labor, or economic conditions in a specific country or region, such as current uncertainties relating to European economic weakness, and difficulties in staffing and managing foreign operations, may also adversely affect our operations or financial results. Although we hedge a portion of our international currency exposure, significant fluctuations in exchange rates between the U.S. dollar and foreign currencies may adversely affect our revenue. 
+
+Catastrophic events or geo-political conditions may disrupt our business. A disruption or failure of our systems or operations because of a major earthquake, weather event, cyber-attack, terrorist attack, or other catastrophic event could cause delays in completing sales, providing services, or performing other mission-critical functions. Our corporate headquarters, a significant portion of our research and development activities, and certain other critical business operations are located in the Seattle, Washington area, and we have other business operations in the Silicon Valley area of California, both of which are near major earthquake faults. A catastrophic event that results in the destruction or disruption of any of our critical business or IT systems could harm our ability to conduct normal business operations. Our move toward providing our customers with more services and solutions in the cloud puts a premium on the resilience of our systems and strength of our business continuity management plans, and magnifies the potential impact of prolonged service outages on our operating results. Abrupt political change, terrorist activity, and armed conflict pose a risk of general economic disruption in affected countries, which may increase our operating costs. These conditions also may add uncertainty to the timing and budget for technology investment decisions by our customers, and may result in supply chain disruptions for hardware manufacturers, either of which may adversely affect our revenue. The long-term effects of climate change on the global economy in general or the IT industry in particular are unclear. Environmental regulations or changes in the supply, demand or available sources of energy may affect the availability or cost of goods and services, including natural resources, necessary to run our business. Changes in weather where we operate may increase the costs of powering and cooling computer hardware we use to develop software and provide cloud-based services. 
+

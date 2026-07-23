@@ -1,0 +1,2774 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This &#32; information should be read in conjunction with the condensed consolidated financial statements and the notes thereto included in &#8220;Part I, Item 1&#8221; of this Quarterly Report and with &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; for the year ended September 30, 2018 &#32;contained in our 2018 &#32;Annual Report on Form 10-K. We have revised our prior period financial statements to reflect the correction of an immaterial error as described in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 1, Basis of Presentation and Significant Accounting Policies Update&#8221; and &#8220;Note 11. Revision of Prior Period Financial Statements.&#8221; 
+
+This Quarterly Report (including, but not limited to, this section regarding Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations) contains forward-looking statements regarding our business, investments, financial condition, results of operations and prospects. Additionally, statements concerning future matters that are not historical are forward-looking statements, such as statements regarding our expectations concerning: industry, market, business, commercial, competitive or consumer trends; our businesses, growth potential or strategies, or factors that may impact them; attacks on our licensing business, including by licensees, customers, governments, governmental agencies or regulators, standards bodies or others; other legal or regulatory matters; competition; product or technology trends; new or expanded product areas, adjacent industry segments or applications; costs or expenditures including research and development, selling, general and administrative, restructuring or restructuring-related charges, working capital or information technology systems; our financing, stock repurchase or dividend programs; strategic investments or acquisitions; adoption and application of future accounting guidance; tax law changes; our tax structure or strategies; or the potential business or financial statement impacts of any of the above. Words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;estimates&#8221; and similar expressions or variations of such words are intended to identify forward-looking statements, but are not the exclusive means of identifying forward-looking statements in this Quarterly Report. 
+
+Although forward-looking statements in this Quarterly Report reflect our good faith judgment, such statements can only be based on facts and factors currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties and actual results and outcomes may differ materially from the results and outcomes discussed in or anticipated by the forward-looking statements. Factors that could cause or contribute to such differences in results and outcomes include without limitation those discussed under the heading &#8220;Risk Factors&#8221; below, as well as those discussed elsewhere in this Quarterly Report. Readers are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report. We undertake no obligation to revise or update any forward-looking statements in order to reflect any event or circumstance that may arise after the date of this Quarterly Report. Readers are urged to carefully review and consider the various disclosures made in this Quarterly Report, which attempt to advise interested parties of the risks and factors that may affect our business, financial condition, results of operations and prospects. 
+
+Second Quarter Fiscal 2019 Overview and Other Recent Events 
+
+Revenues for the second &#32;quarter of fiscal 2019 &#32;were $5.0 billion , a decrease &#32;of 5% &#32;compared to the year ago quarter, with net income of $663 million , an increase of 101% &#32;compared to the year ago quarter. Highlights and other events from the second &#32;quarter of fiscal 2019 &#32;and other recent events included: 
+
+&#8226; 
+
+On April 16, 2019, we entered into settlement agreements with Apple and its contract manufacturers to dismiss all outstanding litigation between the parties. We also entered into a six-year global patent license agreement with Apple, effective as of April 1, 2019, which includes an option for Apple to extend for two additional years, and a multi-year chipset supply agreement with Apple. 
+
+&#8226; 
+
+The transition of wireless networks and devices to 3G/4G (CDMA-single mode, OFDMA-single mode and CDMA/OFDMA multi-mode) continued around the world. 3G/4G connections grew sequentially by approximately 3% to approximately 5.7 billion, which was approximately 73% of total mobile connections at the end of the second &#32;quarter of fiscal 2019. (1) &#160; 
+
+&#8226; 
+
+We continue to invest significant resources toward advancements primarily in support of 4G- and 5G-based technologies as well as other technologies to extend the demand for our products and generate new or expanded licensing opportunities, including within adjacent industry segments outside traditional cellular industries, such as automotive, the Internet of Things (IoT) and networking. 
+
+&#8226; 
+
+QCT results in the second &#32;quarter of fiscal 2019 &#32;were negatively impacted by lower modem sales to Apple. 
+
+&#8226; 
+
+We adopted new revenue recognition accounting guidance in the first quarter of fiscal 2019 that requires us to estimate and recognize QTL royalties in the period in which the associated sales occur, resulting in an acceleration of royalty revenues by one quarter compared to the prior method. As a result of estimation, adjustments are recorded 
+
+in subsequent quarters to reflect changes in estimates as new information becomes available, primarily when actual amounts are reported by licensees. Prior period results have not been restated for the adoption of the new accounting guidance and continue to be reported in accordance with the accounting guidance in effect for those periods. 
+
+&#8226; 
+
+QTL results were negatively impacted by our prior dispute with Apple and its contract manufacturers. Revenues in the second quarter of fiscal 2019 did not include royalties due on sales of Apple or other products by Apple&#8217;s contract manufacturers. QTL revenues in the second quarter of fiscal 2019 included $150 million of royalties due under an interim agreement with Huawei. This represents a minimum, non-refundable amount for royalties due for the second quarter of fiscal 2019 by Huawei while negotiations continue. This payment does not reflect the full amount of royalties due under the underlying license agreement. 
+
+&#8226; 
+
+In the second quarter of fiscal 2018, we announced a Cost Plan designed to align our cost structure to our long-term margin targets, under which we initiated a series of targeted actions across our businesses with the objective to reduce annual costs by $1 billion, excluding incremental costs resulting from any future acquisition of a business. Actions taken under this plan have been completed and have resulted in us achieving substantially all of this target in fiscal 2019 based on our run rate exiting the second quarter of fiscal 2019, excluding litigation costs that are in excess of the baseline spend. 
+
+(1) 
+
+According to GSMA Intelligence estimates as of April 29, 2019 &#32;(estimates excluded Wireless Local Loop). 
+
+Our Business and Operating Segments 
+
+We develop and commercialize foundational technologies and products used in mobile devices and other wireless products, including network equipment, broadband gateway equipment and consumer electronics devices. We derive revenues principally from sales of integrated circuit products and licensing our intellectual property, including patents, software and other rights. 
+
+We are organized on the basis of products and services and have three reportable segments. We conduct business primarily through our QCT (Qualcomm CDMA Technologies) semiconductor business and our QTL (Qualcomm Technology Licensing) licensing business. QCT develops and supplies integrated circuits and system software based on CDMA, OFDMA and other technologies for use in mobile devices, wireless networks, devices used in IoT, broadband gateway equipment, consumer electronic devices and automotive telematics and infotainment systems. QTL grants licenses to use portions of its intellectual property portfolio, which includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products. Our QSI (Qualcomm Strategic Initiatives) reportable segment makes strategic investments. We also have nonreportable segments, including Qualcomm Government Technologies or QGOV (formerly Qualcomm Cyber Security Solutions) and other wireless technology and service initiatives. 
+
+Our reportable segments are operated by QUALCOMM Incorporated and its direct and indirect subsidiaries. All of our products and services businesses, including QCT, and all of our engineering, research and development functions, are operated by Qualcomm Technologies, Inc. (QTI), a wholly-owned subsidiary of QUALCOMM Incorporated, and QTI&#8217;s subsidiaries. QTL is operated by QUALCOMM Incorporated, which owns the vast majority of our patent portfolio. Neither QTI nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by QUALCOMM Incorporated. 
+
+Seasonality. Many of our products and/or much of our intellectual property are incorporated into consumer wireless devices, which are subject to seasonality and other fluctuations in demand. As a result, QCT has historically tended to have stronger sales toward the end of the calendar year as manufacturers prepare for major holiday selling seasons and due to the timing of Apple&#8217;s device launch in the fall. Similarly, because QTL historically has recognized royalty revenues when royalties are reported by licensees, QTL has tended to record higher royalty revenues in the first calendar quarter when licensees report their sales made in the fourth calendar quarter. These trends did not occur in the first six months of fiscal 2019 due to QCT&#8217;s decline in share of modem sales for iPhone products and the lack of QTL royalty revenues recognized related to the sales of Apple&#8217;s products resulting from our prior dispute with Apple and its contract manufacturers. These trends may or may not continue in the future. Additionally, QTL&#8217;s revenues have been impacted by the adoption of the new revenue recognition guidance in fiscal 2019 pursuant to which we estimate and recognize sales-based royalties in the period in which the associated sales occur, resulting in an acceleration of royalty revenue recognition by one quarter compared to the prior method. The trends for QTL have been, and may be in the future be, impacted by disputes and/or resolutions with licensees. 
+
+We have also experienced fluctuations in revenues due to the timing of conversions and expansions of 3G and 4G networks by wireless operators and the timing of launches of flagship wireless devices and consumer demand for wireless 
+
+devices that incorporate our products and/or intellectual property. These trends may or may not continue in the future, including as a result of 5G network deployments and flagship device launches. 
+
+Results of Operations 
+
+Revenues (in millions) 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Equipment and services 
+
+$ 
+
+3,753 
+
+&#160; 
+
+$ 
+
+3,936 
+
+&#160; 
+
+$ 
+
+(183 
+
+) 
+
+&#160; 
+
+$ 
+
+7,506 
+
+&#160; 
+
+$ 
+
+8,639 
+
+&#160; 
+
+$ 
+
+(1,133 
+
+) 
+
+Licensing 
+
+1,229 
+
+&#160; 
+
+1,284 
+
+&#160; 
+
+(55 
+
+) 
+
+&#160; 
+
+2,318 
+
+&#160; 
+
+2,616 
+
+&#160; 
+
+(298 
+
+) 
+
+&#160; 
+
+$ 
+
+4,982 
+
+&#160; 
+
+$ 
+
+5,220 
+
+&#160; 
+
+$ 
+
+(238 
+
+) 
+
+&#160; 
+
+$ 
+
+9,824 
+
+&#160; 
+
+$ 
+
+11,255 
+
+&#160; 
+
+$ 
+
+(1,431 
+
+) 
+
+Second quarter 2019 vs. 2018 
+
+The decrease in revenues in the second &#32;quarter of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$227 million &#32;in lower equipment and services revenues from our QCT segment 
+
+- 
+
+$97 million &#32;in lower licensing revenues from our QTL segment 
+
+First six months 2019 vs. 2018 
+
+The decrease in revenues in the first six months &#32;of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$1.1 billion &#32;in lower equipment and services revenues from our QCT segment 
+
+- 
+
+$344 million &#32;in lower licensing revenues from our QTL segment 
+
+Costs and Expenses (in millions) 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Cost of revenues 
+
+$ 
+
+2,179 
+
+&#160; 
+
+$ 
+
+2,239 
+
+&#160; 
+
+$ 
+
+(60 
+
+) 
+
+&#160; 
+
+$ 
+
+4,367 
+
+&#160; 
+
+$ 
+
+4,902 
+
+&#160; 
+
+$ 
+
+(535 
+
+) 
+
+Gross margin 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Second quarter 2019 vs. 2018 
+
+Gross margin percentage decreased in the second &#32;quarter of fiscal 2019 &#32;primarily due to: 
+
+- decrease in QCT gross margin 
+
+First six months 2019 vs. 2018 
+
+Gross margin percentage remained flat in the first six months &#32;of fiscal 2019 &#32;primarily due to: 
+
+- decrease in QCT gross margin 
+
++ increase in QSI gross margin 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Research and development 
+
+$ 
+
+1,308 
+
+&#160; 
+
+$ 
+
+1,402 
+
+&#160; 
+
+$ 
+
+(94 
+
+) 
+
+&#160; 
+
+$ 
+
+2,577 
+
+&#160; 
+
+$ 
+
+2,822 
+
+&#160; 
+
+$ 
+
+(245 
+
+) 
+
+% of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Second quarter 2019 vs. 2018 
+
+The dollar decrease in research and development expenses in the second &#32;quarter of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$92 million decrease primarily driven by actions under our Cost Plan , partially offset by higher costs related to the development of 5G wireless and integrated circuit technologies 
+
+First six months 2019 vs. 2018 
+
+The dollar decrease in research and development expenses in the first six months &#32;of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$244 million decrease primarily driven by actions under our Cost Plan , partially offset by higher costs related to the development of 5G wireless and integrated circuit technologies 
+
+In fiscal 2018, all of the costs related to pre-commercial research and development of 5G technologies, of which we recorded $115 million and $216 million in the second quarter and first six months of fiscal 2018, respectively, were included in unallocated corporate research and development expenses. Beginning in the first quarter of fiscal 2019, all research and 
+
+development costs associated with 5G technologies are included in segment results. Additionally, beginning in the first quarter of fiscal 2019, certain research and development costs associated with early research and development that were historically included in our QCT segment are allocated to our QTL segment. The net effect of these changes negatively impacted QTL&#8217;s EBT by $119 million and $241 million in the second quarter and first six months of fiscal 2019, respectively. QCT's EBT was positively impacted by $32 million and $44 million in the second quarter and first six months of fiscal 2019, respectively. &#32; &#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Selling, general and administrative 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(296 
+
+) 
+
+&#160; 
+
+$ 
+
+1,100 
+
+&#160; 
+
+$ 
+
+1,641 
+
+&#160; 
+
+$ 
+
+(541 
+
+) 
+
+% of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Second quarter 2019 vs. 2018 
+
+The dollar decrease in selling, general and administrative expenses in the second &#32;quarter of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$217 million in lower professional fees and costs, primarily driven by Broadcom&#8217;s withdrawn takeover proposal in fiscal 2018 
+
+- 
+
+$24 million in lower sales and marketing expenses 
+
+- 
+
+$24 million in lower employee-related expenses, primarily driven by actions under our Cost Plan 
+
+First six months 2019 vs. 2018 
+
+The dollar decrease in selling, general and administrative expenses in the first six months &#32;of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$285 million in lower professional fees and costs, primarily driven by Broadcom&#8217;s withdrawn takeover proposal in fiscal 2018 and our proposed acquisition of NXP Semiconductors N.V. in fiscal 2018 
+
+- 
+
+$72 million in lower employee-related expenses, primarily driven by actions under our Cost Plan 
+
+- 
+
+$45 million in bad debt expense recorded in the first quarter of fiscal 2018 
+
+- 
+
+$45 million in lower sales and marketing expenses 
+
+Selling, general and administrative expenses included $126 million and $223 million in the second quarter and first six months of fiscal 2019, respectively, related to litigation costs, a decrease compared to the second quarter and first six months fiscal 2018 of $20 million and $29 million, respectively. 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Other 
+
+$ 
+
+(18 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(328 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,493 
+
+&#160; 
+
+$ 
+
+(1,363 
+
+) 
+
+Second quarter 2019 
+
+Other income in the second quarter of fiscal 2019 consisted of: 
+
++ 
+
+$43 million &#32;gain due to the partial recovery of a fine imposed in fiscal 2009 resulting from our appeal of the Korea Fair Trade Commission (KFTC) decision 
+
+- 
+
+$25 million in net charges related to our Cost Plan, which included $70 million in restructuring and restructuring-related charges, partially offset by a $45 million &#160; net gain from the sale of certain assets related to wireless electric vehicle charging applications and the sale of our mobile health nonreportable segment &#32; 
+
+Second quarter 2018 
+
+Other expenses in the second quarter of fiscal 2018 consisted of: 
+
++ $310 million in restructuring and restructuring-related charges related to our Cost Plan 
+
+First six months 2019 
+
+Other expenses in the first six months &#32;of fiscal 2019 consisted of: 
+
++ 
+
+$204 million net charges related to our Cost Plan, which included $249 million in restructuring and restructuring-related charges, partially offset by a $45 million &#160; net gain from the sale of certain assets related to wireless electric vehicle charging applications and the sale of our mobile health nonreportable segment 
+
+- 
+
+$43 million &#32;gain due to the partial recovery of a fine imposed in fiscal 2009 resulting from our appeal of the KFTC decision 
+
+- $31 million &#32;gain related to a favorable legal settlement 
+
+First six months 2018 
+
+Other expenses in the first six months &#32;of fiscal 2018 consisted of: 
+
++ $1.2 billion charge related to the EC fine 
+
++ $310 million in restructuring and restructuring-related charges related to our Cost Plan 
+
+Interest Expense and Investment and Other Income, Net (in millions) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Interest expense 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(17 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(33 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Investment and other income, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest and dividend income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(74 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(125 
+
+) 
+
+Net gains (losses) on marketable securities 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(33 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(46 
+
+) 
+
+Net gains on other investments 
+
+&#160; 
+
+&#160; 
+
+(41 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(18 
+
+) 
+
+Impairment losses on marketable securities and other investments 
+
+(60 
+
+) 
+
+&#160; 
+
+(11 
+
+) 
+
+&#160; 
+
+(49 
+
+) 
+
+&#160; 
+
+(69 
+
+) 
+
+&#160; 
+
+(20 
+
+) 
+
+&#160; 
+
+(49 
+
+) 
+
+Equity in net losses of investees 
+
+(36 
+
+) 
+
+&#160; 
+
+(17 
+
+) 
+
+&#160; 
+
+(19 
+
+) 
+
+&#160; 
+
+(58 
+
+) 
+
+&#160; 
+
+(38 
+
+) 
+
+&#160; 
+
+(20 
+
+) 
+
+Net (losses) gains on foreign currency transactions 
+
+(1 
+
+) 
+
+&#160; 
+
+(90 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(93 
+
+) 
+
+&#160; 
+
+Net (losses) gains on derivative instruments 
+
+(1 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(11 
+
+) 
+
+&#160; 
+
+(9 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(18 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(68 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(178 
+
+) 
+
+In the fourth quarter of fiscal 2018, we implemented a stock repurchase program to repurchase up to $ 30 billion &#32;of our outstanding common stock. Stock repurchases made under this program have significantly reduced the amount of our cash, cash equivalents and marketable securities, resulting in a decrease to interest and dividend income. 
+
+Income Tax Expense (Benefit) (in millions) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Income tax expense (benefit) 
+
+$ 
+
+&#160; 
+
+$ 
+
+(13 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(365 
+
+) 
+
+&#160; 
+
+$ 
+
+5,911 
+
+&#160; 
+
+$ 
+
+(6,276 
+
+) 
+
+Effective tax rate 
+
+% 
+
+&#160; 
+
+N/M 
+
+&#160; 
+
+N/M 
+
+&#160; 
+
+(27 
+
+%) 
+
+&#160; 
+
+N/M 
+
+&#160; 
+
+N/M 
+
+N/M - Not meaningful 
+
+The following table summarizes the primary factors that caused our income tax provision to differ from the expected income tax provision at the U.S. federal statutory rate: &#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+Expected income tax provision at federal statutory tax rate 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Benefits from establishing new U.S. net deferred tax assets 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(570 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Detriments (benefits) from foreign income taxed at other than U.S. rates 
+
+&#160; 
+
+(107 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(100 
+
+) 
+
+Benefits related to the research and development tax credit 
+
+(22 
+
+) 
+
+&#160; 
+
+(29 
+
+) 
+
+&#160; 
+
+(46 
+
+) 
+
+&#160; 
+
+(28 
+
+) 
+
+Benefit from foreign-derived intangible income (FDII) deduction 
+
+(48 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(88 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Toll Charge from U.S. tax reform 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+5,314 
+
+Remeasurement of deferred taxes due to changes in statutory tax rate 
+
+&#8212; 
+
+&#160; 
+
+(10 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Foreign withholding taxes 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Nondeductible charges related to the KFTC and EC investigations 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(4 
+
+) 
+
+Income tax expense (benefit) 
+
+$ 
+
+&#160; 
+
+$ 
+
+(13 
+
+) 
+
+&#160; 
+
+$ 
+
+(365 
+
+) 
+
+&#160; 
+
+$ 
+
+5,911 
+
+The 2017 Tax Cuts and Jobs Act (the Tax Legislation) significantly revised the United States corporate income tax by, among other things, lowering the corporate income tax rate to 21% and imposing a one-time repatriation tax on deemed repatriated earnings and profits of U.S.-owned foreign subsidiaries (the Toll Charge). The Tax Legislation fundamentally changed the taxation of multinational entities, including a shift from a system of worldwide taxation with deferral to a hybrid territorial system, featuring a participation exemption regime with current taxation of certain foreign income, a minimum tax on low-taxed foreign earnings and new measures to deter base erosion and promote U.S. production. As a fiscal-year taxpayer, certain provisions of the Tax Legislation became effective starting at the beginning of fiscal 2019, including new taxes due on certain foreign income, such as GILTI (global intangible low-taxed income), BEAT (base-erosion and anti-abuse tax) and FDII (foreign-derived intangible income). In response to the Tax Legislation, we implemented certain tax restructuring in fiscal 2018 and 2019. As a result, without considering the effects of the agreements with Apple and its contract manufacturers signed in April 2019 , substantially all of our income is in the U.S. and qualifies for preferential treatment as FDII, and the impact of GILTI and BEAT are negligible. &#32;Accordingly, our estimated annual effective tax rate for fiscal 2019 reflects the effects of these components of the Tax Legislation. Our federal statutory income tax rate for fiscal 2018 reflected a blended rate of approximately 25%. 
+
+As a result of the Tax Legislation, in fiscal 2019, several of our foreign subsidiaries made tax elections to be treated as U.S. branches for federal income tax purposes (commonly referred to as &#8220;check-the-box&#8221; elections) effective beginning in fiscal 2018 and 2019. We believe that by treating these foreign subsidiaries as U.S. branches for federal income taxes, rather than controlled foreign corporations, we will significantly reduce the risk of being subject to GILTI and BEAT taxes. As a result of making these check-the-box elections in the first quarter of fiscal 2019, we recorded a tax benefit of &#32; $570 million &#32;due to establishing new U.S. net deferred tax assets resulting from the difference between the GAAP basis and the U.S. federal tax carryover basis of the existing assets and liabilities of those foreign subsidiaries, primarily related to customer incentive liabilities that have not been deducted for tax purposes. 
+
+The effective tax rate of 18% &#32;for the second quarter of fiscal 2019 &#32;was higher than the estimated annual effective tax rate of 6% &#32;benefit (which excluded the effects of the agreements with Apple and its contract manufacturers signed in April 2019) primarily due to the tax benefit of $570 million &#32;described above, which was recorded discretely in the first quarter. 
+
+Unrecognized tax benefits were $228 million &#32;and $217 million &#32;at March 31, 2019 &#32;and September 30, 2018 , respectively. We believe that it is reasonably possible that the total amounts of unrecognized tax benefits at March 31, 2019 &#32;may increase or decrease in the next 12 months. 
+
+The United States Treasury Department has issued proposed regulations on several provisions of the Tax Legislation, including foreign tax credits, FDII, GILTI, BEAT and interest expense deduction limitations, which are expected to be finalized in the next several months. When finalized, these proposed regulations may adversely affect our provision for income taxes, results of operations and/or cash flows. 
+
+Segment Results 
+
+The following should be read in conjunction with the financial results for the second quarter and first six months &#32;of fiscal 2019 &#32;for each reportable segment included in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 7. Segment Information.&#8221; 
+
+QCT Segment 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+(in millions) 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Equipment and services 
+
+$ 
+
+3,622 
+
+&#160; 
+
+$ 
+
+3,849 
+
+&#160; 
+
+$ 
+
+(227 
+
+) 
+
+&#160; 
+
+$ 
+
+7,300 
+
+&#160; 
+
+$ 
+
+8,447 
+
+&#160; 
+
+$ 
+
+(1,147 
+
+) 
+
+Licensing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+$ 
+
+3,722 
+
+&#160; 
+
+$ 
+
+3,897 
+
+&#160; 
+
+$ 
+
+(175 
+
+) 
+
+&#160; 
+
+$ 
+
+7,461 
+
+&#160; 
+
+$ 
+
+8,548 
+
+&#160; 
+
+$ 
+
+(1,087 
+
+) 
+
+EBT (1) 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(66 
+
+) 
+
+&#160; 
+
+$ 
+
+1,140 
+
+&#160; 
+
+$ 
+
+1,563 
+
+&#160; 
+
+$ 
+
+(423 
+
+) 
+
+EBT as a % of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(1 
+
+%) 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(3 
+
+%) 
+
+(1) 
+
+Earnings (loss) before taxes. 
+
+During the first quarter of fiscal 2019, we combined our Small Cells business, which sells products designed for the implementation of small cells to address the challenge of meeting the increased demand for mobile data, into our QCT segment. Revenues and operating results related to the Small Cells business were included in nonreportable segments through the end of fiscal 2018. Prior period segment information has not been adjusted to conform to the new segment presentation as such adjustments are insignificant. &#32; 
+
+Equipment and services revenues mostly relate to sales of Mobile Station Modem (MSM) and accompanying Radio Frequency (RF), Power Management (PM) and wireless connectivity integrated circuits. Approximately 155 million &#32;and 187 million &#32;MSM integrated circuits were sold in the second &#32;quarter of fiscal 2019 &#32;and 2018 , respectively, and approximately 341 million &#32;and 424 million &#32;MSM integrated circuits were sold in the first six months of fiscal 2019 and 2018, respectively. 
+
+Second quarter 2019 vs. 2018 
+
+The decrease in QCT equipment and services revenues in the second &#32;quarter of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$424 million in lower MSM and accompanying unit shipments, primarily due to a decline in share at Apple 
+
+- 
+
+$223 million decrease due to lower average selling prices 
+
++ 
+
+$453 million due to favorable product mix 
+
+QCT EBT as a percentage of revenues decreased in the second quarter of fiscal 2019 primarily due to: 
+
+- 
+
+decrease in QCT revenues 
+
+- 
+
+decrease in gross margin percentage, primarily driven by lower average selling prices, partially offset by higher-margin product mix and lower average unit costs 
+
++ 
+
+decrease in operating expenses, primarily driven by actions under our Cost Plan 
+
+First six months 2019 vs. 2018 
+
+The decrease in QCT equipment and services revenues in the first six months of fiscal 2019 &#32;was primarily due to: 
+
+- 
+
+$1.12 billion in lower MSM and accompanying unit shipments, primarily due to a decline in share at Apple 
+
+- 
+
+$454 million decrease due to lower average selling prices 
+
+- 
+
+$239 million in lower RFFE product revenues, primarily due to a decline in share at Apple 
+
++ 
+
+$659 million increase due to favorable product mix 
+
+QCT EBT as a percentage of revenues decreased in the first six months of fiscal 2019 primarily due to: 
+
+- 
+
+decrease in QCT revenues 
+
+- 
+
+decrease in gross margin percentage, primarily driven by lower average selling prices, partially offset by higher-margin product mix and lower average unit costs 
+
++ 
+
+decrease in operating expenses, primarily driven by actions under our Cost Plan 
+
+QCT accounts receivable decreased by 10% &#32;in the first six months of fiscal 2019 from $1.36 billion &#32;to $1.22 billion , primarily due to an increase in the portion of customer incentive arrangements that are included in accounts receivable and a decrease in revenues, partially offset by the timing of integrated circuit shipments. QCT inventories increased by 3% &#32;in the 
+
+first six months of fiscal 2019 from $1.68 billion &#32;to $1.72 billion , primarily due to an increase in the overall quantity of units on hand. 
+
+QTL Segment 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+(in millions) 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Licensing revenues 
+
+$ 
+
+1,122 
+
+&#160; 
+
+$ 
+
+1,219 
+
+&#160; 
+
+$ 
+
+(97 
+
+) 
+
+&#160; 
+
+$ 
+
+2,141 
+
+&#160; 
+
+$ 
+
+2,485 
+
+&#160; 
+
+$ 
+
+(344 
+
+) 
+
+EBT 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(135 
+
+) 
+
+&#160; 
+
+$ 
+
+1,264 
+
+&#160; 
+
+$ 
+
+1,664 
+
+&#160; 
+
+$ 
+
+(400 
+
+) 
+
+EBT as a % of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(6 
+
+%) 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(8 
+
+%) 
+
+QTL results in the second &#32;quarter and first six months of fiscal 2019 &#32;reflected the adoption of the new accounting guidance that requires us to estimate and recognize QTL royalties in the period in which the associated sales occur, resulting in an acceleration of royalty revenues by one quarter as compared to fiscal 2018. Fiscal 2018 results have not been adjusted for the adoption of the new accounting guidance. 
+
+QTL results in the first six months of fiscal 2019 &#32;and 2018 &#32;were negatively impacted by our prior dispute with Apple and its contract manufacturers. Revenues in the first six months of fiscal 2019 and 2018 did not include royalties due on sales of Apple or other products by Apple&#8217;s contract manufacturers. In April 2019, we entered into settlement agreements with Apple and its contract manufacturers to dismiss all outstanding litigation between the parties. Further information is provided in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 12. Subsequent Event.&#8221; 
+
+&#32;&#32;QTL revenues in the second quarter and first six months of fiscal 2019 included $150 million and $300 million, respectively, of royalties due under an interim agreement with Huawei. These payments represent minimum, non-refundable amounts for royalties due while negotiations continue. These payments do not reflect the full amount of royalties due under the underlying license agreement. We did not record any revenues in the first six months of fiscal 2018 for royalties due on sales of Huawei&#8217;s products. 
+
+Second quarter 2019 vs. 2018 
+
+QTL licensing revenues in the second &#32;quarter of fiscal 2019 , which primarily related to royalties due on sales made by our licensees in the March 2019 quarter, decreased compared to licensing revenues in the second &#32;quarter of fiscal 2018, which primarily related to royalties due on sales made by our licensees in the December 2017 quarter, primarily due to: 
+
+- 
+
+$216 million in lower estimated revenues per unit compared to revenues per reported unit 
+
+- 
+
+$122 million decrease in estimated sales of CDMA-based products (including multi-mode products that also implement OFDMA) compared to reported sales of CDMA-based products 
+
++ 
+
+$150 million under an interim agreement with Huawei 
+
++ 
+
+$91 million increase in royalty revenues recognized related to devices sold in prior periods 
+
+QTL EBT as a percentage of revenues decreased in the second &#32;quarter of fiscal 2019 &#32;primarily due to: 
+
+- 
+
+higher research and development costs due to an increase in the amount of research and development expense allocated to QTL in fiscal 2019 
+
+- 
+
+lower QTL revenues 
+
++ 
+
+lower selling, general and administrative expenses, primarily from lower litigation costs 
+
+First six months 2019 vs. 2018 
+
+QTL licensing revenues in the first six months of fiscal 2019 , which primarily related to royalties due on sales made by our licensees in the December 2018 and March 2019 quarters, decreased compared to licensing revenues in the first six months of fiscal 2018, which primarily related to royalties due on sales made by our licensees in the September and December 2017 quarters, primarily due to: 
+
+- 
+
+$404 million in lower estimated revenues per unit compared to revenues per reported unit 
+
+- 
+
+$285 million decrease in estimated sales of CDMA-based products (including multi-mode products that also implement OFDMA) compared to reported sales of CDMA-based products 
+
++ 
+
+$300 million under an interim agreement with Huawei 
+
++ 
+
+$44 million increase in royalty revenues recognized related to devices sold in prior periods 
+
+QTL EBT as a percentage of revenues decreased in the first six months of fiscal 2019 &#32;primarily due to: 
+
+- 
+
+higher research and development costs due to an increase in the amount of research and development expense allocated to QTL in fiscal 2019 
+
+- 
+
+lower QTL revenues 
+
++ 
+
+lower selling, general and administrative expenses, primarily from lower bad debt expense and lower litigation costs 
+
+QTL accounts receivable increased by 63% &#32;in the first six months of fiscal 2019 from $1.47 billion &#32;to $2.41 billion , primarily due to the adoption of the new accounting guidance. 
+
+QSI Segment 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Six Months Ended 
+
+(in millions) 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+Change 
+
+Equipment and services revenues 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+EBT 
+
+&#160; 
+
+&#160; 
+
+(23 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(26 
+
+) 
+
+Second quarter 2019 vs. 2018 
+
+The decrease in QSI EBT in the second &#32;quarter of fiscal 2019 was primarily due to: 
+
+- 
+
+$49 million increase in impairment losses on investments, primarily related to an equity method investee 
+
+- 
+
+$36 million decrease in net gains on investments, primarily driven by a decrease in gains on non-marketable equity investments 
+
+- 
+
+$19 million increase in our share of equity method investee losses 
+
++ 
+
+$78 million increase resulting from higher revenues and lower costs associated with certain development contracts with an equity method investee 
+
+First six months 2019 vs. 2018 
+
+The decrease in QSI EBT in the first six months of fiscal 2019 was primarily due to: 
+
+- 
+
+$52 million increase in impairment losses on investments, primarily related to an equity method investee 
+
+- 
+
+$37 million decrease in net gains on investments, primarily driven by a decrease in gains on non-marketable equity investments 
+
+- 
+
+$20 million increase in our share of equity method investee losses 
+
++ 
+
+$82 million increase resulting from higher revenues and lower costs associated with certain development contracts with an equity method investee 
+
+Looking Forward 
+
+In the coming years, we expect consumer demand for 3G/4G multi-mode and 4G products and services to decline as new consumer demand for 3G/4G/5G multi-mode and 5G products and services ramp around the world. We expect growth in new device categories and industries, resulting from the expanding adoption of certain technologies that are already commonly used in smartphones by industry segments outside traditional cellular industries, such as automotive, IoT and networking. 
+
+As we look forward to the next several months and beyond, we expect our business to be impacted by the following key items: 
+
+&#8226; 
+
+On April 16, 2019, we entered into settlement agreements with Apple and its contract manufacturers to dismiss all outstanding litigation between the parties. We also entered into a six-year global patent license agreement with Apple, effective as of April 1, 2019, which includes an option for Apple to extend for two additional years, and a multi-year chipset supply agreement with Apple. While we continue to assess the accounting impacts of the agreements, we currently expect to record revenues of $4.5 billion to $4.7 billion in the third quarter of fiscal 2019 resulting from the settlement, consisting of a payment from Apple and the release of our obligations to pay or refund Apple and the contract manufacturers certain customer-related liabilities. In addition, we will begin recording royalty revenues in the third quarter of fiscal 2019 for sales made by Apple and its contract manufacturers on or after April 1, 2019. For the remainder of fiscal 2019, we expect operating expenses to increase primarily as a result of higher employee cash incentive program costs as a result of the settlement, partially offset by lower litigation costs. Further, we expect our engineering costs will increase over time to support the multi-year chipset supply agreement. 
+
+&#8226; 
+
+Regulatory authorities in certain jurisdictions continue to investigate our business practices and institute proceedings against us, including the lawsuit filed against us by the United States Federal Trade Commission (FTC), which trial took place in January 2019, and other regulatory authorities may do so in the future. Additionally, certain of our 
+
+direct and indirect customers and licensees have pursued, and others may in the future pursue, litigation or arbitration against us related to our business. Unfavorable resolutions of one or more of these matters have had and could in the future have a material adverse effect on our business, revenues, results of operations, financial condition and cash flows. Depending on the type of matter, various remedies that could result from an unfavorable resolution include, among others, the loss of our ability to enforce one or more of our patents; injunctions; monetary damages or fines or other orders to pay money; the issuance of orders to cease certain conduct or modify our business practices, such as requiring us to reduce our royalty rates, reduce the base on which our royalties are calculated, grant patent licenses to chipset manufacturers, or modify or renegotiate some or all of our existing license agreements; and determinations that some or all of our license agreements are invalid or unenforceable. These activities have required, and we expect that they will continue to require, the investment of significant management time and attention and have resulted, and we expect that they will continue to result, in increased legal costs until the respective matters are resolved. See &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies&#8221; and &#8220;Risk Factors&#8221; in this Quarterly Report, including the Risk Factors entitled &#8220;Efforts by some communications equipment manufacturers or their customers to avoid paying fair and reasonable royalties for the use of our intellectual property may require the investment of substantial management time and financial resources and may result in legal decisions or actions by governments, courts, regulators or agencies, Standards Development Organizations (SDOs) or other industry organizations that harm our business,&#8221; &#8220;Our business, particularly our licensing business, may suffer as a result of adverse rulings in government investigations or proceedings&#8221; and &#8220;Changes in our patent licensing practices, whether due to governmental investigations, private legal proceedings challenging those practices or otherwise, could adversely impact our business and results of operations.&#8221; 
+
+&#8226; 
+
+In the first quarter of fiscal 2019, we entered into a second interim agreement with Huawei in which Huawei agreed to make three quarterly payments of $150 million (for sales made in consecutive calendar quarters beginning with the quarter ended December 2018) as minimum, non-refundable payments for royalties due for sales of licensed products by Huawei during the relevant quarter while negotiations continue. We recognized $300 million of royalty revenues in the first six months of fiscal 2019 under the second interim agreement. These payments do not reflect the full amount of royalties due under the underlying license agreement. If we do not reach a final agreement with Huawei prior to the conclusion of the second interim agreement, Huawei may not make any other payments or may not make full payments under the underlying license agreement, which may result in significant legal costs, due to exercising the dispute resolution provision in the license agreement, and will negatively impact our future revenues, as well as our financial condition, results of operations and cash flows until the dispute is resolved. 
+
+&#8226; 
+
+We expect our business, particularly QCT, to continue to be impacted by industry dynamics, including: 
+
+&#8226; 
+
+Concentration of device share among a few companies within the premium tier, resulting in significant supply chain leverage for those companies, and exacerbating the negative impact to our business and financial results if any of those companies do not utilize our chipsets; 
+
+&#8226; 
+
+Decisions by companies to utilize their own internally-developed integrated circuit products and/or sell such products to others, including by bundling with other products; 
+
+&#8226; 
+
+Decisions by certain companies to utilize our competitors&#8217; integrated circuit products in all or a portion of their devices. For example, we have not been the sole supplier of modems for iPhone products beginning with products that launched in September 2016, as Apple utilizes modems from one of our competitors in a portion of such devices. Apple began solely using one or more of our competitors&#8217; modems, rather than our modems, in its 2018 iPhone release and is expected to do so in its upcoming 2019 iPhone release. As a result, QCT revenues from modem sales for iPhones have declined in the first six months of fiscal 2019. For new chipset models, QCT does not expect to begin recording revenues under our recently announced multi-year chipset agreement with Apple until the second half of fiscal 2020. Apple&#8217;s sourcing of integrated circuit products does not impact our licensing revenues since our licensing revenues from Apple products are not dependent upon whether such products include our chipsets; 
+
+&#8226; 
+
+Intense competition, particularly in China, as our competitors expand their product offerings and/or reduce the prices of their products as part of a strategy to attract new and/or retain existing customers; 
+
+&#8226; 
+
+Further lengthening of replacement cycles as smartphone penetration increases and consumer demand is increasingly driven by new product launches and/or innovation cycles; 
+
+&#8226; 
+
+Continued growth of device share by Chinese OEMs in China and in regions outside of China; and 
+
+&#8226; 
+
+Increasing consumer demand for 3G/4G smartphone products in emerging regions driven by availability of lower-tier 3G/4G devices, partially offset by lengthening replacement cycles in China. 
+
+&#8226; 
+
+Current U.S./China trade relations may negatively impact our business, growth prospects and results of operations. 
+
+&#8226; 
+
+We expect the ongoing rollout of 4G services in emerging regions will encourage competition and growth, bringing the benefits of 3G/4G LTE multi-mode to consumers. 
+
+&#8226; 
+
+Initial commercial 5G network deployments and device launches have begun and will continue in calendar 2019 and beyond. We believe that 5G technologies will empower a new era of smartphones and connected devices. We also believe that 5G will drive transformation across industries beyond traditional cellular communications that will create new business models and new services. We believe it is important that we remain a leader in 5G technology development, standardization, intellectual property creation and licensing of 5G technologies, and to be a leading developer and supplier of 5G integrated circuit products and services in order to sustain and grow our business long term. 
+
+&#8226; 
+
+We continue to invest significant resources to develop our wireless baseband chipsets, and our converged computing/communications (Snapdragon) chipsets, which incorporate technologies in the following areas, among others: advancements in 4G and 5G, OFDM-based Wi-Fi, RFFE, connectivity, power management, graphics, audio and video codecs, multimedia, artificial intelligence (AI) and virtual/augmented reality, and all of which contribute to the expansion of our intellectual property portfolio. We are also investing in targeted opportunities that leverage our existing technical and business expertise to deploy new business models and enter and/or expand into new industry segments and applications, such as products for automotive, IoT (including the connected home, smart cities, wearables, voice and music and robotics), networking, computing and AI, such as machine learning, among others. 
+
+In addition to the foregoing business and market-based matters, we continue to devote resources to working with and educating participants in the wireless value chain and governments as to the benefits of our licensing program and our extensive technology investments in promoting a highly competitive and innovative wireless industry. However, we expect that certain companies may continue to be dissatisfied with the need to pay reasonable royalties for the use of our technology and not welcome the success of our licensing program in enabling new, highly cost-effective competitors to their products. We expect that such companies, and/or governments or regulators, will continue to challenge our business model in various forums throughout the world. 
+
+Further discussion of risks related to our business is presented in the Risk Factors included in this Quarterly Report. 
+
+Liquidity and Capital Resources 
+
+Our principal sources of liquidity are our existing cash, cash equivalents and marketable securities, cash generated from operations, cash provided by our debt programs and proceeds from the issuance of common stock under our stock option and employee stock purchase plans. The following table presents selected financial information related to our liquidity as of March 31, 2019 &#32;and September 30, 2018 &#32;and for the first six months &#32;of fiscal 2019 &#32;and 2018 &#32;(in millions): 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+September 30, 2018 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Cash, cash equivalents and marketable securities 
+
+$ 
+
+10,366 
+
+&#160; 
+
+$ 
+
+12,123 
+
+&#160; 
+
+$ 
+
+(1,757 
+
+) 
+
+&#160; 
+
+(14 
+
+%) 
+
+Accounts receivable, net 
+
+3,638 
+
+&#160; 
+
+2,904 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Inventories 
+
+1,725 
+
+&#160; 
+
+1,693 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Short-term debt 
+
+&#160; 
+
+1,005 
+
+&#160; 
+
+(7 
+
+) 
+
+&#160; 
+
+(1 
+
+%) 
+
+Long-term debt 
+
+15,405 
+
+&#160; 
+
+15,365 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+Noncurrent income taxes payable 
+
+1,849 
+
+&#160; 
+
+2,312 
+
+&#160; 
+
+(463 
+
+) 
+
+&#160; 
+
+(20 
+
+%) 
+
+&#160; 
+
+Six Months Ended 
+
+&#160; 
+
+March 31, 2019 
+
+&#160; 
+
+March 25, 2018 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+Net cash provided by operating activities 
+
+$ 
+
+1,150 
+
+&#160; 
+
+$ 
+
+2,278 
+
+&#160; 
+
+$ 
+
+(1,128 
+
+) 
+
+&#160; 
+
+(50 
+
+%) 
+
+Net cash (used) provided by investing activities 
+
+(261 
+
+) 
+
+&#160; 
+
+1,481 
+
+&#160; 
+
+(1,742 
+
+) 
+
+&#160; 
+
+(118 
+
+%) 
+
+Net cash used by financing activities 
+
+(2,531 
+
+) 
+
+&#160; 
+
+(874 
+
+) 
+
+&#160; 
+
+(1,657 
+
+) 
+
+&#160; 
+
+% 
+
+The net decrease &#32;in cash, cash equivalents and marketable securities was primarily due to $1.5 billion &#32;in cash dividends paid, $1.0 billion &#32;in payments to repurchase shares of our common stock, $322 million &#32;in capital expenditures and $143 million &#32;in payments of tax withholdings related to the vesting of share-based awards, partially offset by net cash provided by operating activities. Total cash provided by operating activities decreased primarily due to lower revenues. Total cash provided by operating activities was also negatively impacted by actions taken by Apple and its contract manufacturers who did not report or pay royalties due on sales of Apple products in the first six months &#32;of fiscal 2019 &#32;and the first six months of fiscal 2018. 
+
+Our days sales outstanding, on a consolidated basis, increased &#32;to 67 &#32;at March 31, 2019 , as compared to 49 &#32;at September 30, 2018 . The increase in accounts receivable and the related days sales outstanding were primarily due to the adoption of the new revenue recognition accounting guidance in the first quarter of fiscal 2019. Inventories remained largely flat in the first six-months of fiscal 2019. 
+
+As a result of the agreements signed with Apple and its contract manufacturers in April 2019, we expect our liquidity to be positively impacted by the settlement payment due from Apple, royalties to be paid by Apple for sales made on or after April 1, 2019 and lower litigation costs, partially offset by higher employee cash incentive program costs as a result of the settlement. Further, we expect our engineering costs will increase over time to support the multi-year chipset supply agreement. 
+
+Debt. Our Revolving Credit Facility provides for unsecured revolving facility loans, swing line loans and letters of credit in the aggregate amount of up to $5.0 billion , of which $530 million &#32;and $4.47 billion &#32;will expire in February 2020 &#32;and November 2021 , respectively. At March 31, 2019 , no amounts were outstanding under the Revolving Credit Facility. 
+
+We have an unsecured commercial paper program, which provides for the issuance of up to $5.0 billion &#32;of commercial paper. Net proceeds from this program are used for general corporate purposes. At March 31, 2019 , we had $1.0 billion &#32;of commercial paper outstanding with a weighted-average interest rate of 2.74% &#32;and weighted-average remaining days to maturity of 29 days . 
+
+In May 2017 , we issued an aggregate principal amount of $11.0 billion &#32;in nine tranches of unsecured floating- and fixed-rate notes, of which $7.0 billion &#32;remains outstanding with maturity dates in 2023 &#32;through 2047 . Effective interest rates were between 2.70% &#32;and 4.47% &#32;at March 31, 2019 . Interest is payable in arrears quarterly for the floating-rate notes and semi-annually for the fixed-rate notes. 
+
+In May 2015, we issued an aggregate principal amount of $10.0 billion &#32;in eight tranches of unsecured floating- and fixed-rate notes, of which $8.5 billion &#32;remains outstanding with maturity dates in 2020 through 2045 . Effective interest rates were between 3.09% &#32;and 4.73% &#32;at March 31, 2019 . Interest is payable in arrears quarterly for the floating-rate notes and semi-annually for the fixed-rate notes. 
+
+We may issue additional debt in the future. The amount and timing of such additional borrowings will be subject to a number of factors, including acquisitions and strategic investments, acceptable interest rates and changes in corporate income tax law, among other factors. 
+
+Additional information regarding our outstanding debt at March 31, 2019 &#32;is provided in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 5. Debt.&#8221; 
+
+Income Taxes. &#32;Tax Legislation, which was signed into law during the first quarter of fiscal 2018, resulted in a $5.2 billion &#32;charge recognized in fiscal 2018 related to the Toll Charge. The first payment was made on January 15, 2019. At March 31, 2019, we estimated remaining future payments of $1.8 billion &#32;for the Toll Charge, after application of certain tax credits (including excess tax credits that are expected to be generated in fiscal 2019), which is payable in installments over the next seven years (8% in each of the next four years, 15% in year five, 20% in year six and 25% in year seven). 
+
+Additional information regarding our income taxes is provided in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 3. Income Taxes.&#8221; 
+
+Capital Return Program. In the fourth quarter of fiscal 2018, we announced a stock repurchase program authorizing us to repurchase up to $30 billion &#32;of our common stock. In fiscal 2018, we entered into three accelerated share repurchase agreements (ASR Agreements) to repurchase an aggregate of $16.0 billion &#32;of our common stock, with 178.4 million &#32;shares initially delivered to us under the ASR Agreements and retired. Pursuant to the terms of the ASR Agreements, the final number of shares and the average purchase price will be determined at the end of the applicable purchase periods, which are scheduled to occur in early September 2019 but may occur earlier in certain circumstances. In the first six months &#32;of fiscal 2019 , we repurchased and retired 16.8 million &#32;shares of our common stock for $1.0 billion , before commissions. At March 31, 2019 , $7.8 billion &#32;remained authorized for repurchase under the stock repurchase program. 
+
+Our stock repurchase program has significantly reduced and will continue to reduce the amount of cash that we have available to fund our operations including research and development, working capital, capital expenditures, acquisitions, investments, dividends and other corporate purposes; and increases our exposure to adverse economic, market, industry and competitive conditions and developments, and other changes in our business and our industry. This stock repurchase program has no expiration date. However, we periodically evaluate repurchases as a means of returning capital to stockholders to determine when and if repurchases are in the best interests of our stockholders and may accelerate, suspend, delay or discontinue repurchases at any time. 
+
+In the first six months &#32;of fiscal 2019 , we paid cash dividends totaling $1.5 billion , or $1.24 &#32;per share. We intend to continue to use cash dividends as a means of returning capital to stockholders, subject to capital availability and our view that cash dividends are in the best interests of our stockholders, among other factors. 
+
+Additional Capital Requirements. We believe our cash, cash equivalents and marketable securities, our expected cash flow generated from operations and our expected financing activities will satisfy our working and other capital requirements for at least the next 12 months based on our current business plans. Recent and expected working and other capital requirements, in addition to the above matters, also include the items described below. 
+
+&#8226; 
+
+Our purchase obligations at March 31, 2019 , some of which relate to research and development activities and capital expenditures, totaled $2.9 billion &#32;and $637 million &#32;for fiscal 2019 and 2020, respectively, and $487 million &#32;thereafter. 
+
+&#8226; 
+
+Our research and development expenditures were $2.6 billion &#32;in the first six months &#32;of fiscal 2019 &#32;and $5.6 billion &#32;in fiscal 2018, and we expect to continue to invest heavily in research and development for new technologies, applications and services for voice and data communications. 
+
+&#8226; 
+
+Cash outflows for capital expenditures were $322 million &#32;in the first six months &#32;of fiscal 2019 &#32;and $784 million &#32;in fiscal 2018. We expect to continue to incur capital expenditures in the future to support our business, including research and development activities. 
+
+&#8226; 
+
+The EC imposed a fine on us, of which $1.1 billion &#32;was accrued at March 31, 2019 (based on the exchange rate at March 31, 2019 , including related foreign currency gains and accrued interest). In the third quarter of 2018, we provided financial guarantees in lieu of cash payment to satisfy the obligation while we appeal the EU&#8217;s decision. The fine is accruing interest at a rate of 1.50% per annum while it is outstanding. 
+
+&#8226; 
+
+Beginning on August 4, 2019, for a period of 60 days, we have the option to acquire (and the minority owner has the option to sell) the minority ownership interest in the RF360 Holdings joint venture for $1.15 billion, and we expect one of such options to be exercised during this period. &#32;At March 31, 2019 &#32;and September 30, 2018 , the accreted value of such amount was included in other current liabilities. &#32; 
+
+&#8226; 
+
+We expect to continue making strategic investments and acquisitions, the amounts of which could vary significantly, to open new opportunities for our technologies, obtain development resources, grow our patent portfolio or pursue new businesses. 
+
+Further, regulatory authorities in certain jurisdictions continue to investigate our business practices and institute proceedings against us, including the lawsuit filed against us by the United States Federal Trade Commission (FTC), which trial took place in January 2019, and other regulatory authorities may do so in the future. Additionally, certain of our direct and indirect customers and licensees, have pursued, and others may in the future pursue, litigation or arbitration against us related to our business. Unfavorable resolutions of one or more of these matters have had and could in the future have a material adverse effect on our business, revenues, results of operations, financial condition and cash flows. See &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies&#8221; and &#8220;Risk Factors&#8221; in this Quarterly Report. 
+
+Contractual Obligations/Off-Balance Sheet Arrangements 
+
+We have no significant contractual obligations not fully recorded on our consolidated balance sheets or fully disclosed in the notes to our condensed consolidated financial statements. We have no material off-balance sheet arrangements as defined in Regulation S-K 303(a)(4)(ii). 
+
+Additional information regarding our financial commitments at March 31, 2019 &#32;is provided in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 3. Income Taxes,&#8221; &#8220;Note 5. Debt&#8221; and &#8220;Note 6. Commitments and Contingencies.&#8221; 
+
+Critical Accounting Estimates 
+
+Revenue Recognition. As a result of the adoption of ASC 606, we revised our critical accounting estimates beginning in fiscal 2019 as follows. 
+
+We derive revenues principally from sales of integrated circuit products and licensing of our intellectual property. We grant licenses or otherwise provide rights to use portions of our intellectual property portfolio, which, among other rights, includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products. Licensees pay royalties based on their sales of products incorporating or using our licensed intellectual property and may also pay a fixed license fee in one or more installments. Sales-based royalties are generally based upon a percentage of the wholesale (i.e., licensee&#8217;s) selling price of complete licensed products, net of certain permissible deductions (including transportation, insurance, packing costs and other items). We broadly provide per unit royalty caps that apply to certain categories of complete wireless devices, namely smartphones, tablets and laptops, which in general, effectively provide for a maximum royalty amount per device. We estimate and recognize sales-based royalties on such licensed products in the period in which the associated sales occur, subject to certain constraints on our ability to estimate such royalties. Our estimates of sales-based royalties are based largely on an assessment of the volume of devices supplied into the market that incorporate or use our licensed intellectual property. We estimate sales-based royalties taking into consideration the mix of such sales on a licensee-by-licensee basis, as well as the licensees&#8217; average wholesale prices of such products, and considers all information (historical, current and forecasted) that is reasonably available to us. Our licensees, however, do not report and pay royalties owed for sales in any given quarter until after the conclusion of that quarter, which is generally the following quarter. &#32; As a result of recognizing revenues in the period in which the licensees&#8217; sales occur using estimates, adjustments to revenues are required in subsequent periods to reflect changes in estimates as new information becomes available, primarily resulting from actual amounts reported by our licensees. 
+
+From time to time, companies initiate various strategies to attempt to renegotiate, reduce and/or eliminate their need to pay royalties to us for the use of our intellectual property. Certain licensees have disputed, underreported, underpaid, not reported and/or not paid royalties owed to us under their license agreements with us or reported to us in a manner that is not in compliance with their contractual obligations, and such licensees may continue to do so in the future. In such cases, we estimate and recognize licensing revenues only when we have a contract, as defined in ASC 606, and to the extent it is probable that a significant reversal of cumulative revenues recognized will not occur. We analyze the risk of a significant revenue reversal considering both the likelihood and magnitude of the reversal and, if necessary, constrain the amount of estimated revenues recognized in order to mitigate this risk, which may result in recognizing revenues less than amounts contractually owed to us. 
+
+Recent Accounting Pronouncements 
+
+Information regarding recent accounting pronouncements and the impact of those pronouncements on our consolidated financial statements is provided in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 1. Basis of Presentation and Significant Accounting Policies Update.&#8221; 
+
+Risk Factors 
+
+You should consider each of the following factors in evaluating our business and our prospects. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not presently known to us or that we currently consider immaterial may also negatively impact our business and results of operations and require significant management time and attention. In that case, the trading price of our common stock could decline. You should also consider the other information set forth in this Quarterly Report in evaluating our business and our prospects, including but not limited to our financial statements and the related notes, and &#8220;Part I, Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.&#8221; References to &#8220;and&#8221; and &#8220;or&#8221; should be read to include the other as well as &#8220;and/or,&#8221; as appropriate. 
+
+Risks Related to Our Businesses 
+
+Our revenues depend on commercial network deployments, expansions and upgrades of CDMA, OFDMA and other communications technologies, including 5G; our customers&#8217; and licensees&#8217; sales of products and services based on these technologies; and customers&#8217; demand for our products and services. 
+
+We develop, patent and commercialize technology and products based on CDMA, OFDMA and other communications technologies, which are primarily wireless. We depend on operators of wireless networks and our customers and licensees to adopt and implement the latest generation of these technologies for use in their networks, devices and services. We also depend on our customers and licensees to develop devices and services based on these technologies with value-added features 
+
+to drive consumer demand for new 3G/4G and 3G/4G/5G multi-mode devices, as well as 3G, 4G and 5G single-mode devices , and to establish the selling prices for such devices. Further, we depend on the timing of our customers&#8217; and licensees&#8217; deployments of new devices and services based on these technologies. Increasingly, we also depend on operators of wireless networks, our customers and licensees and other third parties to incorporate these technologies into new device types and into industries and applications beyond traditional cellular communications, such as automotive, IoT (including the connected home, smart cities, wearables, voice and music and robotics), networking, computing and artificial intelligence (AI), such as machine learning, among others. 
+
+We have historically been successful during wireless technology transitions. The next generation of wireless technologies is 5G, which we expect will empower a new era of connected devices and will be utilized not only in handsets but in new device types, industries and applications beyond traditional cellular communications. Initial commercial deployments of 5G networks and devices have begun and will continue in 2019 and beyond. We believe it is important that we be a leader in 5G technology development, standardization, intellectual property creation and licensing, and that we develop, commercialize and be a leading supplier of 5G integrated circuit products and services, in order to sustain and grow our business long-term. 
+
+Our revenues and growth in revenues could be negatively impacted, our business may be harmed and our substantial investments in these technologies may not provide us an adequate return, if: 
+
+&#8226; 
+
+wireless operators and industries beyond traditional cellular communications deploy alternative technologies; 
+
+&#8226; 
+
+wireless operators delay next-generation network deployments, expansions or upgrades or delay moving customers to 3G/4G and 3G/4G/5G multi-mode devices, as well as 3G, 4G and 5G single-mode devices ; 
+
+&#8226; 
+
+LTE, an OFDMA-based wireless technology, is not more widely deployed or further commercial deployment is delayed; 
+
+&#8226; 
+
+government regulators delay making sufficient spectrum available for 3G, 4G and 5G wireless technologies, including unlicensed spectrum and shared spectrum technologies, thereby restricting the ability of wireless operators to deploy or expand the use of these technologies; 
+
+&#8226; 
+
+wireless operators delay or do not drive improvements in 3G, 4G or 3G/4G multi-mode network performance and capacity; 
+
+&#8226; 
+
+our customers&#8217; and licensees&#8217; revenues and sales of products, particularly premium-tier products, and services using these technologies, and average selling prices (ASPs) of such products, decline, do not grow or do not grow as anticipated due to, for example, the maturity of smartphone penetration in developed regions; 
+
+&#8226; 
+
+our intellectual property and technical leadership included in the 5G standardization effort is different than in 3G and 4G standards; 
+
+&#8226; 
+
+the standardization and deployment of 5G technologies is delayed; 
+
+&#8226; 
+
+we are unable to drive the adoption of our products and services into networks and devices, including devices beyond traditional cellular applications, based on CDMA, OFDMA and other communications technologies; or 
+
+&#8226; 
+
+consumers&#8217; rates of replacement of smartphones and other computing devices decline, do not grow or do not grow as anticipated. 
+
+Our industry is subject to competition in an environment of rapid technological change that could result in decreased demand or declining average selling prices for our products or those of our customers or licensees. 
+
+Our products, services and technologies face significant competition. We expect competition to increase as our current competitors expand their product offerings or reduce the prices of their products as part of a strategy to attract new business and customers, as new opportunities develop, and as new competitors enter the industry. Competition in wireless communications is affected by various factors that include, among others: device manufacturer concentrations; vertical integration; growth in demand, consumption and competition in certain geographic regions; government intervention or support of national industries or competitors; evolving industry standards and business models; evolving methods of transmission of voice and data communications; increasing data traffic and densification of wireless networks; convergence and aggregation of connectivity technologies (including Wi-Fi and LTE) in both devices and access points; consolidation of wireless technologies and infrastructure at the network edge; networking and connectivity trends (including cloud services); use of licensed, shared and unlicensed spectrum; the evolving nature of computing (including demand for always on, always connected capabilities); the speed of technological change (including the transition to smaller geometry process technologies); value-added features that drive selling prices and consumer demand for new 3G/4G and 3G/4G/5G multi-mode devices, as well as 3G, 4G and 5G single-mode devices ; turnkey, integrated products that incorporate hardware, software, user interface, applications and reference designs; scalability; and the ability of the system technology to meet customers&#8217; immediate and future network requirements. We anticipate that additional competitors will introduce products as a result of growth opportunities in wireless communications, the trend toward global expansion by foreign and domestic competitors, technological and public policy changes and relatively low barriers to entry in certain segments of the industry. 
+
+Additionally, the semiconductor industry has experienced and may continue to experience consolidation, which could result in significant changes to the competitive landscape. 
+
+We expect that our future success will depend on, among other factors, our ability to: 
+
+&#8226; 
+
+differentiate our integrated circuit products with innovative technologies across multiple products and features (e.g., modem, radio frequency front-end (RFFE), graphics and other processors, camera and connectivity) and with smaller geometry process technologies that drive performance; 
+
+&#8226; 
+
+develop and offer integrated circuit products at competitive cost and price points to effectively cover both emerging and developed geographic regions and all device tiers; 
+
+&#8226; 
+
+drive the adoption of our integrated circuit products into the most popular device models and across a broad spectrum of devices, such as smartphones, tablets, laptops and other computing devices, automobiles, wearables and voice and music and other connected devices and infrastructure products; 
+
+&#8226; 
+
+maintain or accelerate demand for our integrated circuit products at the premium device tier, while increasing the adoption of our products in mid- and low-tier devices, in part by strengthening our integrated circuit product roadmap for, and developing channel relationships in, emerging regions, such as China and India, and by providing turnkey products, which incorporate our integrated circuits, for low- and mid-tier smartphones, tablets and laptops; 
+
+&#8226; 
+
+continue to be a leader in 4G and 5G technology evolution, including expansion of our LTE-based single-mode licensing program in areas where single-mode products are commercialized, and continue to innovate and introduce 4G and 5G turnkey, integrated products and services that differentiate us from our competition; 
+
+&#8226; 
+
+be a leader in 5G technology development, standardization, intellectual property creation and licensing, and develop, commercialize and be a leading supplier of 5G integrated circuit products and services; 
+
+&#8226; 
+
+increase or accelerate demand for our semiconductor component products, including RFFE, and our wired and wireless connectivity products, including networking products for consumers, carriers and enterprise equipment and connected devices; 
+
+&#8226; 
+
+become a leading supplier of RFFE products, which are designed to address cellular radio frequency band fragmentation while improving radio frequency performance and assist original equipment manufacturers in developing multiband, multi-mode mobile devices; 
+
+&#8226; 
+
+create standalone value and contribute to the success of our existing businesses through acquisitions, joint ventures and other transactions, and by developing customer, licensee, vendor, distributor and other channel relationships in new industry segments and with disruptive technologies, products and services, such as products for automotive, IoT (including the connected home, smart cities, wearables, voice and music and robotics), networking, computing and AI, such as machine learning, among others; 
+
+&#8226; 
+
+be a leader serving original equipment manufacturers, high level operating systems (HLOS) providers, operators, cloud providers and other industry participants as competitors, new industry entrants and other factors continue to affect the industry landscape; 
+
+&#8226; 
+
+be a preferred partner and sustain preferred relationships providing integrated circuit products that support multiple operating system and infrastructure platforms to industry participants that effectively commercialize new devices using these platforms; 
+
+&#8226; 
+
+identify potential acquisition targets that will grow or sustain our business or address strategic needs, reach agreement on terms acceptable to us, close the transactions and effectively integrate these new businesses, products and technologies; and 
+
+&#8226; 
+
+continue to develop brand recognition to effectively compete against better known companies in computing and other consumer driven segments and to deepen our presence in significant emerging regions. 
+
+Competition in any or all product tiers may result in the loss of certain business or customers, which would negatively impact our revenues, results of operations and cash flows. Such competition may also reduce average selling prices for our chipset products or the products of our customers and licensees. Certain of these dynamics are particularly pronounced in emerging regions where competitors may have lower cost structures or may have a willingness and ability to accept lower prices and lower or negative margins on their products (particularly in China). Reductions in the average selling prices of our chipset products, without a corresponding increase in volumes, would negatively impact our revenues, and without corresponding decreases in average unit costs, would negatively impact our margins. In addition, reductions in the average selling prices of our licensees&#8217; products, unless offset by an increase in volumes, would generally decrease total royalties payable to us, negatively impacting our licensing revenues. 
+
+We compete with many different semiconductor companies, ranging from multinational companies with integrated research and development, manufacturing, sales and marketing organizations across a broad spectrum of product lines, to companies that are focused on a single application market segment or standard product, including those that produce products for automotive, IoT and networking applications. Most of these competitors compete with us with respect to some, but not 
+
+all, of our businesses. Companies that promote standards that are neither CDMA- nor OFDMA-based (e.g., GSM) as well as companies that design integrated circuits based on CDMA, OFDMA, Wi-Fi or their derivatives are generally competitors or potential competitors. Examples (some of which are strategic partners of ours in other areas) include Actions (Zhuhai) Technology Co., LTD, Advanced Micro Devices, Inc., Altair Engineering, Inc., Ambarella, Inc., AMLogic Co., Inc., Broadcom Inc., Cypress Semiconductor Corporation, Fuzhou Rockchip Electronics Co., LTD., HiSilicon Technologies, Intel, Marvell Technology, MediaTek, Murata Manufacturing Co., Ltd., Nvidia, NXP Semiconductors N.V., Qorvo Inc., Renesas Electronics Corporation, Samsung Electronics, Skyworks Solutions Inc., Spreadtrum Communications (which is controlled by Tsinghua Unigroup), STMicroelectronics International N.V., Texas Instruments Incorporated and Quantenna Communications, Inc. Some of these current and potential competitors may have advantages over us that include, among others: motivation by our customers in certain circumstances to use our competitors&#8217; integrated circuit products, to utilize their own internally-developed integrated circuit products or sell such products to others, including by bundling with other products, or to choose alternative technologies; lower cost structures or a willingness and ability to accept lower prices and lower or negative margins for their products, particularly in China; foreign government support of other technologies or competitors or original equipment manufacturers (OEMs) that sell devices that do not contain our chipsets; better known brand names; ownership and control of manufacturing facilities and greater expertise in manufacturing processes; more extensive relationships with local distribution companies and OEMs in certain geographic regions (such as China); more experience in adjacent industry segments outside traditional cellular industries (such as automotive, IoT and computing); and a more established presence in certain regions. 
+
+We derive a significant portion of our consolidated revenues from a small number of customers and licensees, which increasingly includes a small number of Chinese OEMs. If revenues derived from these customers or licensees decrease or the timing of such revenues fluctuates, our business and results of operations could be negatively affected. 
+
+Our QCT segment derives a significant portion of its revenues from a small number of customers, and we expect this trend to continue in the foreseeable future. Our industry is experiencing and may continue to experience concentration of device share among a few companies, particularly at the premium tier, contributing to this trend. Chinese OEMs continue to grow their device share in China and are increasing their device share in regions outside of China, and we derive a significant and increasing portion of our revenues from a small number of these OEMs. 
+
+In addition, certain of our largest integrated circuit customers develop their own integrated circuit products, which they have in the past chosen to utilize in certain of their devices and may in the future choose to utilize in certain (or all) of their devices, rather than our products (and may sell their integrated circuit products to third parties in competition with us). Also, Apple, which has historically been one of our largest customers, now utilizes products of one of our competitors in many of their devices rather than our products, is solely utilizing one or more of our competitor&#8217;s products in its most recent smartphone launch and may continue to use our competitors&#8217; products, and may develop and utilize their own modem products, rather than our products in their future devices. 
+
+The loss of any one of our significant customers, a reduction in the purchases of our products by such customers or the cancelation of significant purchases by any of these customers, whether due to the use of their own integrated circuit products, our competitors&#8217; integrated circuit products or otherwise, would reduce our revenues and could harm our ability to achieve or sustain expected results of operations, and a delay of significant purchases, even if only temporary, would reduce our revenues in the period of the delay. Any such reduction in revenues would also impact our cash resources available for other purposes, such as research and development. Further, the concentration of device share among a few companies, and the corresponding purchasing power of these companies, may result in lower prices for our products which, if not accompanied by a sufficient increase in the volume of purchases of our products, could have an adverse effect on our revenues and margins. In addition, the timing and size of purchases by our significant customers may be impacted by the timing of such customers&#8217; new or next generation product introductions, over which we have no control, and the timing and success of such introductions may cause our revenues and results of operations to fluctuate. Accordingly, if current industry dynamics and concentrations continue, our QCT segment&#8217;s revenues will continue to depend largely upon, and be impacted by, future purchases, and the timing and size of any such future purchases, by these significant customers. 
+
+Further, to the extent Apple purchases our modem products, it purchases our Mobile Data Modem (MDM) products, which do not include our integrated application processor technology, and which have lower revenue and margin contributions than our combined modem and application processor products. To the extent Apple takes device share from our customers who purchase our integrated modem and application processor products, our revenues and margins may be negatively impacted. 
+
+Further, companies that develop HLOS for devices, including leading technology companies, now sell their own devices. If we fail to effectively partner or continue partnering with these companies, or with their partners or customers, they may 
+
+decide not to purchase (either directly or through their contract manufacturers), or to reduce or discontinue their purchases of, our integrated circuit products. 
+
+In addition, there has been and continues to be litigation among certain of our customers and other industry participants, and the potential outcomes of such litigation, including but not limited to injunctions against devices that incorporate our products or intellectual property, and rulings on certain patent law or patent licensing issues that create new legal precedent, could impact our business, particularly if such action impacts one of our larger customers. 
+
+Although we have more than 300 licensees, our QTL segment derives a significant portion of its revenues from a limited number of licensees, which increasingly includes a small number of Chinese OEMs. In the event that one or more of our significant licensees fail to meet their reporting and payment obligations, or we are unable to renew or modify one or more of such license agreements, including standard-essential patent only license agreements, under similar terms, our revenues, results of operations and cash flows would be adversely impacted. Moreover, the future growth and success of our core licensing business will depend in part on the ability of our licensees to develop, introduce and deliver high-volume products that achieve and sustain customer acceptance. We have no control over the product development, sales efforts or pricing of products by our licensees, and our licensees might not be successful. Reductions in the average selling prices of wireless devices sold by our licensees, without a sufficient increase in the volumes of such devices sold, would generally have an adverse effect on our licensing revenues. Such adverse impact may be mitigated by the per unit royalty caps that apply to certain categories of complete wireless devices, namely smartphones, tablets and laptops. 
+
+We derive a significant portion of our consolidated revenues from the premium-tier device segment. If sales of premium-tier devices decrease, or sales of our premium-tier integrated circuit products decrease, our results of operations could be negatively affected. 
+
+We derive a significant portion of our revenues from the premium-tier device segment, and we expect this trend to continue in the foreseeable future. We have experienced, and expect to continue to experience, slowing growth in the premium-tier device segment due to, among other factors, lengthening replacement cycles in developed regions, where premium-tier smartphones are common; increasing consumer demand in emerging regions, particularly China and India, where premium-tier smartphones are less common and replacement cycles are on average longer than in developed regions and are continuing to lengthen; and a maturing premium-tier smartphone industry in which demand is increasingly driven by new product launches and innovation cycles. 
+
+In addition, as discussed in the prior risk factor, our industry is experiencing concentration of device share at the premium tier among a few companies, which gives them significant supply chain leverage. Further, those companies may utilize their own internally-developed integrated circuit products, or our competitors&#8217; integrated circuit products, rather than our products in all or a portion of their devices. These dynamics may result in lower prices for or reduced sales of our premium-tier integrated circuit products. 
+
+A reduction in sales of premium-tier devices, or a reduction in sales of our premium-tier integrated circuit products (which have a higher revenue and margin contribution than our lower-tier integrated circuit products), may reduce our revenues and margins and may harm our ability to achieve or sustain expected financial results. Any such reduction in revenues would also impact our cash resources available for other purposes, such as research and development. 
+
+Efforts by some communications equipment manufacturers or their customers to avoid paying fair and reasonable royalties for the use of our intellectual property may require the investment of substantial management time and financial resources and may result in legal decisions or actions by governments, courts, regulators or agencies, Standards Development Organizations (SDOs) or other industry organizations that harm our business. 
+
+From time to time, companies initiate various strategies to attempt to renegotiate, reduce or eliminate their need to pay royalties to us for the use of our intellectual property. These strategies have included: (i) litigation, often alleging infringement of patents held by such companies, patent misuse, patent exhaustion, patent invalidity or unenforceability of our patents or licenses, that we do not license our patents on fair, reasonable and nondiscriminatory (FRAND) terms, or some form of unfair competition or competition law violation; (ii) taking positions contrary to our understanding of their contracts with us; (iii) appeals to governmental authorities; (iv) collective action, including working with wireless operators, standards bodies, other like-minded companies and other organizations, on both formal and informal bases, to adopt intellectual property policies and practices that could have the effect of limiting returns on intellectual property innovations; (v) lobbying governmental regulators and elected officials for the purpose of seeking the reduction of royalty rates or the base on which royalties are calculated, of seeking to impose some form of compulsory licensing or of weakening a patent holder&#8217;s ability to enforce its rights or obtain a fair return for such rights; and (vi) licensees using various strategies to attempt to shift their royalty obligation to their suppliers that results in lowering the wholesale (i.e., licensee&#8217;s) selling price on which the royalty is calculated. 
+
+In addition, certain licensees have disputed, underreported, underpaid, not reported or not paid royalties owed to us under their license agreements or reported to us in a manner that is not in compliance with their contractual obligations, and certain companies have yet to enter into or have delayed entering into or renewing license agreements with us for their use of our intellectual property, and licensees and companies may continue to do so in the future. The fact that one or more licensees dispute, underreport, underpay, do not report or do not pay royalties owed to us may encourage other licensees to take similar actions and may encourage other licensees or unlicensed companies to delay entering into, or not enter into, new license agreements. Further, to the extent such licensees and companies increase their device share, the negative impact of their underreporting, underpayment, non-payment or non-reporting on our business, revenues, results of operations, financial condition and cash flows will be exacerbated. 
+
+We are currently subject to various litigation and governmental investigations and proceedings, including the lawsuit filed against us by the United States Federal Trade Commission (FTC), which trial took place in January 2019, some of which have arisen and may continue to arise out of the strategies described above. Certain legal matters are described more fully in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies.&#8221; Additionally, certain of our direct and indirect customers and licensees have pursued, and others may in the future pursue, litigation or arbitration against us related to our business. Unfavorable resolutions of one or more of these matters have had and could in the future have a material adverse effect on our business, revenues, results of operations, financial condition and cash flows. Depending on the type of matter, various remedies that could result from an unfavorable resolution include, among others, the loss of our ability to enforce one or more of our patents; injunctions; monetary damages or fines or other orders to pay money; the issuance of orders to cease certain conduct or modify our business practices, such as requiring us to reduce our royalty rates, reduce the base on which our royalties are calculated, grant patent licenses to chipset manufacturers, or modify or renegotiate some or all of our existing license agreements; and determinations that some or all of our license agreements are invalid or unenforceable. If some or all of our license agreements are declared invalid or unenforceable and we are required to renegotiate these license agreements, or if as part of a settlement we agree to renegotiate certain of our license agreements, we may not receive, or may not be able to recognize, any licensing or royalty revenues on the impacted license agreements unless and until we enter into new license agreements; and even licensees whose license agreements are not impacted may demand to renegotiate their agreements or invoke the dispute resolution provision in their agreements, and we may not be able to recognize some or any licensing or royalty revenues on such agreements. The renegotiation of new license agreements could lead to arbitration or litigation to resolve the licensing terms (which could be less favorable to us than existing terms), each of which could take several months or possibly years. Licensees may underreport, underpay, not report or not pay royalties owed to us pending the conclusion of such negotiations, arbitration or litigation. In addition to these issues concerning future licensing and royalty revenues, we may be sued for alleged overpayments of past royalties paid to us, including private antitrust actions seeking treble damages under U.S. antitrust laws. Such events could result in a materially negative impact on our financial condition, in which case we would have to significantly cut costs and other uses of cash, including in research and development, significantly impairing our ability to maintain product and technology leadership and invest in next generation technologies such as 5G. Further, depending on the breadth and severity of the circumstances above, we may have to reduce or eliminate our capital return programs, and our ability to timely pay our indebtedness may be impacted. If these events occur, our financial outlook and stock price would decline, possibly significantly. Further, a governmental body in a particular country or region may assert, and may be successful in imposing, remedies with effects that extend beyond the borders of that country or region. These activities have required, and we expect that they will continue to require, the investment of significant management time and attention and have resulted, and we expect that they will continue to result, in increased legal costs until the respective matters are resolved. 
+
+In addition, in connection with our participation in SDOs, we, like other patent owners, generally have made contractual commitments to such organizations to license those of our patents that would necessarily be infringed by standard-compliant products as set forth in those commitments. Some manufacturers and users of standard-compliant products advance interpretations of these commitments that are adverse to our licensing business, including interpretations that would limit the amount of royalties that we could collect on the licensing of our patent portfolio. 
+
+Further, some companies or entities have proposed significant changes to existing intellectual property policies for implementation by SDOs and other industry organizations with the goal of significantly devaluing standard-essential patents. For example, some have put forth proposals which would require a maximum aggregate intellectual property royalty rate for the use of all standard-essential patents owned by all of the member companies to be applied to the selling price of any product implementing the relevant standard. They have further proposed that such maximum aggregate royalty rate be apportioned to each member company with standard-essential patents based upon the number of standard-essential patents held by such company. Others have proposed that injunctions not be an available remedy for infringement of standard-essential patents and have made proposals that could severely limit damage awards and other remedies by courts for patent 
+
+infringement (e.g., by severely limiting the base upon which the royalty percentage may be applied). A number of these strategies are purportedly based on interpretations of the policies of certain SDOs concerning the licensing of patents that are or may be essential to industry standards and on our (or other companies&#8217;) alleged failure to abide by these policies. Some SDOs, courts and governmental agencies have adopted and may in the future adopt some or all of these interpretations or proposals in a manner adverse to our interests, including in litigation to which we may not be a party. 
+
+We expect that such proposals, interpretations and strategies will continue in the future, and if successful, our business model would be harmed, either by limiting or eliminating our ability to collect royalties (or by reducing the royalties we can collect) on all or a portion of our patent portfolio, limiting our return on investment with respect to new technologies, limiting our ability to seek injunctions against infringers of our standard-essential patents, constraining our ability to make licensing commitments when submitting our technology for inclusion in future standards (which could make our technology less likely to be included in such standards) or forcing us to work outside of SDOs or other industry groups to promote our new technologies, and our revenues, results of operations and cash flows could be negatively impacted. In addition, the legal and other costs associated with asserting or defending our positions have been and continue to be significant. We assume that such challenges, regardless of their merits, will continue into the foreseeable future and will require the investment of substantial management time and financial resources. 
+
+Our business, particularly our licensing business, may suffer as a result of adverse rulings in government investigations or proceedings. 
+
+We are currently subject to various governmental investigations and proceedings, particularly with respect to our licensing business, including the lawsuit filed against us by the United States Federal Trade Commission (FTC), which trial took place in January 2019, and certain such matters are described more fully in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies.&#8221; Key allegations in those matters include, among others, that we do not license our cellular standard-essential patents separately from our other patents, that we violate FRAND licensing commitments by refusing to grant licenses to chipset makers, that our royalty rates are too high, that the base on which our royalties are calculated should be something less than the wholesale (i.e., licensee&#8217;s) selling price of the applicable device (minus certain permitted deductions), that we unlawfully require customers to execute a patent license before we sell them cellular modem chipsets, that we have entered into exclusive agreements with chipset customers that foreclose competition, and that we violate antitrust laws, engage in anticompetitive conduct and unfair methods of competition. Unfavorable resolutions of one or more of these matters have had and could in the future have a material adverse effect on our business, revenues, results of operations, financial condition and cash flows. Depending on the type of matter, various remedies that could result from an unfavorable resolution include, among others, the loss of our ability to enforce one or more of our patents; injunctions; monetary damages or fines or other orders to pay money; the issuance of orders to cease certain conduct or modify our business practices, such as requiring us to reduce our royalty rates, reduce the base on which our royalties are calculated, grant patent licenses to chipset manufacturers, or modify or renegotiate some or all of our existing license agreements; and determinations that some or all of our license agreements are invalid or unenforceable. If some or all of our license agreements are declared invalid or unenforceable and we are required to renegotiate these license agreements, or if as part of a settlement we agree to renegotiate certain of our license agreements, we may not receive, or may not be able to recognize, any licensing or royalty revenues on the impacted license agreements unless and until we enter into new license agreements; and even licensees whose license agreements are not impacted may demand to renegotiate their agreements or invoke the dispute resolution provision in their agreements, and we may not be able to recognize some or any licensing or royalty revenues on such agreements. The renegotiation of new license agreements could lead to arbitration or litigation to resolve the licensing terms (which could be less favorable to us than existing terms), each of which could take several months or possibly years. Licensees may underreport, underpay, not report or not pay royalties owed to us pending the conclusion of such negotiations, arbitration or litigation. In addition to these issues concerning future licensing and royalty revenues, we may be sued for alleged overpayments of past royalties paid to us, including private antitrust actions seeking treble damages under U.S. antitrust laws. Such events could result in a materially negative impact on our financial condition, in which case we would have to significantly cut costs and other uses of cash, including in research and development, significantly impairing our ability to maintain product and technology leadership and invest in next generation technologies such as 5G. Further, depending on the breadth and severity of the circumstances above, we may have to reduce or eliminate our capital return programs, and our ability to timely pay our indebtedness may be impacted. If these events occur, our financial outlook and stock price would decline, possibly significantly. Further, a governmental body in a particular country or region may assert, and may be successful in imposing, remedies with effects that extend beyond the borders of that country or region. These activities have required, and we expect that they will continue to require, the investment of significant management time and attention and have resulted, and we expect that they will continue to result, in increased legal costs until the respective matters are resolved. 
+
+Changes in our patent licensing practices, whether due to &#160; governmental investigations, private legal proceedings challenging those practices or otherwise, could adversely impact our business and results of operations. 
+
+We are currently subject to various governmental investigations and proceedings and private legal proceedings challenging our patent licensing and chipset sales practices, including the lawsuit filed against us by the United States Federal Trade Commission (FTC),which trial took place in January 2019, as described more fully in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies.&#8221; Key allegations in those matters include, among others, that we do not license our cellular standard-essential patents separately from our other patents, that we violate FRAND licensing commitments by refusing to grant licenses to chipset makers, that our royalty rates are too high, that the base on which our royalties are calculated should be something less than the wholesale (i.e., licensee&#8217;s) selling price of the applicable device (minus certain permitted deductions), that we unlawfully require customers to execute a patent license before we sell them cellular modem chipsets, that we have entered into exclusive agreements with chipset customers that foreclose competition, and that we violate antitrust laws, engage in anticompetitive conduct and unfair methods of competition. We believe that one intent of these investigations and legal proceedings is to reduce the amount of royalties that licensees are required to pay to us for their use of our intellectual property. 
+
+We have historically licensed our cellular standard-essential patents together with our other patents that may be useful to licensed products because licensees typically have desired to obtain the commercial benefits of receiving such broad patent rights from us. However, we also have licensed only our cellular standard-essential patents to certain licensees who have requested such licenses. In addition, in connection with our resolution with the China National Development and Reform Commission (NDRC), our standard practice in China since 2015 is to offer licenses to our 3G and 4G standard-essential Chinese patents for devices sold for use in China separately from our other patents. 
+
+In addition, we offer licenses to only our cellular standard-essential patents (including 3G, 4G and 5G) for both single mode and multi-mode devices worldwide. A number of our licensees have entered into standard-essential patent only agreements on a worldwide basis, and we expect more of our licensees will do so in the future. Our royalty rates for licenses to only our cellular standard-essential patents are lower than our royalty rates for licenses to substantially all of our patent portfolio. If more licensees choose a license to only our cellular standard-essential patents instead of a portfolio license than has historically been the case, our licensing revenues and earnings would be negatively impacted unless we were able to license our other patents at rates that offset all or a portion of any difference between the royalties previously received for licenses of substantially all of our patent portfolio as compared to licenses of only our cellular standard-essential patents or there was a sufficient increase in the overall volume of sales of devices upon which royalties are paid. 
+
+If we were required to grant patent licenses to chipset manufacturers (i.e., to implement a more complex, tiered licensing structure in which we license certain portions of our patent portfolio to chipset manufacturers and other portions to device manufacturers), we would incur additional transaction costs, which may be significant, and we could incur delays in recognizing revenues until license negotiations were completed. In addition, our licensing revenues and earnings would be negatively impacted if we were not able to obtain, in the aggregate, equivalent revenues under such a multi-level licensing structure. 
+
+If we were required to reduce the royalty rates we charge under our patent license agreements, our revenues, earnings and cash flows would be negatively impacted absent a sufficient increase in the volume of sales of devices upon which royalties are paid. Similarly, if we were required to reduce the base on which our royalties are calculated, our revenues, results of operations and cash flows would be negatively impacted unless there was a sufficient increase in the volume of sales of devices upon which royalties are paid or we were able to increase our royalty rates to offset the decrease in revenues resulting from such lower royalty base (assuming the absolute royalty dollars were below any relevant royalty caps). 
+
+To the extent that we were required to implement any of these new licensing practices by modifying or renegotiating our existing license agreements, we would incur additional transaction costs, which may be significant, and we could incur delays in recognizing revenues until license negotiations were completed. The impact of any such changes to our licensing practices could vary widely and by jurisdiction, depending on the specific outcomes and the geographic scope of such outcomes. In addition, if we were required to make modifications to our licensing practices in one jurisdiction, licensees or governmental agencies in other jurisdictions may attempt to obtain similar outcomes for themselves or for such other jurisdictions, as applicable. 
+
+The enforcement and protection of our intellectual property rights may be expensive, could fail to prevent misappropriation or unauthorized use of our intellectual property rights, could result in the loss of our ability to enforce one or more patents, and could be adversely affected by changes in patent laws, by laws in certain foreign jurisdictions that may not effectively protect our intellectual property rights and by ineffective enforcement of laws in such jurisdictions. 
+
+We rely primarily on patent, copyright, trademark and trade secret laws, as well as nondisclosure and confidentiality agreements, international treaties and other methods, to protect our proprietary information, technologies and processes, including our patent portfolio. Policing unauthorized use of our products, technologies and proprietary information is difficult and time consuming. The steps we have taken have not always prevented, and we cannot be certain the steps we will take in the future will prevent, the misappropriation or unauthorized use of our proprietary information and technologies, particularly in foreign countries where the laws may not protect our proprietary intellectual property rights as fully or as readily as U.S. laws or where the enforcement of such laws may be lacking or ineffective. Some industry participants who have a vested interest in devaluing patents in general, or standard-essential patents in particular, have mounted attacks on certain patent systems, increasing the likelihood of changes to established patent laws. In the United States, there is continued discussion regarding potential patent law changes and current and potential future litigation regarding patents, the outcomes of which could be detrimental to our licensing business. The laws in certain foreign countries in which our products are or may be manufactured or sold, including certain countries in Asia, may not protect our intellectual property rights to the same extent as the laws in the United States. We expect that the European Union will adopt a unitary patent system in the next few years that may broadly impact that region&#8217;s patent regime. We cannot predict with certainty the long-term effects of any potential changes. In addition, we cannot be certain that the laws and policies of any country or the practices of any standards bodies, foreign or domestic, with respect to intellectual property enforcement or licensing or the adoption of standards, will not be changed in the future in a way detrimental to our licensing program or to the sale or use of our products or technologies. 
+
+We have had, and may in the future have, difficulty in certain circumstances in protecting or enforcing our intellectual property rights and contracts, including collecting royalties for use of our patent portfolio due to, among others: refusal by certain licensees to report and pay all or a portion of the royalties they owe to us; policies of foreign governments; challenges to our licensing practices under competition laws; adoption of mandatory licensing provisions by foreign jurisdictions (either with controlled/regulated royalties or royalty free); failure of foreign courts to recognize and enforce judgments of contract breach and damages issued by courts in the United States; and challenges before competition agencies to our licensing business and the pricing and integration of additional features and functionality into our chipset products. Certain licensees have disputed, underreported, underpaid, not reported and not paid royalties owed to us under their license agreements with us or reported to us in a manner that is not in compliance with their contractual obligations, and certain companies have yet to enter into or have delayed entering into or renewing license agreements for their use of our intellectual property, and such licensees and companies may continue to do so in the future. The fact that one or more licensees dispute, underreport, underpay, do not report and do not pay royalties owed to us may encourage other licensees to take similar actions and may encourage other licensees or unlicensed companies to delay entering into, or not enter into, new license agreements. Additionally, although our license agreements provide us with the right to audit the books and records of licensees, audits can be expensive, time consuming, incomplete and subject to dispute. Further, certain licensees may not comply with the obligation to provide full access to their books and records. To the extent we do not aggressively enforce our rights under our license agreements, licensees may not comply with their existing license agreements, and to the extent we do not aggressively pursue unlicensed companies to enter into license agreements with us for their use of our intellectual property, other unlicensed companies may not enter into license agreements. Similarly, we provide access to certain of our intellectual property and proprietary and confidential business information to our direct and indirect customers and licensees, who may wrongfully use such intellectual property and information or wrongfully disclose such intellectual property and information to third parties, including our competitors. 
+
+We have engaged in litigation and arbitration in the past and may need to further litigate or arbitrate in the future to enforce our contract and intellectual property rights, protect our trade secrets or determine the validity and scope of proprietary rights of others. We are currently engaged in litigation matters related to protecting or enforcing our contract and intellectual property rights, and certain such matters are described more fully in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies.&#8221; As a result of any such litigation or arbitration, we could lose our ability to enforce one or more patents, portions of our license agreements could be determined to be invalid or unenforceable (which may in turn result in other licensees either not complying with their existing license agreements or initiating litigation) and we could incur substantial costs. Any action we take to enforce our contract or intellectual property rights could be costly and could absorb significant management time and attention, which, in turn, could negatively impact our results of operations and cash flows. Further, even a positive resolution to our enforcement efforts may take time to conclude, which may reduce our revenues and cash resources available for other purposes, such as research and development, in the periods prior to conclusion. 
+
+Our growth increasingly depends on our ability to extend our technologies, products and services into new and expanded product areas, such as RFFE, and adjacent industry segments and applications outside of traditional cellular industries, such as automotive, IoT and networking, among others. Our research, development and other investments in these new and expanded product areas, industry segments and applications, and related technologies, products and services, as well 
+
+as in our existing technologies, products and services and new technologies, such as 5G, may not generate operating income or contribute to future results of operations that meet our expectations. 
+
+Our industry is subject to rapid technological change, evolving industry standards and frequent new product introductions, and we must make substantial research, development and other investments, such as acquisitions, in new products, services and technologies to compete successfully. Technological innovations generally require significant research and development efforts before they are commercially viable. While we continue to invest significant resources toward advancements primarily in support of 4G- and 5G-based technologies, we also invest in new and expanded products, and adjacent industry segments and applications by leveraging our existing technical and business expertise and through acquisitions. 
+
+In particular, our future growth significantly depends on new and expanded product areas, such as RFFE, and adjacent industry segments and applications outside of traditional cellular industries, such as automotive, IoT (including the connected home, smart cities, wearables, voice and music and robotics), networking, computing and AI, such as machine learning, among others; our ability to develop leading and cost-effective technologies, products and services for new and expanded product areas, adjacent industry segments and applications; and third parties incorporating our technology, products and services into devices used in these product areas, industry segments and applications. Accordingly, we intend to continue to make substantial investments in these new and expanded product areas and adjacent industry segments and applications, and in developing new products, services and technologies for these product areas, industry segments and applications. 
+
+Our growth also depends significantly on our ability to develop 5G technologies, and to develop and commercialize products using 5G technologies. 
+
+However, our research, development and other investments in these new and expanded product areas and adjacent industry segments and applications, and corresponding technologies, products and services, as well as in our existing, technologies, products and services and new technologies, such as 5G, use of licensed, shared and unlicensed spectrum and convergence of cellular and Wi-Fi, may not succeed due to, among other reasons: new industry segments, applications and consumer demand may not develop or grow as anticipated; our strategies or the strategies of our customers, licensees or partners may not be successful; improvements in alternate technologies in ways that reduce the advantages we anticipate from our investments; competitors&#8217; technologies, products or services being more cost effective, having more capabilities or fewer limitations or being brought to market faster than our new technologies, products and services; and competitors having longer operating histories in industry segments that are new to us. We may also underestimate the costs of or overestimate the future revenues or margins that could result from these investments, and these investments may not, or may take many years to, generate material returns. Further, the automotive industry is subject to long design-in time frames, long product life cycles and a high degree of regulatory and safety requirements, necessitating suppliers to the industry to comply with stringent qualification processes, very low defect rates and high reliability standards, all of which results in a significant barrier to entry and increased costs. 
+
+If our new technologies, products and services are not successful, or are not successful in the time frame we anticipate, we may incur significant costs and asset impairments, our business may not grow as anticipated, our revenues and margins may be negatively impacted, and our reputation may be harmed. 
+
+There are numerous risks associated with our operation and control of the manufacturing facilities of our joint venture with TDK, RF360 Holdings, including a higher portion of fixed costs relative to a fabless model, environmental compliance and liability, exposure to natural disasters, timely supply of equipment and materials and manufacturing difficulties. 
+
+Manufacturing facilities are characterized by a higher portion of fixed costs relative to a fabless model. We may be faced with a decline in the utilization rates of our manufacturing facilities due to decreases in demand for our products, including in less favorable industry environments. During such periods, our manufacturing facilities could operate at lower capacity levels, while the fixed costs associated with full capacity continue to be incurred, resulting in lower gross profit. 
+
+We are subject to many environmental, health and safety laws and regulations in each jurisdiction in which we operate our manufacturing facilities, which govern, among other things, emissions of pollutants into the air, wastewater discharges, the use and handling of hazardous substances, waste disposal, the investigation and remediation of soil and ground water contamination and the health and safety of our employees. We are also required to obtain and maintain environmental permits from governmental authorities for certain of our operations. We cannot make assurances that we will be at all times in compliance with such laws, regulations and permits. Certain environmental laws impose strict, and in certain circumstances, joint and several, liability on current or previous owners or operators of real property for the cost of investigation, removal or remediation of hazardous substances. Certain of these laws also assess liability on persons who arrange for hazardous substances to be sent to disposal or treatment facilities when such facilities are found to be contaminated. In addition, we 
+
+could also be held liable for consequences arising out of human exposure to hazardous substances or other environmental damage. 
+
+We have manufacturing facilities in Asia and Europe. If tsunamis, flooding, earthquakes, volcanic eruptions or other natural disasters, or geopolitical conflicts, were to damage, destroy or disrupt our manufacturing facilities, it could disrupt our operations, delay new production and shipments of inventory and result in costly repairs, replacements or other costs. In addition, natural disasters or geopolitical conflicts may result in disruptions in transportation, distribution channels and supply chains, and significant increases in the prices of raw materials. 
+
+Our manufacturing operations depend on securing raw materials and other supplies in adequate quality and quantity in a timely manner from multiple suppliers, and in some cases, we rely on a limited number of suppliers, particularly in Asia. Accordingly, there may be cases where supplies of raw materials and other products are interrupted by disaster, accident or some other event at a supplier, supply is suspended due to quality or other issues, or there is a shortage of supply due to a rapid increase in demand, which could impact production and prevent us from supplying products to our customers. If the supply-demand balance is disrupted, it may considerably increase costs of manufacturing due to increased prices we pay for raw materials or fuel. From time to time, suppliers may extend lead times, limit the amounts supplied to us or increase prices due to capacity constraints or other factors. Additionally, supply of and costs of raw materials may be negatively impacted by trade protection policies such as tariffs, or escalating trade tensions, particularly with countries in Asia. Further, it may be difficult or impossible to substitute one piece of equipment for another or replace one type of material with another. A failure by our suppliers to deliver our requirements could result in disruptions to our manufacturing operations. 
+
+Our manufacturing processes are highly complex, require advanced and costly equipment and must be continuously modified to improve yields and performance. Difficulties in the production process can reduce yields or interrupt production, and as a result, we may not be able to deliver products or do so in a timely, cost-effective or competitive manner. Further, to remain competitive and meet customer demand, we may be required to improve our facilities and process technologies and carry out extensive research and development, each of which may require investment of significant amounts of capital and may have a material adverse effect on our results of operations, financial condition and cash flows. 
+
+The continued and future success of our licensing programs requires us to continue to evolve our patent portfolio, and our licensing programs may be impacted by the proliferation of devices in new industry segments such as automotive and IoT, as well as the need to extend license agreements that are expiring or to cover additional future patents. 
+
+We own a very strong portfolio of issued and pending patents related to 3G, 4G, 5G and other technologies. It is critical that we continue to evolve our patent portfolio, particularly in 5G. If we do not maintain a strong portfolio that is applicable to current and future standards, products and services, particularly 5G, our future licensing revenues could be negatively impacted. 
+
+&#32;In addition, new connectivity and other services are emerging that rely on devices that may or may not be used on traditional cellular networks, such as devices used in the IoT and automotive industry segments. We also seek to diversify and broaden our technology licensing programs to new industry segments in which we can utilize our technology leadership. Standards, even de facto standards, that develop as these technologies mature, in particular those that do not include a base level of interoperability, may impact our ability to obtain royalties at all or that are equivalent to those that we receive for products used in cellular communications. Although we believe that our patented technologies are essential and useful to the commercialization of such services, any royalties we receive may be lower than those we receive from our current licensing program. 
+
+Further, the licenses granted to and from us under a number of our license agreements include only patents that are either filed or issued prior to a certain date. As a result, there are agreements with some licensees where later patents are not licensed by or to us. Additionally, many of our license agreements (including essentially all of our agreements in China and our recent worldwide standard-essential patent only agreements) are effective for a specified term. In order to license or to obtain a license to such later patents or after the expiration of the specified term, and to receive royalties after the specified term, we will need to extend or modify such license agreements or enter into new license agreements with such licensees. Accordingly, to the extent not renewed on their terms or by election for an additional (generally multi-year) period, if applicable, we will need to extend or modify such license agreements or enter into new license agreements with such licensees more frequently than we have done historically. We might not be able to extend or modify those license agreements, or enter into new license agreements, in the future without affecting the material terms and conditions of our license agreements with such licensees, and such modifications or new agreements may negatively impact our revenues. If there is a delay in extending, modifying or entering into a new license agreement with a licensee, there would be a delay in our ability to recognize revenues related to that licensee&#8217;s product sales. Further, if we are unable to reach agreement on such modifications or new agreements, it could result in patent infringement litigation with such companies. 
+
+We depend on a limited number of third-party suppliers for the procurement, manufacture and testing of our products manufactured in a fabless production model. If we fail to execute supply strategies that provide technology leadership, supply assurance and low cost, our business and results of operations may be harmed. We are also subject to order and shipment uncertainties that could negatively impact our results of operations. 
+
+Our QCT segment primarily utilizes a fabless production model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Other than the manufacturing facilities we operate through our RF360 Holdings joint venture, we rely on independent third-party suppliers to perform the manufacturing and assembly, and most of the testing, of our integrated circuits. Our suppliers are also responsible for the procurement of most of the raw materials used in the production of our integrated circuits. We employ both turnkey and two-stage manufacturing models to purchase our integrated circuits. Under the turnkey model, our foundry suppliers are responsible for delivering fully assembled and tested integrated circuits. Under the two-stage manufacturing model, we purchase die in singular or wafer form from semiconductor manufacturing foundries and contract with separate third-party suppliers for manufacturing services such as wafer bump, probe, assembly and the majority of our final test requirements. The semiconductor manufacturing foundries that supply products to our QCT segment are primarily located in Asia, as are our primary warehouses where we store finished goods for fulfillment of customer orders. The following could have an adverse effect on our ability to meet customer demands and negatively impact our revenues, business operations, profitability and cash flows: 
+
+&#8226; 
+
+a reduction, interruption, delay or limitation in our product supply sources; 
+
+&#8226; 
+
+a failure by our suppliers to procure raw materials or to provide or allocate adequate manufacturing or test capacity for our products; 
+
+&#8226; 
+
+our suppliers&#8217; inability to react to shifts in product demand or an increase in raw material or component prices; 
+
+&#8226; 
+
+our suppliers&#8217; delay in developing leading process technologies, or inability to develop or maintain leading process technologies, including transitions to smaller geometry process technologies; 
+
+&#8226; 
+
+the loss of a supplier or the inability of a supplier to meet performance, quality or yield specifications or delivery schedules; 
+
+&#8226; 
+
+additional expense or production delays as a result of qualifying a new supplier and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; and 
+
+&#8226; 
+
+natural disasters or geopolitical conflicts impacting our suppliers. 
+
+Additionally, supply of and costs of raw materials may be negatively impacted by trade protection policies such as tariffs, or escalating trade tensions, particularly with countries in Asia. While we have established alternate suppliers for certain technologies, we rely on sole- or limited-source suppliers for certain products, subjecting us to significant risks, including: possible shortages of raw materials or manufacturing capacity; poor product performance; and reduced control over delivery schedules, manufacturing capability and yields, quality assurance, quantity and costs. To the extent we have established alternate suppliers, these suppliers may require significant levels of support to bring complex technologies to production. As a result, we may invest a significant amount of effort and resources and incur higher costs to support and maintain such alternate suppliers. Further, any future consolidation of foundry suppliers could increase our vulnerability to sole- or limited-source arrangements and reduce our suppliers&#8217; willingness to negotiate pricing, which could negatively impact our ability to achieve cost reductions and could increase our manufacturing costs. Our arrangements with our suppliers may obligate us to incur costs to manufacture and test our products that do not decrease at the same rate as decreases in pricing to our customers. Our ability, and that of our suppliers, to develop or maintain leading process technologies, including transitions to smaller geometry process technologies, and to effectively compete with the manufacturing processes and performance of our competitors, could impact our ability to introduce new products and meet customer demand, could increase our costs (possibly decreasing our margins) and could subject us to the risk of excess inventories. Any of the above could negatively impact our business, our results of operations and cash flows. 
+
+Although we have long-term contracts with our suppliers, many of these contracts do not provide for long-term capacity commitments. To the extent we do not have firm commitments from our suppliers over a specific time period or for any specific quantity, our suppliers may allocate, and in the past have allocated, capacity to the production and testing of products for their other customers while reducing or limiting capacity to manufacture or test our products. Accordingly, capacity for our products may not be available when we need it or at reasonable prices. To the extent we do obtain long-term capacity commitments, we may incur additional costs related to those commitments or make non-refundable payments for capacity commitments that are not used. 
+
+Our suppliers or potential alternate suppliers may manufacture CDMA- or OFDMA-based integrated circuits that compete with our products. Such suppliers could elect to allocate raw materials and manufacturing capacity to their own products and reduce or limit deliveries to us to our detriment. 
+
+In addition, we may not receive reasonable pricing, manufacturing or delivery terms from our suppliers. We cannot guarantee that the actions of our suppliers will not cause disruptions in our operations that could harm our ability to meet our delivery obligations to our customers or increase our cost of sales. To the extent we are unable to obtain adequate supply, we may be obligated to make payment to our customers for such shortfalls. 
+
+Additionally, we place orders with our suppliers using our and our customers&#8217; forecasts of customer demand, which are based on a number of assumptions and estimates. As we move to smaller geometry process technologies, the manufacturing lead-time increases. As a result, the orders we place with our suppliers are generally only partially covered by commitments from our customers. If we, or our customers, overestimate customer demand that is not under a binding commitment from our customer, we may experience increased excess or obsolete inventory, which would negatively impact our results of operations. 
+
+Claims by other companies that we infringe their intellectual property could adversely affect our business. 
+
+From time to time, companies have asserted, and may again assert, patent, copyright and other intellectual property rights against our products or products using our technologies or other technologies used in our industry. These claims have resulted and may again result in our involvement in litigation. We may not prevail in such litigation given, among other factors, the complex technical issues and inherent uncertainties in intellectual property litigation. If any of our products or services were found to infringe another company&#8217;s intellectual property rights, we could be subject to an injunction or be required to redesign our products or services, which could be costly, or to license such rights or pay damages or other compensation to such other company. If we are unable to redesign our products or services, license such intellectual property rights used in our products or services or otherwise distribute our products (e.g., through a licensed supplier), we could be prohibited from making and selling such products or providing such services. In any potential dispute involving other companies&#8217; patents or other intellectual property, our chipset foundries, semiconductor assembly and test providers and customers could also become the targets of litigation. We are contingently liable under certain product sales, services, license and other agreements to indemnify certain customers, chipset foundries and semiconductor assembly and test service providers against certain types of liability and damages arising from qualifying claims of patent infringement by products or services sold or provided by us, or by intellectual property provided by us to our chipset foundries and semiconductor assembly and test service providers. Reimbursements under indemnification arrangements could have an adverse effect on our results of operations and cash flows. Furthermore, any such litigation could severely disrupt the supply of our products and the businesses of our chipset customers and their customers, which in turn could hurt our relationships with them and could result in a decline in our chipset sales or reductions in our licensees&#8217; sales, causing a corresponding decline in our chipset or licensing revenues. Any claims, regardless of their merit, could be time consuming to address, result in costly litigation, divert the efforts of our technical and management personnel or cause product release or shipment delays, any of which could have an adverse effect on our results of operations and cash flows. 
+
+We expect that we may continue to be involved in litigation and may have to appear in front of administrative bodies (such as the United States International Trade Commission) to defend against patent assertions against our products by companies, some of whom are attempting to gain competitive advantage or leverage in licensing negotiations. We may not be successful in such proceedings, and if we are not, the range of possible outcomes is very broad and may include, for example, monetary damages or fines or other orders to pay money, royalty payments, injunctions on the sale of certain of our integrated circuit products (or on the sale of our customers&#8217; devices using such products) or the issuance of orders to cease certain conduct or modify our business practices. Further, a governmental body in a particular country or region may assert, and may be successful in imposing, remedies with effects that extend beyond the borders of that country or region. In addition, a negative outcome in any such proceeding could severely disrupt the business of our chipset customers and their wireless operator customers, which in turn could harm our relationships with them and could result in a decline in our worldwide chipset sales or a reduction in our licensees&#8217; sales to wireless operators, causing corresponding declines in our chipset or licensing revenues. 
+
+Certain legal matters, which may include certain claims by other companies that we infringe their intellectual property, are described more fully in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies.&#8221; 
+
+We may engage in strategic acquisitions, transactions or make investments, or be unable to consummate planned strategic acquisitions, which could adversely affect our results of operations or fail to enhance stockholder value. 
+
+We engage in strategic acquisitions and other transactions, including joint ventures, and make investments, which we believe are important to the future of our business, with the goal of maximizing stockholder value. We acquire businesses and other assets, including patents, technology, wireless spectrum and other intangible assets, enter into joint ventures or other strategic transactions and purchase minority equity interests in or make loans to companies that may be private and early- 
+
+stage. Our strategic activities are generally focused on opening or expanding opportunities for our products and technologies and supporting the design and introduction of new products and services (or enhancing existing products or services) for voice and data communications and new industry segments. Recent material transactions include our RF360 Holdings joint venture with TDK Corporation. Many of our strategic activities entail a high degree of risk and require the use of significant amounts of capital, and investments may not become liquid for several years after the date of the investment, if at all. Our strategic activities may not generate financial returns or result in increased adoption or continued use of our technologies, products or services. We may underestimate the costs or overestimate the benefits, including product, revenue, cost and other synergies and growth opportunities that we expect to realize, and we may not achieve those benefits. In some cases, we may be required to consolidate or record our share of the earnings or losses of companies in which we have acquired ownership interests. In addition, we may record impairment charges related to our strategic activities. Any losses or impairment charges that we incur related to strategic activities will have a negative impact on our financial condition and results of operations, and we may continue to incur new or additional losses related to strategic assets or investments that we have not fully impaired or exited. 
+
+Achieving the anticipated benefits of business acquisitions, including joint ventures and other strategic investments in which we have management and operational control, depends in part upon our ability to integrate the businesses in an efficient and effective manner and achieve anticipated synergies, and we may not be successful in these efforts. Such integration is complex and time consuming and involves significant challenges, including, among others: retaining key employees; successfully integrating new employees, technology, products, processes, operations (including manufacturing operations), sales and distribution channels, business models and business systems; retaining customers and suppliers of the businesses; consolidating research and development and supply operations; minimizing the diversion of management&#8217;s attention from ongoing business matters; consolidating corporate and administrative infrastructures; and managing the increased scale, complexity and globalization of our business, operations and employee base. We may not derive any commercial value from associated technologies or products or from future technologies or products based on these technologies, and we may be subject to liabilities that are not covered by indemnification protection that we may obtain, and we may become subject to litigation. Additionally, we may not be successful in entering or expanding into new sales or distribution channels, business or operational models (including manufacturing), geographic regions, industry segments or categories of products served by or adjacent to the associated businesses or in addressing potential new opportunities that may arise out of the combination. 
+
+If we do not achieve the anticipated benefits of business acquisitions or other strategic activities, our business and results of operations may be adversely affected, and we may not enhance stockholder value by engaging in these transactions. 
+
+In fiscal 2018, we terminated our proposed acquisition of NXP because the acquisition had not been approved by the State Administration for Market Regulation (SAMR) in China by the date specified in the acquisition agreement. As a result, we will not realize the anticipated benefits of that acquisition. In addition, future acquisitions may now be more difficult, complex or expensive to the extent that our reputation for our ability to consummate acquisitions has been harmed. Further, if U.S./China trade relations remain strained, our ability to consummate any transaction that would require approval from SAMR may be severely impacted. 
+
+We are subject to various laws, regulations, policies and standards. Our business may suffer as a result of existing, or new or amended, laws, regulations, policies or standards or our failure or inability to comply with laws, regulations, policies or standards. 
+
+Our business, products and services, and those of our customers and licensees, are subject to various laws and regulations globally, as well as government policies and the specifications of international, national and regional communications standards bodies. Compliance with existing laws, regulations, policies and standards, the adoption of new laws, regulations, policies or standards, changes in the interpretation of existing laws, regulations, policies or standards, changes in the regulation of our activities by a government or standards body or rulings in court, regulatory, administrative or other proceedings relating to such laws, regulations, policies or standards, including, among others, those affecting licensing practices, competitive business practices, the use of our technology or products, protection of intellectual property, trade and trade protection including tariffs, foreign currency, investments or loans, spectrum availability and license issuance, adoption of standards, the provision of device subsidies by wireless operators to their customers, taxation, export control, privacy and data protection, environmental protection, health and safety, labor and employment, human rights, corporate governance, public disclosure or business conduct, could have an adverse effect on our business and results of operations. 
+
+Government policies, particularly in China, that regulate the amount and timing of funds that may flow out of a country have impacted and may continue to impact the timing of our receipt of payments from our customers and licensees in such country, which may negatively impact our cash flows. 
+
+Delays in government approvals or other governmental activities that could result from, among others, a decrease in or a lack of funding for certain agencies or branches of the government or political changes, could result in our incurring higher costs, could negatively impact our ability to timely consummate strategic transactions and could have other negative impacts on our business and the businesses of our customers and licensees. 
+
+National, state and local environmental laws and regulations affect our operations around the world. These laws may make it more expensive to manufacture, have manufactured and sell products, and our costs could increase if our vendors (e.g., suppliers, third-party manufacturers or utility companies) pass on their costs to us. The imposition of tariffs on raw materials or our products could have a negative impact on our revenues and results of operations. We are also subject to laws and regulations impacting the manufacturing operations of our RF360 Holdings joint venture. See the Risk Factor entitled &#8220;There are numerous risks associated with our operation and control of the manufacturing facilities of our joint venture with TDK, RF360 Holdings, including a higher portion of fixed costs relative to a fabless model, environmental compliance and liability, exposure to natural disasters, timely supply of equipment and materials and manufacturing difficulties.&#8221; 
+
+Regulations in the United States require that we determine whether certain materials used in our products, referred to as conflict minerals, originated in the Democratic Republic of the Congo or an adjoining country (collectively, the Covered Countries), or were from recycled or scrap sources. Other countries and regions are imposing similar regulations, which may require us to undertake additional verification and reporting, including regarding countries in addition to the Covered Countries and minerals in addition to conflict minerals. The verification and reporting requirements, in addition to customer demands for conflict free sourcing, impose additional costs on us and on our suppliers and may limit the sources or increase the prices of materials used in our products. Further, if we are unable to determine that the conflict minerals used in our products do not directly or indirectly finance or benefit armed groups in the Covered Countries, we may face challenges with our customers that place us at a competitive disadvantage, and our reputation may be harmed. Similarly, other laws and regulations have been adopted or proposed that require additional transparency regarding the employment practices of our suppliers, and any failure to maintain responsible sourcing practices could also adversely affect our relationships with customers and our reputation. 
+
+Laws, regulations, policies and standards are complex and changing and may create uncertainty regarding compliance. Laws, regulations, policies and standards are subject to varying interpretations in many cases, and their application in practice may evolve over time. As a result, our efforts to comply may fail, particularly if there is ambiguity as to how they should be applied in practice. Failure to comply with any law, regulation, policy or standard may adversely affect our business, results of operations and cash flows. New laws, regulations, policies and standards or evolving interpretations of legal requirements may cause us to incur higher costs as we revise current practices, policies or procedures and may divert management time and attention to compliance activities. 
+
+Our use of open source software may harm our business. 
+
+Certain of our software and our suppliers&#8217; software may contain or may be derived from &#8220;open source&#8221; software, and we have seen, and believe we will continue to see, an increase in customers requesting that we develop products, including software associated with our integrated circuit products, that incorporate open source software elements and operate in an open source environment, which, under certain open source licenses, may offer accessibility to a portion of a product&#8217;s source code and may expose related intellectual property to adverse licensing conditions. Licensing of such software may impose certain obligations on us if we were to distribute derivative works of the open source software. For example, these obligations may require us to make source code for the derivative works available to our customers in a manner that allows them to make such source code available to their customers or license such derivative works under a particular type of license that is different than what we customarily use to license our software. Furthermore, in the course of product development, we may make contributions to third party open source projects that could obligate our intellectual property to adverse licensing conditions. For example, to encourage the growth of a software ecosystem that is interoperable with our products, we may need to contribute certain implementations under the open source licensing terms that govern such projects, which may adversely impact certain of our associated intellectual property. Developing open source products, while adequately protecting the intellectual property rights upon which our licensing business depends, may prove burdensome and time-consuming under certain circumstances, thereby placing us at a competitive disadvantage, and we may not adequately protect our intellectual property rights. Also, our use and our customers&#8217; use of open source software may subject our products and our customers&#8217; products to governmental scrutiny and delays in product certification, which could cause customers to view our products as less desirable than our competitors&#8217; products. While we believe we have taken appropriate steps and employ adequate controls to protect our intellectual property rights, our contributions to and use of open source software presents risks that could have an adverse effect on these rights and on our business. 
+
+Our stock price, earnings and the fair value of our investments are subject to substantial quarterly and annual fluctuations and to market downturns. 
+
+Our stock price and earnings have fluctuated in the past and are likely to fluctuate in the future. Factors that may have a significant impact on the market price of our stock and earnings include those identified throughout this Risk Factors section; volatility of the stock market in general and technology-based companies in particular; announcements concerning us, our suppliers, our competitors or our customers or licensees; and variations between our actual financial results or guidance and expectations of securities analysts or investors, among others. Further, increased volatility in the financial markets and overall economic conditions may reduce the amounts that we realize in the future on our cash equivalents and marketable securities and may reduce our earnings as a result of any reductions in the fair values of marketable securities. 
+
+In the past, securities class action litigation has been brought against companies following periods of volatility in the market price of their securities. Due to changes in our stock price, we are and may in the future be the target of securities litigation. Securities litigation could result in substantial uninsured costs and divert management&#8217;s attention and our resources. Certain legal matters, including certain securities litigation brought against us, are described more fully in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 6. Commitments and Contingencies.&#8221; 
+
+There are risks associated with our indebtedness and our significant stock repurchase program. 
+
+Our outstanding indebtedness and any additional indebtedness we incur may have negative consequences on our business, including, among others: 
+
+&#8226; 
+
+requiring us to use cash to pay the principal of and interest on our indebtedness, thereby reducing the amount of cash available for other purposes; 
+
+&#8226; 
+
+limiting our ability to obtain additional financing for working capital, capital expenditures, acquisitions, stock repurchases, dividends or other general corporate and other purposes; 
+
+&#8226; 
+
+limiting our flexibility in planning for, or reacting to, changes in our business and our industry; and 
+
+&#8226; 
+
+increasing our vulnerability to interest rate fluctuations to the extent a portion of our debt has variable interest rates. 
+
+Our ability to make payments of principal and interest on our indebtedness depends upon our future performance, which is subject to general economic conditions, industry cycles and financial, business and other factors, including factors which negatively impact our cash flows, such as licensees withholding some or all of the royalty payments they owe to us or our paying fines or modifying our business practices in connection with regulatory investigations, many of which are beyond our control. If we are unable to generate sufficient cash flow from operations in the future to service our debt, we may be required to, among other things: refinance or restructure all or a portion of our indebtedness; reduce or delay planned capital or operating expenditures; reduce or eliminate our dividend payments; or sell selected assets. Such measures might not be sufficient to enable us to service our debt. In addition, any such refinancing, restructuring or sale of assets might not be available on economically favorable terms or at all, and if prevailing interest rates at the time of any such refinancing or restructuring are higher than our current rates, interest expense related to such refinancing or restructuring would increase. If there are adverse changes in the ratings assigned to our debt securities by credit rating agencies, our borrowing costs, our ability to access debt in the future and the terms of such debt could be adversely affected. 
+
+Our variable rate indebtedness may use LIBOR as a benchmark for establishing the interest rate. LIBOR is the subject of recent national, international and other regulatory guidance and proposals for reform. These reforms and other pressures may cause LIBOR to disappear entirely or to perform differently than in the past. The consequences of these developments cannot be entirely predicted but could include an increase in the cost of our variable rate indebtedness. 
+
+We have implemented a stock repurchase program to repurchase up to $30 billion of our outstanding common stock. This stock repurchase program has significantly reduced and will continue to reduce the amount of cash that we have available to fund our operations, including research and development, working capital, capital expenditures, acquisitions, investments, dividends and other corporate purposes; and increases our exposure to adverse economic, market, industry and competitive conditions and developments, and other changes in our business and our industry. In addition, this significant decrease in our cash reserves exacerbates the risks described above associated with our indebtedness. 
+
+Our business and operations could suffer in the event of security breaches of our information technology systems, or other misappropriation of our intellectual property or proprietary or confidential information. 
+
+Third parties regularly attempt to gain unauthorized access to our information technology systems, and most of such attempts are increasingly more sophisticated. These attempts, which might be related to industrial or other espionage, criminal hackers or state-sponsored intrusions, include trying to covertly introduce malware to our computers and networks, including those in our manufacturing operations, and impersonating authorized users, among others. Such attempts could result in the misappropriation, theft, misuse, disclosure or loss or destruction of the intellectual property, or the proprietary, confidential or personal information, of us or our employees, customers, licensees, suppliers or other third parties, as well as damage to or disruptions in our information technology systems. These threats are constantly evolving, thereby increasing the difficulty of successfully defending against them or implementing adequate preventative measures. 
+
+We seek to detect and investigate all security incidents and to prevent their recurrence but attempts to gain unauthorized access to our information technology systems may be successful, and in some cases, we might be unaware of an incident or its magnitude and effects. The misappropriation, theft, misuse, disclosure or loss or destruction of the intellectual property, or the proprietary, confidential or personal information, of us or our employees, customers, licensees, suppliers or other third parties, could harm our competitive position, reduce the value of our investment in research and development and other strategic initiatives, cause us to lose business, damage our reputation, &#32; subject us to legal or regulatory proceedings, cause us to incur other loss or liability &#32; and otherwise adversely affect our business. We expect to continue to devote significant resources to the security of our information technology systems. 
+
+In addition, employees and former employees, in particular former employees who become employees of our competitors, customers or licensees, may misappropriate, use, publish or provide to our competitors, customers or licensees our intellectual property or proprietary or confidential business information. This risk is exacerbated as competitors for talent, particularly engineering talent, increasingly attempt to hire our employees. See the Risk Factor entitled &#8220;We may not be able to attract and retain qualified employees.&#8221; Similarly, we provide access to certain of our intellectual property or proprietary or confidential business information to our direct and indirect customers and licensees, who may wrongfully use such intellectual property or information or wrongfully disclose such intellectual property or information to third parties, including our competitors. 
+
+Potential tax liabilities could adversely affect our results of operations. 
+
+We are subject to income taxes in the United States and numerous foreign jurisdictions, including Singapore where our QCT segment&#8217;s non-U.S. headquarters is located. Significant judgment is required in determining our provision for income taxes. We regularly are subject to examination of our tax returns and reports by taxing authorities in the United States federal jurisdiction and various state and foreign jurisdictions, most notably in countries where we earn a routine return and the tax authorities believe substantial value-add activities are performed. Our current examinations are at various stages with respect to assessments, claims, deficiencies and refunds. We continually assess the likelihood and amount of potential adjustments and adjust the income tax provision, income taxes payable and deferred taxes in the period in which the facts give rise to a revision become known. Although we believe that our tax estimates are reasonable, the final determination of tax audits and any related legal proceedings could materially differ from amounts reflected in our historical income tax provisions and accruals. In such case, our income tax provision, results of operations and cash flows in the period or periods in which that determination is made could be negatively affected. 
+
+The United States Treasury Department has issued proposed regulations on several provisions of the Tax Legislation, including foreign tax credits, FDII, GILTI, BEAT and interest expense deduction limitations, which are expected to be finalized in the next several months. When finalized, these proposed regulations may adversely affect our provision for income taxes, results of operations and/or cash flows. 
+
+We have tax incentives in Singapore provided that we meet specified employment and other criteria, and as a result of the expiration of these incentives, our Singapore tax rate is expected to increase in fiscal 2022 and again in fiscal 2027. If we do not meet the criteria required to retain such incentives, our Singapore tax rate could increase prior to fiscal 2022, and our results of operations and cash flows could be adversely affected. 
+
+Tax rules may change in a manner that adversely affects our future reported results of operations or the way we conduct our business. Further changes in the tax laws of foreign jurisdictions could arise as a result of the base erosion and profit shifting (BEPS) project that was undertaken by the Organization for Economic Co-operation and Development (OECD). The OECD, which represents a coalition of member countries, recommended changes to numerous long-standing tax principles related to transfer pricing. These changes, as adopted by countries, may increase tax uncertainty and may adversely affect our provision for income taxes, results of operations and cash flows. Partially to address BEPS, we moved certain IP from Singapore to the United States. As a result, if tax rates were to increase in the United States, our results of operations, cash flows and financial condition could be adversely affected. 
+
+Global, regional or local economic conditions, or political actions including trade protection policies such as tariffs, that impact the mobile communications industry or the other industries in which we operate could negatively affect the demand for our products and services and our customers&#8217; or licensees&#8217; products and services, which may negatively affect our revenues. 
+
+A decline in global, regional or local economic conditions or a slow-down in economic growth, or political actions including trade protection policies such as tariffs, particularly in geographic regions with high concentrations of wireless voice and data users or high concentrations of our customers or licensees, could have adverse, wide-ranging effects on demand for our products and services and for the products and services of our customers or licensees, particularly equipment manufacturers or others in the wireless communications industry who buy their products, such as wireless operators. Any 
+
+prolonged economic downturn or &#8220;trade war&#8221; may result in a decrease in demand for our products and technologies; a decrease in demand for the products of our customers or licensees; the insolvency of key suppliers, customers or licensees; delays in reporting or payments from our licensees or customers; failures by counterparties; and negative effects on wireless device inventories. In addition, our customers&#8217; ability to purchase or pay for our products and services and network operators&#8217; ability to upgrade their wireless networks could be adversely affected by economic conditions, leading to a reduction, cancelation or delay of orders for our products and services. 
+
+We may not be able to attract and retain qualified employees. 
+
+Our future success depends largely upon the continued service of our executive officers and other key management and technical personnel, and on our ability to continue to identify, attract, retain and motivate them, which may become increasingly difficult in an environment of cost reductions. Implementing our business strategy requires specialized engineering and other talent, as our revenues are highly dependent on technological and product innovations. The market for employees in our industry is extremely competitive, and competitors for talent, particularly engineering talent, increasingly attempt to hire, and to varying degrees have been successful in hiring, our employees, including by establishing local offices in San Diego. Further, existing immigration laws make it more difficult for us to recruit and retain highly skilled foreign national graduates of universities in the United States, making the pool of available talent even smaller. If we are unable to attract and retain qualified employees, our business may be harmed. 
+
+Currency fluctuations could negatively affect future product sales or royalty revenues, harm our ability to collect receivables or increase the U.S. dollar cost of our products. 
+
+Our customers sell their products throughout the world in various currencies. Our consolidated revenues from international customers and licensees as a percentage of our total revenues were greater than 90% in each of the last three fiscal years. Adverse movements in currency exchange rates may negatively affect our business, revenues, results of operations and cash flows due to a number of factors, including, among others: 
+
+&#8226; 
+
+Our products and those of our customers and licensees that are sold outside the United States may become less price-competitive, which may result in reduced demand for those products or downward pressure on average selling prices; 
+
+&#8226; 
+
+Certain of our revenues that are derived from products that are sold in foreign currencies could decrease, resulting in lower revenues, cash flows and margins; 
+
+&#8226; 
+
+Certain of our revenues, such as royalties, that are derived from licensee or customer sales denominated in foreign currencies could decrease, resulting in lower revenues and cash flows; 
+
+&#8226; 
+
+Our foreign suppliers may raise their prices if they are impacted by currency fluctuations, resulting in higher than expected costs, lower margins and cash flows; 
+
+&#8226; 
+
+Certain of our costs that are denominated in foreign currencies could increase, resulting in higher than expected costs and cash outflows; and 
+
+&#8226; 
+
+Foreign exchange hedging exposes us to counterparty risk and may require the payment of structuring fees. If the foreign exchange hedges do not qualify for hedge accounting, the hedge results may cause earnings volatility. The foreign exchange hedging activities are designed to lessen earnings volatility; therefore, hedges may reduce the impact of currency fluctuations to certain revenues and costs. 
+
+Failures in our products or services, or in the products or services of our customers or licensees, including those resulting from security vulnerabilities, defects or errors, could harm our business. 
+
+The use of devices containing our products to interact with untrusted systems or otherwise access untrusted content creates a risk of exposing the system hardware and software in those devices to malicious attacks. While we continue to focus on this issue and are taking measures to safeguard our products from cybersecurity threats, device capabilities continue to evolve, enabling more elaborate functionality and applications, and increasing the risk of security failures. Further, our products are inherently complex and may contain defects or errors that are detected only when the products are in use. Because our products and services are responsible for critical functions in our customers&#8217; products and networks, security failures, defects or errors in our products or services could have an adverse impact on us, on our customers and the end users of our customers&#8217; products. Such adverse impact could include shipment delays; product liability claims or recalls; write-offs of our inventories, property, plant and equipment and intangible assets; unfavorable purchase commitments; a shift of business to our competitors; a decrease in demand for connected devices and wireless services; damage to our reputation and our customer relationships; regulatory actions; and other financial liability or harm to our business. Further, security failures, defects or errors in the products of our customers or licensees could have an adverse impact on our results of operations and cash flows due to a delay or decrease in demand for our products or services generally, and our premium-tier products in particular, among other factors. Development of products and features in new domains of technology and the migration to integrated circuit technologies with smaller geometric feature sizes are complex, add risk to manufacturing yields and 
+
+reliability and increase the likelihood of product defects or errors. Further, failures, defects or errors in our products or those of our customers or licensees entail the risk of product liability claims. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+We have provided updated Risk Factors in the section labeled &#8220;Risk Factors&#8221; in &#8220;Part I, Item 2, Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.&#8221; Other than the elimination of the Risk Factor entitled &#8220;If we are unsuccessful in executing our cost plan, our business and results of operations may be adversely affected,&#8221; we do not believe those updates have materially changed the type or magnitude of the risks we face in comparison to the disclosure provided in our most recent Annual Report on Form 10-K. 
+

@@ -1,0 +1,1300 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements 
+
+&#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading &#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+&#160; 
+
+All references to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company. 
+
+&#160; 
+
+NVIDIA, the NVIDIA logo, GeForce, Quadro, Tegra, Tesla, Jetson, NVIDIA DGX, NVIDIA DRIVE, NVIDIA GameWorks, NVIDIA GRID, NVIDIA Holodeck, NVIDIA VRWorks, OptiX, Pascal and TensorRT are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and other countries. MAXQ&#174; is the registered trademark of Maxim Integrated Products, Inc. Other company and product names may be trademarks of the respective companies with which they are associated. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 6. Selected Financial Data&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 29, 2017 &#32;and &#8220;Item 1A. Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+&#32;22 
+
+Overview 
+
+&#160; 
+
+Our Company and Our Businesses 
+
+Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our emphasis in recent years to the revolutionary field of AI. NVIDIA delivers value to its customers through PC, mobile and cloud architectures. Vertical integration enables us to bring together hardware, system software, programmable algorithms, libraries, systems and services to create unique value for the markets we serve. We specialize in markets in which GPU-based visual computing and accelerated computing platforms can provide enhanced throughput for applications. 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying graphics architecture. From our proprietary processors, we have created specialized platforms that target the four large markets where our expertise is critical: Gaming, Professional Visualization, Datacenter, and Automotive. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for mobile gaming and entertainment devices, as well as autonomous robots, drones and cars. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+Third &#32;Quarter of Fiscal Year 2018 Summary 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+July 30, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+Q/Q 
+
+&#160; 
+
+Y/Y 
+
+&#160; 
+
+($ in millions, except per share data) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+2,636 
+
+&#160; 
+
+$ 
+
+2,230 
+
+&#160; 
+
+$ 
+
+2,004 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Gross margin 
+
+59.5 
+
+% 
+
+&#160; 
+
+58.4 
+
+% 
+
+&#160; 
+
+59.0 
+
+% 
+
+&#160; 
+
+110 bps 
+
+&#160; 
+
+50 bps 
+
+Operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Income from operations 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Net income per diluted share 
+
+$ 
+
+1.33 
+
+&#160; 
+
+$ 
+
+0.92 
+
+&#160; 
+
+$ 
+
+0.83 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Revenue for the third quarter of fiscal &#32;year 2018 &#32;increased 32% &#32;year over year and 18% &#32;sequentially. Growth was driven by GPUs for gaming, datacenter, and professional visualization, as well as Tegra processors. 
+
+GPU business revenue was $2.22 billion , up 31% from a year earlier and up 17% sequentially, with strength across all platforms, including gaming, datacenter, and professional visualization. GeForce GPU gaming revenue of $1.56 billion was led by continued strong adoption of Pascal-based GeForce GTX gaming platforms. Datacenter revenue (including Tesla, NVIDIA GRID and DGX) was $501 million, up 109% year on year and up 20% sequentially, reflecting shipments of our Volta GPU architecture. Datacenter growth was fueled by strong demand by hyperscale and cloud customers for deep learning training and accelerated GPU computing, as well as demand for HPC, DGX AI supercomputing, and GRID virtualization platforms. Professional visualization revenue grew 15% year over year and 2% sequentially to $239 million, led by high-end mobile platforms. 
+
+Tegra processor business revenue was $419 million, up 74% from a year ago and up 26% sequentially. Tegra processor business revenue includes system-on-a-chip (SOCs) modules for the Nintendo Switch gaming console and development services. Also included was automotive revenue of $144 million, which was up 13% from a year earlier and up 1% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements for self-driving cars. 
+
+Revenue from our patent license agreement with Intel concluded in the first quarter of fiscal year 2018. 
+
+Gross margin for the third quarter of fiscal &#32;year 2018 &#32;was 59.5% , increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs. 
+
+&#32;23 
+
+Operating expenses for the third quarter of fiscal &#32;year 2018 &#32;were $674 million , up 24% &#32;from a year earlier and up 10% &#32;sequentially, reflecting increased headcount and related costs for our growth initiatives - gaming, artificial intelligence, and autonomous driving. 
+
+Income from operations for the third quarter of fiscal &#32;year 2018 &#32;was $895 million , up 40% &#32;from a year earlier and up 30% &#32;sequentially. Net income and net income per diluted share for the third quarter of fiscal &#32;year 2018 &#32;were $838 million &#32;and $1.33 , respectively, up 55% &#32;and 60% , respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins. 
+
+During the first nine months of fiscal &#32;year 2018 , we returned to shareholders $909 million in share repurchases and $250 million in cash dividends. For fiscal year 2018 , we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases. For fiscal year 2019, we also intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases. In November 2017, we declared an increase in our quarterly cash dividend to $0.15 per share from $0.14 per share, to be paid with our next quarterly cash dividend on December 15, 2017, to all shareholders of record on November 24, 2017. 
+
+Cash, cash equivalents and marketable securities were $6.32 billion as of October 29, 2017 , compared with $5.88 billion at the end of the prior quarter. The sequential increase was primarily related to the increase in operating income, as well as strong collections of outstanding accounts receivable. 
+
+&#32;&#32; GPU Business 
+
+During the third quarter of fiscal year 2018 , we released the GeForce GTX 1070 Ti GPU and announced collaborations to bring NVIDIA GameWorks technology to top fall games, including PlayerUnknown&#8217;s Battlegrounds, FINAL FANTASY XV, Shadow of War, and Destiny 2. For our datacenter platform, we held GPU Technology Conferences in Beijing, Munich, Tel Aviv, Taipei and Washington, announced that Alibaba, Baidu and Tencent will adopt NVIDIA Volta GPUs for accelerating AI, and that Oracle had added NVIDIA Tesla P100 GPU accelerators to Oracle Cloud. We also launched the NVIDIA GPU Cloud container registry to accelerate deep learning for developers, announced that Huawei, Inspur and Lenovo will use the NVIDIA Volta HGX architecture to build AI systems for datacenters, shared news that Dell EMC, Hewlett Packard Enterprise, IBM and Supermicro had unveiled servers based on NVIDIA Tesla V100 GPU accelerators, and launched the NVIDIA TensorRT 3 AI inference acceleration platform. For our professional visualization platform, we opened early access to NVIDIA Holodeck, and launched the Quadro Virtual Data Center Workstation. 
+
+During the second quarter of fiscal year 2018 , we introduced Max-Q, a design approach to make gaming laptops thinner, quieter, and faster. For our datacenter platform, we announced and began shipping NVIDIA Tesla V100 GPU accelerators, the first GPU based on the new Volta architecture; unveiled a new lineup of NVIDIA DGX AI supercomputers; and disclosed that the world&#8217;s 13 most energy-efficient supercomputers on the Green 500 list run on NVIDIA Tesla accelerators. For our professional visualization platform, we introduced Project Holodeck, a photorealistic, collaborative VR environment; launched external GPU support for creative professionals; and released the NVIDIA Optix 5.0 and NVIDIA VRWorks 360 Video software development kits. 
+
+During the first quarter of fiscal year 2018, we announced GeForce GTX 1080 Ti and TITAN Xp for our gaming platform. For our datacenter platform, we announced with Microsoft that it is bringing NVIDIA Tesla P100 and P40 GPUs to the Azure cloud; announced that NVIDIA Tesla accelerators designed for datacenter AI capabilities were added to Google Cloud, Tencent Cloud, IBM Cloud, and Baidu Cloud; announced that the Tokyo Institute of Technology will use NVIDIA&#8217;s accelerated computing platform in their AI supercomputer, TSUBAME3.0; announced that Fujitsu is using 24 NVIDIA DGX-1 AI systems to build a new AI supercomputer for the RIKEN research center in Japan; announced together with Facebook the Caffe2 deep learning framework and Big Basin servers with Tesla P100 GPUs; and announced plans to train 100,000 developers this year through the NVIDIA Deep Learning Institute. 
+
+&#160; 
+
+&#32;&#32;Tegra Processor Business 
+
+During the third quarter of fiscal year 2018 , we announced NVIDIA DRIVE PX Pegasus, an auto-grade AI computer designed to enable driverless robotaxis without steering wheels, pedals or mirrors, we added Alibaba and Huawei as partners for the NVIDIA Metropolis AI Smart Cities platform, and we announced that we are collaborating with China&#8217;s JD.com&#8217;s X lab to use NVIDIA Jetson to create autonomous machines that bring AI to logistics and delivery. 
+
+&#32;24 
+
+During the second quarter of fiscal year 2018 , we announced that Toyota selected NVIDIA DRIVE PX for its next-generation autonomous cars; Volvo and Autoliv selected DRIVE PX for self-driving cars targeted to hit the market by 2021; ZF and HELLA, two leading automotive suppliers, announced a system based on DRIVE PX to deliver the highest NCAP safety ratings for cars; and Baidu announced that its Project Apollo open-source self-driving platform for the China market will use DRIVE PX. We also introduced the NVIDIA Isaac robot simulator for training intelligent machines in simulated real-world conditions before deployment; and announced the NVIDIA Metropolis platform, used by more than 50 partners to make cities safer and smarter by applying deep learning to surveillance video streams. 
+
+During the first quarter of fiscal year 2018, we announced with Bosch, one of the world&#8217;s largest auto suppliers, plans to create a new Bosch-branded AI self-driving car computer. We also announced a collaboration with PACCAR, one of the world's largest truck makers with brands including Peterbilt, Kenworth and DAF, to develop solutions for autonomous trucks. We also announced NVIDIA Jetson TX2, a high-performance, low-power computer platform for delivering AI at the edge, with deep learning and computer vision capabilities for robots, drones and smart cameras. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Please refer to Note 14 &#32;of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information. 
+
+Results of Operations 
+
+&#160; 
+
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Nine Months Ended 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+Revenue 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of revenue 
+
+40.5 
+
+&#160; 
+
+41.0 
+
+&#160; 
+
+40.9 
+
+&#160; 
+
+41.7 
+
+Gross profit 
+
+59.5 
+
+&#160; 
+
+59.0 
+
+&#160; 
+
+59.1 
+
+&#160; 
+
+58.3 
+
+Operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+17.5 
+
+&#160; 
+
+18.6 
+
+&#160; 
+
+19.0 
+
+&#160; 
+
+22.6 
+
+Sales, general and administrative 
+
+8.0 
+
+&#160; 
+
+8.5 
+
+&#160; 
+
+8.7 
+
+&#160; 
+
+10.3 
+
+Restructuring and other charges 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+0.1 
+
+Total operating expenses 
+
+25.5 
+
+&#160; 
+
+27.1 
+
+&#160; 
+
+27.7 
+
+&#160; 
+
+33.0 
+
+Income from operations 
+
+34.0 
+
+&#160; 
+
+31.9 
+
+&#160; 
+
+31.4 
+
+&#160; 
+
+25.3 
+
+Interest income 
+
+0.6 
+
+&#160; 
+
+0.7 
+
+&#160; 
+
+0.7 
+
+&#160; 
+
+0.8 
+
+Interest expense 
+
+(0.6 
+
+) 
+
+&#160; 
+
+(0.8 
+
+) 
+
+&#160; 
+
+(0.7 
+
+) 
+
+&#160; 
+
+(0.8 
+
+) 
+
+Other, net 
+
+&#8212; 
+
+&#160; 
+
+(0.8 
+
+) 
+
+&#160; 
+
+(0.3 
+
+) 
+
+&#160; 
+
+(0.4 
+
+) 
+
+Total other income (expense) 
+
+&#8212; 
+
+&#160; 
+
+(0.9 
+
+) 
+
+&#160; 
+
+(0.3 
+
+) 
+
+&#160; 
+
+(0.4 
+
+) 
+
+Income before income tax expense 
+
+34.0 
+
+&#160; 
+
+31.0 
+
+&#160; 
+
+31.1 
+
+&#160; 
+
+24.9 
+
+Income tax expense 
+
+2.2 
+
+&#160; 
+
+3.9 
+
+&#160; 
+
+2.8 
+
+&#160; 
+
+3.5 
+
+Net income 
+
+31.8 
+
+&#160;% 
+
+&#160; 
+
+27.1 
+
+&#160;% 
+
+&#160; 
+
+28.3 
+
+&#160;% 
+
+&#160; 
+
+21.4 
+
+&#160;% 
+
+&#160; 
+
+&#32;25 
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Nine Months Ended 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+($ in millions) 
+
+GPU 
+
+$ 
+
+2,217 
+
+&#160; 
+
+$ 
+
+1,697 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+5,676 
+
+&#160; 
+
+$ 
+
+3,972 
+
+&#160; 
+
+$ 
+
+1,704 
+
+&#160; 
+
+&#160;% 
+
+Tegra Processor 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+1,084 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+All Other 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(66 
+
+) 
+
+&#160; 
+
+(100 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(155 
+
+) 
+
+&#160; 
+
+(78 
+
+)% 
+
+Total 
+
+$ 
+
+2,636 
+
+&#160; 
+
+$ 
+
+2,004 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+6,803 
+
+&#160; 
+
+$ 
+
+4,737 
+
+&#160; 
+
+$ 
+
+2,066 
+
+&#160; 
+
+&#160;% 
+
+GPU Business . GPU business revenue increased by 31% &#32;for the third quarter of fiscal &#32;year 2018 &#32;compared to the third quarter of fiscal &#32;year 2017 . This increase was due primarily to increased revenue from sales of GeForce GPU products for gaming, which increased over 10%, reflecting continued strong demand for our Pascal-based GPU products. Datacenter revenue, including Tesla, GRID and DGX, increased 109%, reflecting strong demand from hyperscale and cloud customers for deep learning training and accelerated GPU computing, as well as demand for high performance computing, DGX AI supercomputing and GRID virtualization platforms. Revenue from Quadro GPUs for professional visualization increased 15% due primarily to higher sales in both high-end desktop and overall mobile workstation products. Our PC OEM revenue increased by over 90% due primarily to strong demand for GPU products targeted for use in cryptocurrency mining. 
+
+GPU business revenue increased by 43% &#32;in the first nine months of fiscal &#32;year 2018 &#32;compared to the first nine months of fiscal &#32;year 2017 . This increase was due primarily to increased revenue from sales of GeForce GPU products for gaming, which increased over 20%, reflecting continued strong demand for our Pascal-based GPU products. Datacenter revenue, including Tesla, GRID and DGX, increased over 140%, reflecting strong demand from hyperscale and cloud customers for deep learning training and accelerated GPU computing, as well as demand for high performance computing, DGX AI supercomputing and GRID virtualization platforms. Revenue from Quadro GPUs for professional visualization increased over 10% due primarily to higher sales in both desktop and mobile workstation products. Revenue from GeForce GPU products for mainstream PC OEMs increased by over 90% due primarily to strong demand for GPU products targeted for use in cryptocurrency mining. 
+
+Tegra Processor Business. &#32;Tegra Processor business revenue increased by 74% &#32;for the third quarter of fiscal &#32;year 2018 &#32;compared to the third quarter of fiscal &#32;year 2017 . This was driven by an increase of over 240% in revenue from gaming development platforms and services, and an increase of 13% in automotive revenue, primarily from infotainment modules, DRIVE PX platforms and development agreements for self-driving cars. 
+
+Tegra Processor business revenue increased by 91% &#32;in the first nine months of fiscal &#32;year 2018 &#32;compared to the first nine months of fiscal &#32;year 2017 . This was driven by an increase of over 420% in revenue from gaming development platforms and services, and an increase of over 15% in automotive revenue, primarily from infotainment modules, DRIVE PX platforms and development agreements for self-driving cars. 
+
+All Other. Our patent license agreement with Intel concluded in the first quarter of fiscal year 2018. For the first nine months of fiscal &#32;year 2018, we recognized related revenue of $43 million , down from $198 million for the first nine months of fiscal &#32;year 2017. 
+
+Concentration of Revenue 
+
+&#160; 
+
+Revenue from sales to customers outside of the United States and Other Americas accounted for 83% and 80% of total revenue for the third quarter and first nine months of &#32; fiscal year 2018 , respectively. Revenue from sales to customers outside of the United States and Other Americas accounted for 78% of total revenue for both the third quarter and first nine months of &#32;fiscal year 2017 . Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+&#32;26 
+
+Gross Margin 
+
+Our overall gross margin increased to 59.5% &#32;for the third &#32;quarter of fiscal year 2018 &#32;from 59.0% &#32;for the third &#32;quarter of fiscal year 2017 , and increased to 59.1% &#32;for the first nine months of fiscal &#32;year 2018 &#32;from 58.3% &#32;for the first nine months of fiscal &#32;year 2017 . These increases were primarily due to the growth in GPU business revenue from our Datacenter platforms and increased sales of GeForce GTX products for gaming. These increases were partially offset by the absence of licensing revenue from Intel. 
+
+Inventory provision costs totaled $14 million and $13 million for the third &#32;quarter of fiscal years 2018 and 2017 , respectively, unfavorably impacting our gross margin by 0.5% and 0.7%, respectively. Sales of inventory that was previously written-off or written-down totaled $6 million and $19 million for the third &#32;quarter of fiscal years 2018 and 2017 , respectively, favorably impacting our gross margin by 0.2% and 0.9%, respectively. As a result, the overall net effect on our gross margin from charges for inventory provision costs and sales of items previously written-off or written-down was nominal for the third &#32;quarter of fiscal years 2018 and 2017. 
+
+Inventory provision costs totaled $30 million and $40 million for the first nine months of fiscal &#32;years 2018 &#32;and 2017 , respectively, unfavorably impacting our gross margin by 0.4% and 0.9%, respectively. Sales of inventory that was previously written-off or written-down totaled $29 million and $39 million for the first nine months of fiscal &#32;years 2018 &#32;and 2017 , respectively, favorably impacting our gross margin by 0.4% and 0.8%, respectively. As a result, the overall net effect on our gross margin from charges for inventory provision costs and sales of items previously written-off or written-down was nominal for the first nine months of fiscal &#32;years 2018 &#32;and 2017 . 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+GPU Business . The gross margin of our GPU business increased during the third &#32;quarter and first nine months of fiscal &#32;year 2018 compared to the third &#32;quarter and first nine months of fiscal &#32;year 2017. GPU margins increased due to strong sales of our GeForce GTX gaming products and revenue growth in Datacenter driven by strong demand for Tesla products by hyperscale and cloud customers for deep learning training and accelerated GPU computing, DGX AI supercomputing and GRID virtualization platforms. 
+
+&#160; 
+
+Tegra Processor Business . The gross margin of our Tegra Processor business increased during the third &#32;quarter and first nine months of fiscal &#32;year 2018 compared to the third &#32;quarter and first nine months of fiscal &#32;year 2017. The increase in Tegra margins was primarily due to revenue growth in gaming development platforms and automotive. 
+
+&#32;27 
+
+Operating Expenses 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+Nine Months Ended 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+($ in millions) 
+
+Research and development expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,290 
+
+&#160; 
+
+$ 
+
+1,069 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Sales, general and administrative expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+Restructuring and other charges 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+(100 
+
+)% 
+
+Total operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,884 
+
+&#160; 
+
+$ 
+
+1,559 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Research and development expenses as a percentage of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative expenses as a percentage of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other charges as a percentage of net revenue 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses increased by 24% &#32;and 21% &#32;during the third quarter and first nine months of &#32;fiscal year 2018 , respectively, compared to the third quarter and first nine months of &#32;fiscal year 2017 , driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense. 
+
+Sales, General and Administrative 
+
+&#160; 
+
+Sales, general and administrative expenses increased by 24% &#32;during the third quarter of fiscal &#32;year 2018 compared to the third quarter of fiscal &#32;year 2017, driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense. 
+
+Sales, general and administrative expenses increased by 22% &#32;during the first nine months of fiscal &#32;year 2018 compared to the first nine months of fiscal &#32;year 2017, driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense. Offsetting these increases was a decrease in outside professional fees of $11 million resulting from the resolution of our intellectual property disputes with Samsung and Qualcomm. 
+
+Restructuring and Other Charges 
+
+In the second quarter of fiscal year 2016, we began the wind-down of our Icera operations. No restructuring charges were recorded during the third quarter and first nine months of &#32; fiscal year 2018 . Please refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for further discussion. 
+
+&#32;28 
+
+Total Other Income (Expense) 
+
+Interest Income and Interest Expense 
+
+&#160; 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $17 million and $14 million during the third &#32;quarter of fiscal years 2018 and 2017 , respectively, and $48 million and $37 million during the first nine months of fiscal &#32;years 2018 &#32;and 2017 , respectively. The increase in interest income was primarily due to higher average cash balances invested in interest bearing securities, as well as higher purchased yields. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to the 2.20% Notes Due 2021 and 3.20% Notes Due 2026 issued in September 2016, and the Convertible Notes issued in December 2013. Interest expense was $15 million and $16 million during the third &#32;quarter of fiscal years 2018 and 2017 , respectively, and $46 million and $39 million during the first nine months of fiscal &#32;years 2018 &#32;and 2017 , respectively. 
+
+Other, Net 
+
+&#160; 
+
+Other, net, consists primarily of realized gains and losses from the sale of marketable securities, sales or impairments of investments in non-affiliated companies, losses on early debt conversions of the Convertible Notes, and the impact of changes in foreign currency rates. Other, net, was not significant during the third &#32;quarter of fiscal year 2018. Other, net, was an expense of $22 million during the first nine months of fiscal &#32;year 2018 , consisting primarily of $19 million of losses recognized from early conversions of the Convertible Notes. Other, net, was an expense of $16 million and $19 million during the third quarter and first nine months of fiscal year 2017, consisting primarily of $15 million of losses recognized from early conversions of the Convertible Notes during the third quarter of fiscal year 2017. 
+
+Income Taxes 
+
+We recognized income tax expense of $58 million and $189 million for the third quarter and first nine months of fiscal year 2018, respectively, and $79 million and $168 million for the third quarter and first nine months of fiscal year 2017, respectively. Income tax expense as a percentage of income before income tax was 6.5% and 8.9% for the third quarter and first nine months of fiscal year 2018, respectively, and 12.8% and 14.2% for the third quarter and first nine months of fiscal year 2017, respectively. 
+
+The decrease in our effective tax rate in the third quarter and first nine months of fiscal year 2018 as compared to the same periods in the prior fiscal year primarily reflects the recognition of greater tax benefits related to stock-based compensation and a proportional decrease in the amount of earnings subject to United States tax. 
+
+Please refer to Note 4 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Liquidity and Capital Resources &#160; 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+January 29, 2017 
+
+&#160; 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+2,802 
+
+&#160; 
+
+$ 
+
+1,766 
+
+Marketable securities 
+
+3,518 
+
+&#160; 
+
+5,032 
+
+Cash, cash equivalents and marketable securities 
+
+$ 
+
+6,320 
+
+&#160; 
+
+$ 
+
+6,798 
+
+&#160; 
+
+Nine Months Ended 
+
+&#160; 
+
+October 29, 2017 
+
+&#160; 
+
+October 30, 2016 
+
+&#160; 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+2,144 
+
+&#160; 
+
+$ 
+
+Net cash provided by (used in) investing activities 
+
+$ 
+
+1,302 
+
+&#160; 
+
+$ 
+
+(420 
+
+) 
+
+Net cash provided by (used in) financing activities 
+
+$ 
+
+(2,410 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#32;29 
+
+As of October 29, 2017 , we had $6.32 billion &#32;in cash, cash equivalents and marketable securities, a decrease of $478 million from the end of fiscal year 2017 . Our portfolio of cash equivalents and marketable securities is managed on our behalf by several financial institutions. Our portfolio managers are required to follow our investment policy, which requires the purchase of high grade investment securities, the diversification of asset types, and certain limits on our portfolio duration. 
+
+Cash provided by operating activities increased in the first nine months of fiscal &#32;year 2018 &#32;compared to the first nine months of fiscal &#32;year 2017 , primarily due to higher net income and changes in working capital. 
+
+&#160; 
+
+Cash provided by investing activities increased in the first nine months of fiscal &#32;year 2018 &#32;compared to the first nine months of fiscal &#32;year 2017 , primarily due to lower purchases of marketable securities. 
+
+Cash used in financing activities increased in the first nine months of fiscal &#32;year 2018 &#32;compared to the first nine months of fiscal &#32;year 2017 , primarily due to cash provided in the first nine months of fiscal year 2017 from the issuance of $2.00 billion of Notes as well as higher repayments of Convertible Notes, higher payments toward share repurchases and tax payments related to employee stock plans in the first nine months of fiscal year 2018. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of October 29, 2017 and January 29, 2017 , we had $6.32 billion and $6.80 billion , respectively, in cash, cash equivalents and marketable securities. Our marketable securities consist principally of debt securities of corporations and United States government and its agencies, asset-backed securities, mortgage-backed securities issued by government-sponsored enterprises, money market funds and foreign government bonds. These investments are denominated in United States dollars. Our investment policy requires the purchase of high grade investment securities and the diversification of asset types and includes certain limits on our portfolio duration, as specified in our investment policy guidelines. These guidelines also limit the amount of credit exposure to any one issue, issuer or type of instrument. As of October 29, 2017 , we were in compliance with our investment policy. As of October 29, 2017 , our investments in government agencies and government-sponsored enterprises represented 27% of our total investment portfolio, while the financial sector accounted for 15% of our total investment portfolio. All of our investments are in A/A3 or better rated securities. 
+
+Please refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for additional information. 
+
+Our cash balances are held in numerous locations throughout the world, including substantial amounts held outside of the United States. Most of the amounts held outside the United States may be repatriated to the United States. However, if we repatriate foreign earnings for cash requirements in the United States, we would incur U.S. federal income tax at a rate of 35% less utilization of any net operating loss carryforwards, and further offset by any applicable research and foreign tax credits, plus any state income taxes on such income. Repatriation of some foreign balances may be restricted by local laws. 
+
+Capital Return to Shareholders 
+
+Dividend payments and share repurchases must be made from cash held in the United States. During the third quarter and first nine months of &#32; fiscal year 2018 , we repurchased a total of 1 million &#32;shares and 6 million &#32;shares, respectively, for $151 million &#32;and $909 million , respectively. During the third quarter and first nine months of &#32; fiscal year 2018 , we also made cash dividend payments to our shareholders of $84 million &#32;and $250 million , respectively. 
+
+We intend to return $1.25 billion to our shareholders in fiscal year 2018 through a combination of share repurchases and cash dividends. In November 2017, we declared an increase in our quarterly cash dividend to $0.15 per share from $0.14 per share, to be paid with our next quarterly cash dividend on December 15, 2017, to all shareholders of record on November 24, 2017. For fiscal year 2019, we also intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. 
+
+Convertible Notes 
+
+As of October 29, 2017, we had $24 million of Convertible Notes outstanding, of which $8 million are expected to be settled in the fourth quarter of fiscal year 2018. Please refer to Note 11 of the Notes to the Condensed Consolidated Financial Statements for further discussion. 
+
+&#32;30 
+
+Operating Capital and Capital Expenditure Requirements 
+
+We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating requirements for at least the next twelve months. 
+
+Off-Balance Sheet Arrangements 
+
+In the fourth quarter of fiscal year 2018, we plan to refinance the operating lease financing arrangement related to our new Santa Clara campus building and purchase the property for approximately $350 million . Please refer to Note 12 &#32;of the Notes to Condensed Consolidated Financial Statements for a discussion regarding our operating lease financing arrangement. 
+
+Contractual Obligations 
+
+As of October 29, 2017 , we had outstanding inventory purchase obligations totaling $1.16 billion . Except as described above with respect to the Convertible Notes and the Notes, and the plan to purchase our Santa Clara campus building, there were no other material changes in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 29, 2017 . 
+
+Please see Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for the fiscal year ended January 29, 2017 &#32;for a description of our contractual obligations. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Please see Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Please refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 29, 2017 . There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 29, 2017 . 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 29, 2017 . Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+

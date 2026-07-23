@@ -1,0 +1,2116 @@
+ Item 1. Business 
+
+We incorporated in 1985 under the laws of the state of California. In 1991, we reincorporated in the state of Delaware. We operate and report using a 52-53 week fiscal year ending on the last Sunday in September. Our 52-week fiscal years consist of four equal quarters of 13 weeks each, and our 53-week fiscal years consist of three 13-week fiscal quarters and one 14-week fiscal quarter. The financial results for our 53-week fiscal years and our 14-week fiscal quarters will not be exactly comparable to our 52-week fiscal years and our 13-week fiscal quarters. Both of the fiscal years ended September 29, 2013 &#32;and September 25, 2011 &#32;included 52 weeks. The fiscal year ended September 30, 2012 &#32;included 53 weeks. 
+
+Overview 
+
+We continue to lead the development and commercialization of a digital communication technology called CDMA (Code Division Multiple Access), and we own significant intellectual property applicable to products that implement any version of CDMA including patents, patent applications and trade secrets. The mobile communications industry generally recognizes that a company seeking to develop, manufacture and/or sell products that use CDMA technology will require a patent license from us. CDMA is one of the main technologies currently used in digital wireless communications networks (also known as wireless networks). CDMA and TDMA (Time Division Multiple Access), of which GSM (Global System for Mobile Communications) is the primary commercial form, are the primary digital technologies currently used to transmit a wireless device user&#8217;s voice or data over radio waves using a public cellular wireless network. 
+
+We also continue our leading role in the development and commercialization of OFDMA (Orthogonal Frequency Division Multiple Access) -based technologies for which we own substantial intellectual property. Sales of multimode CDMA and LTE, which stands for &#8220;Long Term Evolution&#8221; &#32; and is an OFDMA-based standard for cellular wireless communication applications, wireless devices have grown significantly during the past several years. 
+
+In addition to licensing portions of our intellectual property portfolio, which includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products, we design, manufacture, have manufactured on our behalf and market products and services based on CDMA, OFDMA and other digital communications technologies. Our products principally consist of integrated circuits (also known as chips or chipsets) and system software used in mobile devices and in wireless networks. We also sell other products and services, which include: integrated circuits for use in wired devices, particularly broadband gateway equipment, desktop computers, televisions, set-top boxes and Blu-ray players; content enablement services to wireless operators; development, other services and related wireless communications products used by the United States government; location awareness and commerce services; and software and hardware development services. 
+
+&#32;1 
+
+The Mobile Communications Industry 
+
+Mobile technology has seen significant growth and adoption since the first mobile phone call took place in 1973. The International Telecommunication Union (ITU) estimated that 90% of the world&#8217;s population lived in areas served by mobile network coverage as of 2010. As of September 30, 2013, there were approximately 6.8 billion cellular connections worldwide, comprised of approximately 3.2 billion unique individual cellular account holders, also known as subscribers (GSMA Intelligence estimates as of November 4, 2013). Information regarding wireless technologies used by the mobile industry is provided in the section entitled Wireless Technologies in this Annual Report. 
+
+Key trends shaping the evolution and growth of the mobile industry include the expanding role of mobile as the leading computing platform and the shift from primarily voice-centric feature phones to data-centric smartphones; the evolution of technologies aimed at accommodating the increase of data usage; the use of wireless technologies for machine-to-machine (M2M) applications; and the advent of new mobile devices, applications and services that provide new user experiences. 
+
+Mobile Computing. Due to the processing power and &#8220;always on&#8221; connectivity available in advanced mobile devices, consumers are opting to use their smartphones and tablets to perform tasks previously reserved for their personal computers, such as email, web-browsing, gaming and social networking. That preference is reflected in sales trends. More than twice as many smartphones and tablets were shipped globally in 2012 as compared to personal computers (Gartner and IDC, September 2013). Additionally, in 2012, semiconductor industry revenues for mobile phones surpassed those for personal computers for the first time (Gartner, April 2013). 
+
+While some feature phones support Internet connectivity and other basic computing functions, the mobile industry is seeing a shift to smartphones. Global smartphone shipments reached approximately 700 million units in 2012, representing a year-over-year increase of approximately 44%, and smartphone shipments are projected to reach approximately 1.8 billion in 2017 (Gartner, September 2013). Growth is expected to be particularly strong in emerging regions, with a projected compound annual growth rate of smartphone shipments of approximately 30% between 2012 and 2017 (Gartner, September 2013). For many people, particularly in emerging regions where income levels may make purchasing a personal computer out of reach, the smartphone or tablet may be the first and only device that will be used to access the Internet and perform other computing functions. 
+
+As smartphone and tablet shipments achieve increasing scale, the chipsets powering these devices are becoming an increasingly important differentiator to industry participants. To compete effectively, suppliers are seeking to strike a balance between performance, form factor (size and design) and battery life of devices. To achieve that, there is a trend toward chipsets that integrate many of the essential components of the mobile device into a unified and optimized system-on-a-chip (SOC), which includes a modem, a central processor (CPU), a graphics processing unit (GPU), multimedia support and other components that work together. 
+
+Meeting the Needs for Increased Data. The large-scale adoption of smartphones and other connected devices is creating a significant increase in demand for data services. To meet this demand, mobile operators are deploying 3G/4G (third generation/fourth generation) networks and investing in a variety of strategies to increase the capacity and performance of their networks. 
+
+The total number of 3G and multimode 3G/4G connections worldwide reached approximately 2.3 billion as of September 30, 2013, accounting for only approximately 34% of total cellular connections (GSMA Intelligence estimates as of November 4, 2013). Looking ahead, approximately 4.5 billion 3G and multimode 3G/4G connections are projected by 2017 (GSMA Intelligence estimates as of November 4, 2013). Globally, during the third calendar quarter of 2013, on average more than one million new 3G and multimode 3G/4G connections were being added every day (GSMA Intelligence estimates as of November 4, 2013). In emerging regions, 3G and multimode 3G/4G cellular connections account for more than three times the number of fixed broadband connections (GSMA Intelligence and WBIS, October 2013). 
+
+Additional data demands are being placed on the networks as mobile technology is incorporated into new connected devices in a growing number of sectors including the consumer electronics, automotive, health and life sciences and utilities sectors. We refer to this as the &#8220;Internet of Everything.&#8221; 
+
+To meet the increased demand for data, which we refer to as &#8220;the 1000x data challenge,&#8221; network operators are expected to deploy a variety of strategies (in addition to deploying 3G/4G technologies) aimed at increasing the performance and capacity of their networks. One key strategy is network densification, such as complementing existing cellular networks by deploying smaller sized, lower-power cellular base stations, commonly referred to as small cells. 
+
+Another key focus is on more efficient use of spectrum. Some relief from network congestion caused by the demand for data is expected to come from the proliferation of peer-to-peer communications in which devices communicate directly with other devices without having to access the cellular network. Additional efficiencies are expected to come from the continuing evolution of 3G/4G and Wi-Fi technologies and the use of broadcast capabilities made possible by LTE broadcast technology. 
+
+&#32;2 
+
+New User Capabilities. There is a growing emphasis on finding ways to provide the ability to efficiently access, sense and control digital content and services. The evolution of mobile technology is expected to augment our senses, in effect creating what we refer to as the &#8220;digital 6th sense.&#8221; The industry is working on a variety of fronts toward this vision by investing in increased computing capabilities, enhanced connectivity and new ways for users to interact with technology. Among the areas of focus are peer-to-peer connectivity technologies, augmented reality and context awareness. 
+
+Wireless Technologies 
+
+The growth in the use of wireless devices worldwide, such as smartphones and tablets, and demand for data services and applications requires continuous innovation to further improve the user experience, enable new services and increase network capacity, make use of different frequency bands and enable dense network deployments. To meet these requirements, different wireless communications technologies continue to evolve. For over two decades, we have invested and continue to invest heavily in research and development of many of these cellular wireless communication technologies, including CDMA and OFDMA. As a result, we have developed and acquired (and continue to develop and acquire) significant related intellectual property. This intellectual property has been incorporated into the most widely accepted and deployed wireless communications technology standards, and we have licensed it to wireless device and infrastructure manufacturers (more than 250 licensees, including all leading manufacturers). Most of the cellular wireless technologies can be grouped into three categories. 
+
+TDMA-based. TDMA-based technologies are characterized by their access method allowing several users to share the same frequency channel by dividing the signal into different time slots. Most of these systems are classified as 2G (second generation) technology. 
+
+The main examples of TDMA-based technologies are GSM (deployed worldwide), IS-136 (deployed in the Americas) and Personal Digital Cellular (PDC) (deployed in Japan). Compared to the earlier generations of analog technologies, these digital communications technologies provided for significantly enhanced efficiency within a fixed spectrum, resulting in increased voice capacity. These technologies also enable enhanced services, such as SMS (short message service) texting service, as well as low-speed data services. GSM has evolved to support mobile packet data transmission, such as GPRS (General Packet Radio Service) and EDGE (Enhanced Data Rates for Global Evolution). 
+
+According to GSMA Intelligence estimates as of November 4, 2013, there were approximately 4.4 billion GSM connections worldwide, representing approximately 65% of total cellular connections. 
+
+CDMA-based. CDMA-based technologies are characterized by their access method allowing several users to share the same frequency and time by allocating different orthogonal codes to individual users. Most of the CDMA-based technologies are classified as 3G (third generation) technology. 
+
+There are a number of variants of CDMA-based technologies deployed around the world, in particular CdmaOne, Cdma2000, EV-DO (Evolution Data Optimized), WCDMA (Wideband CDMA) and TD-SCDMA (Time Division - Synchronous CDMA) (deployed exclusively in China). Similar to other digital communications technologies, CDMA-based technologies provided vastly improved capacity for voice and low-rate data services as compared to analog technologies. The following are the CDMA-based technologies and their standards revisions: 
+
+##TABLE_START &#8226; 
+
+CDMA2000 revisions A through E 
+
+##TABLE_END##TABLE_START &#8226; 
+
+1xEV-DO revisions A through C 
+
+##TABLE_END##TABLE_START &#8226; 
+
+WCDMA/HSPA releases 4 through 12 
+
+##TABLE_END##TABLE_START &#8226; 
+
+TD-SCDMA releases 4 through 12 
+
+##TABLE_END To date, these technologies have seen many revisions, and they continue to evolve, progressively offering higher capacity and data rates, improved user experiences and new applications and services. As these technologies continue to evolve, new features are being defined in their relevant standardization bodies, the 3rd Generation Partnership Project 2 (3GPP2) for CDMA2000 and 1xEV-DO and the 3rd Generation Partnership Project (3GPP) for WCDMA and TD-SCDMA. 
+
+For simplicity, the releases of these technologies are often combined and given &#8220;marketing&#8221; or &#8220;trade&#8221; names that also indicate their benefits. One example is the 3GPP releases: Releases 5 and 6 together are called &#8220;HSPA- High Speed Packet Access.&#8221; The releases from 7 to 10 are called HSPA+, indicating that they provide performance improvements over HSPA. We refer to releases 11 and beyond as HSPA+ Advanced, again indicating improvements beyond the ones that HSPA+ offers. 
+
+The naming convention also applies to the releases of CDMA2000, whose successive releases are grouped and referred to as CDMA2000 1X, 1x Advanced, as well as to 1xEV-DO, whose releases are called as EV-DO Rev. A, Rev. B and DO Advanced. 
+
+CDMA technologies ushered in a significant increase in broadband data services and continue to grow rapidly. According to GSMA Intelligence estimates as of November 4, 2013, there were approximately 2.2 billion CDMA-based connections 
+
+&#32;3 
+
+worldwide. As of the fourth quarter of calendar 2012, the first phases of 1x Advanced and DO Advanced, as well as up to the eighth release of HSPA+, were commercially launched. 
+
+OFDMA-based. OFDMA-based technologies are characterized by their access method allowing several users to share the same frequency and time by allocating different subcarriers to individual users. Most of the OFDMA-based technologies are classified as 4G (fourth generation) technology. 
+
+The primary OFDMA-based technology is LTE and is incorporated in 3GPP specifications starting from release 8. LTE has two modes, FDD (frequency division duplex) and TDD (time division duplex) to support paired and unpaired spectrum, respectively, and is being developed by 3GPP. The principal benefit of LTE is its ability to leverage wide swaths of spectrum (bandwidths of 10 MHz or more). LTE is designed to seamlessly interwork with 3G through multimode 3G/4G devices. Currently, LTE relies on 2G/3G for voice services across the network, as well as for ubiquitous data services outside LTE coverage area, and on 4G for data services inside the coverage area. 
+
+LTE&#8217;s releases are often combined and given &#8220;marketing&#8221; or &#8220;trade&#8221; names that also indicate their benefits. The name LTE covers releases 8 and 9. Releases 10 and beyond are referred to as LTE Advanced. According to GSMA Intelligence estimates as of November 4, 2013, there were 144 million global 3G/4G multimode connections. The first step of LTE Advanced, referred to as carrier aggregation, was commercially launched in June 2013. 
+
+Other Wireless Technologies. There are other non-cellular wireless technologies that have also been broadly adopted in mobile cellular devices. 
+
+Wireless Local Area Networks. Wireless local area networks (WLAN, also known as Wi-Fi) link two or more devices using a wireless technology method and usually provide connectivity through an access point. WLAN systems have been standardized by the Institute of Electrical and Electronics Engineers (IEEE) standards committee in the various versions of 802.11, which include advanced features, such as multiple in/multiple out (MIMO), support for large bandwidth and support for different frequency bands and higher order modulation. 
+
+Bluetooth. Bluetooth is a wireless personal area network that provides wireless connectivity between devices over short distances ranging from a few centimeters to a few meters. Bluetooth technology provides wireless connectivity to a wide range of fixed or mobile consumer electronics devices. Bluetooth functionalities are standardized by the Bluetooth Special Interest Group in various versions of the specification (from 1.0 to 4.0), which include different functionalities, such as enhanced data rate or low energy. 
+
+Location positioning technologies. Location positioning technologies use satellite systems to provide accurate location of devices and primarily work outdoors, when devices have a clear view of the sky. Cell site assistance with location determination in addition to satellite system determination improves in-building performance. The device location can be used for navigation systems as well as location-based services (e.g., search results based on the location of the device). There are many satellite constellations in use or under development today. Global Positioning System (GPS) developed by the United States, GLONASS (Global Navigation Satellite System) developed by Russia and BeiDou developed by China are some examples of location position technology. 
+
+Operating Segments 
+
+We conduct business primarily through four reportable segments: QCT, QTL, QWI and QSI. QSI did not have revenues, or had negligible revenues, in all periods presented. Revenues in fiscal 2013, 2012 and 2011 for our other reportable segments were as follows (in millions, except percentage data): 
+
+##TABLE_START &#160; 
+
+QCT 
+
+&#160; 
+
+QTL 
+
+&#160; 
+
+QWI 
+
+$ 
+
+16,715 
+
+&#160; 
+
+$ 
+
+7,554 
+
+&#160; 
+
+$ 
+
+As a percent of total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+$ 
+
+12,141 
+
+&#160; 
+
+$ 
+
+6,327 
+
+&#160; 
+
+$ 
+
+As a percent of total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+$ 
+
+8,859 
+
+&#160; 
+
+$ 
+
+5,422 
+
+&#160; 
+
+$ 
+
+As a percent of total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+QCT (Qualcomm CDMA Technologies) Segment. &#32;QCT is a leading developer and supplier of integrated circuits and system software based on CDMA, OFDMA and other technologies for use in voice and data communications, networking, application processing, multimedia and global positioning system products. QCT&#8217;s integrated circuit products and system software are sold to and/or licensed to manufacturers that use our products in wireless devices, particularly mobile phones, 
+
+&#32;4 
+
+tablets, laptops, data modules, handheld wireless computers and gaming devices, access points and routers, data cards and infrastructure equipment, and in wired devices, particularly broadband gateway equipment, desktop computers, televisions, set-top boxes and Blu-ray players. Our Mobile Station Modem (MSM) integrated circuits, which include the Mobile Data Modem, Qualcomm Single Chip and Qualcomm Snapdragon processor devices, perform the core baseband modem functionality in wireless devices providing voice and data communications, as well as multimedia applications and global positioning functions. Our Snapdragon processors provide advanced application and graphics processing capabilities. QCT&#8217;s system software enables the other device components to interface with the integrated circuit products and is the foundation software enabling manufacturers to develop devices utilizing the functionality within our integrated circuits. Because of our experience in designing and developing CDMA- and OFDMA-based products, we design both the baseband integrated circuit and the supporting system as well, including the RF (Radio Frequency) devices, PM (Power Management) devices and accompanying software products. This approach enables us to optimize the performance of the wireless device with improved product features and integration with the network system. We also provide support, including reference designs and tools, to enable our customers to reduce the time required to design their products and bring their products to market faster. We plan to add additional features and capabilities to our integrated circuit products to help our customers reduce the cost and size of their products, to simplify our customers&#8217; design processes and to enable more wireless devices and services. 
+
+QCT offers a broad portfolio of products, including both wireless device and infrastructure integrated circuits, in support of CDMA2000 1X and 1xEV-DO, as well as the EV-DO Revision A/B evolutions of CDMA 2000 technology. Leveraging our expertise in CDMA, we also develop and offer integrated circuits supporting the WCDMA version of 3G for manufacturers of wireless devices. More than 80 device manufacturers have selected our WCDMA products that support GSM/GPRS, WCDMA, HSDPA (High-Speed Downlink Packet Access), HSUPA (High-Speed Uplink Packet Access) and HSPA+ for their devices. QCT also sells multimode products for the LTE standard, which offer seamless backward compatibility to existing 3G technologies. Our integrated circuit products are included in a broad range of devices, from low-tier, entry-level devices for emerging regions, which may use our Qualcomm Reference Design (QRD) products, to premium-tier devices. In fiscal 2013, QCT shipped approximately 716 million MSM integrated circuits for wireless devices worldwide as compared to approximately 590 million and 483 million in fiscal 2012 and 2011, respectively. 
+
+Our modems are built to work with increasingly complex networks. They support the latest communication technologies and adapt to network conditions and user needs in real time to enable delivery of faster, smoother data and voice connections. Our 3G/4G modem roadmap delivers the latest network technologies across multiple product tiers and devices. This roadmap is the result of our years of research into emerging network standards and the development of chipsets that take advantage of these new standards, while maintaining backward compatibility with existing standards. 
+
+Each Snapdragon processor is a highly integrated, mobile optimized system on a chip incorporating our advanced technologies, including a high performance CPU, digital signal processor (DSP), GPU and modem, multimedia subsystems, including audio, high-definition video and camera capabilities, and highly accurate location positioning engines. Our CPU cores are designed to deliver high levels of compute performance at low power, allowing manufacturers to design slim and powerful devices with longer battery life between charges. Our GPUs are also designed to deliver graphics performance for visually rich 3D gaming and user interfaces. The heterogeneous compute architecture of our Snapdragon processors is designed to ensure that the CPU, DSP and GPU work efficiently together, each being powered up and utilized only when needed, which enhances the processing capacity, speed and efficiency of our Snapdragon processors and provides longer battery life of the devices using our processors. Most Snapdragon processors also incorporate our modem technology for advanced mobile broadband. 
+
+Our wireless products also consist of integrated circuits and system software for WLAN, Bluetooth, frequency modulation (FM) and near field communications (NFC) as well as technologies that enable location data and services, including GPS, GLONASS and BeiDou. Our wireless technologies are provided in the form of WLAN; Bluetooth and FM products, for which the technologies are integrated into the cellular modem and combined with a companion RF chip; WLAN and Bluetooth combination chips; and stand-alone products. Our wired connectivity products consist of integrated circuits and software for Ethernet and Powerline networks. Our wired portfolio enables delivery of richer, comprehensive multi-connectivity product platforms to our networking, computing and consumer electronics customer base. We also developed the combination of WLAN, Powerline and Ethernet technologies to deliver hybrid networking platforms designed for home, known as Hi-Fi products. The technology has now evolved to become the multiple-physical layer (multi-PHY) networking standard known as the IEEE 1905.1. 
+
+QCT utilizes a fabless production model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Integrated circuits are die cut from silicon wafers that have been assembled into packages or modules and have completed the final test manufacturing processes. Die cut from silicon wafers are the essential components of all of our integrated circuits and a significant portion of the total integrated circuit cost. We employ both turnkey and two-stage manufacturing models to purchase our integrated circuits. Turnkey is when our foundry suppliers are responsible for delivering fully assembled and tested integrated circuits. Under the two-stage manufacturing model, we 
+
+&#32;5 
+
+purchase wafers and die from semiconductor manufacturing foundries and contract with separate third-party suppliers for probe, assembly and test services. 
+
+We rely on independent third-party suppliers to perform the manufacturing and assembly, and most of the testing, of our integrated circuits based primarily on our proprietary designs and test programs. Our suppliers also are responsible for the procurement of most of the raw materials used in the production of our integrated circuits, which we believe are currently generally available. The primary foundry suppliers for our various digital, analog/mixed-signal, RF and PM integrated circuits are Global Foundries Inc., International Business Machines Corporation, Samsung Electronics Co. Ltd., Semiconductor Manufacturing International Corporation, Taiwan Semiconductor Manufacturing Company and United Microelectronics Corporation. The primary semiconductor assembly and test suppliers are Advanced Semiconductor Engineering, Amkor Technology, Siliconware Precision Industries and STATSChipPAC. The majority of our foundry and subcontract assembly and test suppliers are located in the Asia-Pacific region. 
+
+QCT&#8217;s sales are primarily made through standard purchase orders for delivery of products. QCT generally allows customers to reschedule delivery dates within a defined time frame and to cancel orders prior to shipment with or without payment of a penalty, depending on when the order is canceled. The market in which QCT operates is intensely competitive. QCT competes worldwide with a number of United States and international designers and manufacturers of semiconductors. As a result of global expansion by foreign and domestic competitors, technological changes, device manufacturer concentrations and the potential for further industry consolidation, we anticipate the market to remain very competitive. We believe that the principal competitive factors for our products may include performance, level of integration, quality, compliance with industry standards, price, time-to-market, system cost, design and engineering capabilities, new product innovation and customer support. QCT also competes in both single- and dual-mode environments against alternative communications technologies including, but not limited to, GSM/GPRS/EDGE, TDMA and TD-SCDMA. 
+
+QCT&#8217;s current competitors include, but are not limited to, companies such as Broadcom, Ericsson, HiSilicon Technologies, Intel, Lantiq, Marvell Technology, Maxim Integrated Products, MediaTek, nVidia, Realtek Semiconductor, Samsung Electronics, Spreadtrum Communications, Texas Instruments and VIA Telecom. QCT also faces competition from internally developed products by our customers, including some of our largest customers, and from some early-stage companies. Our competitors devote significant amounts of their financial, technical and other resources to develop and market competitive products and, in some cases, to develop and adopt competitive digital communication or signal processing technologies, and those efforts may materially and adversely affect QCT. Moreover, some of these current and potential competitors have advantages over us that include, among others: motivation by our customers in certain circumstances to find alternate suppliers; foreign government support of other technologies or competitors; more extensive relationships with local distribution companies and original equipment manufacturers in emerging geographic regions (e.g., China); lower cost structures; and/or a more established presence in certain device markets. 
+
+QTL (Qualcomm Technology Licensing) Segment. &#32;QTL grants licenses or otherwise provides rights to use portions of our intellectual property portfolio, which, among other rights, includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products, including, without limitation, products implementing CDMA2000, WCDMA, CDMA TDD (including TD-SCDMA), GSM/GPRS/EDGE and/or OFDMA (including LTE) standards and their derivatives. Our licensees manufacture wireless products, such as mobile devices, also known as subscriber units, which include handsets, other consumer devices (e.g., tablets, personal computers, e-readers, personal navigation devices), machine-to-machine devices (e.g., telematics devices, meter reading devices) and plug-in end user data modem cards, certain embedded modules for incorporation into end user products, the infrastructure equipment required to establish and operate a network, and equipment to test networks and subscriber units. QTL licensing revenues are comprised of license fees as well as royalties based on worldwide sales by licensees of products incorporating or using our intellectual property. License fees are fixed amounts paid in one or more installments. Royalties are generally based upon a percentage of the wholesale (i.e., licensee&#8217;s) selling price of complete licensed products, net of certain permissible deductions (e.g., certain shipping costs, packing costs, VAT, etc.). Revenues generated from royalties are subject to quarterly and annual fluctuations. The vast majority of QTL revenues have been generated through our licensees&#8217; sales of CDMA2000- and WCDMA-based products, such as feature phones and smartphones. 
+
+Separate and apart from licensing manufacturers of wireless products and devices and network equipment, we have entered into certain arrangements with competitors of our QCT segment, such as Broadcom, Fujitsu, MediaTek, NEC, Texas Instruments and VIA Telecom. A principal purpose of these arrangements is to provide our QCT segment and the counterparties certain freedom of operation with respect to each party&#8217;s integrated circuits business. In every case, these agreements expressly reserve the right for QTL to seek royalties from the customers of such integrated circuit suppliers with respect to such suppliers&#8217; customers&#8217; sales of CDMA-, WCDMA- and OFDMA-based wireless devices into which such suppliers&#8217; integrated circuits are incorporated. 
+
+We face competition in the development of intellectual property for future generations of digital wireless communications technology and services. On a worldwide basis, we currently compete primarily with the GSM/GPRS/EDGE digital wireless 
+
+&#32;6 
+
+communications technologies. GSM has been utilized extensively in Europe, much of Asia, other than Japan and South Korea, and certain other countries. To date, GSM has been more widely adopted than CDMA; however, CDMA technologies have been adopted for all 3G wireless systems. In addition, most GSM operators deployed GPRS, a packet data technology, as a 2G bridge technology, and a number of GSM operators deployed EDGE. However, the majority of GSM operators have already augmented their networks with 3G WCDMA and HSPA. According to the Global mobile Suppliers Association (GSA), as of October 2013, more than 220 wireless operators have commercially deployed and other wireless operators have started testing LTE, a multi-carrier transmission technique based on OFDMA technology. According to GSA, more than 420 wireless operators have committed to deploy LTE networks. We have invested in both the acquisition and the development of OFDMA technology and intellectual property. We expect that upon the initial deployment of OFDMA-based networks, the products implementing such technologies generally will be multimode and will also implement CDMA-based technologies. The licenses granted under our existing CDMA license agreements generally cover multimode CDMA/OFDMA (3G/4G) devices, and our licensees are obligated to pay royalties under their CDMA license agreements for such devices. Further, over 90 companies (including LG, Nokia, Samsung and ZTE) have royalty-bearing licenses under our patent portfolio for use in single-mode OFDMA products (which do not implement any CDMA-based standards). 
+
+Since our founding in 1985, we have focused heavily on technology development and innovation. These efforts have resulted in a leading intellectual property portfolio related to, among other things, wireless technology. We have an extensive portfolio of United States and foreign patents, and we continue to pursue patent applications around the world. Our patents have broad coverage in many countries, including Brazil, China, India, Japan, South Korea, Taiwan and countries in Europe and elsewhere. A substantial portion of our patents and patent applications relate to digital wireless communications technologies, including patents that are essential or may be important to the commercial implementation of CDMA2000, WCDMA (UMTS), TD-SCDMA, TD-CDMA and OFDMA products. Because all commercially deployed forms of CDMA and their derivatives require the use of our patents, our patent portfolio is the most widely and extensively licensed portfolio in the industry with over 250 licensees. Over the years, a number of companies have challenged our patent position, but at this time, companies in the mobile communications industry generally recognize that any company seeking to develop, manufacture and/or sell subscriber units or infrastructure equipment that use CDMA and/or OFDMA technologies will require a license or other rights to use our patents. 
+
+As part of our strategy to generate licensing revenues that continue to support our research and development investments and support worldwide adoption of our CDMA, OFDMA and other technologies, we provide rights to design, manufacture and sell products utilizing certain portions of our intellectual property to other companies. 
+
+We have licensed or otherwise provided rights to use our patented technologies to interested companies on terms that are fair, reasonable and non-discriminatory. Unlike some other companies in our industry that hold back certain key technologies, we offer interested companies essentially our entire patent portfolio for use in cellular subscriber devices and cell site infrastructure equipment. Our strategy to make our patented technologies broadly available has been a catalyst for industry growth, helping to enable a wide range of companies offering a broad array of wireless products and features while increasing the capabilities of and/or driving down average and low-end selling prices for 3G handsets and other wireless devices. By licensing or otherwise providing rights to use our patented technologies to a wide range of equipment manufacturers, encouraging innovative applications, supporting equipment manufacturers with integrated chipset and software products, and focusing on improving the efficiency of the airlink for wireless operators, we have helped 3G CDMA evolve, grow and reduce device pricing all at a faster pace than the 2G technologies that preceded it (e.g., GSM). 
+
+Standards bodies have been informed that we hold patents that might be essential for all 3G standards that are based on CDMA. We have committed to such standards bodies that we will offer to license our essential patents for these CDMA standards on a fair, reasonable and non-discriminatory basis. We have also informed standards bodies that we hold patents that might be essential for certain standards that are based on OFDMA technology (e.g., 802.16e, 802.16m and LTE (including FDD and TDD versions)) and have committed to offer to license our essential patents for these OFDMA standards on a fair, reasonable and non-discriminatory basis. 
+
+Our license agreements generally provide us rights to use certain of our licensees&#8217; technology and intellectual property to manufacture and sell certain components (e.g., Application-Specific Integrated Circuits) and related software, subscriber units and/or infrastructure equipment. In most cases, our use of our licensees&#8217; technology and intellectual property does not require us to pay royalties based on the sale of our products. However, under some of the licenses, if we incorporate certain of our licensees&#8217; licensed technology or intellectual property into certain of our products, we are obligated to pay royalties on the sale of such products. 
+
+&#32;7 
+
+QWI (Qualcomm Wireless &#38; Internet) Segment. &#32;The four divisions aggregated into QWI are: 
+
+Omnitracs Division . Omnitracs designs, manufactures and sells equipment, licenses software and provides services to our customers to manage their assets, products and workforce. Omnitracs offers satellite- and terrestrial-based two-way wireless information and position location services to transportation and logistics fleets that enable customers to track the location and monitor performance of their assets, communicate with their personnel and collect data. On August 21, 2013, we entered into a definitive agreement under which we agreed to sell the North and Latin American operations of Omnitracs to a U.S.-based private equity firm for $800 million in cash, subject to the terms and conditions of the definitive agreement. The transaction is subject to customary closing conditions, including receipt of regulatory approvals, and is expected to close in the first quarter of fiscal 2014. &#32; 
+
+QIS (Qualcomm Internet Services) Division. &#32;QIS provides software products and content enablement services to wireless operators worldwide to support and accelerate the growth and advancement of wireless data products and services. We offer Brew and Plaza platform products and services for wireless applications development, device configuration, application distribution and billing and payment. Our QChat product enables one-to-one (private) and one-to-many (group) push-to-talk (PTT) calls over 3G networks. 
+
+QGOV (Qualcomm Government Technologies) Division. &#32;QGOV provides development and other services and related products involving wireless communications technologies to U.S. government agencies and their contractors. Based on the percentage of QGOV revenues to our total consolidated revenues, no government agencies or their contractors are major customers. 
+
+QRS (Qualcomm Retail Solutions) Division. &#32;QRS, our retail services business, builds and manages software applications that enable certain mobile location-awareness and commerce services. 
+
+QSI (Qualcomm Strategic Initiatives) Segment. &#32;QSI makes strategic investments that we believe may open new or expand opportunities for our technologies, support the design and introduction of new products and services for voice and data communications or possess unique capabilities or technology. Many of these strategic investments are in early-stage companies. QSI also holds wireless spectrum. As part of our strategic investment activities, we intend to pursue various exit strategies from each of our QSI investments in the future. 
+
+Other Businesses. Nonreportable segments are comprised of our QMT (Qualcomm MEMS Technologies) division and other display, wireless technology and services initiatives that include, but are not limited to: low power consumption, high optical performance flat display modules; medical device connectivity and related data management; augmented reality; and device-to-device communication. QMT continues to develop an interferometric modulator (IMOD) display technology based on micro-electro-mechanical-systems (MEMS) structure combined with thin film optics. 
+
+Seasonality. &#32;Many of our products or intellectual property are incorporated into consumer wireless devices, which are subject to seasonality and other fluctuations in demand. As a result, QCT has tended historically to have stronger sales toward the end of the calendar year as manufacturers prepare for major holiday selling seasons, and QTL has tended to record higher royalty revenues in the first calendar quarter when licensees report their sales made during the fourth calendar quarter. These seasonal trends may or may not continue in the future. 
+
+Additional information regarding our operating segments is provided in the notes to our consolidated financial statements in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 8. Segment Information.&#8221; 
+
+Corporate Structure 
+
+We operate our businesses through our parent company, QUALCOMM Incorporated, and multiple direct and indirect subsidiaries. We have developed our corporate structure in order to address various legal, regulatory, tax, contractual compliance, operations and other matters. 
+
+&#32;At the beginning of fiscal 2013, we completed a corporate reorganization in which certain assets of QUALCOMM Incorporated, as well as the stock of certain of its direct and indirect subsidiaries, were contributed to its wholly-owned subsidiary Qualcomm Technologies, Inc. (QTI). QTL continues to be operated by QUALCOMM Incorporated, which continues to own the vast majority of our patent portfolio. Substantially all of our products and services businesses, including QCT, and substantially all of our engineering, research and development functions, are operated by QTI and its subsidiaries. Neither QTI nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by QUALCOMM Incorporated. 
+
+&#32;8 
+
+Revenue Concentrations, Significant Customers and Geographical Information 
+
+Consolidated revenues from international customers and licensees as a percentage of total revenues were 97%, 95% and 94% in fiscal 2013 , 2012 &#32;and 2011 , respectively. During fiscal 2013 , 49% , 20% &#32;and 11% &#32;of our revenues were from customers and licensees based in China, South Korea and Taiwan, respectively, as compared to 42% , 22% &#32;and 14% &#32;during fiscal 2012 , respectively, and 32% , 19% &#32;and 17% &#32;during fiscal 2011 , respectively. We distinguish revenues from external customers by geographic areas based on the location to which our products, software or services are delivered, or for QTL licensing revenues, the invoiced addresses of our licensees. Additional geographic information is provided in the notes to our consolidated financial statements in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 8. Segment Information.&#8221; 
+
+A small number of customers/licensees historically have accounted for a significant portion of our consolidated revenues. In fiscal 2013 , 2012 &#32;and 2011 , revenues from Samsung Electronics constituted more than 10% of consolidated revenues; in fiscal 2013 &#32;and 2012, revenues from Hon Hai Precision Industry Co., Ltd./Foxconn, its affiliates and other suppliers to Apple Inc. constituted more than 10% of consolidated revenues; and in fiscal 2011 , revenues from HTC constituted more than 10% of consolidated revenues. 
+
+Research and Development 
+
+The communications industry is characterized by rapid technological change, requiring a continuous effort to enhance existing products and technologies and to develop new products and technologies. We have significant engineering resources, including engineers with substantial expertise in CDMA, OFDMA and a broad range of other technologies. Using these engineering resources, we expect to continue to invest in research and development in a variety of ways in an effort to extend the demand for our products and services, including developing new versions of CDMA, OFDMA and other technologies, developing alternative technologies for certain specialized applications, participating in the formulation of new voice and data communication standards and technologies and assisting in deploying digital voice and data communications networks around the world. 
+
+Our research and development team has a demonstrated track record of innovation in voice and data communication technologies. Our research and development expenditures in fiscal 2013, 2012 and 2011 totaled approximately $5.0 billion , $3.9 billion &#32;and $3.0 billion , respectively, and as a result, we continue to expand and enhance our products, services and intellectual property portfolios. 
+
+We develop, commercialize and actively support 3G CDMA-based technologies, including CDMA2000 1X, 1xEV-DO, EV-DO Revision A, EV-DO Revision B, 1x Advanced, WCDMA, HSDPA, HSUPA and HSPA+, as well as OFDMA-based LTE technologies, products and network operations, to grow our royalty and integrated circuit and related software revenues. From time to time, we also make acquisitions to meet certain technology needs, to obtain development resources or to pursue new business opportunities. 
+
+We make investments to provide our integrated circuit customers with chipsets designed on leading-edge technology nodes that combine multiple technologies for use in consumer devices, including smartphones, consumer electronics and other devices. In addition to 3G and 4G LTE technologies, our chipsets support other wireless and wired connectivity technologies, including WLAN, Bluetooth, Ethernet, GPS, GLONASS and Powerline Communication. Our integrated chipsets often include multiple technologies, including advanced multimode modems, application processors and graphics engines, as well as the tools to connect these diverse technologies. We continue to support Android, Windows Phone/RT and other mobile client software environments in our chipsets. 
+
+We develop on our own, and with our partners, innovations that are integrated into our product portfolio to further expand the opportunity for wireless communications and enhance the value of our products and services. These innovations are expected to enable our customers to improve the performance or value of their existing services, offer these services more affordably and introduce revenue-generating broadband data services ahead of their competition. 
+
+We have research and development centers in various locations throughout the world that support our global development activities and ongoing efforts to advance CDMA, OFDMA and a broad range of other technologies. We continue to use our substantial engineering resources and expertise to develop new technologies, applications and services and make them available to licensees to help grow the communications industry and generate new or expanded licensing opportunities. In addition to internally sponsored research and development, we perform contract research and development for various government agencies and commercial contractors. 
+
+We continue to develop our interferometric modulator (IMOD) and other display technologies. We intend to license our next generation IMOD display technology, while we continue to develop and directly commercialize certain IMOD consumer-targeted mobile products. Our IMOD display technology, based on a micro-electro-mechanical-systems (MEMS) structure 
+
+&#32;9 
+
+combined with thin film optics, is intended to provide performance and power consumption benefits as compared to other display technologies. 
+
+We make investments across a broad spectrum of opportunities that leverage our existing technical and business expertise to deploy new business models and enter into new industry segments, such as technologies to address the growth of mobile data traffic, including 3G/LTE and Wi-Fi products designed for implementation of small cells, which can be used by carriers to extend the capacity of licensed and unlicensed wireless spectrum and the 1000x data challenge; wireless charging; proximity-based communications; very high speed connectivity; mobile location awareness and commerce; mobile health; wearable technology; gaming; and products for the connected home, the digital 6th sense and the Internet of Everything. 
+
+Sales and Marketing 
+
+Sales and marketing activities of our operating segments are discussed under Operating Segments. Other marketing activities include public relations, advertising, web-marketing, participation in technical conferences and trade shows, development of business cases and white papers, competitive analyses, industry intelligence and other marketing programs, such as marketing development funds with our customers. Our Corporate Marketing department provides company information on our Internet site and through other media regarding our products, strategies and technology to industry analysts and for publications. 
+
+Competition 
+
+Competition faced by our operating segments is discussed under Operating Segments. Competition in the communications industry throughout the world continues to increase at a rapid pace as consumers, businesses and governments realize the potential of wireless communications products and services. We have facilitated competition in the wireless communications industry by licensing our technologies to, and therefore enabling, a large number of manufacturers. Although we have attained a significant position in the industry, many of our current and potential competitors may have advantages over us, which include, among others, motivation by our customers in certain circumstances to find alternate suppliers or choose alternate technologies and foreign government support of other technologies (e.g., GSM) or our competitors. In addition, our competitors may have established more extensive relationships with local distribution and original equipment manufacturer companies in emerging geographic regions (e.g., China) or a more established presence in certain device markets. These relationships may affect customers&#8217; decisions to purchase products or license technology from us. Accordingly, new competitors or alliances among competitors could emerge and rapidly acquire significant market positions to our detriment. 
+
+We expect to continue to face competition throughout the world as new technologies and services are introduced in the future and as additional companies compete with our products or services based on 3G, 4G or other technologies. Although we intend to continue to make substantial investments in developing new products and technologies and improving existing products and technologies, our competitors may introduce alternative products, services or technologies that threaten our business. It is also possible that the price we charge for our products and services may continue to decline as competition continues to intensify. 
+
+Corporate Responsibility 
+
+We strive to better our local and global communities through ethical business practices, socially empowering technology applications, educational and environmental programs and employee diversity and volunteerism. 
+
+##TABLE_START &#8226; 
+
+Our Governance. We aim to demonstrate accountability, transparency, integrity and ethical business practices throughout our operations and interactions with our stakeholders. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Our Products. &#32;We strive to meet or exceed industry standards for product responsibility and supplier management. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Our Workplace. &#32;We endeavor to provide a safe and healthy work environment where diversity is embraced and various opportunities for training, growth, and advancement are strongly encouraged for all employees. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Our Community. &#32;We have strategic relationships with a wide range of local organizations and programs that develop and strengthen communities worldwide. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Our Environment. &#32;We aim to expand our operations while minimizing our carbon footprint, conserving water and reducing waste. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Wireless Reach. &#32;We invest in projects that foster entrepreneurship, aid in public safety, enhance delivery of health care, enrich teaching and learning and improve environmental sustainability through the use of 3G and next-generation technologies. 
+
+##TABLE_END &#32;10 
+
+Employees 
+
+At September 29, 2013 , we employed approximately 31,000 full-time, part-time and temporary employees. During fiscal 2013 , the number of employees increased by approximately 4,300, primarily due to increases in engineering resources. 
+
+Available Information 
+
+Our Internet address is www.qualcomm.com. There we make available, free of charge, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). We also make available on our Internet site public financial information for which a report is not required to be filed with or furnished to the SEC. Our SEC reports and other financial information can be accessed through the investor relations section of our Internet site. The information found on our Internet site is not part of this or any other report we file with or furnish to the SEC. 
+
+Executive Officers 
+
+Our executive officers (and their ages at September 29, 2013 ) are as follows: 
+
+Paul E. Jacobs, age 50, has served as Chairman of the Board of Directors since March 2009, as a director since June 2005 and as Chief Executive Officer since July 2005. He served as Group President of QWI from July 2001 to June 2005. In addition, he served as Executive Vice President from February 2000 to June 2005. Dr. Jacobs was a director of A123 Systems, Inc. from November 2002 to July 2012. Dr. Jacobs holds a B.S. degree in Electrical Engineering and Computer Science, an M.S. degree in Electrical Engineering and a Ph.D. degree in Electrical Engineering and Computer Science from the University of California, Berkeley. 
+
+Steven R. Altman, age 52, has served as Vice Chairman since November 2011. He served as President from July 2005 to November 2011, as Executive Vice President from November 1997 to June 2005 and as President of QTL from September 1995 to April 2005. Mr. Altman has been a director of Ubiquiti Networks, Inc. since October 2013 and DexCom, Inc. since November 2013. Mr. Altman holds a B.S. degree in Police Science and Administration from Northern Arizona University and a J.D. degree from the University of San Diego. Mr. Altman will retire from Qualcomm effective January 3, 2014. 
+
+Derek K. Aberle, age 43, has served as Executive Vice President and Group President since November 2011. He served as Executive Vice President and President of QTL from September 2008 to November 2011 and as Senior Vice President and General Manager of QTL from October 2006 to September 2008. Mr. Aberle joined Qualcomm in December 2000 and prior to October 2006 held positions ranging from Legal Counsel to Vice President and General Manager of QTL. Mr. Aberle holds a B.A. degree in Business Economics from the University of California, Santa Barbara and a J.D. degree from the University of San Diego. 
+
+Cristiano R. Amon, age 43, has served as Executive Vice President, Qualcomm Technologies, Inc. and Co-President of QCT since October 2012. He served as Senior Vice President, Qualcomm Incorporated and Co-President of QCT from June 2012 to October 2012, as Senior Vice President, QCT Product Management from October 2007 to June 2012 and as Vice President, QCT Product Management from September 2005 to October 2007. Mr. Amon joined Qualcomm in 1995 as an engineer and throughout his tenure at Qualcomm held several other technical and leadership roles. Mr. Amon holds a B.S. degree in Electrical Engineering from UNICAMP, the State University of Campinas, Brazil. 
+
+George S. Davis, age 55, has served as Executive Vice President and Chief Financial Officer since March 2013. Prior to joining Qualcomm, Mr. Davis was Chief Financial Officer of Applied Materials, Inc., a provider of equipment, services and software for the manufacture of advanced semiconductor, flat panel displays and solar photovoltaic products, from November 2006 to March 2013. Mr. Davis held several other leadership roles at Applied Materials from November 1999 to November 2006. Prior to joining Applied Materials, Mr. Davis served 19 years with Atlantic Richfield Company, a global oil, gas and chemical company, in a number of finance and other corporate positions. Mr. Davis holds a B.A. degree in Economics and Political Science from Claremont McKenna College and an M.B.A. degree from the University of California, Los Angeles. 
+
+Andrew M. Gilbert, age 50, has served as Executive Vice President, Qualcomm Europe, Inc. and European Innovation Development since January 2011. He served as Executive Vice President and President of Qualcomm Europe from September 2010 to January 2011, as Executive Vice President and President of QIS and Qualcomm Europe from May 2009 to September 2010 and as Executive Vice President and President of QIS, our former MFT division and Qualcomm Europe from January 2008 to May 2009. He served as Senior Vice President and President of Qualcomm Europe from November 2006 to January 2008 and as President of Qualcomm Europe from February 2006 to November 2006. Mr. Gilbert joined Qualcomm in January 2006 as Vice President of Qualcomm Europe. Prior to joining Qualcomm, he served as Vice President and General 
+
+&#32;11 
+
+Manager of Flarion Technologies, Inc.&#8217;s European, Middle Eastern and African regions from May 2002 to January 2006. Mr. Gilbert will retire from Qualcomm effective December 30, 2013. 
+
+Matthew S. Grob, age 47, has served as Executive Vice President, Qualcomm Technologies, Inc. and Chief Technology Officer since October 2012. He served as Executive Vice President, Qualcomm Incorporated and Chief Technology Officer from July 2011 to October 2012 and as Senior Vice President, Engineering from July 2006 to July 2011. Mr. Grob joined Qualcomm in August 1991 as an engineer and throughout his tenure at Qualcomm held several other technical and leadership roles. Mr. Grob holds a B.S. degree in Electrical Engineering from Bradley University and an M.S. degree in Electrical Engineering from Stanford University. 
+
+Margaret &#8220;Peggy&#8221; L. Johnson, age 51, has served as Executive Vice President, Qualcomm Technologies, Inc. and President of Global Market Development since October 2012. She served as Executive Vice President, Qualcomm Incorporated and President of Global Market Development from January 2011 to October 2012. She served as Executive Vice President of the Americas and India from January 2008 to January 2011 and as Executive Vice President since December 2006. She served as President of our former MFT division from December 2005 to January 2008 and as President of QIS from July 2001 to January 2008. She served as Senior Vice President and General Manager of QIS from September 2000 to July 2001. Ms. Johnson has been a director of Live Nation Entertainment, Inc. since June 2013. Ms. Johnson holds a B.S. degree in Electrical Engineering from San Diego State University. 
+
+James P. Lederer, age 53, has served as Executive Vice President, Qualcomm Technologies, Inc. and General Manager of QCT since October 2012. He served as Executive Vice President, Qualcomm Incorporated and General Manager of QCT from May 2009 to October 2012, as Executive Vice President, QCT Business Planning and Finance from May 2008 to May 2009 and as Senior Vice President, Finance from April 2005 to May 2008. Mr. Lederer joined Qualcomm in 1997 as Senior Manager, Corporate Finance and throughout his tenure at Qualcomm held several other finance and leadership roles. Mr. Lederer holds a B.S. degree in Business Administration (Finance/MIS) and an M.B.A. degree from the State University of New York at Buffalo. Mr. Lederer will retire from Qualcomm effective January 3, 2014. 
+
+Steven M. Mollenkopf, age 44, has served as President and Chief Operating Officer since November 2011. He served as Executive Vice President and Group President from September 2010 to November 2011, as Executive Vice President and President of QCT from August 2008 to September 2010, as Executive Vice President, QCT Product Management from May 2008 to July 2008, as Senior Vice President, Engineering and Product Management from July 2006 to May 2008 and as Vice President, Engineering from April 2002 to July 2006. Mr. Mollenkopf joined Qualcomm in 1994 as an engineer and throughout his tenure at Qualcomm held several other technical and leadership roles. Mr. Mollenkopf holds a B.S. degree in Electrical Engineering from Virginia Tech and an M.S. degree in Electrical Engineering from the University of Michigan. 
+
+Venkata S.M. &#8220;Murthy&#8221; Renduchintala, age 48, has served as Executive Vice President, Qualcomm Technologies, Inc. and Co-President of QCT since October 2012. He served as Senior Vice President, Qualcomm Incorporated and Co-President of QCT from June 2012 to October 2012, as Senior Vice President, QCT Engineering from October 2007 to June 2012 and as Vice President, QCT Engineering from April 2004 to October 2007. Dr. Renduchintala holds a B.E. degree in Electrical Engineering, an M.B.A. degree and a Ph.D. degree in Digital Communication from the University of Bradford, United Kingdom. 
+
+Donald J. Rosenberg, age 62, has served as Executive Vice President, General Counsel and Corporate Secretary since October 2007. He served as Senior Vice President, General Counsel and Corporate Secretary for Apple Inc. from December 2006 to October 2007. From May 1975 to November 2006, Mr. Rosenberg held numerous positions at IBM Corporation, including Senior Vice President and General Counsel. Mr. Rosenberg holds a B.S. degree in Mathematics from the State University of New York at Stony Brook and a J.D. degree from St. John&#8217;s University School of Law. 
+
+Daniel L. Sullivan, age 62, has served as Executive Vice President of Human Resources since August 2001. He previously served as Senior Vice President of Human Resources from February 1996 to July 2001. Dr. Sullivan holds a B.S. degree in Communication from Illinois State University, an M.A. degree in Communication from West Virginia University and a Ph.D. degree in Communication from the University of Nebraska. 
+
+James H. Thompson, age 49, has served as Executive Vice President, Engineering for Qualcomm Technologies, Inc. since October 2012. He served as Senior Vice President, Engineering for Qualcomm Incorporated from July 1998 to October 2012. Dr. Thompson joined Qualcomm in 1992 as a senior engineer and throughout his tenure at Qualcomm held several other technical and leadership roles. Dr. Thompson holds B.S., M.S. and Ph.D. degrees in Electrical Engineering from the University of Wisconsin. 
+
+
+
+ Item 1A. Risk Factors 
+
+You should consider each of the following factors as well as the other information in this Annual Report in evaluating our business and our prospects. The risks and uncertainties described below are not the only ones we face. Additional risks and 
+
+&#32;12 
+
+uncertainties not presently known to us or that we currently consider immaterial may also impair our business operations. If any of the following risks actually occur, our business and financial results could be harmed. In that case, the trading price of our common stock could decline. You should also refer to the other information set forth in this Annual Report, including our financial statements and the related notes. 
+
+Risks Related to Our Businesses 
+
+Our revenues depend on the commercial deployment of CDMA, OFDMA and other communications technologies, continuing growth in our customers&#8217; and licensees&#8217; sales of products and services based on these technologies and our ability to continue to drive customer demand for our products and services based on these technologies. 
+
+We develop, patent and commercialize technology and products based on CDMA, OFDMA and other communications technologies. We depend on our customers, licensees, operators of CDMA- and OFDMA-based wireless networks and other industries to use our technologies, and on the timing of their deployment of new products and services, and they may incur lower gross margins on products or services based on these technologies than on products and services based on alternative technologies. We also depend on our customers and licensees to develop products and services with value-added features to drive selling prices as well as consumer demand for new 3G and 3G/4G devices. Our revenues and/or growth in revenues could be negatively impacted, our business may be harmed and our substantial investments in these technologies may not provide us an adequate return, if: 
+
+##TABLE_START &#8226; 
+
+wireless operators and other industries deploy alternative technologies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+wireless operators delay 3G and/or 3G/4G multimode network deployments, expansions or upgrades and/or delay moving 2G customers to 3G, 3G/4G multimode or 4G wireless devices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+LTE, an OFDMA-based 4G wireless technology, is not more widely deployed or commercial deployment is delayed; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+government regulators delay the reallocation of 2G spectrum to allow wireless operators to upgrade their networks to 3G, thereby restricting the expansion of 3G/4G wireless connectivity; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+wireless operators are unable to drive improvements in 3G or 3G/4G multimode network performance and/or capacity; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our customers&#8217; and licensees&#8217; sales of products and services using these technologies, particularly premium-tier device products, do not grow or do not grow as quickly as anticipated; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+we are unable to drive the adoption of our products and services into networks and devices based on CDMA, OFDMA and other communications technologies. 
+
+##TABLE_END Our industry is subject to competition in an environment of rapid technological change that could result in decreased demand and/or declining average selling prices for our products and those of our customers and/or licensees and/or result in placing new specifications or requirements on our products, each of which could negatively affect our revenues and operating results. 
+
+Our products, services and technologies face significant competition, and the revenues they generate or the timing of their deployment, which may depend on the actions of others, may not meet expectations. Competition in the communications industry is affected by various factors that include, among others: evolving industry standards and business models; evolving methods of transmission for voice and data communications; networking and connectivity trends; evolving nature of computing (including demand for always on, always connected capabilities); rapid technological change; value-added features that drive selling prices as well as consumer demand for new 3G and 3G/4G devices; turnkey, integrated products that incorporate hardware, software, user interface, applications and reference designs; rapid growth in mobile data consumption; device manufacturer concentrations; growth in emerging geographic regions; scalability; and the ability of the system technology to meet customers&#8217; immediate and future network requirements. We anticipate that additional competitors will introduce products as a result of growth opportunities in wireless communications, the trend toward global expansion by foreign and domestic competitors, technological and public policy changes and relatively low barriers to entry in selected segments of the industry. 
+
+Our future success will depend on, among other factors, our ability to: 
+
+##TABLE_START &#8226; 
+
+develop innovative, differentiated integrated circuit products at competitive cost and price points for emerging and developed geographic regions and across device tiers (e.g., premium- and low-tier smartphones); 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increase and/or accelerate demand for our integrated circuit products and drive their adoption into the most popular device models, particularly premium-tier models, and across a broad spectrum of devices, such as smartphones, tablets, e-readers, gaming devices and other mobile computing and connected devices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+strengthen our integrated circuit product roadmap for, and develop channel relationships in, emerging geographic regions, such as China and India, and provide turnkey products for low-tier smartphones; 
+
+##TABLE_END &#32;13 
+
+##TABLE_START &#8226; 
+
+be a preferred partner (and sustain preferred relationships) providing integrated circuit products that support multiple operating system platforms to the partners that effectively commercialize new devices using these platforms; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+continue to be a leader in 4G technology evolution, including expansion of our OFDMA-based single mode licensing program, and continue to innovate and introduce 4G turnkey, integrated products and services that differentiate us from our competition; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+be a leader serving original equipment manufacturers, high level operating systems (HLOS) providers, operators and other industry participants as competitors, new market entrants and other factors continue to affect the industry landscape; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+increase and/or accelerate demand for our wired and wireless connectivity products, including networking products for consumers, carriers and enterprise equipment and connected devices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+become a leading supplier of small cell technology (which allows inexpensive cell sites deployed by users to connect to traditional cellular networks through wired internet connections) to enable significant network capacity expansion to meet anticipated growth in mobile data traffic; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+continue to develop brand recognition to effectively compete against better known companies in mobile computing and other consumer driven segments and to deepen our presence in significant emerging geographic regions; and/or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+create stand-alone value and/or contribute to the success of our existing businesses through investments in new industry segments and/or disruptive technologies, including new display technologies, wireless charging, mobile health, mobile location awareness and commerce, the connected home and the Internet of Everything, among others. 
+
+##TABLE_END Competition and/or the introduction and growth in sales of low-tier products, particularly relative to premium-tier products, may reduce average selling prices for our chipset products and the products of our customers and licensees. This dynamic is particularly pronounced in emerging geographic regions. Reductions in the average selling prices of our chipset products, without corresponding decreases in average unit costs, would negatively impact our margins. In addition, total royalties payable to us would generally decrease, negatively impacting our revenues, as a result of reductions in the average selling prices of our licensees&#8217; products, unless offset by an increase in volumes. 
+
+Companies that promote standards that are neither CDMA- nor OFDMA-based (e.g., GSM) as well as companies that design integrated circuits based on CDMA, OFDMA or their derivatives are generally competitors or potential competitors. Examples (some of which are strategic partners of ours in other areas) include Broadcom, Ericsson, Fujitsu, HiSilicon Technologies, Intel, Lantiq, Marvell Technology, Maxim Integrated Products, MediaTek, nVidia, Realtek Semiconductor, Samsung Electronics, Spreadtrum Communications, Texas Instruments and VIA Telecom. Some of these current and potential competitors have advantages over us that include, among others: motivation by our customers in certain circumstances to find alternate suppliers; foreign government support of other technologies or competitors; more extensive relationships with local distribution companies and original equipment manufacturers in emerging geographic regions (e.g., China); lower cost structures; and/or a more established presence in certain device markets. 
+
+Certain of our software and our suppliers&#8217; software may contain or may be derived from &#8220;open source&#8221; software, and we have seen, and believe we will continue to see, an increase in customers requesting that we develop products, including software associated with our integrated circuit products, that incorporate open source software elements and operate in an open source environment, which, under certain open source licenses, may offer accessibility to a portion of a product&#8217;s source code and may expose related intellectual property to adverse licensing conditions. Licensing of such software may impose certain obligations on us if we were to distribute derivative works of the open source software. For example, these obligations may require us to make source code for the derivative works available to our customers in a manner that allows them to make such source code available to their customers, or license such derivative works under a particular type of license that is different than what we customarily use to license our software. Developing open source products, while adequately protecting the intellectual property rights upon which our licensing business depends, may prove burdensome and time-consuming under certain circumstances, thereby placing us at a competitive disadvantage for new product designs. Also, our use and our customers&#8217; use of open source software may subject our products and our customers&#8217; products to governmental scrutiny and delays in product certification, which could cause customers to view our products as less desirable than our competitors&#8217; products. While we believe we have taken appropriate steps and employed adequate controls to protect our intellectual property rights, our use of open source software presents risks that could have an adverse effect on these rights and on our business. 
+
+We derive a significant portion of our consolidated revenues from a small number of customers and licensees. If revenues derived from these customers or licensees decrease or the timing of such revenues fluctuate, our operating results could be negatively affected. 
+
+Our QCT segment derives a significant portion of revenues from a small number of customers, and we may be unable to further diversify our customer base. In addition, our industry is experiencing and may continue to experience an increasing 
+
+&#32;14 
+
+concentration of device share among a few companies, and this trend may result in an increasing portion of our revenues being derived from a small number of customers. The loss of any one of our significant customers, a reduction in the purchases of our products by such customers or cancelation of significant purchases from any of these customers would reduce our revenues and could harm our ability to achieve or sustain expected operating results, and a delay of significant purchases, even if only temporary, would reduce our revenues in the period of the delay. Further, concentration of device share among a few companies, and the corresponding purchasing power of these companies, may result in lower prices for our products which, if not accompanied by a sufficient increase in the volume of purchases of our products, could have an adverse effect on our revenues and margins. In addition, the timing and size of purchases by our significant customers may be impacted by the timing of such customers&#8217; new or next generation product introductions, over which we have little or no control, and the timing of such introductions may cause our operating results to fluctuate. Accordingly, if current industry dynamics and concentrations continue, our QCT segment&#8217;s revenues will continue to depend largely upon, and be impacted by, future purchases and the timing and size of any such future purchases by these significant customers. 
+
+Further, companies that provide HLOS for devices, including leading technology companies, have entered the device market. If we fail to effectively partner with these companies, or their partners or customers, they may decide not to purchase (either directly or through their contract manufacturers), or to reduce or discontinue their purchases of, our integrated circuit products. 
+
+In addition, there has been and continues to be litigation among certain of our customers and other industry participants, and the potential outcomes of such litigation, including but not limited to injunctions against devices that incorporate our products or rulings on certain patent law issues that create new legal precedent, could impact our business. 
+
+Although we have more than 250 CDMA-based licensees, our QTL segment derives a significant portion of licensing revenues from a limited number of licensees. Moreover, the future growth and success of our core licensing business will depend in part on the ability of our licensees to develop, introduce and deliver high-volume products that achieve and sustain customer acceptance. We have little or no control over the product development or sales efforts of our licensees, and our licensees might not be successful. Reductions in the average selling prices of wireless devices sold by our major licensees, without a sufficient increase in the volumes of such devices sold, would generally have an adverse effect on our revenues. 
+
+The continued and future success of our licensing programs can be impacted by the deployment of other technologies in place of technologies based on CDMA, OFDMA and their derivatives; the need to extend certain existing license agreements that are expiring and/or to cover additional later patents; and/or the success of our licensing programs for 4G single mode products and emerging industry segments. 
+
+Although we own a very strong portfolio of issued and pending patents related to GSM, GPRS, EDGE, OFDM, OFDMA, WLAN, MIMO and other technologies, our patent portfolio licensing program in these areas is less established and might not be as successful in generating licensing revenues as our CDMA licensing program. Many wireless operators are investigating or have selected OFDMA-based LTE as their next-generation 4G technology for deployment in existing or future wireless spectrum bands as complementary to their existing CDMA-based networks. While 3G/4G multimode products are generally covered by existing 3G licensing agreements, products that implement 4G and do not implement 3G are generally not covered by existing 3G licensing agreements. Although we believe that our patented technology is essential and useful to implementation of the LTE industry standards and have granted royalty-bearing licenses to more than 90 companies (including LG, Nokia, Samsung, Sony Mobile and ZTE) that have realized that they need a license under our patents to make and sell products implementing 4G standards but not implementing 3G standards, the royalty rates for single mode 4G products are generally lower than our royalty rates for 3G and 3G/4G multimode products, and therefore, we might not achieve the same licensing revenues on such LTE products as on 3G or 3G/4G multimode products. In addition, new connectivity services are emerging that rely on devices that may or may not be used on traditional cellular networks, such as devices used in the connected home or the Internet of Everything. Standards, even de facto standards, that develop as these technologies mature, in particular those that do not include a base level of interoperability, may impact our ability to obtain royalties that are equivalent to those that we receive for 3G products used in cellular communications. Although we believe that our patented technology is essential and useful to the commercialization of such services, the royalties we receive may be lower than those we receive from our current licensing program. 
+
+Over the long-term, we need to continue to evolve our patent portfolio. If we do not maintain a strong portfolio that is applicable to current and/or future products and/or services, our future licensing revenues could be negatively impacted. 
+
+The licenses granted to and from us under a number of our license agreements include only patents that are either filed or issued prior to a certain date and, in a small number of agreements, royalties are payable on those patents for a specified time period. As a result, there are agreements with some licensees where later patents are not licensed by or to us and/or royalties are not owed to us under such license agreements after the specified time period. In order to license or to obtain a license to such later patents, or to receive royalties after the specified time period, we will need to extend or modify such license agreements or enter into new license agreements with such licensees. We might not be able to modify those license agreements, or enter into 
+
+&#32;15 
+
+new license agreements, in the future without affecting the material terms and conditions of our license agreements with such licensees, and such modifications or new agreements may negatively impact our revenues. If we are unable to reach agreement on such modifications or new agreements, it could result in patent infringement litigation with such companies. 
+
+Efforts by some communications equipment manufacturers or their customers to avoid paying fair and reasonable royalties for the use of our intellectual property may require the investment of substantial management time and financial resources and may result in legal decisions and/or actions by governments, courts, regulators or agencies, Standards Development Organizations (SDOs) or other industry organizations that harm our business. 
+
+From time to time, companies initiate various strategies to attempt to renegotiate, mitigate and/or eliminate their need to pay royalties to us for the use of our intellectual property. These strategies have included: (i) litigation, often alleging infringement of patents held by such companies, patent misuse, patent exhaustion, patent invalidity and/or patent and/or license unenforceability, or some form of unfair competition; (ii) taking positions contrary to our understanding of their contracts with us; (iii) appeals to governmental authorities; (iv) collective action, including working with wireless operators, standards bodies, other like-minded companies and other organizations, on both formal and informal bases, to adopt intellectual property policies and practices that could have the effect of limiting returns on intellectual property innovations; and (v) lobbying governmental regulators and elected officials for the purpose of seeking the imposition of some form of compulsory licensing and/or to weaken a patent holder&#8217;s ability to enforce its rights or obtain a fair return for such rights. 
+
+In addition, in connection with our participation in SDOs, we, like other patent owners, generally make contractual commitments to such organizations to license those of our patents that would be infringed by standard-compliant products on terms that are fair, reasonable and nondiscriminatory (FRAND). Some manufacturers and users of standard-compliant products advance interpretations of these FRAND commitments that are adverse to our licensing business, including interpretations that would limit the amount of royalties that we could collect on the licensing of our patent portfolio. 
+
+Further, some companies or entities have proposed significant changes to existing intellectual property policies for implementation by SDOs and other industry organizations with the goal of significantly devaluing standards-essential patents. For example, some have put forth proposals which would require a maximum aggregate intellectual property royalty rate for the use of all essential patents owned by all of the member companies to be applied to the selling price of any product implementing the relevant standard. They have further proposed that such maximum aggregate royalty rate be apportioned to each member company with essential patents based upon the number of essential patents held by such company. Others have proposed that injunctions not be an available remedy for infringement of essential patents and/or have made proposals that could severely limit damage awards and other remedies by courts for patent infringement (e.g., by severely limiting the base upon which the royalty percentage may be applied). A number of these strategies are purportedly based on interpretations of the policies of certain SDOs concerning the licensing of patents that are or may be essential to industry standards and on our and/or other companies&#8217; alleged failure to abide by these policies. 
+
+Some courts and governmental agencies have adopted and may in the future adopt some or all of these interpretations or proposals in a manner adverse to our interests, and SDOs may adopt such interpretations or proposals as so-called clarifications or amendments to their intellectual property policies. 
+
+We expect that such proposals, interpretations and strategies will continue in the future, and if successful in the future, our business model would be harmed, either by limiting or eliminating our ability to collect royalties on all or a portion of our patent portfolio, limiting our return on investment with respect to new technologies, limiting our ability to seek injunctions against infringers of our standards-essential patents, or forcing us to work outside of SDOs or other industry groups to promote our new technologies, and our results of operations could be negatively impacted. In addition, the legal and other costs associated with asserting or defending our positions have been and continue to be significant. We assume that such challenges, regardless of their merits, will continue into the foreseeable future and may require the investment of substantial management time and financial resources. 
+
+The enforcement and protection of our intellectual property rights may be expensive, could fail to prevent misappropriation or unauthorized use of our proprietary intellectual property rights, could result in the loss of our ability to enforce one or more patents, or could be adversely affected by changes in patent laws, by laws in certain foreign jurisdictions that may not effectively protect our intellectual property rights or by ineffective enforcement of laws in such jurisdictions. 
+
+We rely primarily on patent, copyright, trademark and trade secret laws, as well as nondisclosure and confidentiality agreements and other methods, to protect our proprietary information, technologies and processes, including our patent portfolio. Policing unauthorized use of our products, technologies and proprietary information is difficult and time consuming. We cannot be certain that the steps we have taken, or may take in the future, will prevent the misappropriation or unauthorized use of our proprietary information and technologies, particularly in foreign countries where the laws may not protect our proprietary intellectual property rights as fully or as readily as United States laws or where the enforcement of such laws may be lacking or ineffective. Some industry participants who have a vested interest in devaluing patents in general, or standards essential patents in particular, have mounted attacks on certain patent systems, increasing the likelihood of changes to 
+
+&#32;16 
+
+established patent laws. In the United States, there is continued discussion regarding potential patent law changes. Many observers anticipate that in the next few years the European Union will adopt a unitary patent system that may broadly impact that region&#8217;s patent regime. We cannot predict with certainty the long-term effects of any potential changes. In addition, we cannot be certain that the laws and policies of any country or the practices of any standards bodies, foreign or domestic, with respect to intellectual property enforcement or licensing or the adoption of standards, will not be changed in the future in a way detrimental to our licensing program or to the sale or use of our products or technology. We have had, and may continue to have, difficulty in certain circumstances in protecting or enforcing our intellectual property rights and/or contracts, including collecting royalties for use of our patent portfolio in particular foreign jurisdictions due to, among others: policies of foreign governments; challenges to our licensing practices under such jurisdictions&#8217; competition laws; adoption of mandatory licensing provisions by foreign jurisdictions (either with controlled/regulated royalties or royalty free); failure of foreign courts to recognize and enforce judgments of contract breach and damages issued by courts in the United States; and/or challenges pending before foreign competition agencies to the pricing and integration of additional features and functionality into our chipset products. 
+
+We may need to litigate in the United States or elsewhere in the world to enforce our intellectual property rights, protect our trade secrets or determine the validity and scope of proprietary rights of others. As a result of any such litigation, we could lose our ability to enforce one or more patents or incur substantial unexpected operating costs. Any action we take to enforce our intellectual property rights could be costly and could absorb significant management time and attention, which, in turn, could negatively impact our operating results. 
+
+Our research, development and other investments in new technologies, products and services may not generate operating income or contribute to future operating results that meet our expectations. 
+
+Our industry is subject to rapid technological change, and we must make substantial research, development and other investments in new products, services and technologies to compete successfully. Technological innovations generally require significant research and development efforts before they are commercially viable. We intend to continue to make substantial investments in developing new products, services and technologies that we believe can create stand-alone value and/or contribute to the success of our existing businesses, and it is possible that these initiatives will not be successful and/or will not result in meaningful revenues or generate operating income that meets expectations. While we continue to focus our development efforts primarily in support of 3G CDMA- and 4G OFDMA-based technologies, we innovate across a broad spectrum of opportunities that leverage our existing technical and business expertise to deploy new business models and enter into new industry segments. Our recent investment initiatives relate to, among others, new display technologies, wireless charging technology, small cell technology and the 1000x data challenge, proximity-based communications, very high speed connectivity, mobile location awareness and commerce, mobile health, wearable technology, gaming and products for the connected home, the digital 6th sense and the Internet of Everything. 
+
+Our research, development and other investments in new technologies, products or services may not succeed due to, among others: improvements in alternate technologies in ways that reduce the advantages we anticipate from our investments; competitors&#8217; products or services being more cost effective, having more capabilities or fewer limitations or being brought to market faster than our new products and services; and competitors having longer operating histories in industry segments that are new to us. We may also underestimate the costs of or overestimate the future operating income and/or margins that could result from these investments; and these investments may not, or may take many years to, generate material returns. If our new technologies, products or services are not successful, or are not successful in the time frame we anticipate, we may incur significant costs and/or asset impairments, our business may not grow as anticipated, our margins may be negatively impacted and/or our reputation may be harmed. 
+
+Claims by other companies that we infringe their intellectual property could adversely affect our business. 
+
+From time to time, companies have asserted, and may again assert, patent, copyright and other intellectual property rights against our products or products using our technologies or other technologies used in our industry. These claims have resulted and may again result in our involvement in litigation. We may not prevail in such litigation given the complex technical issues and inherent uncertainties in intellectual property litigation. If any of our products were found to infringe on another company&#8217;s intellectual property rights, we could be subject to an injunction or required to redesign our products, which could be costly, or to license such rights and/or pay damages or other compensation to such other company. If we are unable to redesign our products, license such intellectual property rights used in our products or otherwise distribute our products through a licensed supplier, we could be prohibited from making and selling such products. In any potential dispute involving other companies&#8217; patents or other intellectual property, our chipset foundries, semiconductor assembly and test providers and customers could also become the targets of litigation. We are contingently liable under certain product sales, services, license and other agreements to indemnify certain customers against certain types of liability and/or damages arising from qualifying claims of patent infringement by products or services sold or provided by us. Reimbursements under indemnification arrangements could have an adverse effect on our results of operations. Furthermore, any such litigation could severely disrupt the supply of our products and the businesses of our chipset customers and their customers, which in turn could hurt our relationships with them 
+
+&#32;17 
+
+and could result in a decline in our chipset sales and/or reductions in our licensees&#8217; sales, causing a corresponding decline in our chipset and/or licensing revenues. Any claims, regardless of their merit, could be time consuming to address, result in costly litigation, divert the efforts of our technical and management personnel or cause product release or shipment delays, any of which could have an adverse effect upon our operating results. 
+
+We expect that we may continue to be involved in litigation and may have to appear in front of administrative bodies (such as the U.S. International Trade Commission) to defend against patent assertions against our products by companies, some of whom are attempting to gain competitive advantage or leverage in licensing negotiations. We may not be successful in such proceedings, and if we are not, the range of possible outcomes includes everything from royalty payment to an injunction on the sale of certain of our integrated circuit products (and on the sale of our customers&#8217; devices using such products). Any imposition of royalty payments might make purchases of our products less economical for our customers and could have an adverse effect upon our operating results. A negative outcome in any such proceeding could severely disrupt the business of our chipset customers and their wireless operator customers, which in turn could harm our relationships with them and could result in a decline in our share of worldwide chipset sales and/or a reduction in our licensees&#8217; sales to wireless operators, causing corresponding declines in our chipset and/or licensing revenues. 
+
+A number of other companies have claimed to own patents applicable to products implementing various CDMA standards, GSM standards and OFDMA standards. In addition, existing standards continue to evolve, and new standards, including those applicable to new industry segments, continue to be developed. If future standards diminish, or fail to include, a base level of interoperability, our business may be harmed, and our investments in these new segments may not succeed. If we or other product manufacturers are required to obtain additional licenses and/or pay royalties to one or more of such other patent holders, this could have an adverse effect on the commercial implementation of our products and technologies, average sales prices of and demand for our licensees&#8217; products and our results of operations. 
+
+We depend on a limited number of third-party suppliers for the procurement, manufacture and testing of our products. If we fail to execute supply strategies that provide supply assurance, technology leadership and low cost, our operating results and our business may be harmed. 
+
+Our QCT segment purchases wafers, die and fully-assembled and tested integrated circuits from third-party semiconductor manufacturing foundries. We also contract with third-party suppliers for assembly, test and other services related to the manufacture of our products. A reduction, interruption, delay or limitation in our product supply source, a failure by our suppliers to procure raw materials or to provide or allocate adequate manufacturing or test capacity for our products or their inability to react to shifts in product demand or an increase in raw material or component prices could have an adverse effect on our ability to meet customer demands, our business and/or our profitability. The loss of a supplier or the inability of a supplier to meet performance or quality specifications or delivery schedules could harm our ability to meet our delivery obligations to our customers and/or negatively impact our revenues, business operations and ability to compete for future business. In the event of a loss of or a decision to change a supplier, qualifying a new foundry supplier and commencing volume production or testing could cause us to incur additional expense and production delays, resulting in possible loss of customers. 
+
+While we have established alternate suppliers for certain technologies that we consider critical, we rely on sole- or limited-source suppliers for some products, subjecting us to significant risks, including: possible shortages of raw materials or manufacturing capacity; poor product performance; and reduced control over delivery schedules, manufacturing capability and yields, quality assurance, quantity and costs. To the extent we have established alternate suppliers, these suppliers may require significant levels of support to bring complex technologies to production. As a result, we may invest a significant amount of effort and resources and incur higher costs to support and maintain such alternate suppliers. Further, any future consolidation of foundry suppliers could increase our vulnerability to sole- or limited-source arrangements. Our arrangements with our suppliers may oblige us to incur costs to manufacture and test our products that do not decrease at the same rate as decreases in pricing to our customers. Our ability, and that of our suppliers, to develop or maintain leading process technologies, including transitions to smaller geometry process technologies, and to effectively compete with the manufacturing processes and performance of our competition, could also impact our ability to meet customer demand, increase our costs and subject us to the risk of excess inventories. Our inability to meet customer demand due to sole- or limited-sourcing and/or the additional costs that we incur because of these or other supply constraints or because of the need to support alternate suppliers could negatively impact our business, our revenues and our results of operations. 
+
+Although we have long-term contracts with our suppliers, many of these contracts do not provide for long-term capacity commitments. To the extent that we do not have firm commitments from our suppliers over a specific time period, or for any specific quantity, our suppliers may allocate, and in the past have allocated, capacity to the production and testing of products for their other customers while reducing or limiting capacity to manufacture or test our products. Accordingly, capacity for our products may not be available when we need it or at reasonable prices. To the extent we do obtain long-term capacity commitments, we may incur additional costs related to those commitments. 
+
+&#32;18 
+
+One or more of our suppliers or potential alternate suppliers may manufacture CDMA- or OFDMA-based integrated circuits that compete with our products. In this event, the supplier could elect to allocate raw materials and manufacturing capacity to their own products and reduce or limit deliveries to us to our detriment. In addition, we may not receive reasonable pricing, manufacturing or delivery terms. We cannot guarantee that the actions of our suppliers will not cause disruptions in our operations that could harm our ability to meet our delivery obligations to our customers or increase our cost of sales. 
+
+Our stock price and earnings are subject to substantial quarterly and annual fluctuations and to market downturns. 
+
+Our stock price and earnings have fluctuated in the past and are likely to fluctuate in the future. Factors that may have a significant impact on the market price of our stock and/or earnings include, among others: 
+
+##TABLE_START &#8226; 
+
+volatility of the stock market in general and technology-based companies in particular that is often unrelated to the operating performance of any specific public company; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+announcements concerning us, our competitors or our customers, including the selection of wireless communications technologies by wireless operators and the timing of the roll-out of those technologies, the use of our or our competitors&#8217; integrated circuits in wireless devices by certain manufacturers or the business performance of our customers; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+international developments, such as technology mandates, political developments or changes in economic policies; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in recommendations of securities analysts; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+fluctuations (or market expectations of future fluctuations) in our operating margins and/or earnings (or forecasts) that exceed or fail to meet financial guidance that we provide to investors and/or the expectations of analysts or investors; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+whether our return of capital to our stockholders meets, does not meet or exceeds the expectations of analysts or investors; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+proprietary rights, product or patent litigation taken or threatened against us or against our customers or licensees; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+strategic transactions, such as debt issuance, strategic equity or debt investments, acquisitions, divestitures or spin-offs; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unexpected and/or significant changes in the average selling prices of our licensees&#8217; products and/or our products; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+unresolved disputes with licensees that result in non-payment and/or non-recognition of royalty revenues that may be owed to us; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+declines in the value or performance of our significant marketable securities portfolio, which is subject to financial market volatility and liquidity, interest rate, credit and other risks; or 
+
+##TABLE_END##TABLE_START &#8226; 
+
+inquiries, rumors or allegations regarding our financial disclosures, practices or compliance programs. 
+
+##TABLE_END In the past, securities class action litigation often has been brought against a company following periods of volatility in the market price of its securities. Due to changes in our stock price, we may be the target of securities litigation in the future. Securities litigation could result in substantial uninsured costs and divert management&#8217;s attention and resources. 
+
+We are subject to government regulations and policies. Our business may suffer as a result of new or changes in laws, regulations or policies, our failure or inability to comply with laws, regulations or policies or adverse rulings in enforcement or other proceedings. 
+
+Our business, products and services, and those of our customers and licensees, are subject to various laws and regulations globally, as well as government policies and the specifications of international, national and regional communications standards bodies. The adoption of new laws, regulations or policies, changes in the interpretation of existing laws, regulations or policies, changes in the regulation of our activities by a government or standards body and/or adverse rulings in court, regulatory, administrative or other proceedings relating to such laws, regulations or policies, including, among others, those affecting the use of our technology or products, competitive business practices, licensing practices, protection of intellectual property, trade, foreign investments or loans, spectrum availability and license issuance, adoption of standards, the provision of device subsidies by wireless operators to their customers, taxation, environmental protection or employment, could have an adverse effect on our business. Delays in government approvals or other governmental activities that could result from, among others, a decrease in or a lack of funding for certain agencies or branches of the government and/or political changes, could result in our incurring higher costs, could negatively impact our ability to timely consummate strategic transactions and/or could have other negative impacts on our business and the businesses of our customers and licensees. 
+
+National, state and local environmental laws and regulations affect our operations around the world. These laws may make it more expensive to manufacture, have manufactured and sell products, and our costs could increase if our vendors (e.g., third-party manufacturers or utility companies) pass on their costs to us. 
+
+&#32;19 
+
+The SEC has recently adopted disclosure rules for companies that use conflict minerals in their products, with substantial supply chain verification requirements in the event that the materials come from, or could have come from, the Democratic Republic of the Congo or adjoining countries. These new rules and verification requirements, which apply to our activities in calendar 2013 and future years, impose additional costs on us and on our suppliers and may limit the sources or increase the prices of materials used in our products. Further, if we are unable to certify that our products are conflict free, we may face challenges with our customers that place us at a competitive disadvantage, and our reputation may be harmed. 
+
+Laws, regulations and standards relating to corporate governance, business conduct, public disclosure and health care are complex and changing and may create uncertainty regarding compliance. Laws, regulations and standards are subject to varying interpretations in many cases, and their application in practice may evolve over time. As a result, our efforts to comply may fail, particularly if there is ambiguity as to how they should be applied in practice. New laws, regulations and standards or evolving interpretations of legal requirements may cause us to incur higher costs as we revise current practices, policies and/or procedures and may divert management time and attention to compliance activities. 
+
+We may engage in acquisitions or strategic transactions or make strategic investments that could adversely affect our financial results or fail to enhance stockholder value. 
+
+We engage in acquisitions and strategic transactions and make strategic investments with the goal of maximizing stockholder value. We acquire businesses and other assets, including wireless spectrum, patents and other intangible assets, enter into joint ventures or other strategic transactions and purchase minority equity interests in or make loans to companies that may be &#32; private and early-stage. Our strategic activities are generally focused on opening new or expanded opportunities for our technologies and supporting the design and introduction of new products and services for voice and data communications. Many of our acquisitions or strategic investments entail a high degree of risk, and investments may not become liquid for several years after the date of the investment, if at all. Our acquisitions or strategic investments may not generate financial returns or result in increased adoption or continued use of our technologies. In some cases, we may be required to consolidate or record our share of the earnings or losses of companies in which we have acquired ownership interests. In addition, we may record impairment charges related to our acquisitions and strategic investments. Any losses or impairment charges that we incur related to strategic investments or other transactions will have a negative impact on our financial results, and we may continue to incur new or additional losses related to strategic assets or investments that we have not fully impaired or exited. 
+
+Achieving the anticipated benefits of business acquisitions depends in part upon our ability to integrate the acquired businesses in an efficient and effective manner. The integration of companies that have previously operated independently may result in significant challenges, including, among others: retaining key employees; successfully integrating new employees, business systems and technology; retaining customers and suppliers of the acquired business; minimizing the diversion of management&#8217;s attention from ongoing business matters; coordinating geographically separate organizations; consolidating research and development operations; and consolidating corporate and administrative infrastructures. We may not derive any commercial value from acquired technology, products or intellectual property or from future technologies or products based on the acquired technology and/or intellectual property, and we may be subject to liabilities that are not covered by indemnification protection we may obtain or we may become subject to litigation. Additionally, we may not be successful in expanding into geographic regions and/or categories of products served by or adjacent to an acquired business or in addressing potential new opportunities that may arise out of the combination. Due to our inexperience with products of and/or geographic regions served by acquired businesses, we may underestimate the costs and/or overestimate the benefits, including product and other synergies and growth opportunities that we expect to realize, and we may not achieve them. If we do not achieve the anticipated benefits of business acquisitions, our results of operations may be adversely affected, and we may not enhance stockholder value by engaging in these transactions. 
+
+Global economic conditions that impact the mobile communications industry could negatively affect the demand for our products and services and our customers&#8217; or licensees&#8217; products and services, which may negatively affect our revenues. 
+
+A decline in global economic conditions, particularly in geographic regions with high concentrations of wireless voice and data users, could have adverse, wide-ranging effects on demand for our products and for the products and services of our customers or licensees, particularly equipment manufacturers or others in the wireless communications industry who buy their products, such as wireless operators. Any prolonged economic crisis may result in a downturn in demand for our products or technology; the insolvency of key suppliers; delays in reporting and/or payments from our licensees and/or customers; failures by counterparties; and negative effects on wireless device inventories. In addition, our direct and indirect customers&#8217; ability to purchase or pay for our products and services, obtain financing and upgrade their wireless networks could be adversely affected by economic conditions, leading to a reduction, cancelation or delay of orders for our products or services. 
+
+Currency fluctuations could negatively affect future product sales or royalty revenues, harm our ability to collect receivables or increase the U.S. dollar cost of our products or the activities of our foreign subsidiaries and strategic investments. 
+
+&#32;20 
+
+Our customers sell their products throughout the world in various currencies. Consolidated revenues from international customers as a percentage of total revenues were greater than 90% during each of the last three fiscal years. Adverse movements in currency exchange rates may negatively affect our business and our operating results due to a number of factors, including, among others: 
+
+##TABLE_START &#8226; 
+
+Our products and those of our customers and licensees that are sold outside the United States may become less price-competitive, which may result in reduced demand for those products and/or downward pressure on average selling prices; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Certain of our revenues, such as royalties, that are derived from licensee or customer sales denominated in foreign currencies could decrease; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Our foreign suppliers may raise their prices if they are impacted by currency fluctuations, resulting in higher than expected costs and lower margins; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Foreign exchange hedging transactions that we engage in to reduce the impact of currency fluctuations may require the payment of structuring fees, limit the U.S. dollar value of royalties from licensees&#8217; sales that are denominated in foreign currencies, cause earnings volatility if the hedges do not qualify for hedge accounting and expose us to counterparty risk if the counterparty fails to perform; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+The U.S. dollar value of our marketable securities that are denominated directly or indirectly in foreign currencies may decline. 
+
+##TABLE_END Failures in our products or services or in the products of our customers, including those resulting from security vulnerabilities, defects or errors, could harm our business. 
+
+The use of devices containing our products to access untrusted content creates a risk of exposing the system software in those devices to viral or malicious attacks. While we continue to focus on this issue and are taking measures to safeguard our products from cybersecurity threats, device capabilities continue to evolve, enabling more data and processes, such as mobile computing, and increasing the risk of security failures. Further, our products are inherently complex and may contain defects or errors that are detected only when the products are in use. For example, as our chipset product complexities increase, we are required to migrate to integrated circuit technologies with smaller geometric feature sizes. The design process interface issues in new domains of technology are complex and add risk to manufacturing yields and reliability. Manufacturing, testing, marketing and use of our products and those of our customers and licensees entail the risk of product liability. Because our products and services are responsible for critical functions in our customers&#8217; products and/or networks, security failures, defects or errors in our components, materials or software or in our customers&#8217; products could have an adverse impact on us, on our customers and on the end users of their products. Such adverse impact could include product liability claims or recalls, a decrease in demand for connected devices and wireless services, damage to our reputation and to our customer relationships and other financial liability or harm to our business. 
+
+Our business and operations could suffer in the event of security breaches. 
+
+Attempts by others to gain unauthorized access to our information technology systems are increasingly more sophisticated. These attempts, which might be related to industrial or other espionage, include covertly introducing malware to our computers and networks and impersonating authorized users, among others. We seek to detect and investigate all security incidents and to prevent their recurrence, but in some cases, we might be unaware of an incident or its magnitude and effects. While we have identified several incidents of unauthorized access, to date none have caused material damage to our business. The theft, unauthorized use or publication of our intellectual property and/or confidential business information could harm our competitive position, reduce the value of our investment in research and development and other strategic initiatives and/or otherwise adversely affect our business. To the extent that any security breach results in inappropriate disclosure of our customers&#8217; or licensees&#8217; confidential information, we may incur liability. We expect to continue to devote additional resources to the security of our information technology systems. 
+
+Potential tax liabilities could adversely affect our results of operations. 
+
+We are subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment is required in determining our provision for income taxes. Although we believe that our tax estimates are reasonable, the final determination of tax audits and any related litigation could materially differ from amounts reflected in historical income tax provisions and accruals. In such case, our income tax provision and results of operations in the period or periods in which that determination is made could be negatively affected. 
+
+Our QCT segment&#8217;s non-United States headquarters is located in Singapore. We obtained tax incentives in Singapore provided that we meet specified employment and incentive criteria, and as a result of expiration of these incentives, our Singapore tax rate is expected to increase in fiscal 2017 and again in fiscal 2027. If we do not meet the criteria required to 
+
+&#32;21 
+
+retain such incentives, our Singapore tax rate could increase prior to those dates, and our results of operations may be adversely affected. 
+
+Tax rules may change in a manner that adversely affects our future reported financial results or the way we conduct our business. For example, we consider the operating earnings of certain non-United States subsidiaries to be indefinitely invested outside the United States based on our current needs for those earnings to be reinvested offshore as well as estimates that future domestic cash generation will be sufficient to meet future domestic cash needs for the foreseeable future. No provision has been made for United States federal and state or foreign taxes that may result from future remittances of the undistributed earnings of these foreign subsidiaries. Our future financial results and liquidity may be adversely affected if tax rules regarding unrepatriated earnings change, if domestic cash needs require us to repatriate foreign earnings, or if the United States international tax rules change as part of comprehensive tax reform or other tax legislation. 
+
+If wireless devices pose safety risks, we may be subject to new regulations, and demand for our products and those of our customers and licensees may decrease. 
+
+Concerns over the effects of radio frequency emissions continue. Interest groups have requested that the Federal Communications Commission investigate claims that wireless communications technologies pose health concerns and cause interference with, among other things, airbags, hearing aids and medical devices, and there continues to be litigation in the industry with respect to these issues. Legislation that may be adopted in response to these concerns or adverse news or findings about safety risks could reduce demand for our products and those of our licensees and customers in the United States as well as in foreign countries. 
+
+We may not be able to attract and retain qualified employees. 
+
+Our future success depends largely upon the continued service of our executive officers and other key management and technical personnel and on our ability to continue to attract, retain and motivate qualified personnel. In addition, implementing our business strategy requires specialized engineering and other talent, and our revenues are highly dependent on technological and product innovations. The market for employees in our industry is extremely competitive. Further, existing immigration laws make it more difficult for us to recruit and retain highly skilled foreign national graduates of universities in the United States, making the pool of available talent even smaller. We continue to anticipate increases in human resource needs, particularly in engineering. If we are unable to attract and retain qualified employees, our business may be harmed. 
+
+
+
+ Item 7. Management &#8217; s Discussion and Analysis of Financial Condition and Results of Operations 
+
+In addition to historical information, the following discussion contains forward-looking statements that are subject to risks and uncertainties. Actual results may differ materially from those referred to herein due to a number of factors, including but not limited to risks described in the section entitled Risk Factors and elsewhere in this Annual Report. 
+
+Overview 
+
+Recent Developments 
+
+Revenues for fiscal 2013 &#32;were $24.9 billion , with net income attributable to Qualcomm of $6.9 billion , which primarily resulted from the following key items: 
+
+##TABLE_START &#8226; 
+
+We shipped approximately 716 million Mobile Station Modem (MSM) integrated circuits for CDMA- and OFDMA-based wireless devices, an increase of 21%, compared to approximately 590 million MSM integrated circuits in fiscal 2012 . 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Total reported device sales were approximately $231.2 billion, an increase of approximately 23%, compared to approximately $187.3 billion in fiscal 2012 . (1) &#160; 
+
+##TABLE_END Against this backdrop, the following recent developments occurred during fiscal 2013 &#32;with respect to key elements of our business or our industry: 
+
+##TABLE_START &#8226; 
+
+Worldwide cellular connections grew by approximately 6% to reach approximately 6.8 billion. (2) &#160; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Worldwide 3G connections (all CDMA-based) grew by approximately 18% to approximately 2.2 billion, which was approximately 32% of total cellular subscriptions, including approximately 0.5 billion CDMA2000 1X/1xEV-DO subscriptions and approximately 1.7 billion WCDMA/HSPA/TD-SCDMA subscriptions. (2) &#160; 
+
+##TABLE_END##TABLE_START (1) 
+
+Total reported device sales is the sum of all reported sales in U.S. dollars (as reported to us by our licensees) of all licensed CDMA-based, OFDMA-based and CDMA/OFDMA multimode subscriber devices (including handsets, modules, modem cards and other subscriber devices) by our licensees during a particular period (collectively, 3G/4G devices). Not all licensees report sales the same way (e.g., some licensees report sales net of permitted deductions, including transportation, insurance, packing costs and other items, while other licensees report sales and then identify the amount of permitted deductions in their reports), and the way in which licensees report such information may change from time to time. Total reported device sales for a particular period may include prior period activity that was not reported by the licensee until such particular period. 
+
+##TABLE_END##TABLE_START (2) 
+
+According to GSMA Intelligence estimates as of November 4, 2013, for the quarter ended September 30, 2013 (estimates excluded Wireless Local Loop). 
+
+##TABLE_END Our Business and Operating Segments 
+
+We design, manufacture, have manufactured on our behalf and market digital communications products and services based on CDMA, OFDMA and other technologies. We derive revenues principally from sales of integrated circuit products, fixed license fees (payable in one or more installments) and ongoing royalties for use of our intellectual property, and fees for messaging and other services and related hardware sales, software development and licensing, and related services and software hosting services. Costs and expenses primarily consist of cost of equipment and services revenues and research and development and selling, general and administrative expenses. 
+
+We conduct business primarily through four reportable segments: QCT, QTL, QWI and QSI. Our reportable segments are operated by QUALCOMM Incorporated and its direct and indirect subsidiaries. At the beginning of fiscal 2013, we completed a corporate reorganization in which certain assets of QUALCOMM Incorporated, as well as the stock of certain of its direct and indirect subsidiaries, were contributed to its wholly-owned subsidiary Qualcomm Technologies, Inc. (QTI). QTL continues to be operated by QUALCOMM Incorporated, which continues to own the vast majority of our patent portfolio. Substantially all of our products and services businesses, including QCT, and substantially all of our engineering, research and development functions, are operated by QTI and its subsidiaries. Neither QTI nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by QUALCOMM Incorporated. 
+
+QCT (Qualcomm CDMA Technologies) is a leading developer and supplier of integrated circuits and system software based on CDMA, OFDMA and other technologies for use in voice and data communications, networking, application processing, multimedia and global positioning system products. QCT&#8217;s integrated circuit products and system software are sold to or licensed to manufacturers that use our products in wireless devices, particularly mobile phones, tablets, laptops, data modules, handheld wireless computers and gaming devices, access points and routers, data cards and infrastructure equipment, and in wired devices, particularly broadband gateway equipment, desktop computers, televisions, set-top boxes and Blu-ray players. The MSM integrated circuits, which include the Mobile Data Modem, Qualcomm Single Chip and Qualcomm 
+
+&#32;30 
+
+Snapdragon processor devices, perform the core baseband modem functionality in wireless devices providing voice and data communications, as well as multimedia applications and global positioning functions. In addition, our Snapdragon processors provide advanced application and graphics processing capabilities. QCT&#8217;s system software enables the other device components to interface with the integrated circuit products and is the foundation software enabling manufacturers to develop devices utilizing the functionality within the integrated circuits. QCT revenues comprised 67%, 63% and 59% of total consolidated revenues in fiscal 2013 , 2012 &#32;and 2011 , respectively. 
+
+QCT utilizes a fabless production business model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Integrated circuits are die cut from silicon wafers that have been assembled into packages or modules and have completed the final test manufacturing processes. We rely on independent third-party suppliers to perform the manufacturing and assembly, and most of the testing, of our integrated circuits based primarily on our proprietary designs and test programs. Our suppliers are also responsible for the procurement of most of the raw materials used in the production of our integrated circuits. We employ both turnkey and two-stage manufacturing models to purchase our integrated circuits. Turnkey is when our foundry suppliers are responsible for delivering fully assembled and tested integrated circuits. Under the two-stage manufacturing model, we purchase wafers and die from semiconductor manufacturing foundries and contract with separate third-party suppliers for probe, assembly and test services. 
+
+QTL (Qualcomm Technology Licensing) grants licenses or otherwise provides rights to use portions of our intellectual property portfolio, which, among other rights, includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products, including, without limitation, products implementing CDMA2000, WCDMA, CDMA TDD (including TD-SCDMA), GSM/GPRS/EDGE and/or OFDMA standards and their derivatives. QTL licensing revenues are comprised of license fees as well as royalties based on sales by licensees of products incorporating or using our intellectual property. License fees are fixed amounts paid in one or more installments. Royalties are generally based upon a percentage of the wholesale (i.e., licensee&#8217;s) selling price of complete licensed products, net of certain permissible deductions (e.g., certain shipping costs, packing costs, VAT, etc.). QTL recognizes royalty revenues based on royalties reported by licensees during the quarter and when other revenue recognition criteria are met. Licensees, however, do not report and pay royalties owed for sales in any given quarter until after the conclusion of that quarter. QTL revenues comprised 30%, 33% and 36% of total consolidated revenues in fiscal 2013 , 2012 &#32;and 2011 , respectively. The vast majority of such revenues were generated through our licensees&#8217; sales of CDMA2000- and WCDMA-based products, such as feature phones and smartphones. 
+
+QWI (Qualcomm Wireless &#38; Internet), which includes our Omnitracs, QIS, QGOV and QRS divisions, generates revenues primarily through sales of products, services (including software development) and software aimed at the support and delivery of wireless applications. Omnitracs sells integrated wireless systems and services to transportation and logistics companies to manage their assets and workforce. On August 21, 2013, we entered into a definitive agreement under which we agreed to sell the North and Latin American operations of Omnitracs to a U.S.-based private equity firm for $800 million in cash, subject to the terms and conditions of the definitive agreement. The transaction is subject to customary closing conditions, including receipt of regulatory approvals, and is expected to close in the first quarter of fiscal 2014. &#32; We expect to record the gain on sale, net of income taxes, as a discontinued operation upon close. However, the revenues and operating results were not presented as a discontinued operation in any fiscal period because they were immaterial. QIS (Qualcomm Internet Services) provides content enablement services for the wireless industry, including its Brew, Plaza and other products and services. QIS also provides QChat push-to-talk and other software products and services for wireless operators. QGOV (Qualcomm Government Technologies) provides development and other services and related products involving wireless communications technologies to government agencies and their contractors. QRS (Qualcomm Retail Solutions) builds and manages software applications that enable certain mobile location-awareness and commerce services. QWI revenues comprised 2%, 3% and 4% of total consolidated revenues in fiscal 2013 , 2012 &#32;and 2011 , respectively. 
+
+QSI (Qualcomm Strategic Initiatives) makes strategic investments that we believe may open new or expand opportunities for our technologies, support the design and introduction of new products and services for voice and data communications or possess unique capabilities or technology. Many of these strategic investments are in early-stage companies. QSI also holds wireless spectrum. As part of our strategic investment activities, we intend to pursue various exit strategies from each of our QSI investments at some point in the future. During the third quarter of fiscal 2013, we deconsolidated subsidiaries that were established to operate a wireless network in India using broadband wireless access spectrum (the BWA subsidiaries) due to events that resulted in a change in control of these subsidiaries. The former BWA subsidiaries were merged into one entity on August 5, 2013, and on October 17, 2013, all of our interest in the remaining former subsidiary was sold. 
+
+Nonreportable segments are comprised of our QMT (Qualcomm MEMS Technologies) division and other display, wireless technology and service initiatives that include, but are not limited to: low power consumption, high optical performance flat display modules; medical device connectivity and related data management; augmented reality; and device-to-device communication. QMT continues to develop an interferometric modulator (IMOD) display technology based on micro-electro-mechanical-systems (MEMS) structure combined with thin film optics. 
+
+&#32;31 
+
+Discontinued Operations 
+
+On March 27, 2011, the FLO TV business and network were shut down. On December 27, 2011, we completed the sale of substantially all of our 700 MHz spectrum for $1.9 billion, and as a result, we recognized a gain in discontinued operations of $1.2 billion during fiscal 2012. The results of the discontinued FLO TV operations were as follows (in millions): 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+Revenues 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+Income (loss) from discontinued operations 
+
+$ 
+
+1,203 
+
+&#160; 
+
+$ 
+
+(507 
+
+) 
+
+Income tax (expense) benefit 
+
+(427 
+
+) 
+
+&#160; 
+
+Discontinued operations, net of income taxes 
+
+$ 
+
+&#160; 
+
+$ 
+
+(313 
+
+) 
+
+##TABLE_END
+
+Looking Forward 
+
+The deployment of 3G networks has enabled increased voice capacity and higher data rates than prior generation networks, thereby supporting more minutes of use and a wide range of mobile broadband data applications for handsets, 3G connected computing devices and other consumer electronics. According to the Global mobile Suppliers Association (GSA), as of October 2013, to complement their existing 3G networks, more than 220 wireless operators have deployed and more than 420 wireless operators are planning to deploy OFDMA-based technology, often called 4G, in new wireless spectrum to gain additional capacity for data services. As a result, we expect continued growth in the coming years in consumer demand for 3G and 3G/4G multimode products and services around the world. 
+
+As we look forward to the next several months, the following items are likely to have an impact on our business: 
+
+##TABLE_START &#8226; 
+
+The worldwide transition from 2G to 3G and 3G/4G networks is expected to continue, including the further expansion of 3G in emerging regions, such as China. We expect that the growth of low-tier smartphone products will contribute to such expansion. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+We expect consumer demand for advanced 3G and 3G/4G multimode devices, including smartphones and data-centric devices, to continue at a strong pace. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+We expect that CDMA-based device prices will continue to vary broadly due to the increased penetration of smartphones combined with active competition throughout the world at all price tiers. Additionally, varying rates of economic growth by region and stronger growth of CDMA-based device shipments in emerging regions, as compared to developed regions, are expected to continue to impact the average and range of selling prices of CDMA-based devices. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+We continue to invest significant resources toward advancements to 3G, 3G/4G and 4G LTE (an OFDMA-based standard) technologies, audio and video codecs, wireless baseband chips, our converged computing/communications (Snapdragon) chips, multimedia products, software and services. We are also investing across a broad spectrum of opportunities that leverage our existing technical and business expertise to deploy new business models and enter into new industry segments, such as our IMOD and other display technologies; 3G/LTE and Wi-Fi products designed for implementation of small cells and the 1000x data challenge; wireless charging; proximity-based communications; very high speed connectivity; mobile location awareness and commerce; mobile health; wearable technology; gaming; and products for the connected home, the digital 6th sense and the Internet of Everything. 
+
+##TABLE_END In addition to the foregoing business and market-based matters, we continue to devote resources to working with and educating participants in the wireless value chain as to the benefits of our business model in promoting a highly competitive and innovative wireless industry. However, we expect that certain companies may continue to be dissatisfied with the need to pay reasonable royalties for the use of our technology and not welcome the success of our business model in enabling new, highly cost-effective competitors to their products. We expect that such companies will continue to challenge our business model in various forums throughout the world. 
+
+Further discussion of risks related to our business is presented in the Risk Factors included in this Annual Report. 
+
+Critical Accounting Estimates 
+
+Our discussion and analysis of our results of operations and liquidity and capital resources are based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities. On an ongoing basis, 
+
+&#32;32 
+
+we evaluate our estimates and judgments, including those related to revenue recognition, valuation of intangible assets and investments, income taxes and litigation. We base our estimates on historical and anticipated results and trends and on various other assumptions that we believe are reasonable under the circumstances, including assumptions as to future events. These estimates form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent degree of uncertainty. Although we believe that our estimates and the assumptions supporting our assessments are reasonable, actual results that differ from our estimates could have a significant adverse effect on our operating results and financial position. We believe that the following significant accounting estimates may involve a higher degree of judgment and complexity than others. 
+
+Revenue Recognition. &#32;We derive revenue principally from sales of integrated circuit products and licensing of our intellectual property. The timing of revenue recognition and the amount of revenue actually recognized in each case depends upon a variety of factors, including the specific terms of each arrangement and the nature of our deliverables and obligations. 
+
+We license or otherwise provide rights to use portions of our intellectual property portfolio, which includes certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products. Licensing revenues include license fees (payable in one or more installments) and ongoing royalties based on licensees&#8217; sales of products incorporating or using our licensed intellectual property. License fees are recognized over the estimated period of benefit of the license to the licensee, typically 5 to 15 years . From time to time, licensees will not report royalties timely due to legal disputes or other reasons, and when this occurs, the timing and comparability of royalty revenues could be affected. 
+
+Valuation of Intangible Assets and Investments. &#32;Our business acquisitions typically result in the recording of goodwill and other intangible assets, and the recorded values of those assets may become impaired in the future. We also acquire intangible assets in other types of transactions. At September 29, 2013 , our goodwill and other intangible assets, net of accumulated amortization, were $4.0 billion &#32;and $2.6 billion , respectively. The determination of the value of such intangible assets requires management to make estimates and assumptions that affect our consolidated financial statements. For intangible assets purchased in a business combination, the estimated fair values of the assets received are used to establish their recorded values. For intangible assets acquired in a non-monetary exchange, the estimated fair values of the assets transferred (or the estimated fair values of the assets received, if more clearly evident) are used to establish their recorded values, unless the values of neither the assets received nor the assets transferred are determinable within reasonable limits, in which case the assets received are measured based on the carrying values of the assets transferred. Valuation techniques consistent with the market approach, income approach and/or cost approach are used to measure fair value. An estimate of fair value can be affected by many assumptions that require significant judgment. For example, the income approach generally requires assumptions related to the appropriate business model to be used to estimate cash flows, total addressable market, pricing and share forecasts, competition, technology obsolescence, future tax rates and discount rates. Our estimate of the fair value of certain assets may differ materially from that determined by others who use different assumptions or utilize different business models. New information may arise in the future that affects our fair value estimates and could result in adjustments to our estimates in the future, which could have an adverse impact on our results of operations. 
+
+Goodwill and other indefinite-lived intangible assets are tested annually for impairment and in interim periods if certain events occur indicating that the carrying amounts may be impaired. Long-lived assets, such as property and equipment and intangible assets subject to amortization, are reviewed for impairment when there is evidence that events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable. Our judgments regarding the existence of impairment indicators and future cash flows related to goodwill and other intangible assets are based on operational performance of our businesses, market conditions and other factors. Although there are inherent uncertainties in this assessment process, the estimates and assumptions we use, including estimates of future cash flows, volumes, market penetration and discount rates, are consistent with our internal planning. If these estimates or their related assumptions change in the future, we may be required to record an impairment charge on a portion or all of our goodwill and other intangible assets. Furthermore, we cannot predict the occurrence of future impairment-triggering events nor the impact such events might have on our reported asset values. Future events could cause us to conclude that impairment indicators exist and that goodwill or other intangible assets associated with our acquired businesses are impaired. Any resulting impairment loss could have an adverse impact on our financial position and results of operations. During fiscal 2013 and 2012, we recorded $158 million &#32;and $54 million , respectively, in impairment charges resulting from revisions to our estimates of expected cash flows for certain long-lived assets of our QMT division as we continue to pursue our licensing model. 
+
+We hold investments in marketable securities, including U.S. treasury and government-related securities, corporate bonds and notes, mortgage- and asset-backed securities, auction rate securities, common and preferred stock and equity and debt funds. The fair value of these investments totaled $23.3 billion &#32;at September 29, 2013 , with increases and decreases in fair value generally recorded through stockholders&#8217; equity as other comprehensive income or loss. We record impairment charges through the statement of operations when we believe an investment has experienced a decline that is other than temporary. The determination that a decline is other than temporary is subjective and influenced by many factors. In addition, the fair values of our strategic investments may be subject to substantial quarterly and annual fluctuations and to significant market volatility. 
+
+&#32;33 
+
+Adverse changes in market conditions or poor operating results of investees could result in losses or an inability to recover the carrying value of the investments, thereby requiring impairment charges. When assessing these investments for an other-than-temporary decline in value, we consider such factors as, among other things, how significant the decline in value is as a percentage of the original cost; how long the market value of the investment has been below its original cost; the extent of the general decline in prices or an increase in the default or recovery rates of securities in an asset class; negative events such as a bankruptcy filing or a need to raise capital or seek financial support from the government or others; the performance and pricing of the investee&#8217;s securities in relation to the securities of its competitors within the industry and the market in general; and analyst recommendations, as applicable. We also review the financial statements of the investee to determine if the investee is experiencing financial difficulties. If we determine that a security price decline is other than temporary, we record an impairment loss, which could have an adverse impact on our results of operations. During fiscal 2013 , 2012 &#32;and 2011 , we recorded $72 million , $71 million and $39 million, respectively, in net impairment losses on our investments in marketable securities. 
+
+Income Taxes. &#32;Our income tax returns are based on calculations and assumptions that are subject to examination by the Internal Revenue Service (IRS) and other tax authorities. In addition, the calculation of our tax liabilities involves uncertainties in the application of complex tax regulations. We recognize liabilities for uncertain tax positions based on a two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. While we believe we have appropriate support for the positions taken on our tax returns, we regularly assess the potential outcomes of these examinations and any future examinations for the current or prior years in determining the adequacy of our provision for income taxes. We continually assess the likelihood and amount of potential adjustments and adjust the income tax provision, income taxes payable and deferred taxes in the period in which the facts that give rise to a revision become known. We are participating in the IRS Compliance Assurance Process program whereby we endeavor to agree with the IRS on the treatment of all issues prior to filing our federal return. A benefit of participation in this program is that post-filing adjustments by the IRS are less likely to occur. 
+
+We regularly review our deferred tax assets for recoverability and establish a valuation allowance based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and the implementation of tax-planning strategies. At September 29, 2013 , net deferred tax assets were $1.6 billion , which included a valuation allowance of $51 million . If we are unable to generate sufficient future taxable income in certain tax jurisdictions, or if there is a material change in the time period within which the underlying temporary differences become taxable or deductible, we could be required to increase the valuation allowance against our deferred tax assets, which could result in an increase in our effective tax rate and an adverse impact on operating results. 
+
+We can only use net operating losses to offset taxable income of certain legal entities in certain tax jurisdictions. At September 29, 2013 , we had unused federal, state and foreign net operating losses of $131 million , $604 million &#32;and $75 million , respectively. Based upon our assessments of projected future taxable income and losses and historical losses incurred by these entities, we expect that the future taxable income of the entities in these tax jurisdictions will not be sufficient to utilize the net operating losses we have incurred through fiscal 2013 . Therefore, we have provided a $32 million valuation allowance for these net operating losses. Significant judgment is required to forecast the timing and amount of future taxable income in certain jurisdictions. Adjustments to our valuation allowance based on changes to our forecast of taxable income are reflected in the period the change is made. 
+
+Our QCT segment&#8217;s non-United States headquarters is located in Singapore. We obtained tax incentives in Singapore, including a tax exemption for the first five years, provided that we meet specified employment and incentive criteria, and as a result of expiration of these incentives, our Singapore tax rate will increase in fiscal 2017 and again in fiscal 2027. 
+
+We consider the operating earnings of certain non-United States subsidiaries to be indefinitely invested outside the United States based on estimates that future domestic cash generation will be sufficient to meet future domestic cash needs. We have not recorded a deferred tax liability of approximately $7.6 billion &#32;related to the United States federal and state income taxes and foreign withholding taxes on approximately $21.6 billion &#32;of undistributed earnings of foreign subsidiaries indefinitely invested outside the United States. Should we decide to repatriate the foreign earnings, we would have to adjust the income tax provision in the period we determined that the earnings will no longer be indefinitely invested outside the United States. 
+
+Litigation. &#32;We are currently involved in certain legal proceedings, and we intend to continue to vigorously defend ourselves. However, the unfavorable resolution of one or more of these proceedings could have a material adverse effect on our business, results of operations, financial condition or cash flows. We estimate the range of liability related to pending litigation where the amount and range of loss can be estimated. We record our best estimate of a loss when the loss is considered probable. Where a liability is probable and there is a range of estimated loss with no best estimate in the range, we record the minimum estimated liability related to the claim. As additional information becomes available, we assess the potential liability 
+
+&#32;34 
+
+related to our pending litigation and revise our estimates. Revisions in our estimates of the potential liability could materially impact our results of operations. 
+
+Results of Operations ##TABLE_START Revenues (in millions) 
+
+Year Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+September 29, 2013 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+&#160; 
+
+2013 vs. 2012 Change 
+
+&#160; 
+
+2012 vs. 2011 Change 
+
+Equipment and services 
+
+$ 
+
+16,988 
+
+&#160; 
+
+$ 
+
+12,465 
+
+&#160; 
+
+$ 
+
+9,223 
+
+&#160; 
+
+$ 
+
+4,523 
+
+&#160; 
+
+$ 
+
+3,242 
+
+Licensing 
+
+7,878 
+
+&#160; 
+
+6,656 
+
+&#160; 
+
+5,734 
+
+&#160; 
+
+1,222 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+24,866 
+
+&#160; 
+
+$ 
+
+19,121 
+
+&#160; 
+
+$ 
+
+14,957 
+
+&#160; 
+
+$ 
+
+5,745 
+
+&#160; 
+
+$ 
+
+4,164 
+
+##TABLE_END
+
+The increases in equipment and services revenues in fiscal 2013 &#32;and 2012 &#32;were primarily due to increases in QCT revenues of $4.58 billion and $3.25 billion, respectively. The increases in licensing revenues in fiscal 2013 &#32;and 2012 &#32;were primarily due to increases in QTL revenues of $1.23 billion and $905 million, respectively. 
+
+QCT and QTL segment revenues related to the products of Samsung Electronics and Hon Hai Precision Industry Co., Ltd/Foxconn, its affiliates and other suppliers to Apple Inc. comprised 43% and 38% of total consolidated revenues in fiscal 2013 and 2012, respectively. QCT and QTL segment revenues from Samsung Electronics and HTC comprised 26% of total consolidated revenues in fiscal 2011. 
+
+Revenues from customers in China, South Korea and Taiwan comprised 49% , 20% &#32;and 11% , respectively, of total consolidated revenues for fiscal 2013 , as compared to 42% , 22% , and 14% , respectively, for fiscal 2012 , and 32% , 19% &#32;and 17% , for fiscal 2011 . We distinguish revenues from external customers by geographic areas based on the location to which our products, software or services are delivered or, for QTL licensing revenues, the invoiced addresses of our licensees. ##TABLE_START Costs and Expenses (in millions) 
+
+Year Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+September 29, 2013 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+&#160; 
+
+2013 vs. 2012 Change 
+
+&#160; 
+
+2012 vs. 2011 Change 
+
+Cost of equipment and services (E&#38;S) revenues 
+
+$ 
+
+9,820 
+
+$ 
+
+7,096 
+
+$ 
+
+4,877 
+
+&#160; 
+
+$ 
+
+2,724 
+
+&#160; 
+
+$ 
+
+2,219 
+
+Cost as % of E&#38;S revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+The decreases in margin percentage in fiscal 2013 &#32;and 2012 &#32;were primarily attributable to decreases in QCT gross margin percentage. Our margin percentage may continue to fluctuate in future periods depending on the mix of products sold and services provided, competitive pricing, new product introduction costs and other factors. ##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+September 29, 2013 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+&#160; 
+
+2013 vs. 2012 Change 
+
+&#160; 
+
+2012 vs. 2011 Change 
+
+Research and development 
+
+$ 
+
+4,967 
+
+&#160; 
+
+$ 
+
+3,915 
+
+&#160; 
+
+$ 
+
+2,995 
+
+&#160; 
+
+$ 
+
+1,052 
+
+&#160; 
+
+$ 
+
+% of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Selling, general, and administrative 
+
+$ 
+
+2,518 
+
+&#160; 
+
+$ 
+
+2,270 
+
+&#160; 
+
+$ 
+
+1,945 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+% of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+The dollar increases in research and development expenses in fiscal 2013 &#32;and 2012 &#32;were primarily attributable to increases of $904 million and $741 million, respectively, in costs related to the development of CDMA-based 3G, OFDMA-based 4G LTE and other technologies for integrated circuit and related software products and to expand our intellectual property portfolio and increases of $97 million and $149 million, respectively, in share-based compensation. Remaining dollar increases were related to research and development of other new product and licensing initiatives. 
+
+The dollar increase in selling, general and administrative expenses in fiscal 2013 &#32;was primarily attributable to a $113 million increase in employee-related expenses, a $56 million increase in selling and marketing expenses, a $40 million increase in patent-related expenses and a $29 million increase in depreciation and amortization expense, partially offset by a decrease of $23 million in share-based compensation. The dollar increase in selling, general and administrative expenses in fiscal 2012 &#32;was primarily attributable to a $96 million increase in employee-related expenses, a $77 million increase in costs related to litigation and other legal matters, a $65 million increase in share-based compensation, a $45 million increase in selling and marketing expenses and a $28 million increase in patent-related expenses, partially offset by a $55 million decrease in charitable contributions (primarily related to the establishment and initial funding of the Qualcomm Charitable Foundation in fiscal 2011). 
+
+&#32;35 
+
+Other expenses in fiscal 2013 &#32;were comprised of a $173 million charge resulting from the ParkerVision verdict against us and a $158 million impairment charge resulting from revisions to our estimates of expected cash flows for certain long-lived assets of our QMT division as we continue to pursue our licensing model. Other expenses in fiscal 2012 &#32;were comprised of an $81 million charge related to a payment made to the Indian government concurrent with the issuance of the BWA spectrum license, a $54 million impairment charge related to certain long-lived assets of our QMT division and $23 million in goodwill impairment charges related to our QRS division. Other expenses in fiscal 2011 were comprised of a $114 million goodwill impairment charge related to our QRS division. ##TABLE_START Net Investment Income (in millions) 
+
+Year Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+September 29, 2013 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+&#160; 
+
+2013 vs. 2012 Change 
+
+&#160; 
+
+2012 vs. 2011 Change 
+
+Interest and dividend income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Interest expense 
+
+(23 
+
+) 
+
+&#160; 
+
+(90 
+
+) 
+
+&#160; 
+
+(114 
+
+) 
+
+&#160; 
+
+&#160; 
+
+Net realized gains on marketable securities 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(25 
+
+) 
+
+&#160; 
+
+Net realized gains on other investments 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Impairment losses on marketable securities and other investments 
+
+(85 
+
+) 
+
+&#160; 
+
+(83 
+
+) 
+
+&#160; 
+
+(52 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+(31 
+
+) 
+
+Net gains (losses) on derivative instruments 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+(84 
+
+) 
+
+&#160; 
+
+Net gains on deconsolidation of subsidiaries 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Equity in net losses of investees 
+
+(6 
+
+) 
+
+&#160; 
+
+(9 
+
+) 
+
+&#160; 
+
+(7 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+The increases in interest and dividend income resulted from higher average balances of cash, cash equivalents and marketable securities in fiscal 2013 and 2012 and higher interest rates in fiscal 2012 compared to fiscal 2011. The decreases in interest expense resulted from capitalizing a portion of interest starting in fiscal 2012 related to the former BWA subsidiaries, which were deconsolidated in fiscal 2013. Net gains on derivative instruments in fiscal 2012 primarily resulted from changes in the fair value of put options sold in connection with our stock repurchase program that expired in fiscal 2012. ##TABLE_START Income Tax Expense (in millions) 
+
+Year Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+September 29, 2013 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+&#160; 
+
+2013 vs. 2012 Change 
+
+&#160; 
+
+2012 vs. 2011 Change 
+
+Income tax expense 
+
+$ 
+
+1,349 
+
+&#160; 
+
+$ 
+
+1,279 
+
+&#160; 
+
+$ 
+
+1,132 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Effective tax rate 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(3 
+
+)% 
+
+&#160; 
+
+(1 
+
+)% 
+
+##TABLE_END
+
+The following table summarizes the primary factors that caused our annual effective tax rates to be less than the United States federal statutory rate: ##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+September 29, 2013 
+
+&#160; 
+
+September 30, 2012 
+
+&#160; 
+
+September 25, 2011 
+
+Expected income tax provision at federal statutory tax rate 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+State income tax provision, net of federal benefit 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+% 
+
+Benefits from foreign income taxed at other than U.S. rates 
+
+(17 
+
+%) 
+
+&#160; 
+
+(16 
+
+%) 
+
+&#160; 
+
+(19 
+
+%) 
+
+Benefits related to the research and development tax credit 
+
+(2 
+
+%) 
+
+&#160; 
+
+(1 
+
+%) 
+
+&#160; 
+
+(3 
+
+%) 
+
+Change in valuation allowance 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Other 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+% 
+
+Effective tax rate 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+##TABLE_END
+
+The effective tax rate for fiscal 2013 reflected a tax benefit of $64 million related to fiscal 2012 resulting from the retroactive extension of the United States research and development tax credit. Additionally, the effective tax rate for fiscal 2013 as compared to fiscal 2012 reflected increased foreign earnings taxed at less than the United States federal rate. 
+
+The effective tax rate for fiscal 2012 as compared to fiscal 2011 reflected a reduction in our effective state tax rate as a result of California tax legislation previously enacted, partially offset by increased earnings taxed at the United States tax rate. The annual effective tax rate for fiscal 2012 only reflected the United States federal research and development credit generated through December 31, 2011, the date on which the credit expired. 
+
+&#32;36 
+
+The effective tax rate for fiscal 2011 reflected tax benefits of $44 million related to an agreement reached on a component of our fiscal 2006 through fiscal 2010 state tax returns and $32 million related to fiscal 2010 resulting from the retroactive extension of the United States federal research and development tax credit. 
+
+Our Segment Results (in millions) 
+
+The following should be read in conjunction with the fiscal 2013 , 2012 &#32;and 2011 &#32;financial results for each reporting segment. See &#8220;Notes to Consolidated Financial Statements, Note 8. Segment Information.&#8221; 
+
+##TABLE_START &#160; 
+
+QCT 
+
+&#160; 
+
+QTL 
+
+&#160; 
+
+QWI 
+
+&#160; 
+
+QSI 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+$ 
+
+16,715 
+
+&#160; 
+
+$ 
+
+7,554 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+EBT (1) 
+
+3,189 
+
+&#160; 
+
+6,590 
+
+&#160; 
+
+(8 
+
+) 
+
+&#160; 
+
+EBT as a % of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(1 
+
+%) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+$ 
+
+12,141 
+
+&#160; 
+
+$ 
+
+6,327 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+EBT (1) 
+
+2,296 
+
+&#160; 
+
+5,585 
+
+&#160; 
+
+(15 
+
+) 
+
+&#160; 
+
+(170 
+
+) 
+
+EBT as a % of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(2 
+
+%) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+$ 
+
+8,859 
+
+&#160; 
+
+$ 
+
+5,422 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+EBT (1) 
+
+2,056 
+
+&#160; 
+
+4,753 
+
+&#160; 
+
+(152 
+
+) 
+
+&#160; 
+
+(132 
+
+) 
+
+EBT as a % of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+(23 
+
+%) 
+
+&#160; 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Earnings (loss) before taxes. 
+
+##TABLE_END QCT Segment. &#32;The increases in QCT revenues in fiscal 2013 and 2012 of $4.57 billion and $3.28 billion, respectively, were primarily due to increases in equipment and services revenues. Equipment and services revenues, mostly related to sales of MSM and accompanying RF and PM integrated circuits, were $16.49 billion, $11.91 billion and $8.65 billion in fiscal 2013 , 2012 &#32;and 2011 , respectively. The increases in equipment and services revenues in fiscal 2013 &#32;and 2012 &#32;resulted primarily from increases of $2.09 billion and $651 million, respectively, related to the net effects of changes in product mix and lower average selling prices of such products, increases of $2.05 billion and $1.71 billion, respectively, related to higher unit shipments and increases of $212 million and $803 million, respectively, related to sales of connectivity products. Approximately 716 million, 590 million and 483 million MSM integrated circuits were sold during fiscal 2013 , 2012 &#32;and 2011 , respectively. 
+
+QCT EBT as a percentage of revenues remained flat in fiscal 2013 as compared to fiscal 2012. During fiscal 2013, QCT revenues increased 38% relative to a combined increase of 26% in research and development expenses and selling, general and administrative expenses, partially offset by a decrease in gross margin percentage. The decrease in QCT EBT as a percentage of revenues in fiscal 2012 was primarily due to a decrease in gross margin percentage, partially offset by an increase of 37% in QCT revenues relative to a combined increase of 33% in research and development expenses and selling, general and administrative expenses. QCT gross margin percentage decreased in fiscal 2013 &#32;as a result of the net effects of lower average selling prices and unfavorable product mix, partially offset by a decrease in average unit costs. QCT gross margin percentage decreased in fiscal 2012 as a result of the net effects of lower average selling prices, unfavorable product mix and higher product support costs, partially offset by a decrease in average unit costs. The higher product support costs in fiscal 2012 &#32;primarily related to increased expenses incurred to facilitate additional supply of 28 nanometer integrated circuits. 
+
+QCT inventories increased by 34% in fiscal 2013 &#32;from $973 million to $1.30 billion primarily due to certain higher value MSM products and an increase in work-in-process and finished goods related to growth of the business. 
+
+QTL Segment. &#32;The increases in QTL revenues in fiscal 2013 and 2012 of $1.23 billion and $905 million, respectively, were primarily due to increases in sales of CDMA-based devices by licensees. The net increase in QTL revenues in fiscal 2012 also included the effect of $401 million in revenues recorded in fiscal 2011 in connection with settlement agreements entered into with two licensees. The decrease in QTL EBT as a percentage of revenues during fiscal 2013 was attributable to an increase of 19% in revenues relative to an increase of 29% in costs and expenses primarily due to increased allocation of patent expenses in connection with the corporate reorganization and increased research and development expenses. 
+
+QWI Segment. &#32;The decrease in QWI revenues in fiscal 2013 &#32;was primarily due to a decrease of $13 million in QIS revenues. The decrease in QWI revenues in fiscal 2012 was primarily due to a $25 million decrease in Omnitracs revenues. QWI costs and expenses in fiscal 2012 and 2011 included $23 million and $114 million respectively, of goodwill impairment charges related to our QRS division. The $16 million decrease in QWI EBT during fiscal 2013, excluding the impairment 
+
+&#32;37 
+
+charges, was primarily attributable to a $19 million increase in QRS operating loss (before the impairment charges). The $46 million increase in QWI EBT in fiscal 2012, excluding the impairment charges, was primarily attributable to a $26 million decrease in QRS operating loss (before the impairment charges) and a $25 million decrease in QIS operating loss. 
+
+QSI Segment . QSI costs and expenses for fiscal 2012 included $81 million related to a payment made to the Indian government concurrent with the issuance of the BWA spectrum license. The increases in QSI EBT in fiscal 2013 and 2012 of $145 million and $43 million, respectively, excluding this expense, were primarily due to increases of $67 million and $40 million, respectively, in net realized gains on investments and decreases of $60 million and $20 million, respectively, in interest expense as a result of capitalizing interest starting in the third quarter of fiscal 2012 related to the BWA subsidiaries, which were deconsolidated in fiscal 2013. 
+
+Liquidity and Capital Resources 
+
+Our principal sources of liquidity are our existing cash, cash equivalents and marketable securities, cash generated from operations and proceeds from the issuance of common stock under our stock option and employee stock purchase plans. Cash, cash equivalents and marketable securities were $29.4 billion &#32;at September 29, 2013 , an increase of $2.6 billion &#32;from September 30, 2012 . This increase included $1.5 billion &#32;in proceeds from the issuance of common stock under our equity compensation plans. Our cash, cash equivalents and marketable securities at September 29, 2013 &#32;consisted of $8.1 billion held by United States-based subsidiaries and $21.3 billion held by foreign subsidiaries. Of our cash, cash equivalents and marketable securities at September 29, 2013 , $21.2 billion is indefinitely reinvested and would be subject to material tax effects if repatriated. Due to tax considerations, we derive liquidity for operations primarily from domestic cash flow and investments held domestically. Total cash provided by operating activities increased to $8.8 billion &#32;during fiscal 2013 , compared to $6.0 billion &#32;during fiscal 2012 . 
+
+During fiscal 2013 , we repurchased and retired 71,696,000 &#32;shares of common stock for $4.6 billion , before commissions. At September 29, 2013 , approximately $4.9 billion &#32;remained available for repurchase under a new stock repurchase program announced in September, and we currently expect to complete a minimum of $4 billion of stock repurchases during fiscal 2014. The stock repurchase program has no expiration date. We continue to evaluate repurchases as a means of returning capital to stockholders, subject to our periodic determinations that repurchases are in the best interests of our stockholders. 
+
+We paid dividends totaling $2.1 billion and $1.6 billion, or $1.20 &#32;and $0.93 &#32;per common share, during fiscal 2013 &#32;and 2012 , respectively. On March 5, 2013, we announced an increase in our quarterly dividend from $0.25 to $0.35 per share of common stock. On October 24, 2013 , we announced a cash dividend of $0.35 &#32;per share of common stock, payable on December 19, 2013 &#32;to stockholders of record as of December 2, 2013 . We intend to continue to use cash dividends as a means of returning capital to stockholders, subject to capital availability and our view that cash dividends are in the best interests of our stockholders. 
+
+Accounts receivable increased 47% during fiscal 2013 . Days sales outstanding, on a consolidated basis, were 30 days at September 29, 2013 &#32;compared to 29 days at September 30, 2012 . The increase in accounts receivable and the related days sales outstanding were primarily due to growth of the business and the effects of timing of shipments and customer payments for receivables related to integrated circuits. 
+
+We believe our current cash, cash equivalents and marketable securities and our expected cash flow generated from operations will provide us with flexibility and satisfy our working and other capital requirements over the next fiscal year and beyond based on our current business plans. 
+
+##TABLE_START &#8226; 
+
+Our research and development expenditures were $5.0 billion &#32;and $3.9 billion &#32;in fiscal 2013 &#32;and 2012 , respectively, and we expect to continue to invest heavily in research and development for new technologies, applications and services for voice and data communications, primarily in the wireless industry. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Cash outflows for capital expenditures were $1.0 billion &#32;and $1.3 billion &#32;in fiscal 2013 &#32;and 2012 , respectively, including approximately $480 million in fiscal 2012 related to the construction of a new manufacturing facility in Taiwan for our QMT division. We expect to continue to incur capital expenditures in the future to support our business, including research and development activities. Future capital expenditures may be impacted by transactions that are currently not forecasted. 
+
+##TABLE_END##TABLE_START &#8226; 
+
+Our purchase obligations for fiscal 2014 , some of which relate to research and development activities and capital expenditures, totaled $3.3 billion &#32;at September 29, 2013 . 
+
+##TABLE_END##TABLE_START &#8226; 
+
+On August 21, 2013, we entered into a definitive agreement under which we agreed to sell the North and Latin American operations of our Omnitracs division for $800 million, subject to closing conditions, including receipt of regulatory approvals. We expect the transaction to close in the first quarter of fiscal 2014. 
+
+##TABLE_END &#32;38 
+
+##TABLE_START &#8226; 
+
+We expect to continue making strategic investments and acquisitions, the amounts of which could vary significantly, to open new opportunities for our technologies, obtain development resources, grow our patent portfolio or pursue new business. 
+
+##TABLE_END Contractual Obligations / Off-Balance Sheet Arrangements 
+
+We have no significant contractual obligations not fully recorded on our consolidated balance sheets or fully disclosed in the notes to our consolidated financial statements. We have no material off-balance sheet arrangements as defined in S-K 303(a)(4)(ii). 
+
+At September 29, 2013 , our outstanding contractual obligations included (in millions): 
+
+Contractual Obligations 
+
+Payments Due By Fiscal Period ##TABLE_START &#160; 
+
+Total 
+
+&#160; 
+
+&#160; 
+
+2015-2016 
+
+&#160; 
+
+2017-2018 
+
+&#160; 
+
+Beyond 
+
+&#160; 
+
+No 
+
+Expiration 
+
+Date 
+
+Purchase obligations (1) 
+
+$ 
+
+3,558 
+
+&#160; 
+
+$ 
+
+3,284 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+Operating lease obligations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Capital lease obligations (2) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Equity funding commitments (3) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Other long-term liabilities (4)(5) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total contractual obligations 
+
+$ 
+
+3,981 
+
+&#160; 
+
+$ 
+
+3,374 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Total purchase obligations include $2.8 billion in commitments to purchase integrated circuit product inventories. Integrated circuit product inventory obligations represent purchase commitments for silicon wafers and assembly and test services. Under our manufacturing relationships with our foundry partners and assembly and test service providers, cancelation of outstanding purchase orders is generally allowed but requires payment of all costs incurred through the date of cancelation. 
+
+##TABLE_END##TABLE_START (2) 
+
+Amounts represent future minimum lease payments including interest payments. Capital lease obligations are included in other liabilities in the consolidated balance sheet at September 29, 2013 . 
+
+##TABLE_END##TABLE_START (3) 
+
+These commitments do not have fixed funding dates and are subject to certain conditions. Commitments represent the maximum amounts to be financed or funded under these arrangements; actual financing or funding may be in lesser amounts or not at all. 
+
+##TABLE_END##TABLE_START (4) 
+
+Certain long-term liabilities reflected on our balance sheet, such as unearned revenues, are not presented in this table because they do not require cash settlement in the future. Other long-term liabilities as presented in this table include the related current portions. 
+
+##TABLE_END##TABLE_START (5) 
+
+Our consolidated balance sheet at September 29, 2013 &#32;included a $208 million noncurrent liability for uncertain tax positions, all of which may result in cash payment. The future payments related to uncertain tax positions have not been presented in the table above due to the uncertainty of the amounts and timing of cash settlement with the taxing authorities. 
+
+##TABLE_END Additional information regarding our financial commitments at September 29, 2013 &#32;is provided in the notes to our consolidated financial statements. See &#8220;Notes to Consolidated Financial Statements, Note 7. Commitments and Contingencies.&#8221; 
+
+Recent Accounting Pronouncements 
+
+In February 2013, the Financial Accounting Standards Board (FASB) issued guidance on disclosure requirements for items reclassified out of accumulated other comprehensive income. This new guidance requires entities to present (either on the face of the statement of operations or in the notes to the financial statements) the effects on the line items in the statement of operations for amounts reclassified out of accumulated other comprehensive income. The new guidance will be effective for us beginning in the first quarter of fiscal 2014. The adoption of the guidance will impact our financial statement presentation and/or our disclosures but will not impact our financial position, results of operations or cash flows. 
+

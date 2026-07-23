@@ -1,0 +1,156 @@
+ ITEM 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+This information should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in Part I, Item 1 of this Quarterly Report on Form 10-Q and the audited consolidated financial statements and related notes and Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended October 28, 2023 (fiscal 2023). 
+
+This Quarterly Report on Form 10-Q, including the following discussion, contains forward-looking statements regarding future events and our future results that are subject to the safe harbor created under the Private Securities Litigation Reform Act of 1995 and other safe harbors under the Securities Act of 1933 and the Securities Exchange Act of 1934. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. These statements are based on current expectations, estimates, forecasts and projections about the industries in which we operate and the beliefs and assumptions of our management. Words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;targets,&#8221; &#8220;goals,&#8221; &#8220;projects,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;estimates,&#8221; &#8220;continues,&#8221; &#8220;potential,&#8221; &#8220;may,&#8221; &#8220;could&#8221; and &#8220;will,&#8221; and variations of such words and similar expressions are intended to identify such forward-looking statements. In addition, any statements that refer to projections regarding our future financial performance or results; our anticipated growth and trends in our businesses; the effects of business, economic, political, legal and regulatory impacts or conflicts upon our global operations ; changes in demand for semiconductors and the related changes in demand and supply for our products; manufacturing delays, product availability and supply chain disruptions; our ability to recruit or retain our key personnel; our future liquidity, capital needs and capital expenditures; our development of technologies and processes and research and development investments; our future market position and expected competitive changes in the marketplace for our products; the anticipated result of litigation matters; our plans to pay dividends or repurchase stock; servicing our outstanding debt; our plans to borrow under our third amended and restated revolving credit agreement, as amended, and issue notes under our commercial paper program and the planned use of proceeds from such borrowing and issuing; our expected tax rate; expected cost savings; the effect of new accounting pronouncements; our plans to integrate or realize the benefits or synergies expected of acquired businesses and technologies; our Global Repositioning Actions and Q4 2023 Plan; and other characterizations of future events or circumstances are forward-looking statements. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors. 
+
+The following important factors and uncertainties, among others, could cause actual results to differ materially from those described in the forward-looking statements: economic, political, legal and regulatory uncertainty or conflicts; changes in demand for semiconductor products; manufacturing delays, product and raw materials availability and supply chain disruptions; products that may be diverted from our authorized distribution channels; changes in export classifications, import and export regulations or duties and tariffs; our development of technologies and research and development investments; our future liquidity, capital needs and capital expenditures; our ability to compete successfully in the markets in which we operate; our ability to recruit and retain key personnel; risks related to acquisitions or other strategic transactions; security breaches or other cyber incidents; adverse results in litigation matters; reputational damage; changes in our estimates of our expected tax rates based on current tax law; risks related to our indebtedness; unanticipated difficulties or expenditures relating to integrating Maxim; the discretion of our Board of Directors to declare dividends and our ability to pay dividends in the future; factors impacting our ability to repurchase shares; and uncertainty as to the long-term value of our common stock. Additional factors that could cause actual results to differ materially from those described in these forward-looking statements include the risk factors included in Part I, Item 1A, &#8220;Risk Factors&#8221; of our Annual Report on Form 10-K for fiscal 2023. We undertake no obligation to revise or update any forward-looking statements, including to reflect events or circumstances occurring after the date of the filing of this report, except to the extent required by law. 
+
+Results of Operations 
+
+Overview 
+
+(all tabular amounts in thousands except per share amounts and percentages) &#160; Three Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change Revenue $ 2,312,209 $ 3,076,495 $ (764,286) (25) % Gross margin % 56.7 % 63.8 % Net income $ 392,232 $ 877,019 $ (484,787) (55) % Net income as a % of revenue 17.0 % 28.5 % Diluted EPS $ 0.79 $ 1.74 $ (0.95) (55) % Nine Months Ended August 3, 2024 July 29, 2023 $ Change % Change Revenue $ 6,983,952 $ 9,589,055 $ (2,605,103) (27) % Gross margin % 56.8 % 65.0 % Net income $ 1,157,201 $ 2,816,149 $ (1,658,948) (59) % Net income as a % of revenue 16.6 % 29.4 % Diluted EPS $ 2.32 $ 5.55 $ (3.23) (58) % 
+
+We have a 52-53 week fiscal year that ends on the Saturday closest to the last day in October. The fiscal year ending November 2, 2024 (fiscal 2024) is a 53-week fiscal year and fiscal 2023 was a 52-week fiscal year. The additional week in fiscal 2024 was included in the first quarter ended February 3, 2024. Therefore, the first nine months of fiscal 2024 included an additional week of operations as compared to the first nine months of fiscal 2023. 
+
+Revenue Trends by End Market 
+
+The following tables summarize revenue by end market. The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the &#8220;sold to&#8221; customer information, the &#8220;ship to&#8221; customer information and the end customer product or application into which our product will be incorporated. As data systems for capturing and tracking this data and our methodology evolves and improves, the categorization of products by end market 
+
+can vary over time. When this occurs, we reclassify revenue by end market for prior periods. Such reclassifications typically do not materially change the sizing of, or the underlying trends of results within, each end market. 
+
+Three Months Ended &#160; August 3, 2024 July 29, 2023 &#160; Revenue % of Revenue* Y/Y% Revenue % of Revenue* Industrial $ 1,058,704 46 % (37) % $ 1,683,843 55 % Automotive 670,304 29 % (8) % 727,315 24 % Communications 266,599 12 % (26) % 358,520 12 % Consumer 316,602 14 % 3 % 306,817 10 % Total revenue $ 2,312,209 100 % (25) % $ 3,076,495 100 % Nine Months Ended August 3, 2024 July 29, 2023 Revenue % of Revenue* Y/Y% Revenue % of Revenue* Industrial $ 3,252,757 47 % (38) % $ 5,252,078 55 % Automotive 2,082,869 30 % (3) % 2,146,320 22 % Communications 811,150 12 % (36) % 1,273,265 13 % Consumer 837,176 12 % (9) % 917,392 10 % Total revenue $ 6,983,952 100 % (27) % $ 9,589,055 100 % * The sum of the individual percentages may not equal the total due to rounding. 
+
+Revenue decreased 25% and 27% in the three- and nine-month periods ended August 3, 2024, respectively, as compared to the same periods of the prior fiscal year, primarily as a result of broad-based decline in demand for our products. The decrease in the nine-month period was partially offset by an additional week of operations in the first quarter of fiscal 2024 as compared to the first quarter of fiscal 2023. 
+
+Revenue by Sales Channel 
+
+The following tables summarize revenue by sales channel. We sell our products globally through a direct sales force, third party distributors, independent sales representatives and via our website. Distributors are customers that buy products with the intention of reselling them. Direct customers are non-distributor customers and consist primarily of original equipment manufacturers. Other customers include the U.S. government, government prime contractors and certain commercial customers for which revenue is recorded over time. 
+
+Three Months Ended August 3, 2024 July 29, 2023 Revenue % of Revenue* Revenue % of Revenue* Channel Distributors $ 1,332,244 58 % $ 1,904,496 62 % Direct customers 940,317 41 % 1,126,796 37 % Other 39,648 2 % 45,203 1 % Total revenue $ 2,312,209 100 % $ 3,076,495 100 % Nine Months Ended August 3, 2024 July 29, 2023 Revenue % of Revenue* Revenue % of Revenue* Channel Distributors $ 4,115,836 59 % $ 5,912,229 62 % Direct customers 2,753,885 39 % 3,547,116 37 % Other 114,231 2 % 129,710 1 % Total revenue $ 6,983,952 100 % $ 9,589,055 100 % * The sum of the individual percentages may not equal the total due to rounding. 
+
+As indicated in the table above, the percentage of total revenue sold via each channel has remained relatively consistent in the periods presented, but can fluctuate from time to time based on end market revenue trends. 
+
+Gross Margin &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change Gross margin $ 1,311,239 $ 1,961,615 $ (650,376) (33) % $ 3,965,215 $ 6,230,502 $ (2,265,287) (36) % Gross margin % 56.7 % 63.8 % 56.8 % 65.0 % 
+
+Gross margin percentage decreased by 710 and 820 basis points in the three- and nine-month periods ended August 3, 2024, respectively, as compared to the same periods of the prior fiscal year, primarily due to lower utilization of our factories due to decreased customer demand and unfavorable product mix. 
+
+Research and Development (R&#38;D) &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change R&#38;D expenses $ 362,671 $ 423,751 $ (61,080) (14) % $ 1,108,960 $ 1,253,600 $ (144,640) (12) % R&#38;D expenses as a % of revenue 16 % 14 % 16 % 13 % 
+
+R&#38;D expenses decreased in the three- and nine-month periods ended August 3, 2024, as compared to the same periods of the prior fiscal year. The decrease in the three-month period was primarily as a result of lower R&#38;D employee-related variable compensation expenses and lower salary and benefit expenses. The decrease in the nine-month period was primarily as a result of lower R&#38;D employee-related variable compensation expenses, partially offset by higher salary and benefit expenses and the impact of an additional week of operations in the first quarter of fiscal 2024 as compared to the first quarter of fiscal 2023. 
+
+R&#38;D expenses as a percentage of revenue will fluctuate from year-to-year depending on the amount of revenue and the success of new product development efforts, which we view as critical to our future growth. We expect to continue the development of innovative technologies and processes for new products. We believe that a continued commitment to R&#38;D is essential to maintain product leadership with our existing products as well as to provide innovative new product offerings. 
+
+Selling, Marketing, General and Administrative (SMG&#38;A) &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change SMG&#38;A expenses $ 257,213 $ 334,113 $ (76,900) (23) % $ 791,420 $ 984,648 $ (193,228) (20) % SMG&#38;A expenses as a % of revenue 11 % 11 % 11 % 10 % 
+
+SMG&#38;A expenses decreased in the three- and nine-month periods ended August 3, 2024, as compared to the same periods of the prior fiscal year, primarily as a result of lower SMG&#38;A employee-related variable compensation expenses, salary and benefit expenses and discretionary spending. The decrease in the nine-month period was partially offset by an additional week of operations in the first quarter of fiscal 2024 as compared to the first quarter of fiscal 2023. 
+
+Amortization of Intangibles 
+
+&#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change Amortization expenses $ 187,754 $ 250,719 $ (62,965) (25) % $ 567,030 $ 756,882 $ (189,852) (25) % Amortization expenses as a % of revenue 8 % 8 % 8 % 8 % 
+
+Amortization expenses decreased in the three- and nine-month periods ended August 3, 2024, as compared to the same periods of the prior fiscal year, primarily as a result of a portion of our acquired intangible assets becoming fully amortized during fiscal 2023. 
+
+Special Charges, Net 
+
+&#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change Special charges, net $ 12,282 $ 23,539 $ (11,257) (48) % $ 34,399 $ 46,675 $ (12,276) (26) % 
+
+Special charges, net decreased in the three- and nine-month periods ended August 3, 2024, as compared to the same periods of the prior fiscal year, primarily due to the timing of charges recorded in each period. Fiscal 2023 charges were primarily related to Global Repositioning Actions, while fiscal 2024 charges were primarily related to the Q4 2023 Plan. 
+
+Operating Income &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change Operating income $ 491,319 $ 929,493 $ (438,174) (47) % $ 1,463,406 $ 3,188,697 $ (1,725,291) (54) % Operating income as a % of revenue 21.2 % 30.2 % 21.0 % 33.3 % 
+
+The year-over-year decrease in operating income in the three-month period ended August 3, 2024 was primarily the result of a decrease in revenue, which contributed to a decrease in gross margin of $650.4 million, partially offset by a decrease of $212.2 million in net operating expenses. 
+
+The year-over-year decrease in operating income in the nine-month period ended August 3, 2024 was primarily the result of a decrease in revenue, which contributed to a decrease in gross margin of $2,265.3 million, partially offset by a decrease of $540.0 million in net operating expenses. 
+
+Nonoperating Expense (Income) &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change August 3, 2024 July 29, 2023 $ Change Total nonoperating expense (income) $ 68,328 $ 54,672 $ 13,656 $ 202,394 $ 152,480 $ 49,914 
+
+The year-over-year increases in nonoperating expense (income) in the three- and nine-month periods ended August 3, 2024, as compared to the same periods of the prior fiscal year, were primarily the result of higher foreign currency expenses. 
+
+Provision for (Benefit from) Income Taxes &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change August 3, 2024 July 29, 2023 $ Change Provision for (benefit from) income taxes $ 30,759 $ (2,198) $ 32,957 $ 103,811 $ 220,068 $ (116,257) Effective income tax rate 7.3 % (0.3) % 8.2 % 7.2 % 
+
+The effective tax rates for the three- and nine-month periods ended August 3, 2024 and July 29, 2023 were below the U.S. statutory tax rate of 21% due to lower statutory tax rates applicable to our operations in the foreign jurisdictions in which we earn income. Our pretax income for the three- and nine-month periods ended August 3, 2024 and July 29, 2023 was primarily generated in Ireland at a tax rate of 12.5%. 
+
+See Note 12, Income Taxes , in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion. 
+
+Net Income &#160; Three Months Ended Nine Months Ended &#160; August 3, 2024 July 29, 2023 $ Change % Change August 3, 2024 July 29, 2023 $ Change % Change Net income $ 392,232 $ 877,019 $ (484,787) (55) % $ 1,157,201 $ 2,816,149 $ (1,658,948) (59) % Net income as a % of revenue 17.0 % 28.5 % 16.6 % 29.4 % Diluted EPS $ 0.79 $ 1.74 $ 2.32 $ 5.55 
+
+Net income decreased in the three-month period ended August 3, 2024, as compared to the same period of the prior fiscal year, as the result of a $438.2 million decrease in operating income, a $33.0 million increase in provision for (benefit from) income taxes and a $13.7 million increase in nonoperating expense (income). 
+
+Net income decreased in the nine-month period ended August 3, 2024, as compared to the same period of the prior fiscal year, as the result of a $1,725.3 million decrease in operating income and a $49.9 million increase in nonoperating expense (income), partially offset by a $116.3 million decrease in provision for (benefit from) income taxes. 
+
+Liquidity and Capital Resources 
+
+At August 3, 2024, our principal source of liquidity was $2.5 billion of cash, cash equivalents and short-term investments, of which approximately $1.4 billion was held in the United States, and the balance of our cash, cash equivalents and short-term investments was held outside the United States in various foreign subsidiaries. We manage our worldwide cash requirements by, among other things, reviewing available funds held by our foreign subsidiaries and the cost effectiveness by which those funds can be accessed in the United States. We do not expect current regulatory restrictions or taxes on repatriation to have a material adverse effect on our overall liquidity, financial condition or results of operations. Our cash, cash equivalents and short-term investments consist of highly liquid investments, including money market funds and corporate and bank obligations. We maintain these balances with counterparties with high credit ratings, and continually monitor the amount of credit exposure to any one issuer and diversify our investments in order to minimize our credit risk. 
+
+We believe that our existing sources of liquidity and cash expected to be generated from future operations, together with existing and anticipated available short- and long-term financing, will be sufficient to fund operations, capital expenditures, research and development efforts and dividend payments (if any) in the immediate future and for at least the next twelve months. &#160; Nine Months Ended &#160; August 3, 2024 July 29, 2023 Net cash provided by operating activities $ 2,801,712 $ 3,630,340 Net cash provided by operations as a % of revenue 40 % 56 % Net cash used for investing activities $ (993,244) $ (787,324) Net cash used for financing activities $ (660,497) $ (3,164,342) 
+
+The following changes contributed to the net change in cash and cash equivalents in the nine-month period ended August 3, 2024 as compared to the same period in fiscal 2023. 
+
+Operating Activities 
+
+Cash provided by operating activities is net income adjusted for certain non-cash items and changes in operating assets and liabilities. The decrease in cash provided by operating activities during the nine-month period ended August 3, 2024, as compared to the same period of the prior fiscal year, was mainly the result of lower net income adjusted for noncash items offset by changes in working capital. 
+
+Investing Activities 
+
+Investing cash flows generally consist of capital expenditures and cash used for acquisitions. The increase in cash used for investing activities during the nine-month period ended August 3, 2024, as compared to the same period of the prior fiscal year, was primarily the result of the purchase of short-term investments, partially offset by a decrease in cash used for capital expenditures. 
+
+Financing Activities 
+
+Financing cash flows generally consist of payments of dividends to stockholders, repurchases of common stock, issuance and repayment of debt and proceeds from the sale of shares of common stock pursuant to employee equity incentive plans. The change in cash used for financing activities during the nine-month period ended August 3, 2024, as compared to the same period of the prior fiscal year, was primarily the result of lower common stock repurchases and net proceeds from the issuance of debt during fiscal 2024. For additional information, see Note 11, Debt , in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q. 
+
+Working Capital August 3, 2024 October 28, 2023 $ Change % Change Accounts receivable $ 1,127,158 $ 1,469,734 $ (342,576) (23) % Days sales outstanding* 42 52 Inventory $ 1,427,936 $ 1,642,214 $ (214,278) (13) % Days cost of sales in inventory* 132 143 
+
+_______________________________________ 
+
+* We use the average of the current quarter and prior quarter ending net accounts receivable and ending inventory balance in our calculation of days sales outstanding and days cost of sales in inventory, respectively. 
+
+The decrease in accounts receivable in dollars was primarily the result of variations in the timing of collections and billings and decreased revenue levels in the third quarter of fiscal 2024 as compared to the fourth quarter of fiscal 2023. 
+
+Inventory decreased primarily as a result of our efforts to balance manufacturing production, demand and inventory levels. Our inventory levels are impacted by our need to support forecasted sales demand and variations between those forecasts and actual demand. 
+
+Current liabilities increased to $3,226.6 million at August 3, 2024 as compared to $3,201.0 million at the end of fiscal 2023 due to higher current debt and income taxes payable, partially offset by lower accrued liabilities and accounts payable. 
+
+Debt 
+
+As of August 3, 2024, our debt obligations consisted of the following: Principal Amount Outstanding Commercial paper notes $ 547,443 2024 Notes, due October 2024 500,000 2025 Notes, due April 2025 400,000 2026 Notes, due December 2026 900,000 2027 Notes, due June 2027 440,212 2028 Notes, due October 2028 750,000 2031 Notes, due October 2031 1,000,000 2032 Notes, due October 2032 300,000 2034 Notes, due April 2034 550,000 2036 Notes, due December 2036 144,278 2041 Notes, due October 2041 750,000 2045 Notes, due December 2045 332,587 2051 Notes, due October 2051 1,000,000 2054 Notes, due April 2054 550,000 Total debt $ 8,164,520 
+
+The indentures governing our outstanding notes contain covenants that may limit our ability to: incur, create, assume or guarantee any debt for borrowed money secured by a lien upon a principal property; enter into sale and lease-back transactions with respect to a principal property; and consolidate with or merge into, or transfer or lease all or substantially all of our assets to, any other party. As of August 3, 2024, we were in compliance with these covenants. 
+
+Commercial Paper Program 
+
+Under our commercial paper program, we may issue short-term, unsecured commercial paper notes in amounts up to a maximum aggregate face amount of $2.5 billion outstanding at any time, with maturities of up to 397 days from the date of issuance. As of August 3, 2024, we had $547.4 million of outstanding borrowings under the commercial paper program recorded in the Condensed Consolidated Balance Sheet. We use the net proceeds of the commercial paper program for general corporate purposes, including without limitation, repayment of indebtedness, stock repurchases, acquisitions, capital expenditures and working capital. 
+
+Revolving Credit Facility 
+
+Our Third Amended and Restated Revolving Credit Agreement, dated as of June 23, 2021 and as amended (Revolving Credit Agreement), provides for a five year unsecured revolving credit facility in an aggregate principal amount not to exceed $2.5 billion (subject to certain terms and conditions). 
+
+We may borrow under this revolving credit facility in the future and use the proceeds for repayment of existing indebtedness, stock repurchases, acquisitions, capital expenditures, working capital and other lawful corporate purposes. The terms of the Revolving Credit Agreement impose restrictions on our ability to undertake certain transactions, to create certain liens on assets and to incur certain subsidiary indebtedness. In addition, the Revolving Credit Agreement contains a consolidated leverage ratio covenant of total consolidated funded debt to consolidated earnings before interest, taxes, depreciation, and amortization (EBITDA) of not greater than 3.5 to 1.0. As of August 3, 2024, we were in compliance with these covenants. 
+
+Stock Repurchase Program 
+
+In the aggregate, our Board of Directors has authorized us to repurchase $16.7 billion of our common stock under our common stock repurchase program. Unless terminated earlier by resolution of our Board of Directors, the repurchase program will expire when we have repurchased all shares authorized under the program. As of August 3, 2024, an additional $1.7 billion remains available for repurchase under the current authorized program. The repurchased shares are held as authorized but unissued shares of common stock. We also repurchase shares in settlement of employee tax withholding obligations due upon the vesting of restricted stock units/awards or the exercise of stock options as well as for our employee stock purchase plan. Future repurchases of common stock will be dependent upon our financial position, results of operations, outlook, liquidity and other factors we deem relevant. 
+
+Capital Expenditures 
+
+Net additions to property, plant and equipment were $565.1 million in the first nine months of fiscal 2024. We expect capital expenditures for fiscal 2024 to be between approximately $650 million and $750 million. These capital expenditures will be funded with a combination of cash on hand and cash expected to be generated from future operations, together with existing and anticipated available short- and long-term financing. 
+
+Dividends 
+
+On August 20, 2024, our Board of Directors declared a cash dividend of $0.92 per outstanding share of common stock. The dividend will be paid on September 17, 2024 to all shareholders of record at the close of business on September 3, 2024 and is expected to total approximately $456.8 million. We currently expect quarterly dividends to continue in future periods. The payment of any future quarterly dividends, or a future increase in the quarterly dividend amount, will be at the discretion of the Board of Directors and will be dependent upon our financial position, results of operations, outlook, liquidity and other factors deemed relevant by the Board of Directors. 
+
+Contractual Obligations 
+
+In the second quarter of fiscal 2024, we issued $550.0 million aggregate principal amount of 5.050% senior unsecured notes due April 1, 2034 (2034 Notes) and $550.0 million aggregate principal amount of 5.300% senior unsecured notes due April 1, 2054 (2054 Notes). The 2034 Notes and the 2054 Notes have semi-annual fixed interest payments due on April 1 and October 1 of each year, commencing October 1, 2024. For additional information, see Note 11, Debt , in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q. 
+
+New Accounting Pronouncements 
+
+From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board that are adopted by us as of the specified effective date. Unless otherwise discussed, management believes that the impact of recently issued standards will not have a material impact on our future financial condition and results of operations. See Note 13, New Accounting Pronouncements, in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for a description of recently issued and adopted accounting pronouncements, including the dates of adoption and impact on our historical financial condition and results of operations. 
+
+
+
+ ITEM 1A. Risk Factors 
+
+We are subject to a number of risks that could adversely affect our business, results of operations, financial condition and future prospects, including those identified in Part I, Item 1A, &#8220;Risk Factors&#8221; of our Annual Report on Form 10-K for the fiscal year ended October 28, 2023, which was filed with the Securities and Exchange Commission on November 21, 2023. 
+

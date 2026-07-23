@@ -1,0 +1,1588 @@
+ Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+&#160; The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on &#32; Form 10-Q &#32; and the audited consolidated financial statements and notes thereto and management&#8217;s discussion and analysis of financial condition and results of operations for the fiscal year ended October 28, 2012 , or fiscal year 2012 , included in our Annual Report on &#32; Form 10-K &#32; for fiscal year 2012 , or 2012 &#32;Annual Report on &#32; Form 10-K. References to &#8220;Avago&#8221; , "the Company", &#8220;we&#8221;, &#8220;our&#8221; and &#8220;us&#8221; are to Avago Technologies Limited and its consolidated subsidiaries, unless otherwise specified or the context otherwise requires. This Quarterly Report on &#32; Form 10-Q &#32; may contain predictions, estimates and other forward-looking statements that involve a number of risks and uncertainties, which are made under the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. These forward-looking statements may include projections of financial information; statements about historical results that may suggest trends for our business; statements of the plans, strategies, and objectives of management for future operations; statements of expectation or belief regarding future events (including any acquisitions we may make), technology developments, our products, product sales, expenses, liquidity, cash flow and growth rates, or enforceability of our intellectual property rights; and the effects of seasonality on our results of operations. Such statements are based on current expectations, estimates, forecasts and projections of our or industry performance and macroeconomic conditions, based on management&#8217;s judgment, beliefs, current trends and market conditions, and involve risks and uncertainties that may cause actual results to differ materially from those contained in the forward-looking statements. We derive most of our forward-looking statements from our operating budgets and forecasts, which are based upon many detailed assumptions. While we believe that our assumptions are reasonable, we caution that it is very difficult to predict the impact of known factors, and it is impossible for us to anticipate all factors that could affect our actual results. Accordingly, we caution you not to place undue reliance on these statements. For example, there can be no assurance that our product sales efforts, revenues or expenses will meet any expectations or follow any trend(s), or that our ability to compete effectively will be successful or yield anticipated results. Important factors that could cause actual results to differ materially from our expectations are disclosed under &#8220;Risk Factors&#8221; in Part II, Item 1A of this Quarterly Report on &#32; Form 10-Q, and in other documents we file from time to time with the Securities and Exchange Commission, or SEC. All of the forward-looking statements in this Quarterly Report on Form 10-Q are qualified in their entirety by reference to the factors listed above and those discussed under the heading &#8220;Risk Factors&#8221; below. We undertake no intent or obligation to publicly update or revise any of these forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+
+Overview 
+
+We are a leading designer, developer and global supplier of a broad range of analog semiconductor devices with a focus on III-V based products. III-V semiconductor materials have higher electrical conductivity and thus tend to have better performance characteristics in radio frequency, or RF, and optoelectronic applications than silicon. We differentiate ourselves through our high performance design and integration capabilities. We serve three primary target markets: wireless communications, wired infrastructure and industrial &#38; other. Our product portfolio is extensive and includes thousands of products. Applications for our products in these target markets include cellular phones, consumer appliances, data networking and telecommunications equipment, enterprise storage and servers, factory automation and displays. 
+
+During the first three quarters of fiscal year 2013, our net revenue increased slightly as compared to the first three quarters of fiscal year 2012. We saw an increase in net revenue from our wireless communications target market during this period, even though this target market softened somewhat during the fiscal quarter ended August 4, 2013. However, this was substantially offset by a decrease in our industrial &#38; other target market, due to our transition to an intellectual property licensing model for our consumer and computing peripherals products, which was completed at the end of fiscal year 2012. Our legacy consumer and computing peripherals related revenues are now included in our industrial &#38; other target market. Net revenue for the first three quarters of fiscal year 2013 was also impacted by soft carrier router spending, which adversely affected net revenue from our wired infrastructure target market, partially offset in the third fiscal quarter by revenue contribution resulting from the CyOptics acquisition and improved datacenter spending. Our fiscal year ending November 3, 2013 , or fiscal year 2013, is a 53-week fiscal year, with the first fiscal quarter consisting of 14 weeks. 
+
+Acquisitions 
+
+On June 28, 2013, we completed our acquisition of CyOptics, Inc., or CyOptics, a U.S.-based company that manufactures and sells Indium Phosphide, or InP, optical chip and component technologies for the data communications and telecommunications markets. CyOptics has front-end manufacturing operations in the U.S. and back-end manufacturing operations in Mexico. 
+
+The aggregate consideration for the acquisition was $376 million , of which $372 million &#32;was paid in cash (exclusive of $3 million of cash acquired in the transaction). In addition, approximately $27 million &#32;is payable to key employees, and was paid into escrow and will be paid in the form of retention bonuses over a three-year period and recognized as compensation expense over the same period. We also agreed to pay additional consideration to the previous shareholders of CyOptics in the amount of $4 million, one year subsequent to acquisition closing, which was recorded as a current liability. 
+
+We believe that this transaction will strengthen our fiber optics product portfolio for emerging 40G and 100G enterprise and data center applications for our wired infrastructure target market. CyOptics' single-mode InP laser, receiver and photonics integration capability is expected to help extend our technology leadership position in these applications. To date, Avago's optical transceiver products have primarily leveraged VCSEL-based technology. In addition, the acquisition of CyOptics is expected to facilitate Avago's establishment of a complementary optical components business, not only to serve growing segments of the access, metro and long-haul markets, but also for enterprise and data center segments. Our and CyOptics' products are complementary to one another, with little overlap between our respective product portfolios. As a result of the CyOptics acquisition, we acquired approximately 1,100 additional employees, with 745 of these employees located in Mexico. 
+
+The unaudited condensed consolidated financial statements for the fiscal quarter and three fiscal quarters ended August 4, 2013 include the results of operations of CyOptics commencing from June 28, 2013, the date of closing of the acquisition. 
+
+During the second quarter of fiscal year 2013, we also completed the acquisition of Javelin Semiconductor, Inc., or Javelin, a U.S.-based company engaged in developing mixed-signal complementary metal oxide semiconductor, or CMOS, integrated circuits, or ICs, for wireless communications applications for approximately $37 million &#32;in cash. We believe this acquisition will generate cost savings and form the foundation of the Company's radio frequency CMOS design and development for our wireless target market due to the radio frequency CMOS engineering talent and technical personnel and technology that we acquired in this transaction. 
+
+&#32;See Note 3 to the Unaudited Condensed Consolidated Financial Statements of this Quarterly Report on Form 10-Q. 
+
+Critical Accounting Policies and Estimates 
+
+The preparation of financial statements in accordance with generally accepted accounting principles in the United States, or GAAP, requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. We base our estimates and assumptions on current facts, historical experience and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. The actual results experienced by us may differ materially and adversely from our estimates. Our critical accounting policies are those that affect our historical financial statements materially and involve difficult, subjective or complex judgments by management. Those policies include revenue recognition, accounting for business combinations, valuation of long-lived assets, intangible assets and goodwill, inventory valuation and warranty reserves, accounting for income taxes, retirement and post-retirement benefit plan assumptions, share-based compensation, and employee bonus programs. 
+
+Accounting for business combinations. &#32;We apply the provisions of Accounting Standards Codification 805, Business Combinations, in the accounting for our acquisitions. It requires us to recognize separately from goodwill the assets acquired and the liabilities assumed at their acquisition date fair values. Goodwill as of the acquisition date is measured as the excess of consideration transferred over the net of the acquisition date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date as well as contingent consideration, where applicable, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to our unaudited Condensed Consolidated Statements of Operations. 
+
+Accounting for business combinations requires our management to make significant estimates and assumptions, especially at the acquisition date including our estimates for intangible assets, contractual obligations assumed, restructuring liabilities, pre-acquisition contingencies and contingent consideration, where applicable. Although we believe the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based in part on hist or ical experience and information obtained from the management of the acquired companies and are inherently uncertain. Critical estimates in 
+
+valuing certain of the intangible assets we have acquired include but are not limited to: future expected cash flows from product sales, customer contracts and acquired technologies, expected costs to develop in-process research and development into commercially viable products and estimated cash flows from the projects when completed and discount rates. Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results. 
+
+Share-based compensation expense. In the second quarter of fiscal year 2013, the Company began to grant market-based stock options. The fair value of market-based option awards is estimated on the date of grant using a Monte Carlo simulation model. Assumptions utilized in the Monte Carlo simulation model follow the same methodology as our time-based option awards. Compensation expense for market-based option awards is amortized based upon a graded vesting method. 
+
+There have been no significant changes in our critical accounting policies during the three fiscal quarters ended August 4, 2013 &#32;compared to those previously disclosed in &#8220;Critical Accounting Policies and Estimates&#8221; in &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; included in our 2012 &#32;Annual Report on Form 10-K other than those noted above. 
+
+Results from Operations 
+
+Fiscal Quarter and Three Fiscal Quarters Ended August 4, 2013 &#32;Compared to Fiscal Quarter and Three Fiscal Quarters Ended July 29, 2012 &#32; 
+
+The following tables set forth our results of operations for the fiscal quarter and three fiscal quarters ended August 4, 2013 &#32;and July 29, 2012 . 
+
+&#160; 
+
+Fiscal Quarter Ended 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+(As a percentage of net revenue) 
+
+Statements of Operations Data: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenue 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Cost of products sold: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of products sold 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangible assets 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring charges 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total cost of products sold 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Selling, general and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangible assets 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring charges 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+(1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Other income, net 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Income before income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Provision for income taxes 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Three Fiscal Quarters Ended 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+(As a percentage of net revenue) 
+
+Statements of Operations Data: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenue 
+
+$ 
+
+1,782 
+
+&#160; 
+
+$ 
+
+1,746 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Cost of products sold: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of products sold 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangible assets 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring charges 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total cost of products sold 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Selling, general and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangible assets 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring charges 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+(2 
+
+) 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Other income, net 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Income before income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Provision for income taxes 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; Net revenue. &#32;Net revenue was $644 million &#32;for the fiscal quarter ended August 4, 2013 , compared to $606 million &#32;for the fiscal quarter ended July 29, 2012 , an increase of $38 million . Net revenue was $1,782 million &#32;for the three fiscal quarters ended August 4, 2013 , compared to $1,746 million &#32;for the three fiscal quarters ended July 29, 2012 , an increase of $36 million . The three fiscal quarters ended August 4, 2013 &#32;consisted of 40 weeks compared to 39 weeks in the three fiscal quarters ended July 29, 2012 . The increase in net revenue for the fiscal quarter ended August 4, 2013 &#32;compared to the fiscal quarter ended July 29, 2012 &#32;was primarily due to strength in our wireless communications target market and in the wired infrastructure target market, due to revenue contribution from the CyOptics acquisition, partially offset by the transition from developing, manufacturing and selling our legacy consumer and computing peripherals products to licensing intellectual property relevant to these products in our industrial &#38; other target market. 
+
+Our three target markets are wireless communications, wired infrastructure and industrial &#38; other. The percentage of total net revenue generated by sales in each of our target markets varies from quarter to quarter, due largely to fluctuations in end-market demand, including the effects of seasonality. The first fiscal quarter has historically been our lowest revenue and cash generating quarter due, in part, to holiday shut downs at many original equipment manufacturer, or OEM, customers and distributors, and the first half of the fiscal year has tended to generate lower revenue than the second half. However, in recent periods typical seasonality and industry cyclicality have been increasingly overshadowed by other factors such as wider macroeconomic effects, the timing of significant product transitions and launches by large OEMs, particularly in the wireless communications target market, and new product launches by our competitors. During the three fiscal quarters ended August 4, 2013 , strength in the smartphone market in the first half of the year and strong sales to our two largest smartphone OEMs, as well as 4G/long term evolution, or LTE, product launches by other OEMs in our wireless target market contributed to the revenue increase from this market. However, this increase was offset by a significant decrease in net revenue from our industrial &#38; other target market, as a result of our transition from developing, manufacturing and selling consumer and computing peripherals products to licensing intellectual property relevant to these products. 
+
+Historically, a relatively small number of customers have accounted for a significant portion of our net revenue. During the fiscal quarter and three fiscal quarters ended August 4, 2013 , direct sales to Foxconn Technology Group companies, or Foxconn, accounted for 16% &#32;and 17% &#32;of our net revenue, respectively. 
+
+Our top 10 direct customers for the fiscal quarter and three fiscal quarters ended August 4, 2013 , which included three &#32;distributors, collectively accounted for 63% &#32;and 64% &#32;of our net revenue, respectively. We believe our aggregate sales to Apple Inc. and Cisco Systems, Inc., when direct sales are combined with indirect sales to them through the respective contract 
+
+manufacturers that they utilize, each accounted for more than 10% of our net revenues, for the fiscal quarter and three fiscal quarters ended August 4, 2013 . 
+
+Net revenue by target market data is derived from our understanding of our end customers&#8217; primary markets. As discussed previously, our legacy consumer and computing peripherals target market will no longer be presented separately and has been included in our industrial &#38; other target market. Net revenue by target market was as follows: 
+
+&#160; 
+
+&#160; 
+
+Fiscal Quarter Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Three Fiscal Quarters Ended 
+
+&#160; 
+
+&#160; 
+
+% of net revenue 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+Change 
+
+Wireless communications 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160;% 
+
+Wired infrastructure 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+Industrial &#38; other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(7 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(5 
+
+) 
+
+Total net revenue 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Fiscal Quarter Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Three Fiscal Quarters Ended 
+
+&#160; 
+
+&#160; 
+
+Net revenue (in millions) 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+&#160; 
+
+Change 
+
+Wireless communications 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Wired infrastructure 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(5 
+
+) 
+
+Industrial &#38; other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(38 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(84 
+
+) 
+
+Total net revenue 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,782 
+
+&#160; 
+
+$ 
+
+1,746 
+
+&#160; 
+
+$ 
+
+Net revenue from our wireless communications target market increased by $47 million , or 20% , and $125 million , or 17% , respectively, in the third fiscal quarter and first three fiscal quarters of fiscal year 2013 , compared with the corresponding prior year periods, due to strength in mobile smartphone sales. Unit sales of smartphones containing our products, as well as the amount of our product content in those phones is a key driver of our revenue from this target market. New product ramps at major smartphone OEMs and 4G/LTE launches at other OEMs, as well as improvements in our content in those phones, also drove revenue growth during the first three quarters of fiscal year 2013. We experienced higher demand for our power amplifiers and our film bulk acoustic resonator, or FBAR duplexers in the three fiscal quarters ended August 4, 2013 . However, the smartphone market softened during the third quarter of fiscal year 2013. 
+
+Net revenue from our wired infrastructure target market increased by $29 million , or 17% , in the third fiscal quarter of 2013 compared to the third fiscal quarter of 2012. Net revenue from this target market decreased $5 million , or 1% , in the first three fiscal quarters of fiscal year 2013 , compared with the corresponding prior year period. The increase for the third quarter of fiscal 2013 compared to 2012 was due to $21 million of revenue from our CyOptics acquisition and improvement in datacenter demand. The decrease for the first three fiscal quarters of 2013 compared to 2012 was primarily due to weak carrier routing spending and product transitions at a major OEM customer partially offset by revenue from our CyOptics acquisition and improvement in datacenter demand in the third fiscal quarter ended August 4, 2013 . 
+
+Net revenue from our industrial &#38; other target market decreased by $38 million , or 20% , and $84 million , or 17% , respectively, in the third fiscal quarter and first three fiscal quarters of fiscal year 2013 , respectively, compared with the corresponding prior year periods. The decrease in net revenue for the third fiscal quarter and first three fiscal quarters ended August 4, 2013 , as compared with the third fiscal quarter and first three fiscal quarters of fiscal year 2012, was due primarily to our transition from developing, manufacturing and selling our consumer and computing peripherals products to licensing intellectual property relevant to these products. This decrease was partially offset by improved demand from our industrial distributors and OEMs, notably in transportation and power generation, in the first three quarters of fiscal year 2013 . 
+
+From time to time, our key customers, particularly in our wireless target market, place large orders causing our quarterly net revenue to fluctuate significantly. We expect that these fluctuations will continue and that they may be exaggerated by the launches of, and seasonal variations in sales of, consumer products such as mobile handsets, as well as changes in the overall economic environment. 
+
+Gross margin. &#32;Gross margin was $304 million &#32;for the fiscal quarter ended August 4, 2013 &#32;compared to $295 million &#32;for the fiscal quarter ended July 29, 2012 , an increase of $9 million . As a percentage of net revenue, gross margin decreased slightly to 47% &#32;for the fiscal quarter ended August 4, 2013 &#32;compared to 49% &#32;for fiscal quarter ended July 29, 2012 , due primarily to the effects of the CyOptics acquisition. Gross margin was $852 million &#32;for the three fiscal quarters ended August 4, 2013 &#32;compared to $843 million &#32;for the three fiscal quarters ended July 29, 2012 . As a percentage of net revenue, gross margin remained flat at 48% &#32;for the three fiscal quarters ended August 4, 2013 &#32;compared to the three fiscal quarters ended July 29, 2012 . 
+
+Research and development. &#32;Research and development expense was $101 million &#32;for the fiscal quarter ended August 4, 2013 , compared to $89 million &#32;for the fiscal quarter ended July 29, 2012 , an increase of $12 million &#32;or 13% . The overall dollar 
+
+increase in research and development expense was attributable to a $4 million increase in salaries and employee benefits expense due to annual merit-based salary increases and additional headcount due to the CyOptics acquisition, a $2 million increase in share-based compensation expense attributable to annual focal employee equity awards at higher grant-date fair values, a $2 million increase in research and development project expenses, including consumables and external services, a $3 million increase in accrued incentive compensation expense, and a $1 million increase in computer software and support expense. 
+
+Research and development expense was $289 million &#32;for the three fiscal quarters ended August 4, 2013 , compared to $255 million &#32;for the three fiscal quarters ended July 29, 2012 , an increase of $34 million &#32;or 13% . As a percentage of net revenue, research and development expenses increased to 16% &#32;for the three fiscal quarters ended August 4, 2013 , compared to 15% &#32;for the three fiscal quarters ended July 29, 2012 . The majority of this increase resulted from investments in our wired infrastructure and wireless communications solutions. Part of the increase was attributable to a $7 million increase in research and development project consumables and external services. The increase in research and development expense was also attributable to a $11 million increase in salaries and employee benefits expense due to annual merit-based salary increases and additional headcount due to the CyOptics acquisition, a $7 million increase in share-based compensation expense attributable to annual focal employee equity awards at higher grant-date fair values, a $5 million increase in accrued incentive compensation expense and a $2 million increase in computer software and support expense compared to the three fiscal quarters ended July 29, 2012 . These increases were partially offset by a $2 million increase in accrued reimbursements pursuant to research and development grants. 
+
+Selling, general and administrative. &#32;Selling, general and administrative expense was $57 million &#32;for the fiscal quarter ended August 4, 2013 , compared to $49 million &#32;for the fiscal quarter ended July 29, 2012 , an increase of $8 million &#32;or 16% . Changes in components of selling, general and administrative expense for the fiscal quarter ended August 4, 2013 &#32;consisted of a $2 million increase in salaries and employee benefits expense, a $1 million increase in share-based compensation attributable to annual focal employee equity awards at higher grant-date fair values, a $2 million increase in legal expenses related to offensive litigation matters and the CyOptics acquisition, an aggregate $1 million increase in transaction and property taxes, partially offset by a $1 million decrease in media, marketing and commissions expenses. The remaining increase in selling, general and administrative expense for the fiscal quarter ended August 4, 2013 &#32;compared to the fiscal quarter ended July 29, 2012 &#32;was largely attributable to transaction and general operating costs related to the CyOptics acquisition. However, as a percentage of net revenue, selling, general and administrative expense remained flat at 9% &#32;for the fiscal quarter ended August 4, 2013 , compared to the fiscal quarter ended July 29, 2012 . 
+
+Selling, general and administrative expense was $162 million &#32;for the three fiscal quarters ended August 4, 2013 , compared to $150 million &#32;for the three fiscal quarters ended July 29, 2012 , an increase of $12 million &#32;or 8% . Changes in components of selling, general and administrative expense for the three fiscal quarters ended August 4, 2013 &#32;consisted of a $6 million increase in share-based compensation attributable to annual focal employee equity awards at higher grant-date fair values, a $3 million increase in salaries and employee benefits expense, a $1 million increase in legal expenses related to offensive litigation matters and the CyOptics acquisition, a $1 million increase in accrued incentive compensation expense, partially offset by a $2 million decrease in media, marketing and commissions expenses, compared to the three fiscal quarters ended July 29, 2012 . The remaining increase in selling, general and administrative expense for the three fiscal quarters ended August 4, 2013 &#32;compared to the three fiscal quarters ended July 29, 2012 &#32;was largely attributable to transaction and general operating costs related to the CyOptics acquisition. 
+
+Amortization of intangible assets. &#32;Total amortization of intangible assets incurred were $20 million &#32;and $20 million &#32;for the fiscal quarters ended August 4, 2013 &#32;and July 29, 2012 , respectively. Total amortization of intangible assets incurred were $59 million &#32;and $58 million &#32;for the three fiscal quarters ended August 4, 2013 &#32;and July 29, 2012 , respectively. We anticipate our amortization expense will be higher in future periods primarily as a result of increases in amortizable intangible assets from the CyOptics and Javelin acquisitions. 
+
+Restructuring charges. &#32;We incurred $1 million &#32;and $3 million &#32;in restructuring charges for the fiscal quarter and three fiscal quarters ended August 4, 2013 , respectively, compared to restructuring charges of $2 million &#32;and $5 million &#32;for the fiscal quarter and three fiscal quarters ended July 29, 2012 , respectively. We may incur additional restructuring charges in future periods as a result of our acquisition activities. 
+
+Interest expense. &#32;Interest expense was $1 million &#32;and $2 million &#32;for the fiscal quarter and three fiscal quarters ended August 4, 2013 , respectively, compared to $0 million &#32;and $1 million &#32;for the fiscal quarter and three fiscal quarters ended July 29, 2012 , respectively, representing ongoing commitment fees related to our revolving credit facility. 
+
+Other income, net. &#32;Other income, net includes unrealized gains or losses on marketable securities, interest income, foreign currency gains (losses) on balance sheet remeasurement and other miscellaneous items. Other income, net was $5 million &#32;and $8 million &#32;for the fiscal quarter and three fiscal quarters ended August 4, 2013 , respectively, compared to other income, net of $1 million &#32;and $3 million &#32;for the fiscal quarter and three fiscal quarters ended July 29, 2012 , respectively. The increase for both the quarter and three quarters ended August 4, 2013 &#32;is primarily attributable to an increase in unrealized gains on marketable 
+
+securities, representing minority equity investments. Other income, net in the three fiscal quarters ended July 29, 2012 included a $1 million impairment of a cost method investment and a $1 million impairment of a loan to the same cost method investee. 
+
+Provision for income taxes. &#32;We recorded an income tax provision of $2 million &#32;and $8 million &#32;for the fiscal quarter and three fiscal quarters ended August 4, 2013 , respectively, compared to $5 million &#32;and $16 million &#32;for the fiscal quarter and three fiscal quarters ended July 29, 2012 , respectively. The tax expense for the three fiscal quarters ended August 4, 2013 &#32;included a benefit of $2 million &#32;from the recognition of previously unrecognized tax benefits as a result of the expiration of the statute of limitations for certain audit periods, and &#32; $3 million &#32;from the enactment of the American Taxpayer Relief Act of 2012, which was signed into law on January 2, 2013, retroactively extending the U.S. Federal Research and Development tax credit from January 1, 2012 to December 31, 2013. The remaining $3 million &#32;decrease in tax provision is primarily due to a change in the jurisdictional mix of income and expense. 
+
+Backlog 
+
+Our sales are generally made pursuant to short-term purchase orders. These purchase orders are made without deposits and may be rescheduled, cancelled or modified on relatively short notice, and in most cases without substantial penalty. Therefore, we believe that purchase orders or backlog are not a reliable indicator of future sales. 
+
+Seasonality 
+
+We have historically been affected by seasonal trends in the semiconductor and related industries. Our net revenue in the second half of the fiscal year has typically been higher than our net revenue in the first half of the fiscal year due to seasonality in our wireless communications target market. This target market historically tended to experience seasonality due to the calendar year-end holiday selling seasons. From time to time, our key customers, particularly in our wireless communications target market, place large orders causing our quarterly net revenue to fluctuate significantly. We expect that these fluctuations will continue and that they may be exaggerated by the launches of, and seasonal variations in sales of, consumer products such as mobile handsets, as well as changes in the overall economic environment. These fluctuations combined with other factors have increasingly overshadowed these seasonal effects in recent periods. 
+
+Liquidity and Capital Resources 
+
+Our primary sources of liquidity as at August 4, 2013 &#32;consist of: (1) approximately $863 million &#32;in cash and cash equivalents, (2) cash we expect to generate from operations and (3) our $300 million &#32;revolving credit facility, which is committed until March 31, 2015, all of which is available to be drawn. 
+
+Our short-term and long-term liquidity requirements primarily arise from: (i) working capital requirements, (ii) research and development and capital expenditure needs, including acquisitions and investments we may make from time to time and (iii) quarterly dividend payments (if and when declared by our board of directors, or the Board) and any share repurchases we may choose to make under our share repurchase programs. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance and are, therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control. 
+
+Under our 2012 share repurchase program, which expired on April 9, 2013, during the two fiscal quarters ended May 5, 2013 , the Company repurchased 0.7 million &#32;shares for an aggregate of purchase price of $24 million &#32;in cash. 
+
+On April 10, 2013, our Board authorized the Company to repurchase up to 20 million &#32;of its ordinary shares in open market transactions, referred to as the 2013 share repurchase program. This replaced the 2012 share repurchase program. The 2013 share repurchase program will expire the day prior to the Company's 2014 AGM, unless earlier terminated. Under the 2013 share repurchase program, the Company repurchased and retired 1.0 million &#32;shares for an aggregate purchase price of $38 million &#32;in cash during the fiscal quarter ended August 4, 2013 . 
+
+The Company repurchased and retired an aggregate of 1.0 million &#32;and 1.7 million &#32;shares, for an aggregate purchase price of $38 million &#32;and $62 million &#32;in cash, during the fiscal quarter and three fiscal quarters ended August 4, 2013 , respectively under its 2012 and 2013 share repurchase programs. 
+
+Share repurchases under our share repurchase programs are made in the open market at such times and in such amounts as the Company deems appropriate. The timing and actual number of shares repurchased depend on a variety of factors including price, market conditions and applicable legal requirements. The 2013 share repurchase program does not obligate the Company to repurchase any specific number of shares and may be suspended from time to time or terminated at any time without prior notice. 
+
+On September 4, 2013 , the Board declared an interim cash dividend on the Company&#8217;s ordinary shares of $0.23 &#32;per share, payable on September 30, 2013 &#32;to shareholders of record at the close of business (5:00 p.m.), Eastern Time, on September 19, 2013 . 
+
+Our cash and cash equivalents decreased by $221 million &#32;to $863 million &#32;at August 4, 2013 &#32;from $1,084 million &#32;at October 28, 2012 . The decrease was largely due to the $372 million &#32;and $37 million &#32;in cash paid for the CyOptics and Javelin 
+
+acquisitions, respectively, $179 million &#32;in cash paid for capital expenditures, $141 million &#32;in dividends paid to our shareholders, and $62 million &#32;of cash paid to repurchase 1.7 million &#32;of our ordinary shares. The decrease was offset by $513 million &#32;cash provided by operating activities and $60 million &#32;in cash received from the issuance of ordinary shares upon exercises of options and ESPP purchases under our employee equity incentive plans. 
+
+We believe that our cash and cash equivalents on hand, and cash flows from operations, combined with current availability under our revolving credit facility, will provide sufficient liquidity to fund our current obligations, projected working capital requirements, capital spending, quarterly cash dividends (if and when declared by our Board) and any share repurchases we may choose to make under our 2013 share repurchase program for at least the next 12 months. 
+
+We anticipate that our capital expenditures for fiscal year 2013 &#32;may be incrementally higher than for fiscal year 2012 , due primarily to spending on capacity expansion in our Fort Collins internal fabrication facility. 
+
+From time to time, we engage in discussions with third parties regarding potential acquisitions of, or investments in, businesses, technologies and product lines, such as our recent acquisitions of CyOptics and Javelin. Any such transaction could require significant use of our cash and cash equivalents, or require us to issue debt or equity securities, or borrow under our revolving credit facility to fund the transaction. If we do not have sufficient cash to fund our operations or finance growth opportunities, including acquisitions, or unanticipated capital expenditures, our business and financial condition could suffer. We could also reduce certain expenditures such as repurchases of our ordinary shares and payment of our quarterly cash dividend. In such circumstances we may also seek to obtain debt or equity financing in the future. However, we cannot assure that such additional financing will be available on terms acceptable to us or at all. Our ability to service any indebtedness we may incur, including under our revolving credit facility, will depend on our ability to generate cash in the future. In addition, even though we may not need additional funds, we may still elect to sell additional debt or equity securities or increase our current credit facility for other reasons. 
+
+In summary, our cash flows were as follows (in millions): 
+
+&#160; 
+
+Three Fiscal Quarters Ended 
+
+&#160; 
+
+August 4, 2013 
+
+&#160; 
+
+July 29, 2012 
+
+Net cash provided by operating activities 
+
+$ 
+
+&#160; 
+
+$ 
+
+Net cash used in investing activities 
+
+(598 
+
+) 
+
+&#160; 
+
+(170 
+
+) 
+
+Net cash used in financing activities 
+
+(136 
+
+) 
+
+&#160; 
+
+(164 
+
+) 
+
+Net (decrease) increase in cash and cash equivalents 
+
+$ 
+
+(221 
+
+) 
+
+&#160; 
+
+$ 
+
+Cash Flows for the Three Fiscal Quarters Ended August 4, 2013 &#32;and July 29, 2012 
+
+&#160; Operating Activities 
+
+Net cash provided by operating activities during the three fiscal quarters ended August 4, 2013 &#32;was $513 million . The net cash provided by operating activities was principally due to net income of $380 million , which includes non-cash charges of $186 million &#32;that were partially offset by changes in operating assets and liabilities of $53 million . The non-cash charges of $186 million &#32;included $129 million &#32;for depreciation and amortization and $55 million &#32;of non-cash, share-based compensation. 
+
+Accounts receivable increased to $365 million &#32;at August 4, 2013 &#32;from $341 million &#32;at the end of fiscal year 2012 . The number of days sales outstanding increased to 52 days &#32;at August 4, 2013 &#32;from 51 days &#32;at October 28, 2012 &#32;due to the 5-day unfavorable impact of the inclusion of CyOptics accounts receivable, partially offset by timing of collections. We use the current fiscal quarter revenue and accounts receivable at fiscal quarter end in our calculation of number of days sales outstanding. 
+
+Inventory increased to $284 million &#32;at August 4, 2013 &#32;from $194 million &#32;at the end of fiscal year 2012 . The number of days of inventory on hand increased to 80 days &#32;at August 4, 2013 &#32;compared to 58 days &#32;at October 28, 2012 , due primarily to an increase in inventory to prepare for an anticipated increase in demand from our wireless communications target market, inventory acquired from CyOptics, as well as significant lifetime purchases of certain wafers and other materials in the three fiscal quarters ended August 4, 2013 . Of the 80 days &#32;and 58 days &#32;of inventory on hand as at August 4, 2013 &#32;and October 28, 2012, 9 days &#32;and 8 days &#32;were attributable to these lifetime purchases, respectively. Inventory on hand as at August 4, 2013 was also adversely impacted by 5 days due to inventory acquired from CyOptics. We use the current quarter cost of products sold and inventory at fiscal quarter end in our calculation of days on hand of inventory. 
+
+Other current assets increased to $129 million &#32;at August 4, 2013 &#32;from $72 million &#32;at the end of fiscal year 2012 , primarily due to a $2 million increase in prepaid expenses, a $3 million increase in receivables from our contract manufacturers for materials purchased by us on their behalf to secure pricing, an $8 million increase in advances made to certain of our existing distributors for anticipated distributor price adjustments, an $8 million net increase in current deferred tax assets attributable to the CyOptics and Javelin acquisitions, a $10 million increase due to the CyOptics employee retention plan, a $27 million increase due to the change in the fair market value and classification as short-term marketable securities investments to other 
+
+current assets from long-term assets and an increase in the fair market value of deferred compensation plan assets during the fiscal quarter ended August 4, 2013 . These increases were partially offset by a $1 million decrease in receivables from intellectual property-related revenue and a $1 million decrease in deposits paid for fixed assets. 
+
+Current liabilities increased to $380 million &#32;at August 4, 2013 &#32;from $346 million &#32;at the end of fiscal year 2012 , primarily due to increases in employee compensation and benefits and accounts payable, partially offset by decreases in other current liabilities. Employee compensation and benefits increased to $80 million &#32;at August 4, 2013 &#32;compared to $61 million &#32;at the end of fiscal year 2012 primarily due to an $11 million increase in accruals under our employee bonus program related to our overall profitability, a $5 million increase in salary payable, other commissions and employee benefits, and a $3 million increase due to employee contributions to the ESPP, 401k and flexible spending plans. Accounts payable increased to $266 million &#32;at August 4, 2013 &#32;from $248 million &#32;at the end of fiscal year 2012 &#32;mainly due to timing of disbursements. Other current liabilities decreased to $32 million &#32;at August 4, 2013 &#32;from $36 million &#32;at the end of fiscal year 2012 due to a $12 million decrease in income, sales and use tax payables and a $1 million decrease in supplier liabilities, and a $1 million decrease in accrued sales commissions, partially offset by a $2 million increase in deferred sales and support income. 
+
+Net cash provided by operating activities during the three fiscal quarters ended July 29, 2012 was $478 million. The net cash provided by operating activities was principally due to net income of $404 million, which includes $6 million of insurance proceeds received in respect of claims relating to the flooding in Thailand, and non-cash charges of $163 million, partially offset by changes in operating assets and liabilities of $89 million. The non-cash charges of $163 million included $115 million for depreciation and amortization and $39 million of share-based compensation. 
+
+Accounts receivable increased to $330 million at July 29, 2012 from $328 million at the end of fiscal year 2011. The number of days sales outstanding increased to 50 days at July 29, 2012 from 48 days at October 30, 2011 due to linearity of revenue. We use the current quarter revenue and accounts receivable at quarter end in our calculation of number of days sales outstanding. 
+
+Inventory increased to $216 million at July 29, 2012 from $194 million at the end of fiscal year 2011. The number of days of inventory on hand increased to 66 days at July 29, 2012 compared to 58 days at October 30, 2011 due to an increase in inventory to prepare for an anticipated increase in demand, as well as a significant wafer purchase in the quarter ended April 29, 2012 to secure advantageous pricing. We use the current quarter cost of products sold and inventory at quarter end in our calculation of days on hand of inventory. 
+
+Other current assets increased to $62 million at July 29, 2012 from $42 million at the end of fiscal year 2011 primarily due to a $6 million increase in advances made to certain of our existing distributors for anticipated distributor price adjustments, a $5 million increase in receivables from our contract manufacturers for materials purchased on their behalf and a $4 million increase in receivables from intellectual property-related revenue. During the second quarter of fiscal year 2012, we entered into agreements with certain distributors whereby we agreed to advance cash to them to fund estimated price adjustments. These advances are estimated based on an agreed percentage of the rolling previous three months average ending inventory as reported by the distributor multiplied by the rolling previous three months price adjustment credits as a percentage of the distributor's reported rolling previous three months resales. The terms of these advances are set forth in binding legal agreements and are unsecured, bear no interest on unsettled balances, and are due upon demand. The agreements governing these advances can be cancelled by us at any time. Such advances have no impact on revenue recognition or our unaudited condensed consolidated statements of operations and are recorded in other current assets on our unaudited condensed consolidated balance sheets. 
+
+Current liabilities decreased to $342 million at July 29, 2012 from $350 million at the end of fiscal year 2011 primarily due to a decrease in employee compensation and benefits accruals and other current liabilities, partially offset by an increase in accounts payable. Employee compensation and benefits accruals decreased to $69 million at July 29, 2012 from $89 million at fiscal year 2011 mainly due to payments made under our employee bonus plan in respect of fiscal year 2011 performance. Other current liabilities decreased due to a $3 million release of warranty accruals and $3 million recognition of previously deferred revenue. Accounts payable increased to $239 million from $221 million at the end of fiscal year 2011 mainly due to timing of disbursement. 
+
+&#160; Investing Activities 
+
+Net cash used in investing activities for the three fiscal quarters ended August 4, 2013 &#32;was $598 million , primarily due to the $372 million &#32;and $37 million &#32;in cash paid in connection with the acquisitions of CyOptics and Javelin, respectively, $179 million &#32;in purchases of property, plant and equipment in connection with the continued expansion of our manufacturing facility in Fort Collins, Colorado, and $10 million &#32;in purchases of short-term marketable equity securities. 
+
+Net cash used in investing activities for the three fiscal quarters ended July 29, 2012 was $170 million, primarily due to purchases of property, plant and equipment in connection with the continued expansion of our manufacturing facility in Fort Collins, Colorado. 
+
+&#160; Financing Activities 
+
+Net cash used in financing activities for the three fiscal quarters ended August 4, 2013 &#32;was $136 million . The net cash used in financing activities was principally due to an aggregate of $141 million &#32;in payments of cash dividends to shareholders, the payment of an aggregate of $62 million &#32;to repurchase and cancel 1.7 million of our ordinary shares under our share repurchase programs. This was offset by $60 million &#32;in net proceeds provided by the exercise of options and purchases under our ESPP, proceeds from research and development grants of $5 million &#32;and an excess tax benefit of $3 million . 
+
+Net cash used in financing activities for the three fiscal quarters ended July 29, 2012 was $164 million. The net cash used in financing activities was principally due to an aggregate of $98 million in payments of cash dividends to shareholders and the payment of an aggregate of $100 million to repurchase and cancel 3.2 million of our ordinary shares under our 2011 and 2012 share repurchase programs. This was partially offset by $28 million in net proceeds provided by the exercise of options and purchases under our ESPP. 
+
+Indebtedness 
+
+As of August 4, 2013 , we had $3 million &#32;of capital lease obligations. At such date, we also had $300 million &#32;of borrowing capacity available under our revolving credit facility. We had no borrowings outstanding, and were in compliance with our covenants, under our revolving credit facility as of August 4, 2013 . 
+
+Contractual Commitments 
+
+See Note 11 to the Unaudited Condensed Consolidated Financial Statements of this Quarterly Report on Form 10-Q. 
+
+There were no other substantial changes to our contractual commitments during the first three quarters of fiscal year 2013 &#32;from those disclosed in our 2012 &#32;Annual Report on Form 10-K. 
+
+Off-Balance Sheet Arrangements 
+
+We had no material off-balance sheet arrangements at August 4, 2013 &#32;as defined in Item 303(a)(4)(ii) of SEC Regulation S-K. 
+
+Indemnifications 
+
+See Note 11 to the Unaudited Condensed Consolidated Financial Statements of this Quarterly Report on Form 10-Q. 
+
+Accounting Changes and Recent Accounting Standards 
+
+For a description of accounting changes and recent accounting standards, including the expected dates of adoption and estimated effects, if any, on our unaudited condensed consolidated financial statements, see Note 1 to the Unaudited Condensed Consolidated Financial Statements of this Quarterly Report on Form 10-Q. 
+
+
+
+ Item 1A. Risk Factors 
+
+A description of some of the primary risk factors associated with our business is set forth below. We review and, where applicable, update our risk factors each quarter. The description set forth below supersedes the description of the risk factors previously disclosed in Part II, Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended May 5, 2013. These risk factors, which could materially affect our business, financial conditions or results of operations, are not the only risks that we face. Additional risks and uncertainties not currently known to us or that we currently do not deem to be material may also adversely affect our business, financial condition or results of operations. 
+
+Risks Related to Our Business 
+
+Adverse global economic conditions could have a negative effect on our business, results of operations and financial condition and liquidity. 
+
+Adverse global economic conditions have from time to time caused or exacerbated significant slowdowns in the semiconductor industry generally, as well as in our target markets, which adversely affected our business and results of operations. In recent periods, market and business conditions in general have been adversely affected by investor and customer concerns about the global economic outlook, including concerns about economic recovery in the United States and the level of growth in China. In addition, U.S. and global economic conditions could be exacerbated by the negative effects on economic growth resulting from the concerns about, and the effects of, the U.S. fiscal and monetary policies, any related spending cuts and tax increases and the possibility of further downgrades to the U.S. government's credit rating. Macroeconomic weakness and uncertainty also make it more difficult for us to accurately forecast revenue, gross margin and expenses. Sustained uncertainty about, or worsening of, current global economic conditions will likely cause our customers and consumers to reduce or delay spending, leading to reduced demand for our products, could lead to the insolvency of key suppliers (resulting in product delays) and customers and intensify pricing pressures. Any or all of these factors could negatively affect our business, financial condition and result of operations. 
+
+We operate in the highly cyclical semiconductor industry, which is subject to &#32; significant downturns. 
+
+The semiconductor industry is highly cyclical and is characterized by constant and rapid technological change and price erosion, evolving technical standards, frequent new product introductions, short product life cycles (for semiconductors and for the end products in which they are used) and wide fluctuations in product supply and demand. From time to time, these and other factors, together with changes in general economic conditions, cause significant upturns and downturns in the industry in general and in our business in particular. Periods of industry downturns have been characterized by diminished demand for end-user products, high inventory levels and periods of inventory adjustment, under-utilization of manufacturing capacity, changes in revenue mix and accelerated erosion of average selling prices, resulting in an adverse effect on our business, financial condition and results of operations. We expect our business to continue to be subject to cyclical downturns even when overall economic conditions are relatively stable. To the extent we cannot offset recessionary periods or periods of reduced growth that may occur in the industry, or in our target markets in particular, through increased market share or otherwise, our business could be adversely affected, net revenues may decline and financial condition and results of operations may suffer. In addition, in any future economic downturn we may be unable to reduce our costs quickly enough to maintain our operating profitability. 
+
+Our operating results are subject to substantial quarterly and annual fluctuations. 
+
+Our revenues and operating results have fluctuated in the past and are likely to fluctuate in the future. These fluctuations may occur on a quarterly and annual basis and are due to a number of factors, many of which are beyond our control. These factors include, among others: 
+
+&#8226; 
+
+the timing of launches by our customers of new products, such as cell phones, in which our products are included and changes in end-user demand for the products manufactured and sold by our customers; 
+
+&#8226; 
+
+the timing of receipt, reduction or cancellation of significant orders by customers; 
+
+&#8226; 
+
+fluctuations in the levels of component inventories held by our customers; 
+
+&#8226; 
+
+customer concentration and the gain or loss of significant customers; 
+
+&#8226; 
+
+market acceptance of our products and our customers' products; 
+
+&#8226; 
+
+changes in our product mix or customer mix and their effect on our gross margin; 
+
+&#8226; 
+
+our ability to develop, introduce and market new products and technologies on a timely basis; 
+
+&#8226; 
+
+the timing and extent of our non-product revenue, such as product development revenues and royalty and other payments from intellectual property sales and licensing arrangements; 
+
+&#8226; 
+
+our ability to successfully and timely integrate, and realize the benefits of, our acquisition of CyOptics and any other significant acquisitions we may make; 
+
+&#8226; 
+
+new product announcements and introductions by us or our competitors; 
+
+&#8226; 
+
+timing and amount of research and development and related new product expenditures, and the timing of receipt of any research and development grant monies; 
+
+&#8226; 
+
+seasonality or cyclical fluctuations in our markets; 
+
+&#8226; 
+
+currency fluctuations; 
+
+&#8226; 
+
+utilization of our internal manufacturing facilities; 
+
+&#8226; 
+
+fluctuations in manufacturing yields; 
+
+&#8226; 
+
+significant warranty claims, including those not covered by our suppliers or our insurers; 
+
+&#8226; 
+
+availability and cost of raw materials from our suppliers; 
+
+&#8226; 
+
+intellectual property disputes and associated litigation expenses; 
+
+&#8226; 
+
+loss of key personnel or the shortage of available skilled workers; 
+
+&#8226; 
+
+the effects of competitive pricing pressures, including decreases in average selling prices of our products; 
+
+&#8226; 
+
+the timing of acquisitions of, or making and exiting investments in, other entities, businesses or technologies; and 
+
+&#8226; 
+
+changes in our tax incentive arrangements or structure, which may adversely affect our net tax expense in any quarter in which such an event occurs. 
+
+The foregoing factors are difficult to forecast, and these, as well as other factors, could materially adversely affect our quarterly or annual operating results. In addition, a significant amount of our operating expenses are relatively fixed in nature due to our significant sales, research and development and internal manufacturing overhead costs. Any failure to adjust spending quickly enough to compensate for a revenue shortfall could magnify the adverse impact of such revenue shortfall on our results of operations. As a result, we believe that quarter-to-quarter comparisons of our revenue and operating results may not be meaningful or a reliable indicator of our future performance. If our operating results in one or more future quarters fail to meet the expectations of securities analysts or investors, an immediate and significant decline in the trading price of our ordinary shares may occur. 
+
+The majority of our sales come from a small number of customers and the demands or loss of one or more of our significant customers may adversely affect &#32; our business. 
+
+We are dependent on a reasonably small number of direct customers, OEMs and distributors for a majority of our business, revenue and results of operations. During the fiscal quarter ended August 4, 2013 , direct sales to Foxconn accounted for 16% &#32;of our net revenue. During the three fiscal quarters ended August 4, 2013 , direct sales to Foxconn accounted for 17% &#32;of our net revenue. Our top 10 direct customers for the fiscal quarter and three fiscal quarters ended August 4, 2013 , which included three &#32;distributors, collectively accounted for 63% &#32;and 64% &#32;of our net revenue, respectively. However, we also believe our aggregate sales to Apple Inc. and Cisco Systems, Inc. when direct sales are combined with indirect sales to them through the respective contract manufacturers that they utilize, each accounted for more than 10% of our net revenues for the fiscal quarter and three fiscal quarters ended August 4, 2013 . We expect to continue to experience significant customer concentration in future periods. 
+
+This customer concentration increases the risk of quarterly fluctuations in our revenues and operating results. In addition, our top customers' purchasing power has, in some cases, given them the ability to make greater demands on us with regard to pricing and contractual terms in general. We expect this trend to continue, which may adversely affect our gross margins on certain products. In addition, we expect this will result in our results of operations becoming increasingly sensitive to deterioration in the financial condition of, or other adverse developments related to, one or more of our significant customers. Although we believe that our relationships with our major customers are good, we generally do not have long-term contracts with any of them, which is typical of our industry. Although our customers provide indications of their product needs and purchases on an annual basis, they generally purchase our products on a weekly or daily basis and the relationship, as well as particular orders, can be terminated at any time. In order to ensure availability of our products for some of our largest customers, we start the manufacturing of our products in advance of receiving purchase orders, based on forecasts provided by 
+
+these customers. These forecasts are not binding purchase commitments and, as a result, we incur inventory and manufacturing costs in advance of anticipated sales. Since actual demand for our products may not match these forecasts, manufacturing on this basis subjects us to increased risks of high inventory carrying costs, product obsolescence and increased operating costs. In addition, the loss of any of our major direct or indirect customers, or any substantial reduction in sales to any of these customers, could have a material adverse effect on our business, financial condition and results of operations. 
+
+We are increasingly dependent on the mobile handset market, which is volatile and is characterized by short product life cycles, fluctuations in demand, seasonality and increasingly high customer concentration any of which could negatively impact our business or results of operations. &#160; 
+
+A substantial and increasing portion of our revenue is generated from sales of products for use in mobile handsets. During the fiscal quarter and three fiscal quarters ended August 4, 2013 , revenue from our wireless communications target market accounted for 45% &#32;and 49% &#32;of our net revenue, respectively. The mobile handset market is characterized by intense competition among an increasingly concentrated group of OEMs, rapidly evolving technology, and changing consumer preferences. These factors result in the frequent introduction of new products, aggressive price competition, short product life cycles, and continually evolving mobile handset specifications. If we, our customers or mobile handset OEMs are unable to manage product transitions, our business and results of operations could be negatively affected. Our success in this market is also dependent on the broad commercial acceptance of the mobile handsets into which our products are incorporated, as well as increasing the amount of our products in successive generations of those handsets. If the mobile handsets into which our products are designed do not achieve significant customer acceptance, our revenue will be adversely affected. Similarly, even though we may achieve design wins for a particular handset, we may not be designed into the next generation of a particular handset or new model of handset, which could result in a sharp decrease in our revenues. 
+
+In the mobile handset market, demand is typically stronger in the second half of the year than the first half of the year. However, if mobile handset OEMs inaccurately forecast consumer demand, this may lead to significant changes in orders to their component suppliers. We have experienced both increases and decreases in orders within the same quarter, often with limited advance notice, and we expect such increases and decreases to occur in the future. In addition, although the worldwide wireless handset market is large, growth trends and other variables are often uncertain and difficult to predict. Since the wireless handset market is a consumer-driven market, changes in the economy that affect consumer demand can adversely affect our business and operating results. 
+
+Winning business is subject to lengthy, competitive selection processes that require us to incur significant expense. Even if we begin a product design, a customer may decide to cancel or change its product plans, which could cause us to generate no revenues from a product and adversely affect our results of operations. 
+
+We are focused on winning competitive bid selection processes, known as &#8220;design wins,&#8221; to develop semiconductors for use in our customers' products. These selection processes are typically lengthy and can require us to incur significant design and development expenditures and dedicate scarce engineering resources in pursuit of a single customer opportunity. We may not win the competitive selection process and may never generate any revenue despite incurring significant design and development expenditures. These risks are exacerbated by the fact that many of our products and the end products into which our products are incorporated often have very short life cycles. For example, cell-phone manufacturers regularly introduce new or upgraded handsets, often every 12 to 18 months and sometimes more frequently, and will bid out the components for each new model, and often every upgrade of a particular model. Failure to obtain a design win sometimes prevents us from offering an entire generation of a product. This can result in lost revenues and could weaken our position in future competitive selection processes. 
+
+Winning a product design does not guarantee sales to a customer. We may experience delays in generating revenue from our products as a result of the lengthy development cycle typically required, or may not realize as much revenue as we had anticipated. In addition, a delay or cancellation of a customer's plans could materially and adversely affect our financial results, as we may have incurred significant expense in the design process and generated little or no revenue. Customers could choose at any time to stop using our products or may fail to successfully market and sell their products, which could reduce demand for our products and materially adversely affect our business, financial condition and results of operations. 
+
+Finally, the timing of design wins is unpredictable and implementing production for a major design win, or multiple design wins occurring at or around the same time, may strain our resources and those of our contract manufacturers. In such event we may be forced to dedicate significant additional resources and incur additional, unanticipated costs and expenses, which may have a material adverse effect on our results of operations. 
+
+Competition in our industry could prevent us from growing our revenue and from &#32; raising prices to offset increases in costs. 
+
+The global semiconductor market is highly competitive. We compete in different target markets to various degrees on the basis of, among other things, quality, technical performance, price, product features, product system compatibility, system-level design capability, engineering expertise, responsiveness to customers, new product innovation, product availability, delivery timing and reliability, and customer sales and technical support. Current and prospective customers for our products evaluate our capabilities against the merits of our direct competitors. Some of our competitors are well established, have a more extensive product portfolio, have substantially greater market share and manufacturing, financial, research and development and marketing resources to pursue development, engineering, manufacturing, marketing and distribution of their products. In addition, many of our competitors have longer independent operating histories, greater presence in key markets, more comprehensive patent protection and greater name recognition. We compete with integrated device manufacturers, or IDMs, and fabless semiconductor companies as well as the internal resources of large, integrated OEMs. Our competitors range from large, international companies offering a wide range of semiconductor products to smaller companies specializing in narrow markets. We expect competition in the markets in which we participate to continue to increase as existing competitors improve or expand their product offerings. In addition, companies not currently in direct competition with us may introduce competing products in the future. Because our products are often building block semiconductors providing functions that in some cases can be integrated into more complex ICs, we also face competition from manufacturers of ICs, as well as customers that develop their own IC products. 
+
+Our ability to compete successfully depends on elements both within and outside of our control, including industry and general economic trends. During past periods of downturns in our industry, competition in the markets in which we operate intensified as manufacturers of semiconductors reduced prices in order to combat production overcapacity and high inventory levels. The actions of our competitors, particularly in the area of pricing, can have a substantial adverse impact on our revenues, and potentially on revenues in specific industry end markets. In periods where the semiconductor industry experiences significant declines, manufacturers in financial difficulties or in bankruptcy may implement pricing structures designed to ensure short-term market share and near-term survival, rather than securing long-term viability. In addition, many of our competitors have substantially greater financial and other resources than us with which to withstand adverse economic or market conditions and any associated pricing actions of other market participants in the future. 
+
+The acquisition of CyOptics and the integration of its business, operations and employees with our own involve risks and the failure to integrate successfully in the expected time frame may adversely affect our future results. 
+
+Our ability to integrate significant acquisitions is unproven, and any failure to successfully integrate the business, operations and employees of CyOptics, which we acquired on June 28, 2013, or to otherwise realize the anticipated benefits of the acquisition, could harm our result of operations. Our ability to realize these benefits will depend, in part, on the timely integration and consolidation of organizations, operations, facilities, procedures, policies and technologies, and the harmonization of differences in the business cultures between the two companies and their personnel. Even with proper planning and implementation, integration of the CyOptics business will be complex and time-consuming, will involve additional expense and could disrupt our business and divert management's attention from ongoing business concerns. The challenges involved in integrating CyOptics include: 
+
+&#8226; 
+
+combining and rationalizing our respective product offerings; 
+
+&#8226; 
+
+preserving customer, supplier and other important relationships of both CyOptics and Avago; 
+
+&#8226; 
+
+improving gross margin (including by improving fabrication facility, or fab, utilization rates) and maintaining or improving average selling prices of CyOptics products; 
+
+&#8226; 
+
+coordinating and integrating operations in Mexico, a country in which Avago has not previously operated; 
+
+&#8226; 
+
+integrating financial forecasting and controls, procedures and reporting cycles; 
+
+&#8226; 
+
+combining and integrating IT systems; and 
+
+&#8226; 
+
+integrating employees and related HR systems and benefits, maintaining employee morale and retaining key employees. 
+
+The benefits we expect to realize from the acquisition of CyOptics are, necessarily, based on projections and assumptions about the combined businesses of Avago and CyOptics and assume, among other things, the successful integration of CyOptics into our business and operations. We may not successfully integrate CyOptics and our operations in a timely manner, or at all. If we do not realize the anticipated benefits of this transaction, our growth strategy and future profitability could be affected. 
+
+In addition, our future effective tax rate is likely to increase as a result of the acquisition of CyOptics, because the majority of CyOptics revenue is generated in the United States, which has a higher statutory tax rate than many other jurisdictions in which we operate and such revenues will not receive the benefits of the tax incentive arrangements we have negotiated in 
+
+Singapore and Malaysia. Similarly, the acquisition will significantly increase the amount of our goodwill and other intangible assets, which could adversely affect our future results of operations. The acquisition of CyOptics may also have an adverse effect on our gross margins, as CyOptics products typically carry a lower average gross margin, as a percentage of revenue, than Avago products. 
+
+We may pursue acquisitions, dispositions, investments and joint ventures, which could &#32; affect our results of operations. 
+
+We may make acquisitions of, and investments in, businesses that offer complementary products, services and technologies, augment our market coverage, or enhance our technological capabilities. We may also enter into strategic alliances or joint ventures to achieve these goals. We cannot assure you that we will be able to identify suitable acquisition, investment, alliance, or joint venture opportunities or that we will be able to consummate any such transactions or relationships on terms and conditions acceptable to us, or that such transactions or relationships will be successful. From time to time, we may divest portions of our business that are no longer strategically important or exit minority investments, which could materially affect our cash flows and results of operations for the period in which such events occur. 
+
+These transactions or any other acquisitions or dispositions involve risks and uncertainties. For example, the integration of acquired businesses may not be successful and could result in disruption to other parts of our business. In addition, the integration may require that we incur significant restructuring charges, including as a result of streamlining, or divesting non-core portions of, acquired businesses. To integrate acquired businesses, we must implement our management information systems, operating systems and internal controls, and assimilate and manage the personnel of the acquired operations. The difficulties of these integrations may be further complicated by such factors as the size of the business or entity acquired, geographic distances, lack of experience operating in the geographic market or industry sector of the acquired business, delays and challenges associated with integrating the business with our existing businesses, diversion of management's attention from daily operations of the business, potential loss of key employees and customers of the acquired business, the potential for deficiencies in internal controls at the acquired or combined business, performance problems with the acquired business' technology, difficulties in entering markets in which we have no or limited direct prior experience, exposure to unanticipated liabilities of the acquired business, insufficient revenues to offset increased expenses associated with the acquisition, and our potential inability to achieve the growth prospects and synergies expected from any such acquisition. Even when an acquired business has already developed and marketed products, there can be no assurance that product enhancements will be made in a timely fashion or that all pre-acquisition due diligence will have identified all material issues that might arise with respect to such acquired business. 
+
+Any acquisition may also cause us to assume liabilities and ongoing lawsuits, acquire goodwill and non-amortizable intangible assets that will be subject to impairment testing and potential impairment charges, incur amortization expense related to certain intangible assets, increase our expenses and working capital requirements, and subject us to litigation, which would reduce our return on invested capital. In addition, if the businesses or products lines that we acquire have a different pricing or cost structure than we do, such acquisitions may adversely affect our profitability and reduce our overall margin. Failure to manage and successfully integrate the acquisitions we make or to improve margins of the acquired businesses and products could materially harm our business, operating results and margins. 
+
+Any future acquisitions may require significant additional debt or equity financing, which, in the case of debt financing, would increase our leverage and potentially affect our credit ratings, and in the case of equity financing, would be dilutive to our existing shareholders. Any downgrades in our credit ratings associated with an acquisition could adversely affect our ability to borrow by resulting in more restrictive borrowing terms. As a result of the foregoing, we also may not be able to complete acquisitions or other strategic transactions in the future to the same extent as in the past, or at all. These and other factors could harm our ability to achieve anticipated levels of profitability at acquired operations or realize other anticipated benefits of an acquisition, and could adversely affect our business, financial condition and results of operations. 
+
+Dependence on contract manufacturing and outsourcing other portions of our supply &#32; chain may adversely affect our ability to bring products to market, damage our &#32; reputation and adversely affect our results of operations. 
+
+We operate a primarily outsourced manufacturing business model that principally utilizes third-party foundry and module assembly and test capabilities. As a result, we are highly reliant on third-party foundry wafer fabrication capacity, including single-sourcing for many components or products. For certain of our product families, substantially all of our revenue from those products is derived from semiconductors fabricated by external foundries such as Taiwan Semiconductor Manufacturing Company Ltd. and WIN Semiconductor Corp. Most of our products are designed to be manufactured in a specific process, typically at one particular foundry with a particular contract manufacturer. We also use third-party contract manufacturers for a significant majority of our assembly and test operations, including Amertron Incorporated, ASE Korea Inc., and Inari Technology SDN BHD. 
+
+The ability and willingness of our contract manufacturers to perform is largely outside of our control. If one or more of our contract manufacturers or other outsourced providers fails to perform its obligations in a timely manner or at satisfactory quality levels, our ability to bring products to market and to timely deliver products to our customers, and our reputation could 
+
+suffer. Suppliers may extend lead times, limit supplies, increase prices or discontinue parts due to capacity constraints, changes to manufacturing processes or other factors. In addition, some parts are not readily available from alternate suppliers due to their unique design or the length of time necessary for design work. If one of our suppliers, particularly a single-source supplier, ceases to, or is unable to, manufacture such a component, or changes its manufacturing process, or if supply is otherwise constrained, we may need to transition the manufacture of that product to another foundry or contract manufacturer or source alternative parts, which may be difficult, expensive and take an extended period of time. We may also be forced to make a significant "lifetime" purchase of the affected product, in order to enable us to meet our customer demand, or to re-engineer a product. Significant lifetime purchases of such discontinued components could significantly increase our inventory and other expenses, such as insurance costs, and expose us to additional risks, such as the loss of, or damage to, products which may not subsequently be available to us from an alternative source. Such supply issues may also cause us to fail to timely meet customer demand. This could result in the payment of significant damages by us to our customers, and our net revenue could decline. In such events, our business, financial condition and results of operations would be adversely affected. 
+
+We review our supply chain on an ongoing basis and may seek to qualify second source manufacturers and suppliers for some components and products. Qualifying such second sources may be a lengthy and potentially costly process. 
+
+To the extent we rely on third-party manufacturing relationships, we face the following risks: 
+
+&#8226; 
+
+inability of our manufacturers to develop manufacturing methods appropriate for our products, manufacturers' lack of sufficient capacity, or their unwillingness to devote adequate capacity, to produce our products and unanticipated changes to their manufacturing processes; 
+
+&#8226; 
+
+inaccuracies in the forecasts of our product needs from our manufacturers; 
+
+&#8226; 
+
+product and manufacturing costs that are higher than anticipated; 
+
+&#8226; 
+
+reduced control over product reliability and delivery schedules; 
+
+&#8226; 
+
+more complicated supply chains; and 
+
+&#8226; 
+
+time, expense and uncertainty in identifying and qualifying additional or replacement manufacturers. 
+
+Much of our outsourcing takes place in developing countries, and as a result may additionally be subject to geopolitical uncertainty. See &#8220;&#8212; Our business, financial condition and results of operations could be adversely affected by the political and economic conditions of the countries in which we conduct business and other factors related to our international operations.&#8221; 
+
+A prolonged disruption of our manufacturing facilities or other significant operations could have a material adverse &#32; effect on our business, financial condition and results of operations. 
+
+Although we operate using a primarily outsourced manufacturing business model, we also rely on the manufacturing facilities we own, in particular our gallium arsenide, or GaAS, fabs in Fort Collins, Colorado and Singapore, and our InP fab in Breinigsville, Pennsylvania and InP back-end assembly facility in Matamoros, Mexico acquired as part of the CyOptics transaction. We maintain our internal fabrication facilities for products utilizing our innovative materials and processes, to protect our intellectual property, to develop the technology for manufacturing and to ensure supply of certain components. We are currently expanding our Fort Collins facility to support anticipated growth in sales of our proprietary products, particularly for our wireless target market, and to leverage our fixed costs. Unanticipated delays in the construction of this expansion, or the failure of suppliers to timely deliver tools and other equipment needed to commence manufacturing in the expanded facility, could result in significant additional costs, and could result in us being unable to timely satisfy customer demand for the products we plan to manufacture at the expanded facility, all of which could have a material adverse effect on our business, financial condition and results of operations. In addition, a prolonged disruption or material malfunction of, interruption in, or the loss of operations at, one or more of our production facilities, especially our Fort Collins, Singapore, Breinigsville and Matamoros facilities, or the failure to maintain our labor force at one or more of these facilities, would limit our capacity to meet customer demands and delay new product development until a replacement facility and equipment, if necessary, were found. The replacement of any of our manufacturing facilities could take an extended amount of time and significant expenditures on our part before manufacturing operations could restart. The potential delays and significant costs resulting from such steps could have a material adverse effect on our business, financial condition and results of operations. 
+
+If we or our contract manufacturers suffer loss or significant damage to our factories, facilities or distribution system due to catastrophe, our operations could be seriously harmed. 
+
+Our factories, facilities and distribution system, and those of our contract manufacturers, are subject to risk of catastrophic loss due to fire, flood, earthquake or other natural or man-made disasters. The majority of our facilities and those of our contract manufacturers are located in the Pacific Rim region, a region with above average seismic and severe weather activity. In addition, our research and development personnel are concentrated in a few locations, primarily Malaysia, Singapore, South Korea, Fort Collins, Colorado, San Jose, California, and Breinigsville, Pennsylvania, with the expertise of the personnel at each such location tending to be focused on one or two specific areas. Any catastrophic natural disaster in those regions or 
+
+catastrophic loss or significant damage to any of our facilities or those of our contract manufacturers in those regions would likely disrupt our operations, delay production, shipments and revenue and could materially and adversely affect our business. Such events could also result in significant expenses to repair or replace our affected facilities, and in some instances could significantly curtail our research and development efforts in a particular product area or target market. 
+
+We generally do not have any long-term supply contracts with our contract &#32; manufacturers or materials suppliers and may not be able to obtain the products or &#32; raw materials required for our business, which could have a material adverse affect &#32; on our business. 
+
+We either obtain the products we need for our business from third-party contract manufacturers or we obtain the materials we need for our products from suppliers, some of which are our single source suppliers for these materials. We purchase a significant portion of our semiconductor materials and finished goods from a few suppliers and contract manufacturers. For the first three quarters of fiscal year 2013, we purchased 52% &#32;of the materials for our manufacturing processes from five &#32;suppliers. For fiscal year 2012, we purchased 54% of the materials for our manufacturing processes from six suppliers. Substantially all of our purchases are on a purchase order basis, and we have not generally entered into long-term contracts with our contract manufacturers or suppliers. In the event that these purchase orders or relationships with suppliers are terminated, we cannot obtain sufficient quantities of raw materials at reasonable prices, the quality of the material deteriorates, we fail to satisfy our customers' requirements or we are not able to pass on higher materials or energy costs to our customers, our business, financial condition and results of operations could be adversely impacted. 
+
+Our manufacturing processes rely on many materials, including silicon and GaAs and InP wafers, copper lead frames, precious metals, mold compound, ceramic packages and various chemicals and gases. From time to time, suppliers may extend lead times, limit supplies or increase prices due to commodity price increases, capacity constraints or other factors. Although we believe that our current supplies of materials are adequate, shortages could occur in various essential materials due to interruption of supply or increased demand in the industry. 
+
+Failure to adjust our supply chain volume due to changing market or other conditions or &#32; failure to accurately estimate our customers' demand could adversely affect our &#32; results of operations. 
+
+We make significant decisions, including determining the levels of business that we will seek and accept, production schedules, levels of reliance on contract manufacturing and outsourcing, personnel needs and other resource requirements, based on our estimates of customer requirements. The short-term nature of commitments by many of our customers and the possibility of rapid changes in demand for their products reduces our ability to accurately estimate future customer requirements. Our results of operations could be harmed if we are unable to adjust our supply chain volume to address market fluctuations, including those caused by the seasonal or cyclical nature of the markets in which we operate, or by other unanticipated events such as natural disasters. In addition, the sale of our products is dependent, to a large degree, on customers whose industries are subject to seasonal or cyclical trends in the demand for their products. For example, the smartphone market is particularly volatile and is subject to seasonality related to the holiday selling season, making demand difficult to anticipate. 
+
+Severe supply chain disruptions, such as those caused by large scale natural disasters, can adversely affect our, and our customers', ability to source materials and components needed to manufacture products. In such event, even if we are able to promptly resume production of our affected products, if our customers cannot timely resume their own manufacturing following such an event, they may cancel or scale back their orders from us and this may in turn adversely affect our results of operations. 
+
+From time to time, customers may require rapid increases in production, for example when they are ramping up for a new product launch, such as a new generation cell phone, which can challenge our resources and reduce margins. We may not be able to purchase sufficient supplies or components or secure sufficient contract manufacturing capacity, to meet such increases in product demand. This could harm our reputation, prevent us from taking advantage of opportunities, reduce revenue growth and subject us to additional liabilities if we are not able to timely satisfy customer orders. 
+
+In order to secure components for the production of our products, we may enter into non-cancelable purchase commitments with vendors or make advance payments to suppliers, which could reduce our ability to adjust our inventory or expense levels to declining market demands. Prior commitments of this type have resulted in an excess of parts when demand for our products has decreased. Downturns in the semiconductor industry have in the past caused, and may in the future cause, our customers to reduce significantly the amount of products ordered from us. If demand for our products is less than we expect, we may experience excess and obsolete inventories and be forced to incur additional charges. Conversely, if OEMs order more of our products in any particular quarter than are ultimately required to satisfy end customer demand, inventories at these OEMs may grow in such quarter, which could adversely affect our product revenues in a subsequent quarter as such OEMs would likely reduce future orders until their inventory levels realign with end customer demand. In addition, because certain of our sales, research and development and internal manufacturing overhead expenses are relatively fixed, a reduction in customer demand may decrease our gross margins and operating income. 
+
+We rely on third parties to provide corporate infrastructure services necessary for the operation of our business. Any failure of one or more of our vendors to provide &#32; these services could have a material adverse effect on our business. 
+
+We rely on third-party vendors to provide critical corporate infrastructure services, including, among other things, certain services related to accounting, billing, human resources, benefit plan administration, information technology, or IT, network development and network monitoring. We depend on these vendors to ensure that our corporate infrastructure will consistently meet our business requirements. The ability of these third-party vendors to successfully provide reliable, high quality services is subject to technical and operational uncertainties that are beyond our control. While we may be entitled to damages if our vendors fail to perform under their agreements with us, our agreements with these vendors limit the amount of damages we may receive. In addition, we do not know whether we will be able to collect on any award of damages or that any such damages would be sufficient to cover the actual costs we would incur as a result of any vendor's failure to perform under its agreement with us. Any failure of our corporate infrastructure could have a material adverse effect on our business, financial condition and results of operations. Upon expiration or termination of any of our agreements with third-party vendors, we may not be able to replace the services provided to us in a timely manner or on terms and conditions, including service levels and cost, that are favorable to us and a transition from one vendor to another vendor could subject us to operational delays and inefficiencies until the transition is complete. 
+
+Our gross margin is dependent on a number of factors, including our product mix, customer mix, commodity prices, non-product revenue, acquisitions we may make and &#32; level of capacity utilization. 
+
+Our gross margin is highly dependent on product mix, with proprietary products and products sold into our industrial &#38; other target market typically providing higher gross margin than other products. A shift in sales mix away from our higher margin products could adversely affect our future gross margin percentages. In addition, OEMs are becoming increasingly price conscious when they design semiconductors from third party suppliers into their products. This sensitivity, combined with large OEMs' purchasing power, can lead to intense price competition among competing suppliers, which may require us to decrease our prices in order to win a design with an OEM customer. This can, in turn, adversely affect our gross margin. Our margin may also be affected by fluctuations in commodity prices, either directly in the price of the raw materials we buy, or as a result of prices increases passed on to us by our suppliers. We do not hedge our exposure to commodity prices, some of which (including gold and fuel prices) are very volatile, and sudden or prolonged increases in commodities prices may adversely affect our gross margin. 
+
+Our gross margin is also affected by the timing and amount of our non-product revenue, including non-refundable payments from customers for research and development projects during product development and intellectual property-related revenue such as licensing royalty payments and revenues from sales of intellectual property. Our non-product revenue is generally high margin, but fluctuates significantly from quarter to quarter. 
+
+Businesses or companies that we may acquire from time to time may have different gross margin profiles than us and could, therefore, affect our overall gross margin. For example, CyOptics products typically carry a lower gross margin, on average, than Avago products and, as a result, the acquisition of CyOptics may have an adverse effect on our gross margin unless we are able to improve the gross margins of the acquired business. 
+
+In addition, semiconductor manufacturing requires significant capital investment, leading to high fixed costs, including depreciation expense. Although we outsource a significant portion of our manufacturing activities, we do retain some semiconductor fabrication facilities. We are making substantial capital investments in our Fort Collins, Colorado manufacturing facility and we may not realize the benefit we anticipate from these investments. If we are unable to utilize our owned fabrication facilities at a high level, the fixed costs associated with these facilities, such as depreciation expense, will not be fully absorbed, resulting in higher average unit costs and lower gross margins. In the past, we have experienced periods where our gross margins declined due to, among other things, reduced factory utilization resulting from reduced customer demand, reduced selling prices and a change in product mix towards lower margin devices. Increased competition and the existence of product alternatives, more complex engineering requirements, lower demand, reductions in our technological lead, compared to our competitors, and other factors may lead to further price erosion, lower revenues and lower margins for us in the future. 
+
+If the tax incentive or tax holiday arrangements we have negotiated in Singapore and &#32; other jurisdictions change or cease to be in effect or applicable, in part or in whole, for any reason, or if our &#32; assumptions and interpretations regarding tax laws and incentive or holiday &#32; arrangements prove to be incorrect, the amount of corporate income taxes we have to &#32; pay could significantly increase. 
+
+We have structured our operations to maximize the benefit from various tax incentives and tax holidays extended to us in various jurisdictions to encourage investment or employment. For example, we have obtained several tax incentives from the Singapore Economic Development Board, an agency of the Government of Singapore, which provide that certain classes of income we earn in Singapore are subject to tax holidays or reduced rates of Singapore income tax. Each such tax incentive is separate and distinct from the others, and may be granted, withheld, extended, modified, truncated, complied with or terminated independently without any effect on the other incentives. In order to retain these tax benefits in Singapore, we must meet 
+
+certain operating conditions specific to each incentive relating to, among other things, maintenance of a treasury function, a corporate headquarters function, specified intellectual property activities and specified manufacturing activities in Singapore. Some of these operating conditions are subject to phase-in periods through 2015. The Singapore tax incentives are presently scheduled to expire at various dates generally between 2014 and 2025. Renewals and extensions of such tax incentives are in the discretion of the Singapore government, and we may not be able to extend these tax incentive arrangements after their expiration on similar terms or at all. We may elect not to seek to renew or extend certain tax incentive arrangements. Absent these tax incentives, the corporate income tax rate in Singapore that would otherwise apply to us would be 17%. For the fiscal years ended October 28, 2012, October 30, 2011, and October 31, 2010, the effect of all these tax incentives, in the aggregate, was to reduce the overall provision for income taxes from what it otherwise would have been in such year by approximately $81 million, $82 million, and $63 million, respectively, and increase diluted net income per share by $0.33, $0.32, and $0.26, respectively. The tax incentives that we have negotiated in Malaysia are also subject to our compliance with various operating and other conditions. If we cannot or elect not to comply with the operating conditions included in any particular tax incentive, we will lose the related tax benefits. In such event, we could be required to refund material tax benefits previously realized by us with respect to that incentive and, depending on the incentive at issue, could likely be required to modify our operational structure and tax strategy. Any such modified structure or strategy may not be as beneficial to us from an income tax expense or operational perspective as the benefits provided under the present tax concession arrangements. 
+
+Our interpretations and conclusions regarding the tax incentives are not binding on any taxing authority, and if our assumptions about tax and other laws are incorrect or if these tax incentives are substantially modified or rescinded we could suffer material adverse tax and other financial consequences, which would increase our expenses, reduce our profitability and adversely affect our cash flows. In addition, taxable income in any jurisdiction is dependent upon acceptance of our operational practices and intercompany transfer pricing by local tax authorities as being on an arm's length basis. Due to inconsistencies in application of the arm's length standard among taxing authorities, as well as lack of adequate treaty-based protection, transfer pricing challenges by tax authorities could, if successful, substantially increase our income tax expense. We are subject to, and are under, audit in various jurisdictions, and such jurisdictions may assess additional income tax against us. Although we believe our tax positions are reasonable, the final determination of tax audits could be materially different from our recorded income tax provisions and accruals. The ultimate results of an audit could have a material adverse effect on our operating results or cash flows in the period or periods for which that determination is made. 
+
+We may be subject to claims of infringement of third-party intellectual property &#32; rights or demands that we license third-party technology, which could result in &#32; significant expense and loss of our intellectual property rights. 
+
+The semiconductor industry is characterized by companies holding large numbers of patents, copyrights, trademarks and trade secrets and by the vigorous pursuit, protection and enforcement of intellectual property rights, including actions by patent-holding companies that do not make or sell products. From time to time, third parties assert against us and our customers and distributors their patent, copyright, trademark, trade secret and other intellectual property rights to technologies that are important to our business. 
+
+Litigation or settlement of claims that our products or processes infringe or misappropriate these rights, regardless of their merit, are frequently costly and divert the efforts and attention of our management and technical personnel. In addition, many of our customer agreements, and in some cases our asset sale agreements, require us to indemnify our customers or purchasers for third-party intellectual property infringement claims, which have required and may in the future require that we defend those claims, and might require that we pay damages in the case of adverse rulings. Claims of this sort could also harm our relationships with our customers and might deter future customers from doing business with us. We do not know whether we will prevail in such proceedings given the complex technical issues and inherent uncertainties in intellectual property litigation. If any pending or future proceedings result in an adverse outcome, we could be required to: 
+
+&#8226; 
+
+cease the manufacture, use or sale of the infringing products, processes or technology; 
+
+&#8226; 
+
+pay substantial damages for past, present and future use of the infringing technology; 
+
+&#8226; 
+
+expend significant resources to develop non-infringing technology; 
+
+&#8226; 
+
+license technology from the third-party claiming infringement, which license may not be available on commercially reasonable terms, or at all; 
+
+&#8226; 
+
+enter into cross-licenses with our competitors, which could weaken our overall intellectual property portfolio and our ability to compete in particular product categories; 
+
+&#8226; 
+
+indemnify customers or distributors; 
+
+&#8226; 
+
+pay substantial damages to our customers or end users to discontinue use or replace infringing technology with non-infringing technology; or 
+
+&#8226; 
+
+relinquish intellectual property rights associated with one or more of our patent claims, if such claims are held invalid or otherwise unenforceable. 
+
+Any of the foregoing results could have a material adverse effect on our business, financial condition and results of operations. 
+
+We utilize a significant amount of intellectual property in our business. If we are &#32; unable or fail to protect our intellectual property, our business could be adversely &#32; affected. 
+
+Our success depends in part upon protecting our intellectual property. To accomplish this, we rely on a combination of intellectual property rights, including patents, copyrights, trademarks, trade secrets and similar intellectual property, as well as customary contractual protections with our customers, suppliers, employees and consultants. We may be required to spend significant resources to monitor and protect our intellectual property rights, and even with significant expenditures we may not be able to protect our intellectual property rights valuable to our business. We are unable to predict that: 
+
+&#8226; 
+
+intellectual property rights that we presently employ in our business will not lapse or be invalidated, circumvented, challenged, or, in the case of third-party intellectual property rights, licensed or sub-licensed to us, be licensed to others; 
+
+&#8226; 
+
+our intellectual property rights will provide competitive advantages to us; 
+
+&#8226; 
+
+rights previously granted by third parties to intellectual property rights licensed or assigned to us, including portfolio cross-licenses, will not hamper our ability to assert our intellectual property rights against potential competitors or hinder the settlement of currently pending or future disputes; 
+
+&#8226; 
+
+any of our pending or future patent, trademark or copyright applications will be issued or have the coverage originally sought; or 
+
+&#8226; 
+
+our intellectual property rights will be enforced in certain jurisdictions where competition may be intense or where legal protection may be weak. 
+
+In addition, our competitors or others may develop products or technologies that are similar or superior to our products or technologies, duplicate our products or technologies or design around our protected technologies. Effective patent, trademark, copyright and trade secret protection may be unavailable or more limited in one or more relevant jurisdictions, relative to those protections available in the United States, may not be applied for or may be abandoned in one or more relevant jurisdictions. We may elect to abandon or divest patents or otherwise not pursue prosecution of certain pending patent applications, due to strategic concerns or other factors. In addition, when patents expire, we lose the protection and competitive advantages they provided to us. From time to time we pursue litigation to assert our intellectual property rights, including, in some cases, against third parties with whom we have ongoing relationships, such as customers and suppliers, and third parties may pursue litigation against us. An adverse decision in such types of legal action could limit our ability to assert our intellectual property rights and limit the value of our technology, including the loss of opportunities to sell or license our technology to others or to collect royalty payments based upon successful protection and assertion of our intellectual property against others. In addition, such legal actions or adverse decisions could otherwise negatively impact our business, financial condition and results of operations. 
+
+From time to time we may need to obtain additional intellectual property licenses or renew existing license agreements. We are unable to predict whether these license agreements can be obtained or renewed on acceptable terms or at all. 
+
+We are subject to risks associated with our distributors' product inventories and &#32; product sell-through. 
+
+We sell many of our products to customers through distributors who maintain their own inventory of our products for sale to dealers and end users. We limit distributor return rights and we allow limited price adjustments on sales to distributors. Price adjustments may be effected by way of credits for future product or by cash payments to the distributor either in arrears or in advance based on estimates. We record reserves for distributor rights related to these limited stock returns and price adjustments. We recognize revenues for sales to distributors upon delivery to the distributors, net of estimated provisions for these stock return and price adjustment programs. We have extended these programs to certain distributors in the United States, Asia and Europe and may extend them on a selective basis to some of our other distributors in these geographies. The reserves recorded for these programs are based on significant judgments and estimates, using historical experience rates, inventory levels in distribution, current trends and other factors, and there could be significant differences between actual amounts and our estimates. These programs may require us to deploy a substantial amount of cash to fund them. As at August 4, 2013 , we had an aggregate of approximately $25 million &#32;on deposit with various distributors to fund these programs. The timing and mix of payments and credits associated with such price adjustments could change over time, which could adversely affect our cash flows. Sales to distributors accounted for 30% &#32;and 32% &#32;of our net revenue for the three fiscal quarters ended August 4, 2013 &#32;and fiscal year 2012, respectively. 
+
+If our distributors are unable to sell an adequate amount of their inventory of our products in a given quarter to dealers and end users or if they decide to decrease their inventories for any reason, such as due to adverse global economic conditions or due to any downturn in technology spending, our sales to these distributors and our revenues may decline. We also face the risk that our distributors may purchase, or for other reasons accumulate, inventory levels of our products in any particular quarter in excess of future anticipated sales to end-customers. If such sales do not occur in the time frame anticipated by these distributors for any reason, these distributors may substantially decrease the amount of product they order from us in subsequent periods until their inventory levels realign with end customer demand, which would harm our business and could adversely affect our product revenues in such subsequent periods. Our reserve estimates associated with products stocked by our distributors are based largely on reports that our distributors provide to us on a weekly or monthly basis. To date, we believe this data has been generally accurate. To the extent that this resale and channel inventory data is inaccurate or not received in a timely manner, we may not be able to make reserve estimates for future periods accurately or at all. 
+
+Unless we and our suppliers continuously improve manufacturing efficiency and &#32; quality, our financial performance could be adversely affected. 
+
+Manufacturing semiconductors involves highly complex processes that require advanced equipment. We and our suppliers, as well as our competitors, continuously modify these processes in an effort to improve yields and product performance. Defects or other difficulties in the manufacturing process can reduce yields and increase costs. Our manufacturing efficiency will be an important factor in our future financial performance, and we may be unable to maintain or increase our manufacturing efficiency to the same extent as our competitors. For products that we outsource manufacturing, our product yields and performance will be subject to the manufacturing efficiencies of our third-party suppliers. 
+
+From time to time, we and our suppliers have experienced difficulty in beginning production at new facilities, transferring production to other facilities, achieving and maintaining a high level of process quality and effecting transitions to new manufacturing processes, all of which have caused us to suffer delays in product deliveries or reduced yields. We and our suppliers may experience manufacturing problems in achieving acceptable yields or experience product delivery delays in the future as a result of, among other things, capacity constraints, construction delays, transferring production to other facilities, upgrading or expanding existing facilities, including our Fort Collins facility, or changing our process technologies, any of which could result in a loss of future revenues. Our results of operations could be adversely affected by any increase in costs related to increases in production capacity if revenues do not increase proportionately. 
+
+The enactment of legislation implementing changes in U.S. taxation of international business activities or the adoption of other international tax reform policies or principles could materially impact our financial position and results of operations. 
+
+Tax bills are introduced from time to time to reform U.S. taxation of international business activities. Depending on the final form of legislation enacted, if any, these consequences may be significant for us due to the large scale of our international business activities. If any of these proposals are enacted into legislation, or if other international, consensus-based tax policies and principles are amended or implemented, they could have material adverse consequences on the amount of tax we pay and thereby on our financial position and results of operations. 
+
+We make substantial investments in research and development to improve existing and develop new technologies to remain competitive in our business and unsuccessful investments could materially adversely affect our business, financial condition and results of operations. 
+
+The semiconductor industry requires substantial investment in research and development in order to develop and bring to market new and enhanced technologies and products. In order to remain competitive, we have made significant investments in research and development and anticipate that we will need to maintain or increase our levels of research and development expenditures. We expect research and development expenses to increase in absolute dollars for the foreseeable future, due to the increasing complexity and number of products we plan to develop. The technologies where we have focused or may focus our research and development expenditures may not become commercially successful. Significant investments in unsuccessful research and development efforts could materially adversely affect our business, financial condition and results of operations. In addition, increased investments in research and development could cause our cost structure to fall out of alignment with demand for our products, which would have a negative impact on our financial results. 
+
+Our business would be adversely affected by the departure of existing members of our &#32; senior management team or if our senior management team is unable to effectively &#32; implement our strategy. 
+
+Our success depends, in large part, on the continued contributions of our senior management team, in particular, the services of Mr. Hock E. Tan, our President and Chief Executive Officer and Mr. Bryan T. Ingram, our Senior Vice President and Chief Operating Officer. None of our senior management is bound by written employment contracts to remain with us for a specified period. In addition, we do not currently maintain key person life insurance covering our senior management. The loss of any of 
+
+our senior management could harm our ability to implement our business strategy and respond to the rapidly changing market conditions in which we operate. 
+
+If we are unable to attract, train and retain qualified personnel, especially our &#32; design and technical personnel, we may not be able to execute our business strategy &#32; effectively. 
+
+Our future success depends on our ability to retain, attract and motivate qualified personnel, including our management, sales and marketing, legal and finance personnel, and especially our design and technical personnel. We also seek to acquire talented engineering and technical personnel through acquisitions we may make from time to time, including, for example, CyOptics and Javelin. We do not know whether we will be able to retain all of these employees as we continue to pursue our business strategy. We have historically encountered difficulties in hiring and retaining qualified engineers because there is a limited pool of engineers with expertise in analog and optoelectronic semiconductor design. Competition for such personnel is intense in the semiconductor industry, particularly in Southeast Asia where qualified engineers are currently in high demand. In addition, employees of companies or businesses that we acquire may decide not to continue working for us, with little or no notice, for reasons that may include dissatisfaction with our corporate culture, compensation or new roles and responsibilities. As the source of our technological and product innovations, our design and technical personnel represent a significant asset. The loss of the services of key employees, especially our key design and technical personnel, or our inability to retain, attract and motivate qualified design and technical personnel, could have a material adverse effect on our business, financial condition and results of operations. 
+
+We are subject to warranty claims, product recalls and product liability. 
+
+We are currently, and from time to time may be, subject to warranty or product liability claims that have lead, and may in the future lead, to significant expenses as we compensate affected customers for costs incurred related to product quality issues. Although we maintain reserves for reasonably estimable liabilities and purchase product liability insurance, our reserves may be inadequate to cover the uninsured portion of such claims. Conversely, in some cases, amounts we reserve may ultimately exceed our actual liability for particular claims and may need to be reversed. 
+
+Although we maintain product liability insurance, such insurance is subject to significant deductibles and there is no guarantee that such insurance will be available or adequate to protect against all such claims, or we may elect to self-insure with respect to certain matters. We may incur costs and expenses in the event of any recall of a customer's product containing one of our devices. The process of identifying a recalled product in devices that have been widely distributed may be lengthy and require significant resources, and we may incur significant replacement costs, contract damage claims from our customers and reputational harm. Our customer contracts typically contain warranty and indemnification provisions, and in certain cases may also contain liquidated damages provisions, relating to product quality issues. The potential liabilities associated with such provisions are significant, and in some cases, including in agreements with some of our largest customers, are potentially unlimited. Any such liabilities may greatly exceed any revenues we receive from the relevant products. Costs, payments or damages incurred or paid by us in connection with warranty and product liability claims and product recalls could materially and adversely affect our financial condition and results of operations. 
+
+The complexity of our products could result in unforeseen delays or expenses or &#32; undetected defects or bugs, which could adversely affect the market acceptance of new &#32; products, damage our reputation with current or prospective customers, and &#32; materially and adversely affect our operating costs. 
+
+Highly complex products such as those we offer, may contain defects and bugs when they are first introduced or as new versions are released, or their release may be delayed due to unforeseen difficulties during product development. We have in the past experienced, and may in the future experience, such defects, bugs and delays. If any of our products contain defects or bugs, or have reliability, quality or compatibility problems, we may not be able to successfully design workarounds. Consequently, our reputation may be damaged and customers may be reluctant to buy our products, which could materially and adversely affect our ability to retain existing customers, attract new customers, and our financial results. In addition, these defects or bugs could interrupt or delay sales to our customers. To resolve these problems, we may have to invest significant capital and other resources. Although our products are tested by our suppliers, our customers and ourselves, it is possible that our new products will contain defects or bugs. If any of these problems are not found until after we have commenced commercial production of a new product, we may be required to incur additional development costs and product recall, repair or replacement costs. These problems may also result in claims against us by our customers or others. For example, if a delay in the manufacture and delivery of our products causes the delay of a customer's product delivery, we may be required, under the terms of our agreement with that customer, to compensate the customer for the adverse effects of such delays. In addition, these problems may divert our technical and other resources from other development efforts, and we would likely lose, or experience a delay in, market acceptance of the affected product or products, and we could lose credibility with our current and prospective customers. As a result, our financial results could be materially and adversely affected. 
+
+Our business, financial condition and results of operations could be adversely &#32; affected by the political and economic conditions of the countries in which we &#32; conduct business and other factors related to our international operations. 
+
+We sell our products throughout the world. In addition, as at August 4, 2013 , approximately 63% &#32;of our employees are located outside of the United States. Multiple factors relating to our international operations and to particular countries in which we operate could have a material adverse effect on our business, financial condition and results of operations. These factors include: 
+
+&#8226; 
+
+changes in political, regulatory, legal or economic conditions; 
+
+&#8226; 
+
+restrictive governmental actions, such as restrictions on the transfer or repatriation of funds and foreign investments and trade protection measures, including export duties and quotas and customs duties and tariffs; 
+
+&#8226; 
+
+disruptions of capital and trading markets; 
+
+&#8226; 
+
+changes in import or export licensing requirements; 
+
+&#8226; 
+
+transportation delays; 
+
+&#8226; 
+
+civil disturbances or political instability; 
+
+&#8226; 
+
+geopolitical turmoil, including terrorism, war or political or military coups; 
+
+&#8226; 
+
+changes in labor standards; 
+
+&#8226; 
+
+limitations on our ability under local laws to protect our intellectual property; 
+
+&#8226; 
+
+nationalization of businesses and expropriation of assets; 
+
+&#8226; 
+
+changes in tax laws; 
+
+&#8226; 
+
+currency fluctuations, which may result in our products becoming too expensive for foreign customers or foreign-sourced materials and services becoming more expensive for us; and 
+
+&#8226; 
+
+difficulty in obtaining distribution and support. 
+
+A significant legal risk associated with conducting business internationally is compliance with various and differing anti-corruption and anti-bribery laws and regulations of the countries in which we do business, including the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and similar laws in China. In addition, the anti-corruption laws in various countries are constantly evolving and may, in some cases, conflict with each other. Our Code of Ethics and Business Conduct and other policies prohibit us and our employees from offering or giving anything of value to a government official for the purpose of obtaining or retaining business and from engaging in unethical business practices, including kick-backs to or from purely private parties. However, there can be no assurance that all of our employees or agents will refrain from acting in violation of this and our related anti-corruption policies and procedures. Any such violation could have a material adverse effect on our business. 
+
+A majority of our products are produced and sourced in Asia, including in China, Malaysia, the Philippines, Singapore, South Korea, Taiwan and Thailand. As a result of the acquisition of CyOptics, we also have facilities and personnel in, and conduct business from, Mexico, an area in which we have not previously operated. Any conflict or uncertainty in these countries, including due to political or civil unrest, public health or safety concerns or natural disasters, could have a material adverse effect on our business, financial condition and results of operations. In addition, if the government of any country in which our products are manufactured or sold sets technical standards for products manufactured in or imported into their country that are not widely shared, it may lead certain of our customers to suspend imports of their products into that country, require manufacturers in that country to manufacture products with different technical standards and disrupt cross-border manufacturing relationships which, in each case, could have a material adverse effect on our business, financial condition and results of operations. 
+
+In addition, our subsidiaries may require future equity-related financing, and any capital contributions to certain of our subsidiaries may require the approval of the relevant authorities in the jurisdiction in which the subsidiary is incorporated. The approvals are required from the investment commissions or similar agency of the particular jurisdiction and relate to any initial or additional equity investment by foreign entities in local corporations. Our failure to obtain the required approvals and our resulting inability to provide such equity-related financing or capital contributions could have an adverse effect on our business, financial condition and results of operations. 
+
+We may not realize the full benefits of our research and development grants. 
+
+We have accepted research and development grants, the receipt and amount of which are subject to our compliance with specified terms and conditions, both individually and in the aggregate. During the three fiscal quarters ended August 4, 2013 , we recorded an aggregate of $6 million &#32;in credits to research and development expense and $2 million &#32;as a deferred credit for 
+
+capital expenditures pursuant to these grants. During fiscal year 2012, we recorded an aggregate of $7 million in credits to research and development expense and $1 million as a deferred credit for capital expenditures pursuant to these grants. If we cannot or elect not to satisfy the terms and conditions of any of these grants, expenses incurred in respect of the relevant research and development projects will not be approved for reimbursement, we may be required to return amounts previously paid to us under the grants and further grants may not be available to us in the future. In the event we are unable to comply with the terms of any such grant, we may seek to amend the terms. However, any amendment, extension or renewal of such grants is in the discretion of the granting authority and we may not be able to effect any such change. 
+
+Our business is subject to various governmental regulations, and compliance with &#32; these regulations may cause us to incur significant expenses. If we fail to maintain &#32; compliance with applicable regulations, we may be forced to recall products and cease &#32; their manufacture and distribution, and we could be subject to civil or criminal &#32; penalties. 
+
+Our business is subject to various significant international and U.S. laws and other legal requirements, including packaging, product content, labor and import/export regulations. These regulations are complex, change frequently and have generally become more stringent over time. We may be required to incur significant expenses to comply with these regulations or to remedy violations of these regulations. Certain CyOptics products, when customized for use with or incorporation into a defense article, are subject to the jurisdiction of the U.S. Department of State in accordance with the International Traffic in Arms Regulation, or ITAR. We have not previously had to comply with ITAR and are currently integrating CyOptics' ITAR controls and compliance with our own programs. Any failure by us to comply with applicable government regulations, including ITAR, could result in cessation of our operations or portions of our operations, product recalls or impositions of fines and restrictions on our ability to conduct our operations. In addition, because many of our products are regulated or sold into regulated industries, we must comply with additional regulations in marketing our products. 
+
+Our products and operations are also subject to the rules of industrial standards bodies, like the International Standards Organization, as well as regulation by other agencies, such as the U.S. Federal Communications Commission. If we fail to adequately address any of these rules or regulations, our business could be harmed. 
+
+We must conform the manufacture and distribution of our semiconductors to various laws and adapt to regulatory requirements in all countries as these requirements change. If we fail to comply with these requirements in the manufacture or distribution of our products, we could be required to pay civil penalties, face criminal prosecution and, in some cases, be prohibited from distributing our products commercially until the products or component substances are brought into compliance. 
+
+We are subject to environmental, health and safety laws, which could increase our &#32; costs, restrict our operations and require expenditures that could have a material &#32; adverse affect on our results of operations and financial condition. 
+
+We are subject to a variety of international and U.S. laws and other legal requirements relating to the use, disposal, clean-up of and human exposure to, hazardous materials. Any failure by us to comply with environmental, health and safety requirements could result in the limitation or suspension of production or subject us to future liabilities in excess of our reserves. In addition, compliance with environmental, health and safety requirements could restrict our ability to expand our facilities or require us to acquire costly pollution control equipment, incur other significant expenses or modify our manufacturing processes. In the event of the discovery of new contamination, additional requirements with respect to existing contamination, or the imposition of other cleanup obligations for which we are responsible, we may be required to take remedial or other measures which could have a material adverse effect on our business, financial condition and results of operations. 
+
+We also face increasing complexity in our product design and procurement operations as we adjust to new requirements relating to the materials composition of our products, including the restrictions on lead and certain other substances in electronics that apply to specified electronics products sold in the European Union as of July 1, 2006 under the Restriction of Hazardous Substances in Electrical and Electronic Equipment Directive. Other countries, such as the United States, China and Japan, have enacted or may enact laws or regulations similar to the EU legislation. Other environmental regulations may require us to re-engineer our products to utilize components that are more environmentally compatible. Such re-engineering and component substitution may result in excess inventory or other additional costs and could have a material adverse effect on our results of operations. 
+
+In addition to the costs of complying with environmental, health and safety requirements, we may in the future incur costs defending against environmental litigation brought by government agencies and private parties. We may be defendants in lawsuits brought by parties in the future alleging environmental damage, personal injury or property damage. A significant judgment against us could harm our business, financial condition and results of operations. 
+
+In the last few years, there has been increased media scrutiny and associated reports focusing on a potential link between working in semiconductor manufacturing clean room environments and certain illnesses, primarily different types of cancers. Regulatory agencies and industry associations have begun to study the issue to see if any actual correlation exists. Because we 
+
+utilize clean rooms, we may become subject to liability claims. In addition, these reports may also affect our ability to recruit and retain employees. 
+
+We cannot predict: 
+
+&#8226; 
+
+changes in environmental or health and safety laws or regulations; 
+
+&#8226; 
+
+the manner in which environmental or health and safety laws or regulations will be enforced, administered or interpreted; 
+
+&#8226; 
+
+our ability to enforce and collect under indemnity agreements and insurance policies relating to environmental liabilities; or 
+
+&#8226; 
+
+the cost of compliance with future environmental or health and safety laws or regulations or the costs associated with any future environmental claims, including the cost of clean-up of currently unknown environmental conditions, particularly at sites that we may acquire from time to time. 
+
+New regulations related to &#8220;conflict minerals&#8221; may force us to incur additional expenses, may make our supply chain more complex and may result in damage to our reputation with customers. 
+
+Pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, or the Dodd-Frank Act, the SEC has adopted new requirements for companies that use certain minerals and metals, known as conflict minerals, in their products, whether or not these products are manufactured by third parties. These requirements will require companies to diligence, disclose and report whether or not such minerals originate from the Democratic Republic of Congo and adjoining countries. The implementation of these new requirements could adversely affect the sourcing, availability and pricing of minerals used in the manufacture of semiconductor devices, including our products. In addition, we will incur additional costs to comply with the disclosure requirements, including costs related to determining the source of any of the relevant minerals and metals used in our products. Since our supply chain is complex, we may not be able to sufficiently verify the origins for these minerals and metals used in our products through the due diligence procedures that we implement, which may harm our reputation. In such event, we may also face difficulties in satisfying customers who require that all of the components of our products are certified as conflict mineral free. 
+
+We rely on third-party distributors and our employee sales representatives, as well as some manufacturers' representatives, and the failure of these distributors or representatives to &#32; perform as expected could reduce our future sales. 
+
+In addition to selling products through our employee sales representatives, we also rely on distributors and, in some cases, manufacturers' representatives to sell our products to our customers. This is particularly the case in markets where we do not have a significant physical presence and new markets that we are seeking to enter. We are unable to predict the extent to which our distributors and manufacturers' representatives will be successful in marketing and selling our products. Moreover, many of our distributors and manufacturers' representatives also market and sell competing products. Our relationships with our distributors and manufacturers' representatives may be terminated by either party at any time. Our future performance will depend, in part, on our ability to attract additional distributors or manufacturers' representatives that will be able to market and support our products effectively, especially in markets where we have not previously distributed our products, and on our ability to effectively manage distribution efforts by our remaining global, full-line distributors. If we cannot retain our current distributors or manufacturers' representatives, recruit additional or replacement distributors or manufacturers' representatives where needed, or effectively manage changes to our sales and distributions strategies, our sales and operating results will be harmed. 
+
+The average selling prices of products in our markets have historically decreased &#32; rapidly and will likely do so in the future, which could harm our revenues and gross &#32; profits. 
+
+The products we develop and sell are used for high volume applications. As a result, the prices of those products have historically decreased rapidly. Gross profits on our products may be negatively affected by, among other things, pricing pressures from our customers, and the proportion of sales of our wireless and other products into consumer application markets, which are highly competitive and cost sensitive. In the past, we have reduced the average selling prices of our products in anticipation of future competitive pricing pressures, new product introductions by us or our competitors and other factors. In addition, some of our customer agreements provide for volume-based pricing and product pricing roadmaps, which can also reduce the average selling prices of our products over time. Our gross profits and financial results will suffer if we are unable to offset any reductions in our average selling prices by increasing our sales volumes, reducing manufacturing costs, or developing new and higher value-added products on a timely basis. 
+
+We are required to assess our internal control over financial reporting on an annual &#32; basis and any adverse findings from such assessment could result in a loss of &#32; investor confidence in our financial reports, significant expenses to remediate any &#32; internal control deficiencies and ultimately have an adverse effect on our share &#32; price. 
+
+We are required to assess the effectiveness of our internal control over financial reporting annually, as required by Section 404 of the Sarbanes-Oxley Act. Even though, as at October 28, 2012, we concluded that our internal control over financial reporting was effective, we need to maintain our processes and systems and adapt them as our business grows and changes. This continuous process of maintaining and adapting our internal controls and complying with Section 404 is expensive, time-consuming and requires significant management attention. We cannot be certain that our internal control measures will continue to provide adequate control over our financial processes and reporting and ensure compliance with Section 404. Furthermore, as we grow our business or acquire other businesses, our internal controls may become more complex and we may require significantly more resources to ensure they remain effective. Failure to implement required new or improved controls, or difficulties encountered in their implementation, either in our existing business or in businesses that we may acquire, could harm our operating results or cause us to fail to meet our reporting obligations. We are in the process of integrating our and CyOptics financial and controls, to ensure the effectiveness of their controls and procedures. However, there can be no assurance that we will be able to do so effectively in the one-year post-acquisition exemption period or at all. If we or our independent registered public accounting firm identify material weaknesses in our internal controls, the disclosure of that fact, even if quickly remedied, may cause investors to lose confidence in our financial statements and the trading price of our ordinary shares may decline. 
+
+Remediation of a material weakness could require us to incur significant expense and if we fail to remedy any material weakness, our financial statements may be inaccurate, our ability to report our financial results on a timely and accurate basis may be adversely affected, our access to the capital markets may be restricted, the trading price of our ordinary shares may decline, and we may be subject to sanctions or investigation by regulatory authorities, including the SEC or The Nasdaq Global Select Market. We may also be required to restate our financial statements from prior periods. 
+
+Our financial condition and results of operations could be adversely affected by employee-benefit related costs and expenses. 
+
+We sponsor several defined benefit plans outside of the United States and post-retirement medical benefit plans in the United States. We are required to make contributions to these plans to comply with minimum funding requirements imposed by laws governing these employee benefit plans. The difference between the obligations and assets of these plans, or the funded status of these plans, is a significant factor in determining our pension expense and the ongoing funding requirements of these plans. Weak economic conditions and related under-performance of asset markets could lead to increased pension and post-retirement benefit expenses. We may also seek to move defined benefit plans to defined contribution plans and any such changes may adversely affect our results of operations, including our profitability and cash flow. In the United States, we also self-fund a significant portion of our employees' health benefits. The costs of providing these benefits has been increasing steadily and significantly, and may increase further as the &#32; Patient Protection and Affordable Care Act of 2010 is implemented. Also, a significant portion of our employees' cash compensation is performance-related, based on achievement of annual metrics, which can cause significant fluctuations in our employee compensation expense, and in cashflows in the period in which payment occurs. Significant increases in the compensation, costs and expenses of the benefits we provide to our employees could adversely affect our financial condition and results of operations. 
+
+A breach of our security systems may have a material adverse effect on our business. &#32; 
+
+Our security systems are designed to maintain the physical security of our facilities and protect our customers', suppliers' and employees' confidential information. However, we are also dependent on a number of third-party "cloud-based" service providers of critical corporate infrastructure services relating to, among other things, human resources, electronic communication services and certain finance functions, and we are, of necessity, dependent on the security systems of these providers. Accidental or willful security breaches or other unauthorized access by third parties to our facilities, our information systems or the systems of our cloud-based service providers or the existence of computer viruses in our or their data or software could expose us to a risk of information loss and misappropriation of proprietary and confidential information. Any theft or misuse of such information could result in, among other things, unfavorable publicity, damage to our reputation, difficulty in marketing our products, allegations by our customers that we have not performed our contractual obligations, litigation by affected parties and possible financial obligations for liabilities and damages related to the theft or misuse of such information, any of which could have a material adverse effect on our business, profitability and financial condition. Since the techniques used to obtain unauthorized share repurchase program access or to sabotage systems change frequently and are often not recognized until launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures. 
+
+Risks Relating to Investments in Singapore Companies 
+
+It may be difficult to enforce a judgment of U.S. courts for civil liabilities under &#32; U.S. federal securities laws against us, our directors or officers in Singapore. 
+
+We are incorporated under the laws of the Republic of Singapore, and certain of our officers and directors are resident outside the United States. Moreover, a majority of our consolidated assets are located outside the United States. Although we are incorporated outside the United States, we have agreed to accept service of process in the United States through our agent designated for that purpose. Nevertheless, since a majority of the consolidated assets owned by us are located outside the United States, any judgment obtained in the United States against us may not be collectible within the United States. 
+
+There is no treaty between the United States and Singapore providing for the reciprocal recognition and enforcement of judgments in civil and commercial matters and a final judgment for the payment of money rendered by any federal or state court in the United States based on civil liability, whether or not predicated solely upon the federal securities laws, would, therefore, not be automatically enforceable in Singapore. There is doubt whether a Singapore court may impose civil liability on us or our directors and officers who reside in Singapore in a suit brought in the Singapore courts against us or such persons with respect to a violation solely of the federal securities laws of the United States, unless the facts surrounding such a violation would constitute or give rise to a cause of action under Singapore law. Consequently, it may be difficult for investors to enforce against us, our directors or our officers in Singapore judgments obtained in the United States, which are predicated upon the civil liability provisions of the federal securities laws of the United States. 
+
+We are incorporated in Singapore and our shareholders may have more difficulty in &#32; protecting their interest than they would as shareholders of a corporation &#32; incorporated in the United States, and we may have more difficulty attracting and retaining qualified board members and executives. 
+
+Our corporate affairs are governed by our memorandum and articles of association and by the laws governing corporations incorporated in Singapore. The rights of our shareholders and the responsibilities of the members of our board of directors under Singapore law are different from those applicable to a corporation incorporated in the United States. Therefore, our public shareholders may have more difficulty in protecting their interest in connection with actions taken by our management or members of our board of directors than they would as shareholders of a corporation incorporated in the United States. Draft legislation that would make significant changes to the Singapore Companies Act has recently been proposed by the Singapore authorities, some of which may alter the rights of shareholders that are currently provided under the Singapore Companies Act and our memorandum and articles of association. However, it is not yet certain which of these amendments will be included in the final legislation or when such amendments will become effective. 
+
+In addition, being a public company incorporated in Singapore may make it more expensive for us to obtain director and officer liability insurance, and we may be required to accept reduced coverage or incur substantially higher costs to obtain coverage. These factors could also make it more difficult for us to attract and retain qualified members of our board of directors, particularly to serve on committees of our Board, and qualified executive officers. 
+
+For a limited period of time, our directors have general authority to allot and issue new ordinary shares on terms and conditions as may be determined by our board of directors in its sole discretion. 
+
+Under Singapore law, we may only allot and issue new ordinary shares with the prior approval of our shareholders in a general meeting. At our 2013 AGM, our shareholders provided our directors with the general authority to allot and issue any number of new ordinary shares until the earlier of (i) the conclusion of our 2014 AGM, (ii) the expiration of the period within which the next annual general meeting is required to be held (i.e. within 15 months from the conclusion of the last general meeting) or (iii) the subsequent revocation or modification of such general authority by our shareholders acting at a duly noticed and convened meeting. Subject to the general authority to allot and issue new ordinary shares provided by our shareholders, the provisions of the Singapore Companies Act and our memorandum and articles of association, our board of directors may allot and issue new ordinary shares on terms and conditions as they may think fit to impose. Any additional issuances of new ordinary shares by our directors may adversely impact the market price of our ordinary shares. 
+
+Risks Relating to Owning Our Ordinary Shares 
+
+At times, our share price has been volatile and it may fluctuate substantially in the &#32; future, which could result in substantial losses for our investors. 
+
+The trading price of our ordinary shares has, at times, fluctuated significantly. The trading price of our ordinary shares could be subject to wide fluctuations in response to many of the risk factors listed in this &#8220;Risk Factors&#8221; section, and others, many of which are beyond our control, including: 
+
+&#8226; 
+
+actual or anticipated fluctuations in our financial condition and operating results; 
+
+&#8226; 
+
+issuance of new or updated research or reports by securities analysts; 
+
+&#8226; 
+
+fluctuations in the valuation and results of operations of our significant customers as well as companies perceived by investors to be comparable to us; 
+
+&#8226; 
+
+announcements of proposed acquisitions by us or our competitors; 
+
+&#8226; 
+
+announcements of, or expectations of additional debt or equity financing efforts; 
+
+&#8226; 
+
+share price and volume fluctuations attributable to inconsistent trading volume levels of our shares; and 
+
+&#8226; 
+
+changes in our dividend or share repurchase policies. 
+
+These fluctuations are often unrelated or disproportionate to our operating performance. These broad market and industry fluctuations, as well as general economic, political and market conditions such as recessions, interest rate changes or international currency fluctuations, may negatively impact the market price of our ordinary shares. You may not realize any return on your investment in us and may lose some or all of your investment. In the past, companies that have experienced volatility in the market price of their stock have been subject to securities class action litigation. We may be the target of this type of litigation in the future. Securities litigation against us could result in substantial costs and divert our management's attention from other business concerns, which could seriously harm our business. 
+
+A substantial amount of our shares are held by a small number of institutional investors and significant sales of our ordinary shares in the public market by one or more of these holders could cause our share price to fall. 
+
+As of June 30, 2013, we believe that our five largest shareholders are institutional investors and that they hold over 40% of our outstanding ordinary shares in the aggregate. These institutional investors may sell their shares for a variety of reasons, including dissatisfaction with our short- or long-term results. These holders may sell their shares at any time and such sales could depress the market price of our ordinary shares, given the large amounts of our shares held by these investors. Such sales could also impair our ability to raise capital through the sale of additional equity securities. 
+
+There can be no assurance that we will continue to declare cash dividends or repurchase shares. 
+
+Our Board adopted a dividend policy pursuant to which the Company will pay quarterly dividends on our ordinary shares, and, following our 2013 AGM on April 10, 2013, our Board approved our 2013 share repurchase program authorizing management to repurchase up to 20 million &#32;of the Company's ordinary shares, in their discretion, which authorization will expire the day prior to our 2014 AGM. The declaration and payment of any future dividend is subject to the approval of our Board and our dividend policy could change at any time. Similarly, our share repurchase program does not obligate us to repurchase any specific number of shares and may be suspended from time to time or terminated at any time prior to its expiration. There can be no assurance that we will declare cash dividends or repurchase shares in the future in any particular amounts, or at all. Furthermore, we may declare dividends as interim dividends, which are wholly provisional under Singapore law and may be revoked by our Board at any time prior to the payment thereof. The payment of cash dividends is restricted by applicable law and our corporate structure. Pursuant to Singapore law and our articles of association, no dividends may be paid except out of our profits. Also, because we are a holding company, our ability to pay cash dividends on our ordinary shares and to repurchase our shares may be limited by restrictions on our ability to obtain sufficient funds through dividends from subsidiaries, including restrictions under the terms of our credit agreement. 
+
+While our cash dividend payments have historically increased over time, this trend may not continue any may be discontinued or reduced at any time. Future dividends and share repurchases, if any, their timing and amount, as well as the relative allocation of cash between dividends and share repurchases, may be affected by, among other factors: our views on potential future capital requirements for strategic transactions, including acquisitions; earnings levels; contractual restrictions; cash position and overall financial condition; and changes to our business model. In addition, the amount we spend and the number of shares we are able to repurchase under our share repurchase program may further be affected by a number of other factors, including the share price and blackout periods in which we are restricted from repurchasing shares. A reduction in, or elimination of, our dividend payments and/or share repurchases could have a negative effect on our share price. 
+
+Singapore corporate law may impede a takeover of our company by a third-party, which &#32; could adversely affect the value of our ordinary shares. 
+
+The Singapore Code on Take-overs and Mergers contains provisions that may delay, deter or prevent a future takeover or change in control of our company for so long as we remain a public company with more than 50 shareholders and net tangible assets of S$5 million or more. Any person acquiring an interest, whether by a series of transactions over a period of time or not, either on their own or together with parties acting in concert with such person, in 30% or more of our voting shares, or, if such person holds, either on their own or together with parties acting in concert with such person, between 30% and 50% (both inclusive) of our voting shares, and such person (or parties acting in concert with such person) acquires additional voting shares representing more than 1% of our voting shares in any six-month period, must, except with the consent of the Securities Industry Council in Singapore, extend a mandatory takeover offer for the remaining voting shares in accordance with the provisions of the Singapore Code on Take-overs and Mergers. While the Singapore Code on Take-overs and Mergers seeks to ensure equality of treatment among shareholders, its provisions may discourage or prevent certain types of transactions involving an actual or threatened change of control of our company. These legal requirements may impede or delay a takeover of our company by a third-party, which could adversely affect the value of our ordinary shares. 
+
+Our actual operating results may differ significantly from our guidance. 
+
+From time to time, we release guidance regarding our future performance that represents our management's estimates as of the date of release. This guidance, which consists of forward-looking statements, is prepared by our management and is qualified by, and subject to, the assumptions and the other information contained or referred to in the release. Our guidance is not prepared with a view toward compliance with published guidelines of the American Institute of Certified Public Accountants, and neither our independent registered public accounting firm nor any other independent expert or outside party compiles or examines the guidance and, accordingly, no such person expresses any opinion or any other form of assurance with respect thereto. 
+
+Guidance is based upon a number of assumptions and estimates that, while presented with numerical specificity, is inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control and are based upon specific assumptions with respect to future business decisions, some of which will change. We generally state possible outcomes as high and low ranges which are intended to provide a sensitivity analysis as variables are changed but are not intended to represent that actual results could not fall outside of the suggested ranges. The principal reason that we release this data is to provide a basis for our management to discuss our business outlook with analysts and investors. We do not accept any responsibility for any projections or reports published by any such persons. 
+
+Guidance is necessarily speculative in nature, and it can be expected that some or all of the assumptions of the guidance furnished by us will not materialize or will vary significantly from actual results, particularly any guidance relating to the results of operations of acquired businesses or companies, such as CyOptics, as our management will, necessarily, be less familiar with their business, procedures and operations. Accordingly, our guidance is only an estimate of what management believes is realizable as of the date of release. Actual results will vary from the guidance and the variations may be material. Investors should also recognize that the reliability of any forecasted financial data diminishes the farther in the future that the data is forecast. In light of the foregoing, investors are urged to put the guidance in context and not to place undue reliance on it. 
+
+Any failure to successfully implement our operating strategy or the occurrence of any of the events or circumstances set forth in this Quarterly Report on Form 10-Q could result in the actual operating results being different than the guidance, and such differences may be adverse and material. 
+

@@ -1,0 +1,288 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements &#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. Other statements in this Form 10-Q regarding the potential future impact of the COVID-19 pandemic on the Company&#8217;s business and results of operations are forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading &#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+All references to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries. 
+
+NVIDIA, the NVIDIA logo, GeForce, DRIVE AGX Orin, GeForce NOW, GeForce RTX SUPER, NVIDIA A100, NVIDIA Broadcast, NVIDIA CloudXR, NVIDIA CUDA, NVIDIA DLSS, NVIDIA DGX A100, NVIDIA DGX SuperPOD, NVIDIA DRIVE, NVIDIA EGX, NVIDIA GRID, NVIDIA Jarvis, NVIDIA Jetson, NVIDIA Maxine, NVIDIA Merlin, NVIDIA Omniverse, NVIDIA Omniverse Machinima, NVIDIA Reflex, NVIDIA RTX, Mellanox, Quadro, Quadro RTX, Quadro View and Tegra are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 6. Selected Financial Data&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 and &#8220;Item 1A. Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+Overview 
+
+Our Company and Our Businesses 
+
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for virtual reality, HPC, and AI. 
+
+Through fiscal year 2020, our reportable segments were GPU and Tegra Processor. Starting with the first quarter of fiscal year 2021, our reportable segments have changed to "Graphics" and "Compute &#38; Networking". 
+
+Our Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro GPUs for enterprise design; GRID software for cloud-based visual and virtual computing; and automotive platforms for infotainment systems. 
+
+Our Compute &#38; Networking segment includes Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; DRIVE for autonomous vehicles; and Jetson for robotics and other embedded platforms. 
+
+All prior period comparisons presented reflect our new reportable segments. Our market platforms &#8211; Gaming, Professional Visualization, Data Center, Automotive, OEM and Other &#8211; remain unchanged. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+Pending Acquisition of Arm Limited 
+
+On September 13, 2020, we entered into a Purchase Agreement with Arm and SoftBank for us to acquire, from SoftBank, all of the allotted and issued ordinary shares of Arm in a transaction valued at $40 billion. We paid $2 billion in Signing Consideration and will pay upon closing of the acquisition $10 billion in cash and issue to SoftBank 44.3 million shares of our common stock with an aggregate value of $21.5 billion. The transaction includes a potential earn out, which is contingent on the achievement of certain financial performance targets by Arm during the fiscal year ending March 31, 2022. If the financial performance targets are achieved, Softbank can elect to receive either up to $5 billion in cash or up to 10.3 million shares of our common stock. We will issue up to $1.5 billion in restricted stock units to Arm employees after closing. The $2 billion paid upon signing was allocated between advanced consideration for the acquisition of $1.36 billion and the prepayment of intellectual property licenses from Arm of $0.17 billion and royalties of $0.47 billion. The closing of the acquisition is subject to customary closing conditions, including receipt of specified governmental and regulatory consents and approvals and expiration of any related mandatory waiting period, and Arm's implementation of the reorganization and distribution of Arm&#8217;s IoT Services Group and certain other assets and liabilities. If the Purchase Agreement is terminated under certain circumstances, we will be refunded $1.25 billion of the Signing Consideration. The $2 billion payment upon signing was allocated on a fair value basis and any refund of the Signing Consideration will use stated values in the Purchase Agreement. We believe the closing of the acquisition will likely occur in the first quarter of calendar year 2022. 
+
+COVID-19 
+
+The worldwide COVID-19 pandemic is prompting governments and businesses to take unprecedented measures including restrictions on travel, temporary business closures, quarantines and shelter-in-place orders. It has significantly impacted global economic activity and caused volatility and disruption in global financial markets. Since March 2020, most of our employees have been working remotely and we have temporarily prohibited most business travel. 
+
+Our Gaming and Data Center market platforms have benefited from stronger demand as people continue to work, learn, and play from home. In Professional Visualization, stronger demand for mobile workstations due to work from home trends was partially offset by lower demand for desktop workstations. In Automotive, customers' production volumes have largely returned to pre-COVID levels. In our supply chain, stronger demand globally has limited the availability of capacity and components. 
+
+As the COVID-19 pandemic continues, the timing and overall demand from customers and the availability of supply chain, logistical services and component supply may have a material net negative impact on our business and financial results. Refer to Part II, Item 1A of this Quarterly Report on Form 10-Q for additional information under the heading &#8220;Risk Factors&#8221;. 
+
+The Company believes its existing balances of cash, cash equivalents and marketable securities, along with commercial paper and other short-term liquidity arrangements, will be sufficient to satisfy its working capital needs, capital asset purchases, dividends, debt repayments and other liquidity requirements associated with its existing operations. 
+
+Third Quarter of Fiscal Year 2021 Summary 
+
+Three Months Ended &#160; October 25, 2020 July 26, 2020 October 27, 2019 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 4,726 $ 3,866 $ 3,014 22 % 57 % Gross margin 62.6 % 58.8 % 63.6 % 380 bps (100) bps Operating expenses $ 1,562 $ 1,624 $ 989 (4) % 58 % Income from operations $ 1,398 $ 651 $ 927 115 % 51 % Net income $ 1,336 $ 622 $ 899 115 % 49 % Net income per diluted share $ 2.12 $ 0.99 $ 1.45 114 % 46 % 
+
+Revenue for the third quarter of fiscal year 2021 was $4.73 billion, up 57% from a year earlier and up 22% sequentially. 
+
+Graphics segment revenue was $2.79 billion, up 25% from a year earlier and up 34% sequentially. 
+
+Compute &#38; Networking segment revenue was $1.94 billion, up 146% from a year ago and up 9% sequentially. 
+
+From a market-platform perspective, Gaming revenue was $2.27 billion, up 37% both from a year ago and sequentially. The increases reflect higher sales across desktop and notebook gaming GPUs, and game console SOCs. Desktop gaming sales benefited from the launch of our GeForce RTX 30 Series based on the NVIDIA Ampere architecture. 
+
+Professional Visualization revenue was $236 million, down 27% from a year earlier and up 16% sequentially. The year-on-year decline was influenced by COVID-19, with reduced demand for desktop workstations. The sequential increase reflects a sharp rebound in mobile workstations due to work from home trends. 
+
+Data Center revenue was $1.90 billion, up 162% from a year ago and up 8% sequentially. Our recent acquisition of Mellanox contributed 13% of total company revenue and approximately a third of Data Center revenue. In addition to Mellanox, the year-on-year and sequential increases were driven by the ramp of NVIDIA Ampere architecture products. 
+
+Automotive revenue was $125 million, down 23% from a year earlier and up 13% sequentially. The year-on-year decrease reflects a decline in revenue from legacy infotainment modules and autonomous driving development agreements. The sequential increase reflects higher sales of AI cockpit solutions. 
+
+OEM and Other revenue was $194 million, up 36% from a year ago and up 33% sequentially, primarily due to higher volume of entry-level laptop GPUs. 
+
+Gross margin was 62.6% in the third quarter, down 100 basis points from a year earlier and up 380 basis points sequentially. The year-on-year decline reflects charges related to the Mellanox acquisition and lower margins in Gaming, partially offset by a shift in product mix with higher Data Center and lower Automotive sales. The sequential increase was primarily driven by the absence of a non-recurring inventory step-up expense related to the Mellanox acquisition in the prior quarter. 
+
+Operating expenses were $1.56 billion, up 58% from a year earlier and down 4% sequentially. The year-on-year increase was primarily driven by compensation-related costs, the Mellanox acquisition, infrastructure costs, and employee growth. The sequential decrease was due to a reduction in acquisition-related costs. 
+
+Income from operations was $1.40 billion, up 51% from a year earlier and up 115% sequentially. Net income was $1.34 billion. Net income per diluted share was $2.12, up 46% from a year earlier and up 114% sequentially. 
+
+Cash, cash equivalents and marketable securities at the end of the third quarter were $10.14 billion, up from $9.77 billion a year earlier and down from $10.98 billion in the prior quarter. The year-on-year increase primarily reflects the issuance of the $5 billion of notes in March 2020 and cash flow generation, partially offset by acquisitions. The sequential decrease primarily reflects the $2 billion payment under the Purchase Agreement to acquire Arm. 
+
+We paid $99 million in quarterly cash dividends in the third quarter. 
+
+Market Platform Highlights 
+
+During the third quarter of fiscal year 2021, in our Gaming platform, we unveiled GeForce RTX 30 Series GPUs; announced that Fortnite will support NVIDA RTX real-time ray tracing and DLSS AI super-resolution; introduced NVIDIA Reflex; and unveiled NVIDIA Broadcast. 
+
+In our Professional Visualization platform, we brought to open beta NVIDIA Omniverse; announced NVIDIA Omniverse Machinima; and collaborated with Adobe to bring GPU-accelerated neural filters to Adobe Photoshop AI-powered tools. 
+
+In our Data Center platform, we shared news that Amazon Web Services and Oracle Cloud Infrastructure announced general availability of cloud computing instances based on the NVIDIA A100 GPU; announced the NVIDIA DGX SuperPOD Solution for Enterprise; announced that five supercomputers backed by EuroHPC will use NVIDIA&#8217;s data center accelerators or networking; introduced the new family of NVIDIA BlueField-2 DPUs (data processing units); announced a broad partnership with VMware to create an end-to-end enterprise platform for AI and a new architecture for data center, cloud and edge; unveiled NVIDIA Maxine; introduced the NVIDIA RTX A6000 and NVIDIA A40 GPUs; extended our lead on MLPerf performance benchmarks for inference; announced a partnership with GSK to integrate computing 
+
+platforms for imaging, genomics and AI into the drug and vaccine discovery process; and introduced NVIDIA A100 80GB GPU, NVIDIA DGX Station A100, and NVIDIA Mellanox InfiniBand. 
+
+In our Automotive platform, we announced with Mercedes-Benz that NVIDIA is powering the next-generation MBUX AI cockpit system; announced with Hyundai Motor Group that the Korean automaker&#8217;s entire lineup of Hyundai, Kia and Genesis models will come standard with NVIDIA DRIVE in-vehicle infotainment systems, starting in 2022; and announced that China&#8217;s Li Auto will develop its next-generation of electric vehicles using NVIDIA DRIVE AGX Orin, a software-defined platform for autonomous vehicles. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information. 
+
+Critical Accounting Policies and Estimates 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Quarterly Report on Form 10-Q. Due to the Mellanox acquisition, we added the following critical accounting policy: 
+
+Business Combinations 
+
+The application of acquisition accounting to a business acquisition requires that we identify the individual assets acquired and liabilities assumed and estimate the fair value of each. The fair value of assets acquired and liabilities assumed in a business acquisition are recognized at the acquisition date, with the purchase price exceeding the fair values being recognized as goodwill. Determining fair value of identifiable assets, particularly intangibles, liabilities acquired and contingent obligations assumed requires management to make estimates. In certain circumstances, the allocations of the purchase price are based upon preliminary estimates and assumptions and subject to revision when we receive final information, including appraisals and other analysis. Accordingly, the measurement period for such purchase price allocations will end when the information, or the facts and circumstances, becomes available, but will not exceed twelve months. We will recognize measurement-period adjustments during the period of resolution, including the effect on earnings of any amounts that would have been recorded in previous periods if the accounting had been completed at the acquisition date. 
+
+Goodwill and intangible assets often represent a significant portion of the assets acquired in a business combination. We recognize the fair value of an acquired intangible apart from goodwill whenever the intangible arises from contractual or other legal rights, or when it can be separated or divided from the acquired entity and sold, transferred, licensed, rented or exchanged, either individually or in combination with a related contract, asset or liability. Intangible assets consist primarily of technology, customer relationships, order backlog and trade name acquired in a business combination and IPR&#38;D. We generally assess the estimated fair values of acquired intangibles using a combination of valuation techniques. To estimate fair value, we are required to make certain estimates and assumptions, including future economic and market conditions, revenue growth, technology migration curve, and risk-adjusted discount rates. Our estimates require significant judgment and are based on historical data, various internal estimates, and external sources. Our assessment of IPR&#38;D also includes consideration of the risk of the projects not achieving technological feasibility. 
+
+There have been no other material changes in our critical accounting policies and estimates since our Annual Report on Form 10-K for the fiscal year ended January 26, 2020. Refer to Note 1 &#8220;Basis of Presentation&#8221; to the condensed consolidated financial statements for additional details. In addition, please refer to Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended January 26, 2020 for a more complete discussion of our critical accounting policies and estimates. 
+
+Results of Operations 
+
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. 
+
+&#160; Three Months Ended Nine Months Ended &#160; October 25, 2020 October 27, 2019 October 25, 2020 October 27, 2019 Revenue 100.0 % 100.0 % 100.0 % 100.0 % Cost of revenue 37.4 36.4 38.0 39.2 Gross profit 62.6 63.6 62.0 60.8 Operating expenses &#160; &#160; &#160; Research and development 22.2 23.6 23.8 26.8 Sales, general and administrative 10.9 9.2 12.3 10.3 Total operating expenses 33.1 32.8 36.1 37.1 Income from operations 29.5 30.8 25.9 23.7 Interest income 0.1 1.5 0.4 1.8 Interest expense (1.1) (0.4) (1.1) (0.5) Other, net (0.1) &#8212; &#8212; &#8212; Other income (expense), net 
+
+(1.1) 1.1 (0.7) 1.3 Income before income tax 28.4 31.9 25.2 25.0 Income tax expense 0.3 2.0 0.5 1.4 Net income 28.1 % 29.9 % 24.7 % 23.6 % 
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+Three Months Ended Nine Months Ended &#160; October 25, 2020 October 27, 2019 $ Change % Change October 25, 2020 October 27, 2019 $ Change % Change &#160; ($ in millions) Graphics $ 2,787 $ 2,226 $ 561 25 % $ 6,778 $ 5,555 $ 1,223 22 % Compute &#38; Networking 1,939 788 1,151 146 % 4,894 2,258 2,636 117 % Total $ 4,726 $ 3,014 $ 1,712 57 % $ 11,672 $ 7,813 $ 3,859 49 % 
+
+Graphics - Graphics segment revenue for the third quarter of fiscal year 2021 compared to the third quarter of fiscal year 2020 increased by 25% and revenue for the first nine months of fiscal year 2021 compared to the first nine months of fiscal year 2020 increased by 22%. These increases reflect growth in GeForce GPUs and game console SOCs, partially offset by lower sales of Quadro workstations. 
+
+Compute &#38; Networking - Compute &#38; Networking segment revenue for the third quarter of fiscal year 2021 compared to the third quarter of fiscal year 2020 increased by 146% and revenue for the first nine months of fiscal year 2021 compared to the first nine months of fiscal year 2020 increased by 117%. These increases reflect the addition of Mellanox acquired on April 27, 2020 and the continued ramp of NVIDIA Ampere GPU architecture systems and new products, partially offset by lower autonomous driving development agreement revenue. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States accounted for 81% and 80% of total revenue for the third quarter and first nine months of fiscal year 2021, respectively, and 92% of total revenue for the third quarter and first nine months of fiscal year 2020. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+No customer represented 10% or more of total revenue for the third quarter and first nine months of fiscal year 2021. One customer represented 10% and 11% of our total revenue for the third quarter and first nine months of fiscal year 2020, respectively, and was attributable primarily to the Graphics segment. 
+
+Gross Margin 
+
+Our overall gross margin decreased to 62.6% for the third quarter of fiscal year 2021 from 63.6% for the third quarter of fiscal year 2020, reflecting charges related to the Mellanox acquisition and lower margins in Gaming, partially offset by a shift in product mix with higher Data Center and lower Automotive sales. Our overall gross margin increased to 62.0% for the first nine months of fiscal year 2021 from 60.8% for the first nine months of fiscal year 2020, primarily driven by Mellanox products, lower Automotive sales and lower product costs within Compute &#38; Networking, partially offset by Mellanox acquisition-related costs including a non-recurring inventory step-up charge of $161 million and ongoing intangible asset amortization of $171 million. 
+
+Inventory provisions totaled $15 million and $42 million for the third quarter of fiscal years 2021 and 2020, respectively. Sales of inventory that was previously written-off or -down totaled $29 million and $78 million for the third quarter of fiscal years 2021 and 2020, respectively. As a result, the overall net effect on our gross margin was a favorable impact of 0.3% and 1.2% in the third quarter of fiscal years 2021 and 2020, respectively. 
+
+Inventory provisions totaled $96 million and $114 million for the first nine months of fiscal years 2021 and 2020, respectively. Sales of inventory that was previously written-off or -down totaled $116 million and $109 million for the first nine months of fiscal years 2021 and 2020, respectively. As a result, the overall net effect on our gross margin was a favorable impact of 0.2% in the first nine months of fiscal year 2021 and an unfavorable impact of 0.1% for the first nine months of fiscal year 2020. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+Graphics - The gross margin of our Graphics segment decreased during the third quarter of fiscal year 2021 compared to the third quarter of fiscal year 2020, primarily driven by a shift in product mix and higher product costs. The gross margin of our Graphics segment increased during the first nine months of fiscal year 2021 compared to the first nine months of fiscal year 2020, primarily driven by lower legacy infotainment sales and product mix within Quadro. 
+
+Compute &#38; Networking - The gross margin of our Compute &#38; Networking segment increased during the third quarter and first nine months of fiscal year 2021 compared to the third quarter and first nine months of fiscal year 2020, primarily driven by Mellanox products and lower product costs. 
+
+Operating Expenses 
+
+&#160; Three Months Ended Nine Months Ended &#160; October 25, 2020 October 27, 2019 $ Change % Change October 25, 2020 October 27, 2019 $ Change % Change &#160; ($ in millions) Research and development expenses $ 1,047 $ 712 $ 335 47 % $ 2,778 $ 2,091 $ 687 33 % % of net revenue 22 % 24 % 24 % 27 % Sales, general and administrative expenses 515 277 238 86 % 1,437 806 631 78 % % of net revenue 11 % 9 % 12 % 10 % Total operating expenses $ 1,562 $ 989 $ 573 58 % $ 4,215 $ 2,897 $ 1,318 45 % 
+
+Research and Development 
+
+Research and development expenses increased by 47% and 33% during the third quarter and first nine months of fiscal year 2021, compared to the third quarter and first nine months of fiscal year 2020, respectively, primarily driven by expenses related to the Mellanox acquisition. In addition to Mellanox, increases reflect employee compensation and related costs, including stock-based compensation, and infrastructure costs. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 86% and 78% during the third quarter and first nine months of fiscal year 2021, compared to the third quarter of fiscal year 2020, respectively, primarily driven by Mellanox acquisition-related expenses. In addition to Mellanox, increases reflect employee compensation and related costs, including stock-based compensation. 
+
+Other Income (Expense), Net 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $7 million and $45 million during the third quarter of fiscal years 2021 and 2020, respectively, and $50 million and $137 million during the first nine months of fiscal years 2021 and 2020, respectively. The decrease in interest income was primarily due to lower interest earned on our investments. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to our September 2016 Notes and March 2020 Notes. Interest expense was $53 million and $13 million during the third quarter of fiscal years 2021 and 2020, respectively, and $131 million and $39 million during the first nine months of fiscal years 2021 and 2020, respectively. 
+
+Income Taxes 
+
+We recognized an income tax expense of $12 million and $64 million for the third quarter and first nine months of fiscal year 2021, respectively, and $60 million and $109 million for the third quarter and first nine months of fiscal year 2020, respectively. The income tax expense as a percentage of income before income tax was 0.9% and 2.2% for the third quarter and first nine months of fiscal year 2021, respectively, and 6.3% and 5.6% for the third quarter and first nine months of fiscal year 2020, respectively. 
+
+The decrease in our effective tax rate for the third quarter and first nine months of fiscal year 2021 as compared to the same periods of fiscal year 2020 was primarily due to a decrease in the proportional amount of earnings subject to United States tax and an increase of tax benefits from stock-based compensation. 
+
+Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Liquidity and Capital Resources 
+
+&#160; October 25, 2020 January 26, 2020 &#160; (In millions) Cash and cash equivalents $ 2,251 $ 10,896 Marketable securities 7,888 1 Cash, cash equivalents and marketable securities $ 10,139 $ 10,897 
+
+&#160; Nine Months Ended October 25, 2020 October 27, 2019 &#160; (In millions) Net cash provided by operating activities $ 3,755 $ 3,296 Net cash provided by (used in) investing activities $ (16,546) $ 6,296 Net cash provided by (used in) financing activities $ 4,146 $ (609) 
+
+As of October 25, 2020, we had $10.14 billion in cash, cash equivalents and marketable securities, a decrease of $758 million from the end of fiscal year 2020. Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain maturity limits on our portfolio. 
+
+In the third quarter of fiscal year 2021, we paid $2 billion as part of the proposed acquisition of Arm, which was allocated between advanced consideration for the acquisition of $1.36 billion and the prepayment of intellectual property licenses from Arm of $0.17 billion and royalties of $0.47 billion. The cash flow allocation of the payment resulted in $1.36 billion advanced consideration included in acquisitions, net of cash acquired, $0.17 billion for the intellectual property license included in purchases related to property and equipment and intangible assets and $0.47 billion prepayment of royalties included in changes in prepaid expenses and other assets. 
+
+Cash provided by operating activities increased in the first nine months of fiscal year 2021 compared to the first nine months of fiscal year 2020, due to higher net income, partially offset by changes in working capital. Changes in working capital include increases in outstanding trade receivables, purchases of inventory, and a prepayment of royalties to Arm. 
+
+Cash used in investing activities increased in the first nine months of fiscal year 2021 compared to cash provided in the first nine months of fiscal year 2020, which primarily reflects cash used for the acquisition of Mellanox and the advanced consideration for the proposed acquisition of Arm, higher purchases of marketable securities, higher maturities of marketable securities, higher purchases of property and equipment and intangible assets, and lower sales of marketable securities. 
+
+Cash provided by financing activities increased in the first nine months of fiscal year 2021 compared to cash used in the first nine months of fiscal year 2020, which primarily reflects the debt issued in the first quarter of fiscal year 2021 and payments related to tax on restricted stock units. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of October 25, 2020, we had $10.14 billion in cash, cash equivalents and marketable securities. Our marketable securities consist of debt securities issued by the U.S. government and its agencies, highly rated corporations and financial institutions, and foreign government entities, and certificates of deposits. These marketable securities are primarily denominated in U.S. dollars. Refer to Note 7 of the Notes to Condensed Consolidated Financial Statements for additional information. We believe that we have sufficient liquidity to meet our operating requirements and capital expenditures for at least the next twelve months. 
+
+We have approximately $1.2 billion of cash, cash equivalents, and marketable securities that we have not accrued any related foreign or state taxes if we repatriate these amounts to the United States. Other than that, as a result of the Tax Cuts and Jobs Act, or TCJA, substantially all of our cash, cash equivalents and marketable securities held outside of the 
+
+United States as of October 25, 2020 are available for use in the United States without incurring additional U.S. federal income taxes. 
+
+Capital Return to Shareholders 
+
+In the first nine months of fiscal year 2021, we paid $296 million in quarterly cash dividends. Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. 
+
+As of October 25, 2020, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022. We did not repurchase any shares during the first nine months of fiscal year 2021. 
+
+Outstanding Indebtedness and Credit Facilities 
+
+In March 2020, we issued $1.50 billion of the 2.85% Notes Due 2030, $1.00 billion of the 3.50% Notes Due 2040, $2.00 billion of the 3.50% Notes Due 2050, and $500 million of the 3.70% Notes Due 2060, or collectively, the March 2020 Notes. The net proceeds from the March 2020 Notes were $4.97 billion, after deducting debt discounts and issuance costs. 
+
+In September 2016, we issued $1.00 billion of the 2.20% Notes Due 2021 and $1.00 billion of the 3.20% Notes Due 2026, or collectively, the September 2016 Notes. The net proceeds from the September 2016 Notes were $1.98 billion, after deducting debt discounts and issuance costs. 
+
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million. As of October 25, 2020, we had not borrowed any amounts under this agreement. 
+
+We have a $575 million commercial paper program to support general corporate purposes. As of October 25, 2020, we had not issued any commercial paper. 
+
+Off-Balance Sheet Arrangements 
+
+As of October 25, 2020, we had no material off-balance sheet arrangements as defined by applicable SEC regulations. 
+
+Contractual Obligations 
+
+There are $155 million of long-term tax liabilities related to tax basis differences in Mellanox and unrecognized tax benefits of $310 million, which includes related interest and penalties of $46 million recorded in non-current income tax payable as of October 25, 2020. We are unable to reasonably estimate the timing of any potential tax liability, interest payments, or penalties in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. We are currently under examination by the Internal Revenue Service for our fiscal years 2018 and 2019. Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Other than the contractual obligations described above, there were no material changes outside the ordinary course of business in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020. Refer to Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 for a description of our contractual obligations. For a description of our long-term debt, purchase obligations, and operating lease obligations, refer to Note 12, Note 13, and Note 3 of the Notes to Condensed Consolidated Financial Statements, respectively. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Refer to Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 and Item 1A of our Quarterly Reports on Form 10-Q for the fiscal quarters ended April 26, 2020 and July 26, 2020. 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 and Item 1A of our Quarterly Reports on Form 10-Q for the fiscal quarters ended April 26, 2020 and July 26, 2020. Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+
+We may not be able to realize the potential financial or strategic benefits of business acquisitions or strategic investments, including the Mellanox and Arm acquisitions, and we may not be able to successfully integrate acquisition targets, which could hurt our ability to grow our business, develop new products or sell our products. 
+
+We have in the past acquired and invested in, and may continue to acquire and invest in, other businesses that offer products, services and technologies that we believe will help expand or enhance our existing products, strategic objectives and business. We completed our acquisition of Mellanox for approximately $7 billion on April 27, 2020. In September 2020, we announced our agreement to acquire all of the allotted and issued ordinary shares of Arm in a transaction valued at $40 billion. The Mellanox acquisition, the Arm acquisition and other past or future acquisitions or investments involve significant challenges and risks, and could impair our ability to grow our business, develop new products or sell our products, and ultimately could have a negative impact on our growth or our financial results. Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives. Additional risks related to the Mellanox acquisition, the Arm acquisition and other acquisitions or strategic investments include, but are not limited to: 
+
+&#8226; difficulty in combining the technology, products, operations or workforce of the acquired business with our business; 
+
+&#8226; diversion of capital and other resources, including management&#8217;s attention; 
+
+&#8226; assumption of liabilities and incurring amortization expenses, impairment charges to goodwill or write-downs of acquired assets; 
+
+&#8226; integrating financial forecasting and controls, procedures and reporting cycles; 
+
+&#8226; coordinating and integrating operations in countries in which we have not previously operated; 
+
+&#8226; acquiring business challenges and risks, including, but not limited to, disputes with management and integrating international operations and joint ventures; 
+
+&#8226; difficulty in realizing a satisfactory return, if at all; 
+
+&#8226; difficulty in obtaining or inability to obtain governmental and regulatory consents and approvals, other approvals or financing; 
+
+&#8226; the potential impact on our stock price and financial results if we are unable to obtain regulatory approval for an acquisition, are required to pay reverse breakup fees or are otherwise unable to close an acquisition; 
+
+&#8226; failure and costs associated with the failure to consummate a proposed acquisition or other strategic investment; 
+
+&#8226; legal proceedings initiated as a result of an acquisition or investment; 
+
+&#8226; the potential for our acquisitions to result in dilutive issuances of our equity securities; 
+
+&#8226; the potential variability of the amount and form of any performance-based consideration; 
+
+&#8226; uncertainties and time needed to realize the benefits of an acquisition or strategic investment, if at all; 
+
+&#8226; negative changes in general economic conditions in the regions or the industries in which we or our target operate; 
+
+&#8226; the need to determine an alternative strategy if an acquisition does not meet our expectations; 
+
+&#8226; potential failure of our due diligence processes to identify significant issues with the acquired assets or company; and 
+
+&#8226; impairment of relationships with, or loss of our or our target&#8217;s, employees, vendors and customers, as a result of our acquisition or investment. 
+
+The COVID-19 pandemic continues to impact our business and could materially adversely affect our financial condition and results of operations. 
+
+COVID-19 has spread worldwide, resulting in shutdowns of manufacturing and commerce. COVID-19 has resulted in government authorities implementing numerous measures to try to contain the disease, such as travel bans and restrictions, quarantines, shelter-in-place orders and shutdowns. These measures have impacted, and may further impact, our workforce and operations, the operations of our customers and our partners, and those of our respective vendors and suppliers (including our subcontractors and third-party contract manufacturers). Our critical business operations, including our headquarters, most of our finished goods inventory and many of our key suppliers, are located in regions which have been impacted by COVID-19. Our customers and suppliers worldwide have also been affected and may continue to be affected by COVID-19 related restrictions and closures. 
+
+The COVID-19 pandemic has increased economic and demand uncertainty. In the third quarter of fiscal year 2021, our Gaming and Data Center market platforms benefited from stronger demand as people continue to work, learn, and play from home. Our Professional Visualization market platform experienced stronger demand for mobile workstations due to work from home trends, but was negatively affected by lower corporate demand for desktop workstations. Industry production volume returned to pre-COVID levels in our Auto market platform, but these production volumes may be further impacted by COVID-19. In some regions, markets, or industries, where COVID-19 has driven an increase in sales for our products, the demand may not be sustainable if conditions change. Additionally, stronger demand globally has limited the availability of capacity and components in our supply chain, which could cause us to order an excess amount if demand changes, pay higher prices, or limit our ability to obtain supply at necessary levels or at all. 
+
+The manufacture of product components, the final assembly of our products and other critical operations are concentrated in certain geographic locations, including Taiwan, China, Hong Kong and Korea. Additionally, a significant portion of our finished goods product distribution occurs through Hong Kong. Each of these countries has been affected by the pandemic and has taken measures to try to contain it. There is considerable uncertainty regarding the impact of such measures and potential future measures, including restrictions on manufacturing facilities, on our support operations or workforce, or on our customers, partners, vendors and suppliers. Such measures, as well as restrictions or disruptions of transportation, such as reduced availability or increased cost of air transport, port closures and increased border controls or closures, could limit our capacity to meet customer demand and have a material adverse effect on our financial condition and results of operations. 
+
+The spread of COVID-19 has caused us to modify our business practices (including employee travel, mandatory work-from-home policies and cancellation of physical participation in meetings, events and conferences), and we may take further actions as required by government authorities or that we determine are in the best interests of our employees, customers, partners and suppliers. Most of our employees in the third quarter continued to work remotely. There is no certainty that such measures will be sufficient to mitigate the risks posed by the disease, and our ability to perform critical functions could be harmed. 
+
+In addition, while the extent and duration of the COVID-19 pandemic on the global economy and our business in particular is difficult to assess or predict, the pandemic has resulted in, and may continue to result in, significant disruption of global financial markets, which may reduce our ability to access capital or our customers&#8217; ability to pay us for past or future purchases, which could negatively affect our liquidity. A recession or financial market correction resulting from the lack of containment and spread of COVID-19 could impact overall technology spending, adversely affecting demand for our products, our business and the value of our common stock. 
+
+The ultimate impact of the COVID-19 pandemic or a similar health epidemic is highly uncertain and subject to change. The extent of the impact of the COVID-19 pandemic on our operational and financial performance, including our ability to execute our business strategies and initiatives in the expected time frame, will depend on future developments, including, but not limited to, the duration and continued spread of the pandemic, its severity, the actions to contain the 
+
+disease or treat its impact, further related restrictions on travel, and the duration, timing and severity of the impact on customer spending, including any recession resulting from the pandemic, all of which are uncertain and cannot be predicted. An extended period of global supply chain and economic disruption as a result of the COVID-19 pandemic could have a material negative impact on our business, results of operations, access to sources of liquidity and financial condition, though the full extent and duration is uncertain. 
+
+Business disruptions could harm our business, lead to a decline in revenues and increase our costs. 
+
+Our worldwide operations could be disrupted by earthquakes, telecommunications failures, power or water shortages, outages at cloud service providers, tsunamis, floods, hurricanes, typhoons, fires, extreme weather conditions, cyber-attacks, terrorist attacks, medical epidemics or pandemics (including, but not limited to, COVID-19) and other natural or man-made disasters, catastrophic events or climate change. The occurrence of any of these disruptions could harm our business and result in significant losses, a decline in revenue and an increase in our costs and expenses. Any of these business disruptions could require substantial expenditures and recovery time in order to fully resume operations. Such risks are discussed further in the risk factor &#8220;The COVID-19 pandemic continues to impact our business and could materially adversely affect our financial condition and results of operations.&#8221; Our corporate headquarters, and a portion of our research and development activities, are located in California, and other critical business operations, finished goods inventory, and some of our suppliers are located in Asia, near major earthquake faults known for seismic activity. In addition, a large portion of our current data center capacity is located in California, making our operations vulnerable to natural disasters or other business disruptions occurring in these geographical areas. The manufacture of product components, the final assembly of our products and other critical operations are concentrated in certain geographic locations, including Taiwan, China, Hong Kong, and Korea. Additionally, a significant portion of our finished goods product distribution occurs through Hong Kong. Geopolitical change or changes in government regulations and policies in the United States or abroad may result in changing regulatory requirements, trade policies, import duties and economic disruptions that could impact our operating strategies, product demand, access to global markets, hiring, and profitability. In particular, revisions to laws or regulations or their interpretation and enforcement could result in increased taxation, trade sanctions, the imposition of import duties or tariffs, restrictions and controls on imports or exports, or other retaliatory actions, which could have an adverse effect on our business plans. For example, regulations to implement the Export Control Reform Act of 2018 could have an adverse effect on our business plans. Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel. In addition, geopolitical and domestic political developments, such as existing and potential trade wars, political or social unrest, elections and post-election developments, and other events beyond our control, can increase levels of political and economic unpredictability globally and increase the volatility of global financial markets. Political instability or adverse political developments in or around any of the major countries in which we do business would also likely harm our business, financial condition and results of operations. Our operations could be harmed if manufacturing, logistics or other operations in these locations are disrupted for any reason, including natural disasters, high heat events or water shortages, information technology system failures, military actions or economic, business, labor, environmental, public health, regulatory or political issues. The ultimate impact on us, our third-party foundries and other suppliers and our general infrastructure of being located near major earthquake faults and being consolidated in certain geographical areas is unknown. In the event a major earthquake or other disaster or catastrophic event affects us or the third-party systems on which we rely, our business could be harmed as a result of declines in revenue, increases in expenses, substantial expenditures and time spent to fully resume operations. All of these risks and conditions could materially adversely affect our future sales and operating results. 
+

@@ -1,0 +1,1342 @@
+ ITEM 2. Management&#8217;s discussion and analysis of financial condition and results of operations 
+
+The following should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. All dollar amounts in the tables in this discussion are stated in millions of U.S. dollars, except per-share amounts. 
+
+Overview 
+
+We design and make semiconductors that we sell to electronics designers and manufacturers all over the world. We began operations in 1930. We are incorporated in Delaware, headquartered in Dallas, Texas, and have design, manufacturing or sales operations in more than 35 countries. We have three segments: Analog, Embedded Processing and Other. We expect Analog and Embedded Processing to be our primary growth engines in the years ahead, and we therefore focus our resources on these segments. 
+
+Effective January 1, 2013, we transitioned our segment reporting to align with our strategic focus and new organizational structure. The Wireless segment has been eliminated, as the company has announced that it is winding down investments in Wireless products for the smartphone and consumer tablet markets. Financial results for these products are included in Other. Financial results for Wireless products that address embedded applications, a strategic focus for the company, are reported in the Embedded Processing segment. We also reclassified certain product lines, primarily radio frequency identification (RFID) products, that were formerly included in Other and are now included in Embedded Processing. See Note 11 to the financial statements for additional information. 
+
+We were the world's fourth largest semiconductor company in 2012 as measured by revenue, according to industry data from an external source. 
+
+Product information 
+
+Semiconductors are electronic components that serve as the building blocks inside modern electronic systems and equipment. Semiconductors come in two basic forms: individual transistors and integrated circuits (generally known as &#8220;chips&#8221;) that combine multiple transistors on a single piece of material to form a complete electronic circuit. Our products, more than 100,000 orderable parts, are integrated circuits that are used to accomplish many different things, such as converting and amplifying signals, interfacing with other devices, managing and distributing power, processing data, canceling noise and improving signal resolution. This broad portfolio includes products that are integral to almost all electronic equipment. 
+
+We sell catalog and, to a lesser extent, custom semiconductor products. Catalog products are designed for use by many customers and/or many applications and are sold through both distribution and direct channels. The majority of our catalog products are proprietary, but some are commodity products. The life cycles of catalog products generally span multiple years, with some products continuing to sell for decades after their initial release. Custom products are designed for a specific customer for a specific application, are sold only to that customer and are typically sold directly to the customer. The life cycles of custom products are generally determined by end-equipment upgrade cycles and can be as short as 12 to 24 months. 
+
+Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. Additional information regarding each segment's products follows. 
+
+Analog 
+
+Analog semiconductors change real-world signals - such as sound, temperature, pressure or images - by conditioning them, amplifying them and often converting them to a stream of digital data that can be processed by other semiconductors, such as digital signal processors (DSPs). Analog semiconductors are also used to manage power in every electronic device, whether plugged into a wall or running off a battery. We estimate that we sell our Analog products to more than 100,000 customers. These sales generated about 55 percent of our revenue in 2012. According to external sources, the worldwide market for analog semiconductors was about $39 billion in 2012. Our Analog segment's revenue in 2012 was about $7.0 billion, or about 18 percent of this fragmented market, the leading position. We believe that we are well positioned to increase our market share over time. 
+
+Our Analog segment includes the following major product lines: High Volume Analog &#38; Logic (HVAL), Power Management (Power), High Performance Analog (HPA) and Silicon Valley Analog (SVA). 
+
+HVAL products: These include both high-volume analog and logic products. High-volume analog includes integrated analog products for specific applications, including custom products. End markets for high-volume analog products include communications, automotive, computing and many consumer electronics products. Logic includes some commodity products marketed to many different customers for many different applications. 
+
+Power products: These include both catalog and application-specific products that help customers manage power in any type of electronic system. We design and manufacture power management semiconductors for both portable devices (battery-powered devices, such as handheld consumer electronics, laptop computers and cordless power tools) and line-powered systems (products that require an external electrical source, such as computers, digital TVs, wireless basestations and high-voltage industrial equipment). 
+
+HPA products: These include catalog analog products, such as amplifiers, data converters and interface semiconductors, that we market to many different customers who use them in manufacturing a wide range of products sold in many end markets, including the industrial, communications, computing and consumer electronics markets. HPA products generally have long life cycles, often more than 10 years. 
+
+SVA products: These include power management, data converter, interface and operational amplifier catalog analog products. This portfolio of thousands of products is marketed to many different customers who use them in manufacturing a wide range of products sold in many end markets. SVA products generally have long life cycles, often more than 10 years. 
+
+Embedded Processing 
+
+Embedded Processing products are the &#8220;brains&#8221; of many electronic devices. Compared with general purpose microprocessors that perform many different tasks, embedded processors are designed to handle specific tasks and can be optimized for various combinations of performance, power and cost, depending on the application. The devices vary from simple, low-cost products used in electric toothbrushes to highly specialized, complex devices used in wireless basestation communications infrastructure equipment. Our Embedded Processing products are used in many end markets, particularly industrial, automotive and communications infrastructure. 
+
+An important characteristic of our Embedded Processing products is that our customers often invest their own research and development (R&#38;D) to write software that operates on our products. This investment tends to increase the length of our customer relationships because many customers prefer to re-use software from one product generation to the next. 
+
+Sales of Embedded Processing products generated about 18 percent of our revenue in 2012. According to external sources, the worldwide market for embedded processors was about $17 billion in 2012. Our Embedded Processing segment's revenue in 2012 was about $2.3 billion. This was the number two position and represented about 13 percent of this fragmented market. We believe we are well positioned to increase our market share over time. 
+
+Our Embedded Processing segment includes the following major product lines: Processors, Microcontrollers and Connectivity. 
+
+Processor products: These include DSPs and applications processors. DSPs perform mathematical computations almost instantaneously to process or improve digital data. Applications processors like our embedded OMAP TM and Sitara TM &#32;products run an industry-standard operating system and perform multiple complex tasks, often communicating with other systems. 
+
+Microcontroller products: Microcontrollers are self-contained systems with a processor core, memory and peripherals that are designed to control a set of specific tasks for electronic equipment. Microcontrollers tend to have minimal requirements for memory and program length, with no operating system and low software complexity. Analog components that control or interface with sensors and other systems are often integrated into microcontrollers. Microcontroller products also include radio frequency identification (RFID) products, which are frequently used in automotive applications and sold along with our microcontroller products. 
+
+Connectivity products: Connectivity products enable electronic devices to seamlessly connect and transfer data, and the requirements for speed, data capability, distance and power vary depending on the application. Our Connectivity products support many wireless technologies to meet these requirements, including low-power wireless network standards like Zigbee &#174; &#32;and other technologies like Bluetooth &#174; , WiFi, GPS and Near Field Communications. Our Connectivity products are usually designed into customer devices alongside our processor and microcontroller products, enabling data to be collected, transmitted and acted upon. 
+
+&#32; Other 
+
+Other includes revenue from our smaller product lines, such as DLP &#174; (primarily used in projectors to create high-definition images), custom semiconductors known as application-specific integrated circuits (ASICs) and calculators. It includes royalties received for our patented technology that we license to other electronics companies and revenue from transitional supply agreements related to acquisitions and divestitures. We also include revenue, about $1.2 billion in 2012, from our baseband products and from our OMAP applications processors and connectivity products sold into smartphone and consumer tablet applications, all of which are product lines that we have previously announced we are exiting. We expect this revenue to substantially cease by the end of 2013. Other generated about $3.6 billion in 2012. 
+
+We also include in Other restructuring charges and certain acquisition-related charges that are not used in evaluating results of and allocating resources to our Analog and Embedded Processing segments. These acquisition-related charges include certain fair-value adjustments, restructuring charges, transaction expenses, acquisition-related retention bonuses and amortization of intangible assets. Other also includes certain corporate-level items, such as litigation and environmental costs, insurance proceeds, and assets and liabilities associated with our centralized operations, such as our worldwide manufacturing, facilities and procurement operations. 
+
+Inventory 
+
+Our inventory practices differ by product, but we generally maintain inventory levels that are consistent with our expectations of customer demand. Because of the longer product life cycles of catalog products and their inherently lower risk of obsolescence, we generally carry more inventory of those products than custom products. Additionally, we sometimes maintain catalog-product inventory in unfinished wafer form, as well as higher finished-goods inventory of low-volume products, allowing greater flexibility in periods of high demand. We also have consignment inventory programs in place for our largest customers and some distributors. 
+
+Manufacturing 
+
+Semiconductor manufacturing begins with a sequence of photo-lithographic and chemical processing steps that fabricate a number of semiconductor devices on a thin silicon wafer. Each device on the wafer is tested, the wafer is cut into individual units and each unit is assembled into a package that then is usually retested. The entire process takes place in highly specialized facilities and requires an average of 12 weeks, with most products completing within 8 to 16 weeks. 
+
+The cost and lifespan of the equipment and processes we use to manufacture semiconductors vary by technology. Our Analog products and most of our Embedded Processing products can be manufactured using mature and stable, and therefore less expensive, equipment than is needed for manufacturing advanced CMOS logic products, such as our OMAP products. 
+
+We own and operate semiconductor manufacturing facilities in North America, Asia, Japan and Europe. These include both wafer fabrication and assembly/test facilities. Our facilities require substantial investment to construct and are largely fixed-cost assets once in operation. Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. In general, these fixed costs do not decline with reductions in customer demand or utilization of capacity, potentially hurting our profit margins. Conversely, as product demand rises and factory utilization increases, the fixed costs are spread over increased output, potentially benefiting our profit margins. 
+
+We expect to maintain sufficient internal wafer fabrication capacity to meet the vast majority of our production needs. To supplement our internal wafer fabrication capacity and maximize our responsiveness to customer demand and return on capital, our wafer manufacturing strategy utilizes the capacity of outside suppliers, commonly known as foundries, and subcontractors. In 2012, we sourced about 20 percent of our total wafers and about 75 percent of our advanced CMOS logic needs from external foundries. 
+
+In 2011, we initiated closure of an older wafer fabrication facility in Hiji, Japan, and another in Houston, Texas. We expect to complete these plant closures in 2013. 
+
+Product cycle 
+
+The global semiconductor market is characterized by constant, though generally incremental, advances in product designs and manufacturing processes. Semiconductor prices and manufacturing costs tend to decline over time as manufacturing processes and product life cycles mature. 
+
+Market cycle 
+
+The &#8220;semiconductor cycle&#8221; is an important concept that refers to the ebb and flow of supply and demand. The semiconductor market historically has been characterized by periods of tight supply caused by strengthening demand and/or insufficient manufacturing capacity, followed by periods of surplus inventory caused by weakening demand and/or excess manufacturing capacity. These are typically referred to as upturns and downturns in the semiconductor cycle. The semiconductor cycle is affected by the significant time and money required to build and maintain semiconductor manufacturing facilities. 
+
+Seasonality 
+
+Our revenue and operating results are subject to some seasonal variation. Our semiconductor sales generally are seasonally weaker in the first and fourth quarters and stronger in the second and third quarters, as manufacturers prepare for the major holiday selling seasons. Calculator revenue is tied to the U.S. back-to-school season and is therefore at its highest in the second and third quarters. 
+
+Tax considerations 
+
+We operate in a number of tax jurisdictions and are subject to several types of taxes including those that are based on income, capital, property and payroll, as well as sales and other transactional taxes. The timing of the final determination of our tax liabilities varies by jurisdiction and taxing authority. As a result, during any particular reporting period we may reflect in our financial statements one or more tax refunds or assessments, or changes to tax liabilities, involving one or more taxing authorities. 
+
+First-Quarter 2013 results 
+
+Our first-quarter revenue was $2.89 billion, net income was $362 million and earnings per share (EPS) were 32 cents. Customers continued to operate in a real-time mode, maintaining minimal component inventory and ordering parts as they were needed. Our short product lead times, well-positioned inventory and ready manufacturing capacity allow us to respond rapidly to changes in demand. 
+
+TI is now firmly rooted in Analog and Embedded Processing, and in the first quarter these segments contributed 77 percent of our revenue - a full five points more than a year ago. Our business model generates strong cash flow from operations. Free cash flow for the trailing 12 months was almost $3 billion, up 16 percent compared with a year ago. Further, free cash flow comprised 23 percent of revenue, which is consistent with our target of 20-25 percent. Free cash flow is well in excess of net income, and we expect it to remain so for some time as non-cash expenses are included in net income. (Free cash flow is a non-GAAP financial measure. For a reconciliation to GAAP and an explanation of the purpose for providing this non-GAAP measure, see the Non-GAAP financial information section after the Liquidity and capital resources section.) 
+
+&#160; 
+
+In the quarter, we announced a 33 percent increase in our dividend to $1.12 per share annualized, and we added another $5 billion to our stock repurchase authorization. Both increases reflect our confidence in the long-term sustainability of our Analog and Embedded Processing business model. We returned $911 million to shareholders through dividends and share repurchases in the first quarter. For the trailing 12 months, the return to shareholders totaled $3 billion, or 107 percent of free cash flow, consistent with our intention to return all our free cash flow to shareholders except what is needed to repay debt. 
+
+Our balance sheet remains strong, with $3.9 billion of cash and short-term investments on hand at the end of the quarter, 84 percent of which is owned by the company's U.S. entities. Inventory was 101 days, down from 105 a year ago. 
+
+Consolidated Statements of Income 
+
+(Millions of dollars, except share and per-share amounts) 
+
+&#160; 
+
+For Three Months Ended 
+
+&#160; 
+
+March 31, 2013 
+
+&#160; 
+
+March 31, 2012 
+
+&#160; 
+
+Dec. 31, 
+
+Revenue 
+
+$ 
+
+2,885 
+
+&#160; 
+
+$ 
+
+3,121 
+
+&#160; 
+
+$ 
+
+2,979 
+
+Cost of revenue 
+
+1,511 
+
+&#160; 
+
+1,590 
+
+&#160; 
+
+1,534 
+
+Gross profit 
+
+1,374 
+
+&#160; 
+
+1,531 
+
+&#160; 
+
+1,445 
+
+Research and development (R&#38;D) 
+
+&#160; 
+
+&#160; 
+
+Selling, general and administrative (SG&#38;A) 
+
+&#160; 
+
+&#160; 
+
+Acquisition charges 
+
+&#160; 
+
+&#160; 
+
+Restructuring charges/other 
+
+&#160; 
+
+&#160; 
+
+Operating profit 
+
+&#160; 
+
+&#160; 
+
+Other income (expense), net (OI&#38;E) 
+
+&#160; 
+
+(14 
+
+) 
+
+&#160; 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+Income before income taxes 
+
+&#160; 
+
+&#160; 
+
+Provision (benefit) for income taxes 
+
+&#160; 
+
+&#160; 
+
+(109 
+
+) 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Earnings per common share: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+$ 
+
+.32 
+
+&#160; 
+
+$ 
+
+.23 
+
+&#160; 
+
+$ 
+
+.23 
+
+Diluted 
+
+$ 
+
+.32 
+
+&#160; 
+
+$ 
+
+.22 
+
+&#160; 
+
+$ 
+
+.23 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Average shares outstanding (millions): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+1,107 
+
+&#160; 
+
+1,143 
+
+&#160; 
+
+1,113 
+
+Diluted 
+
+1,123 
+
+&#160; 
+
+1,165 
+
+&#160; 
+
+1,124 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash dividends declared per share of common stock 
+
+$ 
+
+.21 
+
+&#160; 
+
+$ 
+
+.17 
+
+&#160; 
+
+$ 
+
+.21 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Percentage of revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross profit 
+
+47.6 
+
+% 
+
+&#160; 
+
+49.0 
+
+% 
+
+&#160; 
+
+48.5 
+
+% 
+
+R&#38;D 
+
+14.5 
+
+% 
+
+&#160; 
+
+16.3 
+
+% 
+
+&#160; 
+
+14.3 
+
+% 
+
+SG&#38;A 
+
+15.9 
+
+% 
+
+&#160; 
+
+14.8 
+
+% 
+
+&#160; 
+
+14.4 
+
+% 
+
+Operating profit 
+
+13.7 
+
+% 
+
+&#160; 
+
+12.7 
+
+% 
+
+&#160; 
+
+4.7 
+
+% 
+
+As required by accounting rule ASC 260, net income allocated to unvested restricted stock units (RSUs), on which we pay dividend equivalents, is excluded from the calculation of EPS. The amount excluded is $7 million, $4 million and $4 million for the quarters ending March 31, 2013, March 31, 2012, and December 31, 2012, respectively. 
+
+The information presented in this Management's discussion and analysis of financial condition and results of operations (MD&#38;A) is based on our revised segment structure as of January 1, 2013. Segment-level information for the periods presented has been recast to reflect the changes in our reportable segments. 
+
+Our exit from legacy wireless products and the elimination of the Wireless segment resulted in changes to our corporate-level expense allocations, which negatively affected segment-level profitability in the first quarter. We expect a similar effect in future quarters. We allocate our corporate-level expenses, which are largely fixed, among our product lines in proportion to the operating expenses directly generated by them. Legacy wireless products generated significantly lower operating expenses in the first quarter than they have in prior quarters because we are no longer investing in them. The corporate-level expenses allocated to those products were, therefore, proportionately lower, and the corporate-level expenses allocated to the remaining product lines were proportionately higher. This allocation change affects the profitability of all three of our segments, but does not impact operating expense or profitability trends at the consolidated level. 
+
+Throughout the following discussion of our results of operations, unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by fluctuations in shipment volumes. New products tend not to have a significant impact because our revenue is derived from such a large number of products. From time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which we refer to as changes in the "mix" of products shipped. 
+
+Details of financial results &#32; 
+
+Revenue for the first quarter of 2013 was $2.89 billion, a decrease of $236 million, or 8 percent, from the year-ago quarter and $94 million, or 3 percent, from the prior quarter, primarily due to lower revenue from our legacy wireless products. 
+
+Gross profit for the first quarter of 2013 was $1.37 billion, or 47.6 percent of revenue, a decrease of $157 million, or 10 percent, from the year-ago quarter due to lower revenue, including the nonrecurrence of about $65 million of business interruption insurance proceeds related to the 2011 Japan earthquake. Compared with the prior quarter, gross profit decreased $71 million, or 5 percent, primarily due to lower revenue. 
+
+&#160; 
+
+Operating expenses for the first quarter of 2013 were $419 million for R&#38;D and $459 million for SG&#38;A. R&#38;D expense decreased $90 million, or 18 percent, from the year-ago quarter, reflecting the wind-down of our legacy wireless product lines. Compared with the prior quarter, R&#38;D expense was about even as lower product development costs from legacy wireless products were mostly offset by higher compensation-related costs. SG&#38;A expense was about even compared with the year-ago quarter and increased $29 million, or 7 percent, from the prior quarter due to higher compensation-related costs. 
+
+&#160; 
+
+In the first quarter of 2013, we incurred $86 million of Acquisition charges associated with our acquisition of National Semiconductor Corporation, compared with $153 million in the year-ago quarter and $88 million in the prior quarter. The decrease from the year-ago quarter is primarily due to the nonrecurrence of integration-related compensation expenses. The quarterly Acquisition charges are primarily from the ongoing amortization of intangible assets. 
+
+For the first quarter of 2013, Restructuring charges/other were $15 million compared with $10 million for the year-ago quarter and $363 million in the prior quarter. In the fourth quarter of 2011, we initiated actions to close certain manufacturing facilities in Houston, Texas and Hiji Japan, and have incurred related restructuring charges in each quarter since then. We expect that action to be completed in 2013. In the fourth quarter of 2012, we initiated actions to restructure our former Wireless business. We expect about 1,700 jobs to be eliminated and about $450 million in annualized cost savings to be realized by the time the Wireless action is completed in 2013. Restructuring charges for the first quarter of 2013 relate about equally to the Wireless action and the Houston and Hiji facility closures and consisted of about $8 million of accelerated depreciation of the facilities' assets, $4 million of severance and benefit costs and about $3 million of other exit costs. All the restructuring charges are included in Other. See Note 3 to the financial statements for additional information. 
+
+For the first quarter of 2013, our operating profit was $395 million, or 13.7 percent of revenue, about even with the year-ago quarter, as lower revenue and associated gross profit was offset by lower operating expenses and lower acquisition charges. Compared with the prior quarter, operating profit increased $256 million due to lower restructuring charges. 
+
+&#160; 
+
+OI&#38;E for the first quarter of 2013 was income of $2 million compared with an expense in the year-ago quarter of $14 million. The year-ago quarter included a charge associated with a divested business. Income from the prior quarter of $39 million decreased due to lower tax-related interest income. 
+
+Interest and debt expense was $23 million, about even with the year-ago and prior quarters. See Note 8 to the financial statements for details regarding debt outstanding. 
+
+Quarterly income taxes are calculated using the estimated annual effective tax rate. As of March 31, 2013, our estimated annual effective tax rate is about 22 percent. Our annual effective tax rate benefits from the lower tax rates applicable to our operations in many of the jurisdictions in which we operate and from U.S. tax benefits. These benefits are generally statutory in nature, without expiration and available to companies that operate in those taxing jurisdictions. See Note 4 to the financial statements for additional information. 
+
+For the first quarter of 2013, our tax provision was $12 million compared with $97 million in the year-ago quarter. The decrease was primarily due to a $65 million discrete tax benefit in the first quarter of 2013 from the reinstatement of the federal research tax credit that was retroactive to the beginning of 2012. The tax provision in the prior quarter was a $109 million net tax benefit, which included a $147 million discrete tax benefit that primarily consisted of additional U.S. tax benefits for manufacturing related to the years 2000 through 2006. The increase in the tax provision from the prior quarter was due to lower discrete tax benefits in the first quarter of 2013 and, to a lesser extent, an increase in income before income taxes. 
+
+In the first quarter of 2013, our net income was $362 million compared with net income of $265 million for the year-ago quarter and $264 million for the prior quarter. EPS was $0.32 compared with $0.22 for the year-ago quarter and $0.23 for the prior quarter. 
+
+Segment results 
+
+Analog &#160; &#160; 
+
+&#160; 
+
+&#160; 
+
+1Q13 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1Q12 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+4Q12 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+$ 
+
+1,648 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+1,686 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,669 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Operating profit 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Operating profit % of revenue 
+
+&#160; 
+
+&#160; 
+
+18.2 
+
+% 
+
+&#160; 
+
+&#160; 
+
+19.8 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+25.1 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Analog revenue decreased 2 percent from the year-ago quarter due to lower revenue from SVA, and to a lesser extent, HVAL and HPA. Lower revenue from SVA was primarily the result of ongoing conversion to a consignment inventory program with our distributors, and lower revenue from HVAL was primarily due to a less favorable mix of products shipped. Partially offsetting these decreases was higher revenue from Power. Compared with the prior quarter, revenue was about even as lower revenue from HVAL and, to a lesser extent, Power was offset by higher revenue from SVA and HPA. SVA revenue was higher due to a more favorable mix of products shipped. Compared with the year-ago quarter, operating profit decreased due to lower revenue and associated gross profit and, to a lesser extent, higher operating expenses. Operating profit decreased from the prior quarter due to higher operating expenses and, to a lesser extent, lower gross profit resulting from higher manufacturing-related costs. 
+
+Embedded Processing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1Q13 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1Q12 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+4Q12 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Operating profit 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Operating profit % of revenue 
+
+&#160; 
+
+&#160; 
+
+1.3 
+
+% 
+
+&#160; 
+
+&#160; 
+
+6.5 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2.0 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Embedded Processing revenue increased 4 percent compared with the year-ago quarter due to higher revenue from Microcontroller and, to a lesser extent, Connectivity products. Revenue from Processor products was about even. Compared with the prior quarter, Embedded Processing revenue increased 3 percent due to higher revenue from Microcontrollers. This increase was partially offset by lower revenue from Processors due to a less favorable mix of products shipped. Revenue from Connectivity products for the first quarter of 2013 was about even. Operating profit decreased from the year-ago quarter due to lower gross profit resulting primarily from higher manufacturing-related costs and, to a lesser extent, higher operating expenses. Compared with the prior quarter, operating profit decreased due to higher operating expenses, partially offset by higher gross profit. 
+
+Other &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1Q13 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1Q12 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+4Q12 
+
+&#160; 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Operating profit (loss) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+(291 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+n/a 
+
+&#160; 
+
+Operating profit (loss) % of revenue 
+
+&#160; 
+
+&#160; 
+
+13.1 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3.0 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(38.1 
+
+) 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring charges/other* 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Acquisition charges* 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other acquisition-related charges - in COR* 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+*Included in operating profit (loss) 
+
+Other revenue decreased 24 percent from the year-ago quarter, primarily due to lower revenue from legacy wireless products, and to a lesser extent, the nonrecurrence of about $65 million of business interruption insurance proceeds related to the 2011 Japan earthquake and lower revenue from custom ASIC products. Also contributing to the decrease was lower revenue from calculators. Partially offsetting was increased revenue from DLP products due to a more favorable mix of products shipped and, to a lesser extent, increased royalties. Compared with the prior quarter, revenue decreased 12 percent due to lower revenue from legacy wireless products and, to a lesser extent, lower revenue from custom ASIC products and royalties. Partially offsetting these decreases was higher revenue from calculators. DLP was about even. 
+
+Operating profit for the first quarter of 2013 increased from the year-ago quarter due to lower operating expenses and, to a lesser extent, lower acquisition charges. These were partially offset by lower revenue and associated gross profit. Compared with the prior quarter, operating profit increased due to lower restructuring charges. 
+
+Financial Condition 
+
+At the end of the first quarter of 2013, total cash (Cash and cash equivalents plus Short-term investments) was $3.86 billion, with 84 percent owned by our U.S. entities. 
+
+Accounts receivable were $1.33 billion at the end of the first quarter. This was an increase of $103 million from the end of 2012 as a result of higher revenue at the end of the first quarter compared with the prior quarter. Days sales outstanding were 42 at the end of the first quarter compared with 37 at the end of 2012. 
+
+Inventory was $1.70 billion at the end of the first quarter. This was a decrease of $57 million from the end of 2012. Days of inventory at the end of the first quarter were 101 compared with 103 at the end of 2012. 
+
+Liquidity and Capital Resources 
+
+Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are our cash and cash equivalents, short-term investments and revolving credit facilities. Cash flow from operations for the first quarter of 2013 was $360 million, a decrease of $89 million from the year-ago period, due to changes in working capital. 
+
+We had $1.39 billion of Cash and cash equivalents and $2.47 billion of Short-term investments as of March 31, 2013. We have a variable-rate revolving credit facility with a consortium of investment-grade banks that allows us to borrow up to $2 billion through March 2018. This credit facility also serves as support for the issuance of commercial paper. As of March 31, 2013, our credit facility was undrawn and we had no commercial paper outstanding. 
+
+On May 1, 2013, we priced $1.0 billion principal amount of debt, which we expect to use for repayment of a portion of our debt. The debt offering is expected to close on May 8, 2013. 
+
+For the first three months of 2013, investing activities provided cash of $22 million compared with $270 million in the year-ago period. Proceeds from short-term investments, net of purchases, provided cash of $79 million compared with $371 million in the year-ago quarter. Capital expenditures in the first quarter of 2013 totaled $84 million compared with $103 million in the year-ago quarter. These expenditures were primarily for semiconductor manufacturing equipment. We also received $18 million of cash proceeds from the sale of a site in the first quarter of 2013. 
+
+Net cash used in financing activities was $405 million for the first three months of 2013 compared with $518 million in the year-ago period. We used $300 million in the year-ago quarter to repay commercial paper borrowings. In the first quarter of 2013, we paid dividends of $232 million compared with $195 million in the year-ago period. We also used $679 million in the first three months of 2013 to repurchase 20.4 million shares of our common stock. In the same period last year we used $300 million to repurchase 9.1 million shares of common stock. Employee exercises of stock options are also reflected in cash from financing activities. In the first quarter of 2013, these exercises provided cash proceeds of $454 million compared with $259 million for the year-ago quarter. 
+
+In February 2013, we announced a 33 percent increase in our quarterly cash dividend from $0.21 to $0.28 per share, resulting in an annualized dividend payment of $1.12 per share. Additionally, our Board of Directors authorized the repurchase of an additional $5.0 billion of our common stock, bringing the total outstanding authorization to $8.2 billion as of March 31, 2013. 
+
+We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months. 
+
+Non-GAAP financial information 
+
+This MD&#38;A includes a discussion of free cash flow and various ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (non-GAAP measures). Free cash flow was calculated by subtracting Capital expenditures from Cash flows from operating activities (also referred to as Cash flow from operations). 
+
+The free cash flow measures were compared to the following GAAP items to determine the various non-GAAP ratios presented below and referred to in the MD&#38;A: Revenue, Dividends paid and Stock repurchases. Reconciliation to the most directly comparable GAAP-based ratios is provided in the table below. 
+
+We believe all of these non-GAAP measures provide insight into our liquidity, our cash-generating capability and the amount of cash available to return to investors as well as insight into our financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures. 
+
+TEXAS INSTRUMENTS INCORPORATED 
+
+(Millions of dollars) 
+
+&#160; 
+
+For the Twelve Months Ended 
+
+Mar. 31, 2013 
+
+&#160; 
+
+For the Twelve Months Ended Dec. 31, 2012 
+
+&#160; 
+
+Percentage Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash flow from operations (GAAP) 
+
+$ 
+
+3,324 
+
+&#160; 
+
+$ 
+
+3,188 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+Less Capital expenditures 
+
+&#160; 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+Free cash flow (non-GAAP) 
+
+$ 
+
+2,848 
+
+&#160; 
+
+2,463 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+For the Twelve Months Ended 
+
+Mar. 31, 2013 
+
+&#160; 
+
+As a Percentage of Revenue 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+12,589 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash flow from operations (GAAP) 
+
+$ 
+
+3,324 
+
+&#160; 
+
+% 
+
+Less Capital expenditures 
+
+&#160; 
+
+% 
+
+Free cash flow (non-GAAP) 
+
+$ 
+
+2,848 
+
+&#160; 
+
+% 
+
+The Cash flow from operations and Capital expenditures as a percentage of Revenue provided in the above chart will not calculate to the free cash flow as a percentage of Revenue due to rounding. 
+
+&#160; 
+
+For the Twelve Months Ended 
+
+Mar. 31, 2013 
+
+&#160; 
+
+As a Percentage of Cash Flow from Operations (GAAP) 
+
+&#160; 
+
+As a Percentage of Free 
+
+Cash Flow 
+
+(Non-GAAP) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Dividends paid 
+
+$ 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Stock repurchases 
+
+2,179 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Total cash returned 
+
+$ 
+
+3,035 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+The Dividends paid and Stock repurchases as a percentage of Cash flow from operations provided in the above chart will not sum to the total cash returned as a percentage of Cash flow from operations due to rounding. 
+
+Long-term contractual obligations 
+
+In addition to the long-term debt obligations described in the long-term contractual obligations chart on pages 51-52 of Exhibit 13 to our Form 10-K for the year ended December 31, 2012, on May 1, 2013, we priced $500 million of 1.00% notes maturing in 2018 and $500 million of 2.25% notes maturing in 2023. 
+
+Changes in accounting standards 
+
+See Note 1 to the financial statements for detailed information regarding the status of new accounting and reporting standards. 
+
+
+
+ ITEM 1A. Risk Factors. 
+
+Information concerning our risk factors is contained on pages 10-14 of our Form 10-K for the year ended December 31, 2012, and is incorporated by reference herein. 
+

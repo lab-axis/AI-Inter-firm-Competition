@@ -1,0 +1,1646 @@
+ ITEM 2. &#160; MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; 
+
+The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended April 1, 2016, January 1, 2016 and April 3, 2015, referred to herein as the &#147;March 2016 quarter,&#148; the &#147;December 2015 quarter,&#148; and the &#147;March 2015 quarter,&#148; respectively. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The March 2016, December 2015, and March 2015 quarters were 13 weeks. 
+
+&#160; 
+
+You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. Unless the context indicates otherwise, as used herein, the terms &#147;we,&#148; &#147;us,&#148; &#147;Seagate,&#148; the &#147;Company&#148; and &#147;our&#148; refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries. References to &#147;$&#148; are to United States dollars. 
+
+&#160; 
+
+Some of the statements and assumptions included in this Quarterly Report on Form 10-Q are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, in particular, statements about our plans, strategies and prospects, and estimates of industry growth for the fiscal quarter and year ending July 1, 2016 and beyond. These statements identify prospective information and may include words such as &#147;expects,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;anticipates,&#148; &#147;believes,&#148; &#147;estimates,&#148; &#147;predicts,&#148; &#147;projects&#148; and similar expressions. These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on management&#146;s current views and assumptions. These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition. Such risks and uncertainties include, but are not limited to: uncertainty in global economic conditions; the impact of variable demand and the adverse pricing environment for disk drives, particularly in view of current business and economic conditions; our ability to successfully qualify, manufacture and sell our disk drive products in increasing volumes on a cost-effective basis and with acceptable quality, particularly the new disk drive products; the impact of competitive product announcements; currency fluctuations that may impact our margins and international sales; possible excess industry supply with respect to particular disk drive products and disruptions to our supply chain or production capabilities; unexpected advances in competing technologies; the development and introduction of products based on new technologies and expansion into new data storage markets; our ability to comply with certain covenants in our credit facilities with respect to financial ratios and financial condition tests; cyber-attacks or other data breaches that disrupt our operations or results in the dissemination of proprietary or confidential information; and our ability to achieve projected cost savings in connection with restructuring plans and fluctuations in interest rates. We also encourage you to read our Annual Report on Form 10-K for the fiscal year ended July 3, 2015, which contains information concerning risks, uncertainties and other factors that could cause results to differ materially from those projected in the forward-looking statements herein. These forward-looking statements should not be relied upon as representing our views as of any subsequent date and we undertake no obligation to update forward-looking statements to reflect events or circumstances after the date they were made. 
+
+&#160; 
+
+Our Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations (&#147;MD&#38;A&#148;) is provided in addition to the accompanying condensed consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition, and cash flows. Our MD&#38;A is organized as follows: 
+
+&#160; 
+
+&#183; &#160; Our Company. Overview of our business.
+
+&#183; &#160; Overview of the March 2016 quarter. Highlights of events in the March 2016 quarter that impacted our financial position.
+
+&#183; &#160; Results of Operations. An analysis of our financial results comparing the March 2016 quarter to the December 2015 quarter and the March 2015 quarter and the nine months ended March 2016 to the nine months ended March 2015.
+
+&#183; &#160; Liquidity and Capital Resources. An analysis of changes in our balance sheets and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.
+
+&#183; &#160; Critical Accounting Policies. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+
+&#160; 
+
+Our Company 
+
+&#160; 
+
+We are a leading provider of electronic data storage technology and solutions. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of electronic data storage products including solid state hybrid drives (&#147;SSHD&#148;), solid state drives (&#147;SSD&#148;), PCIe cards and SATA controllers. Our storage technology portfolio also includes storage subsystems, high performance computing (&#147;HPC&#148;) solutions, and data storage services. 
+
+&#160; 
+
+Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND-based flash memory. In addition to HDDs and SSDs, SSHDs combine the features of SSDs 
+
+&#160; 
+
+&#160; 
+
+and HDDs in the same unit, containing a large hard disk drive and an SSD cache to improve performance of frequently accessed data. 
+
+&#160; 
+
+Our products are designed for enterprise servers and storage systems in mission critical and nearline applications; client compute applications, where our products are designed primarily for desktop and mobile computing; and client non-compute applications, where our products are designed for a wide variety of end user devices such as digital video recorders (&#147;DVRs&#148;), personal data backup systems, portable external storage systems, digital media systems and surveillance systems. 
+
+&#160; 
+
+Our product and solution portfolio for the enterprise data storage industry includes storage enclosures, integrated application platforms and HPC data storage solutions. Our storage subsystems support a range of high-speed interconnect technologies to meet demanding cost and performance specifications. Our modular subsystem architecture allows us to support many segments within the networked storage market by enabling different specifications of storage subsystem designs to be created from a standard set of interlocking technology modules. 
+
+&#160; 
+
+Overview of the March 2016 Quarter 
+
+&#160; 
+
+During the quarter ended March 2016, the industry experienced accelerated declines in drive unit shipments primarily as demand decreased for mission critical and client compute hard drives. During the March 2016 quarter, we shipped 39 million drive units totaling 56 exabytes of storage capacity, generating revenue of approximately $2.6 billion and gross margin of 20%. Our operating cash flow was $205 million. We paid $188 million for dividends to shareholders. 
+
+&#160; 
+
+Results of Operations 
+
+&#160; 
+
+We list in the tables below summarized information from our Condensed Consolidated Statements of Operations by dollars and as a percentage of revenue: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+$ 
+
+2,595 
+
+&#160; 
+
+$ 
+
+2,986 
+
+&#160; 
+
+$ 
+
+3,330 
+
+&#160; 
+
+$ 
+
+8,506 
+
+&#160; 
+
+$ 
+
+10,811 
+
+&#160; 
+
+Cost of revenue 
+
+&#160; 
+
+2,071 
+
+&#160; 
+
+2,245 
+
+&#160; 
+
+2,375 
+
+&#160; 
+
+6,553 
+
+&#160; 
+
+7,778 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,953 
+
+&#160; 
+
+3,033 
+
+&#160; 
+
+Product development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,029 
+
+&#160; 
+
+Marketing and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangibles 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gain on litigation settlement, net 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+(620 
+
+) 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,851 
+
+&#160; 
+
+Other income (expense), net 
+
+&#160; 
+
+(18 
+
+) 
+
+(49 
+
+) 
+
+(39 
+
+) 
+
+(122 
+
+) 
+
+(30 
+
+) 
+
+Income before income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,821 
+
+&#160; 
+
+Provision for income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income (loss) 
+
+&#160; 
+
+$ 
+
+(21 
+
+) 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,605 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+Cost of revenue 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Product development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Marketing and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangibles 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+Gain on litigation settlement, net 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+(6 
+
+) 
+
+Income from operations 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other (expense) income, net 
+
+&#160; 
+
+(1 
+
+) 
+
+(2 
+
+) 
+
+(1 
+
+) 
+
+(1 
+
+) 
+
+&#151; 
+
+&#160; 
+
+Income before income taxes 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Provision for income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income (loss) 
+
+&#160; 
+
+(1 
+
+)% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+&#160; 
+
+Revenue 
+
+&#160; 
+
+The following table summarizes information regarding average drive selling prices (&#147;ASPs&#148;), drive volume unit shipments, exabytes shipped, and revenues by channel and geography: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+(In millions, except percentages, exabytes and ASPs) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Unit Shipments: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Enterprise 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Client Compute 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Client Non-Compute 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total Units Shipped 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+ASPs (per unit) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+Exabytes Shipped 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues by Channel (%) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+OEMs 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+Distributors 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+Retailers 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+Revenues by Geography (%) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Americas 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+EMEA 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+Asia Pacific 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+&#160; 
+
+Revenue in the March 2016 quarter decreased by $0.4 billion from the December 2015 quarter as a result of a decrease in shipments by 7 million units due to lower demand and seasonality declines. 
+
+&#160; 
+
+Revenue in the March 2016 quarter and the nine months then ended decreased by $0.7 billion and $2.3 billion, respectively, as compared to the March 2015 quarter and the nine months then ended due to a decrease in unit shipments and price erosion, partially offset by improved product mix and the consolidation of Dot Hill. The decrease in unit shipments of 11 million and 35 million units as compared to the three and nine months ended March 2015, respectively, was primarily the result of decreased demand in the client compute market and reduced demand for mission critical HDD enterprise products in the December 2015 quarter. 
+
+&#160; 
+
+We maintain various sales programs such as channel rebates and price masking. Price masking rebates are primarily a function of OEM enterprise revenue and contributed to a higher proportion of the sales programs as a percentage of revenue in the March 2016 quarter. Sales programs were approximately 14%, 14% and 11% of gross drive revenue for the March 2016 quarter, December 2015 quarter and March 2015 quarter, respectively. Adjustments to revenues due to under or over 
+
+&#160; 
+
+&#160; 
+
+accruals for sales programs related to revenues reported in prior quarterly periods were less than 1.0% of quarterly gross revenue in the March 2016 quarter. 
+
+&#160; 
+
+Cost of Revenue and Gross Margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Cost of revenue 
+
+&#160; 
+
+$ 
+
+2,071 
+
+&#160; 
+
+$ 
+
+2,245 
+
+&#160; 
+
+$ 
+
+2,375 
+
+&#160; 
+
+$ 
+
+6,553 
+
+&#160; 
+
+$ 
+
+7,778 
+
+&#160; 
+
+Gross margin 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+1,953 
+
+&#160; 
+
+3,033 
+
+&#160; 
+
+Gross margin percentage 
+
+&#160; 
+
+% 
+
+% 
+
+% 
+
+% 
+
+% 
+
+&#160; 
+
+Gross margin as a percentage of revenue for the March 2016 quarter decreased by 460 basis points compared to the December 2015 quarter. This decrease was primarily due to approximately 100 basis points of change in gross margin from reduced demand in legacy hard drives and new adjacencies and focused inventory reductions resulting in underutilization of certain factories, 80 basis points decrease associated with costs from certain terminated contracts and write down of inventory, and 100 basis points decrease from the write off of certain fixed assets. Price erosion was offset by improved product mix. 
+
+&#160; 
+
+Compared to the March 2015 quarter, gross margin in the March 2016 quarter decreased by 850 basis points. This decrease was due to approximately 230 basis points of change in gross margin from reduced demand in legacy hard drives and new adjacencies resulting in underutilization of certain factories, 80 basis points decrease associated with costs from certain terminated contracts and write down of inventory, 100 basis points decrease associated with the write off of certain fixed assets, with the remainder primarily due to price erosion that was partially offset by improved product mix and cost savings due to work force reductions. 
+
+&#160; 
+
+Compared to the nine months ended in the March 2015 quarter, gross margin in the nine month ended in the March 2016 quarter decreased by 510 basis points. This decrease was due to approximately 110 basis points of change in gross margin from reduced demand in legacy hard drives and new adjacencies resulting in underutilization of certain factories, with the remainder primarily due to price erosion that was partially offset by cost savings due to work force reductions and improved product mix. 
+
+&#160; 
+
+In the March 2016 quarter, total warranty cost was 0.7% of revenue and included favorable changes in estimates of prior warranty accruals of approximately 0.4% of revenue primarily due to improvements in return rates on newer generation products. Warranty cost related to new unit shipments was 1.1% of revenue for each of the March 2016, December 2015 and March 2015 quarters, respectively. 
+
+&#160; 
+
+Operating Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Product development 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,029 
+
+&#160; 
+
+Marketing and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of intangibles 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Restructuring and other, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gain on litigation settlement, net 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+(620 
+
+) 
+
+Operating expenses 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,610 
+
+&#160; 
+
+$ 
+
+1,182 
+
+&#160; 
+
+&#160; 
+
+Product development expense. Product development expense for the March 2016 quarter decreased by $6 million from the December 2015 quarter due to increased operational efficiencies in our business and a decrease in variable compensation, partially offset by an increased use of vacation in the December 2015 quarter. Compared to the March 2015 quarter, product development expense decreased by $48 million due to a decrease in salaries and other employee benefits of $20 million as a result of a restructuring of our work force in the September 2015 quarter, an $11 million decrease in variable compensation, and other cost reduction efforts, partially offset by the consolidation of Dot Hill in the December 2015 quarter.
+
+&#160; 
+
+Product development expense for the nine months ended March 2016 decreased by $99 million as compared to the corresponding period in the prior year due to a decrease in salaries and other employee benefits of $46 million as a result of a restructuring of our work force in the September 2015 quarter, a $41 million decrease in variable compensation, and other cost reduction efforts, partially offset by the consolidation of Dot Hill in the December 2015 quarter. 
+
+&#160; 
+
+Marketing and administrative expense. Marketing and administrative expense for the March 2016 quarter decreased by $10 million from the December 2015 quarter due to a $9 million reduction in advertising from the completion of certain promotional and
+
+&#160; 
+
+&#160; 
+
+branding activities in the December 2015 quarter and a decrease in variable compensation. Compared to the March 2015 quarter, marketing and administrative expense decreased by $69 million due to a decrease in salaries and other employee benefits of $24 million as a result of a restructuring of our work force in the September 2015 quarter, a $17 million reduction in advertising from the completion of certain promotional and branding activities in the December 2015 quarter, and a decrease in variable compensation, partially offset by the consolidation of Dot Hill in the December 2015 quarter. 
+
+&#160; 
+
+Marketing and administrative expense for the nine months ended March 2016 decreased by $163 million as compared to the corresponding period in the prior year due to a decrease in salaries and other employee benefits of $60 million as a result of a restructuring of our work force in the September 2015 quarter, a $43 million decrease in variable compensation and stock based compensation, a $21 million reduction in advertising from the completion of certain promotional and branding activities in the December 2015 quarter, and increased operational efficiencies in our business. 
+
+&#160; 
+
+Amortization of intangibles. Amortization of intangibles for the March 2016 quarter decreased from the December 2015 quarter and March 2015 quarter by $2 million and $4 million, respectively, due to certain intangible assets reaching the end of their useful life, partially offset by the intangibles acquired in the acquisition of Dot Hill.
+
+&#160; 
+
+Amortization of intangibles for the nine months ended March 2016 decreased by $1 million as compared to the corresponding period in the prior year as a result certain intangible assets reaching the end of their useful life, partially offset by the amortization of intangibles acquired with LSI Corporation&#146;s Accelerated Solutions Division and Flash Components Division in September of 2014 and Dot Hill in the December 2015 quarter. 
+
+&#160; 
+
+Restructuring and other, net. Restructuring and other, net for the March 2016 quarter was comprised primarily of a restructuring charge recorded during the March 2016 quarter to reduce our work force by approximately 2,000 employees to align our manufacturing footprint with current macroeconomic conditions. The December 2015 quarter and the March 2015 quarter was comprised primarily of charges related to employee termination costs and facility exit costs associated with restructuring of our work force.
+
+&#160; 
+
+Restructuring and other, net for the nine months ended March 2016 was comprised primarily of restructuring charges recorded during the September 2015 quarter and the March 2016 quarter to reduce our work force. Restructuring and other, net for the nine months ended March 2015 was due to charges to reduce our work force as a result of our ongoing focus on cost efficiencies in all areas of our business. 
+
+&#160; 
+
+Gain on arbitration award, net. Gain on arbitration award, net for the nine months then ended March 2015 was related to the final award amount of $630 million, less litigation and other related costs of $10 million, in the Company&#146;s case against Western Digital for the misappropriation of the Company&#146;s trade secrets.
+
+&#160; 
+
+Other (expense) income, net 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Other (expense) income, net 
+
+&#160; 
+
+$ 
+
+(18 
+
+) 
+
+$ 
+
+(49 
+
+) 
+
+$ 
+
+(39 
+
+) 
+
+$ 
+
+(122 
+
+) 
+
+$ 
+
+(30 
+
+) 
+
+&#160; 
+
+Other (expense) income, net decreased by $31 million from the December 2015 quarter primarily due to the $33 million final payment of unpaid interest on the final arbitration award amount in the Company&#146;s case against Western Digital. Compared to the March 2015 quarter, other (expense) income, net decreased by $21 million due to the $33 million final payment of unpaid interest from Western Digital, partially offset by a $16 million change in foreign currency remeasurement related to changes in foreign exchange rates. 
+
+&#160; 
+
+Other (expense) income, net for the nine months ended March 2016 increased $92 million as compared to the corresponding period in the prior year due to the partial payment of $143 million for interest accrued on the final arbitration award amount in the Company&#146;s case against Western Digital in the December 2014 quarter compared to $33 million in the March 2016 quarter, and a $35 million change in foreign currency remeasurement related to net gains and losses from changes in foreign exchange rates, which were more pronounced in the prior year, partially offset by a $52 million increase in losses from the early redemption and repurchases of debt in the nine months ended March 2015. 
+
+&#160; 
+
+Income taxes 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+For the Three Months Ended 
+
+&#160; 
+
+For the Nine Months Ended 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+January 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+April 3, 2015 
+
+&#160; 
+
+Provision for income taxes 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Our effective tax rate for the March 2016 quarter and for the first nine months of fiscal year 2016 is higher than normal due to a drop in earnings for the year. Our lower earnings resulted in greater tax expense related to the first nine months of fiscal year 2016 being recorded in the March 2016 quarter. Our 2016 income tax provision included approximately $2 million of net discrete tax provision associated with prior year tax adjustments offset by the release of tax reserves due to the expiration of certain statutes of limitation. 
+
+&#160; 
+
+Our income tax provision recorded for the March 2016 quarter and for the first nine months of fiscal year 2016 differed from the provision from income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain U.S. deferred tax assets. The acquisition of Dot Hill Systems Corporation is not expected to have a material impact on our effective tax rate in fiscal year 2016 
+
+&#160; 
+
+Consistent with the intent of ASU 2015-17 to simplify the presentation of deferred income taxes, we elected to adopt ASU 2015-17 on a prospective basis as of the second quarter, fiscal year 2016. Prior periods were not retrospectively adjusted. As a result of this change in accounting principle, $120 million of our deferred tax assets were reclassified from current to non-current. 
+
+&#160; 
+
+During the nine months ended April 1, 2016, our unrecognized tax benefits excluding interest and penalties decreased by approximately $4 million to $79 million. The unrecognized tax benefits that, if recognized, would impact the effective tax rate was $79 million at April 1, 2016, subject to certain future valuation allowance reversals. During the 12 months beginning January 2, 2016, we expect that our unrecognized tax benefits could be reduced by approximately $24 million primarily as a result of the expiration of certain statutes of limitation. 
+
+&#160; 
+
+We are subject to taxation in many jurisdictions globally and we are required to file U.S. federal, U.S. state and non-U.S. income tax returns. On April 4, 2016, the IRS approved the audit settlement reached in December 2015 regarding all disputed issues associated with our U.S. federal income tax returns for fiscal years 2008, 2009 and 2010. This audit settlement did not have a material impact on our financial statements. As a result of this settlement and the expiration of certain statutes of limitation, we are no longer subject to tax examination of U.S. federal income tax returns for years prior to fiscal year 2012. 
+
+&#160; 
+
+Our income tax provision recorded for the first nine months of fiscal year 2015 included approximately $181 million of net tax expense due to the final audit assessment received from the Jiangsu Province State Tax Bureau of the People&#146;s Republic of China (China assessment) for calendar years 2007 through 2013. 
+
+&#160; 
+
+Our income tax provision recorded for the March 2015 quarter and for the first nine months of fiscal year 2015 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland, (ii) tax expense associated with the China assessment recorded during the December 2014 quarter, and (iii) a decrease in valuation allowance for certain U.S. deferred tax assets. The acquisition of LSI&#146;s Flash Business did not have a material impact on our effective tax rate in fiscal year 2015. 
+
+&#160; 
+
+Liquidity and Capital Resources 
+
+&#160; 
+
+The following sections discuss our principal liquidity requirements, as well as our sources and uses of cash and our liquidity and capital resources. Our cash and cash equivalents are maintained in investments with remaining maturities of 90 days or less at the time of purchase. Our short-term investments consist primarily of money market funds, certificates of deposits, and other interest-bearing bank deposits. The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We believe our cash equivalents and short-term investments are liquid and accessible. We operate in some countries that have restrictive regulations over the movement of cash and/or foreign exchange across their borders. However, these restrictions have not impeded our ability to conduct our business, nor do we expect them to in the next 12 months. We are not aware of any downgrades, losses or other significant deterioration in the fair value of our cash equivalents or short-term investments and we do not believe the fair value of our short-term investments has significantly changed from the values reported as of April 1, 2016. 
+
+&#160; 
+
+&#160; 
+
+Cash and Cash Equivalents and Short-term Investments 
+
+&#160; 
+
+(Dollars in millions) 
+
+&#160; 
+
+April 1, 2016 
+
+&#160; 
+
+July 3, 2015 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Cash and cash equivalents 
+
+&#160; 
+
+$ 
+
+1,193 
+
+&#160; 
+
+$ 
+
+2,479 
+
+&#160; 
+
+$ 
+
+(1,286 
+
+) 
+
+Short-term investments 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#151; 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+$ 
+
+1,199 
+
+&#160; 
+
+$ 
+
+2,485 
+
+&#160; 
+
+$ 
+
+(1,286 
+
+) 
+
+&#160; 
+
+Our cash and cash equivalents and short-term investments decreased from July 3, 2015 as a result of net cash outflows for the acquisition of Dot Hill, repurchase of our ordinary shares, dividends paid to our shareholders, and capital expenditures. These cash outflows were partially offset by our net cash provided by operating activities. 
+
+&#160; 
+
+Cash Provided by Operating Activities 
+
+&#160; 
+
+Cash provided by operating activities for the nine months ended April 1, 2016 of $1,411 million includes the effects of net income adjusted for non-cash items including depreciation, amortization, share-based compensation, and: 
+
+&#160; 
+
+&#183; &#160; a decrease of $531 million in accounts receivable, primarily due to the decrease in revenue
+
+&#160; 
+
+Cash Used in Investing Activities 
+
+&#160; 
+
+Cash used for investing activities for the nine months ended April 1, 2016 was $1,065 million and primarily attributable to the following activities: 
+
+&#160; 
+
+&#183; &#160; $634 million paid for the acquisition of Dot Hill, net of cash acquired; and
+
+&#183; &#160; $441 million used to acquire property, equipment and leasehold improvements
+
+&#160; 
+
+Cash Used in Financing Activities 
+
+&#160; 
+
+Cash used in financing activities of $1,632 million for the nine months ended April 1, 2016 was primarily attributable to the following activities: 
+
+&#160; 
+
+&#183; &#160; $1,090 million paid to repurchase ordinary shares; and
+
+&#183; &#160; $539 million in dividend payments to shareholders.
+
+&#160; 
+
+Liquidity Sources, Cash Requirements and Commitments 
+
+&#160; 
+
+Our primary sources of liquidity as of April 1, 2016 consisted of: (1) approximately $1.2 billion in cash, cash equivalents, and short-term investments, (2) cash we expect to generate from operations and (3) a $700 million senior revolving credit facility. 
+
+&#160; 
+
+The line of credit is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing. As of April 1, 2016, no borrowings had been drawn under the revolving credit facility or had been utilized for letters of credit issued under this credit facility. 
+
+&#160; 
+
+The credit agreement that governs our revolving credit facility, as amended, includes three financial covenants: (1) minimum cash, cash equivalents and marketable securities; (2) a fixed charge coverage ratio; and (3) a net leverage ratio. On April 28, 2016, the Revolving Credit Agreement was amended in order to increase the allowable net leverage ratio to adjust for our current financial liquidity position. We were in compliance with the modified covenants as of April 1, 2016 and expect to be in compliance for the next 12 months. 
+
+&#160; 
+
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control . 
+
+&#160; 
+
+For fiscal year 2016, we expect capital expenditures to be at or below our long-term targeted range of 6% to 8% of revenue. 
+
+&#160; 
+
+From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or may repurchase outstanding notes pursuant to the terms of the applicable indenture. 
+
+&#160; 
+
+The Company&#146;s Board of Directors declared a quarterly cash dividend of $0.63 per share on April 29, 2016, which is payable on May 24, 2016 to shareholders of record at the close of business on May 10, 2016. 
+
+&#160; 
+
+&#160; 
+
+From time to time we may repurchase any of our outstanding ordinary shares through private, open market, or broker assisted purchases. As of April 1, 2016, $1.8 billion remained available for repurchase under our existing repurchase authorization limit. All repurchases are effected as redemptions in accordance with the Company&#146;s Articles of Association. 
+
+&#160; 
+
+Critical Accounting Policies 
+
+&#160; 
+
+Our discussion and analysis of financial condition and results of operations are based upon our Condensed Consolidated Financial Statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements. Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances. However, actual future results may vary from our estimates. 
+
+&#160; 
+
+Since our fiscal year ended July 3, 2015, there have been no material changes in our critical accounting policies and estimates. Refer to &#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations&#148; contained in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended July 3, 2015, as filed with the SEC on August 11, 2015, for a discussion of our critical accounting policies and estimates. 
+
+&#160; 
+
+Recent Accounting Pronouncements 
+
+&#160; 
+
+See Part I, Item 1. Financial Statements&#151;Note 1. Basis of Presentation and Summary of Significant Accounting Policies for information regarding the effect of new accounting pronouncements on our financial statements. 
+
+&#160; 
+
+
+
+ ITEM 1A. &#160; RISK FACTORS 
+
+&#160; 
+
+There have been no material changes to the description of the risk factors associated with our business previously disclosed in Part I, Item 1A, &#147;Risk Factors&#148; in our Annual Report on Form 10-K for the year ended July 3, 2015. In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in our Annual Report on Form 10-K as they could materially affect our business, financial condition and future results. 
+
+&#160; 
+
+The Risk Factors are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition or operating results. 
+
+&#160; 
+

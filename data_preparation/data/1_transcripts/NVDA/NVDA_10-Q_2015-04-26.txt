@@ -1,0 +1,702 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements 
+
+&#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading &#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+&#160; 
+
+All references to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company. 
+
+&#160; 
+
+NVIDIA, the NVIDIA logo, GeForce, GTX, ICERA, Iray, Maxwell, NVIDIA DRIVE, NVIDIA GRID, NVIDIA SHIELD, Pascal, Quadro, SHIELD, Tegra, Tesla, and TITAN are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 6. Selected Financial Data&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 25, 2015 &#32;and &#8220;Item 1A. Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+Overview 
+
+&#160; 
+
+Our Company 
+
+Our Company and Our Businesses 
+
+NVIDIA is dedicated to advancing visual computing, enabling individuals to interact with digital ideas, data and entertainment with an ease and efficiency unmatched by any other communication medium. 
+
+Our business model has three elements: creating NVIDIA-branded products and services, offering our processors to original equipment manufacturers, or OEMs, and licensing our intellectual property. NVIDIA-branded products and services are visual computing platforms that address four large markets: Gaming, Enterprise, High Performance Computing and Cloud, and Automotive. 
+
+Our two business segments - GPU and Tegra Processor - are based on a single underlying graphics architecture. In addition to the two reporting segments, the &#8220;All Other&#8221; category primarily includes licensing revenue from our patent cross licensing agreement with Intel, which we expect to recognize through March 2017. 
+
+GPUs, the engines of visual computing, are among the world's most complex processors. Our GPU product brands aimed at specialized markets include GeForce for gamers; Quadro for designers; Tesla for researchers, deep learning and big-data analysts; and GRID for cloud-based visual computing users. 
+
+&#32;23 
+
+We also integrate our GPUs into mobile chips called system-on-a-chip (SOC) processors, which power tablets, and automotive infotainment and safety systems. Our Tegra brand integrates an entire computer onto a single chip, incorporating GPUs and multi-core CPUs with audio, video and input/output capabilities. They can also be integrated with baseband processors to add voice and data communication. Tegra conserves power while delivering state-of-the-art graphics and multimedia processing. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+GPU Business 
+
+During the first quarter of fiscal year 2016, we launched the GeForce GTX TITAN X, a GPU with twice the performance and double the power efficiency of its predecessor. We also introduced Quadro M6000, a powerful professional GPU and the Quadro Visual Computing Appliance, containing eight M6000 GPUs. Further, we introduced a roadmap for physically based rendering, including Iray 2015 rendering software. 
+
+During the quarter we also announced that our next-generation Pascal GPU architecture. This architecture is expected to accelerate deep learning applications faster than the current-generation Maxwell processors. 
+
+Tegra Processor Business 
+
+During the first quarter of fiscal year 2016, we announced NVIDIA SHIELD - our first living-room entertainment device powered by our Tegra X1 processor. The NVIDIA SHIELD is a 4K smart TV platform that uses the internet to connect to media and delivers video, high-quality games, music, apps, and uses Google voice search. We also announced the availability of NVIDIA DRIVE PX - a car computer that utilizes deep learning to enable self-driving capabilities. 
+
+Capital Return to Shareholders 
+
+In May 2015, our Board extended the previously authorized repurchase program through December 2018 and authorized an additional $1.62 billion for an aggregate of $2.00 billion available for future repurchases. 
+
+For the first quarter of fiscal year 2016, we returned a total of $99 million of capital to shareholders. As part of our share repurchase program, we repurchased a total of 2.4 million shares of our common stock during the first quarter of fiscal year 2016 for $53 million. Additionally, we paid $46 million in cash dividends for the first quarter of fiscal year 2016. 
+
+&#160; 
+
+On May 7, 2015, we announced a 15% increase in the quarterly cash dividend to $0.0975 per share from $0.085 per share. We also stated that we would pay our next quarterly cash dividend of $0.0975 per share on June 12, 2015, to all shareholders of record on May 21, 2015. Further, we also announced an increase in our intended return to shareholders in fiscal year 2016 to $800 million from the previously stated $600 million, through quarterly cash dividends and share repurchases. On May 11, 2015, we entered into an accelerated share repurchase agreement to purchase $400 million in shares of our common stock as part of capital return program. 
+
+Litigation 
+
+In September 2014, we filed lawsuits against Qualcomm, Inc. and various Samsung entities in the United States International Trade Commission, or ITC, and the United States District Court for the District of Delaware for using our GPU patents without a license. The ITC action is scheduled to be heard in June 2015 and seeks to permanently bar several Samsung products that rely on our patents in the United States. The Delaware case has been stayed during the pendency of the ITC action. 
+
+On November 10, 2014, Samsung filed a complaint against NVIDIA and Velocity Micro, Inc., in the United States District Court for the Eastern District of Virginia. That complaint and subsequent amended complaints allege that we infringed six patents and falsely advertised that the Tegra K1 processor is the world&#8217;s fastest mobile processor. We have answered the most recent complaint and asserted counter-claims against Samsung for infringing four of NVIDIA&#8217;s patents and for non-infringement and invalidity of the six patents asserted by Samsung. After the court severed our counter-claims from the main action, we voluntarily dismissed our counter-claims from the case. Trial on Samsung&#8217;s claims is currently set to begin in January 2016. 
+
+&#32;24 
+
+On November 23, 2014, Samsung filed a complaint against NVIDIA, among others, in the ITC claiming infringement of four United States patents. Samsung seeks to permanently bar several products purportedly relying on these allegedly infringed patents in the United States. An ITC hearing on Samsung&#8217;s patents is scheduled to begin in August 2015. 
+
+NVIDIA and Samsung have also challenged the validity of certain of each other&#8217;s patents through inter partes review before the United States Patent and Trademark Office. The United States Patent and Trademark Office has not yet decided whether to institute review as to any of these patents. 
+
+Please refer to Note 11 of the Notes to Condensed Consolidated Financial Statements for further discussion. 
+
+Icera Modem Operations 
+
+On May 5, 2015, we announced our intent to wind-down our Icera modem operations and that we are open to a sale of the technology or operations. We estimate restructuring charges primarily during fiscal year 2016, in the range of $100 million &#32;to $125 million , consisting of severance and other employee termination benefits, tax expense items, and other costs associated with the wind-down, if we are unable to sell the Icera modem operations. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Our Chief Executive Officer, who is considered to be our chief operating decision maker, or CODM, reviews financial information presented on an operating segment basis for purposes of making operating decisions and assessing financial performance. Our operating segments are equivalent to our reportable segments. 
+
+We report our business in two primary reporting segments - the GPU business and the Tegra Processor business - based on a single underlying graphics architecture. 
+
+Our GPU product brands aimed at specialized markets include GeForce for gamers; Quadro for designers; Tesla for researchers, deep learning and big-data analysts; and GRID for cloud-based visual computing users. 
+
+We also integrate our GPUs into mobile chips called system-on-a-chip (SOC) processors, which power tablets, and automotive infotainment and safety systems. Our Tegra brand integrates an entire computer onto a single chip, incorporating GPUs and multi-core CPUs with audio, video and input/output capabilities. They can also be integrated with baseband processors to add voice and data communication. Tegra conserves power while delivering state-of-the-art graphics and multimedia processing. 
+
+The &#8220;All Other&#8221; category presented below represents the revenue and expenses that our CODM does not assign to either the GPU business or the Tegra Processor business for purposes of making operating decisions or assessing financial performance. The revenue includes primarily patent licensing revenue and the expenses include corporate infrastructure and support costs, stock-based compensation costs, amortization of acquisition-related intangible assets, other acquisition-related costs, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature. 
+
+Please refer to Note 13 of the Notes to Condensed Consolidated Financial Statements for further disclosure regarding segment information. 
+
+&#32;25 
+
+Results of Operations 
+
+&#160; 
+
+The following table sets forth, for the periods indicated, certain items in our condensed consolidated statements of operations expressed as a percentage of revenue. 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+April 27, 2014 
+
+Revenue 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of revenue 
+
+43.3 
+
+&#160; 
+
+45.2 
+
+Gross profit 
+
+56.7 
+
+&#160; 
+
+54.8 
+
+Operating expenses: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+29.5 
+
+&#160; 
+
+30.3 
+
+Sales, general and administrative 
+
+12.0 
+
+&#160; 
+
+10.8 
+
+Total operating expenses 
+
+41.5 
+
+&#160; 
+
+41.1 
+
+Operating income 
+
+15.4 
+
+&#160; 
+
+13.7 
+
+Interest income 
+
+0.8 
+
+&#160; 
+
+0.5 
+
+Interest expense 
+
+(1.0 
+
+) 
+
+&#160; 
+
+(1.0 
+
+) 
+
+Other income (expense), net 
+
+(0.1 
+
+) 
+
+&#160; 
+
+1.5 
+
+Income before income tax 
+
+17.1 
+
+&#160; 
+
+16.7 
+
+Income tax expense 
+
+3.3 
+
+&#160; 
+
+2.4 
+
+Net income 
+
+13.8 
+
+&#160;% 
+
+&#160; 
+
+14.3 
+
+&#160;% 
+
+&#160; 
+
+Three months ended &#32; April 26, 2015 &#32;and April 27, 2014 
+
+Revenue 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+April 27, 2014 
+
+&#160; 
+
+$ Change 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+&#160; 
+
+GPU 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Tegra Processor 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+All Other 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+Total 
+
+$ 
+
+1,151 
+
+&#160; 
+
+$ 
+
+1,103 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Revenue for the first &#32;quarter of fiscal year 2016 &#32;increased by 4% &#32;when compared to the first &#32;quarter of fiscal year 2015 . A discussion of our revenue results for each of our operating segments is as follows: 
+
+GPU Business . GPU business revenue increased by 5% &#32;in the first &#32;quarter of fiscal year 2016 &#32;compared to the first &#32;quarter of fiscal year 2015 . This increase was due primarily to higher revenue from GeForce GPUs for gaming desktops and notebooks, reflecting a combination of continued strength in PC gaming and increased sales of our Maxwell-based GTX GPU products. Revenue from Tesla GPUs for high performance computing and cloud also increased driven by project wins with cloud service providers for deep learning. Revenue from GeForce GPU products for mainstream PC OEMs and Quadro GPU products declined compared to the first &#32;quarter of fiscal year 2015 . 
+
+Tegra Processor Business. &#32;Tegra Processor business revenue increased by 4% &#32;in the first &#32;quarter of fiscal year 2016 &#32;compared to the first &#32;quarter of fiscal year 2015 . This increase was driven by sales of Tegra products serving automobile infotainment systems, custom development for a large customer, and SHIELD device sales, offset by declines in Tegra OEM product sales of smartphones and tablets. 
+
+All Other. We recognized $66 million in revenue from the patent cross licensing arrangement with Intel during the first &#32;quarter of fiscal years 2016 &#32;and 2015 . 
+
+&#32;26 
+
+Concentration of Revenue 
+
+&#160; 
+
+Revenue from sales to customers outside of the United States and Other Americas accounted for 75% &#32;and 76% &#32;of total revenue for the first &#32;quarter of fiscal year 2016 and 2015 , respectively. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+&#160; 
+
+Revenue from significant customers, those representing 10% or more of total revenue, was 10% &#32;of our total revenue from one &#32;customer for both the first &#32;quarter of fiscal year 2016 and fiscal year 2015. 
+
+Gross Profit and Gross Margin 
+
+Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions and shipping costs. Cost of revenue also includes development costs for license and service arrangements and stock-based compensation related to personnel associated with operations. 
+
+Gross margin is the percentage of gross profit to revenue. Our gross margin can vary in any period depending on the mix of types of products sold. Our gross margin is significantly impacted by the mix of products we sell. 
+
+Our overall gross margin was 56.7% &#32;and 54.8% &#32;for the first &#32;quarter of fiscal years 2016 and 2015 , respectively. 
+
+Charges to cost of sales for inventory provisions totaled $14 million and $10 million for the first &#32;quarter of fiscal years 2016 and 2015 , respectively, unfavorably impacting our gross margin by 1.2% and 0.9%, respectively. Sales of inventory that was previously written-off or written-down totaled $9 million and $5 million for the first &#32;quarter of fiscal years 2016 and 2015 , respectively, favorably impacting our gross margin by 0.8% and 0.7%, respectively. As a result, the overall net effect on our gross margin from charges to cost of sales for inventory provisions and sales of items previously written-off or written-down was 0.4% unfavorable impact for the first &#32;quarter of fiscal year 2016 &#32;and a 0.2% unfavorable impact for the first &#32;quarter of fiscal year 2015 . 
+
+A discussion of our gross margin results for each of our operating segments is as follows: 
+
+GPU Business . The gross margin of our GPU business increased in the first &#32;quarter of fiscal year 2016 &#32;compared to the first &#32;quarter of fiscal year 2015 . GPU margins increased primarily due to a richer product mix resulting from stronger sales of our Maxwell-based GeForce GTX GPU products for gaming and lower sales from GeForce GPU products for mainstream PC OEMs. Additionally, the volume increase of Tesla and GRID products also contributed to a richer mix of GPU sales. 
+
+&#32; 
+
+Tegra Processor Business . The gross margin of our Tegra Processor business decreased in the first &#32;quarter of fiscal year 2016 &#32;compared to the first &#32;quarter of fiscal year 2015 , primarily due to a slightly less rich product mix resulting from higher automotive and SHIELD product sales, which have lower gross margins than OEM smartphone and tablet sales, which declined in the current year quarter when compared to the prior year. 
+
+&#160; 
+
+&#32;27 
+
+Operating Expenses &#160; 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+April 26, 2015 
+
+&#160; 
+
+April 27, 2014 
+
+&#160; 
+
+$ 
+
+Change 
+
+&#160; 
+
+% 
+
+Change 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+&#160; 
+
+Research and development expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Sales, general and administrative expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Total operating expenses 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+% 
+
+Research and development as a percentage of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative as a percentage of net revenue 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses remained relatively flat during the first quarter &#32;of fiscal year 2016 &#32;compared to the first quarter &#32;of fiscal year 2015 . Compensation and benefits increased by $21 million resulting from employee additions, employee compensation increases and related costs, including stock-based compensation expense. Offsetting these increases was a $22 million decrease in engineering development expenses. 
+
+Sales, General and Administrative 
+
+&#160; 
+
+Sales, general and administrative expenses increased by 16% &#32;during the first quarter &#32;of fiscal year 2016 &#32;compared to the first quarter &#32;of fiscal year 2015 . Compensation and benefits increased by $10 million resulting from employee additions, employee compensation increases and related costs, including stock-based compensation expense. Outside professional fees increased, primarily due to $16 million of legal fees associated with our litigation against Samsung and Qualcomm. 
+
+Interest Income and Interest Expense 
+
+&#160; 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest expense is primarily comprised of coupon interest and debt discount amortization related to the convertible notes issued in December 2013. Interest income was $9 million and $6 million during the first &#32;quarter of fiscal years 2016 and 2015 , respectively. The increase in the first quarter of fiscal year 2016 was primarily due to higher average cash balances invested in interest bearing securities as well as higher purchased yields. Interest expense was $12 million during the first quarter of fiscal year 2015, at relatively the same level as the first quarter of fiscal year 2015. 
+
+Other Income (Expense), net 
+
+&#160; 
+
+Other income (expense), net consists primarily of realized gains and losses from the sale of marketable securities, sales of investments in non-affiliated companies, and the impact of changes in foreign currency rates. Other income in the first quarter of fiscal year 2015 included a $17 million gain from the sale of a non-affiliated investment. 
+
+&#160; 
+
+Income Taxes 
+
+We recognized income tax expense of $38 million &#32;and $26 million &#32;for the first quarter of fiscal year 2016 and 2015, respectively. Income tax expense as a percentage of income before taxes, or our effective tax rate, was 22.0% and 16.4% for the first quarter of fiscal year 2016 and 2015, respectively. 
+
+The increase in our effective tax rate in the first quarter of fiscal year 2016 as compared to the same period in the prior fiscal year was primarily related to an increase in the amount of earnings subject to United States tax and permanent tax differences related to stock-based compensation in the first quarter of fiscal year 2016. 
+
+&#32;28 
+
+Our effective tax rate on income before tax for the first quarter of fiscal year 2016 of 22.0% was lower than the United States federal statutory rate of 35% due primarily to income earned in jurisdictions where the tax rate is lower than the United States federal statutory tax rate. Further, our effective tax rate for the first quarter of fiscal year 2016 of 22.0% differs from our annual projected effective tax rate for the first quarter of fiscal year 2016 of 24.0% due to discrete events that occurred in the first quarter of fiscal year 2016 primarily attributable to the tax benefits recognized upon the expiration of statutes of limitations in certain non-U.S. jurisdictions. 
+
+Our effective tax rate on income before tax for the first quarter of fiscal year 2015 of 16.4% was lower than the United States federal statutory rate of 35% due primarily to income earned in jurisdictions where the tax rate is lower than the United States federal statutory tax. 
+
+Please refer to Note 4 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+&#160; 
+
+Liquidity and Capital Resources &#160; 
+
+&#160; 
+
+As of April 26, 2015 
+
+&#160; 
+
+As of January 25, 2015 
+
+&#160; 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+&#160; 
+
+$ 
+
+Marketable securities 
+
+4,328 
+
+&#160; 
+
+4,126 
+
+Cash, cash equivalents, and marketable securities 
+
+$ 
+
+4,792 
+
+&#160; 
+
+$ 
+
+4,623 
+
+As of April 26, 2015 , we had $4.79 billion &#32;in cash, cash equivalents and marketable securities, an increase of $169 million &#32;from $4.62 billion &#32;as of January 25, 2015 . This increase was mainly reflecting overall cash generation partially offset by $53 million &#32;of share repurchases and $ 46 million &#32;of dividends we paid during the first three months of fiscal year 2016. 
+
+&#160; 
+
+Three Months Ended 
+
+&#160; 
+
+April 26, 
+
+&#160; 
+
+April 27, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+&#160; 
+
+$ 
+
+Net cash used in investing activities 
+
+$ 
+
+(235 
+
+) 
+
+&#160; 
+
+$ 
+
+(330 
+
+) 
+
+Net cash used in financing activities 
+
+$ 
+
+(44 
+
+) 
+
+&#160; 
+
+$ 
+
+(464 
+
+) 
+
+&#160; 
+
+Cash provided by operating activities increased in the first quarter &#32;of fiscal year 2016 &#32;compared to the first quarter &#32;of fiscal year 2015 . The increase was primarily due to changes in working capital. 
+
+Cash used in investing activities decreased in the first quarter &#32;of fiscal year 2016 &#32;compared to the first quarter &#32;of fiscal year 2015 . The decrease in cash used was primarily due to higher proceeds from sales and maturities of marketable securities. 
+
+Cash used in financing activities decreased in the first quarter &#32;of fiscal year 2016 &#32;compared to the first quarter &#32;of fiscal year 2015 , primarily due to fewer share repurchases of our common stock in the current year compared to the $500 million accelerated share repurchase transaction we entered into in the first quarter of fiscal year 2015. 
+
+&#32;29 
+
+Liquidity 
+
+Our primary source of liquidity is cash generated by our operations. Our investment portfolio consists principally of cash and cash equivalents, debt securities of corporations and United States government and its agencies, asset-backed securities, mortgage-backed securities issued by government-sponsored enterprises, money market funds and foreign government bonds. These investments are denominated in United States dollars. As of April 26, 2015 , we did not have any investments in auction-rate preferred securities. 
+
+Please refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for additional information. 
+
+As of April 26, 2015 &#32;and January 25, 2015 , we had $4.79 billion &#32;and $4.62 billion , respectively, in cash, cash equivalents and marketable securities. Our investment policy requires the purchase of high grade investment securities and the diversification of asset types and includes certain limits on our portfolio duration, as specified in our investment policy guidelines. These guidelines also limit the amount of credit exposure to any one issue, issuer or type of instrument. As of April 26, 2015 , we were in compliance with our investment policy. As of April 26, 2015 , our investments in government agencies and government-sponsored enterprises represented 37% &#32;of our total investment portfolio, while the financial sector accounted for 30% &#32;of our total investment portfolio. All of our investments are with A/A3 or better rated securities. 
+
+Our cash balances are held in numerous locations throughout the world, including substantial amounts held outside of the United States. Most of the amounts held outside the United States may be repatriated to the United States. However, if we repatriate foreign earnings for cash requirements in the United States, we would incur U.S. federal income tax at rate of 35% less utilization of any net operating loss carryforwards, and further offset by any applicable research and foreign tax credits, plus any state income taxes on such income. Repatriation of some foreign balances may be restricted by local laws. 
+
+&#160; 
+
+Dividend payments and any share repurchases must be made from cash held in the United States. In the first quarter &#32;of fiscal year 2016 , we made total cash dividend payments of $46 million &#32;and repurchased $53 million &#32;of our common stock, utilizing U.S. cash previously taxed as of April 26, 2015 . 
+
+Capital Return to Shareholders 
+
+In May 2015, our Board extended the previously authorized repurchase program through December 2018 and authorized an additional $1.62 billion for an aggregate of $2.00 billion available for future repurchases. 
+
+For the first quarter of fiscal year 2016, we returned a total of $99 million of capital to shareholders. As part of our share repurchase program, we repurchased a total of 2.4 million shares of our common stock during the first quarter of fiscal year 2016 for $53 million. Additionally, we paid $46 million in cash dividends for the first quarter of fiscal year 2016. 
+
+&#160; 
+
+On May 7, 2015, we announced a 15% increase in the quarterly cash dividend to $0.0975 per share from $0.085 per share. We also stated that we would pay our next quarterly cash dividend of $0.0975 per share on June 12, 2015, to all shareholders of record on May 21, 2015. Further, we also announced an increase in our intended return to shareholders in fiscal year 2016 to $800 million from the previously stated $600 million, through quarterly cash dividends and share repurchases. On May 11, 2015, we entered into an accelerated share repurchase agreement to purchase $400 million in shares of our common stock as part of capital return program. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to continued capital availability and our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders and are in compliance with all laws and agreements of NVIDIA applicable to the declaration and payment of cash dividends. 
+
+&#32;30 
+
+Operating Capital and Capital Expenditure Requirements 
+
+We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating, acquisition, share repurchase, cash dividend and capital requirements for at least the next twelve months. However, there is no assurance that we will not need to raise additional equity or debt financing within this time frame. For example, we plan to break ground on our new Santa Clara, California campus in the second quarter of fiscal year 2016. We expect the total costs for this project to be in the range of $365 million to $380 million and we plan to obtain financing for it. Additional financing may not be available on favorable terms or at all and may be dilutive to our then-current shareholders. We also may require additional capital for other purposes not presently contemplated. 
+
+Contractual Obligations 
+
+As of April 26, 2015 , we had outstanding inventory purchase obligations totaling $398 million . There were no other material changes in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 25, 2015 . 
+
+Please see Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for a description of our contractual obligations. 
+
+Off-Balance Sheet Arrangements 
+
+As of April 26, 2015 , we had no material off-balance sheet arrangements as defined in Regulation S-K 303(a)(4)(ii). 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Please see Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+&#32;31 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Please refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the year ended January 25, 2015. There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the year ended January 25, 2015 with the exception of the risks identified below. 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the year ended January 25, 2015 and the risks set forth below. Additionally, any one of those risks could seriously harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+
+Our inability to effectively manage the wind down or to complete the sale of our Icera modem operations could adversely affect our financial condition and results of operations. 
+
+We announced the wind-down or potential sale of our Icera modem operations in the second quarter of fiscal year 2016. We estimate restructuring charges to our GAAP results in the range of $100 million to $125 million, primarily during fiscal year 2016, consisting of severance and other employee termination benefits, tax expense items, and other costs associated with the wind-down, if we are unable to sell the modem operations. Furthermore, our workforce may be reduced by approximately 500 employees, based primarily in the U.K. and France. Although the wind-down or a sale of the Icera modem technology or operations is expected to benefit our non-GAAP operating expenses in the second half of the year, there is no guarantee that a wind-down will be completed in the expected timeframe, or that a sale of the Icera business would happen at all. Additionally, if we experience inefficiencies or incremental costs in connection with our restructuring activities, we may be unable to meaningfully realize cost savings and we may incur expenses in excess of what we anticipate. Either of these outcomes could adversely impact our results of operations and financial condition. 
+
+&#32;33 
+

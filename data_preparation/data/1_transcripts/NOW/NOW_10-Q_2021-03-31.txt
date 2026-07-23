@@ -1,0 +1,280 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; 
+
+The following discussion and analysis of our financial condition, results of operations and cash flows should be read in conjunction with the (1) unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, and (2) the audited consolidated financial statements and notes thereto and management&#8217;s discussion and analysis of financial condition and results of operations for the year ended December 31, 2020 included in the Annual Report on Form 10-K filed with the Securities and Exchange Commission (the &#8220;SEC&#8221;), on February 12, 2021. This Quarterly Report on Form 10-Q contains &#8220;forward-looking statements&#8221; within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;). These statements are often identified by the use of words such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;believe,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;could,&#8221; &#8220;estimate,&#8221; or &#8220;continue,&#8221; and similar expressions or variations. Such forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, impacts on our business, future financial performance and general economic conditions due to the current COVID-19 pandemic, those identified herein, and those discussed in the section titled &#8220;Risk Factors&#8221; in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC on February 12, 2021 and in our other SEC filings. We disclaim any obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. 
+
+Investors and others should note that we announce material financial information to our investors using our investor relations website (https://www.servicenow.com/company/investor-relations.html), SEC filings, press releases, public conference calls and webcasts. We use these channels, as well as social media, to communicate with our investors and the public about our company, our services and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on the social media channels listed on our investor relations website. 
+
+Our free cash flow and billings measures included in the sections entitled &#8220;&#8212;Key Business Metrics&#8212;Free Cash Flow,&#8221; and &#8220;&#8212;Key Business Metrics&#8212;Billings&#8221; are not in accordance with GAAP. These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. These measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We encourage investors to carefully consider our results under GAAP, as well as our supplemental non-GAAP results, to more fully understand our business. 
+
+COVID-19 Environment 
+
+The COVID-19 pandemic has created significant global economic uncertainty, adversely impacted the business of our customers, partners and vendors, and impacted our business and results of operations. As of the filing date, the extent to which the COVID-19 pandemic may continue to impact our business and future financial condition or results of operations remains uncertain. We are continuing to monitor the actual and potential effects of the COVID-19 pandemic across our business. While our revenues, billings and earnings are relatively predictable as a result of our subscription-based business model, the effect of the COVID-19 pandemic, along with the seasonality we historically experience, may not be fully reflected in our results of operations and overall financial performance until future periods, if at all, and could cause our future results of operations to vary significantly from period to period. As the uncertainty continues, we may experience an increase in curtailed customer demand, reduced customer spend or contract duration, delayed collections, lengthened payment terms, lengthened sales cycles or competition due to changes in terms and conditions and pricing of our competitors&#8217; products and services, our business, results of operations and overall financial performance in future periods could be materially adversely affected. Additionally, it is unclear to what extent certain reductions in expenditures noted in the year ended December 31, 2020 into the first quarter of 2021 due to actions taken in response to the COVID-19 pandemic will continue to be reduced below historical levels. The extent and continued impact of the COVID-19 pandemic on our operational and financial performance will depend on certain developments, including: the duration and spread of the outbreak; government responses, including the effectiveness, extent and duration of mitigation efforts such as &#8220;shelter in place&#8221;, availability of vaccinations and similar directives; impact on our customers, sales cycles and ability to generate new business; impact on our customer, industry or employee events; extent of delays in hiring and onboarding new employees mainly in our general and administrative functions; and effect on our partners, vendors and supply chains; all of which are highly uncertain and difficult to predict. 
+
+In response to the COVID-19 pandemic, we continue to focus on maintaining business continuity, helping our employees, customers and communities, and preparing for the future and the long-term success of our business. We released various applications beginning in the first quarter of 2020 to help customers navigate the COVID-19 pandemic including the essential steps for returning employees to the workplace to support their health and safety and help users, healthcare providers and clinics to manage vaccinations from start to finish. Further, we temporarily closed most of our offices beginning in the first quarter of 2020 and encouraged our employees to work remotely, which remains in effect in the second quarter of 2021 and could extend into future quarters. The impact, if any, of these and any additional operational changes we may implement is uncertain but changes we have implemented have not affected and are not expected to affect our ability to maintain oper ations, including financial reporting systems, internal control over financial reporting and disclosure controls and procedures. See the section &#8220;Risk Factors&#8221; in Part 1, Item 1A of our Annual Report on Form 10-K filed with the SEC on February 12, 2021 for further discussion of the possible impact of the COVID-19 pandemic on our business. 
+
+Overview 
+
+ServiceNow&#8217;s purpose is to make the world of work, work better for people. We believe that people want the technology they use in their work to be more efficient and easier to use. We build applications to meet that demand by automating existing processes and creating efficient, digitized workflows with a consumer grade user experience. Our products and services enable the steps of a job to flow naturally across disparate departments, systems and processes of a business. When work flows naturally, great experiences follow. We primarily deliver our software via the Internet as a service through a simple and easy-to-use interface so that we can rapidly deploy our packaged offerings, and customers can easily build their custom applications. In a minority of cases, customers choose to host our software by themselves or through a third-party service provider. 
+
+We generally offer our services on an annual subscription fee basis, which includes access to the ordered subscription service and related standard and enhanced support, including updates to the subscription service during the subscription term. Pricing for our subscription services is based on a number of factors, including duration of subscription term, volume, mix of products purchased, and discounts. We generate sales through our direct sales team and, to a lesser extent, indirectly through resale partners and third-party referrals. We also generate revenues from professional services and for training of customer and partner personnel. Our professional services organization is focused on strategic advisory, implementation and consulting services to accelerate platform adoption and drive customer outcomes. We generally bill our customers annually in advance for subscription services and monthly in arrears for our professional services as the work is performed. 
+
+A majority of our revenues come from large global enterprise customers. We continue to invest in the development of our services, infrastructure and sales and marketing to drive long-term growth. 
+
+Key Business Metrics 
+
+Remaining performance obligations. Transaction price allocated to remaining performance obligations (&#8220;RPO&#8221;) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancelable amounts that will be invoiced and recognized as revenue in future periods. RPO excludes contracts that are billed in arrears, such as certain time and materials contracts, as we apply the &#8220;right to invoice&#8221; practical expedient under relevant accounting guidance. Current remaining performance obligations (&#8220;cRPO&#8221;) represents RPO that will be recognized as revenue in the next 12 months. 
+
+As of March 31, 2021, our RPO was $8.8 billion, of which 50% represented cRPO. Factors that may cause our RPO to vary from period to period include the following: 
+
+&#8226; Foreign currency exchange rates . While a majority of our contracts have historically been in U.S. Dollars, an increasing percentage of our contracts in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates as of the balance sheet date will cause variability in our RPO. 
+
+&#8226; Mix of offerings . In a minority of cases, we allow our customers to host our software by themselves or through a third-party service provider. In self-hosted offerings, we recognize a portion of the revenue upfront upon the delivery of the software and as a result, such revenue is excluded from RPO. 
+
+&#160; 
+
+&#8226; Subscription start date . From time to time, we enter into contracts with a subscription start date in the future and these amounts are included in RPO if such contracts are signed by the balance sheet date. 
+
+&#160; 
+
+&#8226; Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time, customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+&#8226; Contract duration . While we typically enter into multi-year subscription services, the duration of our contracts varies. Further, we continue to see an increase in the number of 12-month agreements entered into with the U.S. Federal government throughout the year which has been the highest in the quarter ended September 30, driven primarily by timing of their annual budget expenditures. We sometimes also enter into contracts with durations that have a 12-month or shorter term to enable the contracts to co-terminate with the existing contract. The contract duration will cause variability in our RPO. 
+
+Number of customers with ACV greater than $1 million. We count the total number of customers with annual contract value (&#8220;ACV&#8221;) greater than $1 million as of the end of the period. We had 1,146 and 933 customers with ACV greater than $1 million as of March 31, 2021 and 2020, respectively. For purposes of customer count, a customer is defined as an entity that has a unique Dunn &#38; Bradstreet Global Ultimate (&#8220;GULT&#8221;) Data Universal Numbering System (&#8220;DUNS&#8221;) number and an active subscription contract as of the measurement date. The DUNS number is a global standard for business identification and tracking. We make exceptions for holding companies, government entities and other organizations for which the GULT, in our judgment, does not accurately represent the ServiceNow customer. For example, while all U.S. government agencies roll up to &#8220;Government of the United States&#8221; under the GULT, we count each government agency that we contract with as a separate customer. Our customer count is subject to adjustments for acquisitions, spin-offs and other market activity; accordingly, we restate previously disclosed number of customers with ACV greater than $1 million calculations to allow for comparability. ACV is calculated based on the foreign exchange rate in effect at the time the contract was signed. Foreign exchange rate fluctuations could cause some variability in the number of customers with ACV greater than $1 million. We believe information regarding the total number of customers with ACV greater than $1 million provides useful information to investors because it is an indicator of our growing customer base and demonstrates the value customers are receiving from the Now Platform. 
+
+Free cash flow. We define free cash flow, a non-GAAP financial measure, as GAAP net cash provided by operating activities reduced by purchases of property and equipment. Purchases of property and equipment are otherwise included in cash used in investing activities under GAAP. We believe information regarding free cash flow provides useful information to investors because it is an indicator of the strength and performance of our business operations. However, our calculation of free cash flow may not be comparable to similar measures used by other companies. A calculation of free cash flow is provided below: 
+
+Three Months Ended March 31, % Change 2021 2020 (dollars in millions) Free cash flow: Net cash provided by operating activities $ 727 $ 492 48 % Purchases of property and equipment (107) (83) 29 % Free cash flow (1) 
+
+$ 620 $ 409 52 % 
+
+(1) Free cash flow for the three months ended March 31, 2021 includes the effect of $7 million relating to the repayments of convertible senior notes attributable to debt discount. Refer to Note 10 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for further details. 
+
+We have historically seen higher collections in the quarter ended March 31 due to seasonality in timing of entering into customer contracts, which is significantly higher in the quarter ended December 31. Additionally, we have historically seen higher disbursements in the quarters ended March 31 and September 30 due to payouts under our annual commission plans, purchases under our employee stock purchase plan, payouts under our bonus plans and coupon payments related to our 2030 Notes beginning 2021. 
+
+Renewal rate. We calculate our renewal rate by subtracting our attrition rate from 100%. Our attrition rate for a period is equal to the ACV from customers lost during the period, divided by the sum of (i) the total ACV from all customers that renewed during the period, excluding changes in price or users, and (ii) the total ACV from all customers lost during the period. Accordingly, our renewal rate is calculated based on ACV and is not based on the number of customers that have renewed. Further, our renewal rate does not reflect increased or decreased purchases from our customers to the extent such customers are not lost customers or lapsed renewal. A lost customer is a customer that did not renew an expiring contract and that, in our judgment, will not be renewed. Typically, a customer that reduces its subscription upon renewal is not considered a lost customer. However, in instances where the subscription decrease represents the majority of the customer&#8217;s ACV, we may deem the renewal as a lost customer. For our renewal rate calculation, we define a customer as an entity with a separate production instance of our service and an active subscription contract as of the measurement date, instead of an entity with a unique GULT or DUNS number. We adjust our renewal rate for acquisitions, consolidations and other customer events that cause the merging of two or more accounts occurring at the time of renewal. Additionally, starting in 2020, we simplified our methodology related to contracts less than 12 months to derive ACV used to calculate renewal rate. Previously disclosed renewal rates may be restated to reflect such adjustments or methodology simplification to allow for comparability. However, there were no material changes to such previously disclosed renewal rates. Our renewal rate was 97% for each of the three months ended March 31, 2021 and 2020. As our renewal rate is impacted by the timing of renewals, which could occur in advance of, or subsequent to the original contract end date, period-to-period comparison of renewal rates may not be meaningful. 
+
+Billings. We define billings, a non-GAAP financial measure, as GAAP revenues recognized plus the change in total GAAP unbilled receivables, deferred revenue and customer deposits as presented on the condensed consolidated statements of cash flows. The calculation of billings is provided below: 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 (dollars in millions) Billings: Total revenues $ 1,360 $ 1,046 30 % Change in deferred revenue, unbilled receivables and customer deposits (1) 
+
+75 57 32 % Total billings $ 1,435 $ 1,103 30 % Year over year percentage change in total billings 30 % 29 % 
+
+(1) As presented on or derived from our condensed consolidated statements of cash flows. 
+
+Billings consists of amounts invoiced for subscription contracts with existing customers, renewal contracts, expansion contracts, contracts with new customers, and contracts for professional services and training. Factors that may cause our billings results to vary from period to period include the following: 
+
+&#8226; Billings duration . While we typically bill customers annually in advance for our subscription services, customers sometimes request, and we accommodate, billings with durations less than or greater than the typical 12-month term. 
+
+&#8226; Contract start date . From time to time, we enter into contracts with a contract start date in the future, and we exclude these amounts from billings as these amounts are not included in our condensed consolidated balance sheets, unless such amounts have been paid as of the balance sheet date. 
+
+&#8226; Foreign currency exchange rates . While a majority of our billings have historically been in U.S. Dollars, an increasing percentage of our billings in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates will cause variability in our billings. 
+
+Foreign currency rate fluctuations had a favorable impact of $41 million on billings for the three months ended March 31, 2021. Changes in billings duration had a favorable impact of $11 million for the three months ended March 31, 2021. 
+
+&#8226; Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+&#8226; Seasonality . We have historically experienced seasonality in terms of when we enter into customer agreements for our services. We sign a significantly higher percentage of agreements with new customers, as well as expansion with existing customers, in the fourth quarter of each year. The increase in customer agreements for the fourth quarter is primarily a result of both large enterprise account buying patterns typical in the software industry, which are driven primarily by the expiration of annual authorized budgeted expenditures, and the terms of our commission plans, which incentivize our direct sales organization to meet their annual quotas by December 31. Furthermore, we usually sign a significant portion of these agreements during the last month, and often the last two weeks, of each quarter. This seasonality in the timing of entering into customer contracts is sometimes not immediately apparent in our billings, due to the fact that we typically exclude cloud-offering contracts with a future start date from our billings, unless such amounts have been paid as of the balance sheet date. Similarly, this seasonality is reflected to a much lesser extent, and sometimes is not immediately apparent in our revenues, due to the fact that we recognize subscription revenues from our cloud offering contracts over the term of the subscription agreement, which is generally 12 to 36 months. Although these seasonal factors are common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance. Further, the seasonal factors could be heightened due to the impact of the current gross domestic product contraction and other impacts unknown at this time on our customers and sales cycles caused by the COVID-19 pandemic. 
+
+While we believe billings is one indicator of the performance of our business, due to the factors described above, an increase or decrease in billings may not reflect the actual performance for that reporting period. 
+
+To facilitate greater year-over-year comparability in our billings results, we disclose the impact that foreign currency rate fluctuations and fluctuations in billings duration had on our billings. The impact of foreign currency rate fluctuations is calculated by translating the current period results for entities reporting in currencies other than U.S. Dollars into U.S. Dollars at the exchange rates in effect during the prior period presented, rather than the actual exchange rates in effect during the current period. The impact of fluctuations in billings duration is calculated by replacing the portion of multi-year billings in excess of 12 months during the current period with the portion of multi-year billings in excess of 12 months during the prior period presented. Notwithstanding the adjustments described above, the comparability of billings results from period to period remains subject to the impact of variations in the dollar value of contracts with future start dates and the timing of contract renewals, for which no adjustments have been presented. 
+
+Components of Results of Operations 
+
+&#160; 
+
+Revenues 
+
+Subscription revenues . Subscription revenues are primarily comprised of fees that give customers access to the ordered subscription service for both self-hosted offerings and cloud-based subscription offerings, and related standard and enhanced support and updates, if any, to the subscription service during the subscription term. For our cloud-based offerings, we recognize revenue ratably over the subscription term. For self-hosted offerings, a substantial portion of the sales price is recognized upon delivery of the software, which may cause greater variability in our subscription revenues and subscription gross margin. Pricing includes multiple instances, hosting and support services, data backup and disaster recovery services, as well as future updates, when and if available, offered during the subscription term. We typically invoice our customers for subscription fees in annual increments upon execution of the initial contract or subsequent renewal. Our contracts are generally non-cancelable during the subscription term, though a customer can terminate for breach if we materially fail to perform. 
+
+Professional services and other revenues . Our arrangements for professional services are primarily on a time-and-materials basis and we generally invoice our customers monthly in arrears for the professional services based on actual hours and expenses incurred. Some of our professional services arrangements are on a fixed fee or subscription basis. Professional services revenues are recognized as services are delivered. Other revenues primarily consist of fees from customer training delivered on-site or through publicly available classes. Typical payment terms require our customers to pay us within 30 days of invoice. 
+
+We sell our subscription services primarily through our direct sales organization. We also sell services through managed service providers and resale partners. We also generate revenues from certain professional services and from training of customers and partner personnel, through both our direct team and indirect channel sales. Revenues from our direct sales organization represented 80% and 81% of our total revenues for the three months ended March 31, 2021 and 2020, respectively. For purposes of calculating revenues from our direct sales organization, revenues from systems integrators and managed services providers are included as part of the direct sales organization. 
+
+Cost of Revenues 
+
+Cost of subscription revenues . Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which include colocation costs associated with our data centers as well as interconnectivity between data centers, depreciation related to our infrastructure hardware equipment dedicated for customer use, amortization of intangible assets, expenses associated with software, public cloud service costs. IT services and dedicated customer support, personnel-related costs directly associated with data center operations and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. 
+
+Cost of professional services and other revenues . Cost of professional services and other revenues consists primarily of personnel-related costs directly associated with our professional services and training departments, including salaries, benefits, bonuses and stock-based compensation, the costs of contracted third-party partners, travel expenses and allocated overhead. 
+
+Professional services are performed directly by our services team, as well as by contracted third-party partners. Fees paid by us to third-party partners are primarily recognized as cost of revenues as the professional services are delivered. Cost of revenues associated with our professional services engagements contracted with third-party partners as a percentage of professional services and other revenues was 10% and 11% for the three months ended March 31, 2021 and 2020, respectively. 
+
+Sales and Marketing 
+
+Sales and marketing expenses consist primarily of personnel-related expenses directly associated with our sales and marketing staff, including salaries, benefits, bonuses and stock-based compensation. Sales and marketing expenses also include the amortization of commissions paid to our sales employees, including related payroll taxes and fringe benefits. From time to time, third parties provide us referrals for which we pay a referral fee. We include revenues associated with these referrals as part of revenues from our direct sales organization. Referral fees paid to these third parties are generally 10% of the customer&#8217;s net new ACV. We defer referral fees paid as they are considered incremental selling costs associated with acquiring customer contracts and include the amortization of these referral fees in sales and marketing expense. In addition, sales and marketing expenses include branding expenses, marketing program expenses, which include events such as Knowledge, and costs associated with purchasing advertising and marketing data, software and subscription services dedicated for sales and marketing use and allocated overhead. 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses consist primarily of personnel-related expenses directly associated with our research and development staff, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. Research and development expenses also include data center capacity costs, costs associated with outside services contracted for research and development purposes and depreciation of infrastructure hardware equipment that is used solely for research and development purposes. 
+
+&#160; 
+
+General and Administrative 
+
+&#160; 
+
+General and administrative expenses consist primarily of personnel-related expenses for our executive, finance, legal, human resources, facilities and administrative personnel, including salaries, benefits, bonuses and stock-based compensation, external legal, accounting and other professional services fees, other corporate expenses, amortization of intangible assets and allocated overhead. 
+
+&#160; 
+
+Provision for Income Taxes 
+
+Provision for income taxes consists of federal, state and foreign income taxes. Due to cumulative losses, we maintain a valuation allowance against our U.S. deferred tax assets as of March 31, 2021. We consider all available evidence, both positive and negative, including but not limited to earnings history, projected future outcomes, industry and market trends and the nature of each of the deferred tax assets in assessing the extent to which a valuation allowance should be applied against our U.S. and foreign deferred tax assets. 
+
+Results of Operations 
+
+&#160; 
+
+Revenues 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Revenues: Subscription $ 1,293 $ 995 30 % Professional services and other 67 51 31 % Total revenues $ 1,360 $ 1,046 30 % Percentage of revenues: Subscription 95% 95% Professional services and other 5% 5% Total 100% 100% 
+
+Subscription revenues increased by $298 million for the three months ended March 31, 2021 compared to the same period in the prior year, driven by increased purchases by existing customers and an increase in customer count. Included in subscription revenues is $73 million and $66 million of revenues recognized upfront from the delivery of software associated with self-hosted offerings during the three months ended March 31, 2021 and 2020, respectively. 
+
+We expect subscription revenues for the year ending December 31, 2021 to increase in absolute dollars as we continue to add new customers and existing customers increase their usage of our products but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2020. We continue to monitor the COVID-19 pandemic in 2021 and its impact on customer acquisition and renewal rates. 
+
+Our expectations for revenues, cost of revenues and operating expenses for the remainder of 2021 are based on foreign exchange rates as of March 31, 2021. 
+
+Subscription revenues consist of the following: 
+
+Three Months Ended March 31, % Change 2021 2020 (dollars in millions) Digital workflow products $ 1,131 $ 868 30 % ITOM products 162 127 28 % Total subscription revenues $ 1,293 $ 995 30 % 
+
+Our digital workflow products include the Now Platform, IT Service Management, IT Business Management, DevOps, IT Asset Management, Security Operations, Governance, Risk and Compliance, HR Service Delivery, Safe Workplace Suite of applications, Workplace Service Delivery, Legal Service Delivery, Customer Service Management, Field Service Management, Connected Operations, Financial Services Operations, Telecommunications Service Management, Telecommunications Network Performance Management, App Engine and IntegrationHub, and are generally priced on a per user basis. Our ITOM products are generally priced on a per node (physical or virtual server) basis. 
+
+Professional services and other revenues increased by $16 million during the three months ended March 31, 2021 compared to the same period in the prior year due to an increase in services and trainings provided to new and existing customers. We expect professional services and other revenues for the year ending December 31, 2021 to increase in absolute dollars but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2020. We are increasingly focused on deploying our internal professional services organization as a strategic resource and relying on our partner ecosystem to contract directly with customers for implementation services delivery. 
+
+Cost of Revenues and Gross Profit Percentage 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Cost of revenues: Subscription $ 228 $ 160 43 % Professional services and other 71 63 13 % Total cost of revenues $ 299 $ 223 34 % Gross profit percentage: Subscription 82% 84% Professional services and other (6%) (23%) Total gross profit percentage 78% 79% Gross profit $ 1,061 $ 823 
+
+Cost of subscription revenues increased by $68 million for the three months ended March 31, 2021 compared to the same period in the prior year primarily due to increased headcount and increased costs to support the growth of our subscription offerings. Personnel-related costs including stock-based compensation and overhead expenses increased by $27 million. In addition, depreciation expense related to data center hardware, software and maintenance costs to support the expansion of our data center capacity including public cloud service costs increased by $35 million for the three months ended March 31, 2021 compared to the same period in the prior year. 
+
+We expect our cost of subscription revenues to increase in absolute dollars as we provide subscription services to more customers and increase usage within our customer instances. Our subscription gross profit percentage was 82% for the three months ended March 31, 2021 compared to 84% for the three months ended March 31, 2020. We expect our subscription gross profit percentage to slightly decrease for the year ending December 31, 2021 compared to the year ended December 31, 2020 primarily due to incremental costs for our customers in regulated markets to move to our public cloud offering as well as increased support for customers impacted by new and evolving data residency requirements. To the extent future acquisitions are consummated, our cost of subscription revenues may increase due to additional non-cash charges associated with the amortization of intangible assets acquired. 
+
+Cost of professional services and other revenues increased by $8 million for the three months ended March 31, 2021 compared to the same period in the prior year, primarily due to increased headcount, resulting in an increase in personnel-related costs including stock-based compensation. 
+
+Our professional services and other gross loss percentage decreased to 6% for the three months ended March 31, 2021 from 23% for the three months ended March 31, 2020 primarily driven by the increased utilization of our internal professional services organization and the reduction in certain travel expenses. We expect our professional services and other gross loss percentage to decrease for the year ending December 31, 2021 compared to the year ended December 31, 2020 as we continue to stabilize our utilization of our internal professional services organization. 
+
+Sales and Marketing 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Sales and marketing $ 524 $ 441 19 % Percentage of revenues 39% 42% 
+
+Sales and marketing expenses increased by $83 million for the three months ended March 31, 2021 compared to the same period in the prior year, primarily due to increased headcount, resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $72 million. Amortization expenses associated with deferred commissions and third-party referral fees increased $18 million for the three months ended March 31, 2021 compared to the same period in the prior year, due to an increase in contracts with new customers, expansion and renewal contracts. Other sales and marketing program expenses, which include branding expenses and costs associated with purchasing advertising and market data and outside services, decreased by $4 million during the three months ended March 31, 2021 compared to the same period in the prior year. 
+
+Amid the ongoing regulatory restrictions imposed by governments worldwide in response to the COVID-19 pandemic, we continue to temporarily close most of our offices to ensure the well-being and safety of our global employees, office staff and communities, and encourage our employees to work remotely and limit travel. Further, we converted certain in-person events to digital events in the first quarter of 2021, which resulted in a decrease of $5 million for the three months ended March 31, 2021 compared to the same period in the prior year. 
+
+Despite the uncertainty around the continued impact of the COVID-19 pandemic and its duration, we expect sales and marketing expenses to increase in absolute dollars, but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2020, as we continue to expand our direct sales organization, increase our marketing activities, grow our international operations and continue to build brand awareness. 
+
+Research and Development 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Research and development $ 314 $ 227 38 % Percentage of revenues 23% 22% 
+
+Research and development expenses increased by $87 million for the three months ended March 31, 2021 compared to the same period in the prior year primarily due to increased headcount, resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $84 million. The remaining increase was primarily due to increases in outside service costs, hosting costs and data center related depreciation costs to support research and development activities . 
+
+We expect research and development expenses for the year ending December 31, 2021 to increase in absolute dollars but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2020 as we continue to improve the existing functionality of our services, develop new applications to fill market needs and enhance our core platform. 
+
+General and Administrative 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; General and administrative $ 126 $ 106 19 % Percentage of revenues 9% 10% 
+
+&#160; 
+
+General and administrative expenses increased by $20 million for the three months ended March 31, 2021 compared to the same period in the prior year primarily due to increased headcount, resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $16 million. The remaining increase was primarily due to increase in acquisition-related expenses and outside services to support our administrative functions. 
+
+We expect general and administrative expenses to increase in absolute dollars for the year ending December 31, 2021 but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2020, as we continue to hire new employees. 
+
+Stock-based Compensation 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Cost of revenues: Subscription $ 29 $ 22 32 % Professional services and other 13 12 8 % Operating expenses: Sales and marketing 93 70 33 % Research and development 88 59 49 % General and administrative 33 26 27 % Total stock-based compensation $ 256 $ 189 35 % Percentage of revenues 19% 18% 
+
+Stock-based compensation increased by $67 million for the three months ended March 31, 2021 compared to the same period in the prior year, primarily due to additional grants to current and new employees. 
+
+Stock-based compensation is inherently difficult to forecast due to fluctuations in our stock price. Based upon our stock price as of March 31, 2021, we expect stock-based compensation to continue to increase in absolute dollars for the year ending December 31, 2021 as we continue to issue stock-based awards to our employees, but remain relatively flat as a percentage of revenues compared to the year ended December 31, 2020, but we expect this to decline over time as we continue to grow. 
+
+Foreign Currency Exchange 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues. Revenues outside North America represented 35% and 33% of total revenues for the three months ended March 31, 2021 and 2020, respectively. 
+
+Because we primarily transact in foreign currencies for sales outside of the United States, the general weakening of the U.S. Dollar relative to other major foreign currencies had a favorable impact on our revenues for the three months ended March 31, 2021. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the three months ended March 31, 2021 at the exchange rates in effect for the three months ended March 31, 2020 rather than the actual exchange rates in effect during the period, our reported subscription revenues would have been $37 million lower for the period. The impact from the foreign currency movements from the three months ended March 31, 2020 to the three months ended March 31, 2021 was not material for professional services and other revenues. 
+
+In addition, because we primarily transact in foreign currencies for cost of revenues and operating expenses outside of the United States, the general weakening of the U.S. Dollar relative to other major foreign currencies had an unfavorable impact on our cost of revenues and sales and marketing expenses for the three months ended March 31, 2021. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the three months ended March 31, 2021 at the exchange rates in effect for the three months ended March 31, 2020 rather than the actual exchange rates in effect during the period, our reported cost of revenues and sales and marketing expenses would have been $8 million and $10 million lower, respectively. The impact from the foreign currency movements from the three months ended March 31, 2020 to the three months ended March 31, 2021 was not material to research and development and general and administrative expenses. 
+
+Interest Expense 
+
+Three Months Ended March 31, % Change 2021 2020 (dollars in millions) Interest expense $ (7) $ (9) (22 %) Percentage of revenues (1 %) (1%) 
+
+Interest expense decreased for the three months ended March 31, 2021 compared to the same period in the prior year, due to decrease in amortization expense of debt discount and issuance costs as a result of the 2022 Notes Repurchase offset by increase in debt discount, issuance cost and interest related to the 2030 Notes. For the year ending December 31, 2021, we expect to incur approximately $29 million related to the 2022 Notes and 2030 Notes. 
+
+Other Income, net 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Interest income $ 6 $ 14 (57 %) Foreign currency exchange loss, net of derivative contracts (3) (7) NM Unrealized gain on non-marketable securities 8 &#8212; NM Other (2) 1 NM Other income, net $ 9 $ 8 13 % Percentage of revenues 1% 1% 
+
+NM - Not meaningful. 
+
+&#160; 
+
+Other income, net increased by $1 million for the three months ended March 31, 2021 compared to the same period in the prior year, primarily driven by $8 million unrealized gain on equity investments in privately-held companies offset by a decrease in interest income by $8 million compared to the same period in the prior year due to decline in interest rates for the three months ended March 31, 2021 compared to the same period in the prior year. 
+
+To mitigate our risks associated with fluctuations in foreign currency exchange rates, we enter into foreign currency derivative contracts with maturities of 12 months or less to hedge a portion of our net outstanding monetary assets and liabilities. These hedging contracts may reduce, but cannot entirely eliminate, the impact of adverse currency exchange rate movements. 
+
+Provision for Income Taxes 
+
+&#160; Three Months Ended March 31, % Change 2021 2020 &#160; &#160; (dollars in millions) &#160; Income before income taxes $ 99 $ 48 106 % Provision for income taxes 17 &#8212; NM Effective tax rate 17% &#8212;% 
+
+NM - Not meaningful. 
+
+Our income tax provision was $17 million for the three months ended March 31, 2021. The income tax provision was primarily attributable to the mix of earnings and losses in countries with differing statutory tax rates, and the valuation allowance in the United States. Our income tax provision was not material for the three months ended March 31, 2020, as our foreign taxes were entirely offset by release of valuation allowance resulting from an acquisition and excess tax benefits of stock-based compensation. 
+
+We continue to maintain a full valuation allowance on our U.S. federal and state deferred tax assets and the significant components of the tax expense recorded are current cash taxes payable in various jurisdictions. The cash tax expenses are impacted by each jurisdiction&#8217;s individual tax rates, laws on timing of recognition of income and deductions, and availability of net operating losses and tax credits. Given the full valuation allowance, sensitivity of current cash taxes to local rules and our foreign structuring, we expect that our effective tax rate could fluctuate significantly on a quarterly basis and could be adversely affected to the extent earnings are lower than anticipated in countries that have lower statutory rates and higher than anticipated in countries that have higher statutory rates. 
+
+Liquidity and Capital Resources 
+
+Our principal sources of liquidity are our cash and cash equivalents, investments, and cash generated from operations. As of March 31, 2021, we had $3.5 billion in cash and cash equivalents and short-term investments, of which $528 million represented cash held by foreign subsidiaries and $411 million is denominated in currencies other than the U.S. Dollar. In addition, we had $1.3 billion in long-term investments that provide additional capital resources. We do not anticipate that we will need funds generated from foreign operations to fund our domestic operations. 
+
+In August 2020, we issued 1.40% fixed rate ten-year notes with an aggregate principal amount of $1.5 billion due on September 1, 2030 (the &#8220;2030 Notes&#8221;). The 2030 Notes were issued at 99.63% of principal and we incurred approximately $13 million for debt issuance costs. Interest is payable semi-annually in arrears on March 1 and September 1 of each year, beginning on March 1, 2021, and the entire outstanding principal amount is due at maturity on September 1, 2030. The 2030 Notes are unsecured obligations and the indentures governing the 2030 Notes contain customary events of default and customary covenants that, among others and subject to exceptions, restrict the Company&#8217;s ability to incur or guarantee debt secured by liens on specified assets or enter into sale and lease-back transactions with respect to specified properties. 
+
+In May and June 2017, we issued the 2022 Notes with an aggregate principal amount of $782.5 million. In connection with the issuance of the 2022 Notes, we entered into the 2022 Note Hedge transactions and 2022 Warrants transactions with certain financial institutions. The price of our common stock was greater than or equal to 130% of the conversion price of the 2022 Notes for at least 20 trading days during the 30 consecutive trading days ending on the last trading day of the quarters ended June 30, 2018 through March 31, 2021, except for the quarter ended December 31, 2018. Therefore, our 2022 Notes became convertible at the holders&#8217; option beginning on July 1, 2018 and continue to be convertible through June 30, 2021, except for the quarter ended March 31, 2019 because the Conversion Condition for the 2022 Notes was not met for the quarter ended December 31, 2018. The impact of the 2022 Notes on our liquidity will depend on the settlement method we elect. We currently intend to settle the principal amount of any converted 2022 Notes in cash. During the three months ended March 31, 2021, we paid cash to settle $34 million in principal of the 2022 Notes. Additionally, we repurchased $497 million in aggregate principal amount of the 2022 Notes (the &#8220;2022 Notes Repurchase&#8221;) which was accounted for as a debt extinguishment. We used proceeds from the partial unwind of the 2022 Note Hedge of $1.1 billion for the 2022 Notes Repurchase. 
+
+Based on conversion requests received through the filing date, we expect to settle in cash an aggregate of approximately $30 million in principal amount of the 2022 Notes during the second quarter of 2021. We may receive additional conversion requests that require settlement in the second quarter of 2021 and future periods. 
+
+During the three months ended March 31, 2021 and year ended December 31, 2020, we issued 0.5 million and 2.3 million shares of our common stock upon partial unwind of the 2022 Warrants, respectively. We expect to issue additional shares of our common stock in the second half of 2022 upon the automatic exercise of the remaining portion of the 2022 Warrants. As the remaining portion of the 2022 Warrants will be net share settled, there will be no impact on our liquidity. The total number of shares of our common stock we will issue depends on the daily volume-weighted average stock prices over a 60 trading day period beginning on the first expiration date of the remaining portion of the 2022 Warrants, which will be September 1, 2022. Refer to Note 10 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+
+Cash from operations could be affected by various risks and uncertainties, including, but not limited to, the effects of the COVID-19 pandemic and other risks detailed in the section &#8220;Risk Factors&#8221; in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC on February 12, 2021. However, we anticipate our current cash, cash equivalents and investments balance and anticipated cash flows generated from operations based on our current business plan and revenue prospects will be sufficient to meet our liquidity needs, including the repayment of any early conversions of our 2022 Notes, debt service costs, expansion of data centers, lease obligations, expenditures related to the growth of our headcount and the acquisition of property and equipment, intangibles, and investments in office facilities, to accommodate our operations for at least the next 12 months. Whether these resources are adequate to meet our liquidity needs beyond that period will depend on our growth, operating results, cash utilized for acquisitions and/or debt retirements if any are consummated, and the capital expenditures required to meet possible increased demand for our services. If we require additional capital resources to grow our business or repay our 2022 Notes at any time in the future, we may seek to finance our operations from the current funds available or seek additional equity or debt financing. 
+
+&#160; Three Months Ended March 31, 2021 2020 &#160; &#160; (dollars in millions) Net cash provided by operating activities $ 727 $ 492 Net cash used in investing activities (437) (385) Net cash used in financing activities (124) (61) Net increase in cash, cash equivalents and restricted cash 148 35 
+
+Operating Activities 
+
+Net cash provided by operating activities was $727 million for the three months ended March 31, 2021 compared to $492 million for the three months ended March 31, 2020. The net increase in operating cash flow was primarily due to increases in operating income and cash collections from customers. 
+
+Investing Activities 
+
+&#160; 
+
+Net cash used in investing activities for the three months ended March 31, 2021 was $437 million compared to $385 million for the three months ended March 31, 2020. The increase in cash used in investing activities was mainly due to $130 million for business combinations, net of cash and restricted cash acquired and $24 million increase in capital expenditures related to infrastructure hardware equipment as well as offices to support our headcount growth partially offset by $103 million decrease in net purchases of investments. 
+
+Financing Activities 
+
+&#160; 
+
+Net cash used in financing activities was $124 million for the three months ended March 31, 2021 compared to $61 million for the three months ended March 31, 2020. The increase was primarily due to additional $65 million in taxes paid related to net share settlement of equity awards and $26 million repayments of convertible senior notes offset by $28 million in proceeds from employee equity plans. 
+
+Critical Accounting Policies and Significant Judgments and Estimates 
+
+There have been no changes to our critical accounting policies and estimates as described in our Annual Report on Form 10-K for the year ended December 31, 2020, which was filed with the SEC on February 12, 2021. 
+
+New Accounting Pronouncements Pending Adoption 
+
+The impact of recently issued accounting standards is set forth in Note 2, Summary of Significant Accounting Policies, of the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Investing in our securities involves a high degree of risk. You should consider carefully the risks and uncertainties described under the section &#8220;Risk Factors&#8221; in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC on February 12, 2021 and all of the other information in this Quarterly Report on Form 10-Q, including our condensed consolidated financial statements and related notes, before making an investment decision. The section &#8220;Risk Factors&#8221; in our Annual Report on Form 10-K for the year ended December 31, 2020, which was filed with the SEC on February 12, 2021, identified the risks and uncertainties that may have a material adverse effect on our business, financial condition, results of operations and future prospects. Our business could be harmed by any of these risks. Our stock price could decline due to any of these risks, and you may lose all or part of your investment. 
+

@@ -1,0 +1,4006 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; 
+
+The following discussion and analysis of our financial condition, results of operations and cash flows should be read in conjunction with the (1) unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, and (2) the audited consolidated financial statements and notes thereto and management&#8217;s discussion and analysis of financial condition and results of operations for the year ended December 31, 2016 included in the Annual Report on Form 10-K dated as of, and filed with the Securities and Exchange Commission, or the SEC, on February 28, 2017 (File No. 001-35580). This Quarterly Report on Form 10-Q contains &#8220;forward-looking statements&#8221; within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. These statements are often identified by the use of words such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;believe,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;could,&#8221; &#8220;estimate,&#8221; or &#8220;continue,&#8221; and similar expressions or variations. Such forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those identified herein, and those discussed in the section titled &#8220;Risk Factors,&#8221; set forth in Part II, Item 1A of this Quarterly Report on Form 10-Q and in our other SEC filings. We disclaim any obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. 
+
+Our billings and free cash flow measures included in the sections entitled &#8220;&#8212;Key Business Metrics&#8212;Billings,&#8221; and &#8220;&#8212;Key Business Metrics&#8212;Free Cash Flow&#8221; are not in accordance with U.S. Generally Accepted Accounting Principles (GAAP). These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. These measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We believe investors should consider these non-GAAP financial measures in evaluating our results as they are indicative of our ongoing performance and reflect how management evaluates our operational results and trends. 
+
+&#160; 
+
+Overview 
+
+ServiceNow is a leading provider of enterprise cloud computing solutions that define, structure, manage and automate services for global enterprises. Our mission is to help our customers improve service levels and reduce costs while scaling and automating their businesses. We typically deliver our software via the Internet as a service, through an easy-to-use, consumer product-like interface, which means it can be easily configured and rapidly deployed. In a minority of cases, we deploy our software on-premises at a customer data center to support a customer's unique regulatory or security requirements. 
+
+We generally offer our services on an annual subscription fee basis, which includes access to the ordered subscription service and related support, including updates to the subscribed service during the subscription term. We provide a scaled pricing model based on the duration of the subscription term, and we frequently extend discounts to our customers based on the number of users. We generate sales through our direct sales team and, to a lesser extent, indirectly through resale partners and third-party referrals. We also generate revenues from professional services for implementation and configuration services and for training of customer and partner personnel. We generally bill our customers annually in advance for subscription services and monthly in arrears for our professional services as the work is performed. 
+
+&#160; 
+
+A majority of our revenues come from large global enterprise customers. We continue to invest in the development of our services, infrastructure and sales and marketing to drive long-term growth. We increased our overall employee headcount to 5,895 as of September 30, 2017 from 4,501 as of September 30, 2016 . 
+
+Key Business Metrics 
+
+Number of customers with ACV greater than $1 million. We count the total number of customers with annualized contract value (ACV) greater than $1 million as of the end of the period. We had 436 and 308 customers with ACV greater than $1 million as of September 30, 2017 and 2016 , respectively. For purposes of customer count, a customer is defined as an entity with a unique Dunn &#38; Bradstreet Global Ultimate (GULT), Data Universal Numbering System (DUNS) number and an active subscription contract as of the measurement date. The DUNS number is a global standard for business identification and tracking. We make exceptions for holding companies, government entities and other organizations for which the GULT, in our judgment, does not accurately represent the ServiceNow customer. For example, while all U.S. government agencies roll up to "Government of the United States" under the GULT, we count each government agency that we contract with as a separate customer. Our customer count is subject to adjustments for acquisitions, spin-offs and other market activity. Previously disclosed number of customers with ACV greater than $1 million as well as our average contract term calculations are restated to allow for comparability. ACV is calculated based on the foreign exchange rate in effect at the time the contract was signed. Foreign exchange rate fluctuations could cause some variability in the number of customers with ACV greater than $1 million. 
+
+G2K customer count. The Global 2000 (G2K) customer count is defined as the total number of G2K companies in our customer base as of the end of the period. The Forbes Global 2000 is an annual ranking of the top 2,000 public companies in the world by Forbes magazine. The ranking is based on a mix of four metrics: sales, profit, assets, and market value. The Forbes Global 2000 is updated annually in the second quarter of the calendar year. Current and prior period G2K customer counts are based on the most recent list for comparability purposes. We adjust the G2K count for acquisitions, spin-offs and other market activity to ensure the G2K customer count is accurately captured. For example, we add a G2K customer when a G2K company that is not our customer acquires a company in our existing customer base that is not a G2K company. When we enter into a contract with a G2K parent company, or any of its related subsidiaries, or any combination of entities within a G2K company, we count only one G2K customer. We do not count further penetration into entities within a given G2K as a new customer in the G2K customer count. Our G2K customer count also excludes customers that have only purchased our Express product offering, which is our entry-level IT service management solution. Our G2K customer count was 815 and 707 as of September 30, 2017 and 2016 , respectively. 
+
+Average ACV per G2K customer. We calculate average ACV for our G2K customers by taking aggregate ACV from G2K customers as of the end of the period divided by the total number of G2K customers as of the end of the period. ACV is calculated based on the foreign exchange rate in effect at the time the contract was entered into, and as a result, foreign currency rate fluctuations could cause variability in the average ACV per G2K customer. Our average ACV per G2K customer was approximately $1.2 million and $1.0 million as of September 30, 2017 and 2016 , respectively. 
+
+Renewal rate. We calculate our renewal rate by subtracting our attrition rate from 100%. Our attrition rate for a period is equal to the ACV from customers lost during the period, divided by the total ACV from all customers that renewed during the period, excluding changes in price or users, and total ACV from all customers lost during the period. Accordingly, our renewal rate is calculated based on ACV and is not based on the number of customers that have renewed. A lost customer is a customer that did not renew an expiring contract and that, in our judgment, will not be renewed. Typically, a customer that reduces its subscription upon renewal is not considered a lost customer. However, in instances where the subscription decrease represents the majority of the customer's ACV, we may deem the renewal as a lost customer. For our renewal rate calculation, we define a customer as an entity with a separate production instance of our service and an active subscription contract as of the measurement date, instead of an entity with a unique GULT or DUNS number. Our renewal rate was 97% and 99% for the three months ended September 30, 2017 and 2016 , respectively, and 97% and 98% for the nine months ended September 30, 2017 and 2016 , respectively. As our renewal rate is impacted by the timing of renewals, which could occur in advance of, or subsequent to the original contract end date, period-to-period comparison of renewal rates may not be meaningful. 
+
+Billings. We define billings, a non-GAAP financial measure, as revenues recognized plus the change in total deferred revenue as presented on the condensed consolidated statements of cash flows. The change in total deferred revenue as presented on the condensed consolidated statements of cash flows represents the change in deferred revenues in local currencies translated into U.S. dollars using an average foreign currency exchange rate, and aligns actual billings with the exchange rates in effect at the time of the billings. We believe billings is a useful leading indicator regarding the performance of our business. 
+
+A calculation of billings is provided below: 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Billings: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+$ 
+
+498,170 
+
+&#160; 
+
+$ 
+
+357,656 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,386,656 
+
+&#160; 
+
+$ 
+
+1,004,847 
+
+&#160; 
+
+% 
+
+Change in deferred revenue from the condensed consolidated statements of cash flows 
+
+47,932 
+
+&#160; 
+
+46,620 
+
+&#160; 
+
+% 
+
+&#160; 
+
+193,594 
+
+&#160; 
+
+151,019 
+
+&#160; 
+
+% 
+
+Total billings 
+
+$ 
+
+546,102 
+
+&#160; 
+
+$ 
+
+404,276 
+
+&#160; 
+
+% 
+
+&#160; 
+
+$ 
+
+1,580,250 
+
+&#160; 
+
+$ 
+
+1,155,866 
+
+&#160; 
+
+% 
+
+Billings consists of amounts invoiced for subscription contracts with existing customers, renewals, upsells and new customers, and contracts for professional services, training, and our Knowledge and other customer forum events. Factors that may cause our billings results to vary from period to period include the following: 
+
+&#8226; 
+
+Billings duration . While we typically bill customers annually for our subscription services, customers sometimes request, and we accommodate, billings with durations less or greater than the typical 12-month term. 
+
+&#8226; 
+
+Contract start date . From time to time, we enter into contracts with a contract start date in the future, and we exclude these amounts from billings as these amounts are not included in our condensed consolidated balance sheets, unless such amounts have been paid as of the balance sheet date. 
+
+&#8226; 
+
+Foreign currency exchange rates . While a majority of our billings have historically been in U.S. Dollars, an increasing percentage of our billings in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. 
+
+&#8226; 
+
+Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in upselling additional products or services, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+Accordingly, while we believe billings is a useful leading indicator regarding the performance of our business, an increase or decrease in new or renewed subscriptions in a reporting period may not have an immediate impact on billings for that reporting period due to the factors above, which may offset the increase or decrease, as applicable. 
+
+To facilitate greater year-over-year comparability in our billings results, we disclose the impact that foreign currency rate fluctuations and fluctuations in billings duration had on our billings. The impact of foreign currency rate fluctuations is calculated by translating the current period results for entities reporting in currencies other than U.S. Dollars into U.S. Dollars at the exchange rates in effect during the prior period presented, rather than the actual exchange rates in effect during the current period. The impact of fluctuations in billings duration is calculated by replacing the portion of multi-year billings in excess of 12 months during the current period with the portion of multi-year billings in excess of 12 months during the prior period presented. In our Annual Report on Form 10-K for the year ended December 31, 2016, we calculated the impact of fluctuations in billings duration using a different methodology that applied the weighted average billings duration in effect during the prior period presented rather than the actual weighted average billings duration in effect during the current period. Weighted average billings duration refers to the weighted average billings duration for all our customer contracts commencing during the period, unless such amounts have been paid during the period. To the extent that multi-year billings grow and billings durations lengthen, our current methodology provides more meaningful information on the impact of multi-year billings fluctuations than our previous weighted average billings duration methodology. This change in methodology did not have a material impact on the amounts previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2016. Notwithstanding the adjustments described above, the comparability of billings results from period to period remains subject to the impact of variations in the dollar value of contracts with future start dates and the timing of contract renewals, for which no adjustments have been presented. 
+
+Foreign currency rate fluctuations had a favorable impact of $6.9 million and an unfavorable impact of $11.4 million on billings for the three and nine months ended September 30, 2017 , respectively. Changes in billings duration had an unfavorable impact of $3.9 million and a favorable impact of $14.0 million for the three and nine months ended September 30, 2017 , respectively. 
+
+We have historically experienced seasonality in terms of when we enter into customer agreements for our services. We sign a significantly higher percentage of agreements with new customers, as well as renewal agreements with existing customers, in the fourth quarter of each year. The increase in customer agreements for the fourth quarter is primarily a result of the terms of our commission plans to incentivize our direct sales force to meet their annual quotas by December 31 and large enterprise account buying patterns typical in the software industry, which are driven primarily by the expiration of annual authorized budgeted expenditures. Furthermore, we usually sign a significant portion of these agreements during the last month, and often the last two weeks, of each quarter. This seasonality in the timing of entering into customer contracts is sometimes not immediately apparent in our billings, due to the fact that we typically exclude contracts with a future start date from our billings. Similarly, this seasonality is reflected to a much lesser extent, and sometimes is not immediately apparent in our revenues, due to the fact that we recognize subscription revenues over the term of the license agreement, which is generally 12 to 36 months. Although these seasonal factors are common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance. 
+
+Free cash flow. We define free cash flow, a non-GAAP financial measure, as GAAP net cash provided by operating activities reduced by purchases of property and equipment. Purchases of property and equipment are otherwise included in cash used in investing activities under GAAP. We believe information regarding free cash flow provides useful information to investors because it is an indicator of the strength and performance of our business operations. However, our calculation of free cash flow may not be comparable to similar measures used by other companies. In addition, free cash flow is impacted by the timing of collections and disbursements, including the timing of capital expenditures. We have historically seen higher collections in the quarter ended March 31 due to seasonality in timing of entering into customer contracts in the quarter ended December 31. A calculation of free cash flow is provided below: 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Free cash flow: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net cash provided by operating activities 
+
+$ 
+
+458,039 
+
+&#160; 
+
+$ 
+
+27,234 
+
+&#160; 
+
+NM 
+
+Purchases of property and equipment 
+
+(115,856 
+
+) 
+
+&#160; 
+
+(84,112 
+
+) 
+
+&#160; 
+
+% 
+
+Free cash flow (1) 
+
+$ 
+
+342,183 
+
+&#160; 
+
+$ 
+
+(56,878 
+
+) 
+
+&#160; 
+
+NM 
+
+NM - Not meaningful. 
+
+(1) 
+
+Free cash flow includes the effect of a $267.5 million payment for legal settlement during the nine months ended September 30, 2016 . Refer to Note 15 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for further details. 
+
+Average contract term. We calculate the average contract term for new customers, upsells and renewals based on the terms of those contracts entered into during the period weighted by their ACV. The average new customer contract term was 26 months and 30 months for the three months ended September 30, 2017 and 2016 , respectively, and 30 months and 32 months for the nine months ended September 30, 2017 and 2016 , respectively. The average upsell contract term was 22 months and 25 months for the three months ended September 30, 2017 and 2016 , respectively, and 25 months for each of the nine months ended September 30, 2017 and 2016 . The average renewal contract term was 25 months and 27 months for the three months ended September 30, 2017 and 2016 , respectively, and 26 months and 27 months for the nine months ended September 30, 2017 and 2016 , respectively. 
+
+Components of Results of Operations 
+
+&#160; 
+
+Revenues 
+
+Subscription revenues . Subscription revenues are primarily comprised of fees that give customers access to the ordered subscription service, related support and upgrades, if any, to the subscription service during the subscription term. Pricing includes multiple instances, hosting and support services, data backup and disaster recovery services, as well as future upgrades, when and if available, offered during the subscription term. We typically invoice our customers for subscription fees in annual increments upon execution of the initial contract or subsequent renewal. Our contracts are generally non-cancelable during the subscription term, though a customer can terminate for breach if we materially fail to perform. 
+
+&#160; 
+
+Professional services and other revenues . Professional services revenues consist of fees associated with the implementation and configuration of our subscription service. Our arrangements for professional services are primarily on a time-and-materials basis. We generally invoice our professional services monthly in arrears based on actual hours and expenses incurred. Other revenues primarily include fees from customer training delivered on-site or publicly available classes, attendance and sponsorship fees for our annual Knowledge user conference and other customer forums. Typical payment terms require our customers to pay us within 30 days of invoice. 
+
+We generate sales directly through our sales team and, to a lesser extent, through our resale partners. Revenues from our direct sales organization represented 88% of our total revenues for each of the three months ended September 30, 2017 and 2016 , and 89% and 88% for the nine months ended September 30, 2017 and 2016 , respectively. We make sales to our resale partners at a discount and record those revenues at the discounted price when all revenue recognition criteria are met. From time to time, other third parties provide us referrals for which we pay a referral fee. We include revenues associated with these referrals as part of revenues from our direct sales organization. Referral fees paid to these third parties are between 5% and 15% of the customer's ACV, depending on the level of activity these third parties perform in the sales process. We include these fees in sales and marketing expense. 
+
+Allocation of Overhead Costs 
+
+&#160; 
+
+Overhead costs associated with office facilities, IT and certain depreciation related to infrastructure that is not dedicated for customer use or research and development use are allocated to cost of revenues and operating expenses based on headcount. 
+
+Cost of Revenues 
+
+&#160; 
+
+Cost of subscription revenues . Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which includes facility costs associated with our data centers as well as interconnectivity between data centers, depreciation related to our infrastructure hardware equipment dedicated for customer use, amortization of intangible assets and personnel-related costs directly associated with data center operations and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. 
+
+&#160; 
+
+Cost of professional services and other revenues . Cost of professional services and other revenues consists primarily of personnel-related costs directly associated with our professional services and training departments, including salaries, benefits, bonuses and stock-based compensation, the costs of contracted third-party partners, travel expenses and allocated overhead. 
+
+Professional services associated with the implementation and configuration of our subscription services are performed directly by our services team, as well as by contracted third-party partners. Fees paid to third-party partners are primarily recognized as cost of revenues as the professional services are delivered. Cost of revenues associated with our professional services engagements contracted with third-party partners as a percentage of professional services and other revenues was 19% for each of the three months ended September 30, 2017 and 2016 and 18% for each of the nine months ended September 30, 2017 and 2016 . 
+
+Sales and Marketing 
+
+Sales and marketing expenses consist primarily of personnel-related expenses directly associated with our sales and marketing staff, including salaries, benefits, bonuses, commissions and stock-based compensation. Sales and marketing expenses also include third-party referral fees, expenses related to our annual Knowledge user conference, other marketing program expenses, which include events other than Knowledge, advertising and market data, and allocated overhead. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses consist primarily of personnel-related expenses directly associated with our research and development staff, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. Research and development expenses also include data center capacity costs, costs associated with outside services contracted for research and development purposes, amortization of intangible assets and depreciation of infrastructure hardware equipment that is used solely for research and development purposes. 
+
+&#160; 
+
+General and Administrative 
+
+&#160; 
+
+General and administrative expenses consist primarily of personnel-related expenses for our executive, finance, legal, human resources, facility and administrative personnel, including salaries, benefits, bonuses and stock-based compensation, external legal, accounting and other professional services fees, other corporate expenses, amortization of intangible assets and allocated overhead. 
+
+&#160; 
+
+Legal Settlements 
+
+Legal settlements consist of one-time aggregate charges related to the settlement agreements with Hewlett Packard Enterprise Company (HPE) and BMC Software, Inc. (BMC). Refer to Note 15 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for further details of these matters. 
+
+Provision for (Benefit from) Income Taxes 
+
+Provision for (benefit from) income taxes consists of federal, state and foreign income taxes. Due to cumulative losses, we maintain a valuation allowance against our U.S. deferred tax assets as of September 30, 2017 and December 31, 2016 . We consider all available evidence, both positive and negative, including but not limited to earnings history, projected future outcomes, industry and market trends and the nature of each of the deferred tax assets in assessing the extent to which a valuation allowance should be applied against our deferred tax assets. 
+
+Results of Operations 
+
+&#160; 
+
+To enhance comparability, the following table sets forth our results of operations for the periods presented. The period-to-period comparison of financial results is not necessarily indicative of future results. 
+
+&#160; &#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(in thousands) 
+
+&#160; 
+
+(in thousands) 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+455,421 
+
+&#160; 
+
+$ 
+
+318,934 
+
+&#160; 
+
+$ 
+
+1,242,563 
+
+&#160; 
+
+$ 
+
+877,035 
+
+Professional services and other 
+
+42,749 
+
+&#160; 
+
+38,722 
+
+&#160; 
+
+144,093 
+
+&#160; 
+
+127,812 
+
+Total revenues 
+
+498,170 
+
+&#160; 
+
+357,656 
+
+&#160; 
+
+1,386,656 
+
+&#160; 
+
+1,004,847 
+
+Cost of revenues (1) : 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+81,878 
+
+&#160; 
+
+61,566 
+
+&#160; 
+
+228,046 
+
+&#160; 
+
+170,707 
+
+Professional services and other 
+
+45,402 
+
+&#160; 
+
+41,271 
+
+&#160; 
+
+137,366 
+
+&#160; 
+
+123,039 
+
+Total cost of revenues 
+
+127,280 
+
+&#160; 
+
+102,837 
+
+&#160; 
+
+365,412 
+
+&#160; 
+
+293,746 
+
+Gross profit 
+
+370,890 
+
+&#160; 
+
+254,819 
+
+&#160; 
+
+1,021,244 
+
+&#160; 
+
+711,101 
+
+Operating expenses (1) : 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing 
+
+227,015 
+
+&#160; 
+
+166,491 
+
+&#160; 
+
+686,325 
+
+&#160; 
+
+511,607 
+
+Research and development 
+
+98,465 
+
+&#160; 
+
+75,018 
+
+&#160; 
+
+272,959 
+
+&#160; 
+
+211,306 
+
+General and administrative 
+
+52,465 
+
+&#160; 
+
+40,085 
+
+&#160; 
+
+150,242 
+
+&#160; 
+
+117,393 
+
+Legal settlements 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+270,000 
+
+Total operating expenses 
+
+377,945 
+
+&#160; 
+
+281,594 
+
+&#160; 
+
+1,109,526 
+
+&#160; 
+
+1,110,306 
+
+Loss from operations 
+
+(7,055 
+
+) 
+
+&#160; 
+
+(26,775 
+
+) 
+
+&#160; 
+
+(88,282 
+
+) 
+
+&#160; 
+
+(399,205 
+
+) 
+
+Interest expense 
+
+(16,566 
+
+) 
+
+&#160; 
+
+(8,389 
+
+) 
+
+&#160; 
+
+(36,581 
+
+) 
+
+&#160; 
+
+(24,746 
+
+) 
+
+Interest income and other income (expense), net 
+
+&#160; 
+
+1,783 
+
+&#160; 
+
+&#160; 
+
+4,745 
+
+Loss before income taxes 
+
+(22,768 
+
+) 
+
+&#160; 
+
+(33,381 
+
+) 
+
+&#160; 
+
+(124,124 
+
+) 
+
+&#160; 
+
+(419,206 
+
+) 
+
+Provision for (benefit from) income taxes 
+
+1,420 
+
+&#160; 
+
+2,877 
+
+&#160; 
+
+(2,801 
+
+) 
+
+&#160; 
+
+Net loss 
+
+$ 
+
+(24,188 
+
+) 
+
+&#160; 
+
+$ 
+
+(36,258 
+
+) 
+
+&#160; 
+
+$ 
+
+(121,323 
+
+) 
+
+&#160; 
+
+$ 
+
+(419,215 
+
+) 
+
+(1) 
+
+Stock-based compensation included in the statements of operations above was as follows: 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(in thousands) 
+
+&#160; 
+
+(in thousands) 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+8,980 
+
+&#160; 
+
+$ 
+
+7,140 
+
+&#160; 
+
+$ 
+
+25,860 
+
+&#160; 
+
+$ 
+
+20,698 
+
+Professional services and other 
+
+7,056 
+
+&#160; 
+
+7,150 
+
+&#160; 
+
+21,622 
+
+&#160; 
+
+20,045 
+
+Sales and marketing 
+
+43,962 
+
+&#160; 
+
+31,898 
+
+&#160; 
+
+124,650 
+
+&#160; 
+
+95,757 
+
+Research and development 
+
+23,092 
+
+&#160; 
+
+21,376 
+
+&#160; 
+
+67,624 
+
+&#160; 
+
+62,956 
+
+General and administrative 
+
+17,352 
+
+&#160; 
+
+13,523 
+
+&#160; 
+
+48,695 
+
+&#160; 
+
+35,004 
+
+Total stock-based compensation 
+
+$ 
+
+100,442 
+
+&#160; 
+
+$ 
+
+81,087 
+
+&#160; 
+
+$ 
+
+288,451 
+
+&#160; 
+
+$ 
+
+234,460 
+
+The following table sets forth our results of operations as a percentage of total revenues for the periods presented. 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues (1) : 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total cost of revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Gross profit 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Operating expenses (1) : 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Legal settlements 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Total operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Loss from operations 
+
+(1 
+
+) 
+
+&#160; 
+
+(8 
+
+) 
+
+&#160; 
+
+(6 
+
+) 
+
+&#160; 
+
+(40 
+
+) 
+
+Interest expense 
+
+(4 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Interest income and other income (expense), net 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Loss before income taxes 
+
+(5 
+
+) 
+
+&#160; 
+
+(9 
+
+) 
+
+&#160; 
+
+(9 
+
+) 
+
+&#160; 
+
+(42 
+
+) 
+
+Provision for (benefit from) income taxes 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Net loss 
+
+(5 
+
+)% 
+
+&#160; 
+
+(10 
+
+)% 
+
+&#160; 
+
+(9 
+
+)% 
+
+&#160; 
+
+(42 
+
+)% 
+
+(1) 
+
+Stock-based compensation included in the statements of operations above as a percentage of revenues was as follows: 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total stock-based compensation 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+% 
+
+Comparison of the Three Months Ended September 30, 2017 and 2016 
+
+&#160; 
+
+Revenues &#160; 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+455,421 
+
+&#160; 
+
+$ 
+
+318,934 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+42,749 
+
+&#160; 
+
+38,722 
+
+&#160; 
+
+% 
+
+Total revenues 
+
+$ 
+
+498,170 
+
+&#160; 
+
+$ 
+
+357,656 
+
+&#160; 
+
+% 
+
+Percentage of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Subscription revenues increased $136.5 million during the three months ended September 30, 2017 , compared to the same period in the prior year, driven by our upsells and an increase in our customer count. We expect subscription revenues to grow in absolute dollars and as a percentage of total revenues for the year ending December 31, 2017 compared to the year ended December 31, 2016 as we continue to add new customers and upsell to existing customers. Our expectations for revenues, cost of revenues and operating expenses for the fourth quarter of 2017 are based on foreign exchange rates as of September 30, 2017 . 
+
+Subscription revenues consist of the following: 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Service Management solutions 
+
+$ 
+
+399,795 
+
+&#160; 
+
+$ 
+
+290,005 
+
+&#160; 
+
+% 
+
+IT Operations Management solutions 
+
+55,626 
+
+&#160; 
+
+28,929 
+
+&#160; 
+
+% 
+
+Total subscription revenues 
+
+$ 
+
+455,421 
+
+&#160; 
+
+$ 
+
+318,934 
+
+&#160; 
+
+% 
+
+Our Service Management solutions include ServiceNow Platform, IT Service Management, IT Business Management, Customer Service, Human Resources and Security Operations, which have similar features and functions and are generally priced on a per user basis. Our IT Operations Management solutions, which improve visibility, availability and agility of enterprise services, are generally priced on a per node basis. 
+
+Professional services and other revenues increased $4.0 million during the three months ended September 30, 2017 , compared to the same period in the prior year, due to an increase in the services provided to our growing customer base. We expect professional services and other revenues to increase in absolute dollar terms, but at a slower rate compared to subscription revenues, for the year ending December 31, 2017 compared to the year ended December 31, 2016 , as we are increasingly focused on deploying our internal professional services organization as a strategic resource and relying on our partner ecosystem to contract directly with customers for service delivery. 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues. Revenues outside North America represented 34% and 33% of total revenues for the three months ended September 30, 2017 and 2016 , respectively. As a result, the general weakening of the U.S. Dollar relative to other major foreign currencies (primarily the Euro and British Pound Sterling) from the three months ended September 30, 2016 to the three months ended September 30, 2017 had a favorable impact on our revenues. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the three months ended September 30, 2017 at the exchange rates for the three months ended September 30, 2016 rather than the actual exchange rates in effect during the period, our reported subscription revenues would have been $5.9 million lower. The impact from the foreign currency movements from the three months ended September 30, 2016 to the three months ended September 30, 2017 is not material to professional services and other revenues. 
+
+Cost of Revenues and Gross Profit Percentage 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+81,878 
+
+&#160; 
+
+$ 
+
+61,566 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+45,402 
+
+&#160; 
+
+41,271 
+
+&#160; 
+
+% 
+
+Total cost of revenues 
+
+$ 
+
+127,280 
+
+&#160; 
+
+$ 
+
+102,837 
+
+&#160; 
+
+% 
+
+Gross profit (loss) percentage: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+(6 
+
+)% 
+
+&#160; 
+
+(7 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+Total gross profit percentage 
+
+&#160;% 
+
+&#160; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+Gross Profit 
+
+$ 
+
+370,890 
+
+&#160; 
+
+$ 
+
+254,819 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Total headcount 
+
+1,441 
+
+&#160; 
+
+1,195 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Cost of subscription revenues increased $20.3 million during the three months ended September 30, 2017 , compared to the same period in the prior year, primarily due to increased headcount resulting in an increase of $8.3 million in personnel-related costs excluding stock-based compensation, an increase of $1.9 million in overhead expenses and an increase of $1.8 million in stock-based compensation. In addition, there was an increase of $4.6 million in depreciation expense primarily due to purchases of infrastructure hardware equipment for our data centers and an increase of $2.2 million in data center capacity costs due to the addition of new data centers and the expansion of existing data centers. 
+
+Our subscription gross profit percentage increased to 82% for the three months ended September 30, 2017 , from 81% for the three months ended September 30, 2016 , due to improved data center utilization and economies of scale. We expect our cost of subscription revenues to increase in absolute dollar terms for the year ending December 31, 2017 compared to the year ended December 31, 2016 as we provide subscription services to more customers and increase the number of users within our customer instances. We expect our subscription gross profit percentage to improve slightly for the year ending December 31, 2017 compared to the year ended December 31, 2016 as we continue to leverage the investments we have made in our existing data center infrastructure. To the extent future acquisitions are consummated, our cost of subscription revenues may increase due to additional non-cash charges associated with the amortization of intangible assets acquired. 
+
+Cost of professional services and other revenues increased $4.1 million during the three months ended September 30, 2017 as compared to the same period in the prior year, primarily due to increased headcount resulting in an increase of $2.2 million in personnel-related costs excluding stock-based compensation and an increase of $0.4 million in overhead expenses. Outside service costs increased $1.3 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to increased utilization of contracted third-party partners for the implementation and configuration of our subscription services. 
+
+Our professional services and other gross loss percentage decreased to 6% for the three months ended September 30, 2017 , from 7% for the three months ended September 30, 2016 , primarily due to professional services and other revenues increasing at a higher rate than personnel-related costs including stock-based compensation. We expect cost of professional services and other revenues to increase in absolute dollars for the year ending December 31, 2017 compared to the year ended December 31, 2016 as our business grows. We expect our professional services and other gross loss percentage to be slightly higher for the year ending December 31, 2017 compared to the year ended December 31, 2016 as we continue to invest in our professional services organization to support our newer products. 
+
+The impact from the foreign currency movements from the three months ended September 30, 2016 to the three months ended September 30, 2017 is not material to cost of revenues. 
+
+Sales and Marketing 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing 
+
+$ 
+
+227,015 
+
+&#160; 
+
+$ 
+
+166,491 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+2,279 
+
+&#160; 
+
+1,740 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Sales and marketing expenses increased $60.5 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to increased headcount that resulted in an increase of $29.7 million in personnel-related costs excluding stock-based compensation and commissions, an increase of $12.1 million in stock-based compensation and an increase of $5.6 million in overhead expenses. Commissions and third-party referral fees increased $8.5 million , and amounted to 7% of subscription revenues for each of the three months ended September 30, 2017 and 2016 . Marketing program expenses, which include events, advertising and market data, increased $2.4 million during the three months ended September 30, 2017 compared to the same period in the prior year. Outside service costs increased $1.8 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to an increase in contractors and consultants to support our sales and marketing functions. 
+
+The general weakening of the U.S. Dollar relative to other major foreign currencies from the three months ended September 30, 2016 to the three months ended September 30, 2017 had an unfavorable impact on our sales and marketing expenses. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the three months ended September 30, 2017 at the exchange rates for the three months ended September 30, 2016 rather than the actual exchange rates in effect during the period, our reported sales and marketing expenses would have been $1.9 million lower. 
+
+We expect sales and marketing expenses to increase in absolute dollar terms for the year ending December 31, 2017 compared to the year ended December 31, 2016 , but decrease slightly as a percentage of total revenues as we continue to expand our direct sales force, increase our marketing activities, grow our international operations, build brand awareness and sponsor additional marketing events. 
+
+Research and Development 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+$ 
+
+98,465 
+
+&#160; 
+
+$ 
+
+75,018 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+1,322 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Research and development expenses increased $23.4 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to increased headcount, which resulted in an increase of $15.5 million in personnel-related costs excluding stock-based compensation, an increase of $3.8 million in overhead expenses and an increase of $1.7 million in stock-based compensation. Outside service costs increased $1.7 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to an increase in contractors and consultants that support our research and development functions. 
+
+The impact from the foreign currency movements from the three months ended September 30, 2016 to the three months ended September 30, 2017 is not material to research and development expenses. 
+
+We expect research and development expenses to increase in absolute dollar terms for the year ending December 31, 2017 compared to the year ended December 31, 2016 , but decrease slightly as a percentage of total revenues as we continue to improve the existing functionality of our services, develop new applications to fill market needs and continue to enhance our core platform. 
+
+General and Administrative 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+$ 
+
+52,465 
+
+&#160; 
+
+$ 
+
+40,085 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+General and administrative expenses increased $12.4 million during the three months ended September 30, 2017 , compared to the same period in the prior year, primarily due to increased headcount, which resulted in an increase of $3.8 million in stock-based compensation and an increase of $5.9 million in personnel-related costs excluding stock-based compensation. Outside service costs increased $2.0 million and software subscription costs increased $1.2 million during the three months ended September 30, 2017 compared to the same period in the prior year to support our general and administrative functions. 
+
+The impact from the foreign currency movements from the three months ended September 30, 2016 to the three months ended September 30, 2017 is not material to general and administrative expenses. 
+
+We expect general and administrative expenses to increase in absolute dollar terms for the year ending December 31, 2017 compared to the year ended December 31, 2016 as we continue to hire people, but decrease slightly as a percentage of total revenues as we continue to grow our revenues and achieve economies of scale across our administrative functions. 
+
+&#160; 
+
+Stock-based Compensation 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+8,980 
+
+&#160; 
+
+$ 
+
+7,140 
+
+&#160; 
+
+&#160;% 
+
+Professional services and other 
+
+7,056 
+
+&#160; 
+
+7,150 
+
+&#160; 
+
+(1 
+
+)% 
+
+Sales and marketing 
+
+43,962 
+
+&#160; 
+
+31,898 
+
+&#160; 
+
+&#160;% 
+
+Research and development 
+
+23,092 
+
+&#160; 
+
+21,376 
+
+&#160; 
+
+&#160;% 
+
+General and administrative 
+
+17,352 
+
+&#160; 
+
+13,523 
+
+&#160; 
+
+&#160;% 
+
+Total stock-based compensation 
+
+$ 
+
+100,442 
+
+&#160; 
+
+$ 
+
+81,087 
+
+&#160; 
+
+&#160;% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Stock-based compensation increased $19.4 million during the three months ended September 30, 2017 , compared to the same period in the prior year, primarily due to increased headcount and increased weighted-average grant date fair value of stock awards. 
+
+Stock-based compensation is inherently difficult to forecast due to fluctuations in our stock price. Based upon our stock price as of September 30, 2017 , we expect stock-based compensation to increase in absolute dollar terms for the year ending December 31, 2017 compared to the year ended December 31, 2016 , but decrease as a percentage of total revenues as we continue to grow. 
+
+Interest Expense 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+$ 
+
+16,566 
+
+&#160; 
+
+$ 
+
+8,389 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Interest expense increased &#160; $8.2 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to the increase in amortization expense of debt discount and issuance costs related to the 2022 Notes. For the remainder of the year, we expect to incur approximately $16.8 million in amortization expense of debt discount and issuance costs related to the convertible notes. 
+
+Interest Income and Other Income (Expense), net 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Interest income 
+
+$ 
+
+4,546 
+
+&#160; 
+
+$ 
+
+2,049 
+
+&#160; 
+
+% 
+
+Foreign currency exchange loss 
+
+(4,119 
+
+) 
+
+&#160; 
+
+(303 
+
+) 
+
+&#160; 
+
+NM 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+NM 
+
+Interest and other income (expense), net 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,783 
+
+&#160; 
+
+NM 
+
+Percentage of revenues 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+NM - Not meaningful. 
+
+Interest income and other income (expense), net decreased $0.9 million during the three months ended September 30, 2017 compared to the same period in the prior year, primarily due to higher foreign exchange losses, partially offset by increased interest income. We had foreign exchange losses of $4.1 million for the three months ended September 30, 2017 compared to losses of $0.3 million for the three months ended September 30, 2016 as a result of fluctuations in foreign currency exchange rates. Interest income increased $2.5 million due to higher cash balances and higher yields on our invested balances for the three months ended September 30, 2017 . 
+
+Our expanding international operations will continue to increase our exposure to currency risks, though we cannot presently predict the impact of this exposure on our condensed consolidated financial statements. While we have not engaged in the hedging of our foreign currency transactions to date, we are conducting an ongoing evaluation of the costs and benefits of initiating such a program and in the future may hedge selected significant transactions denominated in currencies other than the U.S. Dollar. 
+
+Provision for Income Taxes 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Loss before income taxes 
+
+$ 
+
+(22,768 
+
+) 
+
+&#160; 
+
+$ 
+
+(33,381 
+
+) 
+
+&#160; 
+
+(32 
+
+)% 
+
+Provision for income taxes 
+
+1,420 
+
+&#160; 
+
+2,877 
+
+&#160; 
+
+(51 
+
+)% 
+
+Effective tax rate 
+
+(6 
+
+)% 
+
+&#160; 
+
+(9 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Our effective tax rate was (6)% for the three months ended September 30, 2017 compared to (9)% for the three months ended September 30, 2016 , primarily due to excess tax benefits of stock-based compensation and the tax effects of unrealized gains in investment securities. 
+
+We continue to maintain a full valuation allowance on our federal and state deferred tax assets, and the significant components of the tax expense recorded are current cash taxes in various jurisdictions. The cash tax expenses are impacted by each jurisdiction&#8217;s individual tax rates, laws on timing of recognition of income and deductions, and availability of net operating losses and tax credits. Given the full valuation allowance, sensitivity of current cash taxes to local rules and our foreign restructuring, we expect that our effective tax rate could fluctuate significantly on a quarterly basis and could be adversely affected to the extent earnings are lower than anticipated in countries that have lower statutory rates and higher than anticipated in countries that have higher statutory rates. We consider the earnings of our foreign subsidiaries to be indefinitely reinvested outside of the United States. 
+
+Net Loss 
+
+&#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Net loss 
+
+$ 
+
+(24,188 
+
+) 
+
+&#160; 
+
+$ 
+
+(36,258 
+
+) 
+
+&#160; 
+
+(33 
+
+)% 
+
+Percentage of revenues 
+
+(5 
+
+)% 
+
+&#160; 
+
+(10 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+Net loss decreased &#160; $12.1 million during the three months ended September 30, 2017 compared to the same period in the prior year. We expect to continue to incur a GAAP loss for the year ending December 31, 2017 due to increased costs and expenses, including non-cash charges associated with equity awards, amortization of purchased intangibles from business combinations, and other expenses. 
+
+Comparison of the Nine Months Ended September 30, 2017 and 2016 
+
+&#160; 
+
+Revenues &#160; 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+1,242,563 
+
+&#160; 
+
+$ 
+
+877,035 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+144,093 
+
+&#160; 
+
+127,812 
+
+&#160; 
+
+% 
+
+Total revenues 
+
+$ 
+
+1,386,656 
+
+&#160; 
+
+$ 
+
+1,004,847 
+
+&#160; 
+
+% 
+
+Percentage of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Subscription revenues increased $365.5 million during the nine months ended September 30, 2017 , compared to the same period in the prior year, driven by our upsells and an increase in our customer count. 
+
+Subscription revenues consist of the following: 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Service Management solutions 
+
+$ 
+
+1,097,177 
+
+&#160; 
+
+$ 
+
+799,278 
+
+&#160; 
+
+% 
+
+IT Operations Management solutions 
+
+145,386 
+
+&#160; 
+
+77,757 
+
+&#160; 
+
+% 
+
+Total subscription revenues 
+
+$ 
+
+1,242,563 
+
+&#160; 
+
+$ 
+
+877,035 
+
+&#160; 
+
+% 
+
+Our Service Management solutions include ServiceNow Platform, IT Service Management, IT Business Management, Customer Service, Human Resources and Security Operations, which have similar features and functions and are generally priced on a per user basis. Our IT Operations Management solutions, which improve visibility, availability and agility of enterprise services, are generally priced on a per node basis. 
+
+Professional services and other revenues increased $16.3 million during the nine months ended September 30, 2017 , compared to the same period in the prior year, due to an increase in the services provided to our growing customer base. Included within our total professional services and other revenues are the revenues from our annual Knowledge user conference, which increased to $17.1 million for the nine months ended September 30, 2017 from $12.8 million for the nine months ended September 30, 2016 due to an increase in attendance and sponsorship fees in the current year. 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues. Revenues outside North America represented 32% and 32% of total revenues for the nine months ended September 30, 2017 and 2016 , respectively. As a result, the general strengthening of the U.S. Dollar relative to other major foreign currencies (primarily the Euro and British Pound Sterling) from the nine months ended September 30, 2016 to the nine months ended September 30, 2017 had an unfavorable impact on our revenues. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the nine months ended September 30, 2017 at the exchange rates for the nine months ended September 30, 2016 rather than the actual exchange rates in effect during the period, our reported subscription revenues would have been $6.6 million higher. The impact from the foreign currency movements from the nine months ended September 30, 2016 to the nine months ended September 30, 2017 is not material to professional services and other revenues. 
+
+Cost of Revenues and Gross Profit Percentage 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+228,046 
+
+&#160; 
+
+$ 
+
+170,707 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+137,366 
+
+&#160; 
+
+123,039 
+
+&#160; 
+
+% 
+
+Total cost of revenues 
+
+$ 
+
+365,412 
+
+&#160; 
+
+$ 
+
+293,746 
+
+&#160; 
+
+% 
+
+Gross profit percentage: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Total gross profit percentage 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Gross Profit 
+
+$ 
+
+1,021,244 
+
+&#160; 
+
+$ 
+
+711,101 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Total headcount 
+
+1,441 
+
+&#160; 
+
+1,195 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Cost of subscription revenues increased $57.3 million during the nine months ended September 30, 2017 , compared to the same period in the prior year, primarily due to increased headcount resulting in an increase of $22.5 million in personnel-related costs excluding stock-based compensation, an increase of $5.3 million in overhead expenses and an increase of $5.2 million in stock-based compensation. In addition, there was an increase of $12.9 million in depreciation expense primarily due to purchases of infrastructure hardware equipment for our data centers, an increase of $5.2 million in data center capacity costs due to the addition of new data centers and the expansion of existing data centers and an increase of $1.6 million in amortization of intangibles as a result of acquisitions. Service and technical support agreement costs increased $2.0 million and outside service costs increased $1.0 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to an increase in contractors and consultants to support our subscription services. 
+
+Our subscription gross profit percentage increased to 82% for the nine months ended September 30, 2017 , from 81% for the nine months ended September 30, 2016 , due to improved data center utilization and economies of scale. 
+
+Cost of professional services and other revenues increased $14.3 million during the nine months ended September 30, 2017 as compared to the same period in the prior year, primarily due to increased headcount resulting in an increase of $7.2 million in personnel-related costs excluding stock-based compensation and an increase of $1.6 million in stock-based compensation. Outside service costs increased $4.9 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to increased utilization of contracted third-party partners for the implementation and configuration of our subscription services. 
+
+Our professional services and other gross profit percentage increased to 5% for the nine months ended September 30, 2017 , from 4% for the nine months ended September 30, 2016 , primarily due to the increase in revenues from our annual Knowledge user conference. Costs associated with Knowledge are included in sales and marketing expenses. Knowledge contributed $17.1 million to professional services and other revenues, or 13 percentage points, to the professional services and other gross profit percentage for the nine months ended September 30, 2017 . For the nine months ended September 30, 2016 , Knowledge contributed $12.8 million to professional services and other revenues, and 11 percentage points to the professional services and other gross profit percentage. 
+
+The general strengthening of the U.S. Dollar relative to other major foreign currencies from the nine months ended September 30, 2016 to the nine months ended September 30, 2017 had a favorable impact on our cost of revenues. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the nine months ended September 30, 2017 at the exchange rates for the nine months ended September 30, 2016 rather than the actual exchange rates in effect during the period, our cost of revenues reported would have been $1.4 million higher. 
+
+Sales and Marketing 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing 
+
+$ 
+
+686,325 
+
+&#160; 
+
+$ 
+
+511,607 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+2,279 
+
+&#160; 
+
+1,740 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Sales and marketing expenses increased $174.7 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to increased headcount that resulted in an increase of $86.1 million in personnel-related costs excluding stock-based compensation and commissions, an increase of $28.9 million in stock-based compensation and an increase of $14.8 million in overhead expenses. Commissions and third-party referral fees increased $20.7 million and amounted to 7% of subscription revenues for each of the nine months ended September 30, 2017 and 2016 . Expenses related to our annual Knowledge user conference increased $8.2 million , from $24.0 million for the nine months ended September 30, 2016 to $32.2 million for the nine months ended September 30, 2017 , due to an increase in registrations by 29% year-over-year. Other marketing program expenses, which include events other than Knowledge, advertising and market data, increased $10.5 million during the nine months ended September 30, 2017 compared to the same period in the prior year. Outside services costs increased $3.9 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to an increase in contractors and consultants to support our sales and marketing functions. 
+
+The general strengthening of the U.S. Dollar relative to other major foreign currencies from the nine months ended September 30, 2016 to the nine months ended September 30, 2017 had a favorable impact on our sales and marketing expenses. For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the nine months ended September 30, 2017 at the exchange rates for the nine months ended September 30, 2016 rather than the actual exchange rates in effect during the period, our reported sales and marketing expenses would have been $1.7 million higher. 
+
+Research and Development 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+$ 
+
+272,959 
+
+&#160; 
+
+$ 
+
+211,306 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+1,322 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Research and development expenses increased $61.7 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to increased headcount, which resulted in an increase of $42.3 million in personnel-related costs excluding stock-based compensation, an increase of $9.3 million in overhead expenses and an increase of $4.7 million in stock-based compensation. Outside service costs increased $2.7 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to an increase in contractors and consultants that support our research and development functions. 
+
+The impact from the foreign currency movements from the nine months ended September 30, 2016 to the nine months ended September 30, 2017 is not material to research and development expenses. 
+
+General and Administrative 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+$ 
+
+150,242 
+
+&#160; 
+
+$ 
+
+117,393 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Headcount (at period end) 
+
+&#160; 
+
+&#160; 
+
+% 
+
+&#160; 
+
+General and administrative expenses increased $32.8 million during the nine months ended September 30, 2017 , compared to the same period in the prior year, primarily due to increased headcount, which resulted in an increase of $13.7 million in stock-based compensation, an increase of $15.3 million in personnel-related costs excluding stock-based compensation and an increase of $1.5 million in overhead expenses. Software subscription costs increased $3.1 million to support our administrative functions. 
+
+The impact from the foreign currency movements from the nine months ended September 30, 2016 to the nine months ended September 30, 2017 is not material to general and administrative expenses. 
+
+Legal Settlements 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Legal settlements 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+270,000 
+
+&#160; 
+
+NM 
+
+Percentage of revenues 
+
+NM 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+NM - Not meaningful. 
+
+Legal settlements decreased $270.0 million during the nine months ended September 30, 2017 compared to the same period in the prior year, reflecting the settlement agreements we entered into with HPE and BMC during the prior year. Refer to Note 15 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for further details. 
+
+&#160; 
+
+Stock-based Compensation 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+25,860 
+
+&#160; 
+
+$ 
+
+20,698 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+21,622 
+
+&#160; 
+
+20,045 
+
+&#160; 
+
+% 
+
+Sales and marketing 
+
+124,650 
+
+&#160; 
+
+95,757 
+
+&#160; 
+
+% 
+
+Research and development 
+
+67,624 
+
+&#160; 
+
+62,956 
+
+&#160; 
+
+% 
+
+General and administrative 
+
+48,695 
+
+&#160; 
+
+35,004 
+
+&#160; 
+
+% 
+
+Total stock-based compensation 
+
+$ 
+
+288,451 
+
+&#160; 
+
+$ 
+
+234,460 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Stock-based compensation increased $54.0 million during the nine months ended September 30, 2017 , compared to the same period in the prior year, primarily due to increased headcount and increased weighted-average grant date fair value of stock awards. 
+
+Interest Expense 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+$ 
+
+36,581 
+
+&#160; 
+
+$ 
+
+24,746 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Interest expense increased &#160; $11.8 million during the nine months ended September 30, 2017 compared to the same period in the prior year, due to the increase in amortization expense of debt discount and issuance costs related to the convertible notes. 
+
+Interest Income and Other Income (Expense), net 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Interest income 
+
+$ 
+
+10,268 
+
+&#160; 
+
+$ 
+
+5,838 
+
+&#160; 
+
+% 
+
+Foreign currency exchange loss 
+
+(10,280 
+
+) 
+
+&#160; 
+
+(1,262 
+
+) 
+
+&#160; 
+
+% 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+% 
+
+Interest and other income (expense), net 
+
+$ 
+
+&#160; 
+
+$ 
+
+4,745 
+
+&#160; 
+
+NM 
+
+Percentage of revenues 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+NM - Not meaningful. 
+
+Interest income and other income (expense), net decreased $4.0 million during the nine months ended September 30, 2017 compared to the same period in the prior year, primarily due to higher foreign exchange losses, partially offset by increased interest income. We had foreign exchange losses of $10.3 million for the nine months ended September 30, 2017 compared to losses of $1.3 million for the nine months ended September 30, 2016 as a result of fluctuations in foreign currency exchange rates. Interest income increased $4.4 million due to higher cash balances and higher yields on our invested balances for the nine months ended September 30, 2017 . 
+
+Provision for (Benefit from) Income Taxes 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Loss before income taxes 
+
+$ 
+
+(124,124 
+
+) 
+
+&#160; 
+
+$ 
+
+(419,206 
+
+) 
+
+&#160; 
+
+(70 
+
+)% 
+
+Provision for (benefit from) income taxes 
+
+(2,801 
+
+) 
+
+&#160; 
+
+&#160; 
+
+NM 
+
+Effective tax rate 
+
+% 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+&#160; 
+
+&#160; 
+
+NM - Not meaningful. 
+
+&#160; 
+
+Our effective tax rate was 2% for the nine months ended September 30, 2017 compared to 0% for the nine months ended September 30, 2016 primarily due to a release of the valuation allowance in connection with acquisitions, excess tax benefits of stock-based compensation and the tax effects of unrealized gains in investment securities. 
+
+Net Loss 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Net loss 
+
+$ 
+
+(121,323 
+
+) 
+
+&#160; 
+
+$ 
+
+(419,215 
+
+) 
+
+&#160; 
+
+(71 
+
+)% 
+
+Percentage of revenues 
+
+(9 
+
+)% 
+
+&#160; 
+
+(42 
+
+)% 
+
+&#160; 
+
+&#160; 
+
+Net loss decreased &#160; $297.9 million during the nine months ended September 30, 2017 compared to the same period in the prior year, reflecting the settlement agreements we entered into with HPE and BMC during the prior year. Refer to Note 15 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for further details. 
+
+Liquidity and Capital Resources 
+
+As of September 30, 2017 , our principal sources of liquidity were $1.7 billion in cash and cash equivalents and short-term investments, of which $289.7 million represented cash held by foreign subsidiaries. $159.5 million of the $1.7 billion are denominated in currencies other than U.S. Dollar. In addition, we had $ 424.9 million in long-term investments that provide additional capital resources. We consider earnings from foreign operations to be indefinitely reinvested outside of the United States, and we do not anticipate that we will need funds generated from foreign operations to fund our domestic operations. 
+
+In November 2013, we issued the 2018 Notes with an aggregate principal amount of $575.0 million. The 2018 Notes mature on November 1, 2018 unless converted or repurchased in accordance with their terms prior to such date. In connection with the issuance of the 2018 Notes, we entered into 2018 Note Hedge transactions and 2018 Warrant transactions with certain financial institutions (the option counterparties). We may elect to settle the 2018 Notes in cash, shares of our common stock, or a combination of cash and shares. If the 2018 Note Hedges are exercised, we may elect to receive cash, shares of our common stock, or a combination of cash and shares. The impact of the conversion of the 2018 Notes on our liquidity will depend on the settlement method we elect for each instrument described above. We currently intend to settle the principal amount of any converted 2018 Notes in cash. To the extent we receive conversion requests, we may also record a loss on extinguishment of the 2018 Notes converted by noteholders based on the difference between the fair market value allocated to the liability component on settlement date and the net carrying amount of the liability component and unamortized debt issuance costs on settlement date. Refer to Note 9 in the notes to our condensed consolidated financial statements and the risk factors included elsewhere in this Quarterly Report on Form 10-Q for additional information on the 2018 Notes, the 2018 Note Hedges and the 2018 Warrants. 
+
+For at least 20 trading days during the 30 consecutive trading days ended June 30, 2017 and September 30, 2017 , our common stock traded at a price exceeding 130% of the conversion price of $73.88 per share applicable to our 2018 Notes. Accordingly, the 2018 Notes became convertible at the holders&#8217; option during the quarter ended September 30, 2017 and will continue to be convertible at the holders' option for the quarter ending December 31, 2017. During the quarter ended September 30, 2017, we received requests to convert an aggregate of $4,000 principal amount of 2018 Notes, which we have elected to settle in cash. 
+
+During the three months ended June 30, 2017, we issued the 2022 Notes with an aggregate principal amount of $782.5 million. We currently intend to use approximately $575.0 million of the net proceeds from the 2022 Notes to repay the 2018 Notes. In connection with the issuance of the 2022 Notes, we entered into 2022 Note Hedge transactions and 2022 Warrant transactions with certain financial institutions. Refer to Note 9 in the notes to our condensed consolidated financial statements and the risk factors included elsewhere in this Quarterly Report on Form 10-Q for additional information on the 2022 Notes, the 2022 Notes Hedges and the 2022 Warrants. In addition, in May 2017, we used approximately $55.0 million of the net proceeds from the 2022 Notes to repurchase shares of our common stock sold by certain purchasers of the 2022 Notes and during the three months ended June 30, 2017, we used approximately $73.9 million to pay the cost of the 2022 Note Hedges (after such cost was partially offset by the proceeds of the 2022 Warrants). 
+
+We anticipate our current cash and cash equivalents balance and cash generated from operations will be sufficient to meet our liquidity needs, including the expansion of data centers, lease obligations, expenditures related to the growth of our headcount and the acquisition of fixed assets, intangibles, and investments in office facilities, to accommodate our growth for at least the next 12 months. Whether these resources are adequate to meet our liquidity needs beyond that period will depend on our growth, operating results, cash utilized for acquisitions and/or debt retirements if any are consummated, and the capital expenditures required to meet possible increased demand for our services. If we require additional capital resources to grow our business at any time in the future, we may seek to finance our operations from the current funds available or seek additional equity or debt financing. 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+Net cash provided by operating activities 
+
+$ 
+
+458,039 
+
+$ 
+
+27,234 
+
+Net cash used in investing activities 
+
+(366,403 
+
+) 
+
+(79,138 
+
+) 
+
+Net cash provided by (used in) financing activities 
+
+586,118 
+
+(34,865 
+
+) 
+
+Net increase (decrease) in cash and cash equivalents, net of foreign currency effect on cash and cash equivalents 
+
+703,633 
+
+(87,238 
+
+) 
+
+Operating Activities 
+
+Cash provided by operating activities mainly consists of our net loss adjusted for certain non-cash items, including depreciation and amortization, amortization of premiums on investments, amortization of deferred commissions, amortization of issuance cost and debt discount, stock-based compensation and changes in operating assets and liabilities during the year. 
+
+Net cash provided by operating activities was $458.0 million for the nine months ended September 30, 2017 compared to $27.2 million for the nine months ended September 30, 2016 . The increase in operating cash flow was primarily due to a decrease in net loss of $297.9 million . The remaining change was due to an increase in non-cash adjustments to reconcile net loss to net cash provided by operations and the favorable impact on operating cash flow from changes in operating assets and liabilities. 
+
+&#160; Investing Activities 
+
+&#160; 
+
+Net cash used in investing activities for the nine months ended September 30, 2017 was $366.4 million compared to $79.1 million for the nine months ended September 30, 2016 . The increase in cash used in investing activities was mainly due to a $263.4 million increase in net purchases of investments, a $31.7 million increase in capital expenditures related to purchases of infrastructure hardware equipment to support the expansion of our data centers as well as investments in leasehold improvements, furniture and equipment to support our headcount growth and a $4.0 million increase in purchases of strategic investments. The increase in cash used in investing activities was partially offset by a $7.8 million decrease in business combinations, net of cash acquired and a $4.6 million decrease in purchase of other intangibles. 
+
+Financing Activities 
+
+&#160; 
+
+Net cash provided by financing activities was $586.1 million for the nine months ended September 30, 2017 compared to net cash used in financing activities of $34.9 million for the nine months ended September 30, 2016 . The change was primarily due to a $698.2 million increase in net proceeds from issuance of the 2022 Notes and the related note hedge and warrant transactions entered into during the nine months ended September 30, 2017 and a $21.7 million increase in proceeds from employee stock plans, partially offset by a $55.0 million increase in cash used to repurchase shares of our common stock and a $42.6 million increase in taxes paid related to net share settlement of equity awards. 
+
+Contractual Obligations and Commitments 
+
+&#160; 
+
+Except as set forth in Note 15, Commitments and Contingencies, of the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q, there have been no material changes outside the ordinary course of business in the contractual obligations and commitments disclosed in our Annual Report on 10-K for the year ended December 31, 2016. 
+
+Off-Balance Sheet Arrangements 
+
+During all periods presented, we did not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, that were established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in those types of relationships. 
+
+Critical Accounting Policies and Significant Judgments and Estimates 
+
+Our management&#8217;s discussion and analysis of financial condition and results of operations is based on our condensed consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements, as well as the reported revenues and expenses during the reporting periods. These items are monitored and analyzed by us for changes in facts and circumstances, and material changes in these estimates could occur in the future. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Changes in estimates are reflected in reported results for the period in which they become known. Actual results may differ from these estimates under different assumptions or conditions and such differences could be material. 
+
+There have been no material changes to our critical accounting policies and estimates as described in our Annual Report on Form 10-K for the year ended December 31, 2016 , which was filed with the SEC on February 28, 2017. 
+
+New Accounting Pronouncements Pending Adoption 
+
+The impact of recently issued accounting standards is set forth in Note 2, Summary of Significant Accounting Policies, of the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Investing in our securities involves a high degree of risk. You should consider carefully the risks and uncertainties described below, together with all of the other information in this Quarterly Report on Form 10-Q, including our condensed consolidated financial statements and related notes, before making an investment decision. We have identified the following risks and uncertainties that may have a material adverse effect on our business, financial condition, results of operations and future prospects. Our business could be harmed by any of these risks. The trading price of our common stock could decline due to any of these risks, and you may lose all or part of your investment. 
+
+Risks Related to Our Business and Industry 
+
+We expect our revenue growth rate to continue to decline, and we expect to continue to incur losses in accordance with U.S. Generally Accepted Accounting Principles (GAAP). 
+
+We have experienced significant revenue growth in prior periods; however, our revenue growth rate is declining, and we expect that it will continue to decline into the foreseeable future. We also expect our costs to increase in future periods as we continue to invest in our capacity to support anticipated growth. These investments may not result in increased revenues or growth in our business. Even if our revenues continue to increase, we expect to continue to incur a loss in accordance with GAAP during future periods due to increased costs such as non-cash charges associated with equity awards, business combinations and other expenses. Additionally, we may encounter unforeseen operating expenses, difficulties, complications, delays and other unforeseen or unpredictable factors that may result in increased costs. Furthermore, it is difficult to predict the size and growth rate of our market, customer demand for our products, customer adoption and renewal rates, and the entry of competitive products or the success of existing competitive products. As a result, we may not achieve or maintain profitability in the future, our gross margins may be negatively impacted, and our ability to generate cash flow from operations may be negatively impacted. If we fail to grow our revenues sufficiently to keep pace with our growing investments and other expenses, our business, operating results and growth prospects will be adversely affected. 
+
+We have recently introduced products in new markets that are important to our growth prospects and for which we do not have a substantial operating history. If we are unsuccessful in competing in these new markets, our revenue growth rate, business and operating results will be adversely affected. 
+
+We have recently introduced products in the markets for IT operations management, customer service, security operations, HR service management and the use of our platform for other service management applications outside of enterprise IT. Our successful entry into these and other new markets is important to our revenue growth prospects. We do not have a substantial operating history with these products, which limits our ability to forecast operating results, and the success of our efforts to address these markets depends on many factors, including: the degree of differentiation of our products and services from those offered by more established competitors in these markets; whether our product and services offer compelling benefits and value to customers; the time-frame and quality of our research and development efforts; the rigor and effectiveness of our quality testing and controls; and our ability to successfully market and sell into new markets with which our marketing and sales personnel are less experienced. We may not have the necessary resources, including employees with the required product management, engineering, marketing and sales expertise, to compete effectively in these new markets. Any new service that we develop may not be introduced in a timely or cost-effective manner, may not be priced appropriately, may not offer compelling customer benefits compared to competing products and services, and may not achieve the broad market acceptance necessary to generate significant revenues. In addition, the partner ecosystem for some of our new products is less developed than for our more mature products, and some of our new products require a commitment of resources and expertise by our customers, which they may lack, to ensure a successful implementation. If we are not able to successfully develop, market, sell and implement these and other newly introduced products and services to our existing customers and prospective new customers, our revenue growth rate, business and operating results will be adversely affected. 
+
+If we suffer a cyber-security event, we may lose customers and incur significant liabilities, any of which would harm our business and operating results. 
+
+Our operations involve the storage, transmission and processing of our customers&#8217; confidential, proprietary and sensitive information, including in some cases personally identifiable information, protected health information and credit card and other sensitive financial information. While we have security measures in place designed to protect customer information and prevent data loss, these measures may be breached as a result of third-party action, including intentional misconduct by computer hackers, employee error, malfeasance or otherwise, and result in someone obtaining unauthorized access to our customers&#8217; data or our data, including our intellectual property and other confidential business information. Moreover, computer malware, viruses and hacking, phishing and denial of service attacks by third parties have become more prevalent in our industry, and have occurred on our systems in the past and may occur on our systems in the future. Because techniques used to obtain unauthorized access to or sabotage systems change frequently and generally are not recognized until successfully launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures. As cyber-security threats develop and grow, it may be necessary to make significant further investments to protect data and infrastructure. A security breach or unauthorized access or loss of data could result in a disruption to our service, litigation, the triggering of indemnification and other contractual obligations, regulatory investigations, government fines and penalties, reputational damage, loss of sales and customers, mitigation and remediation expenses and other liabilities. We do not have insurance sufficient to compensate us for the potentially significant losses that may result from security breaches. 
+
+Disruptions or defects in our services could damage our customers&#8217; businesses, subject us to substantial liability and harm our reputation and financial results. 
+
+From time to time, we experience defects in our services, and new defects may be detected in the future. For example, we provide regular updates to our services, which frequently contain undetected defects when first introduced or released. Defects may also be introduced by our use of third-party software, including open source software. Disruptions may result from errors we make in delivering, configuring or hosting our services, or designing, installing, expanding or maintaining our cloud infrastructure. Disruptions in service can also result from incidents that are outside of our control, including denial of service attacks. We currently serve our customers primarily using equipment managed by us and co-located in third-party data center facilities operated by several different providers located around the world. These centers are vulnerable to damage or interruption from earthquakes, floods, fires, power loss and similar events. They may also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct, equipment failure and adverse events caused by operator error. Despite precautions taken at these facilities, problems at these facilities could result in lengthy interruptions in our services and the loss of customer data. In addition, our customers may use our services in ways that cause disruptions in service for other customers. Our customers use our services to manage important aspects of their own businesses, and our reputation and business will be adversely affected if our customers and potential customers believe our services are unreliable. Disruptions or defects in our services may reduce our revenues, cause us to issue credits or pay penalties, subject us to claims and litigation, cause our customers to delay payment or terminate or fail to renew their subscriptions, and adversely affect our ability to attract new customers. The occurrence of payment delays, or service credit, warranty, termination for material breach or other claims against us, could result in an increase in our bad debt expense, an increase in collection cycles for accounts receivable, an increase to our warranty provisions or service level credit accruals or other increased expenses or risks of litigation. We do not have insurance sufficient to compensate us for the potentially significant losses that may result from claims arising from disruptions in our services. 
+
+Our stock price can be volatile, including if we fail to meet the financial performance expectations of investors or securities analysts, and the price of our common stock could decline substantially. 
+
+The trading price of our common stock has been, and is likely to continue to be, volatile and could be subject to wide fluctuations in response to various factors, some of which are beyond our control. For any quarterly or annual period, there is a risk that our financial performance will not meet the financial guidance we have previously given for that period, or that we may otherwise fail to meet the financial performance expectations of the securities analysts who issue reports on our company and our common stock price, or of investors in our common stock. There is also a risk that we may issue forward-looking financial guidance for a quarterly or annual period that fails to meet the expectations of such securities analysts or investors. If any of the foregoing occurs, for any reason either within or outside of our control, the price of our common stock could decline substantially and investors in our common stock could incur substantial losses. Some of the important factors that may cause our revenues, operating results and cash flows, or our forward-looking financial guidance, to fall below the expectations of such securities analysts or investors, or otherwise cause our stock price to be volatile, include: 
+
+&#8226; 
+
+our ability to attract new customers, retain and increase sales to existing customers, and satisfy our customers&#8217; requirements; 
+
+&#8226; 
+
+changes in our mix of products and services; 
+
+&#8226; 
+
+changes in foreign currency exchange rates; 
+
+&#8226; 
+
+the rate of expansion and productivity of our sales force; 
+
+&#8226; 
+
+the number of new employees added; 
+
+&#8226; 
+
+the cost, timing and management effort for our development of new products and services; 
+
+&#8226; 
+
+general economic conditions that may adversely affect either our customers&#8217; ability or willingness to purchase additional subscriptions, delay a prospective customer&#8217;s purchasing decision, reduce the value of new subscription contracts or adversely affect renewal rates; 
+
+&#8226; 
+
+the amount and timing of operating costs and capital expenditures related to the operation and expansion of our business; 
+
+&#8226; 
+
+seasonality in terms of when we enter into customer agreements for our services; 
+
+&#8226; 
+
+the length of the sales cycle for our services; 
+
+&#8226; 
+
+changes to our management team; 
+
+&#8226; 
+
+changes in our pricing policies, whether initiated by us or as a result of competition; 
+
+&#8226; 
+
+significant security breaches, technical difficulties or interruptions of our services; 
+
+&#8226; 
+
+new solutions, products or changes in pricing policies introduced by our competitors; 
+
+&#8226; 
+
+changes in effective tax rates; 
+
+&#8226; 
+
+changes in the average contract term of our customer agreements and changes in billings duration; 
+
+&#8226; 
+
+changes in our renewal and upsell rates; 
+
+&#8226; 
+
+the timing of customer payments and payment defaults by customers; 
+
+&#8226; 
+
+extraordinary expenses such as litigation costs or damages, including settlement payments; 
+
+&#8226; 
+
+the costs associated with acquiring new businesses and technologies and the follow-on costs of integration, including the tax effects of acquisitions; 
+
+&#8226; 
+
+the impact of new accounting pronouncements, including the new revenue recognition standards that are effective for us beginning January 1, 2018; 
+
+&#8226; 
+
+changes in laws or regulations impacting the delivery of our services; 
+
+&#8226; 
+
+the amount and timing of stock awards and the related financial statement expenses; and 
+
+&#8226; 
+
+our ability to accurately estimate the total addressable market for our products and services. 
+
+Unanticipated changes in our effective tax rate could impact our financial results. 
+
+We are subject to income taxes in the United States and various foreign jurisdictions. We believe that our provision for income taxes is reasonable, but the ultimate tax outcome may differ from the amounts recorded in our financial statements and may materially affect our financial results in the period or periods in which such determination is made. Our effective tax rate could be adversely affected by changes in the mix of earnings and losses in countries with differing statutory tax rates, certain non-deductible expenses, the valuation of deferred tax assets and liabilities and the effects of acquisitions. Increases in our effective tax rate would reduce our profitability or in some cases increase our losses. 
+
+Additionally, our future effective tax rate could be impacted by changes in accounting principles, changes in U.S. federal, state or international tax laws or tax rulings. For example, the current U.S. administration and key members of Congress have made public statements indicating that tax reform is a priority. Certain changes to U.S. tax laws, including limitations on the ability to defer U.S. taxation on earnings outside of the United States until those earnings are repatriated to the United States, could affect the tax treatment of our foreign earnings. Many countries are actively considering changes to existing tax laws or have proposed or enacted new laws, such as legislation recently enacted in the United Kingdom and in Australia. In October 2015, the Organization for Economic Co-Operation and Development released guidance, and is expected to continue to issue guidance and proposals, that may change various aspects of the existing framework under which our tax obligations are determined in many of the countries in which we do business and which could ultimately impact our tax liabilities. Any changes in federal, state or international tax laws or tax rulings may increase our worldwide effective tax rate and harm our financial position and results of operations. 
+
+In addition, we may be subject to income tax audits by tax jurisdictions throughout the world, many of which have not established clear guidance on the tax treatment of cloud computing companies. Although we believe our income tax liabilities are reasonably estimated and accounted for in accordance with applicable laws and principles, an adverse resolution of one or more uncertain tax positions in any period could have a material impact on the results of operations for that period. 
+
+Our financial results may be adversely affected by changes in accounting principles applicable to us. 
+
+We prepare our financial statements in accordance with GAAP, which are subject to interpretation or changes by the Financial Accounting Standards Board (FASB), the SEC and other bodies formed to promulgate and interpret appropriate accounting principles. New accounting pronouncements and changes in accounting principles have occurred in the past and are expected to occur in the future, which may have a significant effect on our financial results. For example, in May 2014, the FASB issued Accounting Standards Update (ASU) 2014-09, &#8220;Revenue from Contracts with Customers (Topic 606),&#8221; which supersedes nearly all existing revenue recognition guidance under GAAP. Under this new standard, revenue is recognized when a customer obtains control of promised goods or services and is recognized in an amount that reflects the consideration which the entity expects to receive in exchange for those goods or services. This new standard is effective for our interim and annual periods beginning January 1, 2018, and we expect this new standard to have a material impact on the timing of revenue and expense recognition for our contracts related to on-premises offerings and on our deferred commissions asset and the related amortization expense. We are continuing to evaluate the impact of the adoption of this standard on our condensed consolidated financial statements, and our preliminary assessments are subject to change. Refer to Note 2 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information on the new guidance and its potential impact on us. Adoption of this standard and any difficulties in implementation of changes in accounting principles, including the ability to modify our accounting systems, could cause us to fail to meet our financial reporting obligations, which could result in regulatory discipline and harm investors&#8217; confidence in us. 
+
+Foreign currency exchange rate fluctuations could harm our financial results. 
+
+We conduct significant transactions, including revenue transactions and intercompany transactions, in currencies other than the U.S. Dollar or the functional operating currency of the transactional entities. In addition, our international subsidiaries maintain significant net assets that are denominated in currencies other than the functional operating currencies of these entities. Accordingly, changes in the value of currencies relative to the U.S. Dollar may impact our consolidated revenues and operating results due to transactional and translational remeasurement that is reflected in our earnings. It is particularly difficult to forecast any impact from exchange rate movements, so there is risk that unanticipated currency fluctuations could adversely affect our results or cause our results to differ from investor expectations or our own guidance in any future periods. In addition, the June 23, 2016 referendum by British voters to exit the European Union adversely impacted global markets, including currencies, and resulted in a decline in the value of the British pound, as compared to the U.S. Dollar and other currencies. Volatility in exchange rates and global financial markets may continue due to a number of factors, including the continued negotiation of the United Kingdom's exit from the European Union and the recent political and economic uncertainty globally. 
+
+We do not currently maintain a program to hedge transactional exposures in foreign currencies. However, in the future, we may use derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to fluctuations in foreign currency exchange rates. The use of such hedging activities may not offset any or more than a portion of the adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the hedges are in place. Moreover, the use of hedging instruments may introduce additional risks if we are unable to structure effective hedges with such instruments. 
+
+The markets in which we participate are intensely competitive, and if we do not compete effectively our business and operating results will be adversely affected. 
+
+The markets for our enterprise cloud solutions are rapidly evolving and highly competitive, with relatively low barriers to entry. As the market for service management matures, we expect competition to intensify. We compete primarily with large, well-established, enterprise application software vendors, in-house solutions, large integrated systems vendors, and established and emerging cloud vendors. Our primary competitors include BMC Software, Inc., Microsoft Corporation, Oracle Corporation, SAP and Salesforce.com. Many prospective customers have invested substantial personnel and financial resources to implement and integrate their current enterprise software into their businesses and therefore may be reluctant or unwilling to migrate away from their current solution to an enterprise cloud solution. Many of our competitors and potential competitors are larger, have greater name recognition, longer operating histories, more established customer relationships, larger marketing budgets and greater resources than we do. Further, other potential competitors not currently offering competitive products may expand their services to compete with our services. As we expand the breadth of our services to include offerings in the markets for IT operations management, customer service management, security operations management, HR service management and use of our platform for other service management applications outside of enterprise IT, we expect increasing competition from platform vendors and from application development vendors focused on these other markets. Our competitors may be able to respond more quickly and effectively than we can to new or changing opportunities, technologies, standards and customer requirements. In addition, some of our competitors offer their products or services at a lower price, which has resulted in pricing pressures. Larger competitors with more diverse product and service offerings may reduce the price of products or subscriptions that compete with ours or may bundle them with other products and subscriptions. We expect that smaller competitors and new entrants may accelerate pricing pressure, including in the IT service management market, which is our more mature offering and from which we derive the substantial majority of our revenues. For all of these reasons, we may not be able to compete successfully and competition could result in reduced sales, reduced margins, losses or the failure of our solutions to achieve or maintain market acceptance, any of which could harm our business. 
+
+Lawsuits against us by third-parties that allege we infringe their intellectual property rights could harm our business and operating results. 
+
+There is considerable patent and other intellectual property development activity in our industry. Many companies in our industry, including our competitors and other third parties, as well as non-practicing entities, own large numbers of patents, copyrights, trademarks and trade secrets, which they may use to assert claims of patent infringement, misappropriation or other violations of intellectual property rights against us. 
+
+Moreover, the patent portfolios of most of our competitors are larger than ours. This disparity may increase the risk that our competitors may sue us for patent infringement and may limit our ability to counterclaim for patent infringement or settle through patent cross-licenses. From time to time, our competitors or other third parties, including patent holding companies seeking to monetize patents they have purchased or otherwise obtained, may claim that we are infringing upon their intellectual property rights. For example, we recorded charges for aggregate legal settlements of $270.0 million in our condensed consolidated statement of comprehensive loss during the three months ended March 31, 2016. The charge covers the fulfillment by us of all financial obligations under settlement agreements with BMC and HPE, with no remaining financial obligations under either settlement. 
+
+In any intellectual property litigation, regardless of the scope or merits of the claims at issue, we may incur substantial attorney&#8217;s fees and other litigation expenses and, if the claims are successfully asserted against us and we are found to be infringing upon the intellectual property rights of others, we could be required to: pay substantial damages and make substantial ongoing royalty payments; cease offering our products and services; modify our products and services; comply with other unfavorable terms, including settlement terms; and indemnify our customers and business partners and obtain costly licenses on their behalf and refund fees or other payments previously paid to us. Moreover, the mere existence of any lawsuit, or any interim or final outcomes, and the course of its conduct and the public statements related to it (or absence of such statements) by the courts, press, analysts and litigants, could be unsettling to our customers and prospective customers and could cause an adverse impact to our customer satisfaction and related renewal rates and cause us to lose potential sales, and could also be unsettling to investors or prospective investors in our common stock and could cause a substantial decline in the price of our common stock. Accordingly, any claim or litigation against us could be costly, time-consuming and divert the attention of our management and key personnel from our business operations and harm our financial condition and operating results. 
+
+Our intellectual property protections may not provide us with a competitive advantage, and defending our intellectual property may result in substantial expenses that harm our operating results. 
+
+Our success depends to a significant degree on our ability to protect our proprietary technology and our brand under a combination of patent and other intellectual property laws of the United States and other jurisdictions. Though we seek patent protection for our technology, we may not be successful in obtaining patent protection, and any patents acquired in the future may not provide us with competitive advantages, or may be successfully challenged by third parties. Furthermore, legal standards relating to the validity, enforceability and scope of protection of intellectual property rights are uncertain. Any of our intellectual property rights may be challenged by others or invalidated through administrative process or litigation. Effective patent, trademark, copyright and trade secret protection may not be available to us in every country in which our services are available. The laws of some foreign countries may not be as protective of intellectual property rights as those in the United States, and mechanisms for enforcement of intellectual property rights may be inadequate. We may be required to spend significant resources to monitor and protect our intellectual property rights. We have, and in the future may, initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity of our proprietary rights. Any litigation, whether or not it is resolved in our favor, could result in significant expense to us, divert the efforts of our technical and management personnel and may result in counter-claims with respect to infringement of intellectual property rights by us. If we are unable to prevent third parties from infringing upon or misappropriating our intellectual property, or are required to incur substantial expenses in defending our intellectual property rights, our business and operating results may be adversely affected. 
+
+If we are unsuccessful in increasing our penetration of international markets or managing the risks associated with foreign markets, our business and operating results will be adversely affected. 
+
+Sales outside of North America represented approximately 34% and 32% of our total revenues for each of the three and nine months ended September 30, 2017 , respectively. Our business and future prospects depend on increasing our international sales as a percentage of our total revenues, and the failure to grow internationally will harm our business. Additionally, operating in international markets requires significant investment and management attention and will subject us to regulatory and economic risks that are different from those in the United States. We have made, and will continue to make, substantial investments in data centers and cloud computing infrastructure, sales, marketing, personnel and facilities as we enter and expand in new geographic markets. When we make these investments, it is typically unclear whether, and when, sales in the new market will justify our investments, and we may significantly underestimate the level of investment and time required to be successful, or whether we will be successful. Our rate of acquisition of new Global 2000 customers, a key factor effecting our growth, has generally been lower in Africa, Asia, Eastern Europe, South America and other markets in which we are less established, as compared to North America, Australia and areas within Western Europe. Over time an increasing proportion of the Global 2000 companies that are not yet our customers are located in emerging markets where we are less established. We have experienced, and may continue to experience, difficulties in some of our investments in geographic expansion, including in hiring qualified sales management personnel and managing foreign operations. 
+
+Risks inherent with international sales include without limitation: 
+
+&#8226; 
+
+compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, competition, privacy and data protection laws and regulations; 
+
+&#8226; 
+
+compliance by us and our business partners with international bribery and anti-corruption laws, including the UK Bribery Act and the Foreign Corrupt Practices Act; 
+
+&#8226; 
+
+the risk that illegal or unethical activities of our business partners will be attributed to or result in liability to us; 
+
+&#8226; 
+
+longer and potentially more complex sales cycles; 
+
+&#8226; 
+
+longer accounts receivable payment cycles and other collection difficulties; 
+
+&#8226; 
+
+tax treatment of revenues from international sources and changes to tax codes, including being subject to foreign tax laws and being liable for paying withholding, income or other taxes in foreign jurisdictions; 
+
+&#8226; 
+
+different pricing and distribution environments; 
+
+&#8226; 
+
+foreign currency fluctuations which may cause transactional and translational remeasurement losses; 
+
+&#8226; 
+
+potential changes in international trade policies and agreements; 
+
+&#8226; 
+
+local business practices and cultural norms that may favor local competitors; and 
+
+&#8226; 
+
+localization of our services, including translation into foreign languages and associated expenses. 
+
+If we are unable to manage these risks, if our required investments in these international markets are greater than anticipated, or if we are unsuccessful in increasing sales in emerging markets, our revenue growth rate, business and operating results will be adversely affected. 
+
+If we are unable to continuously enhance our products and services so that they are easy to implement and use and are capable of delivering consumer product-like experiences, they could become less competitive or obsolete and our business and operating results will be adversely affected. 
+
+We believe that enterprises are increasingly focused on purchasing products and services that are easy to implement and use and are capable of delivering consumer product-like technology experiences to users within the enterprise, such as employees, and to individuals interacting with the enterprise, such as customers, partners and suppliers. Accordingly, our ability to attract new customers and to renew and increase revenues from existing customers depends on our ability to continuously improve the ease with which our products can be implemented and used by enterprises to deliver simple, intuitive and consumer-grade user experiences. In particular, we need to continuously modify and improve our products and services to keep pace with changes in user expectations, including for intuitive and attractive consumer product-like interfaces that draw on machine learning, mobility features and other cutting-edge technologies. If we are unable to consistently and timely meet these requirements, our products and services may become less marketable and less competitive or obsolete, and our business and operating results will be adversely affected. 
+
+If we lose key employees or are unable to attract and retain the employees we need, our business and operating results will be adversely affected. 
+
+Our success depends largely upon the continued services of our management team and many key individual contributors. From time to time, there may be changes in our management team resulting from the hiring or departure of employees, which could disrupt our business. For example, in 2016, our founder, Frederic Luddy, stepped down as our Chief Product Officer, and Daniel R. McGee stepped down as our Chief Operating Officer. In 2017, Frank Slootman stepped down as our President and Chief Executive Officer, and John J. Donahoe was appointed as his successor. Although Messrs. Luddy and Slootman continue to serve as members of our board of directors, these or other changes in our executive management team may result in a loss of institutional knowledge and cause disruptions to our business. 
+
+In the technology industry, there is substantial and continuous competition for engineers with high levels of experience in designing, developing and managing software and Internet-related solutions, as well as competition for sales executives and operations personnel. We may not be successful in attracting and retaining qualified personnel. We have from time to time experienced, and we may continue to experience, difficulty in hiring and retaining highly skilled employees with appropriate qualifications. In particular, competition for experienced software and cloud computing infrastructure engineers in the San Francisco Bay area, San Diego, Seattle, London and Amsterdam, our primary operating locations, is intense. Our employees, including our executive officers, are employed by us on an &#8220;at-will&#8221; basis, which means they may terminate their employment with us at any time. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be adversely affected. 
+
+Privacy laws and concerns, evolving regulation of cloud computing, cross-border data transfer restrictions, other foreign and domestic regulations and standards related to personal data and the Internet may adversely affect our business. 
+
+National and local governments or agencies have in the past adopted, and may in the future adopt, laws and regulations affecting data privacy, the use of the Internet as a commercial medium, and data sovereignty requirements concerning the location of data centers that store and process data. Changing laws, regulations and standards applying to the collection, transfer, processing, storage or use of personal data could affect our customers&#8217; ability to use and share data, potentially restricting our ability to store, process and share data with our customers in connection with providing our services, and in some cases, could impact our ability to offer our services in certain locations or our customers&#8217; ability to deploy our services globally. For example, the European Union (EU) and United States agreed to a framework to facilitate the transfer of data from the EU to the United States, called Privacy Shield, but this new framework has been challenged by private parties and may face additional challenges by national regulators or private parties. Additionally, in 2016 the EU adopted a new regulation governing data privacy called the General Data Protection Regulation (GDPR), that takes effect in May 2018. Further, laws such as the EU&#8217;s proposed e-Privacy Regulation are increasingly aimed at the use of personal information for marketing purposes, and the tracking of individuals&#8217; online activities. 
+
+&#160; 
+
+The costs of compliance with, and other burdens imposed by, GDPR, the e-Privacy Regulation and other privacy laws, regulations and standards may cause us to incur substantial operational costs or require us to modify our data handling practices, may limit the use and adoption of our services and reduce overall demand for our services. In addition, non-compliance could result in proceedings against us by governmental entities or others and may otherwise adversely impact our business, financial condition and operating results. 
+
+In addition to government activity, privacy advocacy groups and the technology and other industries have established or may establish various new, additional or different self-regulatory standards that may place additional burdens on us. Our customers may expect us to meet voluntary certifications or adhere to other standards established by third parties. If we are unable to maintain these certifications or meet these standards, it could reduce demand for our applications and adversely affect our business. 
+
+Because we recognize revenues from our subscription service over the subscription term, a decrease in new or renewed subscriptions during a reporting period may not be immediately reflected in our operating results for that period. 
+
+We generally recognize revenues from customers ratably over the terms of their subscriptions. As a result, most of the revenues we report in each period are derived from the recognition of deferred revenues relating to subscriptions entered into during previous periods. Consequently, a decrease in new or renewed subscriptions in any single reporting period will have a limited impact on our revenues for that period. 
+
+Further, a decline in new or renewed subscriptions in a given period will negatively affect our revenues in future periods. Accordingly, the effect of significant downturns in sales and market acceptance of our services, and changes in our rate of renewals, may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to rapidly increase our revenues through additional sales in any period, as revenues from new customers must be recognized over the applicable subscription term. In addition, we may be unable to adjust our cost structure to reflect the changes in revenues. 
+
+A decrease in new or renewed subscriptions in a reporting period may not be immediately reflected in our billings results for that period due to factors that may offset the decrease. 
+
+A decrease in new or renewed subscriptions in a reporting period may not have an immediate impact on billings for that period due to factors that may offset the decrease, such as an increase in billings duration, the dollar value of contracts with future start dates, or the dollar value of collections in the current period related to contracts with future start dates. 
+
+As we acquire or invest in companies and technologies, we may not realize the expected business or financial benefits and the acquisitions and investments may divert our management&#8217;s attention and result in additional dilution to our stockholders. 
+
+We have acquired or invested in companies and technologies in the past as part of our business strategy and may continue to evaluate potential strategic transactions, including acquisitions of, or investments in, businesses, technologies, services, products and other assets in the future. We also may enter into relationships with other businesses to expand our service offerings, functionality or our ability to provide services in international locations, which could involve preferred or exclusive licenses, additional channels of distribution, discount pricing or investments in other companies. Acquisitions and investments involve numerous risks, including: 
+
+&#8226; 
+
+assimilating or integrating the businesses, technologies, products, personnel or operations of the acquired companies; 
+
+&#8226; 
+
+failing to achieve the expected benefits of the acquisition or investment; 
+
+&#8226; 
+
+potential loss of key employees of the acquired company; 
+
+&#8226; 
+
+inability to maintain relationships with customers and partners of the acquired business; 
+
+&#8226; 
+
+unanticipated expenses related to acquired technology and its integration into our existing technology; 
+
+&#8226; 
+
+potential adverse tax consequences; 
+
+&#8226; 
+
+inability to generate sufficient revenue to offset acquisition or investment costs; 
+
+&#8226; 
+
+disruption to our business and diversion of management attention and other resources; 
+
+&#8226; 
+
+potential financial and credit risks associated with acquired customers; 
+
+&#8226; 
+
+dependence on acquired technologies or licenses for which alternatives may not be available to us without significant cost or complexity; 
+
+&#8226; 
+
+in the case of foreign acquisitions, the challenges associated with integrating operations across different cultures and languages and any currency and regulatory risks associated with specific countries; and 
+
+&#8226; 
+
+potential unknown liabilities associated with the acquired businesses. 
+
+In addition, we may have to pay cash, incur debt, or issue equity or equity-linked securities to pay for any future acquisitions, each of which could adversely affect our financial condition or the market price of our common stock. Furthermore, if we finance acquisitions by issuing equity or convertible or other debt securities or loans, our existing stockholders may be diluted, or we could face constraints related to the terms of and repayment obligation related to the incurrence of indebtedness that could affect the market price of our common stock. The occurrence of any of these risks could harm our business, operating results and financial condition. 
+
+A portion of our revenues are generated by sales to government entities and heavily regulated organizations, which are subject to a number of challenges and risks. 
+
+A portion of our sales are to governmental agencies. Additionally, many of our current and prospective customers, such as those in the financial services and health care industries, are highly regulated and may be required to comply with more stringent regulations in connection with subscribing to and implementing our services. Selling to these entities can be highly competitive, expensive and time consuming, often requiring significant upfront time and expense without any assurance that we will successfully complete a sale. Furthermore, engaging in sales activities to foreign governments introduces additional compliance risks specific to the Foreign Corrupt Practices Act, the UK Bribery Act and other similar statutory requirements prohibiting bribery and corruption in the jurisdictions in which we operate. Government and highly regulated entities often require contract terms that differ from our standard arrangements and impose compliance requirements that are complicated, require preferential pricing or &#8220;most favored nation&#8221; terms and conditions, or are otherwise time consuming and expensive to satisfy. If we undertake to meet special standards or requirements and do not meet them, we could be subject to increased liability from our customers or regulators. Even if we do meet them, the additional costs associated with providing our services to government and highly regulated customers could harm our margins. Moreover, changes in the underlying regulatory conditions that affect these types of customers could harm our ability to efficiently provide our services to them and to grow or maintain our customer base. 
+
+Our use of open source software could harm our ability to sell our services and subject us to possible litigation. 
+
+Our products incorporate software licensed to us by third-party authors under open source licenses, and we may continue to incorporate open source software into other services in the future. We attempt to monitor our use of open source software in an effort to avoid subjecting our services to adverse licensing conditions. However, there can be no assurance that our efforts have been or will be successful. There is little or no legal precedent governing the interpretation of the terms of open source licenses, and therefore the potential impact of these terms on our business is uncertain and enforcement of these terms may result in unanticipated obligations regarding our services and technologies. For example, depending on which open source license governs open source software included within our services or technologies, we may be subjected to conditions requiring us to offer our services to users at no cost; make available the source code for modifications and derivative works based upon, incorporating or using the open source software; and license such modifications or derivative works under the terms of the particular open source license. Moreover, if an author or other third party that distributes such open source software were to allege that we had not complied with the conditions of one or more of these licenses, we could be required to incur significant legal costs defending ourselves against such allegations, be subject to significant damages or be enjoined from the distribution of our services. 
+
+If we are unable to maintain effective internal control over financial reporting, the accuracy and timeliness of our financial reporting may be adversely affected. 
+
+The Sarbanes-Oxley Act requires us, among other things, to assess and report on the effectiveness of our internal control over financial reporting annually and disclosure controls and procedures quarterly. In addition, our independent registered public accounting firm is required to audit the effectiveness of our internal control over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act annually. Our independent registered public accounting firm may issue a report that is adverse in the event it is not satisfied with the level at which our controls are documented, designed or operating. Moreover, our testing, or the subsequent testing by our independent registered public accounting firm, may reveal material weaknesses. If material weaknesses are identified or we are not able to comply with the requirements of Section 404 in a timely manner, our reported financial results could be materially misstated or could subsequently require restatement, we could receive an adverse opinion regarding our internal control over financial reporting from our independent registered public accounting firm, we could be subject to investigations or sanctions by regulatory authorities and we could incur substantial expenses. New accounting principles, such as the new revenue recognition standards that are effective for us beginning January 1, 2018, require significant changes to our existing processes and controls. We may not be able to effectively implement system and process changes required for the new standards on a timely basis. Any delays or failure to update our systems and processes could also lead to a material weakness. 
+
+&#160; 
+
+Weakened global economic conditions may harm our industry, business and results of operations. 
+
+We operate globally and as a result our business and revenues are impacted by global macroeconomic conditions. Global financial developments seemingly unrelated to us or the software industry may harm us. The United States and other key international economies have been impacted by high levels of bad debt globally, geopolitical instability, slowing economic growth in China, falling demand for a variety of goods and services, including oil and other commodities, high levels of persistent unemployment and wage and income stagnation in some geographic markets, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, bankruptcies and overall uncertainty with respect to the economy. In addition, the June 23, 2016 referendum by British voters to exit the European Union created significant future economic uncertainties across the European Economic Area, including the United Kingdom. These conditions affect the rate of information technology spending and could adversely affect our customers&#8217; ability or willingness to purchase our services, delay prospective customers&#8217; purchasing decisions, reduce the value or duration of their subscriptions, or affect renewal rates, all of which could harm our operating results. In addition, the effects, if any, of global financial conditions on our business can be difficult to distinguish from the effects on our business from product, pricing, and other developments in the markets specific to our products and our relative competitive strength. If we make incorrect judgments about our business for this reason our business and results of operations could be adversely affected. 
+
+Natural disasters and other events beyond our control could harm our business. 
+
+Natural disasters or other catastrophic events may cause damage or disruption to our operations, international commerce and the global economy, and thus could have a negative effect on us. Our business operations are subject to interruption by natural disasters, flooding, fire, power shortages, pandemics, terrorism, political unrest and other events beyond our control. Although we maintain crisis management and disaster response plans, such events could make it difficult or impossible for us to deliver our services to our customers, could decrease demand for our services, and would cause us to incur substantial expense. Our insurance may not be sufficient to cover losses or additional expense that we may sustain in connection with any natural disaster. The majority of our research and development activities, corporate offices, information technology systems, and other critical business operations are located near major seismic faults in California and Washington. Customer data could be lost, significant recovery time could be required to resume operations and our financial condition and operating results could be adversely affected in the event of a major natural disaster or catastrophic event. 
+
+Risks Related to Our 0% Convertible Senior Notes Due 2022 (2022 Notes) and Our 0% Convertible Senior Notes Due 2018 (2018 Notes) 
+
+We may not have the ability to raise the funds necessary to settle conversions of the convertible senior notes in cash or to repurchase the convertible senior notes upon a fundamental change, and our future debt may contain limitations on our ability to pay cash upon conversion or repurchase of the convertible senior notes. 
+
+Holders of the 2022 Notes and 2018 Notes have the right to require us to repurchase all or a portion of their 2022 Notes and 2018 Notes upon the occurrence of a fundamental change (as defined in the indenture for each of the 2022 Notes and 2018 Notes, as applicable) at a repurchase price equal to 100% of the principal amount of the 2022 Notes and 2018 Notes to be repurchased, plus accrued and unpaid special interest, if any. In addition, if a make-whole fundamental change (as defined in the indenture for each of the 2022 Notes and 2018 Notes, as applicable) occurs prior to the maturity date of the 2022 Notes or 2018 Notes, we will in some cases be required to increase the conversion rate for a holder that elects to convert its 2022 Notes or 2018 Notes in connection with such make-whole fundamental change. Upon conversion of the 2022 Notes or 2018 Notes, unless we elect to deliver solely shares of our common stock to settle such conversion (other than paying cash in lieu of delivering any fractional share), we will be required to make cash payments in respect of the 2022 Notes or 2018 Notes being converted. However, we may not have enough available cash or be able to obtain financing at the time we are required to make repurchases of the 2022 Notes or 2018 Notes surrendered therefor or pay cash with respect to the 2022 Notes or 2018 Notes being converted. 
+
+We and our subsidiaries may incur substantial additional debt in the future, subject to the restrictions contained in our future debt instruments, some of which may be secured debt. We are not restricted under the terms of the indentures governing each of the 2022 Notes and 2018 Notes from incurring additional debt, securing existing or future debt, recapitalizing our debt or taking a number of other actions that could have the effect of diminishing our ability to make payments on the 2022 Notes and 2018 Notes when due. Furthermore, the indentures for each of the 2022 Notes and 2018 Notes prohibit us from engaging in certain mergers or acquisitions unless, among other things, the surviving entity assumes our obligations under the 2022 Notes and 2018 Notes and their respective indentures. These and other provisions in each of the indentures could deter or prevent a third party from acquiring us even when the acquisition may be favorable to holders of the 2022 Notes and 2018 Notes. 
+
+In addition, our ability to repurchase or to pay cash upon conversion of the 2022 Notes or 2018 Notes may be limited by law, regulatory authority or agreements governing our future indebtedness. Our failure to repurchase 2022 Notes or 2018 Notes at a time when the repurchase is required by each indenture or to pay cash upon conversion of the 2022 Notes or 2018 Notes as required by each indenture would constitute a default. A default under each indenture or the fundamental change itself could also lead to a default under agreements governing our future indebtedness. Moreover, the occurrence of a fundamental change under each indenture could constitute an event of default under any such agreements. If the payment of the related indebtedness were to be accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay the indebtedness and repurchase the 2022 Notes or 2018 Notes, or to pay cash upon conversion of the 2022 Notes or 2018 Notes. 
+
+The conditional conversion feature of the 2022 Notes and 2018 Notes, if triggered, may adversely affect our financial condition and operating results. 
+
+The holders of the 2018 Notes and 2022 Notes may elect to convert their notes during any calendar quarter (and only during such calendar quarter) if the last reported sale price of our common stock for at least 20 trading days during the period of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to $96.04, in the case of the 2018 Notes, or $175.18, in the case of the 2022 Notes (in each case, the Conversion Condition). The Conversion Condition was met for the 2018 Notes during the three months ended June 30, 2017 and September 30, 2017, respectively. Accordingly, the 2018 Notes became convertible at the holders&#8217; option during the three months ended September 30, 2017 and will continue to be convertible at the holders&#8217; option during the three months ending December 31, 2017. During the three months ended September 30, 2017, we received requests to convert an aggregate of $4,000 principal amount of 2018 Notes, which we have elected to settle in cash. If one or more holders elect to convert their 2018 Notes (or 2022 Notes, if the Conversion Condition is triggered) in future periods, unless we elect to satisfy our conversion obligation by delivering solely shares of our common stock (other than paying cash in lieu of delivering any fractional share), we may settle all or a portion of our conversion obligation in cash, which could adversely affect our liquidity and result in a material adverse effect on our financial position, results of operations and cash flows. In addition, to the extent we receive conversion requests, we may also record a loss on extinguishment of the 2018 Notes (or 2022 Notes, if the Conversion Condition is triggered) converted by noteholders based on the difference between the fair market value allocated to the liability component on the settlement date and the net carrying amount of the liability component and unamortized debt issuance on the settlement date. 
+
+The convertible note hedge and warrant transactions may affect the value of the 2022 Notes and 2018 Notes and our common stock. 
+
+In connection with the sale of the 2022 Notes and 2018 Notes, we entered into convertible note hedge (2022 Note Hedge and 2018 Note Hedge, respectively) transactions with certain financial institutions (option counterparties). We also entered into warrant transactions with the option counterparties pursuant to which we sold warrants for the purchase of our common stock (2022 Warrants and 2018 Warrants, respectively). The 2022 Note Hedge and 2018 Note Hedge transactions are expected generally to reduce the potential dilution upon any conversion of the 2022 Notes or 2018 Notes and/or offset any cash payments we are required to make in excess of the principal amount of converted 2022 Notes or 2018 Notes, as the case may be. The warrant transactions could separately have a dilutive effect to the extent that the market price per share of our common stock exceeds the exercise price of the 2022 Warrants or 2018 Warrants, which is $203.40 and $107.46, respectively. 
+
+The option counterparties and/or their respective affiliates may modify their hedge positions by entering into or unwinding various derivatives with respect to our common stock and/or purchasing or selling our common stock in secondary market transactions prior to the maturity of the 2022 Notes or 2018 Notes (and are likely to do so during any observation period related to a conversion of 2022 Notes or 2018 Notes, or following any repurchase of 2022 Notes or 2018 Notes by us on any fundamental change repurchase date (as defined in the indentures for the 2022 Notes and 2018 Notes) or otherwise). This activity could also cause or avoid an increase or a decrease in the market price of our common stock or the 2022 Notes or 2018 Notes, which could affect note holders&#8217; ability to convert the 2022 Notes or 2018 Notes and, to the extent the activity occurs during any observation period related to a conversion of the 2022 Notes or 2018 Notes, it could affect the amount and value of the consideration that note holders will receive upon conversion of the 2022 Notes or 2018 Notes. 
+
+The potential effect, if any, of these transactions and activities on the market price of our common stock or the 2022 Notes or 2018 Notes will depend in part on market conditions and cannot be ascertained at this time. Any of these activities could adversely affect the value of our common stock and the value of the 2022 Notes and 2018 Notes (and as a result, the value of the consideration, the amount of cash and/or the number of shares, if any, that note holders would receive upon the conversion of any 2022 Notes or 2018 Notes) and, under certain circumstances, the ability of the note holders to convert the 2022 Notes or 2018 Notes. 
+
+We do not make any representation or prediction as to the direction or magnitude of any potential effect that the transactions described above may have on the price of the 2022 Notes or 2018 Notes or our common stock. In addition, we do not make any representation that the option counterparties will engage in these transactions or that these transactions, once commenced, will not be discontinued without notice. 
+
+We are subject to counterparty risk with respect to the 2022 Note Hedge and 2018 Note Hedge transactions. 
+
+The option counterparties are financial institutions, and we will be subject to the risk that any or all of them may default under the 2022 Note Hedge or 2018 Note Hedge transactions. Our exposure to the credit risk of the option counterparties will not be secured by any collateral. Recent global economic conditions have resulted in the actual or perceived failure or financial difficulties of many financial institutions. If an option counterparty becomes subject to insolvency proceedings, we will become an unsecured creditor in those proceedings, with a claim equal to our exposure at that time under our transactions with that option counterparty. Our exposure will depend on many factors but, generally, an increase in our exposure will be correlated to an increase in the market price and in the volatility of our common stock. In addition, upon a default by an option counterparty, we may suffer adverse tax consequences and more dilution than we currently anticipate with respect to our common stock. We can provide no assurances as to the financial stability or viability of the option counterparties. 
+
+&#160; 
+
+Risks Related to Ownership of Our Common Stock 
+
+The market price of our common stock has historically been and is likely to continue to be volatile and could subject us to litigation. 
+
+The trading price of our common stock has been, and is likely to continue to be, volatile and could be subject to wide fluctuations in response to various factors, some of which are beyond our control. In addition, the trading prices of the securities of technology companies in general have been highly volatile, and the volatility in market price and trading volume of securities is often unrelated or disproportionate to the financial performance of the companies issuing the securities. Factors affecting the market price of our common stock, some of which are beyond our control, include: 
+
+&#8226; 
+
+changes in the estimates of our operating results or changes in recommendations by securities analysts that elect to follow our common stock; 
+
+&#8226; 
+
+announcements of new products, services or technologies, new applications or enhancements to services, strategic alliances, acquisitions, or other significant events by us or by our competitors; 
+
+&#8226; 
+
+fluctuations in the valuation of companies perceived by investors to be comparable to us, such as high-growth or cloud companies; 
+
+&#8226; 
+
+changes to our management team; 
+
+&#8226; 
+
+trading activity by directors, executive officers and significant stockholders, or the perception in the market that the holders of a large number of shares intend to sell their shares; 
+
+&#8226; 
+
+the size of our market float; 
+
+&#8226; 
+
+the volume of trading in our common stock, including sales upon exercise of outstanding options or vesting of equity awards or sales and purchases of any common stock issued upon conversion of the 2022 Notes or 2018 Notes or in connection with the 2022 Note Hedge and 2022 Warrant transactions relating to the 2022 Notes, or 2018 Note Hedge and 2018 Warrant transactions relating to the 2018 Notes; 
+
+&#8226; 
+
+the economy as a whole, market conditions in our industry, and the industries of our customers; and 
+
+&#8226; 
+
+overall performance of the equity markets. 
+
+Following periods of volatility in the market price of a company&#8217;s securities, securities class action litigation has often been brought against that company. Securities litigation could result in substantial costs and divert our management&#8217;s attention and resources from our business. This could have a material adverse effect on our business, operating results, and financial condition. 
+
+We do not intend to pay dividends on our common stock so any returns will be limited to changes in the value of our common stock. 
+
+We have never declared or paid any cash dividends on our common stock. We currently anticipate that we will retain future earnings for the development, operation and expansion of our business and do not anticipate declaring or paying any cash dividends for the foreseeable future. In addition, our ability to pay cash dividends on our common stock may be prohibited or limited by the terms of any future debt financing arrangement. Any return to stockholders will therefore be limited to the increase, if any, of our stock price. 
+
+Provisions in our charter documents, Delaware law, our 2022 Notes and our 2018 Notes might discourage, delay or prevent a change of control of our company or changes in our management and, therefore, depress the market price of our common stock. 
+
+&#160; 
+
+Our restated certificate of incorporation and restated bylaws contain provisions that could depress the market price of our common stock by acting to discourage, delay or prevent a change in control of our company or changes in our management that the stockholders of our company may deem advantageous. These provisions among other things: 
+
+&#160; 
+
+&#8226; 
+
+establish a classified board of directors so that not all members of our board are elected at one time; 
+
+&#8226; 
+
+permit the board of directors to establish the number of directors; 
+
+&#8226; 
+
+provide that directors may only be removed &#8220;for cause&#8221; and only with the approval of 66 2/3% of our stockholders; 
+
+&#8226; 
+
+require super-majority voting to amend some provisions in our restated certificate of incorporation and restated bylaws; 
+
+&#8226; 
+
+authorize the issuance of &#8220;blank check&#8221; preferred stock that our board could use to implement a stockholder rights plan; 
+
+&#8226; 
+
+eliminate the ability of our stockholders to call special meetings of stockholders; 
+
+&#8226; 
+
+prohibit stockholder action by written consent, which requires all stockholder actions to be taken at a meeting of our stockholders; 
+
+&#8226; 
+
+provide that the board of directors is expressly authorized to make, alter or repeal our restated bylaws; and 
+
+&#8226; 
+
+establish advance notice requirements for nominations for election to our board or for proposing matters that can be acted upon by stockholders at annual stockholder meetings (though our restated bylaws have implemented stockholder proxy access). 
+
+In addition, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company. Section 203 imposes certain restrictions on merger, business combinations and other transactions between us and holders of 15% or more of our common stock. 
+
+Further, the fundamental change provisions of our 2022 Notes or 2018 Notes may delay or prevent a change in control of our company, because those provisions allow note holders to require us to repurchase such notes upon the occurrence of a fundamental change. 
+

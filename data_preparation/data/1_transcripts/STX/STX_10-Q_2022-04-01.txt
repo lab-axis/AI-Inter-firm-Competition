@@ -1,0 +1,252 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following is a discussion of the financial condition, changes in financial condition and results of operations for our fiscal quarters ended April 1, 2022, December 31, 2021 and April 2, 2021, referred to herein as the &#8220;March 2022 quarter,&#8221; the &#8220;December 2021 quarter,&#8221; and the &#8220;March 2021 quarter,&#8221; respectively. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The March 2022 quarter, the December 2021 quarter and the March 2021 quarter were each 13 weeks. 
+
+You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. Unless the context indicates otherwise, as used herein, the terms &#8220;we,&#8221; &#8220;us,&#8221; &#8220;Seagate,&#8221; the &#8220;Company&#8221; and &#8220;our&#8221; refer collectively to Seagate Technology Holdings plc, an Irish public limited company, and its subsidiaries. References to &#8220;$&#8221; or &#8220;dollars&#8221; are to United States dollars. 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical fact. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, among other things, statements about our plans, strategies and prospects; market demand for our products; shifts in technology; estimates of industry growth; effects of the economic conditions worldwide resulting from the COVID-19 pandemic; our ability to effectively manage our cash liquidity position and debt obligations, and comply with the covenants in our credit facilities; our restructuring efforts; the sufficiency of our sources of cash to meet cash needs for the next 12 months; our expectations regarding capital expenditures; and projected cost savings for the fiscal year ending July 1, 2022. Forward-looking statements generally can be identified by words such as &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;predicts,&#8221; &#8220;projects,&#8221; &#8220;may,&#8221; &#8220;will,&#8221; &#8220;will continue,&#8221; &#8220;can,&#8221; &#8220;could,&#8221; or negative of these words, variations of these words and comparable terminology. However, the absence of these words or similar expressions does not mean that a statement is not forward-looking. These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on management&#8217;s current views and assumptions. These forward-looking statements are conditioned upon and involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition. Such risks and uncertainties include, but are not limited to: 
+
+&#8226; the uncertainty in global economic and political conditions, or adverse changes in the level of economic activity in the major regions in which we do business; 
+
+&#8226; the development and introduction of products based on new technologies and expansion into new data storage markets and market acceptance of new products; 
+
+&#8226; the impact of competitive product announcements and unexpected advances in competing technologies or changes in market trends; 
+
+&#8226; the impact of variable demand, including ongoing demand variation related to the COVID-19 pandemic, changes in market demand and an adverse pricing environment for storage products; 
+
+&#8226; the effects of the COVID-19 pandemic and related individual, business and government responses on the global economy and their impact on the Company&#8217;s business, operations and financial results, including impacts to the Company&#8217;s supply chain resulting from governments&#8217; policies and approaches to containing COVID-19; 
+
+&#8226; the Company&#8217;s ability to effectively manage its debt obligations and comply with certain covenants in its credit facilities with respect to financial ratios and financial condition tests and its ability to maintain a favorable cash liquidity position; 
+
+&#8226; the Company&#8217;s ability to successfully qualify, manufacture and sell its storage products in increasing volumes on a cost-effective basis and with acceptable quality; 
+
+&#8226; any price erosion or volatility of sales volumes through the Company&#8217;s distributor and retail channel; 
+
+&#8226; disruptions to the Company&#8217;s supply chain or production capabilities, including ongoing shortages of certain materials, any electricity restrictions and increases in logistics, materials and operation costs; 
+
+&#8226; currency fluctuations that may impact the Company&#8217;s margins, international sales and results of operations; 
+
+&#8226; changes in tax laws, such as global tax developments applicable to multinational businesses; the impact of trade barriers, such as import/export duties and restrictions, sanctions, tariffs and quotas, imposed by the U.S. or other countries in which the Company conducts business; the evolving legal and regulatory, economic, environmental and administrative climate in the international markets where the Company operates; 
+
+&#8226; the effect of geopolitical uncertainties, such as the Russia-Ukraine conflict, on international commerce, the global economy, and/or our business; and 
+
+&#8226; cyber-attacks or other data breaches that disrupt the Company&#8217;s operations or result in the dissemination of proprietary or confidential information and cause reputational harm. 
+
+Information concerning these and other risks, uncertainties and factors, among others, that could cause results to differ materially from our expectations are described in this Quarterly Report on Form 10-Q and in &#8220;Item 1A. Risk Factors&#8221; of our Annual Report on Form 10-K for the fiscal year ended July 2, 2021, which we encourage you to carefully read. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date on which they were made, and we undertake no obligation to update forward-looking statements except as required by law. 
+
+Our Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is provided in addition to the accompanying condensed consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. Our MD&#38;A is organized as follows: 
+
+&#8226; Overview of the March 2022 quarter. Highlights of events in the March 2022 quarter that impacted our financial position. 
+
+&#8226; Results of Operations. Analysis of our financial results comparing the March 2022 quarter to the December 2021 quarter and the March 2021 quarter. 
+
+&#8226; Liquidity and Capital Resources. An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including potential sources of liquidity. 
+
+&#8226; Critical Accounting Policies. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. 
+
+For an overview of our business, see &#8220;Part I, Item 1. Financial Statements&#8212;Note 1. Basis of Presentation and Summary of Significant Accounting Policies&#8212; Organization &#8221;. 
+
+Overview of the March 2022 quarter 
+
+During the March 2022 quarter, we shipped 154 exabytes of HDD storage capacity. We generated revenue of approximately $2.8 billion with a gross margin of 29% and our operating cash flow was $460 million. We fully repaid the $220 million principal amount outstanding of our 2022 Notes . We repurchased approximately 4.2 million of our ordinary shares for $417 million and paid $154 million in dividends. 
+
+Impact of COVID-19 Pandemic 
+
+The pandemic continues to impact our business and results of operations. During the March 2022 quarter, we experienced the ongoing impacts of supply chain disruptions, higher logistics, materials and operational costs globally, as well as other inflationary pressures. Additionally, constraints from certain component shortages impacted our ability to fulfill demand primarily for our non-HDD business. Our customers also continued to experience certain supply chain and demand disruptions, resulting in demand variations across certain of our end markets, including impacts from periodic governmental lockdown measures. 
+
+We continue to actively monitor the effects and potential impacts of the pandemic on all aspects of our business, supply chain, liquidity and capital resources, including governmental policies that could periodically shut down an entire city where we, our suppliers or our customers operate. We are also actively working on opportunities to lower our cost structure and drive further operational efficiencies. We are complying with governmental rules and guidelines across all of our sites. Although we are unable to predict the future impact of the pandemic on our business, results of operations, liquidity or capital resources at this time, we expect we will continue to be negatively affected if the pandemic and related public and private health measures result in substantial manufacturing or supply chain challenges, substantial reductions or delays in demand due to disruptions in the operations of our customers or partners, disruptions in local and global economies, volatility in the global financial markets, sustained reductions or volatility in overall demand trends, restrictions on the export or shipment of our products or our customer&#8217;s products, or other unexpected ramifications from the pandemic. For a further discussion of the uncertainties and business risks associated with the pandemic, see the section entitled &#8220;Risk Factors&#8221; in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended July 2, 2021. 
+
+Results of Operations 
+
+We list in the tables below summarized information from our Condensed Consolidated Statements of Operations by dollars and as a percentage of revenue: 
+
+For the Three Months Ended For the Nine Months Ended (Dollars in millions) April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Revenue $ 2,802 $ 3,116 $ 2,731 $ 9,033 $ 7,668 Cost of revenue 1,996 2,168 1,991 6,323 5,636 Gross profit 806 948 740 2,710 2,032 Product development 233 228 227 694 671 Marketing and administrative 141 136 126 410 366 Amortization of intangibles 3 3 3 9 9 Restructuring and other, net &#8212; 1 (2) 2 1 Income from operations 429 580 386 1,595 985 Other expense, net (78) (66) (47) (197) (134) Income before income taxes 351 514 339 1,398 851 Provision for income taxes 5 13 10 25 19 Net income $ 346 $ 501 $ 329 $ 1,373 $ 832 
+
+&#160; For the Three Months Ended For the Nine Months Ended April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Revenue 100 % 100 % 100 % 100 % 100 % Cost of revenue 71 70 73 70 73 Gross margin 29 30 27 30 27 Product development 8 7 9 9 9 Marketing and administrative 5 4 5 5 5 Amortization of intangibles &#8212; &#8212; &#8212; &#8212; &#8212; Restructuring and other, net &#8212; &#8212; &#8212; &#8212; &#8212; Operating margin 16 19 14 16 13 Other expense, net (4) (3) (2) (2) (2) Income before income taxes 12 16 12 14 11 Provision for income taxes &#8212; &#8212; &#8212; &#8212; &#8212; Net income 12 % 16 % 12 % 16 % 11 % 
+
+Revenue 
+
+The following table summarizes information regarding consolidated revenues by channel, geography and market and HDD exabytes shipped by market and price per terabyte: 
+
+&#160; For the Three Months Ended For the Nine Months Ended April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Revenues by Channel (%) &#160; &#160; OEMs 77 % 70 % 71 % 73 % 69 % Distributors 12 % 18 % 17 % 16 % 17 % Retailers 11 % 12 % 12 % 11 % 14 % 
+
+Revenues by Geography (%) (1) 
+
+&#160; &#160; &#160; Asia Pacific 46 % 46 % 47 % 48 % 48 % Americas 42 % 38 % 34 % 38 % 34 % EMEA 12 % 16 % 19 % 14 % 18 % Revenues by Market (%) Mass capacity 69 % 66 % 60 % 66 % 59 % Legacy 23 % 25 % 32 % 25 % 33 % Other 8 % 9 % 8 % 9 % 8 % HDD Exabytes Shipped by Market Mass capacity 133 137 111 402 294 Legacy 21 26 29 74 89 Total 154 163 140 476 383 HDD Price per Terabyte $ 17 $ 17 $ 18 $ 17 $ 18 
+
+_________________________________ 
+
+(1) Revenue is attributed to geography based on bill from locations. 
+
+Revenue in the March 2022 quarter decreased by $314 million from the December 2021 quarter primarily due to the decrease in exabytes shipped as a result of lower demand in legacy and certain mass capacity markets that were impacted by the pandemic and seasonality declines. 
+
+Revenue in the March 2022 quarter increased by $71 million from the March 2021 quarter primarily due to an increase in mass capacity storage exabytes shipped, partially offset by a decrease in legacy market exabytes shipped. 
+
+Revenue for the nine months ended April 1, 2022 increased by $1.4 billion from the nine months ended April 2, 2021 primarily due to an increase in mass capacity storage exabytes shipped, partially offset by a decrease in legacy market exabytes shipped. 
+
+We maintain various sales incentive programs such as channel and OEM rebates. Sales incentive programs were approximately 14% of gross revenue for each of the March 2022 quarter, December 2021 quarter and March 2021 quarter . Adjustments to revenues due to under or over accruals for sales incentive programs related to revenues reported in prior quarterly periods were less than 1% of quarterly gross revenue in all periods presented. 
+
+Cost of Revenue and Gross Margin 
+
+&#160; For the Three Months Ended For the Nine Months Ended (Dollars in millions) April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Cost of revenue $ 1,996 $ 2,168 $ 1,991 $ 6,323 $ 5,636 Gross profit 806 948 740 2,710 2,032 Gross margin 29 % 30 % 27 % 30 % 27 % 
+
+Gross margin for the March 2022 quarter decreased compared to the December 2021 quarter primarily due to price erosion, less favorable product mix, a decrease in exabytes shipped and higher component costs resulting from the pandemic and global inflationary pressures. 
+
+Gross margin for the March 2022 quarter increased compared to the March 2021 quarter primarily due to improved product mix, partially offset by higher component and logistics costs resulting from the pandemic and global inflationary pressures. 
+
+Gross margin for the nine months ended April 1, 2022 increased compared to the nine months ended April 2, 2021 primarily driven by improved product mix, partially offset by higher component and logistics costs resulting from the pandemic and global inflationary pressures. 
+
+In the March 2022 quarter , total warranty cost was 0.9% of revenue and included an unfavorable change in estimates of prior warranty accruals of 0.2% of revenue primarily due to changes to our estimated future product return rates. Warranty cost related to new shipments was 0.7% of revenu e for each of the March 2022 quarter, December 2021 quarter and March 2021 quarter, respectively. 
+
+Operating Expenses 
+
+&#160; For the Three Months Ended For the Nine Months Ended (Dollars in millions) April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Product development $ 233 $ 228 $ 227 $ 694 $ 671 Marketing and administrative 141 136 126 410 366 Amortization of intangibles 3 3 3 9 9 Restructuring and other, net &#8212; 1 (2) 2 1 Operating expenses $ 377 $ 368 $ 354 $ 1,115 $ 1,047 
+
+Product development expense. Product development expense for the March 2022 quarter increased by $5 million compared to the December 2021 quarter primarily due to a $3 million increase in compensation and other employee benefits . 
+
+Product development expense increased by $6 million in the March 2022 quarter compared to the March 2021 quarter primarily due to a $6 million increase in materials expense and a $4 million increase in compensation and other employee benefits, partially offset by a $3 million decrease in outside services expense. 
+
+Product development expense increased by $23 million for the nine months ended April 1, 2022 compared to the nine months ended April 2, 2021 primarily due to a $16 million increase in materials expense, a $9 million increase in variable compensation expense, a $6 million increase in compensation and other employee benefits and a $3 million increase in equipment expense, partially offset by an $11 million decrease in outside services expense. 
+
+Marketing and administrative expense. Marketing and administrative expense increased by $5 million for the March 2022 quarter compared to the December 2021 quarter primarily due to a $2 million increase in outside services expense and $1 million increase in equipment expense . 
+
+Marketing and administrative expense increased by $15 million in the March 2022 quarter compared to the March 2021 quarter primarily due to a $5 million increase in compensation and other employee benefits, a $2 million increase in outside services and a $2 million increase in travel expenses as a result of the easing of pandemic-related travel restrictions. 
+
+Marketing and administrative expense increased by $44 million for the nine months ended April 1, 2022 compared to the nine months ended April 2, 2021 primarily due to a $10 million increase in compensation and other employee benefits, a $10 million increase in outside services expense, a $6 million increase in variable compensation expense, a $4 million increase in travel expenses as a result of the easing of pandemic-related travel restrictions , a $4 million increase in information technology costs and a $2 million increase in advertising costs. 
+
+Amortization of intangibles. Amortization of intangibles for the March 2022 quarter remained flat compared to the December 2021 quarter . 
+
+Amortization of intangibles for the three and nine months ended April 1, 2022 remained flat, compared to the three and nine months ended April 2, 2021, respectively. 
+
+Restructuring and other, net. Restructuring and other, net was not material for any periods presented. 
+
+Other Expense, Net 
+
+&#160; For the Three Months Ended For the Nine Months Ended (Dollars in millions) April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Other expense, net $ (78) $ (66) $ (47) $ (197) $ (134) 
+
+Other expense, net. Other expense, net for the March 2022 quarter increased by $12 million from the December 2021 quarter primarily due to a net $13 million impairment charge related to a strategic investment in the March 2022 quarter. 
+
+Other expense, net for the March 2022 quarter increased by $31 million c ompared to the March 2021 quarter primarily due to a net $13 million impairment charge in the March 2022 quarter related to a strategic investment, a $10 million non-recurring gain from our strategic investments in the March 2021 quarter and a $4 million increase in interest expense from the issuance of long-term debt. 
+
+Other expense, net for the nine months ended April 1, 2022 increased by $63 million compared to the nine months ended April 2, 2021 primarily due to a net $34 million higher non-recurring gain from our strategic investments in the prior-year period and a $23 million increase in interest expense from the issuance of long-term debt. 
+
+Income Taxes 
+
+&#160; For the Three Months Ended For the Nine Months Ended (Dollars in millions) April 1, 2022 December 31, 2021 April 2, 2021 April 1, 2022 April 2, 2021 Provision for income taxes $ 5 $ 13 $ 10 $ 25 $ 19 
+
+We recorded income tax provisions of $5 million and $25 million for the three and nine months ended April 1, 2022, respective ly. The income tax provision for the three months ended April 1, 2022 included approximately $6 million of net discrete tax benefit, primarily associated with a change in the applicable tax rate within our non-U.S. operations. The income tax provision for the nine months ended April 1, 2022 included approximately $15 million of net discrete tax benefit , primarily associated with the net excess tax benefits related to share-based compensation expense. 
+
+During the nine months ended April 1, 2022, our unrecognized tax benefits excluding interest and penalties increased by approximately $8 million to $116 million, substantially all of which would impact the effective tax rate, if recognized, subject to certain future valuation allowance reversals. During the twelve months beginning April 2, 2022, we expect that our unrecognized tax benefits could be reduced by an immaterial amount , as a result of the expiration of certain statutes of limitation. 
+
+We recorded income tax provisions of $10 million and $19 million for the three and nine months ended April 2, 2021, respectively. The income tax provision for the three months ended April 2, 2021 included approximately $4 million of net discrete tax benefit, primarily associated with filing of tax returns in various jurisdictions . The income tax provision for the nine months ended April 2, 2021 included approximately $15 million of net discrete tax benefits, primarily associated with net excess tax benefits related to share-based compensation expense, filing of tax returns in various jurisdictions, and postponement of the previously enacted United Kingdom tax rate change in the quarter ended October 2, 2020 . 
+
+Our income tax provision recorded for the three and nine months ended April 1, 2022 and April 2, 2021 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of tax benefits related to (i) non-Irish earnings generated in jurisdictions that are subject to tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) current year generation of research credits. 
+
+Liquidity and Capital Resources 
+
+The following sections discuss our principal liquidity requirements, as well as our sources and uses of cash and our liquidity and capital resources. Our cash and cash equivalents are maintained in investments with remaining maturities of 90 days or less at the time of purchase. The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We believe our cash equivalents are liquid and accessible. We operate in some countries that have restrictive regulations over the movement of cash and/or foreign exchange across their borders. However, we believe our sources of cash will continue to be sufficient to fund our operations and meet our cash needs for the next 12 months. Although there can be no assurance, we believe that our financial resources, along with controlling our costs, will allow us to manage the ongoing impacts of the pandemic on our business operations for the foreseeable future. However, some challenges posed by the pandemic to our industry and to our business continue to remain uncertain and cannot be predicted at this time. Consequently, we will continue to evaluate our financial position in light of future developments, particularly those relating to the pandemic. 
+
+We are not aware of any downgrades, losses or other significant deterioration in the fair value of our cash equivalents from the values reported as of April 1, 2022. 
+
+Cash and Cash Equivalents 
+
+(Dollars in millions) April 1, 2022 July 2, 2021 Change Cash and cash equivalents $ 1,138 $ 1,209 $ (71) 
+
+&#160; 
+
+Our cash and cash equivalents as of April 1, 2022 decreased by $71 million from July 2, 2021 primarily as a result of repurchases of our ordinary shares of $1.3 billion, repayment of long-term debt of $701 million, dividends paid to our shareholders of $458 million and payments for capital expenditures of $309 million , partially offset by the net proceeds of $1.2 billion from the issuance of long-term debt and net cash of $1.5 billion provided by operating activities. 
+
+Cash Provided by Operating Activities 
+
+Cash provided by operating activities for the nine months ended April 1, 2022 was $1.5 billion and includes the effects of net income adjusted for non-cash items including depreciation, amortization, share-based compensation and: 
+
+&#8226; an increase of $186 million in accounts receivable, primarily due to linearity of sales in the March 2022 quarter ; 
+
+&#8226; a n increase of $275 million in inventories, primarily due to timing of shipments and an increase in materials purchased for increased production of higher capacity drives; and 
+
+&#8226; a decrease in accrued employee compensation of $88 million , primarily due to cash paid to our employees as part of our discretionary spending plans; 
+
+&#8226; partially offset by an increase of $209 million in accounts payable , primarily due to an increase in direct materials purchased. 
+
+Cash Used in Investing Activities 
+
+Cash used in investing activities for the nine months ended April 1, 2022 was $293 million, primarily att ributable to the following activities: 
+
+&#8226; payments for the purchase of property, equipment and leasehold improvements o f $309 million; and 
+
+&#8226; payments for the purchase of strategic investments of $18 million; 
+
+&#8226; partially offset by proceeds from the sale of strategic investments of $34 million. 
+
+Cash Used in Financing Activities 
+
+Cash used in financing activitie s of $1.3 billion for the nine months ended April 1, 2022 was primarily attributable to the following activities: 
+
+&#8226; pa yments for the repurchase of our ordinary shares of $1.3 billion; 
+
+&#8226; repayments for long-term debt of $701 million; 
+
+&#8226; payments for dividends of $458 million ; and 
+
+&#8226; payments for taxes related to net share settlement of equity awards of $45 million ; 
+
+&#8226; partially offset by net proceeds from the issuance of long-term debt of $1.2 billion ; and 
+
+&#8226; procee ds from the issuance of ordinary shares under employee share plans of $68 million . 
+
+Liquidity Sources, Cash Requirements and Commitments 
+
+Our primary sources of liquidity as of April 1, 2022 consist of: (1) approximate ly $1.1 billion in cash and cash equivalents, (2) cash we expect to generate from operations and (3) $1.75 billion available for borrowing under our senior unsecured revolving credit facility (&#8220;Revolving Credit Facility&#8221;), which is part of our credit agreement (the &#8220;Credit Agreement&#8221;). 
+
+On October 14, 2021, our subsidiary Seagate HDD Cayman entered into an amendment to the Credit Agreement (&#8220;Fifth Amendment&#8221;), which provides for a new term loan facility in the aggregate principal amount of $1.2 billion that was extended in two tranches of $600 million each (the &#8220;Term Loans&#8221;). The Term Loans were drawn in full on October 14, 2021. On October 14, 2021, we utilized part of the proceeds of Term Loan A1 to fully repay the $475 million principal amount outstanding of our September 2019 Term Loan. Additionally, on February 1, 2022, we utilized part of the proceeds from the Term Loans to fully repay the entire outstanding principal amount of $220 million of our 2022 notes, plus accrued and unpaid interest. 
+
+In addition, pursuant to the Fifth Amendment, the maturity date for the revolving loan commitments was extended until October 14, 2026, the revolving commitments were increased to $1.75 billion and the interest rate margins for the Revolving Credit Facility was amended to LIBOR plus a variable margin ranging from 1.125% to 2.375% that will be determined based on the corporate credit rating of our Company. See &#8220;Part I, Item 1. Financial Statements&#8212;Note 3. Debt&#8221; for information regarding our amended Credit Agreement. 
+
+As of April 1, 2022, no borrowings (including swingline loans) were outstanding and no commitments were utilized for letters of credit issued under the Revolving Credit Facility. The Revolving Credit Facility is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing. 
+
+The Credit Agreement includes three financial covenants: (1) interest coverage ratio, (2) total leverage ratio and (3) a minimum liquidity amount. 
+
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend and any future strategic investments. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control. 
+
+For fiscal year 2022, we expect capital expenditures to be at or below the low end of our long-term targeted range of 4% to 6% of revenue. We require substantial amounts of cash to fund any increased working capital requirements, future capital expenditures, scheduled payments of principal and interest on our indebtedness and payments of dividends. We may raise additional capital from time to time and will continue to evaluate and manage the retirement and replacement of existing debt and associated obligations, including evaluating the issuance of new debt securities, exchanging existing debt securities for other debt securities and retiring debt pursuant to privately negotiated transactions, open market purchases, tender offers or other means. In addition, we may selectively pursue strategic alliances, acquisitions, joint ventures and investments, which may require additional capital. 
+
+From time to time, we may repurchase any of our outstanding senior notes in open market or privately negotiated purchases or o therwise, or we may repurchase outstanding senior notes pursuant to the terms of the applicable indenture. 
+
+During the March 2022 quarter, our Board of Directors declared dividends of $0.70 per share, totaling $152 million , which were paid on April 6, 2022. On April 27, 2022 , our Board of Directors declared a quarterly cash dividend of $0.70 per share, payable on July 7, 2022 to shareholders of record at the close of business on June 24, 2022. 
+
+From time to time, at our discretion, we may repurchase any of our outstanding ordinary shares through private, open market, or broker-assisted purchases, tender offers, or other means, including through the use of derivative transactions. As of April 1, 2022 , $2.8 billion re mained available for repurchases under our existing repurchase authorization. We may limit or terminate the repurchase program at any time. All repurchases are effected as redemptions in accordance with our Constitution. 
+
+Contractual Obligations and Commitments 
+
+Our contractual cash obligations and commitments as of April 1, 2022, are summarized in the table below: 
+
+&#160; &#160; Fiscal Year(s) (Dollars in millions) Total 2022 2023-2024 2025-2026 Thereafter Contractual Cash Obligations: &#160; &#160; &#160; &#160; &#160; Long-term debt $ 5,715 $ &#8212; $ 1,145 $ 1,125 $ 3,445 Interest payments on debt 1,414 70 430 325 589 Purchase obligations (1) 
+
+1,831 1,062 525 148 96 Operating leases, including imputed interest (2) 
+
+63 4 25 13 21 Capital expenditures 257 80 176 1 &#8212; Subtotal 9,280 1,216 2,301 1,612 4,151 Commitments: &#160; &#160; &#160; &#160; &#160; Letters of credit or bank guarantees 38 9 20 &#8212; 9 Total $ 9,318 $ 1,225 $ 2,321 $ 1,612 $ 4,160 
+
+___________________________________ 
+
+(1) Purchase obligations are defined as contractual obligations for the purchase of goods or services, which are enforceable and legally binding on us, and that specify all significant terms. 
+
+(2) Includes total future minimum rent expense under non-cancelable leases for both occupied and vacated facilities (rent expense is shown net of sublease income). 
+
+Critical Accounting Policies 
+
+Our discussion and analysis of financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements. Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances. However, actual future results may vary from our estimates. 
+
+Other than as described in &#8220;Part I, Item 1. Financial Statements&#8212;Note 1. Basis of Presentation and Summary of Significant Accounting Policies&#8221;, there have been no other material changes in our critical accounting policies and estimates. Refer to &#8220;Part II, Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K for the fiscal year ended July 2, 2021, as filed with the SEC on August 6, 2021, for a discussion of our critical accounting policies and estimates. 
+
+Recent Accounting Pronouncements 
+
+See &#8220;Part I, Item 1. Financial Statements&#8212;Note 1. Basis of Presentation and Summary of Significant Accounting Policies&#8221; for information regarding the effect of new accounting pronouncements on our financial statements. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+There have been no material changes to the description of the risk factors associated with our business previously disclosed in &#8220;Risk Factors&#8221; in Part I, Item 1A. in our Annual Report on Form 10-K for the fiscal year ended July 2, 2021. In addition to the other information set forth in this report, you should carefully consider the descriptions of the risks associated with our business previously disclosed in &#8220;Risk Factors&#8221; in Part I, Item 1A in our Annual Report on Form 10-K for the fiscal year ended July 2, 2021, as they could materially affect our business, financial condition and future results. 
+
+The Risk Factors are not the only risks we face. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition or operating results. 
+

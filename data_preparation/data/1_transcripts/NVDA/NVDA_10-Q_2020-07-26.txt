@@ -1,0 +1,252 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements &#160; 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the &#8220;safe harbor&#8221; created by those sections. Forward-looking statements are based on our management&#8217;s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;goal,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;predict,&#8221; &#8220;potential&#8221; and similar expressions intended to identify forward-looking statements. Other statements in this Form 10-Q regarding the potential future impact of the COVID-19 pandemic on the Company&#8217;s business and results of operations are forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading &#8220;Risk Factors.&#8221; Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. 
+
+All refere nces to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries. 
+
+NVIDIA, the NVIDIA logo, GeForce, DRIVE AGX Orin, GeForce NOW, GeForce RTX SUPER, NVIDIA A100, NVIDIA CUDA, NVIDIA DGX A100, NVIDIA DRIVE, NVIDIA GRID, NVIDIA Jarvis, NVIDIA Merlin, NVIDIA RTX, Mellanox, Quadro, Quadro RTX, Quadro View and Tegra are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 6. Selected Financial Data&#8221; of our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 and &#8220;Item 1A. Risk Factors&#8221; of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock. 
+
+Overview 
+
+Our Company and Our Businesses 
+
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for virtual reality, HPC, and AI. 
+
+Through fiscal year 2020, our reportable segments were GPU and Tegra Processor. Starting with the first quarter of fiscal year 2021, our reportable segments have changed to "Graphics" and "Compute &#38; Networking". 
+
+Our Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro GPUs for enterprise design; GRID software for cloud-based visual and virtual computing; and automotive platforms for infotainment systems. 
+
+Our Compute &#38; Networking segment includes Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; DRIVE for autonomous vehicles; and Jetson for robotics and other embedded platforms. 
+
+All prior period comparisons presented reflect our new reportable segments. Our market platforms &#8211; Gaming, Professional Visualization, Data Center, Automotive, OEM and Other &#8211; remain unchanged. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+COVID-19 
+
+The coronavirus identified in late calendar year 2019 (COVID-19) continues to be a worldwide pandemic. Government authorities around the world have implemented measures to try to contain the disease, such as travel bans and restrictions, quarantines, shelter-in-place orders and shutdowns. Since March 2020, most of our employees have been working remotely and we have temporarily prohibited most business travel. 
+
+Our employees and partners are performing above and beyond to keep our supply chain functioning normally. Many industries we serve are adversely impacted, including higher education research, energy, manufacturing, automotive, architecture, engineering, and media. Each industry is recovering, albeit at different rates. Professional Visualization revenue was negatively affected as corporate customers delayed spending on workstations. Automotive production is well below pre-COVID-19 levels. 
+
+The full extent and duration of COVID-19 is uncertain. As the COVID-19 pandemic continues, the timing and overall demand from customers and the availability of supply chain, logistical services and component supply may have a material net negative impact on our business and financial results. Refer to Part II, Item 1A of this Quarterly Report on Form 10-Q for additional information under the heading &#8220;Risk Factors&#8221;. 
+
+The Company believes its existing balances of cash, cash equivalents and marketable securities, along with commercial paper and other short-term liquidity arrangements, will be sufficient to satisfy its working capital needs, capital asset purchases, dividends, debt repayments and other liquidity requirements associated with its existing operations. 
+
+Second Quarter of Fiscal Year 2021 Summary 
+
+Three Months Ended &#160; July 26, 2020 April 26, 2020 July 28, 2019 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 3,866 &#160; $ 3,080 &#160; $ 2,579 &#160; 26 &#160; % 50 &#160; % Gross margin 58.8 &#160; % 65.1 &#160; % 59.8 &#160; % (630) bps (100) bps Operating expenses $ 1,624 &#160; $ 1,028 &#160; $ 970 &#160; 58 &#160; % 67 &#160; % Income from operations $ 651 &#160; $ 976 &#160; $ 571 &#160; (33) % 14 &#160; % Net income $ 622 &#160; $ 917 &#160; $ 552 &#160; (32) % 13 &#160; % Net income per diluted share $ 0.99 &#160; $ 1.47 &#160; $ 0.90 &#160; (33) % 10 &#160; % 
+
+Revenue for the second quarter of fiscal year 2021 was $3.87 billion, up 50% from a year earlier and up 26% sequentially. Results for the second quarter include the acquisition of Mellanox on April 27, 2020, the first day of the quarter. Mellanox contributed approximately 14% of total company revenue. 
+
+Graphics segment revenue for the second quarter was $2.09 billion, up 16% from a year earlier and up 9% sequentially. 
+
+Compute &#38; Networking segment revenue, which includes Mellanox, was $1.78 billion, up 130% from a year ago and up 52% sequentially. 
+
+From a market-platform perspective, Gaming revenue was $1.65 billion, up 26% from a year ago and up 24% sequentially. The year-on-year increase reflects higher sales of gaming GPUs. The sequential increase reflects higher sales from gaming GPUs and game console SOCs. 
+
+Professional Visualization revenue was $203 million, down 30% from a year earlier and down 34% sequentially. 
+
+Data Center revenue, which includes Mellanox, was $1.75 billion, up 167% from a year ago and up 54% sequentially. Mellanox contributed approximately 14% of total company revenue and just over 30% of Data Center revenue for the second quarter. In addition to Mellanox, the year-on-year and sequential increases were driven by the ramp of Ampere GPU architecture products. 
+
+Automotive revenue was $111 million, down 47% from a year earlier and down 28% sequentially. 
+
+OEM and Other revenue was $146 million, up 32% from a year ago and up 6% sequentially, primarily due to higher demand for entry-level laptop GPUs. 
+
+Gross margin for the second quarter of fiscal year 2021 was 58.8%, down 100 basis points from a year earlier and down 630 basis points sequentially, reflecting charges related to the Mellanox acquisition. These include a non-recurring inventory step-up expense of $161 million and intangible asset amortization of $84 million that is expected to be recurring. 
+
+Operating expenses for the second quarter of fiscal year 2021 were $1.62 billion, up 67% from a year earlier and up 58% sequentially, primarily driven by our Mellanox acquisition, as well as hiring additional employees. 
+
+Income from operations for the second quarter of fiscal year 2021 was $651 million, up 14% from a year earlier and down 33% sequentially. Net income for the second quarter of fiscal year 2021 was $622 million. Net income per diluted share for the second quarter of fiscal year 2021 was $0.99, up 10% from a year earlier and down 33% sequentially. 
+
+Cash, cash equivalents and marketable securities at the end of the second quarter were $10.98 billion, up from $8.47 billion a year earlier and down from $16.35 billion in the prior quarter. The year-on-year increase primarily reflects the issuance of the $5 billion of notes in March 2020, offset by acquisitions. The sequential decrease reflects the Mellanox acquisition during the second quarter. 
+
+We paid $99 million in quarterly cash dividends in the second quarter. 
+
+Market Platform Highlights 
+
+During the second quarter of fiscal year 2021, in our Gaming platform, we ramped 100+ new GeForce laptops across a range of price points; announced a range of games now supporting NVIDIA RTX ray tracing and DLSS AI super resolution; expanded GeForce NOW to Chromebooks; and announced that Square Enix is adding its catalog to GeForce NOW. 
+
+In our Professional Visualization platform, we launched with Acer, Dell, Lenovo and Microsoft new mobile workstations for professional creators, based on NVIDIA Quadro graphics; powered new AI features in the latest releases of Substance Alchemist and Blender; announced that NVIDIA RTX has been implemented in the latest application releases from Foundry, Chaos Group and Redshift by Maxon; and released NVIDIA Quadro View. 
+
+In our Data Center platform, we announced more than 50 NVIDIA A100-powered systems; powered eight of the 10, and two-thirds of the total systems, on the latest TOP500 list of the world&#8217;s fastest supercomputers; set 16 AI performance records on the latest MLPerf benchmarks; made the NVIDIA A100 Tensor Core GPU available on Google Cloud; provided CUDA GPU-acceleration for Apache Spark; and unveiled the NVIDIA Mellanox UFM Cyber-AI Platform. 
+
+In our Automotive platform, we announced with Mercedes-Benz that the carmaker is integrating into every vehicle in its lineup, beginning in 2024, a new software-defined vehicle architecture built on the NVIDIA DRIVE AV autonomous driving software and AGX Orin AV computer. 
+
+During the first quarter of fiscal year 2021, in our Gaming platform, we launched Minecraft with RTX as an open beta on Windows 10; announced the release of laptop models powered by NVIDIA GeForce GPUs; expanded the RTX Studio lineup powered by new GeForce RTX SUPER GPUs; released DLSS 2.0; and expanded NVIDIA GeForce NOW. 
+
+In our Professional Visualization platform, we powered Autodesk&#8217;s latest 3D visualization software with NVIDIA Quadro RTX; accelerated Altair's engineering software with NVIDIA CUDA; and brought Quadro professional graphics to HP's mobile workstation lineup. 
+
+In our Data Center platform, we introduced NVIDIA A100 data center GPU, the first based on the NVIDIA Ampere architecture; launched the NVIDIA DGX A100; introduced two products for the EGX Edge AI platform; released NVIDIA Jarvis; collaborated with the open-source community to bring end-to-end GPU acceleration to Apache Spark 3.0; and announced NVIDIA Merlin. 
+
+Financial Information by Business Segment and Geographic Data 
+
+Refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information. 
+
+Critical Accounting Policies and Estimates 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments 
+
+that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Quarterly Report on Form 10-Q. Due to the Mellanox acquisition, we added the following critical accounting policy: 
+
+Business Combinations 
+
+The application of acquisition accounting to a business acquisition requires that we identify the individual assets acquired and liabilities assumed and estimate the fair value of each. The fair value of assets acquired and liabilities assumed in a business acquisition are recognized at the acquisition date, with the purchase price exceeding the fair values being recognized as goodwill. Determining fair value of identifiable assets, particularly intangibles, liabilities acquired and contingent obligations assumed requires management to make estimates. In certain circumstances, the allocations of the purchase price are based upon preliminary estimates and assumptions and subject to revision when we receive final information, including appraisals and other analysis. Accordingly, the measurement period for such purchase price allocations will end when the information, or the facts and circumstances, becomes available, but will not exceed twelve months. We will recognize measurement-period adjustments during the period of resolution, including the effect on earnings of any amounts that would have been recorded in previous periods if the accounting had been completed at the acquisition date. 
+
+Goodwill and intangible assets often represent a significant portion of the assets acquired in a business combination. We recognize the fair value of an acquired intangible apart from goodwill whenever the intangible arises from contractual or other legal rights, or when it can be separated or divided from the acquired entity and sold, transferred, licensed, rented or exchanged, either individually or in combination with a related contract, asset or liability. Intangible assets consist primarily of technology, customer relationships, order backlog and trade name acquired in a business combination and IPR&#38;D. We generally assess the estimated fair values of acquired intangibles using a combination of valuation techniques. To estimate fair value, we are required to make certain estimates and assumptions, including future economic and market conditions, revenue growth, technology migration curve, and risk-adjusted discount rates. Our estimates require significant judgment and are based on historical data, various internal estimates, and external sources. Our assessment of IPR&#38;D also includes consideration of the risk of the projects not achieving technological feasibility. 
+
+There have been no other material changes in our critical accounting policies and estimates since our Annual Report on Form 10-K for the fiscal year ended January 26, 2020. Refer to Note 1 &#8220;Basis of Presentation&#8221; to the condensed consolidated financial statements for additional details. In addition, please refer to Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended January 26, 2020 for a more complete discussion of our critical accounting policies and estimates. 
+
+Results of Operations 
+
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. 
+
+&#160; Three Months Ended Six Months Ended &#160; July 26, 2020 July 28, 2019 July 26, 2020 July 28, 2019 Revenue 100.0 &#160; % 100.0 &#160; % 100.0 &#160; % 100.0 &#160; % Cost of revenue 41.2 &#160; 40.2 &#160; 38.4 &#160; 40.9 &#160; Gross profit 58.8 &#160; 59.8 &#160; 61.6 &#160; 59.1 &#160; Operating expenses &#160; &#160; &#160; Research and development 25.8 &#160; 27.3 &#160; 24.9 &#160; 28.7 &#160; Sales, general and administrative 16.2 &#160; 10.3 &#160; 13.3 &#160; 11.0 &#160; Total operating expenses 42.0 &#160; 37.6 &#160; 38.2 &#160; 39.7 &#160; Income from operations 16.8 &#160; 22.2 &#160; 23.4 &#160; 19.4 &#160; Interest income 0.3 &#160; 1.8 &#160; 0.6 &#160; 1.9 &#160; Interest expense (1.4) (0.5) (1.1) (0.6) Other income (expense), net 
+
+(1.1) 1.3 &#160; (0.5) 1.3 &#160; Income before income tax 15.7 &#160; 23.5 &#160; 22.9 &#160; 20.7 &#160; Income tax expense (benefit) (0.3) 2.1 &#160; 0.7 &#160; 1.0 &#160; Net income 16.0 &#160; % 21.4 &#160; % 22.2 &#160; % 19.7 &#160; % 
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+Three Months Ended Six Months Ended &#160; July 26, 2020 July 28, 2019 $ Change % Change July 26, 2020 July 28, 2019 $ Change % Change &#160; ($ in millions) Graphics $ 2,085 &#160; $ 1,803 &#160; $ 282 &#160; 16 &#160; % $ 3,991 &#160; $ 3,329 &#160; $ 662 &#160; 20 &#160; % Compute &#38; Networking 1,781 &#160; 776 &#160; 1,005 &#160; 130 &#160; % 2,955 &#160; 1,470 &#160; 1,485 &#160; 101 &#160; % Total $ 3,866 &#160; $ 2,579 &#160; $ 1,287 &#160; 50 &#160; % $ 6,946 &#160; $ 4,799 &#160; $ 2,147 &#160; 45 &#160; % 
+
+Graphics - Graphics segment revenue increased 16% in the second quarter of fiscal year 2021 compared to the second quarter of fiscal year 2020, which reflects growth in GeForce GPUs for gaming, partially offset by lower sales of Quadro workstations and game console SOCs. 
+
+Graphics segment revenue increased 20% in the first half of fiscal year 2021 compared to the first half of fiscal year 2020, which reflects growth in GeForce GPUs for gaming, game console SOCs, and Quadro workstations. 
+
+Compute &#38; Networking - Compute &#38; Networking segment revenue for the second quarter of fiscal year 2021 compared to the second quarter of fiscal year 2020 increased by 130% and revenue for the first half of fiscal year 2021 compared to the first half of fiscal year 2020 increased by 101%. These increases reflect the addition of Mellanox acquired on April 27, 2020 and the ramp of Ampere GPU architecture products, partially offset by lower autonomous driving development agreement revenue. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States accounted for 76% and 79% of total revenue for the second quarter and first half of fiscal year 2021, respectively, and 93% of total revenue for the second quarter and first 
+
+half of fiscal year 2020. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+No customer represented 10% or more of total revenue for the second quarter and first half of fiscal year 2021. One customer represented 11% of our total revenue for the second quarter and the first half of fiscal year 2020 and was attributable primarily to the Graphics segment. 
+
+Gross Margin 
+
+Our overall gross margin decreased to 58.8% for the second quarter of fiscal year 2021 from 59.8% for the second quarter of fiscal year 2020, reflecting Mellanox acquisition-related costs including a non-recurring inventory step-up charge of $161 million and ongoing intangible asset amortization of $84 million, partially offset by an increase due to a shift in product mix. Our overall gross margin increased to 61.6% for the first half of fiscal year 2021 from 59.1% for the first half of fiscal year 2020, primarily driven by a shift in product mix, partially offset by Mellanox acquisition-related costs including a non-recurring inventory step-up charge of $161 million and ongoing intangible asset amortization of $85 million. 
+
+Inventory provisions totaled $45 million and $28 million for the second quarter of fiscal years 2021 and 2020, respectively. Sales of inventory that was previously written-off or -down totaled $49 million and $19 million for the second quarter of fiscal years 2021 and 2020, respectively. As a result, the overall net effect on our gross margin was insignificant in the second quarter of fiscal year 2021, and an unfavorable impact of 0.4% in the second quarter of fiscal year 2020. 
+
+Inventory provisions totaled $81 million and $72 million for the first half of fiscal years 2021 and 2020, respectively. Sales of inventory that was previously written-off or -down totaled $88 million and $31 million for the first half of fiscal years 2021 and 2020, respectively. As a result, the overall net effect on our gross margin was insignificant in the first half of fiscal year 2021 and an unfavorable impact of 0.9% for the first half of fiscal year 2020. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+Graphics - The gross margin of our Graphics segment increased during the second quarter and first half of fiscal year 2021 compared to the second quarter and first half of fiscal year 2020, primarily driven by a shift in product mix. 
+
+Compute &#38; Networking - The gross margin of our Compute &#38; Networking segment decreased during the second quarter and first half of fiscal year 2021 compared to the second quarter and first half of fiscal year 2020, primarily driven by Mellanox acquisition-related costs, partially offset by higher data center sales. 
+
+Operating Expenses 
+
+&#160; Three Months Ended Six Months Ended &#160; July 26, 2020 July 28, 2019 $ Change % Change July 26, 2020 July 28, 2019 $ Change % Change &#160; ($ in millions) ($ in millions) Research and development expenses $ 997 &#160; $ 704 &#160; $ 293 &#160; 42 &#160; % $ 1,732 &#160; $ 1,379 &#160; $ 353 &#160; 26 &#160; % % of net revenue 26 &#160; % 27 &#160; % 25 &#160; % 29 &#160; % Sales, general and administrative expenses 627 &#160; 266 &#160; 361 &#160; 136 &#160; % 920 &#160; 529 &#160; 391 &#160; 74 &#160; % % of net revenue 16 &#160; % 10 &#160; % 13 &#160; % 11 &#160; % Total operating expenses $ 1,624 &#160; $ 970 &#160; $ 654 &#160; 67 &#160; % $ 2,652 &#160; $ 1,908 &#160; $ 744 &#160; 39 &#160; % 
+
+Research and Development 
+
+Research and development expenses increased by 42% and 26% during the second quarter and first half of fiscal year 2021, compared to the second quarter and first half of fiscal year 2020, respectively, primarily driven by expenses and 
+
+stock-based compensation related to the Mellanox acquisition. In addition to Mellanox, increases reflect employee compensation and related costs, including stock-based compensation and infrastructure costs. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 136% and 74% during the second quarter and first half of fiscal year 2021, compared to the second quarter of fiscal year 2020, respectively, primarily driven by Mellanox acquisition-related expenses. In addition to Mellanox, increases reflect employee compensation and related costs, including stock-based compensation and infrastructure costs. 
+
+Other Income (Expense), Net 
+
+Interest Income and Interest Expense 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $13 million and $47 million during the second quarter of fiscal years 2021 and 2020, respectively, and $44 million and $92 million during the first half of fiscal years 2021 and 2020, respectively. The decrease in interest income was primarily due to lower interest earned on our investments. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to our September 2016 Notes and March 2020 Notes. Interest expense was $54 million and $13 million during the second quarter of fiscal years 2021 and 2020, respectively, and $78 million and $27 million during the first half of fiscal years 2021 and 2020, respectively. 
+
+Income Taxes 
+
+We recognized an income tax benefit of $13 million and an income tax expense of $52 million for the second quarter and first half of fiscal year 2021, respectively, and an income tax expense of $54 million and $48 million for the second quarter and first half of fiscal year 2020, respectively. The income tax benefit as a percentage of income before income tax was 2.0% for the second quarter of fiscal year 2021. The income tax expense as a percentage of income before income tax was 3.3% for the first half of fiscal year 2021, and 8.8% and 4.9% for the second quarter and first half of fiscal year 2020, respectively. 
+
+The decrease in our effective tax rate for the second quarter and first half of fiscal year 2021 as compared to the same periods of fiscal year 2020 was primarily due to a decrease in the proportional amount of earnings subject to U.S. tax and an increase of tax benefits from stock-based compensation and the U.S. federal research tax credit. 
+
+Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Liquidity and Capital Resources 
+
+&#160; July 26, 2020 January 26, 2020 &#160; (In millions) Cash and cash equivalents $ 3,274 &#160; $ 10,896 &#160; Marketable securities 7,707 &#160; 1 &#160; Cash, cash equivalents and marketable securities $ 10,981 &#160; $ 10,897 &#160; 
+
+&#160; Six Months Ended July 26, 2020 July 28, 2019 &#160; (In millions) Net cash provided by operating activities $ 2,476 &#160; $ 1,656 &#160; Net cash provided by (used in) investing activities $ (14,545) $ 5,040 &#160; Net cash provided by (used in) financing activities $ 4,447 &#160; $ (373) 
+
+As of July 26, 2020, we had $10.98 billion in cash, cash equivalents and marketable securities, a decrease of $84 million from the end of fiscal year 2020. Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain maturity limits on our portfolio. 
+
+Cash provided by operating activities increased in the first half of fiscal year 2021 compared to the first half of fiscal year 2020, due to higher net income, partially offset by changes in working capital. Change in working capital was driven by an increase in inventory offset by inventory step-up expense from the Mellanox acquisition and changes in operating liabilities. 
+
+Cash used in investing activities increased in the first half of fiscal year 2021 compared to cash provided in the first half of fiscal year 2020, primarily reflects cash used for the acquisition of Mellanox, higher purchases of marketable securities, and lower maturities and sales of marketable securities. 
+
+Cash provided by financing activities increased in the first half of fiscal year 2021 compared to cash used in the first half of fiscal year 2020, primarily reflects the debt issued in the first quarter of fiscal year 2021. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of July 26, 2020, we had $10.98 billion in cash, cash equivalents and marketable securities. Our marketable securities consist of debt securities issued by the U.S. government and its agencies, highly rated corporations and financial institutions, and certificates of deposits. These marketable securities are denominated in U.S. dollars. Refer to Note 7 of the Notes to Condensed Consolidated Financial Statements for additional information. We believe that we have sufficient liquidity to meet our operating requirements and capital expenditures for at least the next twelve months. 
+
+We have approximately $857 million of cash, cash equivalents, and marketable securities that we have not accrued any related foreign or state taxes if we repatriate these amounts to the United States. Other than that, as a result of the Tax Cuts and Jobs Act, or TCJA, substantially all of our cash, cash equivalents and marketable securities held outside of the United States as of July 26, 2020 are available for use in the United States without incurring additional U.S. federal income taxes. 
+
+Capital Return to Shareholders 
+
+In the first half of fiscal year 2021, we paid $197 million in quarterly cash dividends. Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. 
+
+As of July 26, 2020, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022. We did not repurchase any shares during the first half of fiscal year 2021. 
+
+Outstanding Indebtedness and Credit Facilities 
+
+In March 2020, we issued $1.50 billion of the 2.85% Notes Due 2030, $1.00 billion of the 3.50% Notes Due 2040, $2.00 billion of the 3.50% Notes Due 2050, and $500 million of the 3.70% Notes Due 2060, or collectively, the March 2020 Notes. The net proceeds from the March 2020 Notes were $4.97 billion, after deducting debt discounts and estimated issuance costs. 
+
+In September 2016, we issued $1.00 billion of the 2.20% Notes Due 2021 and $1.00 billion of the 3.20% Notes Due 2026, or collectively, the September 2016 Notes. The net proceeds from the September 2016 Notes were $1.98 billion, after deducting debt discounts and issuance costs. 
+
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million. As of July 26, 2020, we had not borrowed any amounts under this agreement. 
+
+We have a $575 million commercial paper program to support general corporate purposes. As of July 26, 2020, we had not issued any commercial paper. 
+
+Off-Balance Sheet Arrangements 
+
+As of July 26, 2020, we had no material off-balance sheet arrangements as defined by applicable SEC regulations. 
+
+Contractual Obligations 
+
+There are $153 million of long-term tax liabilities related to tax basis differences in Mellanox and unrecognized tax benefits of $286 million, which includes related interest and penalties of $41 million recorded in non-current income tax payable as of July 26, 2020. We are unable to reasonably estimate the timing of any potential tax liability, interest payments, or penalties in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. We are currently under examination by the Internal Revenue Service for our fiscal years 2018 and 2019. Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for further information. 
+
+Other than the contractual obligations described above, there were no material changes outside the ordinary course of business in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020. Refer to Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources&#8221; in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 for a description of our contractual obligations. For a description of our long-term debt, purchase obligations, and operating lease obligations, refer to Note 12, Note 13, and Note 3 of the Notes to Condensed Consolidated Financial Statements, respectively. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Refer to Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 and Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended April 26, 2020. 
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 26, 2020 and Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended April 26, 2020. Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+
+The COVID-19 pandemic continues to impact our business and could materially adversely affect our financial condition and results of operations. 
+
+COVID-19 has spread worldwide, resulting in shutdowns of manufacturing and commerce. COVID-19 has resulted in government authorities implementing numerous measures to try to contain the disease, such as travel bans and restrictions, quarantines, shelter-in-place orders and shutdowns. These measures have impacted, and may further impact, our workforce and operations, the operations of our customers and our partners, and those of our respective vendors and suppliers (including our subcontractors and third-party contract manufacturers). Our critical business operations, including our headquarters, most of our finished goods inventory and many of our key suppliers, are located in regions which have been impacted by COVID-19. Our customers and suppliers worldwide have also been affected and may continue to be affected by COVID-19 related restrictions and closures. For example, in the second quarter of fiscal year 2021 many industries we serve were adversely impacted by COVID-19, including higher education, research, energy, manufacturing, automotive, architecture, engineering and media. These industries may continue to be adversely impacted by COVID-19 and may recover at different rates. Our Professional Visualization revenue was negatively affected in the second quarter as corporate customers delayed spending on workstations. Automotive production was and remains well below pre-COVID-19 levels. In some regions, the shelter-in-place orders have driven a temporary increase in demand for our products that may not be sustainable. 
+
+The manufacture of product components, the final assembly of our products and other critical operations are concentrated in certain geographic locations, including Taiwan, China, Hong Kong and Korea. Additionally, a significant portion of our finished goods product distribution occurs through Hong Kong. Each of these countries has been affected by the pandemic and has taken measures to try to contain it. There is considerable uncertainty regarding the impact of such measures and potential future measures, including restrictions on manufacturing facilities, on our support operations or workforce, or on our customers, partners, vendors and suppliers. Such measures, as well as restrictions or disruptions of transportation, such as reduced availability or increased cost of air transport, port closures and increased border controls or closures, could limit our capacity to meet customer demand and have a material adverse effect on our financial condition and results of operations. 
+
+The spread of COVID-19 has caused us to modify our business practices (including employee travel, mandatory work-from-home policies and cancellation of physical participation in meetings, events and conferences), and we may take further actions as required by government authorities or that we determine are in the best interests of our employees, customers, partners and suppliers. Most of our employees in the second quarter continued to work remotely. There is no certainty that such measures will be sufficient to mitigate the risks posed by the disease, and our ability to perform critical functions could be harmed. 
+
+In addition, while the extent and duration of the COVID-19 pandemic on the global economy and our business in particular is difficult to assess or predict, the pandemic has resulted in, and may continue to result in, significant disruption of global financial markets, which may reduce our ability to access capital or our customers&#8217; ability to pay us for past or future purchases, which could negatively affect our liquidity. Factors related to the COVID-19 pandemic have reduced demand for some of our products and may continue to do so. In addition, a recession or financial market correction resulting from the lack of containment and spread of COVID-19 has and could continue to impact overall technology spending, adversely affecting demand for our products, our business and the value of our common stock. 
+
+The ultimate impact of the COVID-19 pandemic or a similar health epidemic is highly uncertain and subject to change. The extent of the impact of the COVID-19 pandemic on our operational and financial performance, including our ability to execute our business strategies and initiatives in the expected time frame, will depend on future developments, including, but not limited to, the duration and continued spread of the pandemic, its severity, the actions to contain the disease or treat its impact, further related restrictions on travel, and the duration, timing and severity of the impact on customer spending, including any recession resulting from the pandemic, all of which are uncertain and cannot be predicted. An extended period of global supply chain and economic disruption as a result of the COVID-19 pandemic could have a material negative impact on our business, results of operations, access to sources of liquidity and financial condition, though the full extent and duration is uncertain. 
+
+We may have exposure to additional tax liabilities and our operating results may be adversely impacted by higher than expected tax rates. 
+
+As a multinational corporation, we are subject to income taxes as well as non-income based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions. Our domestic and international tax liabilities are subject to the allocation of revenue and expenses in different jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities. We are regularly under audit by tax authorities in different jurisdictions. For example, we are currently under examination by the Internal Revenue Service for our fiscal years 2018 and 2019. Although we believe our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows. Further, changes in United States federal, and state or international tax laws applicable to multinational corporations or other fundamental law changes may materially impact our tax expense and cash flows, as we experienced in fiscal year 2018 with the passage of the TCJA. 
+
+Our future effective tax rate may be affected by such factors as changes in tax laws, changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in our international organization, as well as the expiration of statute of limitations and settlements of audits. Any changes in our effective tax rate may reduce our net income. 
+

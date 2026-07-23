@@ -1,0 +1,1058 @@
+ ITEM 1. BUSINESS ##TABLE_END
+
+ServiceNow was founded on a simple premise: to make work flow better. Our intelligent platform&#8212;the Now Platform&#8212;is a cloud-based solution that helps enterprises and organizations across public and private sectors digitize workflows, in line with our purpose of making the world work better for everyone. Organizations are increasingly turning to digital investments to streamline business-critical processes, drive deeper collaboration, increase employee productivity and power better customer experiences. The Now Platform helps business leaders realize value from these investments by incorporating advanced technology into the flow of work, end-to-end across the enterprise, for every department and persona. 
+
+The workflow applications built on the Now Platform are organized in four primary areas: Technology, Customer and Industry, Employee and Creator. Our Technology Workflows empower Information Technology (&#8220;IT&#8221;) departments to plan, build, operate and service the IT needs of the business enterprise. Our Customer and Industry Workflows help organizations reimagine their customer experience by empowering their customers with personalized self-service and providing organizations with greater ability to anticipate their customer needs by providing real-time insights. Our Employee Workflows help customers simplify how their employees access services they need, creating a consumer-like experience. Our Creator Workflows enable customers to automate processes by quickly creating their own custom workflows on the Now Platform. 
+
+Artificial Intelligence (&#8220;AI&#8221;), particularly Generative AI (&#8220;GenAI&#8221;) and agentic AI, is driving a new wave of technology transformation. We are an early leader in applying AI to enterprise workflows and are working to remain at the forefront of AI as we continue to execute our product roadmap. As an AI platform for business transformation, the Now Platform has embedded Now Assist, our AI solution available for certain products at an additional cost, to help enhance user productivity and efficiency, thereby accelerating our customers&#8217; return on investment in the Now Platform. For example, with Now Assist, customer service agents can solve customers&#8217; problems quickly with AI-produced case summaries and next step suggestions; employees can obtain faster and more accurate answers using AI-powered self-service, increasing their productivity and engagement; customers can receive enhanced self-service options and improved experiences from live support agents; and developers can generate code and create apps, saving time to focus on more complex matters. We believe that with Now Assist, even customers with limited technical background can leverage AI to meaningfully contribute to their businesses&#8217; digital transformation. Our customers have given us feedback that these enhanced products significantly improve the efficiency and fidelity of their workflows. 
+
+Agentic AI, the next evolution of GenAI, involves AI agents that act and interact in smart and autonomous ways with humans providing oversight and guardrails. With agentic AI, humans can be supported by multiple AI agents trained to perform specific tasks, rather than, for example, a single AI assistant or chatbot relying on a human&#8217;s specific prompts or queries. Agentic AI is available to our customers as a Now Assist feature, where they can easily create agentic skills tailored to their unique needs. AI agents can use these skills to work together with humans to help augment and accelerate workflow outcomes by performing and completing actions on the human&#8217;s behalf. 
+
+The Now Platform, utilized by over 85% of the Fortune 500 and nearly 60% of the Global 2000, is a platform of consequence that puts AI to work for people, delivering tangible results while upholding a trustworthy, human&#8209;centered approach to deploying products and services at scale. Many of our customers recognize the advantages of the Now Platform and have developed multi-year digital transformation plans that expand over time the use of ServiceNow products and services for their business. As we gain our customers&#8217; trust by delivering products that provide great experiences and value across our customers&#8217; entire enterprise, we feel immensely proud that &#8220;The World Works with ServiceNow.&#8221; 
+
+Our Products 
+
+ServiceNow&#8217;s product portfolio&#8212;which spans our Technology, Customer and Industry, Employee, Creator and other Workflows&#8212;is delivered on the Now Platform. Each year, two major platform upgrades are released, delivering new standard functionality and standalone products to further simplify the way our customers work and enhance productivity. Since launching AI-powered versions of our products, we have continued to expand the Now Assist product portfolio and plan to continue to embed AI capabilities in our portfolio in the future. 
+
+The Now Platform 
+
+The Now Platform is the AI platform for digital transformation. We help customers leverage emerging AI-based technologies to improve enterprise workflows. We believe AI-enabled workflows allow our customers to enhance their digital transformation and business impact. Transformations enabled by the Now Platform rapidly automate business processes across an entire enterprise by seamlessly connecting disparate departments, systems and silos to unlock productivity and improve experiences for both employees and customers. As the foundation for how we deliver our cross-enterprise digital workflows, the Now Platform orchestrates work across our customers&#8217; cloud platforms and systems of choice, allowing them to get work done regardless of their current and future systems of record and collaboration platforms, across any data and system. 
+
+Our one platform, one architecture and one data model approach can provide a &#8220;single pane of glass&#8221; that connects people, processes, data and devices. It offers a one-stop shop for automation and simplification of manual processes and is highly flexible, scalable and extensible. Enterprises can leverage our platform&#8217;s consumer-like user interface to help them deliver seamless experiences. For example, the Now Platform empowers users to independently resolve issues and seek answers through intelligent self-service portals. To illustrate, a customer may need to reset a password or update a shipping address, or an employee may want to know how many vacation days she has remaining. Because the Now Platform contains access to all of this information and the context of the user&#8217;s request in a single environment, users can easily access the information or services they need and find their own customized answers without outside help or even knowing which system or department has the answer they need. We believe better service, end-user experience and organizational agility are the ultimate desired outcomes of digital transformation. 
+
+The Now Platform is uniquely positioned to bring the full potential of GenAI and agentic AI to the enterprise. With our recent software releases, we have combined the power of the Now Platform with new GenAI and agentic AI features, offered through Now Assist, to provide intelligent workflows throughout our customers&#8217; businesses. Customers have the flexibility to tailor their AI transformation to their unique needs and expand the value of their workflows by using ServiceNow&#8217;s large language models (&#8220;LLMs&#8221;), which include models that can process different types of data, such as text, images, audio and video, and they can incorporate third-party LLMs and their own LLMs. We regularly test these models on platform-representative data to give customers confidence that the models deliver optimal performance for their intended use cases on the Now Platform. We also provide AI governance tools, including built-in monitoring and guardrails, dataset creation management and benchmarking capabilities, and visibility into adoption, usage and performance analytics. These tools are designed to allow customers to securely and responsibly build, test and deploy new use cases and applications leveraging these models. With a single data model and integrated data layer, the Now Platform enables customers to operationalize their AI strategy and transform their business with speed, scale and security. This flexibility helps create more intuitive, efficient and seamless workflows aligned to our customers&#8217; needs. In addition to AI, business process automation on the Now Platform can be further enhanced by other functionality, including machine learning, robotic process automation, process mining, analytics and low-code/no-code development tools. 
+
+Technology Workflows 
+
+Technology Workflows enable IT departments to serve their customers, manage their IT infrastructure, identify and remediate security vulnerabilities and threats, gain visibility across their IT resources and asset lifecycles, optimize IT costs and reduce time spent on administrative tasks. Our Technology products help companies unite IT, technology, risk management and security operations on a single platform to deliver modern and resilient digital services aligned to our customers&#8217; priorities. These products also drive enterprise-wide outcomes, as well as power our Customer and Industry and Employee Workflows. 
+
+Asset Management 
+
+Our Asset Management product suite includes IT Asset Management and Enterprise Asset Management. IT Asset Management inventories and automates customers&#8217; software, hardware and cloud asset lifecycles with workflows and analytics to track the financial, contractual and inventory details of these IT assets from end-to-end. Enterprise Asset Management inventories and automates processes across the lifecycle of a customer&#8217;s physical business assets from planning, deployment, inventory management and maintenance through retirement. 
+
+Integrated Risk Management 
+
+Our Integrated Risk Management (&#8220;IRM&#8221;) product capabilities include policy and compliance management, regulatory change management, compliance case management, IT and operational risk management and audit management. IRM helps customers manage risk and resilience in real time. IRM also includes ESG Management, which helps customers more effectively administer their environmental, social and governance (&#8220;ESG&#8221;) programs. For example, it can streamline data collection, provide on-demand progress monitoring against key goals and automate reporting. 
+
+IT Operations Management 
+
+Our IT Operations Management (&#8220;ITOM&#8221;) product identifies, monitors and manages a customer&#8217;s physical and cloud-based IT infrastructure. The ITOM product&#8217;s ability to identify a customer&#8217;s IT infrastructure (e.g., physical servers) and digital components (e.g., email) allows it to detect whether issues occurring on one or more of those assets 
+
+may interfere with business services. It also maintains a single data record for all IT configurable items, allowing our customers to exercise control over their on-premises or cloud-based infrastructures, while orchestrating key processes and tasks. ITOM also includes Cloud Observability, which provides real-time visibility into cloud-native and monolithic environments that power our customers&#8217; internal- and external-facing products and services. 
+
+Now Assist for ITOM, our AI solution, simplifies complex technical language into easy-to-understand descriptions and provides quick resolution recommendations to IT operations issues. By doing so, this solution lowers the risk of outages, enhances customer productivity and increases overall service reliability. 
+
+IT Service Management 
+
+Our IT Service Management (&#8220;ITSM&#8221;) product is capable of, among others, predictive intelligence, incident management and response, routine task and request automation, performance analytics and process optimization. It also provides a Virtual Agent feature, a chatbot that can answer common questions. ITSM intelligently delivers resilient IT services, reduces costs, boosts IT productivity and provides exceptional experiences to employees, customers and partners. 
+
+Now Assist for ITSM, our AI solution, can summarize change requests or enable natural language Virtual Agent interactions and incident history summaries so customer service agents can efficiently resolve incidents. For example, upon incident closure, solution notes or knowledge-based articles can be generated to speed wrap times and adhere to incident management best practices, thereby improving agent productivity and employee experience with faster, more seamless resolutions. 
+
+Operational Technology Management 
+
+Our Operational Technology (&#8220;OT&#8221;) Management product suite provides visibility and context into connected devices and technology assets deployed for operational purposes. It enables industrial companies to prioritize, remediate and patch OT vulnerabilities, respond to issues with OT service management capabilities and automate OT asset management throughout the full device lifecycle. For example, when an OT issue is discovered, this product suite provides operators with the business context needed to strategically prioritize its criticality. OT Management will trigger an incident management process that ensures the issue is handled by the appropriate team at the right time. 
+
+Security Operations 
+
+Our Security Operations product suite connects an organization&#8217;s security function with the rest of the enterprise, integrating internal and third-party security and vulnerability data to quickly respond to security incidents and vulnerabilities, prioritized according to their potential impact on a customer&#8217;s business. It simplifies and automates threat and vulnerability management and response, while reducing risks to our customers&#8217; organizations. 
+
+Now Assist for Security Operations, our AI solution, enhances security operations by providing AI-generated insights through automated workflows. It boosts security analysts&#8217; productivity, accelerates issue resolution and equips chief information security officers and other security leaders with valuable insights for transforming their security operations. 
+
+Strategic Portfolio Management 
+
+Our Strategic Portfolio Management (&#8220;SPM&#8221;) product helps customers plan, visualize and track value realization across their portfolio of projects, initiatives and digital products, all on one platform. It enables customers to drive business outcomes by aligning their strategy with investments and execution. 
+
+Now Assist for SPM, our AI solution, helps ensure that business demands, related task documentations and feedback, are communicated clearly, efficiently and effectively. 
+
+Customer and Industry Workflows 
+
+Customer and Industry Workflows help organizations integrate front-end customer service capabilities with operations, order fulfillment and field service resources and can deliver industry-specific use cases. Customer and Industry Workflows help customers create a seamless customer experience from request to resolution by connecting 
+
+digital workflows that deliver fast support on a customer&#8217;s channel of choice, reducing costs, and modernizing customer experiences. Organizations can elevate their customer service with enhanced resolution efficiency and improved service quality made possible with workflows, automation, AI and task management. Customer service departments no longer need to rely on agents searching multiple systems to find a single resolution to customer requests. 
+
+Customer Service Management 
+
+Our Customer Service Management (&#8220;CSM&#8221;) product allows companies to route work to the right agent based on priority and category, which decreases errors by leveraging recommended solutions from prior cases and interactions. It optimizes customer service experiences with workflows that help organizations accelerate customer self-service, boost agent productivity and speed up resolution time. For example, CSM can automate the routing of customer requests to appropriate departments, provide self-service options for customers to troubleshoot common issues, empower agents with access to comprehensive customer data for efficient problem-solving and facilitate timely follow-ups to ensure quick resolution. As a result, organizations can shorten resolution times and increase customer satisfaction&#8212;all while reducing costs. 
+
+Now Assist for CSM, our AI solution, rapidly generates summaries for cases and chats, reduces manual work and allows agents to resolve customer issues faster. This solution helps accelerate time to resolution, reduce case volume and personalize service, which reduces the effort required by customers. 
+
+Field Service Management 
+
+Our Field Service Management (&#8220;FSM&#8221;) product provides work planning, scheduling, resource management and job execution capabilities all in one, which allows field service agents to be assigned and dispatched on the same underlying customer service management platform that created and managed the customer incident. It streamlines field service processes with automation to increase technician productivity, improve first time fix rates and optimize scheduling and dispatching. Organizations can use data-driven insights to enhance operations, identify trends and remove service bottlenecks to maximize efficiency and effectiveness, while also creating great customer and employee experiences. 
+
+Now Assist for FSM, our AI solution, helps customers quickly summarize key takeaways for pre-work triage and job completion, minimizing time spent searching through conversation histories. It accelerates productivity by simplifying work order task summarization and knowledge generation. 
+
+Industry 
+
+We offer industry solutions to better address the unique needs for specific industries, including, for example, financial services, healthcare and life sciences, manufacturing, public sector, retail, technology and telecommunications. We expect the number of industry-specific solutions to grow as we gain adoption in new industries. 
+
+##TABLE_START 
+
+Financial Services 
+
+Financial Services Operations allows banking and insurance institutions to reduce contact center volumes with Now Assist. It provides frictionless service experiences that use AI across teams and systems and ensures compliance with embedded controls. 
+
+Healthcare and Life Sciences 
+
+Healthcare and Life Sciences Service Management uses Now Assist to allow organizations to enhance patient care, unlock productivity and streamline operations. Clinical Device Management provides a single dashboard from which healthcare providers may efficiently manage and service clinical devices, while also improving their ability to meet compliance requirements. 
+
+Manufacturing 
+
+Manufacturing Commercial Operations uses Now Assist and automated workflows to streamline sales, support and service processes, accelerate order fulfillment, optimize customer experiences and drive revenue growth for manufacturers. 
+
+Public Sector 
+
+Public Sector Digital Services uses Now Assist to empower governments of all sizes to build seamless experiences at scale. Agencies can share a single instance to facilitate complete collaboration, thereby increasing the speed of service delivery and adding transparency. 
+
+Retail 
+
+Retail Operations and Retail Service Management leverages Now Assist and automated workflows to streamline retail store operations by simplifying store tasks and day-to-day activities, while providing headquarters with visibility into in-store performance. These solutions improve employee and customer experiences and reduce costs. 
+
+Technology 
+
+Technology Product Service Management with Now Assist and Sales &#38; Order Management for Technology Providers brings customer service, service delivery and customer operations together on a single, intelligent system of action and enables technology providers to reduce time to market and increase customer satisfaction at reduced operational cost. 
+
+Telecom 
+
+Telecom Service Management, Sales &#38; Order Management for Telecom, Network Inventory Management and Telecom Service Operations Management offer communication service providers the ability to leverage automation and AI to streamline the end-to-end service experience and accelerate growth while reducing costs. Workflows use Now Assist to help maximize technology investments, scale sales and order management processes, launch telecom services quickly, enhance customer care, automate service assurance and optimize network management on a single platform. 
+
+##TABLE_END
+
+Employee Workflows 
+
+Employee Workflows help organizations transform the employee experience, improve productivity, increase employee satisfaction and fuel business growth. ServiceNow makes it easy for employees to answer their own questions, while automating mundane tasks for agents. With the Now Platform, organizations can empower career growth, make smarter talent decisions, modernize workplace management and experiences to create more collaborative in-office spaces, and streamline contract management and legal operations. 
+
+HR Service Delivery 
+
+Our HR Service Delivery (&#8220;HRSD&#8221;) product helps organizations transform the employee experience by providing a portal that makes it easy for employees to conveniently access answers, actions and guidance. It helps employees navigate key career milestones and life events with step-by-step guidance. 
+
+Now Assist for HRSD, our AI solution, enables employees to quickly obtain answers to common HR questions and take action directly through Virtual Agent, while also reducing redundant manual tasks for service agents, thereby helping HR leaders drive productivity and operational efficiency. From payroll discrepancies to employee information updates, service agents can resolve issues faster with instant summaries of case topics, chat history, Virtual Agent interactions and previous resolutions. With Now Assist and prompts that use AI, organizations can quickly generate knowledge-based articles to deflect similar cases in the future and drive proactive employee behavior such as reminders, tasks and approvals. 
+
+Legal Service Delivery 
+
+Our Legal Service Delivery (&#8220;LSD&#8221;) product suite replaces individual legal requests received through email with automated workflows that not only allow practitioners to keep track of the status of requests but also provide them visibility into interconnected legal requests. In addition, LSD&#8217;s Virtual Agent feature can automate responses to common questions. Using LSD real-time reports and dashboards, organizations can make data-driven decisions, anticipate demand for legal services, and drive continuous improvement for a company&#8217;s legal department. LSD helps organizations increase practitioner productivity, reduce risk and accelerate business outcomes through more efficient legal operations. For example, the LSD product suite includes Contract Management Pro, which helps legal, procurement, sales and IT teams streamline contract lifecycle management through a self-service portal for contract intake requests, driving operational efficiency and reducing risk. 
+
+Now Assist for LSD, our AI solution, provides practitioners with auto-generated summaries of their legal requests and matters, thereby allowing them to more easily track and manage these workstreams. 
+
+Workplace Service Delivery 
+
+Our Workplace Service Delivery product helps organizations manage workplace services, facilities and real estate. With Workplace Service Delivery, companies can optimize their workspace with real-time analytics and indoor mapping capabilities, and can automate workplace requests, reservations and repairs, and track health and safety incidents to keep workplaces running smoothly. 
+
+Creator &#38; Other Workflows 
+
+Creator Workflows help customers quickly build and manage cross-enterprise workflows with a low-code development experience that safely delivers agile services at scale and with features that allow customers to manage security and storage. As organizations digitally transform, they need to adapt faster with new processes and business models. This requires fast and agile execution with more automation delivered throughout an organization&#8217;s business processes. With Creator Workflows, citizen developers have access to pre-built templates, low-code tools and modular building blocks created by professional developers. We enable Creator Workflows through App Engine and Automation Engine, among other products. 
+
+App Engine 
+
+Our App Engine product empowers our customers&#8217; employees to create enterprise-class workflows using low-code and no-code development tooling and does not require formal coding experience. App Engine delivers intuitive and intelligent development experiences, designed for speed, security and scale. Examples of the types of workflows our customers have developed using App Engine include applications for: 
+
+&#8226; a healthcare institution to streamline health research for providers and patients to share and track health data in a private and secure manner; 
+
+&#8226; a retailer to manage the workflow for loss prevention, fraud protection and asset protection in retail locations; 
+
+&#8226; the management of licensing, contracting and compliance examinations and financial reviews, replacing a months-long, manual process with a 30-minute automated process; and 
+
+&#8226; providing overnight loans in different currencies for central banks. 
+
+App Engine can also be used in conjunction with Now Assist for Creator, our AI solution, to quickly create and scale apps on the Now Platform. Trained on code from ServiceNow engineering, results generated with Now Assist for Creator are generally higher quality and more scalable and secure than other code generation technology. This solution includes text-to-code, which converts natural language text into high-quality code suggestions, and in some cases into complete code, enabling faster development and increased productivity. 
+
+Automation Engine 
+
+Our Automation Engine product helps workflows integrate by connecting or automating systems, documents or tasks with minimal code. Integration to data in third-party systems is executed and secured using application programming interfaces (or &#8220;APIs&#8221;), while manual work can be eliminated by leveraging robotic process automation and intelligent document processing capabilities. Automation Engine includes process mining capabilities that can uncover trends and patterns in business processes and help eliminate redundancies and drive process optimization along with cost and productivity efficiencies. 
+
+Automation Engine can also be used in conjunction with Now Assist for Creator, our AI solution, to automate essential functions, including flow generation, code generation and app generation, allowing developers to create complex workflows and applications using natural language prompts. This automation can significantly boost productivity by reducing development time and enabling both novice and experienced developers to build more reliable applications. 
+
+To help customers in key business functions, we also enable other workflows through Platform Privacy and Security and Source-to-Pay Operations, among other products. 
+
+Platform Privacy and Security 
+
+Our Platform Privacy and Security products provide premium security, privacy and encryption controls to help our customers protect and control their sensitive data in the cloud. 
+
+Source-to-Pay Operations 
+
+Our Source-to-Pay Operations suite connects to customers&#8217; existing enterprise resource planning and procurement systems, delivering a guided experience and highly automated processes that reduce cycle time and cuts costs across procurement, supplier management and accounts payable processes. 
+
+Now Assist for Source-to-Pay Operations, our AI solution, delivers simple experiences that can turn conversations into requisitions, making it easy for new or occasional users to follow the right process and reduce rogue spend. 
+
+Customer Support, Professional Services and ServiceNow Impact 
+
+Customer Support 
+
+We offer our customers standard and enhanced support, from technical resources located around the globe, on a subscription-based model, as well as self-service technical support through our support portal, which provides access to documentation, knowledge-based articles, online training, online support forums and online case creation. 
+
+Professional Services 
+
+Our Professional Services, offered by ServiceNow directly and through our network of partners, include process design, implementation, configuration, architecture and optimization services that help our customers maximize the value of their ServiceNow investment. With a strong implementation methodology at the core of its foundation, our Professional Services help customers succeed by giving them access to ServiceNow product experts and technical best practices. Our training services include programs for all our products. 
+
+ServiceNow Impact 
+
+ServiceNow Impact helps our customers accelerate the value they realize with our products and solutions. Through our subscription-based model, we offer our customers software tools and AI-driven recommendations that help increase adoption of ServiceNow solutions within their organizations, as well as with their customers. It also proactively monitors platform health, and tracks and reports on key platform metrics. In addition, ServiceNow Impact customers have access to designated experts, on-demand training, technical support and other services. 
+
+Our Technology and Operations 
+
+We operate a multi-instance architecture that provides each customer with its own dedicated application logic and databases. This architecture is designed to deliver high-availability, scalability, performance, security and control. Our cloud infrastructure primarily consists of industry-standard servers, networks and storage components. We host our full software-as-a-service (&#8220;SaaS&#8221;) experience on our own private cloud or customers may elect to use public cloud service providers. 
+
+Our data centers operate in paired configurations to enable replication for high-availability and redundancy. We currently operate data centers in North America, South America, Europe, Asia and Australia, and we continuously evaluate our data center operations and capacity in existing and new geographies. 
+
+We offer customers the option to deploy our services on dedicated hardware in our data centers. Our architecture also gives us the added flexibility to allow customers to deploy our services internally in their own data centers, with public cloud service providers, or with a third party to support unique regulatory or security requirements. While there are some limitations on agility and flexibility as compared to our cloud offering, a minority of our customers have elected the third-party alternative. The standard and enhanced customer support we provide to customers that deploy our services outside of our data centers is similar to the support we provide to customers deployed in our managed data centers. 
+
+Sales and Marketing 
+
+We market and sell our products and services to enterprises across a wide variety of industries. We sell our product offerings and services through subscription services primarily through our global direct sales organization. We also sell services through managed service providers and resale partners. 
+
+Our marketing efforts and lead generation activities consist primarily of customer referrals, digital advertising (including via our website), trade shows, industry events, brand campaigns and press releases. We also host our annual Knowledge user conference, webinars and other user forums, including regional forums, which we call World Forums, where customers and partners both participate in and present on a variety of programs designed to educate them on industry best practices and help accelerate their success. 
+
+We continue to expand our sales capabilities in new geographies, including through investments in direct and indirect sales channels, professional services capabilities, customer support resources, post-sales customer support resources, strategic alliances and partnerships, implementation partners and advisory councils. We also plan to increase our investment in our existing locations in order to achieve scale efficiencies in our sales and marketing efforts. 
+
+Partner Ecosystem 
+
+In addition to our global direct sales organization, we have a strong and growing ecosystem of partners that helps accelerate our customers&#8217; digital transformation initiatives and deliver customer value at scale. They play a critical role in helping companies digitally transform their businesses. We have reimagined our program to include more flexibility and choice and are empowering partners worldwide to help us reach new markets and industries while innovating faster and together. Our industry and workflow capabilities paired with our partners&#8217; industry and functional domain expertise help customers of all sizes. Together with our partners, we offer industry and domain-focused solutions at scale and are accelerating digital transformation as we help companies drive new approaches in engaging their end users and employees. 
+
+We are seeing continued momentum across the partner ecosystem. For example, we have expanded our relationships with a number of technology companies to enhance enterprise AI capabilities. Our latest initiative with NVIDIA, for example, focuses on co-developing native AI agents on the Now Platform, using NVIDIA Agent Blueprints, which are AI 
+
+workflow templates built on NVIDIA NIM microservices software, tailored for specific use cases. We have also expanded our relationships with cloud providers to enhance cloud capabilities. For example, our security incident response product can integrate with Amazon Web Service&#8217;s Security Hub to automate the creation of security incident records. Additionally, Now Assist and Microsoft 365 Copilot can be integrated such that both agents provide an elevated AI experience for our joint customers. Through these relationships, users can leverage their existing spending commitments with cloud providers to procure ServiceNow products. Further, our relationships with global system integrators such Accenture, Cognizant, Deloitte, EY and KPMG continue to help us expand our business by offering ServiceNow solutions to their customers. 
+
+Customers 
+
+&#160; 
+
+We primarily sell our services to large enterprise customers, and we host and support large, enterprise-wide deployments for our customers. As of December 31, 2024, we had approximately 8,400 customers. Our customers operate in a wide variety of industries. The portion of our revenues generated by sales to government customers has also increased over time. See &#8220;Risk Factors&#8212;Doing business with the public sector and heavily-regulated entities subjects us to risks related to the government procurement process, regulations, and contracting requirements&#8221; for additional information about our sales to government customers. 
+
+Research and Development 
+
+Our research and development organization is responsible for the design, development, testing and validation of our solutions. We focus on innovating and developing new services and core technologies and further enhancing the functionality, reliability and performance of our existing solutions. Using emerging technologies, we can anticipate customer demands and then bring new services and new versions of existing services to market quickly in order to remain competitive in the marketplace. We have made, and will continue to make, significant investments in research and development to broaden our platform capabilities, strengthen our existing applications, expand the number of applications on our platform, enhance our user experience and develop additional mobile, automation, AI and machine intelligence technologies. 
+
+Acquisitions and Investments 
+
+We have acquired and invested in companies and technologies as part of our business strategy and will continue to evaluate and enter into potential strategic transactions, including, among other things, acquisitions of or investments in businesses, technologies, services, products and other assets. These transactions are intended to, among other things, expand or improve our service offerings and functionality, go-to-market and sales efforts, our operations or our ability to source necessary expertise and provide services in international locations. 
+
+Competition 
+
+Our business is highly competitive, rapidly evolving and fragmented, and subject to disruptive technologies with low barriers to entry, to shifting customer needs and to frequent introductions of new products and services. As our business expands and the industries in which we operate evolve, we increasingly find ourselves in competition with solutions and alternative approaches to solving customer needs, including, among others: 
+
+&#8226; enterprise application software vendors (including cloud-based and traditional on-premises vendors) such as Oracle, SAP, Salesforce and Workday; 
+
+&#8226; new technologies and entrants (including both point-solutions and platform solutions covering a wide range of functionalities); 
+
+&#8226; custom development and in-house solutions; 
+
+&#8226; technology consultants; 
+
+&#8226; systems integrators; and 
+
+&#8226; software resellers. 
+
+For additional information about competition, see &#8220;Risk Factors&#8212;A failure to innovate in response to rapidly evolving technological changes and in the midst of an intensely competitive market may harm our competitive position and business prospects.&#8221; 
+
+Intellectual Property 
+
+&#160; 
+
+We rely upon a combination of U.S. and international copyright, trade secret, patent and trademark laws and confidentiality procedures and contractual rights and restrictions to establish, protect and grow our intellectual property (&#8220;IP&#8221;) rights. We enter into confidentiality and proprietary rights agreements with our employees, partners, vendors, consultants and other third parties and limit access to our IP and other proprietary information. We also purchase or license IP and technology that we incorporate into our products or services. 
+
+We continue to grow our global patent portfolio and IP rights that relate to our business. Our success depends in part upon our ability to protect our core technology and IP. As of December 31, 2024, we had over 2,000 U.S. and foreign patents, including patents acquired from third parties, and over 600 pending patent applications. We do not believe that our proprietary technology is dependent on any single patent or group of related patents. See &#8220;Risk Factors&#8212;We may not be able to protect or enforce our intellectual property rights.&#8221; 
+
+Our Ambition, Values and Corporate Purpose 
+
+Our ambition to become the defining enterprise software company of the 21 st century is the driving force behind our overall business strategy and is guided by our values: 
+
+&#8226; Wow our customers: Customers are the center of our world. We strive to deliver the best customer experiences and innovations. 
+
+&#8226; Win as a team: We share the same goals and have clear roles in achieving them. We deliver results as a team and enjoy the journey. 
+
+&#8226; Create belonging: We lead with empathy, which means listening and acting to make everyone feel they belong with ServiceNow. 
+
+&#8226; Stay hungry and humble : We do not take success for granted. We are always ready to learn and evolve. We grow together, bringing fresh ideas and new perspectives. 
+
+These values have endured even as our headcount has rapidly increased over the years and we have continued to grow our business. By prioritizing these values, we are able to gain the trust of our employees and customers and work towards fulfilling our corporate purpose to &#8220;make the world work better for everyone.&#8221; 
+
+Environmental, Social and Governance 
+
+Our ESG strategy is aligned to our corporate purpose. We continue to build on our commitments and capabilities to sustain our planet (environmental), create equitable opportunities (social) and act with integrity (governance). Our year-over-year progress is included in our annual Global Impact Report, which details our ESG strategy, initiatives and performance. Our Global Impact Report is aligned with globally-recognized ESG reporting standards. 
+
+Human Capital Management 
+
+Our People Pact 
+
+Our People Pact is pivotal to our ability to fulfill our corporate purpose and is a commitment to helping each other l ive our best lives, do our best work and fulfill our purpose together. To deliver on this promise, we follow a Global People Strategy that serves as the foundation for how we plan and deliver on employee programming and experiences: 
+
+##TABLE_START People Led 
+
+Data Driven 
+
+AI Powered 
+
+Deliver on the People Pact through a product mindset that puts the user at the center of all program, process, and service delivery design 
+
+Recruit and retain an inclusive and agile workforce through data use that accelerates growth and mitigates bias 
+
+Make it easy to create and use AI to maximize talent impact and value 
+
+##TABLE_END
+
+Culture and Inclusion 
+
+Our culture is grounded in our values. We live our culture by regularly listening to our people and gathering feedback directly from our workforce to inform our programs and meet employee needs globally. Our Employee Voice Survey (&#8220;EVS&#8221;) measures and analyzes employee engagement, including inclusion and belonging, learning and development, recognition, compensation and wellbeing. EVS insights are used to create action plans at all levels of the organization and inform the assessment of our human capital management approach and its alignment with our purpose and business strategy. 
+
+&#8220;Create Belonging&#8221; is one of our four company values that guides our ambition. We aim to create a safe, seen, heard and connected workplace for our employees of all backgrounds and experiences so that they can work together to create better products and services that serve our equally diverse and global customer base and ultimately better business outcomes for ServiceNow. To build a strong culture, we have implemented initiatives that weave inclusion throughout the employee experience - from hiring, to learning and development and career advancement. Our global inclusion framework focuses on three key areas: 
+
+##TABLE_START Business Community Strategic Partnerships 
+
+Enable each function to build the most innovative teams possible through a global and data-driven approach that drives structural inclusion and improves equitable outcomes for all 
+
+Strengthen and expand our inclusive culture throughout the industry through RiseUp with ServiceNow 
+
+Engage strategic partners to provide a wide variety of development opportunities that meet the evolving needs and skills of our employees and the communities we reach 
+
+##TABLE_END
+
+As a technology leader, we believe in broadening our reach to underserved communities, providing them with access to technology and training, helping them unlock new opportunities. To help achieve this objective, we created RiseUp with ServiceNow &#8211; a training, certification, upskilling and career placement program. This initiative reflects our commitment to building career pathways for non-traditional tech talent by removing barriers and improving access to technology, knowledge and opportunity. 
+
+Learning and Development 
+
+Our global learning and development programs, under the ServiceNow University (&#8220;SNU&#8221;) umbrella, deliver skilling tools and processes, and technical AI, industry, professional and leadership programs. SNU empowers employees, customers, partners and future talent with advanced skills. SNU combines education and experience, leveraging the Now Platform to fuel continuous growth in talent. 
+
+Total Rewards and Pay Equity 
+
+Our total rewards are designed to help us attract and retain the best talent. We believe that our rewards should be competitive and equitable, and we are committed to recognizing exceptional performance. In support of this, all our employees are eligible to participate in our annual cash bonus plan or, for those in quota-carrying roles, our sales commission plan, in addition to their base pay. We also have a broad-based discretionary equity incentive program and an employee stock purchase plan, which enable employees to share in our success. 
+
+We understand that our employees perform their best when they have the resources they need to feel healthy, supported and secure. To support this, we offer a comprehensive range of benefits and wellbeing programs that cover physical, emotional, social and financial wellbeing. Additionally, we provide our employees with additional time away through &#8220;Wellbeing Days&#8221; to pause, recharge and further support their health and wellbeing. 
+
+We continue to maintain systematic gender pay equity for our employees across the globe and, in the U.S., on the basis of race, ethnicity, as well as gender. Every year, we partner with an independent third-party expert to examine whether any statistically significant differences in compensation exist after considering factors such as experience, role, location and performance and make adjustments, as warranted. 
+
+Ways of Working 
+
+While we value in-person activities, we are committed to embracing ways of working that promote flexibility and inclusion, support employee wellbeing and drive innovation. A substantial portion of our employees work partially or fully remote. We believe such an environment will only serve to strengthen our company. 
+
+Workforce Metrics 
+
+As of December 31, 2024, we employed 26,293 people on a full-time basis, 13,193 in the United States and 13,100 internationally. None of our U.S. employees are represented by a labor union. Employees in certain countries are represented by workers&#8217; councils or employee representatives or have the benefits of collective bargaining arrangements at the national and/or sector level. We have not experienced interruptions of operations or work stoppages due to labor disagreements. 
+
+Available Information 
+
+You can obtain copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the SEC, and all amendments to these filings, free of charge from our website at www.servicenow.com/company/investor-relations/sec-filings.html as soon as reasonably practicable after we file or furnish them with the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents of, or accessible through, these websites are not incorporated into this filing. Our references to the URLs for these websites are intended to be inactive textual references only. 
+
+Investors and others should note that we announce material financial information to our investors using our investor relations website (https://www.servicenow.com/company/investor-relations.html), SEC filings, press releases, public conference calls, webcasts and social media. We use these channels, including our website and social media, to communicate with our investors and the public about our company, our products and solutions and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media and others interested in our company to review the information we make available on our website and the social media channels listed on our website. 
+
+##TABLE_START 
+
+ ITEM 1A. RISK FACTORS ##TABLE_END
+
+Investing in our securities involves risks. You should carefully consider the risks and uncertainties described below, together with the other information in this Annual Report on Form 10-K, before making an investment decision. The occurrence of any of the following risks, or additional risks and uncertainties not presently known to us or that we currently believe to be immaterial, could materially and adversely affect our business, financial condition, results of operations, stock price or reputation. The following risks have been grouped by categories and are not in order of significance or probability of occurrence. 
+
+Risk Factors Summary 
+
+This summary provides an overview of the risks we face and should not be considered a substitute for the more fulsome risk factors discussed immediately following this summary. 
+
+&#8226; Risks Related to Our Ability to Grow Our Business 
+
+&#8226; Laws, regulations and customer expectations regarding the use, storage and movement of data may restrict our ability to continue to optimize our platform. 
+
+&#8226; A failure to innovate in response to rapidly evolving technological changes and in the midst of an intensely competitive market may harm our competitive position and business prospects. 
+
+&#8226; We may not successfully increase our penetration of international markets or manage risks associated with foreign markets. 
+
+&#8226; Incorporating AI technology into our offerings may result in operational, legal, regulatory, ethical and other challenges. 
+
+&#8226; We rely on our network of partners for an increasing portion of our revenues, and if these partners fail to perform, our business may be harmed. 
+
+&#8226; Doing business with the public sector and heavily-regulated entities subjects us to risks related to government procurement processes, regulations and contracting requirements. 
+
+&#8226; If we fail to comply with applicable anti-corruption and anti-bribery laws, export control laws, economic and trade sanctions laws, or other global trade laws, we could be subject to penalties and civil and/or criminal sanctions and our business could be materially adversely affected. 
+
+&#8226; Our customer deals are becoming more complex, which tend to involve longer and more expensive sales cycles, increased pricing pressure and implementation and configuration challenges. 
+
+&#8226; As we acquire or invest in companies and technologies, we may not realize the expected business or financial benefits and the acquisitions and investments may divert our management&#8217;s attention and result in additional shareholder dilution or costs. 
+
+&#8226; Risks Related to the Operation of Our Business 
+
+&#8226; Actual or perceived cybersecurity events experienced by us or our third-party service providers may create the perception that our platform is not secure, and we may lose customers or incur significant liabilities. 
+
+&#8226; We may lose key members of our management team or qualified employees or may not be able to attract and retain employees we need. 
+
+&#8226; Delays in the release of, or actual or perceived defects in, our products may slow the adoption of our latest technologies, reduce our ability to efficiently provide services, decrease customer satisfaction, and adversely impact future product sales. 
+
+&#8226; Disruptions or defects in our services could damage our customers&#8217; businesses, subject us to substantial liability and harm our business. 
+
+&#8226; Delays in improving our information systems and processes could interfere with our ability to support our existing and growing customer and employee base as we scale. 
+
+&#8226; We may not be able to protect or enforce our intellectual property rights. 
+
+&#8226; Our use of open-source software could harm our ability to sell our products and services and subject us to possible litigation. 
+
+&#8226; Various factors, including our customers&#8217; business, integration, migration, compliance and security requirements, or errors by us, our partners, or our customers, may cause implementations of our products to be delayed, inefficient or otherwise unsuccessful. 
+
+&#8226; Our failure or perceived failure to achieve our ESG goals or maintain ESG practices that meet evolving stakeholder expectations could adversely affect us. 
+
+&#8226; We may face natural disasters, including climate change, and other events beyond our control. 
+
+&#8226; Risks Related to the Financial Performance or Financial Position of Our Business 
+
+&#8226; Because we generally recognize revenues from our subscription service over the subscription term, a decrease in new subscriptions or renewals may not be immediately reflected in our operating results. 
+
+&#8226; As our business grows, we expect our revenue growth rate to decline over the long term. 
+
+&#8226; Changes in our effective tax rate or disallowance of our tax positions may adversely affect our business. 
+
+&#8226; We may be adversely affected by our debt service obligations. 
+
+&#8226; Risks Related to General Economic Conditions 
+
+&#8226; Our industry and business may be harmed by global economic conditions. 
+
+&#8226; We may be harmed by foreign currency exchange rate fluctuations. 
+
+&#8226; Risks Related to Ownership of Our Common Stock 
+
+&#8226; Our stock price is likely to continue to be volatile. 
+
+&#8226; Provisions in our governing documents or Delaware law might discourage, delay or prevent a change of control or changes in our management and, therefore, depress our stock price. 
+
+Risks Related to Our Ability to Grow Our Business 
+
+Laws, regulations and customer expectations regarding the use, storage and movement of data may restrict our ability to continue to optimize our platform. 
+
+Governments have adopted, and likely will continue to adopt, laws and regulations affecting the use, storage and movement of data, including laws related to data privacy and security, the use of machine learning and artificial intelligence (&#8220;AI&#8221;), and data sovereignty or residency requirements. Changing laws, regulations and standards applying to the collection, storage, use, sharing, portability, transfer or other control or processing of data, including personal data, could affect our ability to efficiently and cost-effectively offer our services and to develop our products and services for maximum utility, as well as our customers&#8217; ability to use data or share data. Such changes may restrict our ability to use, store or otherwise process customer data in connection with providing services and could alter or increase our compliance requirements. In some cases, this could impact our ability to offer our services in certain locations or our customers&#8217; ability to deploy our services globally. For example, the EU Data Act has significant requirements regarding data portability, interoperability and accessibility and unclear data transfer restrictions, any of which could impact our operations. In addition, the relatively new Trans-Atlantic Data Privacy Framework, which facilitates the transfer of data between the United States (&#8220;U.S.&#8221;) and European Union (&#8220;EU&#8221;), may be subject to legal challenges and regulatory interpretations that could create uncertainties and impact our operations and compliance obligations. 
+
+We offer region-specific services, by which customer data is hosted locally and customers may elect to receive support from locally-based ServiceNow teams. Setting up and maintaining these region-specific services require significant investment, including to comply with applicable laws and regulations. Actual or perceived non-compliance with those laws and regulations could result in proceedings or investigations against us by regulatory authorities or others, lead to significant fines, damages, orders, litigation or reputational harm and may otherwise adversely impact our business. 
+
+We will also need to continually adapt to customer privacy and security requirements as they change over time. For example, as customers increasingly adopt a hybrid (on-premises and off-premises/hyperscale cloud) approach for their IT workloads, our cloud services may fail to address evolving customer requirements, including data localization. Further, due to heightened concerns relating to privacy and security regulatory matters, our customers may request certain certifications and failure to obtain, or consistently maintain, those certifications may adversely impact our reputation and business. 
+
+A failure to innovate in response to rapidly evolving technological changes and in the midst of an intensely competitive market may harm our competitive position and business prospects. 
+
+We compete in markets that evolve rapidly. The pace of innovation will continue to accelerate as customers recognize the advantages of acquiring leading digital technologies and adopting modern cloud-based infrastructure. Cutting-edge capabilities such as AI, machine learning, hyper automation, low-code/no-code application development, system observability and predictive insights become increasingly relevant to the customer&#8217;s evolving needs. With this rapid evolution, we are increasingly competing with alternative solutions and approaches to solve customer needs, and we expect additional competition as we shift our products and services to compete with providers in new and adjacent markets. 
+
+Competitors, regardless of their size, may be able to respond more quickly and effectively to new or changing opportunities, technologies, standards, customer requirements and buying practices. They may introduce new technology, solve similar problems in different ways or more effectively utilize existing technology that reduces demand for our services. They may utilize acquisitions, integrations or consolidations to offer integrated or bundled products, enhanced 
+
+functionality or other advantages. Some of our existing competitors and potential competitors are larger and have greater name recognition, the ability to more efficiently scale their business, more established operations and customer relationships, and greater financial and technical resources than we do. &#8220;Systems of record&#8221; operators may attempt to create technology solutions or other mechanisms that would prevent our systems from integrating with theirs. They may create pricing pressures by reducing the price of competing products, services or subscriptions or bundling their offerings causing our offerings to appear relatively more expensive. Competition from cloud-based vendors may increase as they build business applications or AI powered automation solutions that compete with our products and services. We may also encounter customer reluctance or unwillingness to migrate away from their current solutions. 
+
+If we are not able to compete successfully, we could experience reduced sales and margins, losses or failure of our products to achieve or maintain market acceptance. Accordingly, to compete effectively, we must: 
+
+&#8226; identify and innovate in the right technologies; 
+
+&#8226; keep pace with rapidly changing technological developments, such as AI, which may disrupt resource and talent needs and the enterprise software marketplace; 
+
+&#8226; accurately predict and meet our customers&#8217; changing digital transformation needs, priorities and adoption practices, including their technology infrastructures and buying and budgetary practices; 
+
+&#8226; invest in and continually optimize our own technology platform so that we continue to meet the very high-performance expectations of our customers; 
+
+&#8226; successfully deliver and promote new, scalable technologies and products to meet customer needs and priorities; 
+
+&#8226; efficiently integrate with technologies within our customers&#8217; digital environments; 
+
+&#8226; expand our offerings into new and adjacent industries and comply with regulations in such industries; 
+
+&#8226; successfully sell to buyers who are not familiar with our offerings; 
+
+&#8226; profitably and efficiently market and sell our new and existing products; 
+
+&#8226; effectively scale our business processes and operations as we grow; 
+
+&#8226; successfully adapt new pricing models; 
+
+&#8226; promote ongoing customer relationships and customer value realization; 
+
+&#8226; effectively secure our platform, data and customers&#8217; data; and 
+
+&#8226; effectively deliver, directly or through our partner ecosystem, the digital transformation process planning, IT systems architecture planning, and product implementation services that our customers require to be successful. 
+
+Further, in response to evolving customer needs, we may make significant investments in changing how we offer our products or services, such as bundling offerings or shifting to consumption-based pricing for support services or how our services are delivered or priced. However, customers may not be satisfied with these changes and, therefore, may not grow or maintain their business with us. 
+
+We may not successfully increase our penetration of international markets or manage risks associated with foreign markets. 
+
+Sales outside of North America represented 37% and 36% of our total revenues for the years ended December 31, 2024 and 2023, respectively. The growth of our business depends on our ability to increase our sales outside of the U.S. as a percentage of our total revenues. Additionally, operating in international markets requires significant investment and management attention and subjects us to varying regulatory, political and economic risks. We have made, and will continue to make, substantial investments in data centers, geographic-specific service delivery models, advisory councils, cloud computing infrastructure, sales, marketing, partnership arrangements, personnel and facilities in new geographic markets. When we make these investments, it is typically unclear when we will see a return on our investment, and we may significantly underestimate the level of investment and time required to be successful. Our rate of acquisition of new large enterprise customers, a factor affecting our growth, has been generally lower in territories where we are less established and where there may be heightened or evolving regulations and operational and IP risks. We have experienced, and may continue to experience, difficulties in new geographic markets, including hiring qualified sales management personnel, penetrating the target market, and managing local operations. Risks associated with making our products and services available in international markets include, for example: 
+
+&#8226; compliance with multiple, conflicting and changing governmental laws and regulations; 
+
+&#8226; requirements to have local partner(s), local entity ownership limitations or technology transfer or sharing requirements, or to comply with data residency and transfer laws and regulations, privacy and data protection laws and regulations, which may increase operational costs and restrictions; 
+
+&#8226; the possibility that illegal or unethical activities of our local employees or business partners will be attributed to us or cause us harm; 
+
+&#8226; longer and potentially more complex sales and payment receipt cycles and other collection difficulties; 
+
+&#8226; different pricing and distribution environments; 
+
+&#8226; potential changes in international trade policies, tariffs, agreements and practices, including the adoption and expansion of formal or informal trade restrictions or regulatory frameworks that may favor local competitors; 
+
+&#8226; governmental direction, business practices and/or cultural norms that may favor local competitors; 
+
+&#8226; more prevalent cybersecurity, intellectual property and AI risks; and 
+
+&#8226; localization of our services, including translation into foreign languages and associated expenses. 
+
+If we are unable to manage these risks, our business will be adversely affected. 
+
+Incorporating AI technology into our offerings may result in operational, legal, regulatory, ethical and other challenges. 
+
+We are increasingly innovating and expanding offerings on our platform by integrating AI technology. We expect AI to be an increasingly important driver of future growth, although, like many innovations, it presents risks and uncertainties that may impact our ability to realize its desired or anticipated benefits for our business. 
+
+AI technology is rapidly evolving and to remain competitive, we will need to make significant investments to continue to successfully develop and incorporate the technology into our products. Our ability to incorporate AI technology into our products depends on the availability and pricing of third-party hardware and software equipment and technical infrastructure. Our competitors or other third parties may develop or incorporate AI into their products more quickly or successfully than us. Other companies may also have or in the future may obtain intellectual proprietary rights that would prevent, limit, or interfere with our ability to make, use, or sell our AI products. For these reasons, among others, we may not be able to compete effectively in the evolving AI market. 
+
+Our business model may be affected by global trends and laws that govern the use of AI and machine learning. For example, the EU AI Act places new requirements on providers of AI technologies that will need to be addressed in alignment with various deadlines in the coming years. These and other laws or regulations may cause us to modify our data handling and compliance practices, which could be costly or disruptive to our operations, and may also impact our ability to use certain data to support our products or our product development efforts or hinder our customers&#8217; ability to adopt or continue to use our products. 
+
+We may face new or heightened legal, ethical and other challenges arising out of the perceived or actual impact of AI on human rights, intellectual property, privacy and employment, among other areas. For example, our use of AI could lead to copyright infringement or other intellectual property claims, potentially requiring us to pay compensation or licensing fees to third parties. Additionally, social and ethical concerns surrounding the use of AI in our offerings could harm our brand and may cause us to incur additional costs. Failure by us or others in our industry to adequately address these concerns could erode public confidence in AI and slow adoption of AI in our products. 
+
+We rely on our network of partners for an increasing portion of our revenues, and if these partners fail to perform, our business may be harmed. 
+
+An increasing portion of our revenues is generated by sales through our network of partners, including resellers, distributors and managed service providers. Increasingly, we and our customers rely on our partners to provide professional services, including custom implementations, and there may be insufficient qualified implementation partners available to meet customer demand. While we provide our partners with training and programs, including accreditations and certifications, these programs may not be effective or utilized consistently by partners. In addition, new partners may require extensive training and/or significant time and resources to become productive. Additionally, our relationships with partners may require us, along with our partners, to comply with complex regulations, contractual requirements and government procurement rules. Failure to adhere to these requirements could result in the loss of business opportunities, potential liabilities or penalties. For example, our partners could misrepresent to our customers the functionality of our platform or products, fail to perform services to our customers&#8217; expectations, or violate laws or our corporate policies. Further, changes to our direct go-to-market models may cause friction with our partners. Our partners may also use our platform to develop products and services that compete with our products and services, which could raise IP ownership concerns and strain these partnerships. If we fail to effectively manage and grow our network of partners, our ability to sell our products and efficiently provide our services may be impacted and our business may be harmed. 
+
+Doing business with the public sector and heavily-regulated entities subjects us to risks related to government procurement processes, regulations and contracting requirements. 
+
+We provide products and services to governmental and heavily-regulated entities directly and through our partners. We have made, and may continue to make, significant investments to support our efforts to sell to those entities. Processes to obtain authorizations and certifications required for us to provide our products and services to those entities often are lengthy and encounter delays, and we may not be able to satisfy, or maintain compliance with, the associated requirements. 
+
+A substantial majority of our sales to government entities in the U.S. have been made indirectly through our distributors, resellers or service provider partners. Doing business with government entities presents a variety of risks. The procurement process for governments and their agencies is highly competitive and time-consuming, may be subject to political influence and may involve different rules and conditions on the offering or pricing of products and services. We incur significant up-front time and expense without any assurance that we (or a third-party distributor, reseller or service provider) will win a contract. Beyond this, demand for our products and services may be adversely impacted by public sector budgetary cycles and funding availability that in any given fiscal cycle may be reduced or delayed, including in connection with an extended federal government shutdown, partisan gridlock or changes to government policy. Further, if we or our partners are successful in receiving a contract award, that award could be challenged during a bid protest process. Bid protests may result in an increase in expenses related to obtaining contract awards or an unfavorable modification or loss of an award. Even if a bid protest were unsuccessful, the delay in the startup and funding of the work under these contracts may cause our actual results to differ materially and adversely from those anticipated. 
+
+Our customers also include non-U.S. governments, to which government procurement risks similar to those present in U.S. government contracting and regulatory compliance also apply, particularly in certain emerging markets where our customer base is less established. Across the globe, we have seen political volatility increase, with rapid changes in governments and increased partisanship affecting many aspects of government, including the ability to approve budgets and make commitments. This can significantly delay or impair a government&#8217;s ability to contract for software and services such as ours. We have also seen challenges to successful awards through bid protest procedures in jurisdictions outside the U.S. As our non-U.S. government business grows, we may see an increase in bid protests as part of the standard government procurement legal procedures that exist in many jurisdictions. In addition, compliance with complex regulations and contracting provisions in a variety of jurisdictions can be expensive and consume significant management resources. In certain jurisdictions, our ability to win business may be constrained by political and other factors unrelated to our competitive position in the market. 
+
+Our public sector customers may have contractual, statutory or regulatory rights to terminate current contracts with us or our third-party distributors or resellers for convenience or due to a default, though such risk may be assumed by such third-party distributor or reseller. If a contract is terminated for convenience, we may only be able to collect fees for products or services delivered prior to termination and settlement expenses. If a contract is terminated due to a default, we may be liable for excess costs incurred by the customer for procuring alternative products or services or be precluded from doing further business with governmental entities. Further, we are required to comply with a variety of complex laws, regulations, and contractual provisions relating to the formation, administration, or performance of government contracts that give public sector customers substantial rights and remedies, many of which are not typically found in commercial contracts. These may also include rights with respect to price protection, refund and setoff, performance of services in languages other than English, the accuracy of information provided to the government, contractor compliance with supplier diversity policies, constraints on sales practices and other obligations that are particular to government contracts. These obligations may apply to us and/or our third-party resellers or distributors whose practices we may not control. Such parties&#8217; non-compliance could create legal, contractual and customer satisfaction issues. 
+
+We and governments routinely investigate and audit compliance with contractual and regulatory requirements. For example, as disclosed in Note 17 in the notes to our consolidated financial statements, the Company informed certain U.S. government agencies of an internal investigation and preliminary findings and is cooperating with, among others, the Department of Justice, which commenced its own investigation into the matters. If it is determined that we or our third-party distributors, resellers or service providers have failed to comply with applicable contractual or regulatory requirements, we may be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, cost associated with the triggering of price reduction clauses, fines, and suspensions or debarment from future government business, among others, all of which may adversely affect our business. In the United States, our federal business has been concentrated with a small number of third-party distributors, resellers or service providers. If one of those third parties is limited in its ability to do business with the government due to a regulatory or legal issue arising from their own conduct and we are not able to move our business to another third party, our business could be negatively impacted. 
+
+Further, we are increasingly doing business in heavily regulated industries, such as financial services, telecommunication, media and television, and health care. Current and prospective customers in those industries may be required to comply with more stringent regulations to subscribe to and/or implement our services. In addition, regulatory agencies may impose requirements on third-party vendors that we may not meet. Customers in these heavily-regulated industries often have a right to conduct audits of our systems, products and practices, and in some cases the regulators of customers in heavily-regulated industries may directly examine vendors that provide outsourced services to such customers. If one or more customers and/or regulators determine that some aspect of our business does not meet regulatory requirements, our ability to continue or expand our business with those customers may be restricted. 
+
+If we fail to comply with applicable anti-corruption and anti-bribery laws, export control laws, economic and trade sanctions laws, or other global trade laws, we could be subject to penalties and civil and/or criminal sanctions and our business could be materially adversely affected . 
+
+As we continue to expand our business internationally, we will inevitably do more business with large private enterprises and the public sector in countries outside of the U.S. Increased business in countries with heightened levels of corruption subjects us and our officers and directors to increased scrutiny and potential liability from our business operations. We have an established compliance program, but there is a risk that our employees, partners, vendors, customers and agents, as well as those companies to which we outsource certain of our business operations, could violate our policies and applicable law, exposing us to additional scrutiny and potential liability. We have experienced this in the past and may experience it again in the future. In addition, we are subject to customs laws that may impose tariffs on us, directly or indirectly. Higher tariffs on imports related to our operations could increase our operating costs. We are also subject to global trade laws that apply to our worldwide operations, including prohibitions or restrictions on conducting business in certain geographies or involving certain counterparties, end-users or end-use cases. As a result of the Russia-Ukraine conflict, for example, the U.S. and other jurisdictions have imposed economic and trade sanctions and export control restrictions against Russia and Belarus, as well as certain persons, assets and interests associated with those countries. If this conflict continues or if serious conflict arises elsewhere, the U.S. and other jurisdictions could impose wider economic and trade sanctions as well as export restrictions, which could impact our business opportunities and operations. Any violation of the U.S. Foreign Corrupt Practices Act of 1977, as amended, the UK Bribery Act, other applicable anti-corruption and anti-bribery laws, or applicable export control or economic and trade sanctions laws by our employees or third-party intermediaries could subject us to significant risks such as adverse media coverage and/or severe criminal or civil sanctions, which could materially adversely affect our reputation and business. 
+
+Our customer deals are becoming more complex, which tend to involve longer and more expensive sales cycles, increased pricing pressure and implementation and configuration challenges. 
+
+The customer deals we pursue are becoming more complex as we engage with increasingly larger enterprise customers with multiple workflow products that span the enterprise. These deals can lead to increased costs, longer sales cycles, greater competition and less predictability in our ability to close sales. These customers tend to require considerable time evaluating our portfolio of products and testing our platform prior to making a purchasing decision, require multiple levels of review and approval from a broader set of buyers and stakeholders, and demand more configuration, integration services and features, particularly when switching from legacy on-premises solutions. As a result, these sales opportunities may require us to devote significant sales support and professional services to a smaller number of transactions, diverting those resources from other sales opportunities. If we fail to effectively manage these risks, our business may be negatively affected. 
+
+As we acquire or invest in companies and technologies, we may not realize the expected business or financial benefits and the acquisitions and investments may divert our management&#8217;s attention and result in additional shareholder dilution or costs. 
+
+We have acquired and invested in companies and technologies as part of our business strategy and will continue to evaluate and enter into potential strategic transactions, including, among other things, acquisitions of or investments in businesses, technologies, services, products and other assets. These transactions are intended to, among other things, expand or improve our service offerings and functionality, go-to-market and sales efforts, our operations or our ability to source necessary expertise and provide services in international locations. Although we conduct due diligence regarding these businesses and assets, our efforts may not reveal every material issue. Strategic transactions involve numerous risks, including: 
+
+&#8226; difficulties assimilating or integrating the businesses, technologies, products, personnel or operations of the acquired companies; 
+
+&#8226; failing to achieve the expected benefits of the acquisition or investment; 
+
+&#8226; potential loss of employees of the acquired company; 
+
+&#8226; inability to maintain relationships with customers, suppliers and partners of the acquired business; 
+
+&#8226; introducing vulnerabilities or threats by integrating acquired technologies or businesses; 
+
+&#8226; introducing increased complexity and burden to maintain the technology platform; 
+
+&#8226; potential adverse tax consequences; 
+
+&#8226; disruption to our business and diversion of management attention and other resources; 
+
+&#8226; potential financial, credit or regulatory risks associated with acquired customers, suppliers and partners of the acquired business; 
+
+&#8226; dependence on acquired technologies or licenses for which alternatives may not be available to us or which may involve significant cost or complexity; 
+
+&#8226; in the case of foreign acquisitions, the challenges associated with integrating operations across different cultures, languages, and legal regimes and any currency and regulatory risks associated with specific countries; 
+
+&#8226; data security or privacy risks, compliance requirements, or integration costs from the acquired technology or company; 
+
+&#8226; impairment of our investments or the possibility our investees will be unable to obtain future funding on favorable terms or at all; and 
+
+&#8226; potential unknown liabilities or disputes associated with the acquired businesses. 
+
+In addition, the amount or form of consideration we pay for acquisitions could adversely affect our financial condition or stock price. For example, if we finance an acquisition by issuing equity or convertible debt securities or loans, our existing shareholders may be diluted, or we could face constraints related to the terms of those securities or indebtedness. 
+
+Risks Related to the Operation of Our Business 
+
+Actual or perceived cybersecurity events experienced by us or our third-party service providers may create the perception that our platform is not secure, and we may lose customers or incur significant liabilities. 
+
+In the ordinary course of our business, we store, transmit, generate, and process our and our customers&#8217; confidential, proprietary and sensitive data. As our business expands across the globe, the number of employees, contractors, vendors and other third parties remotely accessing our systems continues to grow. Our growing business operations increase our exposure to cyberattacks by a range of actors, who have used and will continue to use assorted tactics, techniques, and procedures, including malicious code, ransomware, social engineering, business email compromises, supply chain attacks, denial of service attacks and similar internet-enabled, fraudulent activity, and the frequency of those attacks have become more common. Further, during times of war and other major conflicts, we and our third-party providers may be vulnerable to a heightened risk of geopolitically motivated attacks, including cyberattacks, that could materially disrupt our systems and operations, supply chain and ability to provide our services. 
+
+Cybersecurity threats are not limited to actors operating in the systems we control directly. Our increasing reliance on third-party providers and public cloud infrastructure introduces new cybersecurity risks to our business operations. Third-party security incidents have occurred in the past and are likely to continue, as we rely on third-party service providers and technologies to operate business systems in a variety of contexts. S upply chain attacks have also increased in frequency and severity. We cannot guarantee that our third-party service providers or our supply chain infrastructure have not been compromised or that they do not contain exploitable defects or bugs that could result in a breach of or disruption to our platform, systems and network or the systems and networks of third parties that support us and our business. Our ability to monitor the data security measures of our third-party providers is limited, and we necessarily depend in part on our providers to have in place and maintain adequate security measures to protect against unauthorized access, cyberattacks and the mishandling of data. Further, employee error or malfeasance in configuring, maintaining and using these services could impact our ability to monitor and secure them effectively. 
+
+We have identified vulnerabilities in our products and services in the past and expect to continue to do so in the future. We cannot be certain that we will be able to identify all vulnerabilities or address the vulnerabilities of which we become aware. There have been delays and may continue to be delays in developing patches that can be effectively deployed to address vulnerabilities. Further, security researchers and other individuals have in the past actively searched for, published and/or exploited actual and potential vulnerabilities in our products or services and will likely continue to do so in the future. Also, certain persons, including researchers, have in the past not abided by, and may in the future not abide by, our responsible disclosure program, which has resulted in, and could in the future result in the compromise of our systems or our or our customers&#8217; data. Moreover, the incorporation of third-party or open-source software code into our or our customers&#8217; systems increases the risk of exploitation of vulnerabilities. We also have inherited and may in the future inherit additional security risks from acquiring or partnering with other companies. 
+
+In most instances, our customers are responsible for administering access to the data held in their particular instance for their employees and service providers. While our software is delivered with certain preset configurations, we 
+
+understand that our customers require flexibility to configure the Now Platform to their specific business needs. We work closely with our customers to help them evaluate their security configurations, including providing guidance to align configuration settings with their business needs. Yet, in configuring our platform, both our employees and customers have made errors in the past and may do so again in the future. We are aware that, on occasion, both our customers and ServiceNow have configured certain settings on our platform, or retained preset configurations, in ways that may not align with preferred or recommended security levels, which can result in, and has resulted in, information being made more widely accessible than intended. Such misconfigurations can be, and have been, identified publicly, increasing the risk of data being exposed unintentionally. In certain cases, customers may misconfigure their systems and claim that they were not properly informed of the risks to their configuration. 
+
+Our data security system and data governance framework, designed to protect our and our customers&#8217; information and prevent data loss, may not be effective at preventing material breaches caused by intentional or unintentional actions or inactions by employees, contractors or third parties. Techniques used to sabotage or to obtain unauthorized access to systems are constantly evolving and may go undetected until a successful attack occurs. Moreover, we have experienced security incidents, which may reoccur in the future, that resulted in unauthorized access to, loss, or inadvertent disclosure of confidential, proprietary and sensitive information. We have observed attempts by third parties to induce or deceive our employees, contractors or users to fraudulently obtain access to our or our customers&#8217; data or assets. In addition, our employees have fallen victim to phishing attacks in the past and are likely to again in the future. Further, despite our security measures, employees, contractors and other individuals (some of whom are supported by nation states) have gained, and in the future may gain, access to our systems to search for and exploit actual or potential vulnerabilities in our products or services or inflict other harms, such as deploying malware or stealing data. 
+
+An actual or perceived security breach or compromise can have a material effect on ServiceNow&#8217;s operations, finances and reputation. The adverse consequences can include accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to data; disruptions to our services; diversion of funds; litigation; indemnification and other contractual obligations; regulatory investigations; government fines and penalties; reputational damage; negative publicity; business and operational interruptions; loss of sales, customers, and partners; mitigation and remediation expenses; and other material costs and liabilities. In addition, the assessment and response to security incidents, as well as implementation of appropriate safeguards to protect against future incidents, can lead to material economic and operational consequences. These consequences can result regardless of whether the incident is suffered by us, affects our third-party service providers or stems from customers&#8217; action or inaction. Moreover, even if a breach is unrelated to our security programs or practices, it could still cause us reputational harm and require us to undertake significant efforts to assess and respond to the breach, including further protecting our customers from their own vulnerabilities. There can be no assurance that any limitations of liability provisions in our subscription agreements, terms of use or other agreements would be enforceable or adequate or would otherwise protect us from any such liabilities or damages with respect to any particular claim. In addition, while we maintain insurance coverage to cover potential financial losses, we cannot be certain that such coverage will continue to be available on acceptable terms or in sufficient amounts to cover potential financial losses from a security incident or that an insurer will not deny coverage as to any future claim. 
+
+We may lose key members of our management team or qualified employees or may not be able to attract and retain the employees we need. 
+
+There is increasingly intense competition for talent in the technology industry. Our success depends substantially upon the continued services of our management team, particularly our chief executive officer, chief operating officer and the other members of our executive staff. From time to time in the ordinary course of business, there have been and may continue to be changes in our management team. While we seek to manage these transitions carefully, such changes may result in a loss of institutional knowledge and negatively affect our business. 
+
+In the highly competitive technology industry, we face ongoing challenges in attracting and retaining top talent across various roles, such as product development and engineering (particularly with AI and machine learning backgrounds), sales, operations and cybersecurity. These key individual contributors are critical to our success, can command very significant compensation in the market and are actively recruited by our key competitors. Our ability to achieve significant revenue growth may depend on our success in recruiting, training and retaining sufficient qualified personnel to support our growth. We have faced and may continue to face difficulties attracting, hiring and retaining highly-skilled, qualified personnel and may not be able to fill positions in desired geographic areas or at all. Further, as we continue to grow and expand our workforce globally, we may face operational and workplace culture challenges that could negatively impact our ability to maintain the effectiveness of our business execution and the beneficial aspects of our corporate culture. While our work model, where a substantial portion of our employees work partially or fully remote, increased our access to talent, we may not be able to take advantage of a broader talent pool if our competitors offer the same work model or if we continue to rely on our primary operating locations for talent. We are continually evaluating and, as appropriate, enhancing the attractiveness of our compensation packages and benefit programs. As a result, we have experienced and may continue to 
+
+experience increased costs that may not be offset by either improved productivity or higher sales, potentially resulting in a reduction in our profitability. In addition, we grant equity awards to our employees and sustained declines in our stock price or lower stock price performance relative to our competitors reduces the retention value of such awards, which can impact the competitiveness of our compensation. Many of our employees, including all of our executive officers, are employed &#8220;at-will&#8221; and may terminate their employment with us at any time. If we fail to attract qualified, new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be adversely affected. 
+
+Delays in the release of, or actual or perceived defects in, our products may slow the adoption of our latest technologies, reduce our ability to efficiently provide services, decrease customer satisfaction, and adversely impact future product sales. 
+
+We must successfully continue to release new products and updates to existing products. The success of any release depends on a number of factors, including our ability to manage the risks associated with actual or perceived quality or other defects or deficiencies, delays in the timing of releases or the adoption of releases by customers, and other complications that may arise during the early stages of introducing our products. If releases are delayed or if customers perceive that our releases contain bugs or other defects or are difficult to implement, customer adoption of our new products or updates may be adversely impacted, customer satisfaction may decrease, our ability to efficiently provide our services may be reduced, and our growth prospects may be harmed. 
+
+Disruptions or defects in our services could damage our customers&#8217; businesses, subject us to substantial liability and harm our business. 
+
+Our business depends on our platform to be available without disruption. From time to time, we have experienced and expect to continue to experience defects, disruptions, outages and other performance and quality problems with our platform. New defects may be detected in the future and may arise from our increasing use of the public cloud. For example, we provide regular updates to our services, which can contain undetected defects. Defects may also be introduced by our use of third-party software, including open-source software. Disruptions may result from errors we make in developing, delivering, configuring or hosting our services, or designing, installing, expanding or maintaining our cloud infrastructure. Disruptions in service can also result from incidents outside of our control, including third-party incidents or denial of service or ransomware attacks, among others. We currently serve our customers primarily using equipment managed by us and co-located in third-party data centers operated by several different providers located around the world, and we serve certain of our customers using data center facilities operated by public cloud service providers. These data centers are vulnerable to damage or interruption from earthquakes, hurricanes, floods, fires, power failures and similar events. They may also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct, equipment failure and adverse events caused by operator error or negligence. In addition, an increased use of the public cloud increases our vulnerability to cyberattacks. Despite precautions taken at these centers, problems at these centers have occurred, resulting in interruptions in our services. Such problems could occur again and result in similar or lengthier service interruptions and the loss of customer data. In addition, our customers may use our services in ways that cause disruptions in service for other customers. In addition to data center providers, we also have a large ecosystem of vendors and service providers that we use for our products. If there is a compromise to data, supply chain issue or other incident with our critical service providers, it may impact our ability to provide our services and reduce our productivity. Our customers use our services to manage important aspects of their businesses, and our reputation and business will be adversely affected if our customers and potential customers believe our services are unreliable. Disruptions or defects in our services may reduce our revenues, cause us to issue credits or pay penalties, subject us to claims and litigation, cause our customers to delay payment or terminate or fail to renew their subscriptions, and adversely affect our ability to attract new customers. Similarly, customers may have unique requirements for system resiliency and performance depending on their business models and customers in highly regulated markets may have more demanding requirements that we may not be able to, or may not choose to, meet. The occurrence of payment delays, service credit, warranty or termination for material breach or other claims against us could result in an increase in our bad debt expense, an increase in collection cycles, an increase to our service level credit accruals, other increased expenses or risks of litigation. We may not have insurance sufficient to compensate us for potentially significant losses that may result from claims arising from disruptions to our services. 
+
+Delays in improving our information systems and processes could interfere with our ability to support our existing and growing customer and employee base as we scale. 
+
+We rely on our information systems and those of third parties to operate and scale our business. As the information we rely on for our business evolves, including as a result of implementing AI technologies, our information systems, including their infrastructure needs, network capacity and computing power, may need to expand. We have made and continue to make investments to improve our information systems to support the needs of our growing customer and employee base, increase productivity, develop and enhance our services, expand into new geographic areas, and scale with 
+
+our overall growth. Such improvements are often complex, costly, and time consuming. If implementation of these improvements is delayed, or if we encounter unforeseen problems when migrating away from our existing systems and processes, our operations and our ability to manage our business could be negatively impacted. This might lead to disruptions to our operations, loss of customers, loss of revenue, or damage to our reputation, all of which could harm our business plan to successfully scale our operations and enhance productivity. 
+
+We may not be able to protect or enforce our intellectual property rights. 
+
+Our success depends significantly on our ability to protect our proprietary technology and our brand under patent, copyright, trademark, trade secret and other IP protections in the U.S. and other jurisdictions. The IP protection we have for our technology may be insufficient, and any IP acquired in the future may not provide competitive advantages or other value. In addition, our IP may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing upon them. Further, legal standards relating to the validity, enforceability and scope of protection of IP rights vary. 
+
+Despite our efforts to protect our proprietary rights, policing unauthorized use of our IP and technology is difficult, and we may be required to spend significant resources to monitor and protect our IP rights. Unauthorized parties may attempt to copy or obtain and use, or may have copied or obtained and used, our technology to develop products and services that provide features and functionality similar to ours. Our competitors could also independently develop services equivalent to ours, and our IP rights may not be broad enough for us to prevent competitors from utilizing their developments to compete with us. Reverse engineering, unauthorized copying or other misappropriation of our proprietary technology could enable third parties to benefit from our technology without paying us for it. We may initiate claims or litigation against third parties for infringement or misappropriation of our proprietary rights or to establish the validity of our proprietary rights. However, we may be adversely affected if we are unable to prevent third parties from infringing upon or misappropriating our IP rights or are required to incur substantial costs defending our IP rights. 
+
+Third parties may challenge or invalidate our IP rights through administrative proceedings, litigation or allowing contractual rights to expire. There is considerable patent and other IP development activity and claims and related litigation regarding patent and IP rights in our industry. Our competitors, other third parties, including practicing entities and non-practicing entities, own large numbers of patents, copyrights, trademarks and trade secrets, which they may use and have used to assert claims of infringement, misappropriation or other violations of IP rights against us. Moreover, the patent portfolios of many of our competitors and other third parties may be larger than ours. This disparity may increase the risk that our competitors or other third parties may sue us for patent infringement and may limit our ability to counterclaim for patent infringement or settle through patent cross-licenses. We have recorded material charges for legal settlements of such claims in the past. Further, upon expiration of any agreements that allow us to use third-party IP, we may be unable to renew such agreements on favorable terms, if at all, in which case we may face IP litigation or may need to cease offering or to modify our products and services to remove such components. In addition, our subscription agreements generally require us to defend our customers against claims that our technology infringes the intellectual property rights of third parties. 
+
+Any claim or litigation, whether or not resolved in our favor, could result in significant expense to us, divert the efforts of our personnel and may result in counterclaims against us. If claims are successfully asserted against us and we are found to be infringing upon, misappropriating or otherwise violating the IP rights of others, we could be required to pay substantial damages and/or make substantial ongoing royalty payments; comply with an injunction and cease offering or modify our products and services; comply with other unfavorable terms, including settlement terms; and indemnify our customers and business partners, obtain costly licenses on their behalf, and/or refund fees or other payments previously paid to us. Further, the mere existence of any lawsuit, or any interim or final outcomes, and the public statements related to it (or absence of such statements) by the press, analysts and litigants could be unsettling to our customers and prospective customers. This could adversely impact our customer satisfaction and related renewal rates, cause us to lose potential sales, and could also be unsettling to investors or prospective investors and cause a substantial decline in our stock price. 
+
+Effective patent, trademark, copyright and trade secret protection may not be available in every country in which we offer services. The laws of some foreign countries may not offer effective protection for, or be as protective of, IP rights as those in the U.S., and mechanisms for enforcement of IP rights or available remedies may be inadequate, ineffective or scarce. Additionally, the IP ownership and license rights of new technologies and the use of outputs therefrom, such as AI, which we are increasingly building into our product offerings, have not been fully addressed by U.S. courts interpreting current and new laws or regulations, and the use or adoption of such technologies in our products and services may expose us to potential intellectual property claims; breach of a data license, software license, or website terms of service allegations; claimed violations of privacy rights; and other tort claims. If such laws or regulations require increased transparency, it may impair protection of our trade secrets or other IP. 
+
+Our use of open-source software could harm our ability to sell our products and services and subject us to possible litigation. 
+
+Our products incorporate software licensed to us by third-party authors under open-source licenses, and we expect to continue to incorporate open-source software into our products and services in the future. We monitor our use of open-source software to avoid subjecting our products and services to adverse licensing conditions. However, there can be no assurance that our efforts have been or will be successful. There is little or no legal precedent governing the interpretation of the terms of open-source licenses, and therefore the potential impact of these terms on our business is uncertain and enforcement of these terms may result in unanticipated obligations regarding our products and services. For example, depending on which open-source license governs certain open-source software included within our products and services, we may be subjected to conditions requiring us to offer our products and services to users at no cost; make available the source code for modifications and derivative works based upon, incorporating or using such open-source software; and license such modifications or derivative works under the terms of the particular open-source license. Moreover, if an author or other third party that distributes such open-source software were to allege that we had not complied with the conditions of one or more of these licenses, we could be required to incur significant legal costs defending ourselves against such allegations, be subject to significant damages or be enjoined from distributing our products and services. 
+
+Various factors, including our customers&#8217; business, integration, migration, compliance and security requirements, or errors by us, our partners, or our customers, may cause implementations of our products to be delayed, inefficient or otherwise unsuccessful. 
+
+Our business depends upon the successful implementation of our products by our customers either through us or our partners. Further, our customers&#8217; business, integration, migration, compliance and security requirements, or errors by us, our partners, or our customers, or other factors may cause implementations to be delayed, inefficient or otherwise unsuccessful. As a result of these and other risks, we or our customers may incur significant implementation costs in connection with the purchase, implementation and enablement of our products. Some customer implementations may take longer than planned, delay our ability to sell additional products or fail to meet our customers&#8217; expectations, resulting in customers canceling or failing to renew their subscriptions before our products have been fully implemented. Some customers may lack the internal resources to manage a digital transformation such as our offering and, as a consequence, may be unable to see the benefits of our products. Unsuccessful, lengthy, or costly implementations and integrations could result in claims from customers, reputational harm, and opportunities for competitors to displace our products. 
+
+Our failure or perceived failure to achieve our ESG goals or maintain ESG practices that meet evolving stakeholder expectations could adversely affect us. 
+
+Our ability to achieve published environmental, social, and governance (&#8220;ESG&#8221;) initiatives, goals and commitments is subject to numerous factors both within and outside of our control. Our failure or perceived failure to achieve our ESG goals or maintain ESG practices that meet evolving stakeholder expectations or regulatory requirements could harm our reputation, adversely impact our ability to attract and retain employees or customers and expose us to increased scrutiny from the investment community, regulatory authorities and others or subject us to liability. Our reputation also may be harmed by the perceptions that our customers, employees and other stakeholders have about our action or inaction on ESG issues. Damage to our reputation and loss of brand equity may reduce demand for our products and services. 
+
+We may face natural disasters, including climate change, and other events beyond our control. 
+
+Natural disasters or other catastrophic events may damage or disrupt our operations, international commerce and the global economy, and thus could have a negative effect on our business. Our business operations are subject to interruption by natural disasters, flooding, fire, extreme heat, power shortages, pandemics, terrorism, political unrest, telecommunications failure, vandalism, cyberattacks, geopolitical instability, war, the effects of climate change and other events beyond our control. While we maintain crisis management and disaster response plans, such planning may not account for all possible events and the occurrence of such events could make it difficult or impossible for us to deliver our services to our customers, could decrease demand for our services, and could cause us to incur substantial expense. Our insurance may not be sufficient to cover losses or additional expenses we may sustain. In the event of major natural disasters or catastrophic events, our backup systems could fail, customer data could be lost, and resumption of operations could require significant time. 
+
+We may be subject to increased costs, regulations, reporting requirements, standards or expectations regarding climate change-driven impacts on our business. While we seek to mitigate our business risks associated with climate change by establishing robust environmental programs as part of our ESG strategy, certain of those risks are inherent wherever business is conducted. Any of our primary locations may be vulnerable to the adverse effects of climate change. For example, our California headquarters have experienced, and may continue to experience, climate-related events at an 
+
+increasing frequency and severity, including drought, water scarcity, heat waves, wildfires and air quality impacts and power shutoffs associated with wildfires. Changing market dynamics, global policy developments and increasing frequency and impact of extreme weather events on critical infrastructure in the U.S. and elsewhere have the potential to disrupt our business, the business of our customers and third-party suppliers and may cause us to experience higher attrition, losses and additional costs to maintain or resume operations. 
+
+Risks Related to the Financial Performance or Financial Position of Our Business 
+
+Because we generally recognize revenues from our subscription service over the subscription term, a decrease in new subscriptions or renewals may not be immediately reflected in our operating results. 
+
+We generally recognize revenues from customers ratably over the terms of their subscriptions. Net new annual contract value from new subscriptions and expansion contracts entered into during a period can generally be expected to generate revenues for the duration of the subscription term. As a result, a significant portion of the revenues we report in each period are derived from the recognition of deferred revenues relating to subscriptions entered into during previous periods. Consequently, a decrease in new or renewed subscriptions, expansion contracts in any single reporting period will have a limited impact on our revenues for that period, but they will negatively affect our operating results in future periods. Our subscription model also makes it difficult for us to rapidly increase our revenues through additional sales in any period, as revenues from new customers are generally recognized over the applicable subscription term. Also, our ability to adjust our cost structure in the event of a decrease in new or renewed subscriptions may be limited. 
+
+As our business grows, we expect our revenue growth rate to decline over the long term. 
+
+You should not rely on our prior revenue growth rate as an indication of our future revenue growth rate. While we have experienced significant revenue growth in prior periods, we expect the growth rate to decline over the long term due to increasing competition, a decrease in the growth rate of our overall market or other reasons. We also expect our costs to increase in future periods as we continue to invest in our strategic priorities, which may not result in a corresponding increase in revenues or growth in our business. 
+
+Changes in our effective tax rate or disallowance of our tax positions may adversely affect our business. 
+
+We are subject to income taxes in the U.S. and various foreign jurisdictions. We believe that our provision for income taxes is reasonable, but the ultimate tax outcome may differ from the amounts recorded in our consolidated financial statements and may materially affect our financial results in the period or periods in which such outcome is determined. Our effective tax rate could be adversely affected by changes in statutory tax rates, changes in the mix of earnings and losses in countries with differing statutory tax rates, certain non-deductible expenses, the valuation of deferred tax assets and liabilities and the effects of acquisitions. Increases in our effective tax rate would reduce our profitability or in some cases increase our losses. 
+
+Additionally, our future effective tax rate could be impacted by changes in accounting principles or changes in federal, state or international tax laws or tax rulings and these changes may have a retroactive effect. The U.S. Department of Treasury has broad authority to issue regulations and interpretative guidance that may significantly impact how we will comply with the law, which could affect our results of operations in the period issued. Many countries are actively considering or have proposed or enacted changes to their tax laws based on the model rules adopted by the Organisation for Economic Co-operation and Development (&#8220;OECD&#8221;) defining a 15% global minimum tax (commonly referred to as Pillar 2). Pillar 2 rules are at varying stages of adoption across jurisdictions where we operate. The timeline to implement these rules and the specific rules vary by jurisdiction. The adoption of Pillar 2 rules may affect our effective tax rate and current tax obligations and liabilities. While we do not currently anticipate Pillar 2 rules to have a material impact on our consolidated financial statements, we are monitoring developments from the OECD, governmental bodies, such as the EU, and intergovernmental economic organizations, to evaluate the impact of changing global tax laws. Global tax developments applicable to multinational businesses and increased scrutiny under tax examinations, as well as changes in federal, state or international tax laws or rulings that may increase our worldwide effective tax rate, could have a material impact on our business. 
+
+In addition, we may be subject to income tax audits by tax jurisdictions throughout the world, many of which have not established clear guidance on the tax treatment of cloud computing companies. Although we believe our income tax liabilities are reasonably estimated and accounted for in accordance with applicable laws and principles, an adverse resolution of one or more uncertain tax positions in any period could have a material impact on our results of operations for that period. Further, many of our most important intangible assets are held outside the U.S. and are subject to inter-company agreements regarding the development and distribution of those assets to other jurisdictions with potential challenge under permanent establishment or transfer pricing principles. While we believe that our position is appropriate 
+
+and well founded, if our position were successfully challenged by taxing authorities in other jurisdictions, we may become subject to significant tax liabilities. 
+
+We may be adversely affected by our debt service obligations. 
+
+Our ability to make payments on, repay or refinance the 2030 Notes in the future will depend on our future performance which is subject to a variety of risks and uncertainties, many of which are beyond our control. If we decide to refinance the 2030 Notes, we may be required to do so on different or less favorable terms or we may be unable to refinance the 2030 Notes at all, both of which may adversely affect our financial condition. Maintenance of our indebtedness, contractual restrictions, and additional issuances of indebtedness could: 
+
+&#8226; cause us to dedicate a substantial portion of our cash flows towards debt service obligations and principal repayments; 
+
+&#8226; increase our vulnerability to adverse changes in general economic, industry and competitive conditions; 
+
+&#8226; limit our flexibility in planning for, or reacting to, changes in our business and our industry; 
+
+&#8226; impair our ability to obtain future financing for working capital, capital expenditures, acquisitions, general corporate or other purposes; and 
+
+&#8226; due to limitations within the debt instruments, restrict our ability to grant liens on property, enter into certain mergers, dispose of all or substantially all of our or our subsidiaries&#8217; assets, taken as a whole, materially change our business or incur subsidiary indebtedness, subject to customary exceptions. 
+
+We are required to comply with the covenants set forth in the indentures governing the 2030 Notes. Our ability to comply with these covenants may be affected by events beyond our control. If we breach any of the covenants and do not obtain a waiver from the note holders or lenders, then, subject to applicable cure periods, any outstanding indebtedness may be declared immediately due and payable. In addition, changes by any rating agency to our credit rating may negatively impact the value and liquidity of our securities. Downgrades in our credit ratings could restrict our ability to obtain additional financing in the future and could affect the terms of any such financing. 
+
+Risks Related to General Economic and Political Conditions 
+
+Our industry and business may be harmed by global economic and political conditions. 
+
+We operate globally and as a result, our business, revenues and profitability are impacted by global macroeconomic and political conditions. The success of our activities is affected by general economic and market conditions, including, among others, inflation, interest rates, tax rates, foreign exchange rates, economic downturns, recession, economic uncertainty, political instability, warfare, changes in laws, trade barriers, supply chain disruptions and economic and trade sanctions. The U.S. capital markets experienced and continue to experience extreme volatility and disruption. Furthermore, inflation rates in the U.S. and other key markets have recently increased to levels not seen in decades resulting in federal action to increase interest rates, affecting capital markets. Such economic volatility could adversely affect our business, financial condition, results of operations and cash flows, and future market disruptions could negatively impact us. These unfavorable economic conditions could increase our operating costs and, because our typical contracts with customers lock in our price for a few years, our profitability could be negatively affected. Geopolitical destabilization and warfare have impacted and may continue to impact global currency exchange rates, commodity prices, energy markets, trade and movement of resources, which may adversely affect the buying power of our customers, our access to and cost of resources from our suppliers, and ability to operate or grow our business. In addition, from time to time, the U.S. and other key international economies have been impacted and may continue to be impacted by geopolitical and economic instability, high levels of credit defaults, international trade disputes, changes in demand for various goods and services, high levels of persistent unemployment, wage and income stagnation, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, inflation, bankruptcies, international trade agreements, export controls, economic and trade sanctions, health crises and overall economic uncertainty. These conditions can arise suddenly and affect the rate of digital transformation spending and could adversely affect our customers&#8217; or prospective customers&#8217; ability or willingness to purchase our services, delay purchasing decisions, reduce the value or duration of their subscriptions, or affect renewal rates. 
+
+We may be harmed by foreign currency exchange rate fluctuations. 
+
+We conduct significant transactions, including revenue transactions and intercompany transactions, in currencies other than the U.S. Dollar or the functional operating currency of the transactional entities. In addition, our international subsidiaries maintain significant net assets that are denominated in the functional operating currencies of these entities. Accordingly, changes in the value of currencies relative to the U.S. Dollar have impacted and may continue to impact our consolidated revenues and operating results due to transactional and translational remeasurement that is reflected in our earnings. It is particularly difficult to forecast any impact from exchange rate movements. Unanticipated currency 
+
+fluctuations have adversely affected and could continue to adversely affect our financial results or cause our results to differ from investor expectations or our own guidance in any future periods. Volatility in foreign currency exchange rates and global financial markets is expected to continue due to political and economic uncertainty globally. 
+
+We use derivative instruments, such as foreign currency forward contracts, to hedge exposures that certain of our balance sheet and income statement items have to changes in foreign currency exchange rates. These hedging contracts have reduced and may continue to reduce, but they have not and cannot entirely eliminate, the impact of adverse foreign currency exchange rate movements. To the extent that the counterparties of our hedging contracts fail to perform or fulfill their obligations, we may not receive the anticipated benefit of those arrangements. Further, unanticipated changes in foreign currency exchange rates may result in poorer overall financial performance than if we had not engaged in any hedging transactions, as the hedging instrument we use may not be aligned with the exposures being hedged. 
+
+Risks Related to Ownership of Our Common Stock 
+
+Our stock price is likely to continue to be volatile. 
+
+Our stock price is likely to continue to be volatile and subject to wide fluctuations. In addition, technology companies in general have highly volatile stock prices, and the volatility in stock price and trading volume of securities is often unrelated or disproportionate to the financial performance of the companies issuing the securities. Factors affecting our stock price, some of which are beyond our control, include, among other factors: 
+
+&#8226; changes in the estimates of our operating results, revenue growth, or changes in recommendations by securities analysts; 
+
+&#8226; changes in the average contract term of our customer agreements, timing of renewals and renewal rates; 
+
+&#8226; our ability to meet our financial guidance or financial performance expectations of the securities analysts or investors; 
+
+&#8226; announcements of new products, services or technologies, new applications or enhancements to services, strategic alliances, acquisitions, or other significant events by us or by our competitors; 
+
+&#8226; fluctuations in company valuations, such as high-growth or cloud companies, perceived to be comparable to us; 
+
+&#8226; changes to our management team; 
+
+&#8226; trading activity by directors, executive officers and significant shareholders, or the market&#8217;s perception that large shareholders intend to sell their shares; 
+
+&#8226; the inclusion, exclusion, or removal of our stock from any major trading indices; 
+
+&#8226; the size of our market float; 
+
+&#8226; the trading volume of our common stock, including sales following the exercise of outstanding options or vesting of equity awards; 
+
+&#8226; our issuance or repurchase of shares of our common stock; 
+
+&#8226; changes in laws or regulations impacting the delivery of our services; 
+
+&#8226; significant litigation or regulatory actions; 
+
+&#8226; the amount and timing of customer payments, payment defaults, operating costs and capital expenditures 
+
+&#8226; the amount and timing of equity awards and the related financial statement expenses; 
+
+&#8226; the impact of new accounting pronouncements; 
+
+&#8226; the inability to conclude that our internal controls over financial reporting are effective; 
+
+&#8226; our ability to accurately estimate the total addressable market for our products and services; and 
+
+&#8226; overall performance of the equity markets. 
+
+Following periods of volatility in the market price of a company&#8217;s securities, securities class action litigation has often been brought against that company. Securities litigation could result in substantial costs and divert management&#8217;s attention and resources from our business. 
+
+Provisions in our governing documents or Delaware law might discourage, delay or prevent a change of control or changes in our management and, therefore, depress our stock price. 
+
+Our certificate of incorporation and bylaws contain provisions that could depress our stock price by acting to discourage, delay or prevent a change in control or changes in our management that our shareholders may deem advantageous. These provisions, among other things: 
+
+&#8226; permit our board to establish the number of directors; 
+
+&#8226; require super-majority voting to amend certain provisions in our certificate of incorporation and bylaws; 
+
+&#8226; authorize issuance of &#8220;blank check&#8221; preferred stock that our board could use to implement a shareholder rights plan; 
+
+&#8226; prohibit shareholder action by written consent, which requires all shareholder actions to be taken at a meeting; 
+
+&#8226; permit our board to make, alter or repeal our bylaws; and 
+
+&#8226; require advance notice for shareholders to submit director nominations or other business at annual shareholders meetings (although our bylaws permit shareholders proxy access). 
+
+Further, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company. Section 203 imposes certain restrictions on merger, business combinations and other transactions between us and certain shareholders. 
+
+##TABLE_START 
+
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS ##TABLE_END
+
+This section of our Annual Report on Form 10-K discusses our financial condition and results of operations for the fiscal years ended December 31, 2024 and 2023, and year-to-year comparisons between fiscal 2024 and fiscal 2023 in accordance with U.S. Generally Accepted Accounting Principles (&#8220;GAAP&#8221;). A discussion of our financial condition and results of operations for the fiscal year ended December 31, 2022 and year-to-year comparisons between fiscal 2023 and fiscal 2022 that is not included in this Annual Report on Form 10-K can be found in &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed on January 25, 2024. 
+
+Our free cash flow and non-GAAP consolidated income from operations measures included in the section entitled &#8220;&#8212;Key Business Metrics&#8212;Free Cash Flow&#8221; and &#8220;&#8212;Key Business Metrics&#8212;Non-GAAP Consolidated Income from Operations&#8221; are not in accordance with GAAP. These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. These measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We encourage investors to carefully consider our results under GAAP, as well as our supplemental non-GAAP results, to more fully understand our business. 
+
+Overview 
+
+ServiceNow was founded on a simple premise: to make work flow better. Our intelligent platform, the Now Platform, is a cloud-based solution that helps enterprises and organizations across public and private sectors digitize workflows, in line with our purpose of making the world work better for everyone. Our workflow applications built on the Now Platform are organized along four primary areas: Technology, Customer and Industry, Employee and Creator. The Now Platform is the AI platform for digital transformation. Transformations enabled by the Now Platform rapidly automate business processes across an entire enterprise by seamlessly connecting disparate departments, systems and silos to unlock productivity and improve experiences for both employees and customers. 
+
+We are closely monitoring the ongoing conflicts in Russia/Ukraine and the Middle East. While these events are still evolving and the outcomes remain highly uncertain, we do not believe these conflicts will have a material impact on our business and results of operations. However, if the conflicts continue or worsen, leading to greater global economic disruptions and uncertainty, our business and results of operations could be materially impacted. Our customers in these regions represented an immaterial portion of our net assets and total consolidated revenues both as of and for the years ended December 31, 2024 and December 31, 2023. 
+
+Additionally, other macroeconomic events, including higher interest rates, global inflation and bank failures, have led to economic uncertainty in the global economy. To mitigate risk, our cash and cash equivalents are distributed across several large financial institutions and are not concentrated in one financial institution. We have not experienced any impact to our liquidity or to our current and projected business operations and financial condition due to recent macroeconomic events. Further, we have policy restrictions on the types of securities that can be purchased as part of our available-for-sale debt securities portfolio. These restrictions take industry and company concentration limits into consideration among other things. Furthermore, the majority of our non-marketable equity investments do not have material relationships with any one financial institution, and therefore, we believe that our exposure to loss as a result of bank failure is immaterial. We will continue to monitor the direct and indirect impact of macroeconomic events on our business and financial results. 
+
+See the &#8220;Risk Factors&#8221; section in Part I, Item 1A of this Annual Report for further discussion of the possible impact of conflicts and macroeconomic events on our business and financial results . 
+
+Key Business Metrics 
+
+Remaining performance obligations. Transaction price allocated to remaining performance obligations (&#8220;RPO&#8221;) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancellable amounts that will be invoiced and recognized as revenue in future periods. RPO excludes contracts that are billed in arrears, such as certain time and materials contracts, as we apply the &#8220;right to invoice&#8221; practical expedient under relevant accounting guidance. Current remaining performance obligations (&#8220;cRPO&#8221;) represents RPO that will be recognized as revenue in the next 12 months. 
+
+As of December 31, 2024, our RPO was $22.3 billion, of which 46% represented cRPO. RPO and cRPO increased by 23% and 19%, respectively, compared to December 31, 2023. Factors that may cause our RPO to vary from period to period include the following: 
+
+&#8226; Foreign currency exchange rates . While a majority of our contracts have historically been in U.S. Dollars, an increasing percentage of our contracts in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates as of the balance sheet date will cause variability in our RPO. 
+
+&#8226; Mix of offerings . In a minority of cases, we allow our customers to host our software by themselves or through a third-party service provider. In self-hosted offerings, we recognize a portion of the revenue upfront upon the delivery of the software and as a result, such revenue is excluded from RPO. 
+
+&#160; 
+
+&#8226; Subscription start date . From time to time, we enter into contracts with a subscription start date in the future and these amounts are included in RPO if such contracts are signed by the balance sheet date. 
+
+&#160; 
+
+&#8226; Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time, customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+&#160; 
+
+&#8226; Contract duration . While we typically enter into multi-year subscription services, the duration of our contracts varies. Further, we continue to see an increase in the number of 12-month agreements entered into with the U.S. federal government throughout the year, with the highest number of agreements entered into in the quarter ended September 30, driven primarily by timing of their annual budget expenditures. We sometimes also enter into contracts with durations that have a 12-month or shorter term to enable the contracts to co-terminate with the existing contract. The contract duration will cause variability in our RPO. 
+
+Number of customers with ACV greater than $1 million. We count the total number of customers with annual contract value (&#8220;ACV&#8221;) greater than $1 million as of the end of the period. We had 2,109, 1,885, and 1,626 customers with ACV greater than $1 million as of December 31, 2024, 2023 and 2022, respectively. For purposes of customer count, a customer is defined as an entity that has a unique Dunn &#38; Bradstreet Global Ultimate (&#8220;GULT&#8221;) Data Universal Numbering System (&#8220;DUNS&#8221;) number and an active subscription contract as of the measurement date. The DUNS number is a global standard for business identification and tracking. We make exceptions for holding companies, government entities and other organizations for which the GULT, in our judgment, does not accurately represent the ServiceNow customer. For example, while all U.S. government agencies roll up to &#8220;Government of the United States&#8221; under the GULT, we count each government agency that we contract with as a separate customer. Our customer count is subject to adjustments for acquisitions, spin-offs and other market activity; accordingly, we restate previously disclosed number of customers with ACV greater than $1 million calculations to allow for comparability. ACV is calculated based on the foreign exchange rate in effect at the time the contract was signed. Foreign exchange rate fluctuations could cause some variability in the number of customers with ACV greater than $1 million. We believe information regarding the total number of customers with ACV greater than $1 million provides useful information to investors because it is an indicator of our growing customer base and demonstrates the value customers are receiving from the Now Platform. 
+
+Free cash flow. We define free cash flow, a non-GAAP financial measure, as GAAP net cash provided by operating activities plus cash outflows for legal settlements, repayments of convertible senior notes attributable to debt discount and business combination and other related costs including compensation expense, reduced by purchases of property and equipment. Purchases of property and equipment are otherwise included in cash used in investing activities under GAAP. We believe information regarding free cash flow provides useful information to investors because it is an indicator of the strength and performance of our business operations. However, our calculation of free cash flow may not be comparable to similar measures used by other companies. A calculation of free cash flow is provided below: 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2024 2023 2022 (in millions) 
+
+Free cash flow: Net cash provided by operating activities $ 4,267 $ 3,398 $ 2,723 Purchases of property and equipment (852) (694) (550) Business combination and other related costs 
+
+23 24 7 Legal settlements 
+
+17 &#8212; &#8212; Free cash flow 
+
+$ 3,455 $ 2,728 $ 2,180 ##TABLE_END
+
+We have historically seen higher collections in the quarter ended March 31 due to seasonality in timing of entering into customer contracts, which is significantly higher in the quarter ended December 31. Additionally, we have historically seen higher disbursements in the quarters ended March 31 and September 30 due to payouts under our annual commission plans, purchases under our employee stock purchase plan, payouts under our bonus plans and coupon payments related to our 2030 Notes. 
+
+Non-GAAP consolidated income from operations. Non-GAAP consolidated income from operations is identified as an additional measure of profit or loss. This non-GAAP measure is used by the chief operating decision maker to allocate resources and assess performance. We define non-GAAP consolidated income from operations as income from operations excluding certain non-cash or non-recurring items, including stock-based compensation expense, amortization of purchased intangibles, legal settlements and business combination and other related costs. We believe these adjustments provide useful supplemental information to investors and facilitate the analysis of our operating results and comparison of those results across reporting periods. The following table shows the reconciliation of our reported consolidated income from operations to non-GAAP consolidated income from operations. 
+
+##TABLE_START Year Ended December 31, 2024 2023 2022 (in millions) 
+
+GAAP income from operations 
+
+$ 1,364 $ 762 $ 355 Stock-based compensation 
+
+1,746 1,604 1,401 Amortization of purchased intangibles 
+
+94 85 80 Business combination and other related costs 
+
+33 38 24 Legal settlements 
+
+17 &#8212; &#8212; 
+
+Non-GAAP income from operations 
+
+$ 3,254 $ 2,489 $ 1,860 ##TABLE_END
+
+Renewal rate. We calculate our renewal rate by subtracting our attrition rate from 100%. Our attrition rate for a period is equal to the ACV from customers lost during the period, divided by the sum of (i) the total ACV from all customers that renewed during the period, excluding changes in price or users, and (ii) the total ACV from all customers lost during the period. Accordingly, our renewal rate is calculated based on ACV and is not based on the number of customers that have renewed. Further, our renewal rate does not reflect increased or decreased purchases from our customers to the extent such customers are not lost customers or lapsed renewals. A lost customer is a customer that did not renew an expiring contract and that, in our judgment, will not be renewed. Typically, a customer that reduces its subscription upon renewal is not considered a lost customer. However, in instances where the subscription decrease represents the majority of the customer&#8217;s ACV, we may deem the renewal as a lost customer. For our renewal rate calculation, we define a customer as an entity with a separate production instance of our service and an active subscription contract as of the measurement date, instead of an entity with a unique GULT or DUNS number. We adjust our renewal rate for acquisitions, consolidations and other customer events that cause the merging of two or more accounts occurring at the time of renewal. Our renewal rate was 98% for each of the years ended December 31, 2024, 2023 and 2022. As our renewal rate is impacted by the timing of renewals, which could occur in advance of, or subsequent to the original contract end date, period-to-period comparison of renewal rates may not be meaningful. 
+
+Critical Accounting Policies and Significant Judgments and Estimates 
+
+Our management&#8217;s discussion and analysis of financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, as well as the reported revenues and expenses during the reporting periods. These items are monitored and analyzed by us for changes in facts and circumstances, and material changes in these estimates could occur in the future. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Changes in estimates are reflected in reported results for the period in which they become known. Actual results may differ from these estimates under different assumptions or conditions and such differences could be material. 
+
+While our significant accounting policies are more fully described in Note 2 in the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K, we believe that the following accounting policies are critical to the process of making significant judgments and estimates in the preparation of our audited consolidated financial statements. 
+
+Revenue Recognition 
+
+We derive our revenues predominately from subscription revenues, which are primarily comprised of subscription fees that give customers access to the ordered subscription service, related support and updates, if any, to the subscribed service during the subscription term. For our cloud services, we recognize subscription revenues ratably over the contract term beginning on the commencement date of each contract, the date we make our services available to our customers. Our contracts with customers typically include a fixed amount of consideration and are generally non-cancellable and without any refund-type provisions. 
+
+Subscription revenues also include revenues from self-hosted offerings in which customers deploy, or we grant customers the option to deploy without significant penalty, our subscription service internally or contract with a third party to host the software. For these contracts, we account for the software element separately from the related support and updates as they are distinct performance obligations. The transaction price is allocated to separate performance obligations on a relative standalone selling price (&#8220;SSP&#8221;) basis. The transaction price allocated to the software element is recognized when transfer of control of the software to the customer is complete. The transaction price allocated to the related support and updates are recognized ratably over the contract term. 
+
+We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. For these contracts, the transaction price is allocated to the separate performance obligations on a relative SSP basis. Evaluating the terms and conditions included within our customer contracts for appropriate revenue recognition and determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. 
+
+Deferred Commissions 
+
+Deferred commissions are the incremental selling costs that are associated with acquiring customer contracts and consist primarily of sales commissions paid to our sales organization and referral fees paid to independent third parties. Commissions and referral fees earned upon the execution of initial and expansion contracts are primarily deferred and amortized over a period of benefit that we have determined to be five years consistent with prior year. Commissions earned upon the renewal of customer contracts are deferred and amortized over the average renewal term. Additionally, for self-hosted offerings, consistent with the recognition of subscription revenues for self-hosted offerings, a portion of the commission cost is expensed upfront when the self-hosted offering is made available. Determining the period of benefit, including average renewal term, requires judgment for which we take into consideration our customer contracts, our technology life cycle and other factors. 
+
+&#160; 
+
+Business Combinations 
+
+The allocation of the purchase price in a business combination requires management to make significant estimates in determining the fair value of acquired assets and assumed liabilities, especially with respect to intangible assets. The excess of the purchase price in a business combination over the fair value of these tangible and intangible assets acquired and liabilities assumed is recorded as goodwill. Critical estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows, discount rates, revenue growth rates, the time and expense to recreate the assets and profit margin a market participant would receive. These estimates are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. We evaluate these estimates and assumptions as new information is obtained and may record adjustments to the fair value of the tangible and intangible assets acquired and liabilities assumed but not later than one year from the acquisition date. 
+
+Income Taxes 
+
+&#160; 
+
+Our annual tax rate is based on our income, statutory tax rates and tax planning opportunities available to us in the various jurisdictions in which we operate. Tax laws are complex and subject to different interpretations by the taxpayer and respective government taxing authorities. Significant judgment is required in determining our tax expense (benefit) and in evaluating our tax positions, including evaluating uncertainties and the complexity of taxes on foreign earnings. We review our tax positions quarterly and adjust the balances as new information becomes available. 
+
+Deferred tax assets represent amounts available to reduce income taxes payable on taxable income in future years. Such assets arise because of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as from net operating loss and tax credit carryforwards. We evaluate the recoverability of these future tax deductions and credits by assessing the adequacy of future expected taxable income from all sources, including future growth, forecasted earnings, future taxable income, the mix of earnings in the jurisdictions in which we operate, historical earnings, taxable income in prior years, if carryback is permitted under the law, carryforward periods and prudent and feasible tax planning strategies. A valuation allowance is established if it is more likely than not that all or a portion of the deferred tax asset will not be realized. To the extent sufficient positive evidence becomes available, we may release all or a portion of our valuation allowance in one or more future periods. A release of the valuation allowance, if any, would result in the recognition of certain deferred tax assets and a material income tax benefit for the period in which such release is recorded. 
+
+We regularly assess the need for a valuation allowance against our deferred tax assets. In making that assessment, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of available evidence, whether it is more likely than not that some or all of the deferred tax assets will not be realized. As of June 30, 2023, we achieved cumulative U.S. income during the prior twelve quarters when considering pre-tax income adjusted for permanent differences and other comprehensive losses. Based on all available positive and negative evidence, having demonstrated sustained profitability which is objective and verifiable, and taking into account anticipated future earnings, we concluded it is more likely than not that our U.S. federal and state deferred tax assets will be realizable, with the exception of California. We released $1.05 billion of our valuation allowance during the year ended December 31, 2023. As of December 31, 2024 and 2023, we maintained a valuation allowance of $220 million and $196 million, respectively, against our California deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the &#8220;more likely than not&#8221; realization criteria, particularly as we expect research and development tax credit generation to exceed our ability to use the credits in future years. We will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis. Refer to Note 16 &#8220;Provision for (Benefit from) Income Taxes,&#8221; in the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information on our valuation allowance. 
+
+Our tax positions are subject to income tax audits by multiple tax jurisdictions throughout the world. We recognize the tax benefit of an uncertain tax position only if it is more likely than not the position is sustainable upon examination by the taxing authority based on the technical merits. We measure the tax benefit recognized as the largest amount of benefit which is more likely than not to be realized upon settlement with the taxing authority. We recognize interest accrued and penalties related to unrecognized tax benefits in our tax provision. Significant judgment is required to evaluate uncertain tax positions. Our evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law or guidance, correspondence with tax authorities during the course of audits and effective settlement of audit issues. Changes in the recognition or measurement of uncertain tax positions could result in material increases or decreases in our income tax expense in the period in which we make the change, which could have a material impact on our effective tax rate and operating results. 
+
+We calculate the current and deferred income tax provision based on estimates and assumptions that could differ from the actual results reflected in income tax returns filed in subsequent years and record adjustments based on filed income tax returns when identified. The amount of income taxes paid is subject to examination by U.S. federal, state and foreign tax authorities. The estimate of the potential outcome of any uncertain tax issue is subject to management&#8217;s assessment of relevant risks, facts and circumstances existing at that time. To the extent the assessment of such tax position changes, we record the change in estimate in the period in which we make the determination. 
+
+Change in Accounting Estimate 
+
+In January 2024, we completed an assessment of the useful life of our data center equipment and determined we should increase the estimated useful life of data center equipment from four to five years. This change in accounting estimate was effective beginning fiscal year 2024. Refer to Note 2 &#8220;Summary of Significant Accounting Policies,&#8221; in the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information on our change in estimated useful life of our data center equipment during 2024. 
+
+Components of Results of Operations 
+
+&#160; 
+
+Revenues 
+
+Subscription revenues . Subscription revenues are primarily comprised of fees that give customers access to the ordered subscription service for both self-hosted offerings and cloud-based subscription offerings, and related standard and enhanced support and updates, if any, to the subscription service during the subscription term. For our cloud-based offerings, we recognize revenue ratably over the subscription term. For self-hosted offerings, a substantial portion of the sales price is recognized upon delivery of the software, which may cause greater variability in our subscription revenues and subscription gross margin. Pricing includes multiple instances, hosting and support services, data backup and disaster recovery services, as well as future updates, when and if available, offered during the subscription term. We typically invoice our customers for subscription fees in annual increments upon execution of the initial contract or subsequent renewal. Our contracts are generally non-cancellable during the subscription term, though a customer can terminate for breach if we materially fail to perform. 
+
+Professional services and other revenues . Our arrangements for professional services are primarily on a time-and-materials basis, and we generally invoice our customers monthly in arrears for the professional services based on actual hours and expenses incurred. Some of our professional services arrangements are on a fixed-fee basis. Professional services revenues are recognized as services are delivered. Other revenues primarily consist of fees from customer training delivered on-site or through publicly available classes. Typical payment terms require our customers to pay us within 30 days of invoice. 
+
+We sell our subscription services primarily through our direct sales organization. We also sell services through managed service providers and resale partners. We also generate revenues from certain professional services and from training of customers and partner personnel, through both our direct team and indirect sales channel. Revenues from our direct sales organization represented 78% of our total revenues for the year ended December 31, 2024 and 79% of our total revenues for each of the years ended December 31, 2023 and 2022. For purposes of calculating revenues from our direct sales organization, revenues from systems integrators and managed services providers are included as part of the direct sales organization. 
+
+Seasonality . We have historically experienced seasonality in terms of when we enter into customer agreements. We sign a significantly higher percentage of agreements with new customers, as well as expansion with existing customers, in the fourth quarter of each year. The increase in customer agreements for the fourth quarter is primarily a result of both large enterprise account buying patterns typical in the software industry, which are driven primarily by the expiration of annual authorized budgeted expenditures, and the terms of our commission plans, which incentivize our direct sales organization to meet their annual quotas by December 31. Furthermore, we usually sign a significant portion of these agreements during the last month, and often the last two weeks, of each quarter. This seasonality of entering into customer agreements is sometimes not immediately apparent in our revenues, due to the fact that we recognize subscription revenues from our cloud offering contracts over the term of the subscription agreement, which is generally 12 to 36 months. In addition, we continue to see an increase in the number of 12-month agreements entered into with the U.S. federal government throughout the year, with the highest number of agreements entered into in the third quarter, driven primarily by the timing of their annual budget expenditures. This larger mix of contracts with 12-month renewal terms in the third quarter will generally cause variability in our RPO and cRPO in subsequent quarters until they are renewed. Although these seasonal factors may be common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance. 
+
+Cost of Revenues 
+
+Cost of subscription revenues . Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which include colocation costs associated with our data centers as well as interconnectivity between data centers, depreciation related to our infrastructure hardware equipment dedicated for customer use, amortization of intangible assets, expenses associated with software, public cloud service costs, IT services and dedicated customer support, personnel-related costs directly associated with data center operations and customer support, including salaries, benefits, bonuses, stock-based compensation and allocated overhead. 
+
+Cost of professional services and other revenues . Cost of professional services and other revenues consists primarily of personnel-related costs directly associated with our professional services and training departments, including salaries, benefits, bonuses and stock-based compensation, the costs of contracted third-party partners, travel expenses and allocated overhead. 
+
+Professional services are performed directly by our services team, as well as by contracted third-party partners. Fees paid by us to third-party partners are primarily recognized as cost of revenues as the professional services are delivered. Cost of revenues associated with our professional services engagements contracted with third-party partners as a percentage of professional services and other revenues was 24%, 10% and 12% for the years ended December 31, 2024, 2023 and 2022, respectively. 
+
+Sales and Marketing 
+
+Sales and marketing expenses consist primarily of personnel-related expenses directly associated with our sales and marketing staff, including salaries, benefits, bonuses and stock-based compensation. Sales and marketing expenses also include the amortization of commissions paid to our sales employees, including related payroll taxes and fringe benefits. In addition, sales and marketing expenses include branding expenses, marketing program expenses, which include events such as Knowledge, and costs associated with purchasing advertising and marketing data, software and subscription services dedicated for sales and marketing use and allocated overhead. 
+
+Research and Development 
+
+Research and development expenses consist primarily of personnel-related expenses directly associated with our research and development staff, including salaries, benefits, bonuses, stock-based compensation and allocated overhead. Research and development expenses also include data center capacity costs, costs associated with outside services contracted for research and development purposes and depreciation of infrastructure hardware equipment that is used solely for research and development purposes. 
+
+General and Administrative 
+
+General and administrative expenses consist primarily of personnel-related expenses for our executive, finance, legal, human resources, facilities and administrative personnel, including salaries, benefits, bonuses, stock-based compensation, external legal, accounting and other professional services fees, other corporate expenses, amortization of intangible assets and allocated overhead. 
+
+Provision for (Benefit from) Income Taxes 
+
+Provision for (benefit from) income taxes consists of federal, state and foreign income taxes. Our income tax provision for the year ended December 31, 2024 is primarily attributable to the mix of earnings and losses in countries with differing statutory tax rates, offset by excess tax benefits of stock-based compensation. We continue to maintain a valuation allowance against our California deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the &#8220;more likely than not&#8221; realization criteria, particularly as we expect research and development tax credit generation to exceed our ability to use the credits in future years. 
+
+Comparison of the years ended December 31, 2024 and 2023 
+
+Revenues 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 (dollars in millions) Revenues: Subscription $ 10,646 $ 8,680 23 % Professional services and other 338 291 16 % Total revenues $ 10,984 $ 8,971 22 % Percentage of revenues: Subscription 97 % 97 % Professional services and other 3 % 3 % Total 100 % 100 % ##TABLE_END
+
+Subscription revenues increased by $2.0 billion for the year ended December 31, 2024, compared to the prior year, primarily driven by increased purchases by new and existing customers. Included in subscription revenues is $409 million and $322 million of revenues recognized upfront from the delivery of software associated with self-hosted offerings during the years ended December 31, 2024 and 2023, respectively. 
+
+We expect subscription revenues for the year ending December 31, 2025 to increase in absolute dollars and remain relatively flat as a percentage of revenue as we continue to add new customers and existing customers increase their usage of our products compared to the year ended December 31, 2024. 
+
+Our expectations for revenues, cost of revenues and operating expenses for the year ending December 31, 2025 are based on the 31-day average of foreign exchange rates for December 31, 2024. 
+
+Subscription revenues consist of the following: 
+
+##TABLE_START Year Ended December 31, % Change 2024 2023 (dollars in millions) Digital workflow products $ 9,422 $ 7,679 23 % ITOM products 1,224 1,001 22 % Total subscription revenues $ 10,646 $ 8,680 23 % ##TABLE_END
+
+Our digital workflow products include most of our product offerings and are generally priced on a per user basis. Our remaining product offerings, primarily comprised of our IT Operations Management (&#8220;ITOM&#8221;) products, are predominantly priced on a subscription unit basis. 
+
+Professional services and other revenues increased by $47 million for the year ended December 31, 2024, compared to the prior year, due to an increase in services and trainings provided to new and existing customers. 
+
+We expect professional services and other revenues for the year ending December 31, 2025 to remain relatively flat both in absolute dollars and as a percentage of revenue compared to the year ended December 31, 2024. 
+
+Cost of Revenues and Gross Profit Percentage 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; Cost of revenues: Subscription $ 1,942 $ 1,606 21 % Professional services and other 345 315 10 % Total cost of revenues $ 2,287 $ 1,921 19 % 
+
+Gross profit (loss) percentage: 
+
+Subscription 82 % 82 % Professional services and other (2 %) (8 %) Total gross profit percentage 79 % 79 % Gross profit: $ 8,697 $ 7,050 23 % ##TABLE_END
+
+Cost of subscription revenues increased by $336 million for the year ended December 31, 2024, compared to the prior year, primarily due to increased headcount and increased costs to support the growth of our subscription offerings including costs to support customers in regulated markets. Personnel-related costs, including stock-based compensation and overhead expenses, increased by $230 million as compared to prior year. Expenses associated with software, maintenance, and other costs to support the expansion of our data center capacity increased by $85 million for the year ended December 31, 2024, as compared to prior year. 
+
+We expect our cost of subscription revenues for the year ending December 31, 2025 to increase in absolute dollars as we provide subscription services to more customers and increase usage within our customer instances and increase slightly as a percentage of revenue compared to the year ended December 31, 2024. We will continue to incur incremental costs to attract customers in regulated markets by adopting public cloud offerings as well as increased support for customers impacted by new and evolving data residency requirements. To the extent future acquisitions are consummated, our cost of subscription revenues may increase due to additional non-cash charges associated with the amortization of intangible assets acquired. 
+
+Our subscription gross profit percentage was 82% for each of the years ended December 31, 2024 and 2023. We expect our subscription gross profit percentage to decrease slightly for the year ended December 31, 2025 compared to the year ended December 31, 2024. 
+
+Cost of professional services and other revenues increased by $30 million for the year ended December 31, 2024 as compared to the prior year, primarily due to an increase in partner ecosystem investments to further accelerate customer value realization, partially offset by a decrease in fixed personnel-related costs, including stock-based compensation, due to decreased internal headcount. 
+
+Our professional services and other gross loss percentage improved to 2% for the year ended December 31, 2024, compared to 8% in the prior year, primarily due to an increase in revenue and a decrease in fixed personnel-related costs, including stock-based compensation, as we execute our strategy to shift a portion of professional services to variable spending with strategic third-party partners. We expect our professional services and other gross loss percentage to increase for the year ending December 31, 2025 compared to the year ended December 31, 2024. 
+
+Sales and Marketing 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; Sales and marketing $ 3,854 $ 3,301 17 % Percentage of revenues 35 % 37 % ##TABLE_END
+
+Sales and marketing expenses increased by $553 million for the year ended December 31, 2024, compared to the prior year, primarily due to increased headcount resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $330 million, compared to the prior year. Amortization expenses associated with deferred commissions increased by $90 million, compared to the prior year, due to an increase in contracts with new customers, expansion and renewal contracts. Other sales and marketing program expenses, which include branding, costs associated with purchasing advertising, marketing events and market data, increased by $95 million compared to the prior year, primarily due to increased program costs and travel for our annual Sales Kickoff and Knowledge user conference. 
+
+We expect sales and marketing expenses for the year ending December 31, 2025 to increase in absolute dollars and to decrease slightly as a percentage of revenue compared to the year ended December 31, 2024, as we continue to see leverage from increased sales productivity and marketing efficiencies. 
+
+Research and Development ##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; Research and development $ 2,543 $ 2,124 20 % Percentage of revenues 23 % 24 % ##TABLE_END
+
+Research and development expenses (&#8220;R&#38;D&#8221;) increased by $419 million during the year ended December 31, 2024, compared to the prior year, primarily due to increased headcount resulting in an increase in personnel-related costs including stock-based compensation and overhead expenses of $350 million compared to prior year. Outside services increased by $48 million during the year ended December 31, 2024, compared to the prior year. The remaining increase was primarily due to expenses associated with software, maintenance and other costs to support the expansion of our data center capacity of $27 million for the year ended December 31, 2024, compared to the prior year. These costs were partially offset by a decrease in program spend of $12 million for the year ended December 31, 2024, compared to the prior year. 
+
+We expect R&#38;D expenses for the year ending December 31, 2025 to increase in absolute dollars but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2024, as we continue to improve the existing functionality of our services, develop new applications to fill market needs and enhance our core platform. 
+
+General and Administrative 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; General and administrative $ 936 $ 863 8 % Percentage of revenues 9 % 10% ##TABLE_END
+
+General and administrative expenses (&#8220;G&#38;A&#8221;) increased by $73 million during the year ended December 31, 2024, compared to the prior year, primarily due to increased headcount resulting in an increase in personnel-related costs, excluding stock-based compensation, of $37 million. The remaining increase was primarily due to an increase in other corporate expenses and outside services of $67 million for the year ended December 31, 2024, compared to the prior year. These costs were partially offset by a decrease in stock-based compensation of $36 million for the year ended December 31, 2024, compared to the prior year, primarily due to the requisite service period of certain performance awards being met. 
+
+We expect G&#38;A expenses for the year ending December 31, 2025 to increase in absolute dollars but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2024, as we continue to see leverage from continued G&#38;A productivity. 
+
+Stock-based Compensation 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; Cost of revenues: Subscription $ 250 $ 202 24 % Professional services and other 46 52 (12 %) 
+
+Operating expenses: 
+
+Sales and marketing 565 505 12 % Research and development 655 579 13 % General and administrative 230 266 (14 %) Total stock-based compensation $ 1,746 $ 1,604 9 % Percentage of revenues 16 % 18 % ##TABLE_END
+
+Stock-based compensation increased by $142 million during the year ended December 31, 2024, compared to the prior year, primarily due to additional grants to current and new employees. 
+
+Stock-based compensation is inherently difficult to forecast due to fluctuations in our stock price. Based upon our stock price as of December 31, 2024, we expect stock-based compensation to continue to increase in absolute dollars for the year ending December 31, 2025 as we continue to issue stock-based awards to our employees but remain relatively flat as a percentage of revenue compared to the year ended December 31, 2024. We expect stock-based compensation as a percentage of revenue to decline over time as we continue to grow. 
+
+Foreign Currency Exchange 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues. Revenues outside North America represented 37% and 36% of total revenues for the years ended December 31, 2024 and 2023, respectively. 
+
+We primarily transact in certain foreign currencies for sales outside of the United States. The movement of the U.S. Dollar had an immaterial impact on our revenues for the year ended December 31, 2024. 
+
+In addition, we primarily transact in several foreign currencies for cost of revenues and operating expenses outside of the United States. The movement of the U.S. Dollar had an immaterial impact on our expenses for the year ended December 31, 2024. 
+
+Interest Income 
+
+##TABLE_START Year Ended December 31, % Change 2024 2023 (dollars in millions) 
+
+Interest income 
+
+$ 419 $ 302 39 % Percentage of revenues 4 % 3 % ##TABLE_END
+
+Interest income increased during the year ended December 31, 2024, compared to the prior year, primarily driven by an increase in investment income from our managed portfolio resulting from higher portfolio balances with higher interest rates. 
+
+Other Expense, net 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; Interest expense $ (23) $ (24) (4 %) Other (22) (32) (31 %) Other expense, net 
+
+$ (45) $ (56) (20 %) Percentage of revenues &#8212; % (1%) ##TABLE_END
+
+Other expense, net decreased by $11 million during the year ended December 31, 2024, compared to the prior year, primarily due to a decrease in net losses on equity investments. 
+
+To mitigate our risks associated with fluctuations in foreign currency exchange rates, we enter into foreign currency forward contracts with maturities of 12 months or less to hedge a portion of our net outstanding monetary assets and liabilities. These hedging contracts may reduce, but cannot entirely eliminate, the impact of adverse currency exchange rate movements. The gains (losses) recognized for these foreign currency forward contracts in other expense, net, were immaterial for each of the years ended December 31, 2024 and 2023. 
+
+&#160; 
+
+Provision for (benefit from) Income Taxes 
+
+##TABLE_START &#160; Year Ended December 31, % Change &#160; 2024 2023 &#160; (dollars in millions) &#160; Income before income taxes $ 1,738 $ 1,008 72 % 
+
+Provision for (benefit from) income taxes 
+
+313 (723) NM Effective tax rate 18 % (72 %) NM ##TABLE_END
+
+NM - Not meaningful 
+
+The income tax provision was $313 million for the year ended December 31, 2024. The income tax provision was primarily attributable to the mix of earnings and losses in countries with differing statutory tax rates, offset by excess tax benefits of stock-based compensation. 
+
+The income tax benefit was $723 million for the year ended December 31, 2023. The income tax benefit was primarily attributable to the release of the valuation allowance of certain U.S. federal and state deferred tax assets. We regularly assess the need for a valuation allowance against our deferred tax assets. In making that assessment, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of available evidence, whether it is more likely than not that some or all of the deferred tax assets will not be realized. As of June 30, 2023, we achieved cumulative U.S. income during the prior twelve quarters when considering pre-tax income adjusted for permanent differences and other comprehensive losses. Based on all available positive and negative evidence, having demonstrated sustained profitability which is objective and verifiable, and taking into account anticipated future earnings, we concluded it is more likely than not that our U.S. federal and state deferred tax assets will be realizable, with the exception of California. We released $1.05 billion of our valuation allowance during the year ended December 31, 2023. As of December 31, 2024, we continue to maintain a valuation allowance against our California deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the &#8220;more likely than not&#8221; realization criteria, particularly as we expect research and development tax credit generation to exceed our ability to use the credits in future years. We will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis. 
+
+Liquidity and Capital Resources 
+
+&#160; 
+
+We generate cash inflows from operations primarily from selling subscription services which are generally paid in advance of provisioning services, and expend cash outflows to develop new services and core technologies that further enhance the Now Platform, engage our customers and enhance their experience, and enable and transform our business operations. Subscription services arrangements typically have a three-year duration, and we have experienced a renewal rate of 98% for each of the years ended December 31, 2024, 2023 and 2022. Cash outflows from operations are principally comprised of the salaries, bonuses, commissions, and benefits for our workforce, licenses and services arrangements that are integral to our business operations and data centers and operating lease arrangements that underlie our facilities. We have generated positive operating cash flows for more than ten years as we continue to grow our business in pursuit of our business strategy, and we expect to grow our business and generate positive cash flows from operations during 2025. When assessing sources of liquidity, we also include cash and cash equivalents, short-term investments and long-term investments totaling $9.9 billion as of December 31, 2024. 
+
+Our capital requirements are principally comprised of capital expenditures to support data center capacity expansion, non-contract workforce salaries, bonuses, commissions, and benefits and, to a lesser extent, cancellable and non-cancellable licenses, operating leases and services arrangements that are integral to our business operations. We also acquire technology and businesses to expand our service offerings and functionality. Our capital expenditures are under cancellable and non-cancellable arrangements. Non-cancellable purchase commitments for business operations total $4.1 billion as of December 31, 2024, due primarily over the next five years. Operating lease obligations totaling $924 million are principally associated with leased facilities and have varying maturities with $558 million due over the next five years. 
+
+We may repurchase our shares of common stock in the open market, in privately negotiated transactions or by other means, with the objective to return value to our stockholders and manage the dilution from future employee equity grants and employee stock purchase programs. In May 2023, our board of directors authorized a program to repurchase up to $1.5 billion of our common stock. During the year ended December 31, 2024, the Company repurchased 0.8 million shares of our common stock for $696 million. All repurchases were made in open market transactions. Repurchases of common stock are recognized as treasury stock and held for future issuance. As of December 31, 2024, approximately $266 million of the originally authorized amount under the share repurchase program remained available for future repurchases. In January 2025, our board of directors authorized an additional $3.0 billion in repurchases under the share repurchase program. Refer to Note 13 &#8220;Stockholders&#8217; Equity&#8221; to our consolidated financial statements included in this Annual Report on Form 10-K for additional information. 
+
+We have also issued long-term debt to finance our business . In August 2020, we issued 1.40% fixed rate ten-year notes with an aggregate principal amount of $1.5 billion due on September 1, 2030 (the &#8220;2030 Notes&#8221;). 
+
+Our free cash flows, together with our other sources of liquidity, are available to service our liabilities as well as our cancellable and non-cancellable arrangements. We anticipate cash flows generated from operations, cash, cash equivalents and investments will be sufficient to meet our liquidity needs for at least the next 12 months. As we look beyond the next 12 months, we seek to continue to grow free cash flows necessary to fund our operations and grow our business. If we require additional capital resources, we may seek to finance our operations from the current funds available or additional equity or debt financing. 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2024 2023 &#160; (dollars in millions) 
+
+Net cash provided by operating activities $ 4,267 $ 3,398 Net cash used in investing activities (2,501) (2,167) Net cash used in financing activities (1,343) (803) 
+
+Net increase in cash, cash equivalents and restricted cash 
+
+406 429 ##TABLE_END
+
+Operating Activities 
+
+Net cash provided by operating activities was $4.3 billion for the year ended December 31, 2024 compared to $3.4 billion for the prior year. The net increase in operating cash flows was primarily due to higher collections driven by revenue growth. 
+
+&#160; 
+
+Investing Activities 
+
+Net cash used in investing activities for the year ended December 31, 2024 was $2.5 billion compared to $2.2 billion for the prior year. The net increase in cash used in investing activities was primarily due to a $167 million increase in net purchases of investments, a $158 million increase in purchases of property and equipment, a $106 million increase in purchases of non-marketable investments and a $37 million increase in purchases of other intangible assets, partially offset by a $166 million decrease in cash used in business combinations. 
+
+Financing Activities 
+
+&#160; 
+
+Net cash used in financing activities for the year ended December 31, 2024 was $1,343 million compared to $803 million for the prior year. The net increase in cash used in financing activities is primarily due to a $241 million increase in taxes paid related to net share settlement of equity awards, a $184 million increase in business combination related to the second installment payment in the acquisition of G2K Group GmbH and a $158 million increase in repurchases of common stock, offset by a $43 million increase in proceeds from employee stock plans. 
+
+Contractual Obligations and Commitments 
+
+Our estimated future obligations consist of leases, various non-cancellable agreements with cloud service providers and an information technology equipment provider, purchase obligations, debt and unrecognized tax benefits as of December 31, 2024. Refer to Note 17 &#8220;Commitments and Contingencies,&#8221; and Note 16 &#8220;Provision for (Benefit from) Income Taxes&#8221; to our consolidated financial statements included in this Annual Report on Form 10-K for more information. 
+

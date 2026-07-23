@@ -1,0 +1,61 @@
+# ─────────────────────────────────────────────────────────────
+# Secrets / environment variables  (never commit)
+# ─────────────────────────────────────────────────────────────
+.env
+*.env
+!.env.example
+**/.env
+!**/.env.example
+
+neo4j-start.bat
+
+# ─────────────────────────────────────────────────────────────
+# Local DB / index / build outputs
+# ─────────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+Agent/data/yearly_queries*/
+
+# ─────────────────────────────────────────────────────────────
+# Python
+# ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ─────────────────────────────────────────────────────────────
+# Node.js / web UI (TemporalRAG frontend — regenerate via `npm install`)
+# ─────────────────────────────────────────────────────────────
+node_modules/
+**/node_modules/
+.cache/
+**/.cache/
+build/
+**/build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ─────────────────────────────────────────────────────────────
+# Logs / temp / editor
+# ─────────────────────────────────────────────────────────────
+*.log
+logs/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+*_KR.md
+*_KR.txt

@@ -1,0 +1,2008 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; 
+
+The following discussion and analysis of our financial condition, results of operations and cash flows should be read in conjunction with the (1) unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, and (2) the audited consolidated financial statements and notes thereto and management&#8217;s discussion and analysis of financial condition and results of operations for the year ended December 31, 2019 included in the Annual Report on Form 10-K dated as of, and filed with the Securities and Exchange Commission (the SEC), on February 20, 2020 (File No. 001-35580). This Quarterly Report on Form 10-Q contains &#8220;forward-looking statements&#8221; within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act). These statements are often identified by the use of words such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;believe,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;could,&#8221; &#8220;estimate,&#8221; or &#8220;continue,&#8221; and similar expressions or variations. Such forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, impacts on our business and general economic conditions due to the current COVID-19 pandemic, those identified herein, and those discussed in the section titled &#8220;Risk Factors,&#8221; set forth in Part II, Item 1A of this Quarterly Report on Form 10-Q and in our other SEC filings. We disclaim any obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. 
+
+Investors and others should note that we announce material financial information to our investors using our investor relations website (https://www.servicenow.com/company/investor-relations.html), SEC filings, press releases, public conference calls and webcasts. We use these channels, as well as social media, to communicate with our investors and the public about our company, our services and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on the social media channels listed on our investor relations website. 
+
+Our free cash flow and billings measures included in the sections entitled &#8220;&#8212;Key Business Metrics&#8212;Free Cash Flow,&#8221; and &#8220;&#8212;Key Business Metrics&#8212;Billings&#8221; are not in accordance with U.S. Generally Accepted Accounting Principles (GAAP). These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. These measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We encourage investors to carefully consider our results under GAAP, as well as our supplemental non-GAAP results, to more fully understand our business. 
+
+Overview 
+
+ServiceNow&#8217;s purpose is to make the world of work, work better for people. We believe that people should work the way they want to, so we build applications that help automate existing processes and create efficient, digitized workflows. Our products and services enable the steps of a job to flow naturally across disparate departments, systems and processes of a business. When work flows naturally, great experiences follow. We primarily deliver our software via the Internet as a service through a simple and easy-to-use interface so that we can rapidly deploy our packaged offerings, and customers can easily build their custom applications. In a minority of cases, customers choose to host our software by themselves or through a third-party service provider. 
+
+We generally offer our services on an annual subscription fee basis, which includes access to the ordered subscription service and related support, including updates to the subscription service during the subscription term. Pricing for our subscription services is based on a number of factors, including duration of subscription term, volume, mix of products purchased, and discounts. We generate sales through our direct sales team and, to a lesser extent, indirectly through resale partners and third-party referrals. We also generate revenues from professional services and for training of customer and partner personnel. We are shifting the focus of our professional services organization from implementation services to strategic advisory and consulting services to accelerate platform adoption and drive customer outcomes. We generally bill our customers annually in advance for subscription services and monthly in arrears for our professional services as the work is performed. 
+
+A majority of our revenues come from large global enterprise customers. We continue to invest in the development of our services, infrastructure and sales and marketing to drive long-term growth. We increased our overall employee headcount to 11,148 as of March 31, 2020 from 8,666 as of March 31, 2019 . 
+
+In December 2019, a novel strain of Coronavirus disease (COVID-19) was reported and in January 2020, the World Health Organization (the WHO) declared the outbreak a &#8220;Public Health Emergency of International Concern.&#8221; In February 2020, the WHO raised the COVID-19 threat level from high to very high at a global level and in March 2020, the WHO characterized the COVID-19 as a pandemic. As of the filing date, the extent to which the COVID-19 pandemic may impact our financial condition or results of operations remains uncertain. While our revenues, billings and earnings are relatively predictable as a result of our subscription-based business model, the effect of the COVID-19 pandemic, along with the seasonality we historically experience, may not be fully reflected in our results of operations and overall financial performance until future periods, if at all. Also, we may experience curtailed customer demand, reduced customer spend or contract duration, lengthened payment terms that could materially adversely impact our business, results of operations and overall financial performance in future periods. The extent and continued impact of the COVID-19 pandemic on our operational and financial performance will depend on certain developments, including the duration and spread of the outbreak; government responses to the pandemic; impact on our customers and our sales cycles; impact on our customer, industry or employee events; extent of delays in hiring and onboarding new employees; and effect on our partners, vendors and supply chains, all of which are uncertain and difficult to predict. In response to the COVID-19 pandemic, we have canceled our in-person, annual Knowledge conference and replaced it with a digital event experience and postponed our Financial Analyst Day. In the first quarter of 2020, we temporarily closed most of our offices and encouraged our employees to work remotely. These changes remain in effect in the second quarter of 2020 and could extend into future quarters. The impact, if any, of these and any additional operational changes we may implement is uncertain, but changes we have implemented have not affected and are not expected to affect our ability to maintain operations, including financial reporting systems, internal control over financial reporting and disclosure controls and procedures. See the section &#8220;Risk Factors&#8221; for further discussion of the possible impact of the COVID-19 pandemic on our business. 
+
+Key Business Metrics 
+
+Number of customers with ACV greater than $1 million. We count the total number of customers with annual contract value (ACV) greater than $1 million as of the end of the period. We had 933 and 718 customers with ACV greater than $1 million as of March 31, 2020 and 2019 , respectively. For purposes of customer count, a customer is defined as an entity that has a unique Dunn &#38; Bradstreet Global Ultimate (GULT) Data Universal Numbering System (DUNS) number and an active subscription contract as of the measurement date. The DUNS number is a global standard for business identification and tracking. We make exceptions for holding companies, government entities and other organizations for which the GULT, in our judgment, does not accurately represent the ServiceNow customer. For example, while all U.S. government agencies roll up to &#8220;Government of the United States&#8221; under the GULT, we count each government agency that we contract with as a separate customer. Our customer count is subject to adjustments for acquisitions, spin-offs and other market activity; accordingly, we restate previously disclosed number of customers with ACV greater than $1 million calculations to allow for comparability. ACV is calculated based on the foreign exchange rate in effect at the time the contract was signed. Foreign exchange rate fluctuations could cause some variability in the number of customers with ACV greater than $1 million. 
+
+Remaining performance obligations. Transaction price allocated to remaining performance obligations (RPO) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancelable amounts that will be invoiced and recognized as revenue in future periods. RPO excludes contracts that are billed in arrears, such as certain time and materials contracts, as we apply the &#8220;right to invoice&#8221; practical expedient under relevant accounting guidance. 
+
+As of March 31, 2020 , our RPO was approximately $6.6 billion and we expect to recognize revenues on approximately 51% of these RPO over the following 12 months, with the balance to be recognized thereafter. Factors that may cause our RPO to vary from period to period include the following: 
+
+&#8226; 
+
+Foreign currency exchange rates . While a majority of our contracts have historically been in U.S. Dollars, an increasing percentage of our contracts in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates and volatility in the market, including those resulting from the COVID-19 pandemic, as of the balance sheet date will cause variability in our RPO. 
+
+&#8226; 
+
+Mix of offerings . In a minority of cases, we allow our customers to host our software by themselves or through a third-party service provider. In self-hosted offerings, we recognize a portion of the revenue upfront upon the delivery of the software and as a result, such revenue is excluded from RPO. 
+
+&#160; 
+
+&#8226; 
+
+Subscription start date . From time to time, we enter into contracts with a subscription start date in the future and these amounts are included in RPO if such contracts are signed by the balance sheet date. 
+
+&#160; 
+
+&#8226; 
+
+Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time, customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+&#160; 
+
+&#8226; 
+
+Contract duration . While we typically enter into multi-year subscription services, the duration of our contracts varies. We sometimes also enter into contracts with durations that have a 12-month or shorter term to enable the contracts to co-terminate with the existing contract. Additionally, we may see a reduction in contract duration as a result of the COVID-19 pandemic. The contract duration will cause variability in our RPO. 
+
+Free cash flow. We define free cash flow, a non-GAAP financial measure, as GAAP net cash provided by operating activities reduced by purchases of property and equipment. Purchases of property and equipment are otherwise included in cash used in investing activities under GAAP. We believe information regarding free cash flow provides useful information to investors because it is an indicator of the strength and performance of our business operations. However, our calculation of free cash flow may not be comparable to similar measures used by other companies. A calculation of free cash flow is provided below: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Free cash flow: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net cash provided by operating activities 
+
+$ 
+
+491,568 
+
+&#160; 
+
+$ 
+
+360,848 
+
+&#160; 
+
+% 
+
+Purchases of property and equipment 
+
+(83,207 
+
+) 
+
+&#160; 
+
+(47,124 
+
+) 
+
+&#160; 
+
+% 
+
+Free cash flow (1) 
+
+$ 
+
+408,361 
+
+&#160; 
+
+$ 
+
+313,724 
+
+&#160; 
+
+% 
+
+Billings. We define billings, a non-GAAP financial measure, as GAAP revenues recognized plus the change in total GAAP unbilled receivables, deferred revenue and customer deposits as presented on the condensed consolidated statements of cash flows. A calculation of billings is provided below: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Billings: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+1,046,340 
+
+&#160; 
+
+788,926 
+
+&#160; 
+
+% 
+
+Change in total deferred revenue, unbilled receivables and customer deposits (1) 
+
+56,850 
+
+&#160; 
+
+68,605 
+
+&#160; 
+
+(17 
+
+%) 
+
+Total billings 
+
+$ 
+
+1,103,190 
+
+&#160; 
+
+$ 
+
+857,531 
+
+&#160; 
+
+% 
+
+(1) 
+
+As presented on or derived from our condensed consolidated statements of cash flows. 
+
+Billings consists of amounts invoiced for subscription contracts with existing customers, renewal contracts, expansion contracts, contracts with new customers, and contracts for professional services and training. Factors that may cause our billings results to vary from period to period include the following: 
+
+&#8226; 
+
+Billings duration . While we typically bill customers annually for our subscription services, customers sometimes request, and we accommodate, billings with durations less than or greater than the typical 12-month term. 
+
+&#8226; 
+
+Contract start date . From time to time, we enter into contracts with a contract start date in the future, and we exclude these amounts from billings as these amounts are not included in our consolidated balance sheets, unless such amounts have been paid as of the balance sheet date. 
+
+&#8226; 
+
+Foreign currency exchange rates . While a majority of our billings have historically been in U.S. Dollars, an increasing percentage of our billings in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates and volatility in the market, including those resulting from the COVID-19 pandemic, will cause variability in our billings. 
+
+&#8226; 
+
+Timing of contract renewals . While customers typically renew their contracts at the end of the contract term, from time to time customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired. 
+
+&#8226; 
+
+Seasonality . We have historically experienced seasonality in terms of when we enter into customer agreements for our services. We sign a significantly higher percentage of agreements with new customers, as well as renewal agreements with existing customers, in the fourth quarter of each year. The increase in customer agreements for the fourth quarter is primarily a result of both the terms of our commission plans which incentivize our direct sales force to meet their annual quotas by December 31 and large enterprise account buying patterns typical in the software industry, which are driven primarily by the expiration of annual authorized budgeted expenditures. Furthermore, we usually sign a significant portion of these agreements during the last month, and often the last two weeks, of each quarter. This seasonality in the timing of entering into customer contracts is sometimes not immediately apparent in our billings, due to the fact that we typically exclude cloud-offering contracts with a future start date from our billings, unless such amounts have been paid as of the balance sheet date. Similarly, this seasonality is reflected to a much lesser extent, and sometimes is not immediately apparent in our revenues, due to the fact that we recognize subscription revenues from our cloud offering contracts over the term of the subscription agreement, which is generally 12 to 36 months. Although these seasonal factors are common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance. Further, the seasonal factors could be heightened due to the impact of the current gross domestic product contraction and other impacts unknown at this time on our customers and sales cycles caused by the COVID-19 pandemic. 
+
+While we believe billings is a useful leading indicator regarding the performance of our business, due to the factors described above, an increase or decrease in new or renewed subscriptions in a reporting period may not have an immediate impact on billings for that reporting period. 
+
+To facilitate greater year-over-year comparability in our billings results, we disclose the impact that foreign currency rate fluctuations and fluctuations in billings duration had on our billings. The impact of foreign currency rate fluctuations is calculated by translating the current period results for entities reporting in currencies other than U.S. Dollars into U.S. Dollars at the exchange rates in effect during the prior period presented, rather than the actual exchange rates in effect during the current period. The impact of fluctuations in billings duration is calculated by replacing the portion of multi-year billings in excess of 12 months during the current period with the portion of multi-year billings in excess of 12 months during the prior period presented. Notwithstanding the adjustments described above, the comparability of billings results from period to period remains subject to the impact of variations in the dollar value of contracts with future start dates and the timing of contract renewals, for which no adjustments have been presented. 
+
+Foreign currency rate fluctuations had an unfavorable impact of $12.7 million on billings for the three months ended March 31, 2020 . Changes in billings duration had a favorable impact of $1.9 million for the three months ended March 31, 2020 . 
+
+Renewal rate. We calculate our renewal rate by subtracting our attrition rate from 100%. Our attrition rate for a period is equal to the ACV from customers lost during the period, divided by the sum of (i) the total ACV from all customers that renewed during the period, excluding changes in price or users, and (ii) the total ACV from all customers lost during the period. Accordingly, our renewal rate is calculated based on ACV and is not based on the number of customers that have renewed. Further, our renewal rate does not reflect increased or decreased purchases from our customers to the extent such customers are not lost customers or lapsed renewal. A lost customer is a customer that did not renew an expiring contract and that, in our judgment, will not be renewed. Typically, a customer that reduces its subscription upon renewal is not considered a lost customer. However, in instances where the subscription decrease represents the majority of the customer&#8217;s ACV, we may deem the renewal as a lost customer. For our renewal rate calculation, we define a customer as an entity with a separate production instance of our service and an active subscription contract as of the measurement date, instead of an entity with a unique GULT or DUNS number. We adjust our renewal rate for acquisitions, consolidations and other customer events that cause the merging of two or more accounts occurring at the time of renewal. Additionally, starting in 2020, we simplified our methodology related to contracts less than 12 months to derive ACV used to calculate renewal rate. Previously disclosed renewal rates may be restated to reflect such adjustments or methodology simplification to allow for comparability. While the previously disclosed renewal rate presented this quarter was restated due to the methodology simplification to allow for comparability, there were no material changes to our previously disclosed renewal rate. Our renewal rate was 97% and 98% for the three months ended March 31, 2020 and 2019 , respectively. As our renewal rate is impacted by the timing of renewals, which could occur in advance of, or subsequent to the original contract end date, period-to-period comparison of renewal rates may not be meaningful. 
+
+Components of Results of Operations 
+
+&#160; 
+
+Revenues 
+
+Subscription revenues . Subscription revenues are primarily comprised of fees that give customers access to the ordered subscription service for both self-hosted offerings and cloud-based subscription offerings, and related support and updates, if any, to the subscription service during the subscription term. For our cloud-based offerings, we recognize revenue ratably over the subscription term. For self-hosted offerings, a substantial portion of the sales price is recognized upon delivery of the software, which may cause greater variability in our subscription revenues and subscription gross margin. Pricing includes multiple instances, hosting and support services, data backup and disaster recovery services, as well as future updates, when and if available, offered during the subscription term. We typically invoice our customers for subscription fees in annual increments upon execution of the initial contract or subsequent renewal. Our contracts are generally non-cancelable during the subscription term, though a customer can terminate for breach if we materially fail to perform. 
+
+Professional services and other revenues . Our arrangements for professional services are primarily on a time-and-materials basis and we generally invoice our customers monthly in arrears for the professional services based on actual hours and expenses incurred. Some of our professional services arrangements are on a fixed fee or subscription basis revenues are recognized as services are delivered. Other revenues primarily consist of fees from customer training delivered on-site or through publicly available classes. Typical payment terms require our customers to pay us within 30 days of invoice. 
+
+We sell our subscription services primarily through our direct sales organization. We also sell services through managed service providers and resale partners. We also generate revenues from certain professional services and from training of customers and partner personnel, through both our direct team and indirect channel sales. Revenues from our direct sales organization represented 81% and 82% of our total revenues for the three months ended March 31, 2020 and 2019 , respectively. For purposes of calculating revenues from our direct sales organization, revenues from systems integrators and managed services providers are included as part of the direct sales organization. 
+
+Allocation of Overhead Costs 
+
+Overhead costs associated with office facilities, IT and certain depreciation related to infrastructure that is not dedicated for customer use or research and development use are allocated to cost of revenues and operating expenses based on headcount. 
+
+Cost of Revenues 
+
+Cost of subscription revenues . Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which include colocation costs associated with our data centers as well as interconnectivity between data centers, depreciation related to our infrastructure hardware equipment dedicated for customer use, amortization of intangible assets, expenses associated with software, IT services and dedicated customer support, personnel-related costs directly associated with data center operations and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. 
+
+Cost of professional services and other revenues . Cost of professional services and other revenues consists primarily of personnel-related costs directly associated with our professional services and training departments, including salaries, benefits, bonuses and stock-based compensation, the costs of contracted third-party partners, travel expenses and allocated overhead. 
+
+Professional services are performed directly by our services team, as well as by contracted third-party partners. Fees paid by us to third-party partners are primarily recognized as cost of revenues as the professional services are delivered. Cost of revenues associated with our professional services engagements contracted with third-party partners as a percentage of professional services and other revenues was 11% and 15% for each of the three months ended March 31, 2020 and 2019 , respectively. 
+
+&#160; Sales and Marketing 
+
+Sales and marketing expenses consist primarily of personnel-related expenses directly associated with our sales and marketing staff, including salaries, benefits, bonuses and stock-based compensation. Sales and marketing expenses also include the amortization of commissions paid to our sales employees, including related payroll taxes and fringe benefits. From time to time, third parties provide us referrals for which we pay a referral fee. We include revenues associated with these referrals as part of revenues from our direct sales organization. Referral fees paid to these third parties are generally 10% of the customer&#8217;s net new ACV. We defer referral fees paid as they are considered incremental selling costs associated with acquiring customer contracts, and include the amortization of these referral fees in sales and marketing expense. In addition, sales and marketing expenses include branding expenses, expenses offset by proceeds related to our annual Knowledge user conference (Knowledge), other marketing program expenses, which include events other than Knowledge, and costs associated with purchasing advertising and marketing data, software and subscription services dedicated for sales and marketing use and allocated overhead. 
+
+Research and Development 
+
+&#160; 
+
+Research and development expenses consist primarily of personnel-related expenses directly associated with our research and development staff, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. Research and development expenses also include data center capacity costs, costs associated with outside services contracted for research and development purposes and depreciation of infrastructure hardware equipment that is used solely for research and development purposes. 
+
+&#160; 
+
+General and Administrative 
+
+&#160; 
+
+General and administrative expenses consist primarily of personnel-related expenses for our executive, finance, legal, human resources, facilities and administrative personnel, including salaries, benefits, bonuses and stock-based compensation, external legal, accounting and other professional services fees, other corporate expenses, amortization of intangible assets and allocated overhead. 
+
+&#160; 
+
+Provision for Income Taxes 
+
+Provision for income taxes consists of federal, state and foreign income taxes. Due to cumulative losses, we maintain a valuation allowance against our U.S. deferred tax assets as of March 31, 2020 . We consider all available evidence, both positive and negative, including but not limited to earnings history, projected future outcomes, industry and market trends and the nature of each of the deferred tax assets in assessing the extent to which a valuation allowance should be applied against our U.S. and foreign deferred tax assets. 
+
+Comparison of the Three Months Ended March 31, 2020 and 2019 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+994,702 
+
+&#160; 
+
+$ 
+
+739,986 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+51,638 
+
+&#160; 
+
+48,940 
+
+&#160; 
+
+% 
+
+Total revenues 
+
+$ 
+
+1,046,340 
+
+&#160; 
+
+$ 
+
+788,926 
+
+&#160; 
+
+% 
+
+Percentage of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Subscription revenues increased $254.7 million during the three months ended March 31, 2020 compared to the same period in the prior year, driven by increased purchases by existing customers and an increase in our customer count. Included in subscription revenues is $66.5 million and $43.0 million of revenues recognized upfront from the delivery of software associated with self-hosted offerings during the three months ended March 31, 2020 and 2019 , respectively. We expect subscription revenues for the year ending December 31, 2020 to increase in absolute dollars as we continue to add new customers and existing customers increase their usage of our products, but remain relatively flat as a percentage of total revenues compared to the year ended December 31, 2019 . However, we continue to monitor the COVID-19 pandemic carefully and its impact on customer acquisition and renewal rates. 
+
+Our expectations for revenues, cost of revenues and operating expenses for the remainder of 2020 are based on foreign exchange rates as of March 31, 2020 . 
+
+Subscription revenues consist of the following: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Digital workflow products 
+
+$ 
+
+867,285 
+
+&#160; 
+
+$ 
+
+638,657 
+
+&#160; 
+
+% 
+
+ITOM products 
+
+127,417 
+
+&#160; 
+
+101,329 
+
+&#160; 
+
+% 
+
+Total subscription revenues 
+
+$ 
+
+994,702 
+
+&#160; 
+
+$ 
+
+739,986 
+
+&#160; 
+
+% 
+
+Our digital workflow products include the Now Platform, Now IT Service Management, Now IT Business Management, Now DevOps, Now IT Asset Management, Now Security Operations, Now Integrated Risk Management, Now HR Service Delivery, Now Finance Operations Management, Now Customer Service Management, and Now Field Service Management, and are generally priced on a per user basis. Our ITOM products are generally priced on a per node (physical or virtual server) basis. In previously issued consolidated financial statements, we referred to digital workflow products as &#8220;service management products.&#8221; 
+
+Professional services and other revenues increased $2.7 million during the three months ended March 31, 2020 compared to the same period in the prior year due to an increase in services and trainings provided to new and existing customers. We expect professional services and other revenues for the year ending December 31, 2020 to increase in absolute dollars. We are increasingly focused on deploying our internal professional services organization as a strategic resource and relying on our partner ecosystem to contract directly with customers for implementation services delivery. 
+
+Cost of Revenues and Gross Profit Percentage 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+159,721 
+
+&#160; 
+
+$ 
+
+126,589 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+63,645 
+
+&#160; 
+
+59,663 
+
+&#160; 
+
+% 
+
+Total cost of revenues 
+
+$ 
+
+223,366 
+
+&#160; 
+
+$ 
+
+186,252 
+
+&#160; 
+
+% 
+
+Gross profit (loss) percentage: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Professional services and other 
+
+(23 
+
+%) 
+
+&#160; 
+
+(22 
+
+%) 
+
+&#160; 
+
+&#160; 
+
+Total gross profit percentage 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Gross profit 
+
+$ 
+
+822,974 
+
+&#160; 
+
+$ 
+
+602,674 
+
+&#160; 
+
+&#160; 
+
+Cost of subscription revenues increased $33.1 million during the three months ended March 31, 2020 compared to the same period in the prior year due to increased headcount, which resulted in an increase of $7.8 million in personnel-related costs excluding stock-based compensation, an increase of $5.5 million in stock-based compensation and an increase of $3.3 million in overhead expenses. The remaining increase of $15.4 million was primarily due to increases in depreciation expense relating to data center hardware and increases in software and maintenance costs to support the expansion of our data center capacity. We expect our cost of subscription revenues to increase in absolute dollars as we provide subscription services to more customers and increase usage within our customer instances. However, we continue to monitor the COVID-19 pandemic carefully and its impact on our customers. 
+
+Our subscription gross profit percentage was 84% and 83% for the three months ended March 31, 2020 and 2019 , respectively. The increase in revenues recognized upfront from the delivery of software associated with self-hosted offerings contributed to approximately one percentage point improvement in our subscription gross profit percentage for each of the three months ended March 31, 2020 and 2019 . We expect our subscription gross profit percentage to remain relatively flat for the year ending December 31, 2020 compared to the year ended December 31, 2019 . To the extent future acquisitions are consummated, our cost of subscription revenues may increase due to additional non-cash charges associated with the amortization of intangible assets acquired. 
+
+Cost of professional services and other revenues increased $4.0 million during the three months ended March 31, 2020 as compared to the same period in the prior year, primarily due to increased headcount resulting in an increase of $2.2 million in personnel-related costs excluding stock-based compensation and an increase of $2.1 million in stock-based compensation. 
+
+Our professional services and other gross loss percentage increased to 23% for the three months ended March 31, 2020 , from 22% for the three months ended March 31, 2019 , primarily due to stock-based compensation and other personnel-related costs increasing at a higher rate than professional services and other revenues as we continue to invest in specialized resources to support our expanding product portfolio and new on-demand training, increasing the training content available online. 
+
+Sales and Marketing 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing 
+
+$ 
+
+441,234 
+
+&#160; 
+
+$ 
+
+361,409 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Sales and marketing expenses increased $79.8 million during the three months ended March 31, 2020 compared to the same period in the prior year, primarily due to increased headcount resulting in an increase of $28.0 million in personnel-related costs excluding stock-based compensation and commissions, an increase of $8.0 million in stock-based compensation and an increase of $11.5 million in overhead expenses. Amortization expenses associated with deferred commissions and third-party referral fees increased $9.8 million during the three months ended March 31, 2020 compared to the same period in the prior year, due to an increase in contracts with new customers, expansion and renewal contracts. Other sales and marketing program expenses, which include events other than Knowledge, branding expenses and costs associated with purchasing advertising and market data, increased by $10.5 million during the three months ended March 31, 2020 compared to the same period in the prior year. Outside services costs increased $3.2 million during the three months ended March 31, 2020 compared to the same period in the prior year. As of March 31, 2020 , in response to the COVID-19 pandemic, we canceled our in-person, annual Knowledge conference and certain other events to be replaced with digital events or postponed to future periods. As a result, we recognized $8.4 million in expenses related to costs incurred in preparation of these events that are no longer recoverable. 
+
+Amid the regulatory restrictions imposed by governments worldwide in response to the COVID-19 pandemic in March 2020, we temporarily closed most of our offices to ensure the well-being and safety of our global employees, office staff and communities, and encouraged our employees to work remotely and limit travel. Further, we have canceled certain events and either replaced them with digital events or postponed them to future periods. Given the unprecedented nature of this pandemic and the uncertainty around its duration, we expect sales and marketing expenses to decrease as a percentage of total revenues given the reduction in expenses arising from travel that has occurred during the three months ended March 31, 2020 and is expected to continue to occur for the year ending December 31, 2020 . However, we intend to continue to expand our direct sales organization, increase our marketing activities, grow our international operations and build brand awareness. We expect sales and marketing expenses to increase in absolute dollars for the year ending December 31, 2020 compared to the year ended December 31, 2019 . 
+
+Research and Development 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+$ 
+
+226,657 
+
+&#160; 
+
+$ 
+
+172,522 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Research and development expenses increased $54.1 million during the three months ended March 31, 2020 compared to the same period in the prior year, primarily due to increased headcount, which resulted in an increase of $27.4 million in personnel-related costs excluding stock-based compensation, an increase of $15.3 million in stock-based compensation and an increase of $9.2 million in overhead expenses. The remaining increase of $1.8 million was primarily due to increases in data center capacity and depreciation costs that is used for research and development purposes . 
+
+We expect research and development expenses for the year ending December 31, 2020 to increase in absolute dollars as we continue to improve the existing functionality of our services, develop new applications to fill market needs and enhance our core platform, but remain relatively flat as a percentage of total revenues compared to the year ended December 31, 2019 . 
+
+General and Administrative 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+General and administrative 
+
+$ 
+
+105,748 
+
+&#160; 
+
+$ 
+
+84,456 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative expenses increased $21.3 million during the three months ended March 31, 2020 compared to the same period in the prior year due to increased headcount, which resulted in an increase of $11.8 million in personnel-related costs excluding stock-based compensation and an increase of $4.1 million in overhead expenses. Outside services increased by $2.9 million compared to the prior period, primarily due to an increase in acquisitions related expenses and an increase in contractors and professional fees to support our administrative function. In addition, in March 2020 we agreed to amend the employment agreement with our Chief Executive Officer to provide for a payment of $3.9 million, which amount restores the benefit of a non-competition payment which our Chief Executive Officer was entitled to receive from his prior employer. 
+
+&#160; 
+
+We expect general and administrative expenses to increase in absolute dollars for the year ending December 31, 2020 as we continue to hire new employees, but remain relatively flat as a percentage of total revenues compared to the year ended December 31, 2019 . 
+
+Stock-based Compensation 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Cost of revenues: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Subscription 
+
+$ 
+
+21,524 
+
+&#160; 
+
+$ 
+
+16,022 
+
+&#160; 
+
+% 
+
+Professional services and other 
+
+12,012 
+
+&#160; 
+
+9,931 
+
+&#160; 
+
+% 
+
+Sales and marketing 
+
+70,160 
+
+&#160; 
+
+62,130 
+
+&#160; 
+
+% 
+
+Research and development 
+
+58,903 
+
+&#160; 
+
+43,582 
+
+&#160; 
+
+% 
+
+General and administrative 
+
+25,686 
+
+&#160; 
+
+25,785 
+
+&#160; 
+
+% 
+
+Total stock-based compensation 
+
+$ 
+
+188,285 
+
+&#160; 
+
+$ 
+
+157,450 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+Stock-based compensation increased $30.8 million during the three months ended March 31, 2020 compared to the same period in the prior year, primarily due to additional grants to current and new employees and increased weighted-average grant date fair value of stock awards. 
+
+Stock-based compensation is inherently difficult to forecast due to fluctuations in our stock price. Based upon our stock price as of March 31, 2020 , we expect stock-based compensation to continue to increase in absolute dollars for the year ending December 31, 2020 as we continue to issue stock-based awards to our employees, but remain relatively flat as a percentage of total revenues compared to the year ended December 31, 2019 . 
+
+Foreign Currency Exchange 
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues. Revenues outside North America represented 33% of total revenues for each of the three months ended March 31, 2020 and 2019 . Because we primarily transact in foreign currencies for sales outside of the United States, the general strengthening of the U.S. Dollar, noticeable in the second half of March 2020 as a result of the market disruptions caused by the COVID-19 pandemic, relative to other major foreign currencies (primarily the Euro and British Pound Sterling) had an unfavorable impact on our revenues for the three months ended March 31, 2020 . For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the three months ended March 31, 2020 at the exchange rates in effect for the three months ended March 31, 2019 rather than the actual exchange rates in effect during the period, our reported subscription revenues would have been $11.6 million higher . The impact from the foreign currency movements from the three months ended March 31, 2019 to the three months ended March 31, 2020 was not material for professional services and other revenues. 
+
+In addition, because we primarily transact in foreign currencies for cost of revenues and operating expenses outside of the United States, the general strengthening of the U.S. Dollar relative to other major foreign currencies (primarily the Euro and British Pound Sterling) had a favorable impact on our cost of revenues and sales and marketing expenses for the three months ended March 31, 2020 . For entities reporting in currencies other than the U.S. Dollar, if we had translated our results for the three months ended March 31, 2020 at the exchange rates in effect for the three months ended March 31, 2019 rather than the actual exchange rates in effect during the period, our reported cost of revenues and sales and marketing expenses would have been $2.7 million and $3.5 million higher , respectively. The impact from the foreign currency movements from the three months ended March 31, 2019 to the three months ended March 31, 2020 is not material to research and development expenses and general and administrative expenses. 
+
+Interest Expense 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+$ 
+
+(8,570 
+
+) 
+
+&#160; 
+
+$ 
+
+(8,168 
+
+) 
+
+&#160; 
+
+% 
+
+Percentage of revenues 
+
+(1 
+
+%) 
+
+&#160; 
+
+(1 
+
+%) 
+
+&#160; 
+
+&#160; 
+
+Interest expense increased &#160; $0.4 million during the three months ended March 31, 2020 compared to the same period in the prior year, due to the amortization expense of debt discount and issuance costs related to the 2020 Notes. For the year ending December 31, 2020 , we expect to incur approximately $26.3 million in amortization expense of debt discount and issuance costs related to the 2022 Notes. 
+
+Interest Income and Other Income, net 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Interest income 
+
+$ 
+
+14,013 
+
+&#160; 
+
+$ 
+
+12,506 
+
+&#160; 
+
+% 
+
+Foreign currency exchange loss, net of derivative contracts 
+
+(6,545 
+
+) 
+
+&#160; 
+
+(123 
+
+) 
+
+&#160; 
+
+NM 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+NM 
+
+Interest and other income, net 
+
+$ 
+
+7,597 
+
+&#160; 
+
+$ 
+
+12,425 
+
+&#160; 
+
+(39 
+
+%) 
+
+Percentage of revenues 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+NM - Not meaningful. 
+
+&#160; 
+
+Interest income and other income, net decreased $4.8 million during the three months ended March 31, 2020 compared to the same period in the prior year, primarily driven by the foreign currency exchange loss, net of derivative contracts of $6.5 million during the three months ended March 31, 2020 partially offset by an increase of $1.5 million in interest income due to higher cash, cash equivalents and investment balances offset by lower yield for the three months ended March 31, 2020 . 
+
+To mitigate our risks associated with fluctuations in foreign currency exchange rates, we enter into foreign currency derivative contracts with maturities of 12 months or less to hedge a portion of our net outstanding monetary assets and liabilities. These hedging contracts may reduce, but cannot entirely eliminate, the impact of adverse currency exchange rate movements. 
+
+Provision for (Benefit from) Income Taxes 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+% Change 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+&#160; 
+
+&#160; 
+
+Income (loss) before income taxes 
+
+$ 
+
+48,362 
+
+&#160; 
+
+$ 
+
+(11,456 
+
+) 
+
+&#160; 
+
+NM 
+
+Provision for (benefit from) income taxes 
+
+&#160; 
+
+(9,911 
+
+) 
+
+&#160; 
+
+NM 
+
+Effective tax rate 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+NM - Not meaningful. 
+
+Our income tax expense was $0.1 million for the three months ended March 31, 2020 , primarily attributable to foreign taxes, a valuation allowance release resulting from an acquisition and excess tax benefits of stock-based compensation. 
+
+Our income tax benefit was $9.9 million for the three months ended March 31, 2019 , primarily attributable to foreign taxes and the mix of earnings and losses in countries with differing statutory tax rates. 
+
+Governments in certain countries where we do business have enacted legislation in response to the COVID-19 pandemic, including the Coronavirus Aid, Relief, and Economic Security Act (the &#8220;CARES Act&#8221;) enacted by the United States on March 27, 2020. We are continuing to analyze these legislative developments and believe that they have not had a material impact on our provision for income taxes for the three months ended &#160; March 31, 2020 . 
+
+We continue to maintain a full valuation allowance on our U.S. federal and state deferred tax assets and the significant components of the tax expense recorded are current cash taxes payable in various jurisdictions. The cash tax expenses are impacted by each jurisdiction&#8217;s individual tax rates, laws on timing of recognition of income and deductions, and availability of net operating losses and tax credits. Given the full valuation allowance, sensitivity of current cash taxes to local rules and our foreign structuring, we expect that our effective tax rate could fluctuate significantly on a quarterly basis and could be adversely affected to the extent earnings are lower than anticipated in countries that have lower statutory rates and higher than anticipated in countries that have higher statutory rates. 
+
+Liquidity and Capital Resources 
+
+Our principal sources of liquidity are our cash and cash equivalents, investments, and cash generated from operations. As of March 31, 2020 , we had $1.9 billion in cash and cash equivalents and short-term investments, of which $254.9 million represented cash held by foreign subsidiaries and $216.1 million is denominated in currencies other than U.S. Dollar. In addition, we had $1.1 billion in long-term investments that provide additional capital resources. We do not anticipate that we will need funds generated from foreign operations to fund our domestic operations. 
+
+In May and June 2017, we issued the 2022 Notes with an aggregate principal amount of $782.5 million. In connection with the issuance of the 2022 Notes, we entered into the 2022 Note Hedge transactions and 2022 Warrants transactions with certain financial institutions. The price of our common stock was greater than or equal to 130% of the conversion price of the 2022 Notes for at least 20 trading days during the 30 consecutive trading days ending on the last trading day of the quarters ended June 30, 2018 through March 31, 2020, except for the quarter ended December 31, 2018. Therefore, our 2022 Notes became convertible at the holders&#8217; option beginning on July 1, 2018 and continue to be convertible through June 30, 2020, except for the quarter ended March 31, 2019 because the Conversion Condition for the 2022 Notes was not met for the quarter ended December 31, 2018. The impact of the 2022 Notes on our liquidity will depend on the settlement method we elect. We currently intend to settle the principal amount of any converted 2022 Notes in cash. During the three months ended March 31, 2020 , we paid cash to settle approximately $2.5 million in principal amount of the 2022 Notes. Based on conversion requests we have received through the filing date, we expect to settle in cash an aggregate of approximately $15.2 million in principal amount of the 2022 Notes during the second quarter of 2020. We may receive additional conversion requests that require settlement in the second quarter of 2020. 
+
+During the three months ended March 31, 2019 , we issued approximately 2.7 million shares of our common stock upon the automatic exercise of a portion of the 2018 Warrants. We issued 1.6 million additional shares of our common stock upon the automatic exercise of the remaining 2018 Warrants during the second quarter of 2019. The 2018 Warrants were no longer outstanding as of the second quarter of 2019. We expect to issue additional shares of our common stock in the second half of 2022 upon the automatic exercise of the 2022 Warrants. As the 2022 Warrants will be net share settled, there will be no impact on our liquidity. The total number of shares of our common stock we will issue depends on the daily volume-weighted average stock prices over a 60 trading day period beginning on the first expiration date of the 2022 Warrants, which will be September 1, 2022. Refer to Note 10 in the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+
+Cash from operations could be affected by various risks and uncertainties, including, but not limited to, the effects of the COVID-19 pandemic and other risks detailed in Part II, Item 1A titled &#8220;Risk Factors&#8221;. However, we anticipate our current cash, cash equivalents and investment balances and anticipated cash flows generated from operations based on our current business plan and revenue prospects will be sufficient to meet our liquidity needs, including the repayment of any early conversions of our 2022 Notes, expansion of data centers, lease obligations, expenditures related to the growth of our headcount and the acquisition of property and equipment, intangibles, and investments in office facilities, to accommodate our operations for at least the next 12 months. Whether these resources are adequate to meet our liquidity needs beyond that period will depend on our growth, operating results, cash utilized for acquisitions and/or debt retirements if any are consummated, and the capital expenditures required to meet possible increased demand for our services. If we require additional capital resources to grow our business at any time in the future, we may seek to finance our operations from the current funds available or seek additional equity or debt financing. 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(dollars in thousands) 
+
+Net cash provided by operating activities 
+
+$ 
+
+491,568 
+
+$ 
+
+360,848 
+
+Net cash used in investing activities 
+
+(385,034 
+
+) 
+
+(200,873 
+
+) 
+
+Net cash used in financing activities 
+
+(61,028 
+
+) 
+
+(86,400 
+
+) 
+
+Net increase in cash, cash equivalents and restricted cash, net of foreign currency effect 
+
+34,857 
+
+74,654 
+
+Operating Activities 
+
+Cash provided by operating activities mainly consists of our net income (loss) adjusted for repayments of convertible senior notes attributable to debt discount, certain non-cash items, including depreciation and amortization, amortization of deferred commissions, amortization of issuance cost and debt discount, stock-based compensation and changes in operating assets and liabilities during the year. 
+
+Net cash provided by operating activities was $491.6 million for the three months ended March 31, 2020 compared to $360.8 million for the three months ended March 31, 2019 . The increase in operating cash flow was primarily due to an increase in net income compared to the same period in the prior year and an increase in adjustments for non-cash items to reconcile net income (loss) to net cash provided by operations, driven by stock-based compensation from increased headcount and depreciation and amortization from increased capital expenditures to support the business growth offset by the unfavorable impact on operating cash flow from changes in operating assets and liabilities. 
+
+Investing Activities 
+
+&#160; 
+
+Net cash used in investing activities for the three months ended March 31, 2020 was $385.0 million compared to $200.9 million for the three months ended March 31, 2019 . The increase in cash used in investing activities was mainly due to an $82.9 million increase in cash outflow for business combinations, a $39.4 million increase in net purchases of investments and a $36.1 million increase in capital expenditures. 
+
+Financing Activities 
+
+&#160; 
+
+Net cash used in financing activities was $61.0 million for the three months ended March 31, 2020 compared to $86.4 million for the three months ended March 31, 2019 . The decrease in cash used in financing activities is primarily due to a $13.8 million increase in proceeds from employee plans, a $13.8 million decrease in taxes paid related to net share settlement of equity awards, partially offset by a $2.2 million repayment of convertible senior notes during the three months ended March 31, 2019 . 
+
+&#160; 
+
+Contractual Obligations and Commitments 
+
+&#160; 
+
+Except as set forth in Note 16 , Commitments and Contingencies, of the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q , there have been no material changes outside the ordinary course of business in the contractual obligations and commitments disclosed in our Annual Report on 10-K for the year ended December 31, 2019 , which was filed with the SEC on February 20, 2020. 
+
+Off-Balance Sheet Arrangements 
+
+During all periods presented, we did not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for purposes of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in those types of relationships. 
+
+Critical Accounting Policies and Significant Judgments and Estimates 
+
+There have been no changes to our critical accounting policies and estimates as described in our Annual Report on Form 10-K for the year ended &#160; December 31, 2019 , which was filed with the SEC on February 20, 2020. 
+
+New Accounting Pronouncements Pending Adoption 
+
+The impact of recently issued accounting standards is set forth in Note 2 , Summary of Significant Accounting Policies, of the notes to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+
+
+
+ ITEM 1A. RISK FACTORS 
+
+Investing in our securities involves a high degree of risk. You should consider carefully the risks and uncertainties described below, together with all of the other information in this Quarterly Report on Form 10-Q, including our condensed consolidated financial statements and related notes, before making an investment decision. We have identified the following risks and uncertainties that may have a material adverse effect on our business, financial condition, results of operations and future prospects. Our business could be harmed by any of these risks. Our stock price could decline due to any of these risks, and you may lose all or part of your investment. 
+
+The extent to which the ongoing COVID-19 pandemic, including the resulting global economic uncertainty, and measures taken in response to the pandemic could continue to impact our business and future results of operations and financial condition will depend on future developments, which are highly uncertain and difficult to predict. 
+
+The COVID-19 pandemic has disrupted the flow of the economy and put unprecedented strains on governments, health care systems, educational institutions, businesses and individuals around the world. The impact on the global population and the duration of the COVID-19 pandemic is difficult to assess or predict. It is even more difficult to predict the impact on the global economic market, which will be highly dependent upon the actions of governments, businesses and other enterprises in response to the pandemic and the effectiveness of those actions. The pandemic has already caused, and is likely to result in further, significant disruption of global financial markets and economic uncertainty. In a recession, depression or other sustained adverse market events resulting from the spread of the COVID-19 could materially and adversely affect our business and the value of our common stock. 
+
+Our customers or potential customers, particularly in industries most impacted by the COVID-19 pandemic including transportation, hospitality, retail and energy, may reduce their IT spending or delay their digital transformation initiatives, which could materially and adversely impact our business. We may also experience curtailed customer demand, reduced customer spend or contract duration, delayed collections, lengthened payment terms and increased competition due to changes in terms and conditions and pricing of our competitors&#8217; products and services that could materially adversely impact our business, results of operations and overall financial performance in future periods. 
+
+In response to the COVID-19 pandemic, we have temporarily closed most of our offices (including our headquarters) around the world, encouraged our employees to work remotely, implemented travel restrictions for all non-essential business, and shifted certain of our customer, industry, analyst, investor, and employee events to virtual-only experiences and we may deem it advisable to similarly alter, postpone or cancel entirely additional events in the future. For example, we have canceled our in-person, annual Knowledge conference and replaced it with a digital event experience and postponed our Financial Analyst Day. Certain costs incurred in preparation for these events could not be recovered. If the COVID-19 pandemic worsens, especially in regions in which we have material operations or sales, our business activities originating from affected areas, including sales-related activities, could be adversely affected. Disruptive activities could include business closures in impacted areas, further restrictions on our employees&#8217; and other service providers&#8217; ability to travel, impacts to productivity if our employees or their family members experience health issues, and potential delays in hiring and onboarding of new employees. The COVID-19 pandemic could also impact our data center operations, including potential disruptions to the supply chain of hardware needed to maintain these third-party systems, and primary vendors we rely on for products and services that allow our employees to work remotely. Further, we may experience increased cyberattacks and security challenges as our global employee base works remotely. 
+
+The extent and continued impact of the COVID-19 pandemic on our business will depend on certain developments including the duration and spread of the outbreak; government responses to the pandemic; impact on our customers and our sales cycles; impact on our customer, industry or employee events; and effect on our partners, vendors and supply chains, all of which are uncertain and cannot be predicted. While our revenues, billings and earnings are relatively predictable as a result of our subscription-based business model, the effect of the COVID-19 pandemic may not be fully reflected in our results of operations and overall financial performance until future periods. 
+
+In addition, we have seen significant volatility in the global markets, as well as significant interest rate and foreign currency volatility. As a result, the trading prices for our common stock and other S&#38;P 500 and technology companies have been highly volatile, and such volatility may continue for the duration of and possibly beyond the COVID-19 pandemic. 
+
+Risks Related to Our Ability to Grow Our Business 
+
+We participate in intensely competitive markets, and if we do not compete effectively, our business and operating results will be harmed. 
+
+The markets for our enterprise cloud solutions are rapidly evolving and highly competitive, with relatively low barriers to entry. As the market for digital workflow products matures and new technologies and competitors enter the market, we expect competition to intensify. Our current competitors include: 
+
+&#8226; 
+
+large, well-established, enterprise application software vendors and large integrated systems vendors; 
+
+&#8226; 
+
+new entrants to the market developing technologies to solve similar problems in different ways; 
+
+&#8226; 
+
+solutions developed in-house by our potential customers or using integrations with other tools; 
+
+&#8226; 
+
+vendors of infrastructure-as-a-service, platform-as-a-service and development operations; and 
+
+&#8226; 
+
+established and emerging cloud vendors. 
+
+Many prospective customers have invested substantial personnel and financial resources to implement and integrate their current enterprise software into their businesses and therefore may be reluctant or unwilling to migrate away from their current solution to ours. Many of our competitors and potential competitors are larger and have greater name recognition, longer operating histories, more established customer relationships (including at the executive level of large enterprises where decision-making authority is held), larger marketing budgets and greater resources than we do. While we believe that our platform and products can largely be complementary to large and established systems that traditionally operate as &#8220;systems of record,&#8221; competitors may try to enter our space. They may be able to respond more quickly and effectively than we can to new or changing opportunities, technologies, standards, customer requirements and buying practices. They may utilize acquisitions, integrations or consolidations to offer integrated or bundled products, enhanced functionality or other advantages. They may reduce the price of products or subscriptions that compete with ours or may bundle them with other products and subscriptions, causing our products to appear relatively more expensive. They may also invest in industry-specific solutions that purport to provide a unique solution for that industry. Other potential competitors not currently offering competitive products may expand their services to compete with our services, or we may shift our products and services to compete with current and future competitors in adjacent markets. We have in the past expanded, and we expect to continue to expand the breadth of our services to include offerings in new markets and the use of our platform by developers of custom applications. As a result, we expect increasing competition from platform vendors and application development vendors focused on these other markets. Smaller competitors and new entrants may accelerate pricing pressures, including in the ITSM market, which is our more mature offering and from which we derive a large portion of our revenues. For all of these reasons, we may not be able to compete successfully, and competition could result in reduced sales, reduced margins, losses or the failure of our products to achieve or maintain market acceptance, any of which could harm our business. 
+
+Privacy laws and concerns, evolving regulation of cloud computing, cross-border data transfer restrictions, other foreign and domestic regulations and standards related to data and the Internet may adversely affect our business. 
+
+National and local governments or agencies have in the past adopted, and may in the future adopt, laws and regulations affecting data privacy, the use of the Internet as a commercial medium, the use of data in contexts referred to as artificial intelligence and machine learning, and data sovereignty requirements concerning the location of data centers that store and process data. As a cloud based service provider, we optimize performance of our products and services by utilizing data centers that may be located in different political jurisdictions. In addition, we utilize data concerning the use of our products and services to continually improve our offering. Changing laws, regulations and standards applying to the collection, use, sharing, transfer or other processing of data, including personal data, could affect our ability to develop our products and services to maximize their utility, as well as our customers&#8217; ability to use data or share data with service providers. Such changes may restrict our ability to use, store or otherwise process data of our customers in connection with providing and supporting our services. In some cases, this could impact our ability to offer our services in certain locations or our customers&#8217; ability to deploy our services globally. Examples of recent changes include: 
+
+&#8226; 
+
+In 2016, the European Union (the EU) adopted the General Data Protection Regulation (the GDPR), which took effect in May 2018 and established new requirements applicable to the handling of personal data. The particular obligations imposed by GDPR are subject to interpretation, and different regulators may interpret requirements inconsistently. Further, laws such as the EU&#8217;s proposed e-Privacy Regulation are increasingly aimed at the use, the tracking of individuals&#8217; online activities and the &#8220;right to be forgotten,&#8221; requiring a company to delete personal data it processes about individuals upon their request in certain circumstances. 
+
+&#8226; 
+
+In January 2020, Britain exited the EU (Brexit). Although we do not believe Brexit will require us to alter our operations in any material way to comply with privacy regulations in the EU and the United Kingdom (the UK), Brexit has and may continue to cause uncertainty for our customers. 
+
+&#8226; 
+
+In early 2020, the European Court of Justice is expected to give its ruling on a case regarding the validity of the Privacy Shield framework and the Standard Contractual Clauses (the SCCs), which are lawful transfer mechanisms for transferring personal data from the EU to the US (under the Privacy Shield framework) and other third countries deemed to have inadequate protection by the European Commission (under the SCCs). While we do not believe there will be any material impact to our business if the Privacy Shield is invalidated, there may be an impact to our ability to process personal data in certain jurisdictions where we operate if the SCCs are invalidated by the European Court of Justice. 
+
+&#8226; 
+
+In January 2020,the California Consumer Privacy Act (the CCPA) in the US took effect and broadly defines personal information and provides California consumers increased privacy rights and protections. The CCPA, among other things, affords California consumers new abilities to opt out of certain sales of personal information. Legislators have amended the CCPA since it passed in 2018 and implementing regulations are yet to be finalized by the California Attorney General. In addition, other nations and U.S. states and the federal government have discussed, are passing or may pass, future legislation similar to the GDPR and/or the CCPA, or with other data localization or sovereignty requirements. 
+
+&#8226; 
+
+Both US and non-US governments are considering the use of artificial intelligence and machine learning in both consumer and business contexts and whether there is any need for regulation in these areas. 
+
+The costs of compliance with, and other obligations imposed by, the GDPR the CCPA and other privacy, data residency and data transfer laws, regulations and standards may cause us to incur substantial operational costs or require us to modify our data handling practices and/or policies, may limit the development, use and adoption of our services and reduce overall demand for our services. In addition, non-compliance could result in proceedings or investigations against us by regulatory authorities or others, lead to significant fines or reputational harm and may otherwise adversely impact our business, financial condition and operating results. If we fail to comply with the GDPR or if regulators assert that we have failed to comply with the GDPR, we may be subject to fines of up to 4% of our worldwide annual revenue. Changes in our developed or acquired products and how such products utilize data could alter or increase our compliance requirements. As a result, the cost of compliance with and other obligations imposed by privacy regulations could increase and our innovation and business drivers in developing or acquiring new and emerging technologies and the demand for our products could be impacted. 
+
+In addition to government activity, privacy advocacy groups and other technology and industry groups have established or may establish various new or different self-regulatory standards that may place additional obligations on us. Our customers may expect us to meet voluntary certifications or adhere to other standards established by third parties. If we are unable to maintain these certifications or meet these standards, it could reduce demand for our products and adversely affect our business. 
+
+If we do not accurately predict, prepare for, and respond promptly to rapidly evolving technological, market and customer developments, our competitive position and business prospects may be harmed. 
+
+We compete in markets that continue to evolve rapidly. The pace of innovation will continue to accelerate as customers increasingly base their purchases on digital technologies and capabilities, including public and private cloud solutions and infrastructure, massively scalable databases, mobile, consumer product-like user experiences, social, collaboration, machine learning, artificial intelligence, Internet-connected devices, high-velocity robotic automation, security, cryptography, internal software development operations, and application and service awareness. Our customers and prospective customers must choose among competing imperatives to adopt digital technologies, or have been built on fully-digital, modern, dynamic IT technologies. Accordingly, to compete effectively, we must: identify and innovate in the right emerging technologies, knowing that we cannot make substantial investments in all of them; accurately predict our customers&#8217; changing business needs, priorities and adoption practices, including their technology infrastructures and buying and budgetary practices; invest in and continually optimize our own technology platform so that it continues to meet the very high performance expectations of our customers; successfully deliver new, scalable platform and database technologies and products to meet these needs and priorities; efficiently integrate with other technologies within our customers&#8217; digital environments; expand our offerings into industries and to buyers who are not familiar with our offerings; profitably market and sell products to companies and buyers in markets where our sales and marketing teams have less experience, including to companies built on fully-digital, modern, dynamic IT technologies that have not been strong buyers of ITSM and ITOM products; and effectively deliver, either directly or through our partner ecosystem, the business process planning, IT systems architecture planning, and product implementation services that our customers require to be successful. If we fail to meet any of these requirements, our competitive position, strategic relevance and business prospects may be harmed. 
+
+Delays in the release of, or actual or perceived defects in, new or updated products may slow the adoption of our most recent technologies, reduce our ability to efficiently provide our services, decrease customer satisfaction, and adversely impact sales of additional products to our customers. 
+
+We must successfully continue to release new products and updates to existing products. The success of any release depends on a number of factors, including our ability to manage the risks associated with quality or other defects or deficiencies, delays in the timing of releases or the adoption of releases by customers, and other complications that may arise during the early stages of introduction. If releases are delayed or if customers perceive that our releases contain bugs or other defects or are difficult to implement, customer adoption of our new products or updates may be adversely impacted, customer satisfaction may decrease, our ability to efficiently provide our services may be reduced, and our growth prospects may be harmed. 
+
+We do business with federal, state and local governments and agencies, and heavily-regulated U.S. and foreign organizations; as a result, we face risks related to the procurement process, budget decisions driven by statutory and regulatory determinations, termination of contracts, and compliance with government contracting requirements. 
+
+We provide products and services to the U.S. government, state and local governments and heavily-regulated organizations directly and through our partners. We have made, and may continue to make, significant investments to support future sales opportunities in the federal, state and local government sectors. This includes obtaining additional cloud security certification requirements for the ServiceNow GovCommunityCloud, such as the U.S. Federal Risk and Authorization Management Program (FedRAMP) High Impact Provisional Authority to Operate (P-ATO) from the Joint Authorization Board, and the U.S. Department of Defense Impact Level 4 P-ATO in the Security Requirements Guide for cloud computing by the Defense Information Systems Agency. However, government certification requirements may change, or we may be unable to achieve or sustain one or more government certifications, including those mentioned above. As a result, our ability to sell into the government sector could be restricted until we obtain such certifications. 
+
+A substantial majority of our sales to date to government entities have been made indirectly through our distribution and reseller partners. Doing business with government entities presents a variety of risks. The procurement process for governments and their agencies is highly competitive, time-consuming and may, in certain circumstances, be subject to political influence. We incur significant up-front time and expense, such as through engaging lobbyists, which subjects us to additional compliance risks and costs, without any assurance that we (or a third-party distributor or reseller) will win a contract. Beyond this, demand for our products and services may be adversely impacted by public sector budgetary cycles and funding availability that in any given fiscal cycle may be reduced or delayed, including in connection with an extended federal government shutdown. Further, if we are or our partner is successful in receiving a bid award, that award could be challenged by one or more competitive bidders. Bid protests may result in an increase in expenses related to obtaining contract awards or an unfavorable modification or loss of an award. In the event a bid protest is unsuccessful, the resulting delay in the startup and funding of the work under these contracts may cause our actual results to differ materially and adversely from those anticipated. 
+
+In addition, public sector customers may have contractual, statutory or regulatory rights to terminate current contracts with us or our third-party distributors or resellers for convenience or due to a default, though such risk may be assumed by such third-party distributor or reseller. If a contract is terminated for convenience, we may only be able to collect fees for products or services delivered prior to termination and settlement expenses. If a contract is terminated due to a default, we may be liable for excess costs incurred by the customer for procuring alternative products or services or be precluded from doing further business with government entities. Further, entities providing services to governments are required to comply with a variety of complex laws, regulations, and contractual provisions relating to the formation, administration, or performance of government contracts that give public sector customers substantial rights and remedies, many of which are not typically found in commercial contracts. These may include rights with respect to price protection, the accuracy of information provided to the government, contractor compliance with supplier diversity policies, and other terms that are particular to government contracts, such as termination rights. These rules may apply to us and/or third-party resellers or distributors whose practices we may not control. Such parties&#8217; non-compliance could impose repercussions with respect to contractual and customer satisfaction issues. 
+
+In addition, federal, state, and local governments routinely investigate and audit contractors for compliance with these requirements. If, as a result of an audit, it is determined that we have failed to comply with these requirements, we may be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, cost associated with the triggering of price reduction clauses, fines, and suspensions or debarment from future government business, and we may suffer reputational harm. 
+
+Further, we are increasingly doing business in heavily regulated industries, such as the financial services and health care industries. Current and prospective customers, such as those in these industries, may be required to comply with more stringent regulations in connection with subscribing to and implementing our services or particular regulations regarding third-party vendors that may be interpreted differently by different customers. In addition, regulatory agencies may impose requirements toward third-party vendors generally, or our company in particular, that we may not be able to, or may not choose to, meet. In addition, customers in these heavily-regulated areas often have a right to conduct audits of our systems, products and practices. In the event that one or more customers determines that some aspect of our business does not meet regulatory requirements, we may be limited in our ability to continue or expand our business. 
+
+Our customers also include a number of non-U.S. governments, to which similar procurement, budgetary, contract, and audit risks of U.S. government contracting also apply, particularly in certain emerging markets where our customer base is less established. In addition, compliance with complex regulations and contracting provisions in a variety of jurisdictions can be expensive and consume significant management resources. In certain jurisdictions, our ability to win business may be constrained by political and other factors unrelated to our competitive position in the market. Each of these difficulties could materially adversely affect our business and results of operations. 
+
+We rely on our network of partners for an increasing portion of our revenues, and if these partners fail to perform, our ability to sell and distribute our products may be limited, and our operating results and growth rate may be harmed. 
+
+An increasing portion of our revenues is generated by sales through our network of partners, including managed service providers and resellers. In addition, we increasingly rely on our partners to provide professional services, including customer implementations. While we provide our partners with training and programs, including accreditations and certifications, these programs may not be effective or utilized consistently. In addition, new partners may require extensive training and may require significant time and resources to achieve productivity. Our partners may subject us to lawsuits, potential liability, and reputational harm if, for example, any of our partners misrepresent the functionality of our platform or products to customers, fail to perform services to our customers&#8217; expectations, or violate laws or our corporate policies. In addition, our partners may utilize our platform to develop products and services that could potentially compete with products and services that we offer currently or in the future. Concerns over competitive matters or intellectual property ownership could constrain these partnerships. If we fail to effectively manage and grow our network of partners, or properly monitor the quality and efficacy of their service delivery, our ability to sell our products and efficiently provide our services may be impacted, and our operating results and growth rate may be harmed. 
+
+If we are unsuccessful in increasing our penetration of international markets or managing the risks associated with foreign markets, our business and operating results will be adversely affected. 
+
+Sales outside of North America represented approximately 33% of our total revenues for each of the three months ended March 31, 2020 and 2019 . Our business and future prospects depend on increasing our international sales as a percentage of our total revenues. The failure to grow internationally will harm our business. Additionally, operating in international markets requires significant investment and management attention and subjects us to different regulatory, political and economic risks from those in the United States (the US). We have made, and will continue to make, substantial investments in data centers, cloud computing infrastructure, sales, marketing, personnel and facilities as we enter and expand in new geographic markets. When we make these investments, it is typically unclear whether, and when, sales in the new market will justify our investments. We may significantly underestimate the level of investment and time required to be successful, or whether we will be successful. Our rate of acquisition of new large enterprise customers, a factor affecting our growth, has generally been lower in Africa, Asia, Eastern Europe, South America and other markets in which we are less established and where there may be increased or changing regulations and operational and intellectual property risks, as compared to North America, Australia and Western Europe. An increasing proportion of the large enterprises that are not yet our customers are located in emerging markets where we are less established. We have experienced, and may continue to experience, difficulties in some of our investments in geographic expansion, including hiring qualified sales management personnel, penetrating the target market, anticipating and ensuring compliance with regulatory developments, and managing foreign operations in such locales. 
+
+Risks inherent with making our products and services available in international markets include without limitation: 
+
+&#8226; 
+
+compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, competition, requirements to have local partner(s), local entity ownership limitations, technology transfer or sharing requirements, data residency and transfer laws and regulations, privacy and data protection laws and regulations, including the GDPR; 
+
+&#8226; 
+
+compliance by us and our business partners with international bribery and anti-corruption laws, including the UK Bribery Act and the U.S. Foreign Corrupt Practices Act of 1977, as amended (the FCPA); 
+
+&#8226; 
+
+the risk that illegal or unethical activities of our local employees or business partners will be attributed to or result in liability to us or damage to our reputation; 
+
+&#8226; 
+
+longer and potentially more complex sales and accounts receivable payment cycles and other collection difficulties; 
+
+&#8226; 
+
+tax treatment of revenues from international sources and changes to tax codes, including being subject to foreign tax laws and being liable for paying withholding, income or other taxes in foreign jurisdictions; 
+
+&#8226; 
+
+different pricing and distribution environments; 
+
+&#8226; 
+
+foreign currency fluctuations, which may cause transactional and translational remeasurement losses; 
+
+&#8226; 
+
+potential changes in international trade policies, tariffs, agreements and practices, including the adoption and expansion of formal or informal trade restrictions or regulatory frameworks favoring local competitors; 
+
+&#8226; 
+
+potential threatening state-sponsored actions, including cybersecurity threats directed at local data centers, customers or end-users; 
+
+&#8226; 
+
+local business practices and cultural norms that may favor local competitors; 
+
+&#8226; 
+
+localization of our services, including translation into foreign languages and associated expenses; and 
+
+&#8226; 
+
+natural disasters, acts of war, terrorism or pandemics, including the COVID-19 pandemic. 
+
+If we are unable to manage these risks, if our required investments in these international markets are greater than anticipated, or if we are unsuccessful in increasing sales in emerging markets, our revenue growth rate, business and operating results will be adversely affected. 
+
+As we acquire or invest in companies and technologies, we may not realize the expected business or financial benefits and the acquisitions and investments may divert our management&#8217;s attention and result in additional dilution to our stockholders. 
+
+We have acquired or invested in companies and technologies in the past as part of our business strategy and may continue to evaluate and execute potential strategic transactions, including acquisitions of or investments in businesses, technologies, services, products and other assets in the future. We also may enter into relationships with other businesses to expand our service offerings, functionality or our ability to provide services in international locations, which could involve preferred or exclusive licenses, additional channels of distribution, discount pricing or investments in other companies. Although we conduct reasonably extensive due diligence with each of the entities we engage for a strategic transaction, our due diligence efforts may not reveal every material concern that may exist either with respect to the target entity or our assumptions surrounding the resulting combination. These strategic transactions involve numerous risks, including: 
+
+&#8226; 
+
+assimilating or integrating the businesses, technologies, products, personnel or operations of the acquired companies; 
+
+&#8226; 
+
+failing to achieve the expected benefits of the acquisition or investment; 
+
+&#8226; 
+
+potential loss of key employees of the acquired company; 
+
+&#8226; 
+
+inability to maintain relationships with customers and partners of the acquired business; 
+
+&#8226; 
+
+potential adverse tax consequences; 
+
+&#8226; 
+
+disruption to our business and diversion of management attention and other resources; 
+
+&#8226; 
+
+potential financial and credit risks associated with acquired customers; 
+
+&#8226; 
+
+dependence on acquired technologies or licenses for which alternatives may not be available to us without significant cost or complexity; 
+
+&#8226; 
+
+in the case of foreign acquisitions, the challenges associated with integrating operations across different cultures and languages and any currency and regulatory risks associated with specific countries; 
+
+&#8226; 
+
+increased data privacy or security compliance requirements resulting from integrating the acquired technology or company with ours; 
+
+&#8226; 
+
+impairment to our investments if our investees are unable to obtain future funding on favorable terms or at all, including due to the COVID-19 pandemic; and 
+
+&#8226; 
+
+potential unknown liabilities associated with the acquired businesses. 
+
+In addition, we may have to pay cash, incur debt, or issue equity or equity-linked securities to pay for any future acquisitions, each of which could adversely affect our financial condition or our stock price. Furthermore, if we finance acquisitions by issuing equity, convertible or other debt securities or loans, our existing stockholders may be diluted, or we could face constraints related to the terms of and repayment obligation related to the incurrence of indebtedness that could affect our stock price. The occurrence of any of these risks could harm our business, operating results and financial condition. 
+
+Risks Related to the Operation of Our Business 
+
+If we or our third-party service providers suffer a cyber-security event, we may lose customers and incur significant liabilities, any of which would harm our business and operating results. 
+
+Our operations involve the storage, transmission and processing of our customers&#8217; confidential, proprietary and sensitive data, including personally identifiable information, protected health information, financial information and, in some cases, government information. While we have security measures in place designed to protect customer information and prevent data loss, these measures may be breached because of employee error or third-party actions, including unintentional events or deliberate attacks by cyber criminals, and result in someone obtaining unauthorized access to our customers&#8217; data or our data, including our intellectual property and other confidential business information. In addition, third parties have attempted and may continue to attempt to fraudulently induce employees, contractors, or users to disclose information to gain access to our data or our customers&#8217; data, and we have been and may continue to be the target of email scams that attempt to acquire personal information or company assets. Additionally, because we do not control our third-party service providers or their processing of data, we cannot ensure the integrity or security of measures they take to protect customer information and prevent data loss. Computer malware, viruses, hacking, phishing and denial of service attacks by third parties have become more prevalent in our industry, and they have occurred on our and our third-party service providers&#8217; systems in the past and may occur again on these systems in the future. Because techniques used to sabotage or obtain unauthorized access to systems change frequently and generally are not detected until successfully launched against a target, we have been and may continue to be unable to anticipate these techniques or to implement adequate preventative measures. We devote significant financial and personnel resources to implement and maintain security measures; however, as cyber-security threats develop and grow more complex over time, it may be necessary to make significant further investments to protect data and infrastructure. A security breach suffered by us or our third-party service providers, an attack against our service availability or unauthorized access or loss of data could result in a disruption to our service, litigation, the triggering of service availability, indemnification and other contractual obligations, regulatory investigations, government fines and penalties, reputational damage, loss of sales and customers, mitigation and remediation expenses and other significant costs and liabilities. In addition, we may incur significant costs and operational consequences of investigating, remediating, eliminating, complying with notice obligations and implementing additional measures designed to prevent actual or perceived security incidents. We also cannot be certain that our existing insurance coverage will continue to be available on acceptable terms or will be available in sufficient amounts to cover the potentially significant losses that may result from a security incident or breach or that the insurer will not deny coverage as to any future claim. 
+
+Further, in most instances, our customers administer access to the data held in their particular instance for their employees and service providers. We offer tools and support for what we believe are best practices to maintain security utilizing our services, but customers are not required to utilize those tools or follow our suggested practices. As a result, or for other reasons, a customer may suffer a cyber-security event on its own systems, unrelated to our own, and allow a malicious actor to obtain access to the customer&#8217;s information held on our platform. Even if such a breach is unrelated to our security programs or practices, such breach could result in our incurring significant economic and operational costs in investigating, remediating, eliminating and implementing additional measures to further protect our customers from their own vulnerabilities, and could result in reputational harm to us. 
+
+&#160; 
+
+If we lose key employees or are unable to attract and retain the employees we need, our business and operating results will be adversely affected. 
+
+Our success depends largely upon the continued services of our management team, including our Chief Executive Officer and Chief Financial Officer, and many key individual contributors. From time to time in the ordinary course of business, there may be changes in our management team resulting from the hiring or departure of executives. For example, our current President and Chief Executive Officer was appointed in November 2019 and our current Chief Financial Officer was appointed in January 2020. While we seek to manage these transitions carefully, including by establishing strong processes and procedures and succession planning, such changes may result in a loss of institutional knowledge and cause disruptions to our business. 
+
+In the technology industry, there is substantial and continuous competition for engineers with high levels of experience in designing, developing and managing software and Internet-related solutions, sales executives and operations personnel. We may not be successful in attracting and retaining qualified personnel, and we may experience increased compensation and training costs that may not be offset by either improved productivity or higher sales. We have from time to time experienced, and we may continue to experience, difficulty in hiring and retaining highly-skilled employees with appropriate qualifications, and may not be able to fill positions in desired geographic areas or at all. In particular, competition for experienced software and cloud computing infrastructure engineers in the San Francisco Bay area, San Diego, Seattle, London, Amsterdam and Hyderabad, our primary operating locations, is intense. Many of our employees, including all of our executive officers, are employed &#8220;at-will&#8221; and may terminate their employment with us at any time. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be adversely affected. 
+
+In addition, we believe our corporate culture of fostering innovation, teamwork and employee satisfaction has been a key contributor to our success to date. As we continue to grow and expand globally, we may find it difficult to maintain important aspects of our corporate culture, which could negatively affect our ability to retain and recruit personnel who are essential to our future success. 
+
+Natural disasters and other events beyond our control could harm our business. 
+
+Natural disasters or other catastrophic events may cause damage or disruption to our operations, international commerce and the global economy, and thus could have a negative effect on us. Our business operations are subject to interruption by natural disasters, flooding, fire, power shortages, pandemics such as the continued spread of COVID-19, terrorism, political unrest, telecommunications failure, vandalism, cyber-attacks, geopolitical instability, war, the effects of climate change (such as drought, wildfires, increased storm severity and sea level rise) and other events beyond our control. Although we maintain crisis management and disaster response plans, such events could make it difficult or impossible for us to deliver our services to our customers, could decrease demand for our services, and could cause us to incur substantial expense. Our insurance may not be sufficient to cover losses or additional expense that we may sustain. The majority of our research and development activities, corporate offices, information technology systems, and other critical business operations are located near major seismic faults in California and Washington. Customer data could be lost, significant recovery time could be required to resume operations and our financial condition and operating results could be adversely affected in the event of a major natural disaster or catastrophic event. 
+
+Various factors, including our customers&#8217; business, integration, migration and security requirements, or errors by us, our partners, or our customers, may cause implementations of our products to be delayed, inefficient or otherwise unsuccessful. 
+
+Our business depends upon the successful implementation of our products by our customers. Increasingly, we and our customers rely on our network of partners to deliver implementation services, and there may not be enough qualified implementation partners available to meet customer demand. Further, our customers&#8217; business, integration, migration and security requirements, or errors by us, our partners, or our customers, or other factors may cause implementations to be delayed, inefficient or otherwise unsuccessful. For example, changes in the functional requirements of our customers, delays in timeline, or deviations from recommended best practices may occur during the course of an implementation project. As a result of these and other risks, we or our customers may incur significant implementation costs in connection with the purchase, implementation and enablement of our products. Some customer implementations may take longer than planned or fail to meet our customers&#8217; expectations, which may delay our ability to sell additional products or result in customers canceling or failing to renew their subscriptions before our products have been fully implemented. Some customers may lack the employee talent or organizational capacity to manage a digital transformation such as our offering and, as a consequence, may be unable to see the benefits of our products. Unsuccessful, lengthy, or costly customer implementation and integration projects could result in claims from customers, reputational harm, and opportunities for competitors to displace our products, each of which could have an adverse effect on our business and operating results. 
+
+Disruptions or defects in our services could damage our customers&#8217; businesses, subject us to substantial liability and harm our reputation and financial results. 
+
+From time to time, we experience defects in our services, and new defects may be detected in the future. For example, we provide regular updates to our services, which frequently contain undetected defects when first released. Defects may also be introduced by our use of third-party software, including open source software. Disruptions may result from errors we make in developing, delivering, configuring or hosting our services, or designing, installing, expanding or maintaining our cloud infrastructure. Disruptions in service can also result from incidents that are outside of our control, including denial of service attacks and the ongoing COVID-19 pandemic. We currently serve our customers primarily using equipment managed by us and co-located in third-party data centers operated by several different providers located around the world, and we plan to serve certain of our customers using data center facilities operated by public cloud service providers. These data centers are vulnerable to damage or interruption from earthquakes, hurricanes, floods, fires, power loss and similar events. They may also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct, equipment failure and adverse events caused by operator error or negligence. Despite precautions taken at these centers, problems at these centers could result in lengthy interruptions in our services and the loss of customer data. In addition, our customers may use our services in ways that cause disruptions in service for other customers. Our customers use our services to manage important aspects of their businesses, and our reputation and business will be adversely affected if our customers and potential customers believe our services are unreliable. Disruptions or defects in our services may reduce our revenues, cause us to issue credits or pay penalties, subject us to claims and litigation, cause our customers to delay payment or terminate or fail to renew their subscriptions, and adversely affect our ability to attract new customers. Similarly, customers may have unique requirements for system resiliency that we may not be able to, or may not choose to, meet. The occurrence of payment delays, service credit, warranty or termination for material breach or other claims against us could result in an increase in our bad debt expense, an increase in collection cycles for accounts receivable, an increase to our service level credit accruals, other increased expenses or risks of litigation. We may not have insurance sufficient to compensate us for the potentially significant losses that may result from claims arising from disruptions in our services. 
+
+Risks Related to the Financial Performance or Financial Position of Our Business 
+
+Our operating results may vary significantly from period to period, and if we fail to meet the financial performance expectations of investors or securities analysts, the price of our common stock could decline substantially. 
+
+Our operating results may vary significantly from period to period as a result of various factors, some of which are beyond our control. For any quarterly or annual period, there is a risk that our financial performance will not meet the financial guidance we have previously given for that period, or that we may otherwise fail to meet the financial performance expectations of the securities analysts who issue reports on our company and our common stock price, or of investors in our common stock. There is also a risk that we may issue forward-looking financial guidance for a quarterly or annual period that fails to meet the expectations of such securities analysts or investors. If any of the foregoing occurs, for any reason, either within or outside of our control, the price of our common stock could decline substantially and investors in our common stock could incur substantial losses. Some of the important factors that may cause our financial performance to vary widely, or cause our forward-looking financial guidance to fall below the expectations of such securities analysts or investors, include: 
+
+&#8226; 
+
+our ability to attract new customers, retain and increase sales to existing customers, and satisfy our customers&#8217; requirements; 
+
+&#8226; 
+
+changes in our mix of products and services, including changes in our mix of cloud and self-hosted offerings, market penetration of our products, or use of our products by our customers; 
+
+&#8226; 
+
+our ability to increase sales of certain new products; 
+
+&#8226; 
+
+volatility in foreign currency exchange rates and our ability to effectively hedge our foreign currency exposure; 
+
+&#8226; 
+
+the rate of expansion, retention and productivity of our sales force; 
+
+&#8226; 
+
+the number of new employees added; 
+
+&#8226; 
+
+the cost, timing and management effort for our development of new products and services; 
+
+&#8226; 
+
+general economic conditions that may adversely affect our customers&#8217; or a prospective customers&#8217; purchasing decisions; 
+
+&#8226; 
+
+the amount and timing of operating costs and capital expenditures related to the operation and expansion of our business; 
+
+&#8226; 
+
+seasonality in terms of when we enter into customer agreements; 
+
+&#8226; 
+
+the length and complexity of the sales cycle and certification process for our services, especially for sales to larger enterprises, government and regulated organizations; 
+
+&#8226; 
+
+changes in the size and complexity of our customer relationships; 
+
+&#8226; 
+
+changes to our management, sales and account management teams as we scale and as a result of evolving business priorities; 
+
+&#8226; 
+
+changes in our or our competitors&#8217; pricing policies; 
+
+&#8226; 
+
+significant security breaches, technical difficulties or interruptions of our services; 
+
+&#8226; 
+
+new solutions or products introduced by our competitors; 
+
+&#8226; 
+
+changes in effective tax rates; 
+
+&#8226; 
+
+changes in the average contract term of our customer agreements, timing of renewals, renewal rates, expansion within our existing customers and billings duration; 
+
+&#8226; 
+
+the timing of customer payments and payment defaults by customers; 
+
+&#8226; 
+
+extraordinary expenses such as litigation costs or damages, including settlement payments; 
+
+&#8226; 
+
+the costs associated with acquiring new businesses and technologies and the follow-on costs of integration, including the tax effects of acquisitions; 
+
+&#8226; 
+
+changes in laws or regulations impacting the delivery of our services; 
+
+&#8226; 
+
+our ability to comply with privacy laws and regulations, including the GDPR and the CCPA; 
+
+&#8226; 
+
+significant litigation or regulatory actions relating to claims of intellectual property infringement, violation of privacy laws, employment matters or any other significant matter; 
+
+&#8226; 
+
+the amount and timing of equity awards and the related financial statement expenses; 
+
+&#8226; 
+
+the impact of new accounting pronouncements; and 
+
+&#8226; 
+
+our ability to accurately estimate the total addressable market for our products and services. 
+
+Lawsuits against us by third parties that allege we infringe their intellectual property rights could harm our business and operating results. 
+
+There is considerable patent and other intellectual property development activity in our industry. Many companies in our industry, including our competitors, other third parties and non-practicing entities, own large numbers of patents, copyrights, trademarks and trade secrets, which they may use to assert claims of patent infringement, misappropriation or other violations of intellectual property rights against us. 
+
+Moreover, the patent portfolios of many of our competitors are larger than ours. This disparity may increase the risk that our competitors may sue us for patent infringement and may limit our ability to counterclaim for patent infringement or settle through patent cross-licenses. From time to time, our competitors or other third parties, including patent holding companies seeking to monetize patents they have purchased or otherwise obtained, may claim that we are infringing upon their intellectual property rights. For example, we recorded charges for aggregate legal settlements of $270.0 million in our consolidated statement of comprehensive loss during the year ended December 31, 2016. The charges covered the fulfillment by us of all financial obligations under settlement agreements with BMC and HPE, with no remaining financial obligations to BMC or HPE under either settlement. 
+
+In any intellectual property litigation, regardless of the scope or merits of the claims at issue, we may incur substantial attorney&#8217;s fees and other litigation expenses and, if the claims are successfully asserted against us and we are found to be infringing upon the intellectual property rights of others, we could be required to: pay substantial damages and/or make substantial ongoing royalty payments; cease offering our products and services; modify our products and services; comply with other unfavorable terms, including settlement terms; and indemnify our customers and business partners and obtain costly licenses on their behalf and refund fees or other payments previously paid to us. Further, upon expiration of the term of any third-party agreements that allow us to use their intellectual property, we may be unable to renew such agreements on favorable terms, if at all, in which case we may face intellectual property litigation. The mere existence of any lawsuit, or any interim or final outcomes, and the course of its conduct and the public statements related to it (or absence of such statements) by the courts, press, analysts and litigants could be unsettling to our customers and prospective customers. This could cause an adverse impact to our customer satisfaction and related renewal rates, cause us to lose potential sales, and could also be unsettling to investors or prospective investors and cause a substantial decline in our stock price. Any claim or litigation against us could be costly, time-consuming and divert the attention of our management and key personnel from our business operations and harm our financial condition and operating results. 
+
+If we fail to comply with anti-corruption laws, including the FCPA and similar laws of other countries, and general trade regulations, including but not limited to economic sanctions and embargoes, we could be subject to penalties and civil and/or criminal sanctions and our business could be materially adversely affected. 
+
+We are subject to the FCPA, the U.S. domestic bribery statute contained in 18 U.S.C. &#167;201, the UK Bribery Act, and possibly other anti-bribery laws in countries in which we conduct activities. We face significant risks if we fail to comply with the FCPA and other anti-corruption laws that prohibit companies and their employees and third-party intermediaries from promising, authorizing, offering, or providing, directly or indirectly, improper payments or benefits to foreign government officials, political parties, and private-sector recipients for purposes of obtaining or retaining business, directing business to any person, or securing any advantage. In addition, we use various third parties to sell our products and services and conduct our business both in the US and abroad. We or our third-party intermediaries may have direct or indirect interactions with officials and employees of government agencies or state-owned or affiliated entities and we can be held liable for the corrupt or other illegal activities of these third-party intermediaries, our employees, representatives, contractors, partners, and agents, even if we do not explicitly authorize such activities. We have implemented and continue to update an anti-corruption compliance program but there is a risk that our employees and agents, as well as those companies to which we outsource certain of our business operations, could take actions in violation of our policies and applicable law, for which we may be ultimately held responsible. 
+
+As we continue to expand our business internationally, we will inevitably do more business with large enterprises and the public sector in countries that are perceived to have heightened levels of public sector corruption. Increased business in countries perceived to have heightened levels of corruption could subject us and our officers and directors to increased scrutiny and increased liability from our business operations. In addition, we are subject to compliance with general trade regulations relating to doing business outside the US, including certain restrictions on conducting trade in certain restricted countries or with certain entities or individuals. 
+
+Any violation of the FCPA, other anti-corruption laws or general trade regulations by our employees or our third-party intermediaries could result in regulatory investigations, whistleblower complaints, adverse media coverage and/or severe criminal or civil sanctions, which could have a materially adverse effect on our reputation, business, operating results, and prospects. In addition, responding to any enforcement action may result in a significant diversion of management&#8217;s attention and resources and significant defense costs. 
+
+Our intellectual property protections may not provide us with a competitive advantage, and defending our intellectual property may result in substantial expenses that harm our operating results. 
+
+Our success depends to a significant degree on our ability to protect our proprietary technology and our brand under patent and other intellectual property protections of the US and other jurisdictions. Though we seek patent protection for our technology, we may not be successful in obtaining patent protection, and any patents acquired in the future may not provide us with competitive advantages, or may be successfully challenged by third parties. Furthermore, legal standards relating to the validity, enforceability and scope of protection of intellectual property rights are uncertain. Any of our intellectual property rights may be challenged by others or invalidated through administrative processes or litigation. Effective patent, trademark, copyright and trade secret protection may not be available in every country in which we offer services. The laws of some foreign countries may not be as protective of intellectual property rights as those in the US, and mechanisms for enforcement of intellectual property rights or available remedies may be inadequate. We may be required to spend significant resources to monitor and protect our intellectual property rights. We have initiated and, in the future, may initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity of our proprietary rights. Any litigation, whether or not resolved in our favor, could result in significant expense to us, divert the efforts of our technical and management personnel and may result in counter-claims with respect to infringement of intellectual property rights by us. If we are unable to prevent third parties from infringing upon or misappropriating our intellectual property, or are required to incur substantial expenses defending our intellectual property rights, our business and operating results may be adversely affected. 
+
+Our use of open source software could harm our ability to sell our products and services and subject us to possible litigation. 
+
+Our products incorporate software licensed to us by third-party authors under open source licenses, and we expect to continue to incorporate open source software into other products and services in the future. We attempt to monitor our use of open source software in an effort to avoid subjecting our products and services to adverse licensing conditions. However, there can be no assurance that our efforts have been or will be successful. There is little or no legal precedent governing the interpretation of the terms of open source licenses, and therefore the potential impact of these terms on our business is uncertain and enforcement of these terms may result in unanticipated obligations regarding our products and services. For example, depending on which open source license governs open source software included within our products and services, we may be subjected to conditions requiring us to offer our products and services to users at no cost; make available the source code for modifications and derivative works based upon, incorporating or using the open source software; and license such modifications or derivative works under the terms of the particular open source license. Moreover, if an author or other third party that distributes such open source software were to allege that we had not complied with the conditions of one or more of these licenses, we could be required to incur significant legal costs defending ourselves against such allegations, be subject to significant damages or be enjoined from distributing our products and services. 
+
+Because we generally recognize revenues from our subscription service over the subscription term, a decrease in new subscriptions or renewals during a reporting period may not be immediately reflected in our operating results for that period. 
+
+We generally recognize revenues from customers ratably over the terms of their subscriptions. Net new annual contract value from new subscriptions and expansion contracts entered into during a period can generally be expected to generate revenues for the duration of the subscription term. As a result, most of the revenues we report in each period are derived from the recognition of deferred revenues relating to subscriptions entered into during previous periods. Consequently, a decrease in new or renewed subscriptions in any single reporting period will have a limited impact on our revenues for that period. In addition, our ability to adjust our cost structure in the event of a decrease in new or renewed subscriptions may be limited. 
+
+Further, a decline in new subscriptions, expansion contracts or renewals in a given period may not be fully reflected in our revenues for that period, but they will negatively affect our revenues in future periods. Accordingly, the effect of significant downturns in sales and market acceptance of our services, and changes in our rate of renewals, may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to rapidly increase our revenues through additional sales in any period, as revenues from new customers are generally recognized over the applicable subscription term. Additionally, due to the complexity of certain of our customer contracts, the actual revenue recognition treatment required under Accounting Standards Update 2014-09, &#8220;Revenue from Contracts with Customers (Topic 606)&#8221; depends on contract-specific terms and may result in greater variability in revenues from period to period. 
+
+In addition, a decrease in new subscriptions, expansion contracts or renewals in a reporting period may not have an immediate impact on billings for that period due to factors that may offset the decrease, such as an increase in billings duration, the dollar value of contracts with future start dates, or the dollar value of collections in the current period related to contracts with future start dates. 
+
+As our business grows, we expect our revenue growth rate to continue to decline. 
+
+We have experienced significant revenue growth in prior periods; however, our longer-term revenue growth rate is declining, and we expect that it will continue to decline into the foreseeable future. We also expect our costs to increase in future periods as we continue to invest in our strategic priorities, which may not result in increased revenues or growth in our business. You should not rely on our revenue for any prior periods as any indication of our future revenue growth. If we are unable to maintain consistent revenue or revenue growth, our stock price could be volatile. 
+
+Changes in our effective tax rate or rejection of our tax position in jurisdictions outside the US could have a material impact on our financial position and results. 
+
+We are subject to income taxes in the US and various foreign jurisdictions. We believe that our provision for income taxes is reasonable, but the ultimate tax outcome may differ from the amounts recorded in our financial statements and may materially affect our financial results in the period or periods in which such outcome is determined. Our effective tax rate could be adversely affected by changes in the mix of earnings and losses in countries with differing statutory tax rates, certain non-deductible expenses, the valuation of deferred tax assets and liabilities and the effects of acquisitions. Increases in our effective tax rate would reduce our profitability or in some cases increase our losses. 
+
+Additionally, our future effective tax rate could be impacted by changes in accounting principles or changes in federal, state or international tax laws or tax rulings. The U.S. Department of Treasury has broad authority to issue regulations and interpretative guidance that may significantly impact how we will apply the law, which could affect our results of operations in the period issued. Many countries and organizations such as the Organization for Economic Cooperation and Development are actively considering changes to existing tax laws or have proposed or enacted new laws that could increase our tax obligations in countries where we do business or cause us to change the way we operate our business. Recent global tax developments applicable to multinational businesses and increased scrutiny under tax examinations could have a material impact on our business and negatively affect our financial results. Any changes in federal, state or international tax laws or tax rulings may increase our worldwide effective tax rate and harm our financial position and results of operations. 
+
+In addition, we may be subject to income tax audits by tax jurisdictions throughout the world, many of which have not established clear guidance on the tax treatment of cloud computing companies. Although we believe our income tax liabilities are reasonably estimated and accounted for in accordance with applicable laws and principles, an adverse resolution of one or more uncertain tax positions in any period could have a material impact on our results of operations for that period. Further, many of our most important intangible assets are held outside the US and are subject to inter-company agreements regarding the development and distribution of those assets to other jurisdictions. While we believe that our position is appropriate and well founded, in the event that our position was to be successfully challenged by taxing authorities in other jurisdictions, we may become subject to significant tax liabilities, which could harm our financial position and financial results. 
+
+We may incur losses in accordance with U.S. Generally Accepted Accounting Principles (GAAP) during future periods. 
+
+Although we have reported quarterly results that were profitable on a GAAP basis, we have incurred net losses in all prior fiscal years since our inception except for the year ended December 31, 2019. Even if our revenues continue to increase, we may incur losses in accordance with GAAP during future periods due to increased costs such as non-cash charges associated with equity awards, business combinations and other expenses. We may also encounter unforeseen operating expenses, difficulties, complications, delays and other unpredictable factors that may result in increased costs. Furthermore, it is difficult to predict the size and growth rate of our market, customer demand for our products, customer adoption and renewal rates, and the entry of competitive products or the success of existing competitive products. As a result of these and other factors, we may not maintain profitability in the future, and our gross margins and ability to generate cash flow from operations may be negatively impacted. If we fail to increase our revenues sufficiently to keep pace with our growing investments and other expenses, our business, operating results and growth prospects will be adversely affected. 
+
+If we are unable to maintain effective internal control over financial reporting, the accuracy and timeliness of our financial reporting may be adversely affected. 
+
+The Sarbanes-Oxley Act requires us, among other things, to assess and report on the effectiveness of our internal control over financial reporting annually and the reasonable assurance level of our disclosure controls and procedures quarterly. In addition, our independent registered public accounting firm is required to audit the effectiveness of our internal control over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act annually. Our independent registered public accounting firm may issue a report that is adverse in the event it is not satisfied with the level at which our controls are documented, designed or operating. Moreover, our testing, or the subsequent testing by our independent registered public accounting firm, may reveal material weaknesses or significant deficiencies. If material weaknesses are identified or we are not able to comply with the requirements of Section 404 in a timely manner, our reported financial results could be materially misstated or could subsequently require restatement, we could receive an adverse opinion regarding our internal control over financial reporting from our independent registered public accounting firm, we could be subject to investigations or sanctions by regulatory authorities and we could incur substantial expenses. We may not be able to effectively implement system and process changes required for new standards on a timely basis. Any delays or failure to update our systems and processes could also lead to a material weakness or significant deficiency. 
+
+Risks Related to General Economic Conditions 
+
+Global economic conditions may harm our industry, business and results of operations. 
+
+We operate globally and as a result our business and revenues are impacted by global macroeconomic conditions. Global financial developments seemingly unrelated to us or the software industry may harm us. From time to time, the US and other key international economies have been impacted by geopolitical and economic instability, high levels of credit defaults, international trade disputes, falling demand for various goods and services, high levels of persistent unemployment, wage and income stagnation, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, bankruptcies, international trade agreements, trade restrictions and overall economic uncertainty, such as due to the ongoing COVID-19 pandemic. These conditions can arise suddenly and affect the rate of information technology spending and could adversely affect our customers&#8217; or prospective customers&#8217; ability or willingness to purchase our services, delay purchasing decisions, reduce the value or duration of their subscriptions, or affect renewal rates, all of which could harm our operating results. 
+
+In 2020, for example, the COVID-19 global pandemic, the growth rate in the EU, China, or the US, tariffs or trade relations between the US and China or other countries, political uncertainty in the Middle East and other geopolitical events could directly or indirectly affect our business. Additionally, in connection with Brexit, the impact of the UK&#8217;s exit from the EU is still to be fully seen, with the applicable trade agreement to be negotiated before December 2020, or a type of &#8220;no-deal&#8221; exit would occur. This could be harmful to both the U.K. and E.U. economies and businesses operating there. 
+
+In addition, the effects, if any, of global financial conditions on our business can be difficult to distinguish from the effects on our business from product, pricing, and other developments in the markets specific to our products and our relative competitive strength. If we make incorrect judgments about our business for this reason, our business and results of operations could be adversely affected. 
+
+Foreign currency exchange rate fluctuations could harm our financial results. 
+
+We conduct significant transactions, including revenue transactions and intercompany transactions, in currencies other than the U.S. Dollar or the functional operating currency of the transactional entities. In addition, our international subsidiaries maintain significant net assets that are denominated in currencies other than the functional operating currencies of these entities. Accordingly, changes in the value of currencies relative to the U.S. Dollar may impact our consolidated revenues and operating results due to transactional and translational remeasurement that is reflected in our earnings. It is particularly difficult to forecast any impact from exchange rate movements, so there is risk that unanticipated currency fluctuations could adversely affect our financial results or cause our results to differ from investor expectations or our own guidance in any future periods. In addition, the announcement of Brexit and the continued uncertainty around the full impact of it and the exact trade arrangements upon exit has adversely impacted global markets, including currencies, and resulted in a decline and volatility in the value of the British pound and the Euro, as compared to the U.S. Dollar and other currencies. Volatility in exchange rates and global financial markets is expected to continue due to a number of factors, related to uncertainty surrounding Brexit trade arrangements and the recent political and economic uncertainty globally, including the COVID-19 pandemic. 
+
+In 2018, we began using derivative instruments, such as foreign currency forwards, to hedge certain exposures to fluctuations in foreign currency exchange rates. These hedging contracts may reduce, but cannot entirely eliminate, the impact of adverse currency exchange rate movements. Further, unanticipated changes in currency exchange rates may result in poorer overall financial performance than if we had not engaged in any such hedging transactions. Moreover, for a number of reasons, including our limited experience with these hedging contracts, we may not seek or be able to establish a perfect correlation between such hedging instruments and the exposures being hedged. Any such imperfect correlation may prevent us from achieving the intended hedge, and could expose us to a greater overall risk of loss than if we had not hedged. 
+
+Risks Related to Our Convertible Senior Notes 
+
+We may not have the ability to raise the funds necessary to settle conversions of our convertible senior notes due 2022 (the 2022 Notes) in cash or to repurchase the 2022 Notes upon a fundamental change, and our future debt may contain limitations on our ability to pay cash upon conversion or repurchase of the 2022 Notes. 
+
+Holders of the 2022 Notes have the right to require us to repurchase all or a portion of their 2022 Notes upon the occurrence of a fundamental change (as defined in the indenture for the 2022 Notes (the Indenture)) at a repurchase price equal to 100% of the principal amount of the 2022 Notes to be repurchased, plus accrued and unpaid special interest, if any. In addition, if a make-whole fundamental change (as defined in the Indenture) occurs prior to the maturity date of the 2022 Notes, we will in some cases be required to increase the conversion rate for a holder that elects to convert its 2022 Notes in connection with such make-whole fundamental change. Upon conversion of the 2022 Notes, unless we elect to deliver solely shares of our common stock to settle such conversion (other than paying cash in lieu of delivering any fractional shares), we will be required to make cash payments in respect of the 2022 Notes being converted. However, we may not have enough available cash or be able to obtain financing at the time we are required to make repurchases of the 2022 Notes surrendered therefor or pay cash with respect to the 2022 Notes being converted. 
+
+We and our subsidiaries may incur substantial additional debt in the future, subject to the restrictions contained in our future debt instruments, some of which may be secured debt. We are not restricted under the terms of the Indenture from incurring additional debt, securing existing or future debt, recapitalizing our debt or taking a number of other actions that could have the effect of diminishing our ability to make payments on the 2022 Notes when due. Furthermore, the Indenture prohibits us from being acquired unless, among other things, the surviving entity assumes our obligations under the 2022 Notes and the Indenture. These and other provisions in the Indenture could deter or prevent a third party from acquiring us even when the acquisition may be favorable to holders of the 2022 Notes. 
+
+In addition, our ability to repurchase or to pay cash upon conversion of the 2022 Notes may be limited by law, regulatory authority or agreements governing our future indebtedness. Our failure to repurchase the 2022 Notes at a time when the repurchase is required by the Indenture or to pay cash upon conversion of the 2022 Notes as required by the Indenture would constitute a default. A default under the Indenture or a fundamental change itself could also lead to a default under agreements governing our future indebtedness. Moreover, the occurrence of a fundamental change could constitute an event of default under any such agreements. If the payment of the related indebtedness were accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay the indebtedness and repurchase the 2022 Notes, or to pay cash upon conversion of the 2022 Notes. 
+
+The conditional conversion feature of the 2022 Notes may adversely affect our financial condition and operating results. 
+
+Prior to the business day immediately preceding February 1, 2022, the holders of the 2022 Notes may elect to convert their notes during any calendar quarter (and only during such calendar quarter) if the last reported sale price of our common stock for at least 20 trading days during the period of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to $175.18 (the Conversion Condition). The Conversion Condition for the 2022 Notes was met for all the quarters ended June 30, 2018 through March 31, 2020, except for the quarter ended December 31, 2018. Therefore, our 2022 Notes became convertible at the holders&#8217; option beginning on July 1, 2018 and continue to be convertible through June 30, 2020, except for the quarter ended March 31, 2019 because the Conversion Condition for the 2022 Notes was not met for the quarter ended December 31, 2018. During the three months ended March 31, 2020 , we paid cash to settle approximately $2.5 million in principal amount of the 2022 Notes. Based on conversion requests we have received through the filing date, we expect to settle in cash an aggregate of approximately $15.2 million in principal amount of the 2022 Notes during the second quarter of 2020. We may receive additional conversion requests that require settlement in the second quarter of 2020. Global economic uncertainty and market volatility, such as due to the ongoing COVID-19 pandemic, has affected when such conversion requests have settled and may continue to affect when such conversion requests will settle. If more holders elect to convert their 2022 Notes in future periods, unless we elect to satisfy our conversion obligation by delivering solely shares of our common stock (other than paying cash in lieu of delivering any fractional share), we may settle all or a portion of our conversion obligation in cash, which could adversely affect our liquidity and result in a material adverse effect on our financial position, results of operations and cash flows. In addition, to the extent we receive conversion requests, we may also record a loss on early conversions of the 2022 Notes converted by note holders based on the difference between the fair market value allocated to the liability component on the settlement date and the net carrying amount of the liability component and unamortized debt issuance on the settlement date. 
+
+&#160; 
+
+The convertible note hedge and warrant transactions may affect the value of the 2022 Notes and our common stock. 
+
+In connection with the sale of the 2022 Notes, we entered into convertible note hedge (the 2022 Note Hedge) transactions with certain financial institutions (option counterparties). We also entered into warrant transactions with the option counterparties pursuant to which we sold warrants for the purchase of our common stock (the 2022 Warrants). The 2022 Note Hedge is expected generally to reduce the potential dilution upon any conversion of the 2022 Notes and/or offset any cash payments we are required to make in excess of the principal amount of converted 2022 Notes, as applicable. The 2022 Warrant transactions could have a dilutive effect to the extent that our stock price exceeds the exercise price of the 2022 Warrants, which is $203.40. As the 2022 Warrants will be net share settled, the total number of shares of our common stock we will issue depends on the daily volume-weighted average stock prices over a 60-trading day period beginning on the first expiration date of the 2022 Warrants, which will be September 1, 2022. We expect to issue additional shares of our common stock in the second half of 2022 upon the automatic exercise of the 2022 Warrants. Based on the volume-weighted average stock price on March 31, 2020, the total number of shares of our common stock to be issued upon the automatic exercise of the 2022 Warrants would be approximately 1.7 million . The actual number of shares of our common stock issuable upon the automatic exercise of the 2022 Warrants, if any, is unknown at this time. Refer to Note 10 in the notes to our condensed financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+
+The option counterparties and/or their respective affiliates may modify their hedge positions by entering into or unwinding various derivatives with respect to our common stock and/or purchasing or selling our common stock in secondary market transactions prior to the maturity of the 2022 Notes (and are likely to do so during any observation period related to a conversion of the 2022 Notes, or following any repurchase of the 2022 Notes by us on any fundamental change repurchase date (as defined in the Indenture) or otherwise). This activity could also cause or avoid an increase or a decrease in our stock price or the 2022 Notes price, which could affect note holders&#8217; ability to convert the 2022 Notes and, to the extent the activity occurs during any observation period related to a conversion of the 2022 Notes, it could affect the amount and value of the consideration that note holders will receive upon conversion of the 2022 Notes. 
+
+The potential effect, if any, of these transactions and activities on our stock price or the 2022 Notes price will depend in part on market conditions and cannot be ascertained at this time. Any of these activities could adversely affect the value of our common stock and the value of the 2022 Notes (and the resulting amount of cash and/or number of shares, if any, that note holders would receive upon the conversion) and, under certain circumstances, the ability of the note holders to convert the 2022 Notes. 
+
+We do not make any representation or prediction as to the direction or magnitude of any potential effect that the transactions described above may have on the price of the 2022 Notes or our common stock. In addition, we do not make any representation that the option counterparties will engage in these transactions or that these transactions, once commenced, will not be discontinued without notice. 
+
+We are subject to counterparty risk with respect to the 2022 Note Hedge. 
+
+The option counterparties are financial institutions, and we will be subject to the risk that any or all of them may default under the 2022 Note Hedge. Our exposure to the credit risk of the option counterparties will not be secured by any collateral. Recent global economic conditions have resulted in the actual or perceived failure or financial difficulties of many financial institutions. If an option counterparty becomes subject to insolvency proceedings, we will become an unsecured creditor in those proceedings, with a claim equal to our exposure at that time under our transactions with that option counterparty. Our exposure will depend on many factors but, generally, an increase in our exposure will be correlated to an increase in the stock price and in the volatility of our common stock. In addition, upon a default by an option counterparty, we may suffer adverse tax consequences and more dilution than we currently anticipate with respect to our common stock. We can provide no assurances as to the financial stability or viability of the option counterparties. 
+
+Risks Related to Ownership of Our Common Stock 
+
+Our stock price has historically been and is likely to continue to be volatile and could subject us to litigation. 
+
+Our stock price has been, and is likely to continue to be, volatile and could be subject to wide fluctuations in response to various factors, some of which are beyond our control. In addition, technology companies in general have highly volatile stock prices, and the volatility in stock price and trading volume of securities is often unrelated or disproportionate to the financial performance of the companies issuing the securities. Factors affecting our stock price, some of which are beyond our control, include: 
+
+&#8226; 
+
+changes in the estimates of our operating results or changes in recommendations by securities analysts that elect to cover our common stock; 
+
+&#8226; 
+
+announcements of new products, services or technologies, new applications or enhancements to services, strategic alliances, acquisitions, or other significant events by us or by our competitors; 
+
+&#8226; 
+
+fluctuations in the valuation of companies, such as high-growth or cloud companies, investors perceive to be comparable to us; 
+
+&#8226; 
+
+changes to our management team; 
+
+&#8226; 
+
+trading activity by directors, executive officers and significant stockholders, or the market&#8217;s perception that large stockholders intend to sell their shares; 
+
+&#8226; 
+
+the inclusion, exclusion, or deletion of our stock from any trading indices, such as the S&#38;P 500 Index; 
+
+&#8226; 
+
+the size of our market float; 
+
+&#8226; 
+
+the volume of trading in our common stock, including sales upon exercise of outstanding options or vesting of equity awards or sales and purchases of any common stock issued upon conversion of the 2022 Notes or in connection with the 2022 Note Hedge and 2022 Warrant transactions; 
+
+&#8226; 
+
+the economy as a whole, market conditions in our industry, and the industries of our customers; and 
+
+&#8226; 
+
+overall performance of the equity markets. 
+
+Following periods of volatility in the market price of a company&#8217;s securities, securities class action litigation has often been brought against that company. Securities litigation could result in substantial costs and divert our management&#8217;s attention and resources from our business. This could have a material adverse effect on our business, operating results, and financial condition. 
+
+We do not intend to pay dividends on our common stock, so any returns will be limited to changes in our stock price. 
+
+We have never declared or paid any cash dividends on our common stock. We anticipate that we will retain future earnings for the development, operation and expansion of our business and do not anticipate declaring or paying any cash dividends for the foreseeable future. In addition, our ability to pay cash dividends on our common stock may be prohibited or limited by the terms of any future debt financing arrangements. Any return to stockholders will therefore be limited to the increase, if any, of our stock price. 
+
+Provisions in our charter documents, Delaware law, or our 2022 Notes might discourage, delay or prevent a change of control of our company or changes in our management and, therefore, depress our stock price. 
+
+Our restated certificate of incorporation and restated bylaws contain provisions that could depress our stock price by acting to discourage, delay or prevent a change in control of our company or changes in our management that the stockholders of our company may deem advantageous. These provisions among other things: 
+
+&#8226; 
+
+establish a classified board so that not all members of our board are elected at one time; 
+
+&#8226; 
+
+permit the board to establish the number of directors; 
+
+&#8226; 
+
+provide that directors may only be removed &#8220;for cause&#8221; and only with the approval of 66 2/3% of our shareholders; 
+
+&#8226; 
+
+require super-majority voting to amend some provisions in our certificate of incorporation and bylaws; 
+
+&#8226; 
+
+authorize the issuance of &#8220;blank check&#8221; preferred stock that our board could use to implement a shareholder rights plan; 
+
+&#8226; 
+
+do not permit our shareholders to call special meetings of shareholders; 
+
+&#8226; 
+
+prohibit shareholder action by written consent, which requires all shareholder actions to be taken at a meeting; 
+
+&#8226; 
+
+provide that the board is expressly authorized to make, alter or repeal our bylaws; and 
+
+&#8226; 
+
+establish advance notice requirements for nominations for election to our board or proposing matters that can be acted upon by shareholders at annual shareholder meetings (though our bylaws have shareholder proxy access). 
+
+In addition, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company. Section 203 imposes certain restrictions on merger, business combinations and other transactions between us and holders of 15% or more of our common stock. 
+
+Further, the fundamental change provisions of our 2022 Notes may delay or prevent a change in control of our company, because those provisions allow note holders to require us to repurchase such notes upon the occurrence of a fundamental change. 
+

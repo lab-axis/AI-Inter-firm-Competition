@@ -1,0 +1,141 @@
+{
+  "company": "NVDA",
+  "n_months": 12,
+  "avg_task_fulfillment": 0.9464285714285714,
+  "avg_reasoning_quality": 0.7890909090909091,
+  "avg_ar_score": 78.9090909090909,
+  "months": [
+    {
+      "company": "NVDA",
+      "month": "2026-01",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.95,
+      "ar_score": 75.0,
+      "reasoning_quality": 0.75,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-02",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9357142857142857,
+      "ar_score": 83.0,
+      "reasoning_quality": 0.83,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-03",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9357142857142857,
+      "ar_score": 90.0,
+      "reasoning_quality": 0.9,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-04",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9642857142857143,
+      "ar_score": 75.0,
+      "reasoning_quality": 0.75,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-05",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9714285714285714,
+      "ar_score": 80.0,
+      "reasoning_quality": 0.8,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-06",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.8642857142857143,
+      "ar_score": null,
+      "reasoning_quality": null,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-07",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.95,
+      "ar_score": 80.0,
+      "reasoning_quality": 0.8,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-08",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9571428571428572,
+      "ar_score": 80.0,
+      "reasoning_quality": 0.8,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-09",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9214285714285715,
+      "ar_score": 70.0,
+      "reasoning_quality": 0.7,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-10",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9785714285714285,
+      "ar_score": 70.0,
+      "reasoning_quality": 0.7,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-11",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.95,
+      "ar_score": 80.0,
+      "reasoning_quality": 0.8,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    },
+    {
+      "company": "NVDA",
+      "month": "2026-12",
+      "n_agents": 7,
+      "avg_task_fulfillment": 0.9785714285714285,
+      "ar_score": 85.0,
+      "reasoning_quality": 0.85,
+      "logical_alignment": null,
+      "quantitative_grounding": null,
+      "fallacy_avoidance": null
+    }
+  ]
+}
