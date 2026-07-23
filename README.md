@@ -4,15 +4,15 @@ This repository accompanies a research project on constructing a news-based inte
 
 ---
 
-## Results — AFCI forecasting (from the paper)
+## Results — AFCI forecasting
 
-**AFCI forecast validation** on the held-out test period (Bayesian mean with uncertainty band):
+**AFCI forecast validation**:
 
 | Apple (AAPL) | NVIDIA (NVDA) |
 |:---:|:---:|
 | ![AAPL AFCI Forecast Validation](readme_Figure/aapl_testing_validation.png) | ![NVDA AFCI Forecast Validation](readme_Figure/nvda_testing_validation.png) |
 
-**Distribution of normalized AFCI competitive gaps** between the focal firm and the other AI-oriented firms:
+**Distribution of normalized AFCI competitive gaps** between the target firm and the other AI-firms:
 
 | Apple (AAPL) | NVIDIA (NVDA) |
 |:---:|:---:|
@@ -37,14 +37,14 @@ This repository accompanies a research project on constructing a news-based inte
 
 ## Prerequisites
 
-- **Python** 3.11+
+- **Python** 3.11+ (Recommend 3.13)
 - **Neo4j** 2026.05.x (Community) with vector-index support
-- **GPU + vLLM** for the embedding and LLM servers (OpenAI-compatible endpoints)
+- **GPU + vLLM** for the embedding and LLM servers
 
 Install per-component dependencies:
 
 ```bash
-pip install -r Agent/requirements.txt            # Agent pipeline
+pip install -r Agent/requirements.txt             # Agent pipeline
 pip install -r Agent/TemporalRAG/requirements.txt # Web service (optional)
 ```
 
