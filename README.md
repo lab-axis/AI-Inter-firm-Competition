@@ -1,4 +1,4 @@
-# AFCI — AI-Firm News Intelligence: Knowledge Graph, TemporalRAG & Forecasting
+# Context-aware Forecasting of Inter-firm Competitive Dynamics with Graph Learning and Multi-agent Reasoning
 
 This repository accompanies a research project on constructing a news-based intelligence signal for 30 AI/IT companies. It combines (1) large-scale GDELT news collection, (2) a Neo4j knowledge graph with a Temporally-Bounded RAG (TBR) agent, and (3) a graph neural-network forecasting baseline (B-MTGNN).
 
