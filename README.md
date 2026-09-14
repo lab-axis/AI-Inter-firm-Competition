@@ -127,12 +127,6 @@ python pipeline.py agents --horizon 36 --companies NVDA --months 2028-12
 
 For a custom forecast run use `--run my_12mo`, or supply `--forecast-dir PATH` for an explicit output directory. Generate the selected forecast before running agents. Dates are checked against the actual forecast-array length; for example, `6mo` rejects 2026-07 and `36mo` accepts through 2028-12. Agent logs are written under `Agent/Multi_agent_Debate/logs/`. The existing RAG cutoff is the selected interpretation month; future target months do not imply that future news exists, and this is not automatically a prospective, forecast-origin-frozen evaluation.
 
-## Publication boundary
-
-The local source archives remain available but are excluded from Git until redistribution rights are checked. `.gitignore` also excludes credentials, IDE files, databases, logs and generated runs. Review the prepared data's redistribution terms before publishing it too. No license grant, GitHub upload or DOI reservation is implied by this cleanup. Historical experiment evidence must be packaged separately for paper-level reproducibility; do not discard the recovery archive.
-
-Use `python pipeline.py --dry-run <command> ...` to inspect execution without starting it. `check` lists missing packages and files, but does not certify live service readiness.
-
 ## Offline smoke test
 
 On Windows, run `RUN_SMOKE.bat` from Explorer or a terminal. It uses the local
