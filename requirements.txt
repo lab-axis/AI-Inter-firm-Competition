@@ -1,0 +1,30 @@
+# Forecast/training dependencies. 
+# Install PyTorch first
+torch
+numpy
+pandas
+scipy
+matplotlib
+PyYAML
+safetensors
+optuna
+
+# Data collection
+dependencies.
+-r requirements.txt
+requests
+beautifulsoup4
+python-dotenv
+sec-api
+sentence-transformers
+yfinance
+pytrends
+aiohttp
+
+# agent/RAG 
+langgraph
+pydantic>=2
+neo4j
+trafilatura
+newspaper3k
+lxml_html_clean

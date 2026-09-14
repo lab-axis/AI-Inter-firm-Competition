@@ -52,7 +52,12 @@ def load_model(Data):
             propalpha=arch["propalpha"],
             tanhalpha=arch["tanhalpha"],
             layer_norm_affline=arch.get("layer_norm_affline", False),
-            subtract_last=sub_last, weight_regularizer=arch.get("weight_regularizer", 1e-6), dropout_regularizer=arch.get("dropout_regularizer", 1e-5)
+            subtract_last=sub_last, weight_regularizer=arch.get("weight_regularizer", 1e-6), dropout_regularizer=arch.get("dropout_regularizer", 1e-5),
+            use_revin=arch.get("use_revin", True),
+            use_decomp=arch.get("use_decomp", True),
+            use_concrete_dropout=arch.get("use_concrete_dropout", True),
+            use_ar_branch=arch.get("use_ar_branch", True),
+            use_afci_feedback=arch.get("use_afci_feedback", True)
         ).to(device)
 
         ret = model.load_state_dict(state_dict, strict=False)
@@ -228,7 +233,7 @@ def compute_mase(predict_np, true_np, train_rawdat, node_idx, feature_idx=0, h=1
 
 def evaluate_direct(data, X_, Y_, tf, model, evaluateL2, evaluateL1, batch_size, is_plot, type_name="Testing", z=1.96):
     model.eval()
-    model.mc_dropout = True  # Enable proper test-time MC Dropout ensembling
+    model.mc_dropout = True  # Enable Monte Carlo dropout during evaluation.
     predict = None
     test = None
     variance = None
@@ -425,6 +430,19 @@ def evaluate_direct(data, X_, Y_, tf, model, evaluateL2, evaluateL1, batch_size,
     ub = predict_np + confidence_95.data.cpu().numpy()
     picp = np.mean((Ytest_np >= lb) & (Ytest_np <= ub))
     mpiw = np.mean(ub - lb)
+
+    _cd = getattr(args, "calib_dump", "")
+    if _cd:
+        os.makedirs(_cd, exist_ok=True)
+        _tag = globals().get("_CALIB_TAG", getattr(args, "seed", 0))
+        np.savez(
+            os.path.join(_cd, f"{args.version}_seed{_tag}_{type_name}.npz"),
+            prediction=predict_np,
+            target=Ytest_np,
+            half_width=confidence_95.data.cpu().numpy(),
+            picp=np.float64(picp),
+            mpiw=np.float64(mpiw),
+        )
 
     print(f"[{type_name}] "
           f"RSE(window): {avg_node_rse:.4f} | "
@@ -658,32 +676,45 @@ def resolve_device(dev_str: str) -> torch.device:
 
 def main(experiment):
     set_random_seed(fixed_seed)
-    # gcn_depth: 2 dominant in top-20 (13/20), avg(2)=1.203 vs avg(1)=1.232
+    # Candidate hyperparameters for optional search; fixed_hp overrides these lists.
     gcn_depths    = [1, 2]
-    # lr: 0.0003 best avg (1.199), 0.0008 strong in top-20 (13/20); 0.001 & 0.0002 removed
     lrs           = [0.0003, 0.0005, 0.0008]
-    # conv: 8 & 12 essentially tied (~1.212 avg); 16 removed (1.316); 10 removed (bug)
     convs         = [8, 12]
-    # res: 8 clearly best avg (1.199); 12/16 ok; 24 removed (1.307); 10 removed (bug)
     ress          = [8, 12, 16]
-    # skip: 16 best avg (1.199), 24 next (1.215), 32 ok (1.220); 20 & 48 removed
     skips         = [16, 24, 32]
-    # end: 32 best avg (1.203), 64 & 48 ok; 96 removed (1.315)
     ends          = [32, 48, 64]
-    # k (subgraph_size): 5 dominant in top-20 (13/20); 9 best mean (1.215); expanded to 15, 20 for adaptive graph from scratch
     ks            = [5, 7, 9, 15, 20]
-    # dropout: 0.6 dominant in top-20 (13/20); 0.4 best mean (1.208); all kept
     dropouts      = [0.4, 0.5, 0.6]
-    # dilation_ex: 1 overwhelmingly dominant in top-20 (18/20) ??weight search toward 1
-    dilation_exs  = [1, 1, 2]   # doubled weight on 1 via duplication
-    # node_dim: expanded search space up to 64 for purely adaptive graph learning
+    if getattr(args, "dedupe_dilation", False):
+        dilation_exs = [1, 2]
+    else:
+        dilation_exs = [1, 1, 2]   # legacy: doubled weight on 1 via duplication
     node_dims     = [10, 20, 30, 40, 64]
-    # prop_alpha: 0.1 best avg (1.201), 0.2 close (1.204); 0.001/0.01 removed
     prop_alphas   = [0.05, 0.1, 0.2]
-    # tanh_alpha: 0.1 best avg (1.212); 0.05 removed (avg 1.300, 2 terrible samples)
     tanh_alphas   = [0.1, 1, 3]
-    # layers: 2 & 3 essentially tied; both kept
     layers_list   = [2, 3]
+
+    # fixed_hp collapses each search dimension to its supplied value.
+    # search_iters then controls repeated training with seed + repeat_index.
+    if args.fixed_hp:
+        if not os.path.exists(args.hp_path):
+            raise FileNotFoundError(f"--fixed_hp requires hyperparameters at {args.hp_path}")
+        with open(args.hp_path, "r") as f:
+            _h = eval(f.read().strip())
+        gcn_depths, lrs         = [_h[0]], [_h[1]]
+        convs, ress             = [_h[2]], [_h[3]]
+        skips, ends             = [_h[4]], [_h[5]]
+        ks, dropouts            = [_h[6]], [_h[7]]
+        dilation_exs, node_dims = [_h[8]], [_h[9]]
+        prop_alphas             = [_h[10]]
+        tanh_alphas             = [_h[11]]
+        layers_list             = [_h[12]]
+        print(f"[fixed_hp] pinned hyperparameters from {args.hp_path}: {_h}")
+        print(f"[fixed_hp] {args.search_iters} repeat(s), seeds "
+              f"{args.seed}..{args.seed + args.search_iters - 1}")
+
+    _burn_in = int(getattr(args, "burn_in", 20))
+    print(f"[SEARCH] checkpoint burn-in: epoch > {_burn_in}", flush=True)
 
     best_val = 10000000
     best_rse = 10000000
@@ -725,7 +756,11 @@ def main(experiment):
         args.graph_file,
         args.normalize, 
         args.seq_out_len,
-        nodes_file=args.nodes_file
+        nodes_file=args.nodes_file,
+        # Pass the selected target-partition policy to the shared loader.
+        split_policy=getattr(args, "split_policy", "legacy"),
+        test_reserve=getattr(args, "test_reserve", 24),
+        valid_span=getattr(args, "valid_span", 24),
     )
     args.in_dim = Data.f
     args.num_nodes = Data.m
@@ -749,8 +784,21 @@ def main(experiment):
     evaluateL2 = nn.MSELoss(reduction='mean').to(device) 
     evaluateL1 = nn.L1Loss(reduction='mean').to(device) 
 
-    study = optuna.create_study(direction="minimize")
+    if getattr(args, "sampler_seed", -1) >= 0:
+        _sampler = optuna.samplers.TPESampler(seed=args.sampler_seed)
+        print(f"[SEARCH] TPESampler(seed={args.sampler_seed})", flush=True)
+    else:
+        _sampler = None
+        print("[SEARCH] TPESampler unseeded (legacy); the search is not reproducible",
+              flush=True)
+    study = optuna.create_study(direction="minimize", sampler=_sampler)
     for q in range(args.search_iters):
+        if args.fixed_hp:
+            set_random_seed(args.seed + q)
+            globals()['_CALIB_TAG'] = args.seed + q
+        # Optionally reset the training seed for each hyperparameter trial.
+        elif getattr(args, "search_seed", -1) >= 0:
+            set_random_seed(args.search_seed)
         trial = study.ask()
         gcn_depth = trial.suggest_categorical("gcn_depth", gcn_depths)
         lr = trial.suggest_categorical("lr", lrs)
@@ -765,7 +813,7 @@ def main(experiment):
         node_dim = trial.suggest_categorical("node_dim", node_dims)
         prop_alpha = trial.suggest_categorical("prop_alpha", prop_alphas)
         tanh_alpha = trial.suggest_categorical("tanh_alpha", tanh_alphas)
-        # Exploitation phase: subtract_last=True is fixed (always best performing)
+        # Use subtract_last=True in the searched configuration.
         subtract_last = True
         
         iter_best_sum = 0.0
@@ -827,14 +875,18 @@ def main(experiment):
                     seq_length=args.seq_in_len,
                     in_dim=args.in_dim, out_dim=args.seq_out_len,
                     layers=layer, propalpha=prop_alpha, tanhalpha=tanh_alpha, layer_norm_affline=False,
-                    subtract_last=subtract_last, weight_regularizer=args.weight_regularizer, dropout_regularizer=args.dropout_regularizer).to(device)
+                    subtract_last=subtract_last, weight_regularizer=args.weight_regularizer, dropout_regularizer=args.dropout_regularizer,
+                    use_revin=args.use_revin, use_decomp=args.use_decomp,
+                    use_concrete_dropout=args.use_concrete_dropout,
+                    use_ar_branch=args.use_ar_branch,
+                    use_afci_feedback=args.use_afci_feedback).to(device)
         
         print(args)
         print('The receptive field size is', model.receptive_field)
         nParams = sum([p.nelement() for p in model.parameters()])
         print('Number of model parameters is', nParams, flush=True)
 
-        # Force Smooth L1 Loss (Huber Loss) to effectively minimize both MAE and MSE
+        # Use Smooth L1 loss for the point-error component.
         criterion = nn.SmoothL1Loss(reduction='mean').to(device)
 
         # Standard PyTorch Adam optimizer & Plateau learning rate decay scheduler
@@ -843,7 +895,7 @@ def main(experiment):
         else:
             optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=args.weight_decay)
             
-        # patience=15: LR halves if val_rse doesn't improve for 15 epochs (increased for adaptive graph from scratch)
+        # Halve the learning rate after the configured validation plateau.
         scheduler_opt = optimizer.base_optimizer if isinstance(optimizer, SAM) else optimizer
         scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(scheduler_opt, mode='min', factor=0.5, patience=15, threshold=1e-4)
         es_patience = 30  # Early stop if no improvement for 30 epochs
@@ -883,13 +935,11 @@ def main(experiment):
                 # Decay learning rate when validation RSE plateaus
                 scheduler.step(val_loss)
                 
-                # Bayesian Composite Objective
-                # NLL (Negative Log-Likelihood) is adopted as a Strictly Proper Scoring Rule.
-                # It perfectly penalizes point prediction errors while preventing improperly calibrated uncertainty bounds.
+                # Select checkpoints using the returned validation RSE (val_loss).
                 sum_loss = val_loss
 
-                # Tracking metrics at the iteration level (Burn-in period: 20 epochs to prevent selecting underfitted early models)
-                if epoch > 20 and (not math.isnan(val_corr)) and (iter_best_sum == 0.0 or sum_loss < iter_best_sum):
+                # Consider checkpoint candidates only after the configured burn-in.
+                if epoch > _burn_in and (not math.isnan(val_corr)) and (iter_best_sum == 0.0 or sum_loss < iter_best_sum):
                     iter_best_sum = sum_loss
                     iter_best_rse = val_loss
                     iter_best_rae = val_rae
@@ -908,7 +958,7 @@ def main(experiment):
                     
                     iter_test_acc, iter_test_rae, iter_test_corr, iter_test_smape, iter_test_mase, iter_test_mse, iter_test_mae, iter_test_rmse, iter_test_r2, iter_test_mape, iter_test_hist_rse, iter_test_global_rse, iter_test_picp, iter_test_mpiw = evaluate_direct(
                         Data, Data.test[0], Data.test[1], Data.test[2], model, evaluateL2, evaluateL1,
-                        args.batch_size, False, type_name='Testing'
+                        args.batch_size, False, type_name='Testing',
                     )
                     iter_best_test_rse = iter_test_acc
                     iter_best_test_corr = iter_test_corr
@@ -924,7 +974,7 @@ def main(experiment):
                     iter_best_test_global_rse = iter_test_global_rse
 
                 # If this is the absolute best validation model based on sum_loss, save weights and parameters
-                if epoch > 20 and (not math.isnan(val_corr)) and sum_loss < best_val:
+                if epoch > _burn_in and (not math.isnan(val_corr)) and sum_loss < best_val:
                     arch_meta = {
                         "gcn_true": args.gcn_true,
                         "buildA_true": args.buildA_true,
@@ -945,7 +995,13 @@ def main(experiment):
                         "propalpha": prop_alpha,
                         "tanhalpha": tanh_alpha,
                         "layer_norm_affline": False,
-                        "subtract_last": subtract_last
+                        "subtract_last": subtract_last,
+                        # Store component switches with the checkpoint architecture.
+                        "use_revin": args.use_revin,
+                        "use_decomp": args.use_decomp,
+                        "use_concrete_dropout": args.use_concrete_dropout,
+                        "use_ar_branch": args.use_ar_branch,
+                        "use_afci_feedback": args.use_afci_feedback
                     }
                     save_file(model.state_dict(), args.o_save, metadata={"arch": json.dumps(arch_meta)})
                     print(f"Saved safetensors file to {args.o_save}, size = {os.path.getsize(args.o_save)} bytes")
@@ -1095,34 +1151,8 @@ def main(experiment):
         study.tell(trial, iter_best_sum)
 
     if args.search_iters == 0:
-        try:
-            print(f"Attempting to load best saved model from {args.o_save}...")
-            model = load_model(Data)
-            model = model.to(device)
-            print("Successfully loaded model and weights!")
-        except Exception as e:
-            print(f"Direct load failed: {e}. Trying hyperparameter fallback...")
-            if not best_hp:
-                print("Error: No hyperparameters in hp.txt and search_iters=0. Cannot fallback.")
-                return 0,0,0,0,0,0,0,0,0,0,0,0,0,0
-            else:
-                h = best_hp
-                model = gtnet(args.gcn_true, args.buildA_true, h[0], args.num_nodes,
-                              device, Data.adj,
-                              dropout=h[7], subgraph_size=h[6], node_dim=h[9],
-                              dilation_exponential=h[8],
-                              conv_channels=h[2], residual_channels=h[3],
-                              skip_channels=h[4], end_channels=h[5],
-                              seq_length=args.seq_in_len, in_dim=args.in_dim, out_dim=args.seq_out_len,
-                              layers=h[12], propalpha=h[10], tanhalpha=h[11],
-                              subtract_last=h[14], weight_regularizer=args.weight_regularizer, dropout_regularizer=args.dropout_regularizer).to(device)
-                try:
-                    with safe_open(args.o_save, framework="pt", device="cpu") as f:
-                        state_dict = {k: f.get_tensor(k) for k in f.keys()}
-                        model.load_state_dict(state_dict, strict=False)
-                    print(f"Model weights loaded from {args.o_save} using strict=False fallback.")
-                except Exception as ex:
-                    print(f"Weights not found in {args.o_save} ({ex}). Using uninitialized model.")
+        # Fail closed: an absent/incompatible checkpoint is not a valid evaluation.
+        model = load_model(Data).to(device)
     else:
         with open(args.hp_path, "w") as f:
             f.write(str(best_hp))
@@ -1150,49 +1180,32 @@ plt.rcParams['savefig.dpi'] = 1200
 from config import get_args
 args = get_args()
 
-while True:
-    try:
-        user_input = input("\ninput forecast month (3, 6, 9, 12, 24, 36 / default: 3): ").strip()
-        if user_input == "":
-            months = 3
-            break
-        months = int(user_input)
-        if months in [3, 6, 9, 12, 24, 36]:
-            break
-    except ValueError:
-        print("not a number.")
+months = args.months
 
 args.seq_out_len = months
 args.seq_in_len = args.seq_out_len
-args.train_ratio = 0.70 # Dummy value; will be dynamically adjusted train_starts in util.py
-args.valid_ratio = 0.15 # Dummy value; will be dynamically adjusted valid_starts in util.py
+args.train_ratio = 0.70 # Compatibility value; the loader uses explicit target windows.
+args.valid_ratio = 0.15 # Compatibility value; the loader uses explicit target windows.
 
-# Dynamically resolve run version directories
-if args.version == "auto":
-    base_dir = bayesian_base_dir
-    os.makedirs(base_dir, exist_ok=True)
-    existing_runs = []
-    for d in os.listdir(base_dir):
-        if d.startswith("run_"):
-            try:
-                idx = int(d.split("_")[1])
-                existing_runs.append(idx)
-            except:
-                pass
-    if args.search_iters == 0:
-        if not existing_runs:
-            raise FileNotFoundError("No existing run_X directories found. Please train a model first.")
-        latest_idx = max(existing_runs)
-        #args.version = f"run_{latest_idx}"
-        args.version = "12mo"
-        print(f"[Load Mode] search_iters=0. Automatically selected latest run: {args.version}")
-    else:
-        next_idx = max(existing_runs) + 1 if existing_runs else 0
-        args.version = f"run_{next_idx}"
+if args.version == 'auto':
+    raise ValueError('Choose an explicit --version; use pipeline.py for named runs.')
+if args.version in ('6mo', '12mo', '24mo', '36mo') and args.search_iters > 0:
+    raise ValueError('Do not overwrite the supplied checkpoint. Train under a new run name.')
 
 args.o_save = os.path.join(bayesian_base_dir, f"{args.version}/o_model.safetensors")
 args.save = os.path.join(bayesian_base_dir, f"{args.version}/model.safetensors")
 args.hp_path = os.path.join(bayesian_base_dir, f"{args.version}/hp.txt")
+if args.search_iters == 0:
+    from run_profile import load_profile
+    profile = load_profile(os.path.join(bayesian_base_dir, args.version), args.data, args.nodes_file)
+    args.seq_in_len = profile['architecture']['seq_length']
+    args.seq_out_len = profile['architecture']['out_dim']
+    args.split_policy = profile['split_policy']
+    args.test_reserve = profile['test_reserve']
+    args.valid_span = profile['valid_span']
+    args.normalize = profile.get('normalize', 2)
+    if args.split_policy == 'legacy':
+        print('[NOTICE] Historical compatibility evaluation; target blocks may overlap.')
 
 print(f"Run resolved to version: {args.version}")
 print(f"Model outputs will be saved to: {os.path.join(bayesian_base_dir, args.version)}")
@@ -1229,4 +1242,3 @@ if __name__ == "__main__":
         amse.append(test_mse)
         amae.append(test_mae)
         armse.append(test_rmse)
-

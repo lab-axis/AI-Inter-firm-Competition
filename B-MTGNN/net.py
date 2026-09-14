@@ -95,13 +95,20 @@ class RevIN(nn.Module):
 
 
 class gtnet(nn.Module):
-    def __init__(self, gcn_true, buildA_true, gcn_depth, num_nodes, device, predefined_A=None, static_feat=None, dropout=0.3, subgraph_size=20, node_dim=40, dilation_exponential=1, conv_channels=32, residual_channels=32, skip_channels=64, end_channels=128, seq_length=12, in_dim=2, out_dim=12, layers=3, propalpha=0.05, tanhalpha=3, layer_norm_affline=True, subtract_last=True, weight_regularizer=1e-6, dropout_regularizer=1e-5):
+    def __init__(self, gcn_true, buildA_true, gcn_depth, num_nodes, device, predefined_A=None, static_feat=None, dropout=0.3, subgraph_size=20, node_dim=40, dilation_exponential=1, conv_channels=32, residual_channels=32, skip_channels=64, end_channels=128, seq_length=12, in_dim=2, out_dim=12, layers=3, propalpha=0.05, tanhalpha=3, layer_norm_affline=True, subtract_last=True, weight_regularizer=1e-6, dropout_regularizer=1e-5,
+                 use_revin=True, use_decomp=True, use_concrete_dropout=True, use_ar_branch=True, use_afci_feedback=True):
         super(gtnet, self).__init__()
         self.gcn_true = gcn_true
         self.buildA_true = buildA_true
         self.num_nodes = num_nodes
         self.dropout = dropout
         self.predefined_A = predefined_A
+        # Optional component switches; all components are enabled by default.
+        self.use_revin = use_revin
+        self.use_decomp = use_decomp
+        self.use_concrete_dropout = use_concrete_dropout
+        self.use_ar_branch = use_ar_branch
+        self.use_afci_feedback = use_afci_feedback
         self.filter_convs = nn.ModuleList()
         self.gate_convs = nn.ModuleList()
         self.residual_convs = nn.ModuleList()
@@ -194,14 +201,36 @@ class gtnet(nn.Module):
 
         self.idx = torch.arange(self.num_nodes).to(device)
 
+    def _apply_dropout(self, x, training):
+        """Concrete dropout when enabled, plain fixed-rate dropout otherwise.
+        Sets self._reg to the regularisation contributed by this call."""
+        if self.use_concrete_dropout:
+            out = self.concrete_drop(x, mc_dropout=training)
+            self._reg = self.concrete_drop.regularization
+            return out
+        self._reg = torch.zeros((), device=x.device, dtype=x.dtype)
+        return F.dropout(x, p=self.dropout, training=training)
+
     def forward(self, input, idx=None):
         seq_len = input.size(3)
         assert seq_len==self.seq_length, 'input sequence length not equal to preset sequence length'
 
-        input = self.revin(input, mode='norm')
+        if self.use_revin:
+            input = self.revin(input, mode='norm')
+
+        # Ablating the autoregressive AFCI channel must happen AFTER RevIN.
+        # _denormalize() rescales the output with the statistics of input
+        # channel 0, so zeroing that channel beforehand destroys the output
+        # scale rather than removing information from the encoder.
+        if not self.use_afci_feedback:
+            input = input.clone()
+            input[:, 0, :, :] = 0.0
         
         # Series Decomposition
-        res_x, trend_x = self.decomp(input)
+        if self.use_decomp:
+            res_x, trend_x = self.decomp(input)
+        else:
+            res_x, trend_x = input, torch.zeros_like(input)
 
         if self.seq_length<self.receptive_field:
             res_x = nn.functional.pad(res_x,(self.receptive_field-self.seq_length,0,0,0))
@@ -213,9 +242,6 @@ class gtnet(nn.Module):
                     adp = self.gc(self.idx) 
                 else:
                     adp = self.gc(idx)
-                # # Dynamic weight combination of Predefined Graph (Predefined A) and Adaptive Graph
-                # if self.predefined_A is not None:
-                #     adp = 0.5 * self.predefined_A.to(adp.device) + 0.5 * adp
             else:
                 adp = self.predefined_A
 
@@ -223,10 +249,10 @@ class gtnet(nn.Module):
         
         dropout_training = self.training or getattr(self, 'mc_dropout', False)
         
-        skip_input = self.concrete_drop(res_x, mc_dropout=dropout_training)
+        skip_input = self._apply_dropout(res_x, dropout_training)
         skip = self.skip0(skip_input)
         
-        self.reg_loss = self.concrete_drop.regularization
+        self.reg_loss = self._reg
 
         for i in range(self.layers):
             residual = x
@@ -236,8 +262,8 @@ class gtnet(nn.Module):
             gate = torch.sigmoid(gate)
             x = filter * gate
             
-            x = self.concrete_drop(x, mc_dropout=dropout_training)
-            self.reg_loss += self.concrete_drop.regularization
+            x = self._apply_dropout(x, dropout_training)
+            self.reg_loss += self._reg
 
             s = x
             s = self.skip_convs[i](s)
@@ -261,26 +287,29 @@ class gtnet(nn.Module):
         x_sigma = self.end_conv_2_sigma(x)
 
         # AR Component on the Trend
-        ar_input = trend_x[:, 0, :, -self.seq_length:] # (batch_size, num_nodes, seq_length)
-        ar_out_mu = self.ar_layer_mu(ar_input)
-        ar_out_sigma = self.ar_layer_sigma(ar_input)
-        
-        ar_out_mu = ar_out_mu.permute(0, 2, 1).unsqueeze(3)
-        ar_out_sigma = ar_out_sigma.permute(0, 2, 1).unsqueeze(3)
-        
-        x_mu = x_mu + ar_out_mu
-        x_sigma = x_sigma + ar_out_sigma
+        if self.use_ar_branch:
+            ar_input = trend_x[:, 0, :, -self.seq_length:] # (batch_size, num_nodes, seq_length)
+            ar_out_mu = self.ar_layer_mu(ar_input)
+            ar_out_sigma = self.ar_layer_sigma(ar_input)
 
-        x_mu = self.revin(x_mu, mode='denorm', target_idx=0)
+            ar_out_mu = ar_out_mu.permute(0, 2, 1).unsqueeze(3)
+            ar_out_sigma = ar_out_sigma.permute(0, 2, 1).unsqueeze(3)
+
+            x_mu = x_mu + ar_out_mu
+            x_sigma = x_sigma + ar_out_sigma
+
+        if self.use_revin:
+            x_mu = self.revin(x_mu, mode='denorm', target_idx=0)
         
         # Ensure standard deviation is strictly positive FIRST in the normalized space
         x_sigma = F.softplus(x_sigma) + 1e-6
 
         # Sigma denorm (only scale, no shift) AFTER softplus
-        stdev = self.revin.stdev[:, 0:1, :, :]
-        if self.revin.affine:
-            weight = self.revin.affine_weight[0].view(1, 1, 1, 1)
-            x_sigma = x_sigma / (weight + self.revin.eps)
-        x_sigma = x_sigma * stdev
+        if self.use_revin:
+            stdev = self.revin.stdev[:, 0:1, :, :]
+            if self.revin.affine:
+                weight = self.revin.affine_weight[0].view(1, 1, 1, 1)
+                x_sigma = x_sigma / (weight + self.revin.eps)
+            x_sigma = x_sigma * stdev
 
         return x_mu, x_sigma

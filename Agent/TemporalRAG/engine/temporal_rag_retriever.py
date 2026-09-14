@@ -1,26 +1,12 @@
-"""
-temporal_rag_retriever.py
-=========================
-Temporal PathRAG 검색 엔진 (PathRAG + Temporally-Bounded Retrieval)
+"""Retrieve temporally filtered firm relationships and article chunks from Neo4j.
 
-[아키텍처]
-  1. Query Entity Extraction  — 쿼리에서 타깃 기업명을 고속 감지
-  2. Temporally-Bounded Path Retrieval — Neo4j에서 시간 격리된 인과 경로 탐색
-       WHERE r.published_ts < cutoff_ts (에지 레벨 시간 필터)
-       WHERE a.published_ts < cutoff_ts (기사 레벨 시간 필터)
-  3. Flow-based Path Pruning (Lite) — 중복·저정보 경로 가지치기
-  4. Hybrid Fallback — 경로가 없을 때 시간 제약 벡터 검색으로 전환
+Firm aliases identify query entities. Relationship candidates are filtered
+by stored publication timestamps, ranked by time-decayed edge weights and
+pruned by relative weight. Vector retrieval supplies fallback or supplementary
+chunks. Co-occurrence relationships do not by themselves establish causality.
 
-[학술적 근거]
-  PathRAG (BUPT-GAMMA, arXiv:2502.14902, 2025):
-    "We retrieve relational paths from the indexing graph rather than
-     isolated chunks, using flow-based pruning to eliminate redundant
-     information prior to path-based prompting."
-
-  Temporally-Bounded Retrieval (TBR):
-    Lopez de Prado (2018). Advances in Financial Machine Learning.
-    Hyndman & Athanasopoulos (2021). Forecasting: Principles and Practice.
-"""
+Related work: PathRAG (BUPT-GAMMA, arXiv:2502.14902, 2025). The pruning
+implemented here uses relative edge weights, not a general network-flow solver."""
 
 import os
 import math
@@ -31,14 +17,9 @@ from neo4j import GraphDatabase
 from dotenv import load_dotenv
 
 
-# ──────────────────────────────────────────────────────────────────────────────
-# 유틸리티: 타깃 기업명 → ticker 역매핑 (고속 정규식)
-# ──────────────────────────────────────────────────────────────────────────────
+# Firm alias and ticker matching
 import re
-try:
-    from gdelt_collector import TARGET_FIRMS_MAPPING
-except ImportError:
-    from engine.gdelt_collector import TARGET_FIRMS_MAPPING
+from .gdelt_collector import TARGET_FIRMS_MAPPING
 
 _FIRM_NAME_TO_TICKER: Dict[str, str] = {}
 for _ticker, _names in TARGET_FIRMS_MAPPING.items():
@@ -47,24 +28,19 @@ for _ticker, _names in TARGET_FIRMS_MAPPING.items():
 
 
 def _extract_tickers_from_query(query: str) -> List[str]:
-    """
-    쿼리 텍스트에서 TARGET_FIRMS에 속하는 기업 ticker를 결정론적으로 추출.
-
-    예: "NVIDIA and TSMC partnership impact" → ["NVDA", "TSM"]
-
-    SLM NER 없이 고속 처리:
-      - 결정론적 방식이므로 결과가 완벽히 재현 가능 (논문 재현성 보장)
-      - ticker 자체도 직접 검색 (예: "NVDA" 쿼리 → ["NVDA"])
-    """
+    """Extract configured firm tickers from query text using alias and ticker patterns.
+    
+    For example, a query mentioning NVIDIA and TSMC can match NVDA and TSM.
+    Matching is rule-based; no language-model entity extraction is performed."""
     query_lower = query.lower()
     found = set()
 
-    # 1. 기업명으로 매칭
+    # Match company-name aliases.
     for name_lower, ticker in _FIRM_NAME_TO_TICKER.items():
         if re.search(r'\b' + re.escape(name_lower) + r'\b', query_lower):
             found.add(ticker)
 
-    # 2. ticker 자체로 매칭 (예: "NVDA", "AMD")
+    # Also match ticker symbols directly.
     for ticker in TARGET_FIRMS_MAPPING.keys():
         if re.search(r'\b' + re.escape(ticker.lower()) + r'\b', query_lower):
             found.add(ticker)
@@ -72,36 +48,16 @@ def _extract_tickers_from_query(query: str) -> List[str]:
     return list(found)
 
 
-# ──────────────────────────────────────────────────────────────────────────────
-# TemporalPathRAGRetriever
-# ──────────────────────────────────────────────────────────────────────────────
 
 class TemporalPathRAGRetriever:
-    """
-    PathRAG + Temporally-Bounded Retrieval 통합 검색 엔진.
+    """Retrieve firm co-occurrence relationships and supporting article chunks.
+    
+    The result contains paths, chunks, retrieval mode, matched entities and cutoff
+    metadata. Chunks include text, source title, URL and publication date. Vector
+    retrieval is used when relationships are absent or additional context is needed."""
 
-    retrieve() 메서드 호출 시 수행 단계:
-      1. 쿼리 엔티티 추출 (Query Entity Extraction)
-      2. 시간 격리 그래프 경로 탐색 (Temporal Graph Path Retrieval via Neo4j Cypher)
-      3. Flow-based Pruning Lite (중복·저가중치 경로 가지치기)
-      4. Path-based Context 조립
-      5. [Fallback] 경로 없을 시 시간 제약 VectorRAG 전환
-
-    반환값 구조:
-      {
-        "paths":   [{"path_str": "NVDA -(CO_OCCURRED_WITH)→ TSM", "weight": 7,
-                     "chunks": [...], "published_ts_range": (ts_min, ts_max)}, ...],
-        "chunks":  [{"text": ..., "score": ..., "published_date": ...,
-                     "article_url": ..., "article_title": ...}, ...],
-        "mode":    "pathrag" | "vector_fallback",
-        "entities_found": ["NVDA", "TSM"],
-        "cutoff_date": "2025-01",
-        "cutoff_ts":   1735689600,
-      }
-    """
-
-    # jinaai/jina-embeddings-v3: 별도 쿼리 프리픽스 불필요 (BGE 전용 설정 제거)
-    BGE_QUERY_PREFIX = ""  # Jina 모델은 prefix 없이 사용
+    # No instruction prefix is added for the configured Jina query embeddings.
+    BGE_QUERY_PREFIX = ""  
 
     def __init__(
         self,
@@ -115,21 +71,13 @@ class TemporalPathRAGRetriever:
         min_path_weight: int = 1,
         max_path_depth: int  = 2,
     ):
-        """
-        Args:
-            neo4j_uri            : Neo4j Bolt URI
-            neo4j_user           : Neo4j 사용자명
-            neo4j_password       : Neo4j 비밀번호
-            neo4j_database       : Neo4j 데이터베이스 이름 (None이면 기본 DB 사용)
-            vllm_embed_url       : vLLM /v1/embeddings 엔드포인트
-            embed_model          : 임베딩 모델명 — auto_rag_builder.py와 반드시 동일해야 함
-                                   (기본: jinaai/jina-embeddings-v3, 1024D)
-                                   ※ 모델 불일치 시 벡터 유사도 검색 정확도 급락
-            candidate_multiplier : VectorRAG fallback 시 오버샘플링 배수
-            min_path_weight      : PathRAG Pruning 최소 에지 가중치 임계값
-                                   이 값 미만의 CO_OCCURRED_WITH 에지는 경로에서 제외
-            max_path_depth       : 기업 간 최대 탐색 홉 수 (1~3 권장)
-        """
+        """Configure the Neo4j connection, embedding service and retrieval limits.
+        
+        The embedding model must match the model used to build the vector index.
+        A None database name selects the Neo4j default database.
+        candidate_multiplier controls vector-candidate oversampling; min_path_weight
+        filters relationship weights. max_path_depth is stored for interface
+        compatibility, but the current Cypher queries retrieve one-hop relationships."""
         self.driver               = GraphDatabase.driver(neo4j_uri, auth=(neo4j_user, neo4j_password))
         self.neo4j_database       = neo4j_database
         self.vllm_embed_url       = vllm_embed_url
@@ -141,9 +89,7 @@ class TemporalPathRAGRetriever:
     def close(self):
         self.driver.close()
 
-    # ──────────────────────────────────────────────────────────────────────────
-    # 핵심 공개 메서드
-    # ──────────────────────────────────────────────────────────────────────────
+    # Public retrieval interface
 
     def retrieve(
         self,
@@ -152,47 +98,41 @@ class TemporalPathRAGRetriever:
         top_k: int = 5,
         target_firms: Optional[List[str]] = None,
     ) -> Dict:
-        """
-        Temporal PathRAG 검색 수행.
-
-        Args:
-            query       : 자연어 쿼리
-            cutoff_date : 시간 컷오프 (예: "2025-01")
-                          이 날짜 이전 기사·관계만 검색 대상 → Look-ahead Bias 차단
-            top_k       : 최종 반환 청크 수
-            target_firms: 기업 ticker 필터 (None이면 쿼리에서 자동 추출)
-
-        Returns:
-            Dict — paths / chunks / mode / entities_found / cutoff_date / cutoff_ts
-        """
+        """Retrieve context for a query at the supplied cutoff.
+        
+        cutoff_date accepts a month, day or ISO timestamp. Stored publication
+        timestamps are compared to that cutoff. target_firms overrides automatic
+        entity extraction; top_k controls the requested context size.
+        
+        Return paths, chunks, mode, entities_found, cutoff_date and cutoff_ts."""
         cutoff_ts = self._parse_cutoff_date(cutoff_date)
         cutoff_dt = datetime.fromtimestamp(cutoff_ts, tz=timezone.utc).strftime("%Y-%m-%d")
         print(f"\n[TemporalRAG] 검색 시작 | cutoff: {cutoff_date} ({cutoff_dt}) | query: {query[:60]}...")
 
-        # 엔티티 추출
+        # Resolve query entities.
         entities = target_firms or _extract_tickers_from_query(query)
         print(f"[TemporalRAG] 추출된 기업 엔티티: {entities}")
 
-        # 시간 격리 그래프 경로 탐색
+        # Retrieve relationships subject to the publication-time filter.
         paths = []
         if len(entities) >= 1:
             paths = self._retrieve_temporal_paths(entities, cutoff_ts, top_k)
             print(f"[TemporalRAG] 경로 인출: {len(paths)}개")
 
-            # ③ Flow-based Pruning Lite
+            # Prune relationship candidates by relative weight.
             paths = self._flow_based_pruning(paths)
             print(f"[TemporalRAG] Flow Pruning 후: {len(paths)}개 경로 확정")
 
-        # 각 경로의 관련 청크 수집
+        # Attach article chunks to the retained firm pairs.
         if paths:
             paths = self._attach_chunks_to_paths(paths, query, cutoff_ts, chunks_per_path=2)
             mode  = "pathrag"
         else:
-            # Fallback: 경로 없을 시 시간 제약 VectorRAG
+            # Use vector retrieval when no relationship candidates remain.
             print(f"[TemporalRAG] 경로 없음 → VectorRAG Fallback 전환")
             mode  = "vector_fallback"
 
-        # 시간 제약 벡터 검색 (Fallback 또는 보완 청크)
+        # Retrieve temporally filtered fallback or supplementary chunks.
         vector_chunks = self._vector_search_with_tbr(query, cutoff_ts, top_k, entities)
 
         return {
@@ -204,27 +144,19 @@ class TemporalPathRAGRetriever:
             "cutoff_ts":      cutoff_ts,
         }
 
-    # ──────────────────────────────────────────────────────────────────────────
-    # 시간 격리 경로 탐색 (Temporal Path Retrieval)
-    # ──────────────────────────────────────────────────────────────────────────
+    # Temporally filtered relationship retrieval
 
     def _retrieve_temporal_paths(
         self, entities: List[str], cutoff_ts: int, top_k: int
     ) -> List[Dict]:
-        """
-        Neo4j Cypher를 통해 기업 간 시간 격리 관계 경로 탐색.
-
-        [핵심 설계]
-          WHERE r.published_ts < $cutoff_ts
-            → CO_OCCURRED_WITH 에지의 타임스탬프가 cutoff 이전인 경로만 탐색
-            → 미래 관계 정보가 경로에 포함되지 않음 (Look-ahead Bias 차단)
-
-          LIMIT $top_k * 3
-            → Pruning 전 충분한 후보 확보
-        """
+        """Retrieve one-hop CO_OCCURRED_WITH relationships using Neo4j Cypher.
+        
+        Require r.published_ts <= cutoff_ts and the minimum raw edge weight.
+        Rank candidates by time-decayed weight and request up to top_k * 3 rows
+        before pruning. The timestamp filter depends on stored graph metadata."""
         with self.driver.session(database=self.neo4j_database) as session:
-            # 단일 기업 쿼리: 해당 기업과 연결된 모든 기업 경로 탐색
-            # 복수 기업 쿼리: 명시된 기업들 사이의 경로 탐색
+            # For one entity, search its neighboring firms.
+            # For multiple entities, restrict results to pairs in that set.
             if len(entities) == 1:
                 cypher = """
                     MATCH (c1:Company {ticker: $ticker})
@@ -252,7 +184,7 @@ class TemporalPathRAGRetriever:
                     limit=top_k * 3,
                 )
             else:
-                # 복수 기업: 지정된 기업들 사이의 경로만 탐색
+                # Search only pairs among the requested firms.
                 cypher = """
                     UNWIND $entities AS e1
                     MATCH (c1:Company {ticker: e1})
@@ -300,42 +232,27 @@ class TemporalPathRAGRetriever:
                 })
             return paths
 
-    # ──────────────────────────────────────────────────────────────────────────
-    # Flow-based Path Pruning
-    # ──────────────────────────────────────────────────────────────────────────
+    # Relative-weight pruning
 
     def _flow_based_pruning(self, paths: List[Dict]) -> List[Dict]:
-        """
-        PathRAG Flow-based Pruning의 경량 구현.
-
-        [원문 PathRAG 알고리즘 요약]
-          "We treat the graph as a flow network and prune paths whose
-           information flow (approximated by edge weight) falls below
-           a threshold relative to the maximum flow path."
-           (arXiv:2502.14902, Section 3.2)
-
-        [Lite 구현 전략]
-          1. weight 기준 정규화 점수(flow_score) 계산
-          2. 최대 weight 대비 10% 미만 경로 제거 (저정보 경로)
-          3. 동일 기업 쌍의 중복 경로 제거 (방향 무관)
-          4. 상위 N개 경로만 유지
-
-        이 방식은 원문의 네트워크 흐름 이론(Network Flow Theory)을
-        단순화한 것으로, SLM의 컨텍스트 창을 압축하는 핵심 목적을 달성함.
-        """
+        """Rank and prune candidates using their supplied relationship weights.
+        
+        Normalize by the maximum weight, discard scores below 0.1, deduplicate
+        unordered firm pairs, and retain the highest-scoring candidates. This is
+        a relative-weight heuristic, not an implementation of network-flow optimization."""
         if not paths:
             return paths
 
-        # 1. 최대 weight 기준 flow_score 정규화
+        # Normalize candidate weights by the maximum weight.
         max_weight = max(p["weight"] for p in paths)
         for p in paths:
             p["flow_score"] = p["weight"] / max_weight if max_weight > 0 else 0.0
 
-        # 2. 저정보 경로 제거 (flow_score < 10%)
+        # Discard candidates with a normalized weight below 0.1.
         PRUNE_THRESHOLD = 0.10
         paths = [p for p in paths if p["flow_score"] >= PRUNE_THRESHOLD]
 
-        # 3. 중복 기업 쌍 제거 (방향 무관: A→B == B→A)
+        # Deduplicate unordered firm pairs.
         seen_pairs = set()
         unique_paths = []
         for p in paths:
@@ -344,26 +261,20 @@ class TemporalPathRAGRetriever:
                 seen_pairs.add(pair)
                 unique_paths.append(p)
 
-        # 4. flow_score 기준 내림차순 정렬
+        # Sort by normalized weight in descending order.
         unique_paths.sort(key=lambda x: x["flow_score"], reverse=True)
 
         return unique_paths
 
-    # ──────────────────────────────────────────────────────────────────────────
-    # 경로에 근거 청크 연결
-    # ──────────────────────────────────────────────────────────────────────────
+    # Supporting article chunks
 
     def _attach_chunks_to_paths(
         self, paths: List[Dict], query: str, cutoff_ts: int, chunks_per_path: int = 2
     ) -> List[Dict]:
-        """
-        각 경로를 구성하는 기업 쌍과 연관된 실제 기사 청크를 Neo4j에서 인출.
-
-        경로 [NVDA → TSM] 에 대해:
-          - NVDA와 TSM 모두 MENTIONED_IN 관계를 가진 Article 조회
-          - 그 Article의 HAS_CHUNK 청크를 반환
-          - cutoff_ts 이전 청크만 포함 (TBR 보장)
-        """
+        """Attach chunks from articles that mention both firms in each retained pair.
+        
+        Article and chunk timestamps must be at or before cutoff_ts. Candidates
+        are ordered by target-firm relevance and publication time."""
         query_emb = self._embed_query(query)
         if query_emb is None:
             return paths
@@ -406,7 +317,7 @@ class TemporalPathRAGRetriever:
                         ).strftime("%Y-%m-%d") if rec["ts"] else "Unknown",
                         "article_url":    rec["url"],
                         "article_title":  rec["title"],
-                        "score":          None,  # 경로 기반 청크는 별도 스코어 없음
+                        "score":          None,  # No vector similarity score is assigned to relationship-derived chunks.
                     }
                     for rec in result
                 ]
@@ -414,9 +325,7 @@ class TemporalPathRAGRetriever:
 
         return paths
 
-    # ──────────────────────────────────────────────────────────────────────────
-    # VectorRAG Fallback (TBR 포함)
-    # ──────────────────────────────────────────────────────────────────────────
+    # Temporally filtered vector retrieval
 
     def _vector_search_with_tbr(
         self,
@@ -425,12 +334,10 @@ class TemporalPathRAGRetriever:
         top_k: int,
         target_firms: Optional[List[str]] = None,
     ) -> List[Dict]:
-        """
-        시간 제약 벡터 검색 (Temporally-Bounded VectorRAG).
-
-        PathRAG 경로가 없거나 보완 청크가 필요할 때 사용.
-        candidate_k = top_k × candidate_multiplier 오버샘플링 후 시간 필터 적용.
-        """
+        """Retrieve vector candidates and filter them by publication time.
+        
+        Oversample top_k * candidate_multiplier candidates before applying the
+        time filter. Use the results as fallback or supplementary context."""
         query_emb = self._embed_query(query)
         if query_emb is None:
             print("    [경고] 쿼리 임베딩 실패 - VectorRAG Fallback 건너뜀")
@@ -510,17 +417,13 @@ class TemporalPathRAGRetriever:
                 })
             return rows
 
-    # ──────────────────────────────────────────────────────────────────────────
-    # 공통 유틸리티
-    # ──────────────────────────────────────────────────────────────────────────
+    # Embedding and date utilities
 
     def _embed_query(self, query: str) -> Optional[List[float]]:
-        """
-        vLLM 임베딩 API로 쿼리 임베딩 생성.
-        jinaai/jina-embeddings-v3: 별도 쿼리 프리픽스 불필요.
-        (BGE 모델 사용 시에는 "Represent this sentence: " 프리픽스 필요)
-        """
-        prefixed = self.BGE_QUERY_PREFIX + query  # Jina 모델: prefix = "" (빈 문자열)
+        """Embed the query through the configured HTTP endpoint.
+        
+        The configured query prefix is prepended before the request."""
+        prefixed = self.BGE_QUERY_PREFIX + query  # The default query prefix is empty.
         try:
             payload  = {"model": self.embed_model, "input": [prefixed]}
             resp     = requests.post(self.vllm_embed_url, json=payload, timeout=30)
@@ -532,16 +435,12 @@ class TemporalPathRAGRetriever:
 
     @staticmethod
     def _parse_cutoff_date(cutoff_date: str) -> int:
-        """
-        cutoff_date 문자열 → UTC Unix Timestamp(정수).
-        지원: "YYYY-MM", "YYYY-MM-DD", ISO 형식
-
-        • "YYYY-MM"    → 해당 월 말일 23:59:59 UTC
-          예) "2026-01" → 2026-01-31 23:59:59 UTC
-          이렇게 해야 UI에서 "2026-01" 선택 시 1월 전체 데이터 조회 가능.
-        • "YYYY-MM-DD" → 해당 일 23:59:59 UTC
-        • ISO 형식   → 입력값 그대로
-        """
+        """Convert a month, day or ISO date string to a Unix timestamp.
+        
+        YYYY-MM resolves to the last second of that month in UTC; YYYY-MM-DD
+        resolves to the last second of that day in UTC. Other supported strings
+        are parsed with datetime.fromisoformat, assigned UTC and converted to a
+        timestamp. Supplied timezone offsets are replaced rather than converted."""
         import calendar as _calendar
         cutoff_date = cutoff_date.strip()
         try:
@@ -563,11 +462,10 @@ class TemporalPathRAGRetriever:
         return int(dt.timestamp())
 
 
-# 하위 호환성을 위한 별칭 (기존 코드에서 TemporalRAGRetriever를 import하는 경우 대응)
+# Retain the previous retriever name as a compatibility alias.
 TemporalRAGRetriever = TemporalPathRAGRetriever
 
 
-# ──────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     import argparse
 

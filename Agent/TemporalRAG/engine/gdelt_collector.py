@@ -3,10 +3,10 @@ import argparse
 import pandas as pd
 from dotenv import load_dotenv
 
-# python Agent/gdelt_collector.py --mode sql
-# python Agent/gdelt_collector.py --mode preprocess
+# Generate SQL: python pipeline.py rag sql
+# Clean downloaded records: python pipeline.py rag preprocess
 
-# 역할: 30개 AI/IT 기업의 12년치(2014~2025) 뉴스 데이터 수집을 위한 GDELT BigQuery SQL 생성 및 수집된 GDELT CSV 데이터를 정제하는 전처리 파이프라인.
+# Generate GDELT queries for the configured firms and preprocess exported CSVs.
 TARGET_FIRMS_MAPPING = {
     "MSFT": ["Microsoft"],
     "GOOGL": ["Google", "Alphabet"],
@@ -41,21 +41,19 @@ TARGET_FIRMS_MAPPING = {
 }
 
 def generate_bigquery_sql(start_date: str, end_date: str) -> str:
-    """
-    Google BigQuery 콘솔에서 실행하여 12년치 고품질 GDELT 뉴스를 다운로드할 수 있는 
-    최적화된 SQL 쿼리를 생성합니다. 
-    사용자 피드백을 반영하여 모든 기업에 대해 공통 다층 필터 장치(글로벌 노이즈 차단)와
-    IT/비즈니스 도메인의 최소 테마 제약(Minimum Theme Constraints)을 일괄 적용했습니다.
-    """
-    # GDELT DATE 포맷: YYYYMMDDHHMMSS (integer)
+    """Generate a BigQuery query for firm-related GDELT records.
+    
+    Apply the configured organization, theme and source filters. The caller
+    must execute the generated query in BigQuery to obtain the records."""
+    # GDELT stores dates as YYYYMMDDHHMMSS integers.
     start_fmt = start_date.replace("-", "") + "000000"
     end_fmt = end_date.replace("-", "") + "235959"
     
-    # 30개 기업에 대한 V2Organizations LIKE 매칭 조건 작성 (GKG v2의 실측 매칭 컬럼)
+    # Match firm aliases against the GKG V2Organizations field.
     like_conditions = []
     for ticker, names in TARGET_FIRMS_MAPPING.items():
         for name in names:
-            # SQL 내 인용부호 이스케이프 처리
+            # Escape quotes within SQL string literals.
             escaped_name = name.replace("'", "''")
             like_conditions.append(f"V2Organizations LIKE '%{escaped_name}%'")
             
@@ -117,10 +115,7 @@ LIMIT 200000;
     return sql
 
 def preprocess_gdelt_csv(raw_csv_path: str, output_csv_path: str):
-    """
-    BigQuery에서 내려받은 GDELT GKG CSV raw 파일을 읽어 
-    시계열 날짜 정밀화, 감성 분석 점수(Tone) 추출 및 정제 작업을 수행합니다.
-    """
+    """Normalize dates, extract the tone score, and deduplicate a GDELT CSV export."""
     if not os.path.exists(raw_csv_path):
         print(f"[오류] 원본 GDELT CSV 파일이 없습니다: {raw_csv_path}")
         print("    -> BigQuery에서 다운로드한 CSV 파일을 위 경로에 배치해주세요.")
@@ -130,39 +125,37 @@ def preprocess_gdelt_csv(raw_csv_path: str, output_csv_path: str):
     df = pd.read_csv(raw_csv_path)
     print(f"    - 로드된 총 로우 수: {len(df)}")
     
-    # 1. 날짜 처리 (YYYYMMDDHHMMSS -> YYYY-MM-DD)
+    # Convert GDELT timestamps to calendar dates.
     print("    - 1. 시계열 날짜 변환 중...")
     df['date'] = df['date_raw'].astype(str).str[:8]
     df['date'] = pd.to_datetime(df['date'], format='%Y%m%d', errors='coerce').dt.strftime('%Y-%m-%d')
     df = df.dropna(subset=['date'])
     
-    # 2. Tone 데이터 파싱 (V2Tone 형식: 'tone,positive,negative,polarity,activity,self_reference,words')
-    #    우리는 첫 번째 요소인 대표 'tone'(평균 감성 점수: -100 ~ +100)를 추출합니다.
+    # V2Tone is a comma-separated sequence of tone statistics.
+    # Use the first field as the article tone score.
     print("    - 2. 감성 스코어(V2Tone) 정제 중...")
     def parse_tone(x):
         if pd.isna(x) or not isinstance(x, str):
             return 0.0
         try:
             parts = x.split(',')
-            return float(parts[0]) # 평균 톤 점수
+            return float(parts[0]) # Overall tone score.
         except:
             return 0.0
             
     df['sentiment_score'] = df['tone_raw'].apply(parse_tone)
     
-    # 3. 불필요한 원본 컬럼 제거 및 기사 제목 복원 시도
-    #    GDELT GKG는 URL은 주지만 기사 제목은 제공하지 않으므로, URL의 마지막 부분을 간이 제목으로 삼거나 
-    #    추후 임베딩 단계에서 크롤링할 수 있도록 설계합니다.
+    # Derive a provisional title from the URL because GKG does not supply one.
     print("    - 3. URL 기반 기사 간이 제목 생성 중...")
     def extract_title_from_url(url):
         if pd.isna(url) or not isinstance(url, str):
             return "IT Market Intelligence News"
         try:
-            # URL 끝자락에서 단어들을 추출하여 제목처럼 생성
+            # Use words in the final URL path segment as the provisional title.
             parts = url.rstrip('/').split('/')
             last_part = parts[-1].replace('-', ' ').replace('_', ' ')
             if len(last_part) > 15 and '.html' not in last_part:
-                # 확장자 제거
+                # Remove common file extensions.
                 title = last_part.split('.')[0]
                 return title.capitalize()
         except:
@@ -171,13 +164,12 @@ def preprocess_gdelt_csv(raw_csv_path: str, output_csv_path: str):
         
     df['title'] = df['url'].apply(extract_title_from_url)
     
-    # 4. 정제 완료된 컬럼만 보관
+    # Retain the fields consumed by downstream data preparation.
     cleaned_df = df[['article_id', 'date', 'source', 'url', 'title', 'organizations', 'themes', 'sentiment_score']]
     
-    # 중복 뉴스 제거 (동일 URL 기준)
+    # Deduplicate articles by URL.
     cleaned_df = cleaned_df.drop_duplicates(subset=['url'])
     
-    # 저장
     os.makedirs(os.path.dirname(output_csv_path), exist_ok=True)
     cleaned_df.to_csv(output_csv_path, index=False, encoding='utf-8-sig')
     print(f"[완료] 정제된 데이터가 저장되었습니다 ({len(cleaned_df)}건) -> {output_csv_path}")
@@ -195,7 +187,7 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    # 프로젝트 루트에 data 디렉토리 생성
+    # Create the output directory for generated SQL.
     os.makedirs("data", exist_ok=True)
     
     if args.mode == "sql":
@@ -210,7 +202,7 @@ if __name__ == "__main__":
         print("="*80)
         print(" * 다운로드한 CSV 파일을 'Agent/data/gdelt_orig.csv' 경로에 복사한 뒤,")
         print("   다음 명령어를 실행하여 데이터를 정제하세요:")
-        print("   python Agent/gdelt_collector.py --mode preprocess")
+        print("   python pipeline.py rag preprocess")
         print("="*80 + "\n")
         
     elif args.mode == "preprocess":

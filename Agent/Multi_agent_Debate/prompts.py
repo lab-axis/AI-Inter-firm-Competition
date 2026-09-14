@@ -14,7 +14,7 @@ AFCI is constructed via the Perpetual Inventory Method (PIM):
   - Monthly depreciation rate: delta = 1 - 0.5^(1/12) ≈ 0.0561 (half-life = 12 months).
   - Recursive accumulation: AFCI_i(m) = (1 - delta) * AFCI_i(m-1) + S_i(m).
 AFCI therefore reflects RESEARCH, MEDIA VISIBILITY, PUBLIC ATTENTION, and AI MOMENTUM accumulated with slow decay. For leading AI firms the forecasted AFCI typically falls in a ~0-12 range.
-The "Data" array in the forecast file is the historical observed AFCI series for 2014-01 to 2025-12. The "Forecast" array is the 12-month future AFCI prediction series for 2026-01 to 2026-12. Never treat a historical "Data" value as a 2026 forecast month, and never confuse AFCI with stock price, revenue, or CapEx.
+The "Data" array in the forecast file is the historical observed AFCI series for 2014-01 to 2025-12. The "Forecast" array contains 6, 12, 24 or 36 monthly AFCI predictions starting in 2026-01; use the horizon and target month stated in the AFCI data contract. Never treat a historical "Data" value as a future forecast month, and never confuse AFCI with stock price, revenue, or CapEx.
 
 FORBIDDEN INTERPRETATIONS: You must NEVER refer to the AFCI forecast value as "stock price", "revenue growth rate", "revenue", "capital expenditure", "CapEx", "ACFI", "ABCI", "business continuity index", "analyst consensus", or "earnings". The forecast value is a dimensionless latent competitiveness score. Financial metrics (margins, revenue, CapEx) may be cited ONLY as supporting context for the underlying signals, never as the AFCI itself.
 === END AFCI DEFINITION ===

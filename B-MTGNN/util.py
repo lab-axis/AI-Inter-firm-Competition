@@ -14,8 +14,9 @@ def normal_std(x):
     return x.std() * np.sqrt((len(x) - 1.)/(len(x)))
 
 class DataLoaderS(object):
-    # train and valid is the ratio of training set and validation set. test = 1 - train - valid
-    def __init__(self, file_name, train, valid, device, horizon, window, graph_file, normalize=2, out=1, nodes_file=None):
+    # train and valid are retained for interface compatibility; split_policy defines windows.
+    def __init__(self, file_name, train, valid, device, horizon, window, graph_file, normalize=2, out=1, nodes_file=None,
+                 split_policy="legacy", test_reserve=24, valid_span=24, num_eval=7):
         self.P = window
         self.h = horizon
 
@@ -50,7 +51,21 @@ class DataLoaderS(object):
         self.dat = np.zeros(self.rawdat.shape)
         self.normalize = normalize
         self.out_len = out
-        
+
+        # Obtain target windows and the scaling boundary from split_policy.build().
+        try:
+            import split_policy as _sp
+        except ImportError:
+            import sys as _sys
+            _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            import split_policy as _sp
+        self.split_plan = _sp.build(n=self.n, P=self.P, h=self.h,
+                                    out=self.out_len, policy=split_policy,
+                                    num_eval=num_eval,
+                                    test_reserve=test_reserve,
+                                    valid_span=valid_span)
+        print(_sp.report(self.split_plan), flush=True)
+
         # Scale for each node and each feature
         self.scale = np.ones((self.m, self.f))
         self._normalized(normalize)
@@ -58,13 +73,13 @@ class DataLoaderS(object):
 
         self.scale = torch.from_numpy(self.scale).float().to(device)
         self.device = device
-        self.adj = self.build_predefined_adj(graph_file) 
+        if graph_file:
+            raise ValueError('External adjacency is disabled in this release.')
+        self.adj = None  # gtnet constructs adjacency from its trained embeddings.
 
     def _normalized(self, normalize):
-        # Calculate the strict boundary where training data ends
-        # (Based on the contiguous window logic in _split: self.n - out - 2 * num_eval)
-        num_eval = 7
-        train_end = self.n - 2 * num_eval
+        # Use the normalization boundary returned by the selected split policy.
+        train_end = self.split_plan["train_end"]
         
         if (normalize == 0):
             self.dat = self.rawdat
@@ -82,12 +97,11 @@ class DataLoaderS(object):
 
     def _split(self, train, valid):
         out = self.out_len
-        num_eval = 7  # 7 eval windows
 
-        # Contiguous sliding window evaluation
-        test_starts = list(range(self.n - out - num_eval + 1, self.n - out + 1))
-        valid_starts = list(range(self.n - out - 2 * num_eval + 1, self.n - out - num_eval + 1))
-        train_starts = list(range(self.P + self.h - 1, self.n - out - 2 * num_eval + 1))
+        # Construct samples from the origin lists returned by split_policy.build().
+        test_starts  = list(self.split_plan["test_starts"])
+        valid_starts = list(self.split_plan["valid_starts"])
+        train_starts = list(self.split_plan["train_starts"])
 
         self.train_starts = train_starts
 
@@ -136,20 +150,6 @@ class DataLoaderS(object):
             start_idx += batch_size
 
     #by Zaid et al.
-    def build_predefined_adj(self, filename):
-        print(f'Loading adjacency matrix from {filename}...')
-        if not os.path.exists(filename):
-            print(f'Warning: {filename} not found. Returning identity.')
-            return torch.eye(self.m)
-            
-        df_adj = pd.read_csv(filename, index_col=0)
-        adj = torch.from_numpy(df_adj.values).float()
-        
-        print(f'Adjacency matrix loaded with shape {adj.shape}')
-        print(f'If in config.py buildA_true variable is True, \'{filename}\' is not used, and model is self trained Graph.\n')
-        return adj
-
-    #by Zaid et al.
     # returns column names within dataset    
     def create_columns(self):
 
@@ -170,12 +170,7 @@ class DataLoaderS(object):
 
 class DataLoaderM(object):
     def __init__(self, xs, ys, batch_size, pad_with_last_sample=True):
-        """
-        :param xs:
-        :param ys:
-        :param batch_size:
-        :param pad_with_last_sample: pad with the last sample to make number of samples divisible to batch_size.
-        """
+        """Batch paired arrays, optionally repeating the final sample to fill the last batch."""
         self.batch_size = batch_size
         self.current_ind = 0
         if pad_with_last_sample:
@@ -209,9 +204,7 @@ class DataLoaderM(object):
         return _wrapper()
 
 class StandardScaler():
-    """
-    Standard the input
-    """
+    """Standardize inputs using the supplied mean and standard deviation."""
     def __init__(self, mean, std):
         self.mean = mean
         self.std = std
@@ -240,12 +233,7 @@ def asym_adj(adj):
     return d_mat.dot(adj).astype(np.float32).todense()
 
 def calculate_normalized_laplacian(adj):
-    """
-    # L = D^-1/2 (D-A) D^-1/2 = I - D^-1/2 A D^-1/2
-    # D = diag(A 1)
-    :param adj:
-    :return:
-    """
+    """Return the symmetric normalized Laplacian I - D^(-1/2) A D^(-1/2)."""
     adj = sp.coo_matrix(adj)
     d = np.array(adj.sum(1))
     d_inv_sqrt = np.power(d, -0.5).flatten()

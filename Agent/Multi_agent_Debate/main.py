@@ -17,20 +17,13 @@ if parent_dir not in sys.path:
     sys.path.append(parent_dir)
 
 from dotenv import load_dotenv
+load_dotenv()  # Load endpoint settings before nodes.py reads environment variables.
 from TemporalRAG.engine.temporal_rag_retriever import TemporalPathRAGRetriever
 from Multi_agent_Debate.graph import create_debate_graph
 
-load_dotenv()
 
-# Persona-Specific RAG query templates per agent.
-# Design Principles:
-#   1. Company-anchored: Every query leads with the company ticker/name to maximize
-#      precision. This prevents unrelated companies (e.g., Meta) from appearing in
-#      company-specific regulatory or financial contexts.
-#   2. Persona-differentiated: Each query targets a distinct information domain so
-#      agents receive non-overlapping, role-relevant evidence.
-#   3. Specific signals: Queries name exact metrics, frameworks, and event types to
-#      surface high-quality chunks over generic AI industry noise.
+# Role-specific retrieval queries. Evidence may overlap across roles.
+# Most queries include the target firm; the academic query focuses on methodology.
 AGENT_RAG_QUERIES = {
     "qa": (
         "{company} AI firm competitiveness quantitative context: {company} AI-related news "
@@ -101,7 +94,7 @@ async def get_temporal_rag_context(company: str, cutoff: str, query: str = None)
         )
         retriever.close()
         
-        # Just return the raw lists, we will format them globally later
+        # Return raw results for shared citation numbering.
         paths = result.get("paths", [])
         chunks = result.get("chunks", [])
         return paths, chunks
@@ -188,24 +181,18 @@ def _round_list(values, digits: int = 3):
 
 
 def mask_forecast_data(raw_data: str, target_month: str) -> str:
-    """Mask forecast data to prevent look-ahead bias and AFCI/input-feature confusion.
-
-    The forecast files contain:
-      - Data: 144 historical observed AFCI values (2014-01 to 2025-12).
-      - Forecast: 12 future AFCI values (2026-01 to 2026-12).
-      - 95% Confidence: per-month +/- CI width for the AFCI forecast.
-      - Variance: per-month predictive variance for the AFCI forecast.
-
-    Agents should use Data only as historical continuity context and should never
-    map arbitrary Data indices to 2026 forecast months.
-    """
+    """Format the selected forecast month and preceding values for agent input.
+    
+    Expected fields are Data (144 observed AFCI values, 2014-01 to 2025-12),
+    Forecast (6, 12, 24 or 36 monthly values starting in 2026-01), interval half-widths,
+    and Variance. History provides the continuity anchor; forecasts after the
+    selected month are omitted. This formatting does not validate source dates."""
     try:
         import ast
         from datetime import datetime
 
-        month_idx = int(target_month.split("-")[1]) - 1
-        if month_idx < 0 or month_idx > 11:
-            return raw_data
+        parsed_month = datetime.strptime(target_month, '%Y-%m')
+        month_idx = (parsed_month.year - 2026) * 12 + parsed_month.month - 1
 
         parsed = {}
         for line in raw_data.strip().split("\n"):
@@ -221,20 +208,26 @@ def mask_forecast_data(raw_data: str, target_month: str) -> str:
         variance = parsed.get("Variance", [])
         data = parsed.get("Data", [])
 
+        horizon = len(forecast)
+        if len(data) != 144 or horizon not in (6, 12, 24, 36) or len(ci) != horizon or len(variance) != horizon:
+            raise ValueError('Expected 144 historical values and matching 6/12/24/36-month forecast arrays.')
+        if not 0 <= month_idx < horizon:
+            raise ValueError(f'{target_month} is outside this {horizon}-month forecast starting in 2026-01.')
+        last_month = f'{2026 + (horizon - 1) // 12}-{(horizon - 1) % 12 + 1:02d}'
+
         forecast_val = float(forecast[month_idx])
         ci_val = float(ci[month_idx]) if month_idx < len(ci) else None
         var_val = float(variance[month_idx]) if month_idx < len(variance) else None
 
-        # Canonical previous AFCI for MoM. For Jan 2026, use the last observed
-        # 2025-12 historical AFCI endpoint as the continuity anchor and label it
-        # explicitly to prevent arbitrary index/month confusion.
+        # Use the last observed AFCI as the January 2026 month-on-month anchor.
+        # For later months, use the preceding forecast value.
         if month_idx == 0:
             prev_label = "2025-12 historical observed AFCI continuity anchor"
             prev_val = float(data[-1]) if data else None
             history = []
             history_label = "No prior forecast month; target is first forecast horizon."
         else:
-            prev_month = f"2026-{month_idx:02d}"
+            prev_month = f'{2026 + (month_idx - 1) // 12}-{(month_idx - 1) % 12 + 1:02d}'
             prev_label = f"{prev_month} forecast AFCI"
             prev_val = float(forecast[month_idx - 1])
             history = forecast[:month_idx]
@@ -248,7 +241,7 @@ def mask_forecast_data(raw_data: str, target_month: str) -> str:
         lines.append("AFCI DATA CONTRACT:")
         lines.append("- AFCI = AI Firm Competitiveness Index, a latent dimensionless competitiveness stock.")
         lines.append("- Historical Observed AFCI values cover 2014-01 to 2025-12 and are used only as continuity context.")
-        lines.append("- Forecast values are the 12-month future AFCI predictions from 2026-01 to 2026-12.")
+        lines.append(f'- Forecast values are the {horizon}-month future AFCI predictions from 2026-01 to {last_month}.')
         lines.append(f"Historical Observed AFCI period: 2014-01 to 2025-12 ({len(data)} monthly values; full vector compressed to avoid arbitrary index confusion).")
         lines.append(f"Historical Observed AFCI tail (last 6 months ending 2025-12): {_round_list(data[-6:])}")
         lines.append(f"{history_label}: {_round_list(history)}")
@@ -264,39 +257,30 @@ def mask_forecast_data(raw_data: str, target_month: str) -> str:
             mom_pct = (mom / abs(prev_val) * 100.0) if prev_val != 0 else 0.0
             lines.append(f"Canonical MoM AFCI change for {target_month}: {round(mom, 3)} points ({round(mom_pct, 2)}%).")
 
-        # Compact authorized glimpse of visible forecast values for trend context only.
+        # Include forecast values only through the selected interpretation month.
         lines.append(f"Visible Forecast Values up to {target_month}: {_round_list(forecast[:month_idx + 1])}")
         lines.append(f"Visible CI Widths up to {target_month}: {_round_list(ci[:month_idx + 1])}")
         lines.append(f"Visible Variances up to {target_month}: {_round_list(variance[:month_idx + 1])}")
 
         return "\n".join(lines)
     except Exception as e:
-        print(f"Error masking data: {e}")
-        return raw_data
+        raise ValueError(f'Invalid forecast input for {target_month}: {e}') from e
 
-async def main():
-    print("=== Start Monthly Rolling Validation (Walk-Forward) Debate System ===")
+async def main(target_companies, target_months, forecast_dir):
+    for month in target_months:
+        datetime.datetime.strptime(month, '%Y-%m')
+    for company in target_companies:
+        expected = os.path.join(forecast_dir, f'{company}.txt')
+        if not os.path.isfile(expected):
+            raise FileNotFoundError(f'Required B-MTGNN forecast is missing: {expected}')
+    print("=== Start Monthly Evidence-Grounded Forecast Interpretation ===")
     start_time = time.time()
-    current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M")
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S_%f")
     
     log_base_dir = os.path.join(os.path.dirname(__file__), "logs")
     if not os.path.exists(log_base_dir):
         os.makedirs(log_base_dir)
 
-    # 돌릴 기업 리스트: INTC, TSLA, META, AAPL / MSFT run time: 233m 20.96s -> 4h
-    # 🏆 1순위 (본문 메인 Table 배치): 인텔 (INTC)
-    # 역할: "높은 수학적 불확실성(High Uncertainty)의 해석"
-    # 어필 포인트: 직전 섹션에서 INTC의 Fan Chart가 위아래로 가장 넓게(불확실하게) 퍼진 것을 보여주었습니다. 수학 모델이 결론 내리지 못한 이 불확실성을, 에이전트들이 **"막대한 정부 보조금(긍정적 규제/자본) vs 파운드리 지연 및 AI 가속기 점유율 상실(부정적 펀더멘털)"**이라는 팽팽한 논리적 충돌로 완벽하게 해석해 내는 모습을 본문에 박제해야 합니다. 논문의 서사가 가장 완벽해집니다.
-    # 🥈 2순위 (본문 서브 또는 Appendix 첫 번째): 테슬라 (TSLA)
-    # 역할: "규제 및 비관적 리스크(Regulatory & Bear Risk)의 극대화"
-    # 어필 포인트: 테슬라는 AI 비전(자율주행, 로보택시)으로 인한 기대감이 엄청나지만, 동시에 규제 기관(NHTSA)의 조사와 막대한 인프라 비용이라는 치명적 리스크를 안고 있습니다. 우리 시스템의 규제 에이전트(RC)와 비관적 에이전트(BA)가 가장 맹활약(Stress-test)할 수 있는 최고의 타겟입니다. "에이전트가 단순한 낙관론에 빠지지 않는다"는 것을 증명하기 좋습니다.
-    # 🥉 3순위 (Appendix): 애플 (AAPL)
-    # 역할: "정량적 과거 지표의 한계를 정성적 이벤트로 극복"
-    # 어필 포인트: 애플은 생성형 AI 시장 진입이 늦었기 때문에, 과거 지표만 학습하는 수학 모델은 애플의 미래 격차(Gap)를 보수적으로 예측할 수 있습니다. 하지만 **펀더멘털 에이전트(FA)**가 "Apple Intelligence의 온디바이스 생태계 장악력"이라는 정성적 호재를 근거로 모델의 한계를 보완해 내는 모습을 보여주기에 완벽합니다.
-    # 🏅 4순위 (Appendix): 메타 (META)
-    # 역할: "비즈니스 모델(수익성 vs 오픈소스 생태계)의 구조적 토론"
-    # 어필 포인트: Llama를 통한 AI 생태계 장악이라는 압도적 호재와, 수십조 원의 GPU 인프라 투자 대비 뚜렷한 수익 모델 부재라는 악재가 공존합니다. 이는 단순한 기술 평가가 아니라 재무 에이전트(QA)와 거시 에이전트(MS) 간의 고차원적인 전략 토론(Strategic Debate) 능력을 보여주는 데 적합합니다.
-    target_companies = ["MU"] # "MSFT", "INTC", "TSLA", "META", "AAPL"    #, ["MU"]
 
     for company in target_companies:
         print(f"\n{'='*80}")
@@ -307,18 +291,16 @@ async def main():
         run_dir = os.path.join(log_base_dir, run_dir_name)
         if not os.path.exists(run_dir):
             os.makedirs(run_dir)
-        target_months = ["2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10", "2026-11", "2026-12"] #
         
         # Load Forecast Data
-        data_path = os.path.join(parent_dir, "..", "B-MTGNN", "Bayesian", "12mo", "forecast", "data", f"{company}.txt")
+        data_path = os.path.join(forecast_dir, f"{company}.txt")
         
         if os.path.exists(data_path):
             with open(data_path, "r", encoding="utf-8") as f:
                 full_raw_data = f.read()
             print(f"Loaded Full Forecast Data from {data_path}")
         else:
-            print(f"Warning: File not found {data_path}. Using dummy data.")
-            full_raw_data = f"Dummy B-MTGNN Forecast Data: Upward trajectory projected over next 6 months with 95% confidence."
+            raise FileNotFoundError(data_path)
     
         meta_report_file = os.path.join(run_dir, f"{company}.txt")
         with open(meta_report_file, "w", encoding="utf-8") as meta_f:
@@ -332,7 +314,7 @@ async def main():
             print(f" Starting Debate for Target Month: {target_month}")
             print(f"{'='*80}")
             
-            # Mask future data
+            # Omit forecast values after the selected month.
             masked_raw_data = mask_forecast_data(full_raw_data, target_month)
             
             forecast_data = f"""Target Company: {company}
@@ -342,7 +324,7 @@ Target Validation Month: {target_month}
 {masked_raw_data}
 
 **Data Format**:
-- Raw Data: Historical multimodal input features for {company} from January 2014 to December 2025 (144 months). These values are NOT the AFCI target and are numerically masked to prevent confusion.
+- Historical Data: Observed AFCI for {company} from January 2014 to December 2025 (144 months), used as continuity context. The compact data contract above distinguishes history from future forecasts.
 - Forecast: Future AFCI values for {company} up to {target_month}. These are the only values to interpret as AI Firm Competitiveness Index predictions.
 - 95% Confidence: Authoritative +/- confidence width for the AFCI forecast.
 - Variance: Authoritative AFCI forecast predictive variance.
@@ -411,7 +393,7 @@ Target Validation Month: {target_month}
                 meta_f.write("-" * 80 + "\n\n")
     
         print(f"\n{'='*80}")
-        print(f"All 6 months completed. Meta Report saved to: {meta_report_file}")
+        print(f"All {len(target_months)} months completed. Meta Report saved to: {meta_report_file}")
     
     end_time = time.time()
     mins = int((end_time - start_time) // 60)
@@ -419,4 +401,10 @@ Target Validation Month: {target_month}
     print(f"\nTotal runtime: {mins}m {secs:.2f}s")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    import argparse
+    parser = argparse.ArgumentParser(description='Run evidence-grounded agent reasoning on B-MTGNN forecasts.')
+    parser.add_argument('--companies', nargs='+', required=True)
+    parser.add_argument('--months', nargs='+', required=True, help='Evaluation months in YYYY-MM format')
+    parser.add_argument('--forecast-dir', required=True, help='Directory containing per-firm forecast TXT files')
+    cli = parser.parse_args()
+    asyncio.run(main(cli.companies, cli.months, os.path.abspath(cli.forecast_dir)))

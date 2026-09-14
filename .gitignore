@@ -1,61 +1,32 @@
-# ─────────────────────────────────────────────────────────────
-# Secrets / environment variables  (never commit)
-# ─────────────────────────────────────────────────────────────
 .env
-*.env
+.env.*
 !.env.example
-**/.env
-!**/.env.example
-
-neo4j-start.bat
-
-# ─────────────────────────────────────────────────────────────
-# Local DB / index / build outputs
-# ─────────────────────────────────────────────────────────────
-*.db
-*.sqlite
-*.sqlite3
-*.sql
-Agent/data/yearly_queries*/
-
-# ─────────────────────────────────────────────────────────────
-# Python
-# ─────────────────────────────────────────────────────────────
+.idea/
+.jbeval/
 __pycache__/
 *.py[cod]
-*$py.class
-*.egg-info/
-.eggs/
-build/
-dist/
 .venv/
-venv/
-env/
-.ipynb_checkpoints/
-
-# ─────────────────────────────────────────────────────────────
-# Node.js / web UI (TemporalRAG frontend — regenerate via `npm install`)
-# ─────────────────────────────────────────────────────────────
 node_modules/
-**/node_modules/
-.cache/
-**/.cache/
-build/
-**/build/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# ─────────────────────────────────────────────────────────────
-# Logs / temp / editor
-# ─────────────────────────────────────────────────────────────
-*.log
-logs/
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-*.swp
-
-*_KR.md
-*_KR.txt
+*.db
+*.sqlite*
+# Third-party source material stays local until redistribution rights are checked.
+data_preparation/data/1_transcripts/
+data_preparation/data/2_topic/
+data_preparation/data/3_dataset/
+Agent/data/
+Agent/Multi_agent_Debate/logs/
+/data/
+/_smoke_outputs/
+/smoke/
+# Baseline outputs are generated locally; curated reference results stay tracked.
+/B-MTGNN/baseline/outputs/
+# Keep supplied checkpoints and profiles, not generated run history.
+B-MTGNN/Bayesian/*
+!B-MTGNN/Bayesian/6mo/
+!B-MTGNN/Bayesian/12mo/
+!B-MTGNN/Bayesian/24mo/
+!B-MTGNN/Bayesian/36mo/
+B-MTGNN/Bayesian/*/*
+!B-MTGNN/Bayesian/*/hp.txt
+!B-MTGNN/Bayesian/*/o_model.safetensors
+!B-MTGNN/Bayesian/*/provenance.json
