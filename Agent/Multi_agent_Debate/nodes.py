@@ -133,31 +133,244 @@ VLLM_MODEL = os.getenv("VLLM_MODEL", "casperhansen/deepseek-r1-distill-qwen-7b-a
 # Limit concurrent vLLM calls to avoid overwhelming the local server
 vllm_semaphore = asyncio.Semaphore(5)
 
+# Optional environment settings control temperature and random seeds.
+# Unset overrides leave the call's configured settings unchanged.
+LLM_STATS = {
+    "calls": 0, "errors": 0, "retries": 0,
+    "prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0,
+}
+
+
+def reset_llm_stats():
+    for k in LLM_STATS:
+        LLM_STATS[k] = 0
+
+
+def get_llm_stats():
+    return dict(LLM_STATS)
+
+
+def _exp_temperature(temperature: float) -> float:
+    """Scale call temperatures while preserving zero-temperature requests."""
+    scale = os.getenv("AGENT_TEMP_SCALE")
+    if not scale:
+        return temperature
+    try:
+        return max(0.0, min(2.0, float(temperature) * float(scale)))
+    except (TypeError, ValueError):
+        return temperature
+
+
+def _exp_seed():
+    s = os.getenv("AGENT_SEED")
+    if not s:
+        return None
+    try:
+        return int(s)
+    except (TypeError, ValueError):
+        return None
+
+
+def _exp_ar_k():
+    try:
+        return max(1, min(9, int(os.getenv("AR_JUDGE_K", "1"))))
+    except (TypeError, ValueError):
+        return 1
+
+
+def _exp_tau():
+    try:
+        return float(os.getenv("AR_TAU", "80.0"))
+    except (TypeError, ValueError):
+        return 80.0
+
+
+def _exp_critique_only():
+    return os.getenv("AR_CRITIQUE_ONLY", "").strip() not in ("", "0", "false", "False")
+
+
+def _exp_filter_ar_for_generator(text: str) -> str:
+    """Remove the numeric review score from revision feedback.
+    
+    Keep the verdict, rationale and requested improvements."""
+    if not text or not _exp_critique_only():
+        return text
+    out = []
+    for line in text.split("\n"):
+        if "Mathematical Confidence Score" in line:
+            out.append("**Mathematical Confidence Score:** [withheld from revision context]")
+            continue
+        out.append(line)
+    return "\n".join(out)
+
+
+def _parse_ar_json(response: str):
+    """Return (verdict, total, rationale, improvements) or None."""
+    try:
+        m = re.search(r"```json(.*?)```", response, re.DOTALL)
+        js = m.group(1).strip() if m else response[response.find("{"):response.rfind("}") + 1]
+        data = json.loads(js)
+        v = ARPeerReviewScore(**data)
+        return (v.formal_verdict,
+                v.score_logical + v.score_quantitative + v.score_fallacy,
+                v.rationale, v.required_improvements)
+    except Exception:
+        return None
+
+# Optional surface-form prompt transformations, enabled through PROMPT_VARIANT.
+# Preserve the output-format block when reordering criteria or role headers.
+_PV_RENAME = [("ROLE:", "PERSPECTIVE:"), ("STANCE:", "POSITION:"),
+              ("TONE:", "STYLE:"), ("FOCUS:", "SCOPE:")]
+_PV_ENUM = re.compile(r"^\d+\.[ \t]")
+# Start of the output-format block, which transformations must preserve.
+_PV_FMT_MARK = "OUTPUT STYLE GUIDELINES:"
+
+
+def _pv_is_persona(p):
+    return bool(re.search(r"(?m)^ROLE:", p)) and bool(re.search(r"(?m)^FOCUS:", p))
+
+
+def _pv_canon(s):
+    """Normalise away exactly the two things the variants are allowed to change:
+    an item's ordinal index, and a header's label."""
+    out = []
+    for x in s.split("\n"):
+        x = x.strip()
+        if not x:
+            continue
+        for old, new in _PV_RENAME:
+            if x.startswith(new):
+                x = old + x[len(new):]
+                break
+        x = _PV_ENUM.sub("", x, count=1)
+        out.append(x)
+    return sorted(out)
+
+
+def _pv_same_content(a, b):
+    return _pv_canon(a) == _pv_canon(b)
+
+
+def _pv_task_bounds(p):
+    """The TASK region: from the TASK: line to the start of the output-format
+    block, which must not be touched."""
+    i = p.find("\nTASK:")
+    if i < 0:
+        return None
+    j = p.find(_PV_FMT_MARK, i)
+    return (i, j if j > i else len(p))
+
+
+def _pv_swap_task_items(p):
+    """Swap adjacent enumerated TASK criteria, leaving an odd final item in place.
+    
+    Preserve the original sequence of ordinal markers, including zero-based lists."""
+    b = _pv_task_bounds(p)
+    if not b:
+        return p
+    i, j = b
+    head, body, tail = p[:i], p[i:j], p[j:]
+    parts = re.split(r"(?m)^(?=\d+\.[ \t])", body)
+    lead = parts[0]
+    items = [x for x in parts[1:] if _PV_ENUM.match(x)]
+    if len(items) < 2 or len(items) != len(parts) - 1:
+        return p
+    marks = [_PV_ENUM.match(x).group(0) for x in items]
+    for k in range(0, len(items) - 1, 2):
+        items[k], items[k + 1] = items[k + 1], items[k]
+    items = [marks[n] + _PV_ENUM.sub("", it, count=1) for n, it in enumerate(items)]
+    return head + lead + "".join(items) + tail
+
+
+def _pv_reorder_headers(p):
+    """Reverse and relabel ROLE, STANCE, TONE and FOCUS header lines.
+    
+    Move each label with its content and leave intervening non-header lines in place."""
+    b = _pv_task_bounds(p)
+    limit = b[0] if b else len(p)
+    lines = p.split("\n")
+    cut, seen = len(lines), 0
+    for n, l in enumerate(lines):          # only the block above TASK:
+        seen += len(l) + 1
+        if seen > limit:
+            cut = n
+            break
+    idx = [n for n in range(cut)
+           if any(lines[n].startswith(a) for a, _ in _PV_RENAME)]
+    if len(idx) < 2:
+        return p
+    block = [lines[n] for n in idx][::-1]
+    renamed = []
+    for l in block:
+        for a, new in _PV_RENAME:
+            if l.startswith(a):
+                l = new + l[len(a):]
+                break
+        renamed.append(l)
+    out = list(lines)
+    for n, l in zip(idx, renamed):
+        out[n] = l
+    return "\n".join(out)
+
+
+def _exp_prompt_variant(system_prompt):
+    v = (os.getenv("PROMPT_VARIANT") or "").strip().lower()
+    if not v or not system_prompt or not _pv_is_persona(system_prompt):
+        return system_prompt
+    if v == "v1":
+        out = _pv_swap_task_items(system_prompt)
+    elif v == "v2":
+        out = _pv_reorder_headers(system_prompt)
+    else:
+        return system_prompt
+    if not _pv_same_content(system_prompt, out):
+        print("    [PROMPT VARIANT] %s altered the content - passing through unchanged" % v)
+        return system_prompt
+    k = system_prompt.find(_PV_FMT_MARK)
+    if k >= 0 and out[out.find(_PV_FMT_MARK):] != system_prompt[k:]:
+        print("    [PROMPT VARIANT] %s touched the output-format block - passing through" % v)
+        return system_prompt
+    return out
+
+
+
+
 async def call_vllm(system_prompt: str, user_prompt: str, temperature: float = 0.3, max_retries: int = 5) -> str:
     """Async call to local vLLM instance with retry and concurrency limits"""
+    system_prompt = _exp_prompt_variant(system_prompt)
     payload = {
         "model": VLLM_MODEL,
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
-        "temperature": temperature,
+        "temperature": _exp_temperature(temperature),
         "max_tokens": 8192,
         "stream": False
     }
+    _exp_s = _exp_seed()
+    if _exp_s is not None:
+        payload["seed"] = _exp_s
+    LLM_STATS["calls"] += 1
     
     async with vllm_semaphore:
         for attempt in range(max_retries):
             try:
-                # Increase timeout to 300 seconds (5 minutes) for deep reasoning models
+                # Allow up to 300 seconds for a response.
                 timeout = aiohttp.ClientTimeout(total=300)
                 async with aiohttp.ClientSession(timeout=timeout) as session:
                     async with session.post(VLLM_URL, json=payload) as response:
                         if response.status == 200:
                             data = await response.json()
+                            _u = data.get("usage") or {}
+                            LLM_STATS["prompt_tokens"] += int(_u.get("prompt_tokens", 0) or 0)
+                            LLM_STATS["completion_tokens"] += int(_u.get("completion_tokens", 0) or 0)
+                            LLM_STATS["total_tokens"] += int(_u.get("total_tokens", 0) or 0)
+                            if attempt > 0:
+                                LLM_STATS["retries"] += attempt
                             message = data["choices"][0]["message"]
                             
-                            # DeepSeek-R1 splits reasoning and content. We only want the final content
+                            # Read the final content field rather than a separate reasoning field.
                             content = message.get("content", "")
                             
                             # Basic strip of <think> tags if they bled into content
@@ -168,6 +381,7 @@ async def call_vllm(system_prompt: str, user_prompt: str, temperature: float = 0
                             text = await response.text()
                             print(f"    [VLLM Warning] Attempt {attempt+1} failed with status {response.status}")
                             if attempt == max_retries - 1:
+                                LLM_STATS["errors"] += 1
                                 return f"[API ERROR {response.status}] {text}"
             except Exception as e:
                 print(f"    [VLLM Warning] Attempt {attempt+1} connection error: {e}")
@@ -178,9 +392,9 @@ async def call_vllm(system_prompt: str, user_prompt: str, temperature: float = 0
             await asyncio.sleep(2 ** attempt)
 
 def strip_references(text: str) -> str:
-    """Removes the appended RAG reference block from agent text before it is
-    used as LLM context in subsequent nodes. This prevents cross-agent RAG
-    block contamination and keeps each persona's reasoning independent."""
+    """Remove the appended RAG reference block before reusing an agent response.
+    
+    This avoids passing one agent's appended source list as another's analysis."""
     import re
     return re.sub(r'\n\n### RAG Documents Referenced by \w+ Agent\n.*', '', text, flags=re.DOTALL).strip()
 
@@ -193,9 +407,7 @@ def strip_stance_json(text: str) -> str:
 
 
 def strip_latex(text: str):
-    """Post-processing guard: converts any LaTeX math syntax that the LLM
-    may have hallucinated into plain-text equivalents. Applied only to
-    QA agent outputs since other agents comply without this."""
+    """Convert selected LaTeX math syntax in QA output to plain text."""
     # Remove display math blocks: \[...\] and $$...$$
     text = re.sub(r'\\\[\s*(.*?)\s*\\\]', r'\1', text, flags=re.DOTALL)
     text = re.sub(r'\$\$\s*(.*?)\s*\$\$', r'\1', text, flags=re.DOTALL)
@@ -456,10 +668,8 @@ Include only agents present in the Agent Responses. stance_score must be numeric
 
 def has_substantive_analysis(response: str, min_chars: int = 400) -> bool:
     """Detect JSON-only or near-empty responses before appending references.
-
-    This is intentionally permissive: agents should think freely. Citation and
-    grounding quality are handled later as warnings/scoring signals.
-    """
+    
+    This checks response form, not factual accuracy or citation support."""
     without_json = re.sub(r'```json\s*.*?\s*```', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
     without_headings = re.sub(r'[#*`\s-]+', '', without_json)
     return len(without_headings) >= min_chars
@@ -509,16 +719,12 @@ def append_references(response: str, agent_key: str, state: dict) -> str:
     agent_label = agent_key.upper()
     return f"{response.strip()}\n\n### RAG Documents Referenced by {agent_label} Agent\n{refs_deduped}"
 
-# ==========================================
 # Phase 0: Data Load (Will be handled before graph entry or as first node)
-# ==========================================
 def load_data_node(state: DebateState) -> DebateState:
     """Pass-through node since main.py pre-loads the data into state."""
     return state
 
-# ==========================================
 # Phase 1: Independent Statements
-# ==========================================
 def get_common(state: DebateState) -> str:
     return COMMON_INSTRUCTION.format(
         company_name=state["company_name"],
@@ -535,7 +741,7 @@ async def qa_node(state: DebateState) -> DebateState:
     
     response = await call_vllm(sys_prompt, user_prompt, temperature=0.2)
     response = await ensure_substantive_response("QA", response, sys_prompt, user_prompt)
-    response = strip_latex(response)  # Guard: remove any LaTeX the 7B model hallucinated
+    response = strip_latex(response)  # Convert model-emitted LaTeX to plain text.
     agent_stances = merge_agent_stance(state, "qa", response)
     response = append_references(response, "qa", state)
     return {"qa_statement": response, "agent_stances": agent_stances, "messages": [f"**QA Agent ({state['target_month']})**:\n{response}"]}
@@ -608,9 +814,7 @@ async def ar_node(state: DebateState) -> DebateState:
     response = append_references(response, "ar", state)
     return {"ar_statement": response, "agent_stances": agent_stances, "messages": [f"**AR Agent ({state['target_month']})**:\n{response}"]}
 
-# ==========================================
 # Phase 2: Cross Debate (Simplified sequential for LangGraph)
-# ==========================================
 async def cross_debate_node(state: DebateState) -> DebateState:
     print(f"  [Phase 2] QA Agent is defending in Cross Debate for {state['target_month']}...")
     # Strip the appended RAG block from BA's statement so the QA rebuttal LLM
@@ -654,7 +858,8 @@ Task:
     rev_count = state.get("revision_count", 0)
     if rev_count > 0:
         previous_qa_rebuttal = strip_stance_json(strip_references(state.get("qa_ba_debate", "")))
-        previous_ar_review = strip_references(state.get("ar_peer_review", ""))
+        previous_ar_review = _exp_filter_ar_for_generator(
+            strip_references(state.get("ar_peer_review", "")))
         ar_reason = state.get("ar_rejection_reason", "")
         user_prompt += f"""
 
@@ -684,7 +889,7 @@ Do not output JSON. End with a verbal verdict.
         
     qa_rebuttal = await call_vllm(sys_prompt, user_prompt, temperature=0.2)
     qa_rebuttal = await ensure_substantive_response("QA Rebuttal", qa_rebuttal, sys_prompt, user_prompt)
-    qa_rebuttal = strip_latex(qa_rebuttal)  # Guard: remove any LaTeX the 7B model hallucinated
+    qa_rebuttal = strip_latex(qa_rebuttal)  # Convert model-emitted LaTeX to plain text.
     agent_stances = merge_agent_stance(state, "qa_rebuttal", qa_rebuttal)
     qa_rebuttal = append_references(qa_rebuttal, "qa", state)
     
@@ -715,9 +920,8 @@ def _claim_sentences_with_docs(text: str) -> List[tuple]:
 
 def _keyword_overlap_score(claim: str, doc_text: str, company: str) -> int:
     stop = {"the", "and", "for", "with", "that", "this", "from", "into", "about", "would", "could", "should", "forecast", "afci", "company", "value", "month", "doc", "according"}
-    # Do not count the target ticker/company token as grounding by itself. Otherwise
-    # unrelated claims like "Fiserv cash yield drives MSFT" can pass merely because
-    # the cited document mentions MSFT. Require overlap in substantive event terms.
+    # A target-company token alone is insufficient for lexical grounding.
+    # Require overlap in substantive event terms beyond the firm name.
     company_terms = {company.lower()} if company else set()
     claim_words = {w.lower() for w in re.findall(r'[A-Za-z][A-Za-z0-9_-]{3,}', claim) if w.lower() not in stop and w.lower() not in company_terms}
     doc_words = {w.lower() for w in re.findall(r'[A-Za-z][A-Za-z0-9_-]{3,}', doc_text) if w.lower() not in stop and w.lower() not in company_terms}
@@ -749,13 +953,10 @@ def audit_citation_grounding(text: str, state: dict, min_overlap: int = 2) -> Li
 
 
 def detect_fabricated_specifics(text: str, state: dict) -> List[str]:
-    """Deprecated/no-op.
-
-    Regex-based fabrication detection caused false hard failures for real but
-    paraphrased facts and figures. Factual plausibility is now handled by AR as
-    contextual review, while automated hard failure is limited to nonexistent Doc
-    citations.
-    """
+    """Compatibility no-op; return an empty list of fabrication flags.
+    
+    Nonexistent citation IDs are checked separately. Factual assessment is left
+    to the contextual review rather than this helper."""
     return []
 
 
@@ -795,7 +996,6 @@ async def ar_peer_review_node(state: DebateState) -> DebateState:
         }
     if soft_grounding_warnings:
         print("    -> [WARNING] QA has soft grounding warnings; passing to AR for scoring instead of auto-rejecting.")
-    # ------------------------------------------------
     
     sys_prompt = AR_PEER_REVIEW_PROMPT.format(company_name=state["company_name"], target_month=state["target_month"], common=get_common(state), format_instruction="")
     rag = state.get("ar_rag_context") or state["rag_context"]
@@ -848,26 +1048,43 @@ async def ar_peer_review_node(state: DebateState) -> DebateState:
                 ar_score = 0.0
                 ar_reason = "Failed to output JSON format."
 
+    # Average K review scores for the same unchanged draft; do not select the maximum.
+    _ar_k = _exp_ar_k()
+    _ar_all = [ar_score]
+    if _ar_k > 1 and ar_verdict != "Parsing Error":
+        for _ in range(_ar_k - 1):
+            _resp = await call_vllm(sys_prompt, user_prompt, temperature=0.2)
+            _p = _parse_ar_json(_resp)
+            if _p is not None:
+                _ar_all.append(_p[1])
+        if len(_ar_all) > 1:
+            _mean = sum(_ar_all) / len(_ar_all)
+            print("    -> [AR] %d judgements of the same draft: %s -> mean %.2f"
+                  % (len(_ar_all), [round(x, 1) for x in _ar_all], _mean))
+            ar_review_text = ar_review_text.replace(
+                "**Mathematical Confidence Score:** %s" % ar_score,
+                "**Mathematical Confidence Score:** %.2f (mean of %d judgements: %s)"
+                % (_mean, len(_ar_all), ", ".join("%.1f" % x for x in _ar_all)))
+            ar_score = _mean
+    # Retain the individual reviews in the transcript for inspection.
+
     ar_review_text = append_references(ar_review_text, "ar", state)
     
     return {
         "ar_peer_review": ar_review_text,
         "ar_verdict": ar_verdict,
         "ar_confidence_score": ar_score,
-        "ar_rejection_reason": ar_reason if ar_score < 80.0 else None,
-        "revision_count": state.get("revision_count", 0) + (1 if ar_score < 80.0 else 0),
+        "ar_rejection_reason": ar_reason if ar_score < _exp_tau() else None,
+        "revision_count": state.get("revision_count", 0) + (1 if ar_score < _exp_tau() else 0),
         "messages": [f"**AR Peer Review ({state['target_month']})**:\n{ar_review_text}"]
     }
 
-# ==========================================
 # Phase 3: Synthesis
-# ==========================================
 def build_agreement_matrix(state: dict) -> tuple:
-    """Build deterministic continuous stance-score matrix and disagreement score.
-
-    AR is kept in the matrix for auditability but excluded from D(pi), because it is
-    a methodological gate rather than a strategic value-lens evaluator.
-    """
+    """Aggregate supplied stance scores into a matrix and population variance.
+    
+    This aggregation is deterministic given the scores; upstream stance extraction
+    may use an LLM. Retain AR in the matrix but exclude it from D(pi)."""
     stances = state.get("agent_stances") or {}
     ordered = ["qa", "fa", "ms", "ba", "rc", "qa_rebuttal", "ar"]
     rows = []
@@ -908,7 +1125,7 @@ def build_agreement_matrix(state: dict) -> tuple:
 
 
 async def moderator_node(state: DebateState) -> DebateState:
-    print(f"  [Phase 3] MJ Agent is Moderator/Judge for {state['target_month']}...")
+    print(f"  [Phase 3] MJ Agent(Moderator/Judge) is evaluating {state['target_month']}...")
     
     # Strip all appended RAG reference blocks from the debate history before
     # passing to the Moderator. The Moderator should evaluate analytical
@@ -968,8 +1185,7 @@ async def moderator_node(state: DebateState) -> DebateState:
             data = json.loads(json_str)
             parsed_score = ModeratorScore(**data)
 
-            # Deterministic score caps: do not rely on the Moderator LLM to obey
-            # scientific-validity caps when AR rejected or automated audit failed.
+            # Apply score caps when the AR gate rejects or the automated audit fails.
             ar_review_text_for_cap = str(state.get("ar_peer_review", ""))
             ar_verdict_lower = str(ar_verdict).lower()
             try:

@@ -6,12 +6,10 @@ from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from sec_api import QueryApi, ExtractorApi
 
-# 역할: 공식 CIK(Central Index Key)를 사용하여 30개 정예 AI 기업의 12년치(2014~2025) 
-#       원천 보고서(10-K, 10-Q, 20-F)를 100% 정확하게 수집한다.
-#       외국 FPI 기업(ASML, TSM 등)의 20-F는 Extractor API가 지원하지 않으므로 
-#       직접 HTML을 다운로드하여 BeautifulSoup으로 정제하여 누락을 방지한다.
-#       사용자 요청에 따라 6-K는 수집 대상에서 제외한다.
-# 결과: ../data/1_transcripts/[Ticker]/*.txt
+# Collect configured 10-K, 10-Q and 20-F filings by company CIK.
+# Use section extraction for domestic forms and HTML text extraction for 20-F.
+# 6-K filings are excluded by the configured form filter.
+# Write per-firm TXT archives under the configured output directory.
 
 CIK_MAPPING = {
     "MSFT": ["0000789019"],
@@ -64,7 +62,7 @@ def fetch_sec_filings(api_key: str, start_year: int, end_year: int, out_dir: str
     for idx, ticker in enumerate(TARGET_FIRMS):
         ciks = CIK_MAPPING[ticker]
         ciks_str = ", ".join(ciks)
-        # sec-api.io 검색 시에는 앞의 0을 제거해야 결과가 나옴
+        # Remove leading zeros from the CIK used in the search query.
         cik_queries = [cik.lstrip('0') for cik in ciks]
         cik_query_str = " OR ".join([f"cik:{cq}" for cq in cik_queries])
         
@@ -128,7 +126,7 @@ def fetch_sec_filings(api_key: str, start_year: int, end_year: int, out_dir: str
                 url = filing['linkToFilingDetails']
                 try:
                     text_content = ""
-                    # 미국 본토 기업 양식 (10-K, 10-Q)은 Extractor API 지원하므로 정밀 구역 추출
+                    # Extract the configured sections from domestic 10-K and 10-Q forms.
                     if form_type.startswith("10-K"):
                         text_content += extractor_api.get_section(url, "1", "text") or ""
                         text_content += "\n\n" + (extractor_api.get_section(url, "1A", "text") or "")
@@ -137,7 +135,7 @@ def fetch_sec_filings(api_key: str, start_year: int, end_year: int, out_dir: str
                         text_content += extractor_api.get_section(url, "part1item2", "text") or ""
                         text_content += "\n\n" + (extractor_api.get_section(url, "part2item1a", "text") or "")
                     
-                    # 외국 FPI 기업 양식 (20-F, 20-F/A)은 Extractor API 미지원하므로 직접 다운로드 후 정제
+                    # Download and parse HTML for foreign-issuer 20-F forms.
                     elif form_type.startswith("20-F"):
                         headers = {'User-Agent': 'AI Research Project research@ai-company.com'}
                         res = requests.get(url, headers=headers, timeout=20)

@@ -123,8 +123,6 @@ class dy_mixprop(nn.Module):
 
 
     def forward(self,x):
-        #adj = adj + torch.eye(adj.size(0)).to(x.device)
-        #d = adj.sum(1)
         x1 = torch.tanh(self.lin1(x))
         x2 = torch.tanh(self.lin2(x))
         adj = self.nconv(x1.transpose(2,1),x2)
@@ -217,8 +215,7 @@ class graph_constructor(nn.Module):
         adj = F.relu(torch.tanh(self.alpha*a))
         mask = torch.zeros(idx.size(0), idx.size(0)).to(self.device)
         mask.fill_(float('0'))
-        # Use deterministic tie-breaking instead of torch.rand_like to avoid
-        # RNG internal lock deadlock on Windows CPU under torch.no_grad().
+        # Use deterministic offsets to break graph-score ties without consuming random draws.
         tie_break = torch.arange(adj.size(1), device=adj.device).float() * 1e-6
         s1,t1 = (adj + tie_break.unsqueeze(0)).topk(self.k,1)
         mask.scatter_(1,t1,s1.fill_(1))

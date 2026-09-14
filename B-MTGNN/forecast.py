@@ -1,10 +1,10 @@
 import os
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 import matplotlib
-matplotlib.use('Agg')  # Non-interactive backend: prevents Windows GUI/thread stack overflow
+matplotlib.use('Agg')  # Use a non-interactive plotting backend.
 import numpy as np
 import torch
-torch.set_num_threads(1)  # Prevent OpenMP multi-thread conflicts on Windows CPU
+torch.set_num_threads(1)  # Limit CPU threading for the Windows execution path.
 import csv
 from collections import defaultdict
 from matplotlib import pyplot
@@ -14,6 +14,7 @@ from net import gtnet
 import pandas as pd
 import math
 from util import DataLoaderS
+from run_profile import load_profile
 
 pyplot.rcParams['savefig.dpi'] = 1200
 colours = [
@@ -35,6 +36,8 @@ def load_model(Data):
     arch_json = metadata.get("arch")
     if arch_json:
         arch = json.loads(arch_json)
+        if not arch.get('buildA_true', False):
+            raise ValueError('This checkpoint requires an external graph and is not supported by this release.')
         model = gtnet(
             arch["gcn_true"],
             arch["buildA_true"],
@@ -60,21 +63,16 @@ def load_model(Data):
             subtract_last=arch.get("subtract_last", True),
             weight_regularizer=arch.get("weight_regularizer", 1e-6),
             dropout_regularizer=arch.get("dropout_regularizer", 1e-5),
+            use_revin=arch.get('use_revin', True),
+            use_decomp=arch.get('use_decomp', True),
+            use_concrete_dropout=arch.get('use_concrete_dropout', True),
+            use_ar_branch=arch.get('use_ar_branch', True),
+            use_afci_feedback=arch.get('use_afci_feedback', True),
         ).to(device)
 
-        ret = model.load_state_dict(state_dict, strict=False)
-        if hasattr(ret, "missing_keys") and ret.missing_keys:
-            print("[load_state_dict] missing keys:", ret.missing_keys)
-        if hasattr(ret, "unexpected_keys") and ret.unexpected_keys:
-            print("[load_state_dict] unexpected keys:", ret.unexpected_keys)
+        model.load_state_dict(state_dict, strict=True)
     else:
-        arch = {"seq_length": args.seq_in_len}
-        print("[warn] No arch metadata in checkpoint. Falling back to partial load (strict=False).")
-        msd = model.state_dict()
-        filtered = {k: v for k, v in state_dict.items() if k in msd and v.shape == msd[k].shape}
-        msd.update(filtered)
-        model.load_state_dict(msd, strict=False)
-        print(f"[warn] Loaded {len(filtered)} / {len(msd)} tensors by shape-matching.")
+        raise ValueError('Checkpoint is missing architecture metadata; refusing a partial model load.')
     # Return arch alongside the model so callers can use seq_length, out_dim, etc.
     return model, arch
 
@@ -86,7 +84,7 @@ def exponential_smoothing(series, alpha):
     return result
 
 
-# Clip negative values (which can arise from smoothing) to zero
+# Clip negative values for the optional display path.
 def zero_negative_curves(data, forecast, attack, firms):
     for node in [attack] + list(firms):
         data[:, index[node]] = data[:, index[node]].clamp(min=0)
@@ -130,7 +128,7 @@ def distance_to_next_january(dt_index):
     return count
 
 
-# Plots the forecast of a focal node and all its connected nodes from the graph
+# Plot the focal firm and the supplied comparison firms.
 def plot_forecast(data, forecast, confidence, attack, firms, timeindex, index, col):
     data, forecast = zero_negative_curves(data, forecast, attack, firms)
     n = len(colours)
@@ -155,7 +153,7 @@ def plot_forecast(data, forecast, confidence, attack, firms, timeindex, index, c
     ax.fill_between(range(len(d_attack) - 1, (len(d_attack) + len(f_attack)) - 1), f_attack - (std_attack * 1.00), f_attack + (std_attack * 1.00), color=colours[counter % n], alpha=0.20, edgecolor='none')
     counter += 1
 
-    # Plot all connected nodes (firms/companies)
+    # Plot each comparison firm.
     for s in firms:
         d = torch.cat((data[:, index[s]], forecast[0:1, index[s]]), dim=0)
         f = forecast[:, index[s]]
@@ -169,8 +167,6 @@ def plot_forecast(data, forecast, confidence, attack, firms, timeindex, index, c
         ax.fill_between(range(len(d) - 1, (len(d) + len(f)) - 1), f - (std_c * 1.28), f + (std_c * 1.28), color=colours[counter % n], alpha=0.20, edgecolor='none')
         ax.fill_between(range(len(d) - 1, (len(d) + len(f)) - 1), f - (std_c * 1.00), f + (std_c * 1.00), color=colours[counter % n], alpha=0.25, edgecolor='none')
         
-        # Fill the gap between the focal node and this firm node in the forecast period only
-        #ax.fill_between(range(len(d_attack) - 1, (len(d_attack) + len(f_attack)) - 1), f_attack, f, color=colours[counter % n], alpha=0.1)
         
         counter += 1
 
@@ -208,7 +204,7 @@ def save_data(data, forecast, confidence, variance, col):
             ff.write('Variance: ' + str(variance[:, i].tolist()) + '\n')
 
 
-# Saves the monthly gap between the focal node and each connected node to a CSV file
+# Save monthly differences between the focal firm and the comparison firms.
 def save_gap(forecast, attack, firms, index):
     last_date = timeindex[-1]
     new_dates = pd.date_range(
@@ -232,19 +228,9 @@ def save_gap(forecast, attack, firms, index):
             writer.writerow(row)
 
 
-# Builds the graph of focal nodes and their connected nodes from the adjacency matrix CSV
-def build_graph(file_name):
-    graph = defaultdict(list)
-    df_adj = pd.read_csv(file_name, index_col=0)
-    nodes = list(df_adj.columns)
-
-    for i, node in enumerate(df_adj.index):
-        adj_nodes = [nodes[j] for j, val in enumerate(df_adj.iloc[i]) if float(val) > 0]
-        if adj_nodes:
-            graph[node].extend(adj_nodes)
-
-    print('Graph loaded with', len(graph), 'nodes with edges...')
-    return graph
+def comparison_pairs(firms):
+    """Report all ordered firm pairs; this does not construct a model adjacency."""
+    return {firm: [other for other in firms if other != firm] for firm in firms}
 
 
 if __name__ == '__main__':
@@ -252,21 +238,24 @@ if __name__ == '__main__':
     import os
     import argparse
 
-    # --num_runs : Number of Bayesian iterations (default 50)
-    # --run      : Bayesian/run_N folder number to use
+    # num_runs controls Monte Carlo forward passes, not training repetitions.
+    # run selects a named checkpoint directory under Bayesian/.
     run_parser = argparse.ArgumentParser(add_help=False)
     run_parser.add_argument("--num_runs", type=int, default=50)
-    run_parser.add_argument("--run", type=str, default=None)
+    run_parser.add_argument("--run", type=str, default="12mo")
+    run_parser.add_argument("--plots", action="store_true", help="Also render optional diagnostic figures")
+    run_parser.add_argument("--output-dir", help="Separate directory for newly generated forecasts")
     run_args, remaining_argv = run_parser.parse_known_args()
 
     num_runs = run_args.num_runs
+    if num_runs < 2:
+        raise ValueError('--num_runs must be at least 2 for the sample variance.')
     selected_run = run_args.run if run_args.run is not None else num_runs
 
     args = get_args(remaining_argv)
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     bayesian_base_dir = os.path.join(script_dir, "Bayesian")
-    #run_dir = os.path.join(bayesian_base_dir, f"run_{selected_run}")
     run_dir = os.path.join(bayesian_base_dir, f"{selected_run}")
 
     if not os.path.isdir(run_dir):
@@ -276,18 +265,37 @@ if __name__ == '__main__':
     if not os.path.isfile(model_path) or os.path.getsize(model_path) == 0:
         raise FileNotFoundError(f"[Error] Valid model file does not exist: {model_path}\n")
 
+    # Restore per-run normalization and partition settings before loading input.
+    profile = load_profile(run_dir, args.data, args.nodes_file)
+    args.split_policy = profile['split_policy']
+    args.test_reserve = profile['test_reserve']
+    args.valid_span = profile['valid_span']
+    args.normalize = profile.get('normalize', 2)
+    args.horizon = profile.get('horizon_offset', 1)
+    if args.split_policy == 'legacy':
+        print('[NOTICE] Historical compatibility profile; not a target-disjoint evaluation.')
+    # Scaling windows must match the model horizon before constructing the loader.
+    with safe_open(model_path, framework='pt', device='cpu') as handle:
+        checkpoint_arch = json.loads((handle.metadata() or {}).get('arch', '{}'))
+    if not checkpoint_arch.get('buildA_true', False):
+        raise ValueError('A learned-graph checkpoint with architecture metadata is required.')
+    args.seq_in_len = checkpoint_arch['seq_length']
+    args.seq_out_len = checkpoint_arch['out_dim']
+    output_dir = os.path.abspath(run_args.output_dir) if run_args.output_dir else os.path.join(run_dir, 'forecast')
+
     args.version    = f"run_{selected_run}"
     args.o_save     = model_path
-    args.images_dir = os.path.join(run_dir, "forecast", "plots", "")
-    args.file_dir   = os.path.join(run_dir, "forecast", "data", "")
-    args.gap_dir    = os.path.join(run_dir, "forecast", "gap", "")
+    args.images_dir = os.path.join(output_dir, "plots", "")
+    args.file_dir   = os.path.join(output_dir, "data", "")
+    args.gap_dir    = os.path.join(output_dir, "gap", "")
 
-    os.makedirs(args.images_dir, exist_ok=True)
+    if run_args.plots:
+        os.makedirs(args.images_dir, exist_ok=True)
     os.makedirs(args.file_dir,   exist_ok=True)
     os.makedirs(args.gap_dir,    exist_ok=True)
 
     print(f"Using model: {model_path}  ({os.path.getsize(model_path):,} bytes)")
-    print(f"Results saved to: {run_dir}/forecast/\n")
+    print(f"Results saved to: {output_dir}\n")
 
     device = torch.device(args.device) if torch.cuda.is_available() else torch.device("cpu")
 
@@ -301,23 +309,25 @@ if __name__ == '__main__':
         args.graph_file,
         args.normalize,
         args.seq_out_len,
-        nodes_file=args.nodes_file
+        nodes_file=args.nodes_file,
+        split_policy=args.split_policy,
+        test_reserve=args.test_reserve,
+        valid_span=args.valid_span,
+        num_eval=profile.get('num_eval', 7),
     )
 
     timeindex = pd.to_datetime(Data.timeindex, format="%Y-%m-%d")
     col = Data.col
     index = {c: i for i, c in enumerate(col)}
 
-    graph = build_graph(args.graph_file)
+    graph = comparison_pairs(col)
 
     dat = Data.dat[:, :, 0]          # target feature (index 0) for 2D plotting
     scale = Data.scale.cpu().numpy()[:, 0]
 
     print('\ndata shape:', dat.shape)
 
-    # Load model first so we can read seq_length from its saved arch.
-    # This allows models trained with different horizons (3, 6, 9, 12, 24, 36 mo)
-    # to all be run without manually adjusting seq_in_len in config.py.
+    # Restore the model architecture and weights from checkpoint metadata.
     model, arch = load_model(Data)
     model = model.to(device)
 
@@ -328,12 +338,7 @@ if __name__ == '__main__':
     X = X.unsqueeze(0)                          # [1, P, N, d]
     X = X.permute(0, 3, 2, 1).float().to(device)  # [1, d, N, P]
 
-    # -------------------------------------------------------------------------
-    # Run inference in a dedicated thread with a large stack (64 MB).
-    # On Windows the main thread has a very small default stack (~1 MB), which
-    # causes a silent C-level stack overflow (exit code 0xC00000FD) when
-    # PyTorch's forward pass (GNN + ConcreteDropout) recurses deeply.
-    # -------------------------------------------------------------------------
+    # Run inference in a worker with an enlarged stack for the Windows execution path.
     import threading
 
     _exc_holder = [None]
@@ -397,24 +402,25 @@ if __name__ == '__main__':
             smoothed_dat        = torch.stack(exponential_smoothing(all_n, 0.1))
             smoothed_confidence = torch.stack(exponential_smoothing(confidence_n, 0.1))
 
-            # Plot and save gap for each focal node and its connected neighbours
+            # Write gap tables for all comparison firms; optionally render plots.
             for attack, firms in graph.items():
-                plot_forecast(
-                    smoothed_dat[:-forecast_len, ],
-                    smoothed_dat[-forecast_len:, ],
-                    smoothed_confidence,
-                    attack,
-                    firms,
-                    timeindex,
-                    index,
-                    col
-                )
+                if run_args.plots:
+                    plot_forecast(
+                        smoothed_dat[:-forecast_len, ],
+                        smoothed_dat[-forecast_len:, ],
+                        smoothed_confidence,
+                        attack,
+                        firms,
+                        timeindex,
+                        index,
+                        col
+                    )
                 save_gap(smoothed_dat[-forecast_len:, ], attack, firms, index)
 
         except Exception as e:
             _exc_holder[0] = e
 
-    # 64 MB stack – well above the GNN forward recursion depth
+    # Allocate a 64 MB stack for the inference worker.
     threading.stack_size(64 * 1024 * 1024)
     worker = threading.Thread(target=_run_inference)
     worker.start()

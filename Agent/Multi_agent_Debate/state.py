@@ -33,7 +33,7 @@ class DebateState(TypedDict):
     ar_statement: Optional[str]
 
     # 2-1. Agent Stances (structured stance extraction per agent for agreement matrix)
-    # Each entry: {"stance": int(-1|0|1), "evidence_summary": str, "value_lens": [str]}
+    # Entries carry stance_score in [-1, 1] and associated evidence/lens fields.
     agent_stances: Annotated[Optional[dict], merge_dicts]
 
     # 3. Phase 2: Cross Debate

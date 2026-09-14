@@ -9,11 +9,9 @@ from sentence_transformers import SentenceTransformer, util
 import argparse
 from dotenv import load_dotenv
 
-# 역할: 수집된 SEC 보고서(Business, Risk, MD&A 통합본)를 분석하여 9가지 핵심 AI 섹터 노출도를 계산한다.
-#       BGE(Big-data General Embedding) 모델을 사용하여 문맥적 의미를 파악한다.
-#       각 기업별로 2013-09부터 2025-12까지 분기별(Quarterly: 03, 06, 09, 12월) 시계열 그리드를 구축하고
-#       결측치는 분기 단위 전진채움(Forward-Fill)을 적용하여 완전한 스코어링 테이블을 완성한다.
-# 결과: data/2_topic/topic_vectors.csv
+# Compute nine sector-exposure scores from archived SEC text using BGE embeddings.
+# Aggregate filings to calendar quarters and forward-fill the quarterly grid.
+# Default output: data/2_topic/topic_vectors.csv.
 
 TARGET_FIRMS = [
     'MSFT', 'GOOGL', 'AMZN', 'META', 'AAPL',
@@ -23,7 +21,7 @@ TARGET_FIRMS = [
     'CSCO', 'STX', 'TSLA'
 ]
 
-# 9대 AI 비즈니스 섹터 정의 (OECD AI Taxonomy 반영)
+# Text descriptions used to embed the nine sector categories.
 SECTORS = {
     "expo_topic_semiconductors": "Semiconductors, AI hardware accelerators, GPUs, TPUs, NPUs, and manufacturing hardware (OECD D5).",
     "expo_topic_cloud": "Cloud computing infrastructure, IaaS, distributed computing, and AI training clusters (OECD D5).",
@@ -37,7 +35,7 @@ SECTORS = {
 }
 
 def refine_sec_text(text: str) -> str:
-    """SEC 보고서 특유의 노이즈와 법률적 상용구(Boilerplate)를 정밀하게 제거."""
+    """Remove numeric tokens and the configured boilerplate terms from SEC text."""
     text = re.sub(r'&#\d+;', ' ', text)
     text = re.sub(r'\b\d+\b', ' ', text)
     
@@ -56,7 +54,7 @@ def refine_sec_text(text: str) -> str:
     return text
 
 def load_transcripts(data_dir: str) -> pd.DataFrame:
-    """수집된 텍스트 파일을 로드하고 메타데이터(티커, 날짜)를 추출함."""
+    """Load archived text and parse ticker/date fields from filenames."""
     search_pattern = os.path.join(data_dir, "**/*.txt")
     files = glob.glob(search_pattern, recursive=True)
     records = []
@@ -89,13 +87,13 @@ def load_transcripts(data_dir: str) -> pd.DataFrame:
     return df
 
 def run_zero_shot_nlp(df: pd.DataFrame, model_name: str) -> pd.DataFrame:
-    """임베딩 모델을 통해 AI 섹터별 노출도를 계산함."""
+    """Compute sector-exposure scores from text and sector-description embeddings."""
     print(f"\nInitializing NLP Model ({model_name})…")
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     print(f"  Using device: {device}")
     model = SentenceTransformer(model_name, device=device)
 
-    # 섹터 정의 인코딩
+    # Encode the sector descriptions once.
     sector_keys = list(SECTORS.keys())
     sector_embeddings = model.encode(list(SECTORS.values()), convert_to_tensor=True, show_progress_bar=False)
 
@@ -116,7 +114,7 @@ def run_zero_shot_nlp(df: pd.DataFrame, model_name: str) -> pd.DataFrame:
 
     doc_embeddings = torch.cat(doc_embeddings_list, dim=0)
 
-    # 코사인 유사도 계산 및 정규화
+    # Compute cosine similarities and normalize the sector scores.
     print("  Finalizing exposure vectors…")
     scores = util.cos_sim(doc_embeddings, sector_embeddings).cpu().numpy()
     scores = np.clip(scores, 0, None)
@@ -145,11 +143,11 @@ if __name__ == "__main__":
     df_raw = load_transcripts(args.data_dir)
     
     if not df_raw.empty:
-        # 1. 문서별 Exposure 점수 도출
+        # Score each archived document.
         df_final = run_zero_shot_nlp(df_raw, args.model)
         df_final.drop(columns=['text'], inplace=True)
         
-        # 1.5 비표준 회계연도(Fiscal Year)를 가진 기업들(예: NVDA, AVGO 등)의 공시 일자를 표준 분기 종료월(03, 06, 09, 12월)로 캘린더 매핑
+        # Map filename dates to calendar quarter-end months.
         def map_date_to_quarter_end(date_str):
             y, m = map(int, date_str.split('-'))
             if m in [1, 2, 3]:
@@ -163,13 +161,13 @@ if __name__ == "__main__":
         
         df_final['q_date'] = df_final['date'].apply(map_date_to_quarter_end)
         
-        # 동일 분기 내 중복 공시 데이터가 매핑될 경우 평균 노출도로 정규화
+        # Average multiple filing exposures assigned to the same firm-quarter.
         t_cols = list(SECTORS.keys())
         df_final_grouped = df_final.groupby(['firm_id', 'q_date'])[t_cols].mean().reset_index()
         df_final_grouped.rename(columns={'q_date': 'date'}, inplace=True)
         
-        # 2. 2013-09부터 2025-12까지 분기별(Quarterly: 03, 06, 09, 12월) 시계열 그리드 생성
-        # freq='Q'는 3, 6, 9, 12월의 말일을 반환하며, 포맷팅 시 정확히 YYYY-MM이 됨
+        # Build the requested quarterly grid for each firm.
+        # Quarter ends correspond to March, June, September and December.
         target_dates = pd.date_range(start=f'{args.start_month}-01', end=f'{args.end_month}-31', freq='QE').strftime('%Y-%m').tolist()
         
         grid = []
@@ -178,20 +176,20 @@ if __name__ == "__main__":
                 grid.append({'firm_id': firm, 'date': d})
         grid_df = pd.DataFrame(grid)
         
-        # 3. 분기 그리드에 스코어링 결과 Outer Join (역사적/이전 공시의 ffill 연산을 위해 전체 기간 유지)
+        # Keep earlier observations in the outer join for forward-filling.
         print("\nMerging sparse NLP scores into the quarterly timeline...")
         df_merged = pd.merge(grid_df, df_final_grouped, on=['firm_id', 'date'], how='outer')
         
-        # 4. 시간순 정렬 및 분기 단위 전진채움(Forward-Fill) 처리
+        # Sort chronologically and forward-fill within each firm.
         print("Applying quarterly forward-fill (ffill) grouping by firm...")
         df_merged.sort_values(by=['firm_id', 'date'], inplace=True)
         t_cols = list(SECTORS.keys())
         df_merged[t_cols] = df_merged.groupby('firm_id')[t_cols].ffill().fillna(0.0)
         
-        # 4.5 그리드 범위(2013-09 ~ 2025-12) 이외의 역사적 임시 행들 필터링하여 제외
+        # Restrict the filled results to the requested quarterly grid.
         df_merged = df_merged[df_merged['date'].isin(target_dates)]
         
-        # 5. 최종 데이터 정렬 저장
+        # Sort and save the final exposure table.
         df_merged.sort_values(by=['firm_id', 'date'], inplace=True)
         df_merged.to_csv(args.out_csv, index=False)
         print(f"\nQuarterly topic vectors sorted and saved to {args.out_csv}")

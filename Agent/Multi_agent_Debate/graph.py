@@ -50,11 +50,19 @@ def create_debate_graph():
     
     def check_ar_score(state: DebateState):
         score = state.get("ar_confidence_score", 100.0)
-        # revision_count is incremented only when a review fails. Allow at most
-        # three failed review/revision loops, matching the paper's max-iteration
-        # setting and avoiding the previous <= 3 off-by-one behavior.
+        # Repeat review while the score is below AR_TAU and the revision cap is not reached.
+        # AR_MAX_REVISIONS defaults to 5 and is constrained to the range 1-20.
         rev_count = state.get("revision_count", 0)
-        if score < 80.0 and rev_count < 5:
+        import os as _os
+        try:
+            _tau = float(_os.getenv("AR_TAU", "80.0"))
+        except (TypeError, ValueError):
+            _tau = 80.0
+        try:
+            _cap = max(1, min(20, int(_os.getenv("AR_MAX_REVISIONS", "5"))))
+        except (TypeError, ValueError):
+            _cap = 5
+        if score < _tau and rev_count < _cap:
             return "cross_debate"
         return "moderator"
         

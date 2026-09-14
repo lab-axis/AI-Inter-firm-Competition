@@ -11,8 +11,8 @@ import yfinance as yf
 from pytrends.request import TrendReq
 from dotenv import load_dotenv
 
-# 역할: 2014-2025년 (12년) 동안의 30개 정예 AI 핵심 기업 데이터를 수집한다.
-# 결과: data/3_dataset/model_ready_panel.csv & temp/*.csv
+# Assemble monthly data for the configured firms and construct AFCI.
+# Default outputs: data/3_dataset/data_set.csv and per-firm CSV caches in temp/.
 
 load_dotenv()
 
@@ -48,7 +48,7 @@ OECD_AI_TAXONOMY = {
 }
 _ALL_AI_KEYWORDS = [kw for sublist in OECD_AI_TAXONOMY.values() for kw in sublist]
 
-# EODHD 단어 가중치(Unigram) 매칭용 AI 키워드 세트 (다중 단어 구문 차단 및 매칭 누락 해결)
+# Single-token AI keywords used in EODHD word-weight queries.
 _EODHD_AI_UNIGRAMS = {
     'ai', 'openai', 'intelligence', 'neural', 'network', 'learning',
     'nlp', 'vision', 'generative', 'llm', 'gpt', 'transformer',
@@ -58,12 +58,12 @@ _EODHD_AI_UNIGRAMS = {
 # 1. API Functions (OpenAlex, EODHD, Google Trends)
 def fetch_openalex_paper_count(institution_id: str, year: int, month: int) -> int:
     if not institution_id: return 0
-    # ROR ID를 OpenAlex 규격에 맞는 full URL 형식(https://ror.org/...)으로 변환
+    # Expand the ROR identifier to its full URL form.
     ror_id = institution_id.replace("ror:", "https://ror.org/")
     last_day = calendar.monthrange(year, month)[1]
     pub_range = f"from_publication_date:{year}-{month:02d}-01,to_publication_date:{year}-{month:02d}-{last_day}"
     
-    # lineage 대신 institutions.ror 필터를 사용하여 정밀 조회
+    # Filter OpenAlex records by institution ROR identifier.
     params = {
         'filter': f'institutions.ror:{ror_id},{pub_range}', 
         'per-page': 1, 
@@ -78,8 +78,7 @@ def fetch_openalex_paper_count(institution_id: str, year: int, month: int) -> in
     return 0
 
 def fetch_eodhd_news(ticker_list: list, year: int, month: int, api_key: str) -> dict:
-    """EODHD의 공식 Financial News API(/api/news)를 조회하여 
-       뉴스 개수, 감성 분석 점수를 가져온다."""
+    """Retrieve news counts and sentiment scores from the EODHD news endpoint."""
     fallback = {'news_count': 0, 'news_sentiment': 0.0}
     if not api_key or api_key == 'your_eodhd_api_key_here': return fallback
     last_day = calendar.monthrange(year, month)[1]
@@ -117,8 +116,9 @@ def fetch_eodhd_news(ticker_list: list, year: int, month: int, api_key: str) -> 
     return fallback
 
 def fetch_eodhd_news_ai_exposure(ticker_list: list, year: int, month: int, api_key: str) -> float:
-    """EODHD의 공식 단어 가중치 API(/api/news-word-weights)를 조회하여 AI 테마 노출 비중을 계산한다.
-       All World 요금제 계정이므로 브래킷([]) 문자열 인코딩 문제 차단을 위해 쿼리 스트링 직접 빌드 방식을 적용한다."""
+    """Estimate AI-theme exposure using the EODHD word-weight endpoint.
+    
+    Construct the query string explicitly to preserve the bracketed parameter syntax."""
     if not api_key or api_key == 'your_eodhd_api_key_here': return 0.0
     last_day = calendar.monthrange(year, month)[1]
     from_date = f'{year}-{month:02d}-01'
@@ -126,7 +126,7 @@ def fetch_eodhd_news_ai_exposure(ticker_list: list, year: int, month: int, api_k
     
     for ticker in ticker_list:
         try:
-            # 브래킷 URL 인코딩 버그 차단용 수동 쿼리 빌드
+            # Preserve the endpoint's bracketed query parameters.
             url = 'https://eodhd.com/api/news-word-weights'
             query_str = f"s={ticker}&api_token={api_key}&fmt=json&filter[date_from]={from_date}&filter[date_to]={to_date}"
             full_url = f"{url}?{query_str}"
@@ -188,7 +188,7 @@ def get_oecd_momentum(start_month: str, end_month: str, cache_path: str) -> pd.S
     if not results: return pd.Series(0, index=pd.date_range(s_dt, e_dt, freq='MS'))
     combined = pd.concat(results, axis=1).mean(axis=1).round(2)
     
-    # temp 디렉토리 내부이므로 안심하고 저장하여 429 에러 방지
+    # Cache the series to avoid repeating the request on later runs.
     combined.to_csv(cache_path)
     print(f"  > Saved OECD AI Momentum to cache: {cache_path}")
     return combined
@@ -233,7 +233,7 @@ def collect_firm_data(firm: str, target_dates: list, eodhd_key: str, oecd_moment
         stock = hist_dict.get(ym, {})
         dt_idx = pd.to_datetime(f"{ym}-01")
         
-        # EODHD API 호출: 일반 뉴스 데이터(/api/news) 및 프리미엄 단어 가중치 데이터(/api/news-word-weights) 연동
+        # Retrieve news statistics and AI word-weight exposure.
         news_data = fetch_eodhd_news(tickers, y, mo, eodhd_key)
         ai_exposure = fetch_eodhd_news_ai_exposure(tickers, y, mo, eodhd_key)
         
@@ -259,7 +259,7 @@ def calculate_afci(df: pd.DataFrame) -> pd.DataFrame:
     vars_to_scale = ['paper_count', 'news_impact', 'news_ai_exposure', 'gt_firm_attention', 'gt_ai_momentum']
     df[vars_to_scale] = df[vars_to_scale].fillna(0.0)
     
-    # 1. 월별 횡단면 Min-Max 스케일링 수행
+    # Apply cross-sectional min-max scaling within each month.
     df_scaled = df.copy()
     for col in vars_to_scale:
         min_series = df.groupby('date')[col].transform('min')
@@ -267,25 +267,25 @@ def calculate_afci(df: pd.DataFrame) -> pd.DataFrame:
         range_series = max_series - min_series
         df_scaled[col] = np.where(range_series > 1e-8, (df[col] - min_series) / range_series, 0.0)
         
-    # 2. 당월 AFCI 복합 지수 계산 (민맥스 스케일 피처 평균)
+    # Average the scaled features to obtain the monthly composite flow.
     df_scaled['AFCI_MinMax'] = df_scaled[vars_to_scale].mean(axis=1)
     
-    # 3. 날짜와 기업 기준으로 피벗하여 지수적 감가상각(PIM) 재귀 연산 수행
+    # Pivot by date and firm before applying the stock-accumulation recurrence.
     df_scaled.sort_values(by=['date', 'firm_id'], inplace=True)
     df_pivot = df_scaled.pivot(index='date', columns='firm_id', values='AFCI_MinMax').sort_index()
     
-    # 반감기(Half-Life) 기반 월별 감가상각률(delta) 동적 계산 (예측 타겟 12개월 매칭)
+    # Convert the 12-month half-life into a monthly depreciation rate.
     half_life_months = 12.0
     delta = 1.0 - (0.5 ** (1.0 / half_life_months)) # delta ≈ 0.056126 (5.61% decay/month)
     
     df_pim = pd.DataFrame(index=df_pivot.index, columns=df_pivot.columns, dtype=float)
     
-    # 첫 달은 그대로 대입
+    # Initialize the stock from the first month's composite flow.
     df_pim.iloc[0] = df_pivot.iloc[0]
     for t in range(1, len(df_pivot)):
         df_pim.iloc[t] = (1.0 - delta) * df_pim.iloc[t - 1] + df_pivot.iloc[t]
         
-    # 4. 피벗된 PIM 값을 다시 기존 long-format dataframe인 df에 매핑 후 저장
+    # Map the accumulated stock back to the long-format panel.
     pim_series = df_pim.stack()
     pim_series.index.names = ['date', 'firm_id']
     pim_series.name = 'AFCI'
@@ -317,15 +317,15 @@ if __name__ == '__main__':
     
     print(f"=== Pipeline | {args.start_month} ~ {args.end_month} | Checkpoint Enabled ===")
     
-    # 1. OECD 지수
+    # Load or collect the OECD momentum series.
     oecd_momentum = get_oecd_momentum(args.start_month, args.end_month, oecd_cache_path)
     
-    # 2. 기업별 개별 수집 및 개별 CSV 저장
+    # Collect and cache each firm's monthly records.
     total_firms = len(TARGET_FIRMS)
     for i, firm in enumerate(TARGET_FIRMS):
         collect_firm_data(firm, target_dates, eodhd_key, oecd_momentum, temp_dir, i+1, total_firms)
 
-    # 3. 모든 개별 CSV 병합
+    # Merge the per-firm CSVs.
     print("\nMerging all collected firm data…")
     all_files = [os.path.join(temp_dir, f"{f}.csv") for f in TARGET_FIRMS if os.path.exists(os.path.join(temp_dir, f"{f}.csv"))]
     if not all_files:
@@ -334,24 +334,24 @@ if __name__ == '__main__':
         
     df = pd.concat([pd.read_csv(f) for f in all_files])
     
-    # 4. SEC 토픽 통합
+    # Merge SEC-derived topic exposures.
     if os.path.exists(args.topic_csv):
         topic_df = pd.read_csv(args.topic_csv)
-        # 2013-09, 2013-12 등의 과거 분기 공시 데이터를 살려서 2014년 초반으로 전진 채우기 위해 outer join 사용
+        # Keep earlier quarterly observations so they can fill the start of the panel.
         df = pd.merge(df, topic_df, on=['firm_id', 'date'], how='outer')
         df.sort_values(by=['firm_id', 'date'], inplace=True)
         t_cols = [c for c in df.columns if c.startswith('expo_topic_')]
         if t_cols: 
             df[t_cols] = df.groupby('firm_id')[t_cols].ffill().fillna(0.0)
             
-        # 전진 채움이 완료된 후 분석 대상 타겟 범위(2014-01 ~ 2025-12)만 남기기
+        # Restrict the filled panel to the requested analysis period.
         df = df[(df['date'] >= args.start_month) & (df['date'] <= args.end_month)]
         df.sort_values(by=['firm_id', 'date'], inplace=True)
     
-    # 5. AFCI 및 최종 저장
+    # Construct AFCI and save the panel.
     df = calculate_afci(df)
     
-    # 컬럼 이름 및 최종 순서 정렬
+    # Set output column names and order.
     if 'stock_return_1m' in df.columns:
         df.rename(columns={'stock_return_1m': 'stock_return'}, inplace=True)
         
